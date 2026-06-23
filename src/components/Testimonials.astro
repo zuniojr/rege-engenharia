@@ -1,51 +1,170 @@
 ---
+const testimonials = [
+  {
+    text: "Fizemos o móvel de estante de aço e parede com a detalie. Rosa (proprietária), atendeu de forma eficiente e atenciosa. Santos de outubro a entrega da Navegantes, nós auxiliou e tranquilizou sobre qualquer dúvida durante a fabricação.",
+    name: "Maria Teresa Dalla Vecchia",
+    avatar: "/images/avatar-maria.jpg",
+    stars: 5
+  },
+  {
+    text: "A princípio de marcelaría mais lindo, pelo trabalho e atenção do Diegão! Muito profissional, atencioso e comprometido. Nos ajudou, esclareceu qualquer dúvida que poderia surgir do inicio da vida. e nos apresentou o conteúdo de soluções personalizadas para cada espaço da minha casa.",
+    name: "Cleiton Luiz",
+    avatar: "/images/avatar-cleiton.jpg",
+    stars: 5
+  },
+  {
+    text: "Móveis de alta qualidade e lindíssimos. Recomendo o Diego para os ambientes.",
+    name: "Ana Paula Matos Jaguet",
+    avatar: "/images/avatar-ana.jpg",
+    stars: 5
+  },
+  {
+    text: "Umas das melhores experiências com marcenaria, entregas pontuais, moveis de alta qualidade com acabamentos perfeitos, fora a atenção \"Detalhê\" a sensibilidade para solucionar soluções e desejos. Super recomendo!!",
+    name: "Andres Garrido",
+    avatar: "/images/avatar-andres.jpg",
+    stars: 5
+  }
+];
+
+function getInitials(name: string) {
+  return name.split(' ').map(n => n[0]).slice(0, 2).join('').toUpperCase();
+}
 ---
-<section class="testimonials">
-  <div class="testimonials-overlay"></div>
-  <div class="container testimonials-content">
-    <h2 class="section-title" style="color: var(--color-white)">O que nossos clientes dizem</h2>
-    <div class="testimonial-card">
-      <p>"A Detaliê transformou minha casa! O nível de detalhamento e acabamento é impecável. Recomendo de olhos fechados."</p>
-      <div class="author">- Cliente Satisfeito</div>
+
+<section class="testimonials-section" id="depoimentos">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">DEPOIMENTOS</h2>
+      <p class="section-subtitle">VEJA O QUE OS CLIENTES DIZEM SOBRE NÓS.</p>
+    </div>
+
+    <div class="testimonials-grid">
+      {testimonials.map((t) => (
+        <div class="testimonial-card">
+          <p class="testimonial-text">{t.text}</p>
+          <div class="testimonial-author">
+            <div class="author-avatar">
+              <span>{getInitials(t.name)}</span>
+            </div>
+            <span class="author-name">{t.name}</span>
+          </div>
+          <div class="stars">
+            {Array.from({ length: t.stars }).map(() => (
+              <span class="star">★</span>
+            ))}
+          </div>
+        </div>
+      ))}
     </div>
   </div>
 </section>
 
 <style>
-  .testimonials {
-    position: relative;
+  .testimonials-section {
     padding: var(--spacing-xl) 0;
-    background-image: url('/images/ambientes-personalizados.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    text-align: center;
+    background-color: #ffffff;
   }
-  .testimonials-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .section-title {
+    font-family: var(--font-section);
+    font-size: 3rem;
+    color: var(--color-black);
+    margin: 0 0 0.5rem;
+    letter-spacing: 1px;
+  }
+
+  .section-subtitle {
+    font-family: var(--font-heading);
+    font-size: 0.85rem;
+    color: var(--color-gray-medium);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+  }
+
+  .testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+  }
+
+  .testimonial-card {
+    padding: 1.5rem 0;
+    border-top: 1px solid #e0e0e0;
+  }
+
+  .testimonial-text {
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    line-height: 1.8;
+    color: var(--color-gray);
+    margin: 0 0 1.25rem;
+  }
+
+  .testimonial-author {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .author-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #e8a020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    overflow: hidden;
+  }
+
+  .author-avatar span {
+    color: #ffffff;
+    font-family: var(--font-heading);
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  .author-avatar img {
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    object-fit: cover;
   }
-  .testimonials-content {
-    position: relative;
-    z-index: 1;
-    color: var(--color-white);
+
+  .author-name {
+    font-family: var(--font-heading);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-dark);
   }
-  .testimonial-card {
-    max-width: 800px;
-    margin: 0 auto;
+
+  .stars {
+    display: flex;
+    gap: 2px;
+    padding-left: 52px;
   }
-  .testimonial-card p {
-    font-size: 1.5rem;
-    font-style: italic;
-    margin-bottom: 1rem;
+
+  .star {
+    color: #e8a020;
+    font-size: 1rem;
   }
-  .author {
-    font-weight: bold;
-    font-size: 1.2rem;
-    color: var(--color-blue);
+
+  /* Responsivo */
+  @media (max-width: 768px) {
+    .testimonials-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .section-title {
+      font-size: 2.5rem;
+    }
   }
 </style>
