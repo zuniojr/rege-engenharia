@@ -1,0 +1,122 @@
+---
+---
+<!-- Top Bar (white) -->
+<header class="top-bar">
+  <div class="container top-bar-inner">
+    <span class="top-bar-item">
+      <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13" aria-hidden="true">
+        <path d="M6.62 10.79a15.15 15.15 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.11-.27 11.72 11.72 0 0 0 3.7.59 1 1 0 0 1 1 1v3.44a1 1 0 0 1-1 1A17 17 0 0 1 2 4a1 1 0 0 1 1-1h3.44a1 1 0 0 1 1 1 11.72 11.72 0 0 0 .59 3.7 1 1 0 0 1-.27 1.1l-2.2 2.2z"/>
+      </svg>
+      <a href="tel:+5547992184100">(47) 99218 4100</a>
+    </span>
+    <span class="top-bar-sep">|</span>
+    <span class="top-bar-item">
+      <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13" aria-hidden="true">
+        <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/>
+      </svg>
+      <a href="https://www.google.com/maps/place/R.+On%C3%B3rio+Bortolato,+2517" target="_blank" rel="noopener noreferrer">Rua Onório Bortolato, 2517 – Navegantes – SC</a>
+    </span>
+  </div>
+</header>
+
+<!-- Main Header (black, sticky) -->
+<header class="main-header">
+  <div class="container nav-bar-inner">
+    <a href="/" class="nav-logo">
+      <img src="/images/logo.png" alt="Detaliê Móveis Sob Medida" width="220" height="74" />
+    </a>
+    <nav class="nav-menu" aria-label="Menu principal">
+      <a href="/">Início</a>
+      <a href="/quem-somos">Quem Somos</a>
+      <a href="/produtos-e-servicos">Produtos e Serviços</a>
+      <a href="/blog">Blog</a>
+      <a href="/contato">Contato</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  /* Containers */
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Top Bar */
+  .top-bar {
+    background: #ffffff;
+    color: #333;
+    padding: 0;
+    border-bottom: 1px solid #e0e0e0;
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+  }
+  .top-bar-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0.2rem 0;
+    font-size: 0.82rem;
+    font-family: var(--font-body);
+    color: #333;
+  }
+  .top-bar-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .top-bar-item a {
+    color: #444;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .top-bar-item a:hover { color: var(--color-blue); }
+  .top-bar-item svg { color: #333; flex-shrink: 0; }
+  .top-bar-sep { color: #ccc; font-size: 0.9rem; }
+
+  /* Main Header */
+  .main-header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #040506;
+  }
+  .nav-bar-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.4rem 0;
+  }
+  .nav-logo img { max-width: 220px; width: 100%; height: auto; }
+  .nav-menu {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+  .nav-menu a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+    white-space: nowrap;
+  }
+  .nav-menu a:hover { color: #a0b4cc; border-bottom-color: #a0b4cc; }
+
+  /* Mobile */
+  @media (max-width: 768px) {
+    .nav-menu { display: none; }
+    .nav-bar-inner { justify-content: center; }
+    .top-bar-sep { display: none; }
+    .top-bar-inner { flex-direction: column; gap: 0.25rem; text-align: center; }
+  }
+</style>

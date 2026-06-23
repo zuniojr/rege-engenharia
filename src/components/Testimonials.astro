@@ -1,0 +1,51 @@
+---
+---
+<section class="testimonials">
+  <div class="testimonials-overlay"></div>
+  <div class="container testimonials-content">
+    <h2 class="section-title" style="color: var(--color-white)">O que nossos clientes dizem</h2>
+    <div class="testimonial-card">
+      <p>"A Detaliê transformou minha casa! O nível de detalhamento e acabamento é impecável. Recomendo de olhos fechados."</p>
+      <div class="author">- Cliente Satisfeito</div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .testimonials {
+    position: relative;
+    padding: var(--spacing-xl) 0;
+    background-image: url('/images/ambientes-personalizados.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+  }
+  .testimonials-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .testimonials-content {
+    position: relative;
+    z-index: 1;
+    color: var(--color-white);
+  }
+  .testimonial-card {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .testimonial-card p {
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+  .author {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: var(--color-blue);
+  }
+</style>

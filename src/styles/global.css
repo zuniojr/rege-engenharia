@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&family=Karla:wght@400;600&family=Open+Sans:wght@400;600&family=Poppins:wght@500;800&display=swap');
+
+:root {
+  --color-black: #040506;
+  --color-dark: #222222;
+  --color-blue: #1c4477;
+  --color-white: #ffffff;
+  --color-gray-light: #f1f7f6;
+  --color-gray: #555555;
+  --color-gray-medium: #909092;
+
+  --font-hero: 'Poppins', sans-serif;
+  --font-section: 'Barlow Condensed', sans-serif;
+  --font-heading: 'Karla', sans-serif;
+  --font-body: 'Open Sans', sans-serif;
+
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 6rem;
+  
+  --transition: all 0.3s ease;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-gray);
+  background-color: var(--color-white);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-black);
+  line-height: 1.2;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: var(--transition);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-sm);
+}
+
+.btn {
+  display: inline-block;
+  background-color: var(--color-blue);
+  color: var(--color-white);
+  padding: 0.8rem 2rem;
+  font-family: var(--font-hero);
+  font-weight: 500;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: none;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.btn:hover {
+  background-color: var(--color-black);
+}
+
+.section-title {
+  font-family: var(--font-section);
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: var(--spacing-lg);
+  color: var(--color-black);
+}
+
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: var(--spacing-md);
+  }
+}
