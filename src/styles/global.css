@@ -1,25 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&family=Karla:wght@400;600&family=Open+Sans:wght@400;600&family=Poppins:wght@500;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800&family=Archivo+Expanded:wght@700;800&family=Bitter:ital,wght@0,400;1,400;1,600&display=swap');
 
 :root {
-  --color-black: #040506;
-  --color-dark: #222222;
-  --color-blue: #1c4477;
-  --color-white: #ffffff;
-  --color-gray-light: #f1f7f6;
-  --color-gray: #555555;
-  --color-gray-medium: #909092;
+  --navy: #1b2430;
+  --navy-2: #232f40;
+  --sand: #e7ded0;
+  --sand-2: #d8cbb4;
+  --white: #f7f5f1;
+  --ink: #111820;
+  --line: rgba(255, 255, 255, 0.12);
 
-  --font-hero: 'Poppins', sans-serif;
-  --font-section: 'Barlow Condensed', sans-serif;
-  --font-heading: 'Karla', sans-serif;
-  --font-body: 'Open Sans', sans-serif;
+  --color-black: var(--ink);
+  --color-dark: var(--navy);
+  --color-blue: var(--navy-2);
+  --color-white: var(--white);
+  --color-gray-light: var(--sand);
+  --color-gray: #333333;
+  --color-gray-medium: #8a8478;
+
+  --font-hero: 'Archivo Expanded', sans-serif;
+  --font-section: 'Archivo Expanded', sans-serif;
+  --font-heading: 'Archivo', sans-serif;
+  --font-body: 'Archivo', sans-serif;
 
   --spacing-sm: 1rem;
   --spacing-md: 2rem;
   --spacing-lg: 4rem;
   --spacing-xl: 6rem;
   
-  --transition: all 0.3s ease;
+  --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
 * {
@@ -30,15 +38,15 @@
 
 body {
   font-family: var(--font-body);
-  color: var(--color-gray);
-  background-color: var(--color-white);
+  color: var(--ink);
+  background-color: var(--white);
   line-height: 1.6;
   overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--color-black);
-  line-height: 1.2;
+  color: var(--navy);
+  line-height: 1.25;
 }
 
 a {
@@ -62,21 +70,39 @@ img {
 
 .btn {
   display: inline-block;
-  background-color: var(--color-blue);
-  color: var(--color-white);
-  padding: 0.8rem 2rem;
+  background-color: var(--navy);
+  color: var(--white);
+  padding: 0.9rem 2.2rem;
   font-family: var(--font-hero);
-  font-weight: 500;
-  border-radius: 4px;
+  font-weight: 700;
+  border-radius: 3px;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  border: none;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  border: 1px solid transparent;
   cursor: pointer;
   transition: var(--transition);
 }
 
 .btn:hover {
-  background-color: var(--color-black);
+  background-color: transparent;
+  color: var(--navy);
+  border-color: var(--navy);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(27, 36, 48, 0.12);
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: var(--navy);
+  border: 1px solid var(--navy);
+}
+
+.btn-secondary:hover {
+  background-color: var(--navy);
+  color: var(--white);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(27, 36, 48, 0.12);
 }
 
 .section-title {

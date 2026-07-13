@@ -1,51 +1,47 @@
 ---
-const differentials = [
+const services = [
   {
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>`,
-    title: "Variedade de Produtos",
-    text: "Ampla variedade de materiais, além de móveis planejados feitos sob medida e diversas opções de cores e layout."
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 3-9.6 9.6"/><path d="m15.5 7.5 3 3"/><path d="m18.5 4.5 3 3"/></svg>`,
+    title: "Da Concepção à Chave na Mão",
+    text: "Cuidamos de todo o processo da sua obra, desde os primeiros esboços arquitetônicos e modelagem 3D até a limpeza pós-obra e a entrega final das chaves. Tranquilidade absoluta para você.",
+    theme: "navy"
   },
   {
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/><path d="M5 3 2 6"/><path d="m22 6-3-3"/><path d="M6.38 18.7 4 21"/><path d="M17.64 18.67 20 21"/></svg>`,
-    title: "Prazo de Entrega",
-    text: "Um dos diferenciais da Detaliê Móveis Sob Medida é o seu compromisso com o prazo de entrega. A empresa trabalha com agilidade e eficiência para garantir que os projetos sejam entregues no prazo estabelecido, evitando atrasos e transtornos para os clientes."
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22V4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v18"/><path d="M10 6h4"/><path d="M10 10h4"/><path d="M8 14h8"/><path d="M8 18h8"/></svg>`,
+    title: "Projetos Personalizados",
+    text: "Desenvolvemos de forma integrada projetos de arquitetura, design de interiores, cálculo estrutural e instalações. Soluções inteligentes pensadas sob medida para o seu estilo de vida.",
+    theme: "sand"
   },
   {
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" x2="9.01" y1="9" y2="9"/><line x1="15" x2="15.01" y1="9" y2="9"/></svg>`,
-    title: "Atendimento Especializado",
-    text: "Nossa equipe de especialistas disponibilizam um atendimento personalizado para auxiliar na definição dos melhores produtos para sua casa. Com atenção aos detalhes e um compromisso com a satisfação do cliente, a Detaliê Móveis Sob Medida busca superar as expectativas em cada projeto."
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/><circle cx="10" cy="15" r="2"/><path d="m11.5 16.5 3 3"/></svg>`,
+    title: "Aprovações e Regularizações",
+    text: "Toda a burocracia legal simplificada. Atuamos na aprovação de projetos junto à Prefeitura, licenciamento do Corpo de Bombeiros, averbações e regularização completa de registros de imóveis.",
+    theme: "navy"
   },
   {
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="5" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/></svg>`,
-    title: "Pagamento Facilitado",
-    text: "Temos como um dos nossos diferenciais oferecer preços competitivos no mercado, sem abrir mão da qualidade dos nossos produtos e serviços. Além disso, buscamos facilitar as condições de pagamento, oferecendo opções variadas que se adequam às necessidades de cada cliente."
-  },
-  {
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></svg>`,
-    title: "Projetos Sob Medida",
-    text: "Nossos projetos são personalizados para atender às necessidades específicas de cada cliente. Trabalhamos em estreita colaboração com os clientes para criar soluções sob medida que se adaptem ao seu estilo de vida e orçamento."
-  },
-  {
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></svg>`,
-    title: "Garantia Diferenciada",
-    text: "Oferecemos garantia diferenciada em nossos produtos e serviços, assegurando a qualidade e durabilidade dos materiais utilizados em nossos projetos. A Detaliê Móveis Sob Medida trabalha com os melhores fornecedores do mercado, que oferecem produtos de alta qualidade."
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 22h20"/><path d="M16 22V2h-4v20"/><path d="M12 5h8"/><path d="M12 9h8"/><path d="M8 22V10H4v12"/></svg>`,
+    title: "Execução & Gestão de Obras",
+    text: "Gestão técnica rigorosa do canteiro de obras. Garantimos fidelidade ao projeto, cumprimento dos prazos, controle financeiro transparente, uso de materiais certificados e máxima segurança estrutural.",
+    theme: "sand"
   }
 ];
 ---
 
-<section class="differentials-section" id="diferenciais">
+<section class="services-section" id="diferenciais">
   <div class="container">
     <div class="section-header">
-      <span class="subtitle">A VARIEDADE QUE VOCÊ PRECISA PARA DECORAR SEU ESPAÇO</span>
-      <h2 class="section-title">DIFERENCIAIS DA DETALIÊ</h2>
+      <span class="subtitle">CONFIANÇA E EXCELÊNCIA TÉCNICA</span>
+      <h2 class="section-title">SERVIÇOS & SOLUÇÕES</h2>
+      <p class="section-desc">Cuidamos de todo o processo para você focar no que realmente importa: a realização do seu sonho.</p>
     </div>
     
-    <div class="differentials-grid">
-      {differentials.map((diff) => (
-        <div class="differential-card">
-          <div class="icon-wrapper" set:html={diff.icon} />
-          <h3 class="card-title">{diff.title}</h3>
-          <p class="card-text">{diff.text}</p>
+    <div class="services-grid">
+      {services.map((svc) => (
+        <div class={`service-card service-${svc.theme}`}>
+          <div class="icon-wrapper" set:html={svc.icon} />
+          <h3 class="card-title">{svc.title}</h3>
+          <div class="card-divider"></div>
+          <p class="card-text">{svc.text}</p>
         </div>
       ))}
     </div>
@@ -53,92 +49,144 @@ const differentials = [
 </section>
 
 <style>
-  .differentials-section {
+  .services-section {
     padding: var(--spacing-xl) 0;
-    background-color: var(--color-white);
+    background-color: var(--white);
   }
   
   .section-header {
     text-align: center;
     margin-bottom: var(--spacing-lg);
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .subtitle {
     display: block;
-    font-size: 0.85rem;
-    color: var(--color-gray-medium);
+    font-size: 0.8rem;
+    color: var(--sand-2);
     text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-bottom: 0.5rem;
-    font-family: var(--font-heading);
-    font-weight: 600;
+    letter-spacing: 3px;
+    margin-bottom: 0.75rem;
+    font-family: var(--font-hero);
+    font-weight: 700;
   }
   
   .section-title {
-    font-family: var(--font-section);
-    font-size: 3rem;
-    color: var(--color-black);
+    font-family: var(--font-hero);
+    font-size: clamp(2rem, 4vw, 3rem);
+    color: var(--navy);
+    margin: 0 0 1rem 0;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
+
+  .section-desc {
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-size: 1.15rem;
+    color: #555;
     margin: 0;
-    letter-spacing: 1px;
   }
   
-  .differentials-grid {
+  .services-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
   }
   
-  .differential-card {
-    text-align: center;
-    padding: 1rem;
+  .service-card {
+    padding: 3rem 2.5rem;
+    border-radius: 4px;
+    transition: var(--transition);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .service-navy {
+    background-color: var(--navy);
+    color: var(--white);
+    border-color: transparent;
+  }
+  .service-navy .icon-wrapper {
+    color: var(--sand);
+  }
+  .service-navy .card-title {
+    color: var(--white);
+  }
+  .service-navy .card-divider {
+    background-color: var(--line);
+  }
+  .service-navy .card-text {
+    color: var(--sand-2);
+  }
+
+  .service-sand {
+    background-color: var(--sand);
+    color: var(--navy);
+    border-color: transparent;
+  }
+  .service-sand .icon-wrapper {
+    color: var(--navy);
+  }
+  .service-sand .card-title {
+    color: var(--navy);
+  }
+  .service-sand .card-divider {
+    background-color: rgba(27, 36, 48, 0.15);
+  }
+  .service-sand .card-text {
+    color: var(--navy-2);
+  }
+
+  .service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(27, 36, 48, 0.15);
   }
   
   .icon-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline-flex;
     margin-bottom: 1.5rem;
-    color: var(--color-dark);
   }
   
   .icon-wrapper :global(svg) {
-    width: 50px;
-    height: 50px;
-    stroke-width: 1.5;
+    width: 44px;
+    height: 44px;
   }
   
   .card-title {
-    font-family: var(--font-heading);
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: var(--color-black);
-    margin-bottom: 1rem;
+    font-family: var(--font-hero);
+    font-size: 1.4rem;
+    font-weight: 800;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .card-divider {
+    width: 40px;
+    height: 2px;
+    margin-bottom: 1.25rem;
   }
   
   .card-text {
     font-size: 0.95rem;
-    color: var(--color-gray-medium);
     line-height: 1.8;
-  }
-  
-  @media (max-width: 992px) {
-    .differentials-grid {
-      grid-template-columns: repeat(2, 1fr);
-      gap: 2rem;
-    }
+    margin: 0;
   }
   
   @media (max-width: 768px) {
-    .differentials-grid {
+    .services-grid {
       grid-template-columns: 1fr;
+      gap: 1.5rem;
     }
     
-    .section-title {
-      font-size: 2.5rem;
-    }
-    
-    .differentials-section {
-      padding: var(--spacing-lg) 0;
+    .service-card {
+      padding: 2rem 1.5rem;
     }
   }
 </style>

@@ -1,0 +1,55 @@
+---
+interface Props {
+  className?: string;
+  size?: number;
+}
+
+const { className = "", size = 60 } = Astro.props;
+---
+
+<div class={`logo-badge-container ${className}`} style={`width: ${size}px; height: ${size}px;`}>
+  <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="logo-svg">
+    <circle cx="50" cy="50" r="48" fill="var(--navy)" />
+    <text 
+      x="50" 
+      y="48" 
+      text-anchor="middle" 
+      font-family="var(--font-hero)" 
+      font-weight="800" 
+      font-size="16" 
+      fill="var(--white)" 
+      letter-spacing="0.5"
+    >REGÊ</text>
+    <text 
+      x="50" 
+      y="66" 
+      text-anchor="middle" 
+      font-family="var(--font-heading)" 
+      font-weight="700" 
+      font-size="6" 
+      fill="var(--sand)" 
+      letter-spacing="1.5"
+    >ENGENHARIA</text>
+  </svg>
+</div>
+
+<style>
+  .logo-badge-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    overflow: hidden;
+    transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  }
+  
+  .logo-badge-container:hover {
+    transform: scale(1.05);
+  }
+
+  .logo-svg {
+    width: 100%;
+    height: 100%;
+    user-select: none;
+  }
+</style>

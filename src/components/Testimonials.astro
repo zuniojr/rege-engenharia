@@ -1,57 +1,49 @@
 ---
 const testimonials = [
   {
-    text: "Fizemos o móvel de estante de aço e parede com a detalie. Rosa (proprietária), atendeu de forma eficiente e atenciosa. Santos de outubro a entrega da Navegantes, nós auxiliou e tranquilizou sobre qualquer dúvida durante a fabricação.",
-    name: "Maria Teresa Dalla Vecchia",
-    avatar: "/images/avatar-maria.jpg",
+    text: "A Regê Engenharia construiu a nossa residência do absoluto zero. A transparência no controle de custos e o cumprimento rigoroso dos prazos nos deixaram totalmente tranquilos. A entrega das chaves foi um sonho realizado.",
+    name: "Marcos & Flávia Silveira",
     stars: 5
   },
   {
-    text: "A princípio de marcelaría mais lindo, pelo trabalho e atenção do Diegão! Muito profissional, atencioso e comprometido. Nos ajudou, esclareceu qualquer dúvida que poderia surgir do inicio da vida. e nos apresentou o conteúdo de soluções personalizadas para cada espaço da minha casa.",
-    name: "Cleiton Luiz",
-    avatar: "/images/avatar-cleiton.jpg",
+    text: "Excelente gestão na execução do nosso galpão comercial. O rigor técnico em toda a estrutura de concreto armado e a organização do canteiro de obras foram exemplares. Entregaram exatamente o planejado.",
+    name: "Rodrigo Mendes",
     stars: 5
   },
   {
-    text: "Móveis de alta qualidade e lindíssimos. Recomendo o Diego para os ambientes.",
-    name: "Ana Paula Matos Jaguet",
-    avatar: "/images/avatar-ana.jpg",
-    stars: 5
-  },
-  {
-    text: "Umas das melhores experiências com marcenaria, entregas pontuais, moveis de alta qualidade com acabamentos perfeitos, fora a atenção \"Detalhê\" a sensibilidade para solucionar soluções e desejos. Super recomendo!!",
-    name: "Andres Garrido",
-    avatar: "/images/avatar-andres.jpg",
+    text: "Contratamos a Regê para a regularização completa do nosso imóvel e aprovação do projeto de prevenção de incêndio junto aos Bombeiros. Processo ágil, eficiente e sem burocracia para nós.",
+    name: "Juliana Ramos",
     stars: 5
   }
 ];
 
 function getInitials(name: string) {
-  return name.split(' ').map(n => n[0]).slice(0, 2).join('').toUpperCase();
+  return name.split(' ').filter(n => n !== '&').map(n => n[0]).slice(0, 2).join('').toUpperCase();
 }
 ---
 
 <section class="testimonials-section" id="depoimentos">
   <div class="container">
     <div class="section-header">
-      <h2 class="section-title">DEPOIMENTOS</h2>
-      <p class="section-subtitle">VEJA O QUE OS CLIENTES DIZEM SOBRE NÓS.</p>
+      <span class="subtitle">DEPOIMENTOS DE CLIENTES</span>
+      <h2 class="section-title">QUEM CONFIA NA REGÊ</h2>
+      <p class="section-desc">Histórias reais de sonhos construídos com segurança, dedicação e engenharia de excelência.</p>
     </div>
 
     <div class="testimonials-grid">
       {testimonials.map((t) => (
         <div class="testimonial-card">
-          <p class="testimonial-text">{t.text}</p>
+          <div class="stars">
+            {Array.from({ length: t.stars }).map(() => (
+              <span class="star">★</span>
+            ))}
+          </div>
+          <p class="testimonial-text">"{t.text}"</p>
           <div class="testimonial-author">
             <div class="author-avatar">
               <span>{getInitials(t.name)}</span>
             </div>
             <span class="author-name">{t.name}</span>
-          </div>
-          <div class="stars">
-            {Array.from({ length: t.stars }).map(() => (
-              <span class="star">★</span>
-            ))}
           </div>
         </div>
       ))}
@@ -62,109 +54,136 @@ function getInitials(name: string) {
 <style>
   .testimonials-section {
     padding: var(--spacing-xl) 0;
-    background-color: #ffffff;
+    background-color: var(--white);
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
   }
 
   .section-header {
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: var(--spacing-lg);
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  .section-title {
-    font-family: var(--font-section);
-    font-size: 3rem;
-    color: var(--color-black);
-    margin: 0 0 0.5rem;
-    letter-spacing: 1px;
-  }
-
-  .section-subtitle {
-    font-family: var(--font-heading);
-    font-size: 0.85rem;
-    color: var(--color-gray-medium);
+  .subtitle {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--sand-2);
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
+    margin-bottom: 0.75rem;
+    font-family: var(--font-hero);
+    font-weight: 700;
+  }
+  
+  .section-title {
+    font-family: var(--font-hero);
+    font-size: clamp(2rem, 4vw, 3rem);
+    color: var(--navy);
+    margin: 0 0 1rem 0;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
+
+  .section-desc {
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-size: 1.15rem;
+    color: #555;
     margin: 0;
   }
 
   .testimonials-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2.5rem;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
   }
 
   .testimonial-card {
-    padding: 1.5rem 0;
-    border-top: 1px solid #e0e0e0;
+    padding: 2.5rem 2rem;
+    background-color: var(--white);
+    border: 1px solid rgba(27, 36, 48, 0.06);
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: var(--transition);
+  }
+  .testimonial-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(27, 36, 48, 0.06);
+    border-color: rgba(27, 36, 48, 0.12);
   }
 
   .testimonial-text {
-    font-family: var(--font-body);
-    font-size: 0.9rem;
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-size: 1rem;
     line-height: 1.8;
-    color: var(--color-gray);
-    margin: 0 0 1.25rem;
+    color: var(--navy-2);
+    margin: 1rem 0 1.5rem;
+    flex-grow: 1;
   }
 
   .testimonial-author {
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    margin-bottom: 0.5rem;
+    border-top: 1px solid rgba(27, 36, 48, 0.08);
+    padding-top: 1.25rem;
   }
 
   .author-avatar {
-    width: 40px;
-    height: 40px;
+    width: 44px;
+    height: 44px;
     border-radius: 50%;
-    background-color: #e8a020;
+    background-color: var(--navy);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
-    overflow: hidden;
   }
 
   .author-avatar span {
-    color: #ffffff;
-    font-family: var(--font-heading);
+    color: var(--sand);
+    font-family: var(--font-hero);
     font-size: 0.85rem;
-    font-weight: 700;
-  }
-
-  .author-avatar img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    font-weight: 800;
   }
 
   .author-name {
-    font-family: var(--font-heading);
-    font-size: 0.85rem;
-    font-weight: 600;
-    color: var(--color-dark);
+    font-family: var(--font-hero);
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--navy);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
   }
 
   .stars {
     display: flex;
     gap: 2px;
-    padding-left: 52px;
+    margin-bottom: 0.5rem;
   }
 
   .star {
-    color: #e8a020;
-    font-size: 1rem;
+    color: var(--sand-2);
+    font-size: 1.1rem;
   }
 
   /* Responsivo */
+  @media (max-width: 992px) {
+    .testimonials-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
   @media (max-width: 768px) {
     .testimonials-grid {
       grid-template-columns: 1fr;
       gap: 1.5rem;
-    }
-
-    .section-title {
-      font-size: 2.5rem;
     }
   }
 </style>

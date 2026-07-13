@@ -1,10 +1,17 @@
 ---
+import LogoBadge from './LogoBadge.astro';
 ---
 <footer class="footer">
   <div class="container footer-content">
-    <div class="footer-col">
-      <img src="/images/logo.png" alt="Detaliê Móveis Sob Medida" width="150" />
-      <p>Transformando ambientes com móveis planejados de alto padrão.</p>
+    <div class="footer-col brand-col">
+      <div class="footer-logo-wrap">
+        <LogoBadge size={70} />
+        <div class="footer-logo-text">
+          <span class="logo-title">REGÊ</span>
+          <span class="logo-subtitle">ENGENHARIA</span>
+        </div>
+      </div>
+      <p class="brand-tagline">"Projetando espaços, construindo sonhos."</p>
     </div>
     <div class="footer-col">
       <h3>Contato</h3>
@@ -18,21 +25,24 @@
       <h3>Links Rápidos</h3>
       <ul>
         <li><a href="/">Início</a></li>
-        <li><a href="/quem-somos">Quem Somos</a></li>
-        <li><a href="/produtos-e-servicos">Produtos e Serviços</a></li>
+        <li><a href="#diferenciais">Serviços</a></li>
+        <li><a href="#portfolio">Portfólio</a></li>
+        <li><a href="#depoimentos">Depoimentos</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
-    <p>&copy; {new Date().getFullYear()} Detaliê Móveis Sob Medida. Todos os direitos reservados.</p>
+    <p>&copy; {new Date().getFullYear()} Regê Engenharia. Todos os direitos reservados. | Desenvolvido com sofisticação.</p>
   </div>
 </footer>
 
 <style>
   .footer {
-    background-color: var(--color-black);
-    color: var(--color-white);
+    background-color: var(--navy);
+    color: var(--white);
     padding: var(--spacing-lg) 0 0 0;
+    border-top: 1px solid var(--line);
+    font-family: var(--font-body);
   }
   .footer-content {
     display: grid;
@@ -40,35 +50,90 @@
     gap: 3rem;
     margin-bottom: var(--spacing-lg);
   }
+  
+  .brand-col {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .footer-logo-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .footer-logo-text {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Archivo Expanded', sans-serif;
+    font-weight: 800;
+    font-size: 1.5rem;
+    color: var(--white);
+    line-height: 1;
+    letter-spacing: 0.5px;
+  }
+  .footer-logo-text .logo-subtitle {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: var(--sand);
+    letter-spacing: 2px;
+    margin-top: 2px;
+  }
+  .brand-tagline {
+    font-family: var(--font-accent);
+    font-style: italic;
+    color: var(--sand);
+    font-size: 1.1rem;
+    margin: 0;
+    max-width: 300px;
+  }
+
   .footer-col h3 {
-    color: var(--color-white);
+    color: var(--white);
     margin-bottom: 1.5rem;
-    font-family: var(--font-heading);
-    font-size: 1.2rem;
+    font-family: var(--font-hero);
+    font-size: 1rem;
+    font-weight: 800;
     text-transform: uppercase;
+    letter-spacing: 1.5px;
+    position: relative;
+    padding-bottom: 0.5rem;
   }
-  .footer-col p {
-    margin-top: 1rem;
-    color: var(--color-gray-medium);
+  .footer-col h3::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 30px;
+    height: 2px;
+    background-color: var(--sand);
   }
+  
   .footer-col ul {
     list-style: none;
+    padding: 0;
+    margin: 0;
   }
   .footer-col ul li {
     margin-bottom: 0.8rem;
-    color: var(--color-gray-medium);
+    color: var(--sand-2);
+    font-size: 0.9rem;
+    transition: var(--transition);
   }
   .footer-col a {
-    color: var(--color-gray-medium);
+    color: var(--sand-2);
+    transition: var(--transition);
   }
   .footer-col a:hover {
-    color: var(--color-blue);
+    color: var(--white);
+    padding-left: 3px;
   }
   .footer-bottom {
-    background-color: #000;
+    background-color: var(--navy-2);
     text-align: center;
     padding: 1.5rem;
-    font-size: 0.9rem;
-    color: var(--color-gray-medium);
+    font-size: 0.85rem;
+    color: var(--sand-2);
+    border-top: 1px solid var(--line);
   }
 </style>

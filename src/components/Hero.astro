@@ -3,18 +3,22 @@
 <section class="hero">
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-    <h1>Móveis Planejados</h1>
-    <p>Transforme seus ambientes com móveis planejados de alto padrão - encontre a perfeição em cada detalhe.</p>
-    <a href="https://wa.me/5547992184100?text=Quero%20um%20orçamento%20grátis." class="btn hero-btn" target="_blank" rel="noopener noreferrer">Quero um orçamento</a>
+    <span class="hero-eyebrow">REGÊ ENGENHARIA</span>
+    <h1>PROJETANDO ESPAÇOS,<br />CONSTRUINDO SONHOS</h1>
+    <p>Da concepção à chave na mão, cuidamos de todo o processo para você focar no que realmente importa.</p>
+    <div class="hero-actions">
+      <a href="https://wa.me/5547992184100?text=Olá!%20Gostaria%20de%20conversar%20sobre%20um%20projeto." class="btn hero-btn" target="_blank" rel="noopener noreferrer">Falar com Especialista</a>
+      <a href="#portfolio" class="btn btn-secondary hero-btn-sec">Ver Projetos</a>
+    </div>
   </div>
 </section>
 
 <style>
   .hero {
     position: relative;
-    height: 80vh;
-    min-height: 500px;
-    background-image: url('/images/hero.webp');
+    height: 85vh;
+    min-height: 600px;
+    background-image: url('/images/hero-rege.webp');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -26,37 +30,93 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.6);
+    background: linear-gradient(135deg, rgba(27, 36, 48, 0.92) 20%, rgba(27, 36, 48, 0.5) 100%);
   }
   .hero-content {
     position: relative;
     z-index: 1;
-    text-align: center;
-    color: var(--color-white);
+    color: var(--white);
+    max-width: 850px;
+    margin-left: 0;
+    text-align: left;
+    padding-top: 2rem;
+  }
+  .hero-eyebrow {
+    display: block;
+    font-family: var(--font-hero);
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 4px;
+    color: var(--sand);
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    animation: fadeInUp 0.8s ease forwards;
   }
   .hero h1 {
     font-family: var(--font-hero);
-    font-size: 4.5rem;
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
     font-weight: 800;
-    margin-bottom: 1rem;
-    color: var(--color-white);
+    line-height: 1.05;
+    margin-bottom: 1.5rem;
+    color: var(--white);
     text-transform: uppercase;
+    letter-spacing: -1px;
+    animation: fadeInUp 1s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
   }
   .hero p {
-    font-size: 1.5rem;
-    max-width: 800px;
-    margin: 0 auto 2.5rem;
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-size: clamp(1.1rem, 2vw, 1.5rem);
+    max-width: 600px;
+    margin-bottom: 3rem;
+    color: var(--sand);
+    line-height: 1.5;
+    animation: fadeInUp 1.2s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
+  }
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    animation: fadeInUp 1.4s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
   }
   .hero-btn {
-    font-size: 1.2rem;
-    padding: 1rem 3rem;
+    font-size: 0.85rem;
+    padding: 1rem 2.5rem;
   }
-  @media (max-width: 768px) {
-    .hero h1 {
-      font-size: 3rem;
+  .hero-btn-sec {
+    font-size: 0.85rem;
+    padding: 1rem 2.5rem;
+    color: var(--white);
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+  .hero-btn-sec:hover {
+    background-color: var(--white);
+    color: var(--navy);
+    border-color: var(--white);
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
     }
-    .hero p {
-      font-size: 1.2rem;
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero {
+      height: auto;
+      padding: 6rem 0;
+    }
+    .hero-content {
+      text-align: center;
+      margin: 0 auto;
+    }
+    .hero-actions {
+      justify-content: center;
     }
   }
 </style>

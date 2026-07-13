@@ -1,79 +1,134 @@
 ---
-const categories = [
-  { name: 'Cozinha Planejada', img: 'cozinha.jpg' },
-  { name: 'Paineis Ripados', img: 'painel-ripado.webp' },
-  { name: 'Dormitórios', img: 'dormitorio.jpg' },
-  { name: 'Espaço Gourmet', img: 'espaco-gourmet.jpg' },
-  { name: 'Banheiro', img: 'banheiro.jpg' },
-  { name: 'Lavanderia', img: 'lavanderia.jpg' },
-  { name: 'Closet Planejado', img: 'closet.jpg' },
-  { name: 'Home Office', img: 'home-office.jpg' },
-  { name: 'Corporativo', img: 'corporativo.jpg' },
-  { name: 'Ambientes Personalizados', img: 'ambientes-personalizados.jpg' },
-  { name: 'Cabeceira de Cama e Porta de Correr', img: 'cabeceira-cama.jpg' },
-  { name: 'Painel de TV Sob Medida', img: 'painel-tv.jpg' }
+const projects = [
+  {
+    title: "Residencial Alto Padrão",
+    desc: "Execução completa de residência de luxo com alto nível de detalhamento estrutural.",
+    img: "obra-residencial.jpg",
+    tag: "OBRA RESIDENCIAL"
+  },
+  {
+    title: "Projeto Arquitetônico Moderno",
+    desc: "Desenho arquitetônico contemporâneo integrado ao cálculo de estrutura de concreto armado.",
+    img: "projeto-arquitetonico.jpg",
+    tag: "PROJETO & ENGENHARIA"
+  },
+  {
+    title: "Edifício Comercial Alfa",
+    desc: "Construção de empreendimento corporativo com otimização de prazo e controle de insumos.",
+    img: "obra-comercial.jpg",
+    tag: "OBRA COMERCIAL"
+  },
+  {
+    title: "Aprovação & Legalização",
+    desc: "Processamento completo de documentação, habite-se e regularização imobiliária.",
+    img: "regularizacao.jpg",
+    tag: "REGULARIZAÇÃO"
+  }
 ];
 ---
 
-<div class="gallery-section">
+<section class="gallery-section" id="portfolio">
   <div class="container">
-    <h2 class="section-title">Portfólio de Ambientes</h2>
+    <div class="section-header">
+      <span class="subtitle">PORTFÓLIO & REALIZAÇÕES</span>
+      <h2 class="section-title">NOSSOS PROJETOS</h2>
+      <p class="section-desc">Uma amostra do rigor técnico, qualidade e sofisticação que entregamos em cada obra.</p>
+    </div>
 
-    <!-- Primeira metade: 6 primeiros itens (2 linhas de 3) -->
     <div class="gallery-grid">
-      {categories.slice(0, 6).map((cat) => (
+      {projects.map((proj) => (
         <div class="gallery-card">
           <div class="gallery-img-wrap">
-            <img src={`/images/${cat.img}`} alt={cat.name} loading="lazy" />
+            <img src={`/images/${proj.img}`} alt={proj.title} loading="lazy" />
+            <div class="card-overlay">
+              <span class="card-tag">{proj.tag}</span>
+            </div>
           </div>
-          <p class="gallery-label">{cat.name.toUpperCase()}</p>
+          <div class="card-info">
+            <h3 class="proj-title">{proj.title}</h3>
+            <p class="proj-desc">{proj.desc}</p>
+          </div>
         </div>
       ))}
     </div>
   </div>
-</div>
+</section>
 
-<!-- Banner preto de largura total -->
+<!-- Banner institucional (Navy) com frase de impacto -->
 <div class="gallery-banner">
-  <p>MÓVEIS QUE SE ENCAIXAM PERFEITAMENTE NA SUA VIDA E NA SUA CASA.</p>
-</div>
-
-<!-- Segunda metade: 6 últimos itens (2 linhas de 3) -->
-<div class="gallery-section">
   <div class="container">
-    <div class="gallery-grid">
-      {categories.slice(6).map((cat) => (
-        <div class="gallery-card">
-          <div class="gallery-img-wrap">
-            <img src={`/images/${cat.img}`} alt={cat.name} loading="lazy" />
-          </div>
-          <p class="gallery-label">{cat.name.toUpperCase()}</p>
-        </div>
-      ))}
-    </div>
+    <p class="banner-quote">"Da concepção à chave na mão, nós estamos com você em cada etapa."</p>
+    <span class="banner-author">— REGÊ ENGENHARIA</span>
   </div>
 </div>
 
 <style>
   .gallery-section {
-    background-color: #ffffff;
-    padding: 2rem 0;
+    background-color: var(--white);
+    padding: var(--spacing-xl) 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: var(--spacing-lg);
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .subtitle {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--sand-2);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 0.75rem;
+    font-family: var(--font-hero);
+    font-weight: 700;
+  }
+  
+  .section-title {
+    font-family: var(--font-hero);
+    font-size: clamp(2rem, 4vw, 3rem);
+    color: var(--navy);
+    margin: 0 0 1rem 0;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
+
+  .section-desc {
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-size: 1.15rem;
+    color: #555;
+    margin: 0;
   }
 
   .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
   }
 
   .gallery-card {
-    text-align: center;
+    background-color: var(--white);
+    border: 1px solid rgba(27, 36, 48, 0.06);
+    border-radius: 4px;
+    overflow: hidden;
+    transition: var(--transition);
+  }
+  .gallery-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(27, 36, 48, 0.08);
   }
 
   .gallery-img-wrap {
+    position: relative;
     overflow: hidden;
-    border-radius: 6px;
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 16 / 10;
+    background-color: var(--navy-2);
   }
 
   .gallery-img-wrap img {
@@ -81,51 +136,88 @@ const categories = [
     height: 100%;
     object-fit: cover;
     display: block;
-    transition: transform 0.4s ease;
+    transition: transform 0.6s cubic-bezier(0.25, 0.8, 0.25, 1);
   }
 
-  .gallery-img-wrap:hover img {
+  .gallery-card:hover .gallery-img-wrap img {
     transform: scale(1.05);
   }
 
-  .gallery-label {
-    font-family: var(--font-heading);
-    font-size: 0.85rem;
-    font-weight: 600;
-    color: var(--color-dark);
-    letter-spacing: 1px;
-    margin: 0.75rem 0 0;
-    text-transform: uppercase;
+  .card-overlay {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 2;
   }
-
-  /* Banner preto */
-  .gallery-banner {
-    width: 100%;
-    background-color: #111111;
-    text-align: center;
-    padding: 2rem 1rem;
-  }
-
-  .gallery-banner p {
-    color: #ffffff;
-    font-family: var(--font-heading);
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin: 0;
+  .card-tag {
+    background-color: var(--navy);
+    color: var(--sand);
+    padding: 0.35rem 0.8rem;
+    font-size: 0.7rem;
     font-weight: 700;
+    letter-spacing: 1.5px;
+    font-family: var(--font-hero);
+    border-radius: 2px;
+    text-transform: uppercase;
+  }
+
+  .card-info {
+    padding: 1.5rem 1.75rem;
+  }
+
+  .proj-title {
+    font-family: var(--font-hero);
+    font-weight: 800;
+    font-size: 1.25rem;
+    color: var(--navy);
+    margin: 0 0 0.5rem 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .proj-desc {
+    font-size: 0.92rem;
+    color: #666;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* Banner institucional */
+  .gallery-banner {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--navy-2) 100%);
+    padding: 4.5rem 1.5rem;
+    text-align: center;
+    color: var(--white);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .banner-quote {
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+    color: var(--sand);
+    margin: 0 0 1rem 0;
+    line-height: 1.4;
+  }
+
+  .banner-author {
+    font-family: var(--font-hero);
+    font-weight: 700;
+    font-size: 0.8rem;
+    letter-spacing: 3px;
+    color: var(--white);
+    opacity: 0.7;
   }
 
   /* Responsivo */
-  @media (max-width: 992px) {
-    .gallery-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-
-  @media (max-width: 576px) {
+  @media (max-width: 768px) {
     .gallery-grid {
       grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+    .gallery-section {
+      padding: var(--spacing-lg) 0;
     }
   }
 </style>

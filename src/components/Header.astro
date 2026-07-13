@@ -1,4 +1,5 @@
 ---
+import LogoBadge from './LogoBadge.astro';
 ---
 <!-- Top Bar (white) -->
 <header class="top-bar">
@@ -7,7 +8,7 @@
       <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13" aria-hidden="true">
         <path d="M6.62 10.79a15.15 15.15 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.11-.27 11.72 11.72 0 0 0 3.7.59 1 1 0 0 1 1 1v3.44a1 1 0 0 1-1 1A17 17 0 0 1 2 4a1 1 0 0 1 1-1h3.44a1 1 0 0 1 1 1 11.72 11.72 0 0 0 .59 3.7 1 1 0 0 1-.27 1.1l-2.2 2.2z"/>
       </svg>
-      <a href="tel:+5547992184100">(47) 99218 4100</a>
+      <a href="tel:+5547992184100">(47) 99218-4100</a>
     </span>
     <span class="top-bar-sep">|</span>
     <span class="top-bar-item">
@@ -19,18 +20,19 @@
   </div>
 </header>
 
-<!-- Main Header (black, sticky) -->
+<!-- Main Header (glassmorphism navy, sticky) -->
 <header class="main-header">
   <div class="container nav-bar-inner">
-    <a href="/" class="nav-logo">
-      <img src="/images/logo.png" alt="Detaliê Móveis Sob Medida" width="220" height="74" />
+    <a href="/" class="nav-logo" aria-label="Regê Engenharia Home">
+      <LogoBadge size={54} />
+      <span class="nav-logo-text">REGÊ <span>ENGENHARIA</span></span>
     </a>
     <nav class="nav-menu" aria-label="Menu principal">
       <a href="/">Início</a>
-      <a href="/quem-somos">Quem Somos</a>
-      <a href="/produtos-e-servicos">Produtos e Serviços</a>
-      <a href="/blog">Blog</a>
-      <a href="/contato">Contato</a>
+      <a href="#diferenciais">Serviços</a>
+      <a href="#portfolio">Portfólio</a>
+      <a href="#depoimentos">Depoimentos</a>
+      <a href="https://wa.me/5547992184100?text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento." target="_blank" rel="noopener noreferrer" class="nav-cta-btn">Orçamento</a>
     </nav>
   </div>
 </header>
@@ -38,79 +40,120 @@
 <style>
   /* Containers */
   .container {
-    max-width: 960px;
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 0 2rem;
+    padding: 0 var(--spacing-sm);
     width: 100%;
     box-sizing: border-box;
   }
 
   /* Top Bar */
   .top-bar {
-    background: #ffffff;
-    color: #333;
-    padding: 0;
-    border-bottom: 1px solid #e0e0e0;
+    background: var(--white);
+    color: var(--navy);
+    border-bottom: 1px solid rgba(27, 36, 48, 0.08);
     font-family: var(--font-body);
     font-size: 0.82rem;
   }
   .top-bar-inner {
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    padding: 0.2rem 0;
-    font-size: 0.82rem;
-    font-family: var(--font-body);
-    color: #333;
+    justify-content: space-between;
+    padding: 0.4rem var(--spacing-sm);
   }
   .top-bar-item {
     display: inline-flex;
     align-items: center;
-    gap: 0.35rem;
+    gap: 0.5rem;
+    font-weight: 600;
   }
   .top-bar-item a {
-    color: #444;
+    color: var(--navy);
     text-decoration: none;
-    transition: color 0.2s;
+    transition: var(--transition);
   }
-  .top-bar-item a:hover { color: var(--color-blue); }
-  .top-bar-item svg { color: #333; flex-shrink: 0; }
-  .top-bar-sep { color: #ccc; font-size: 0.9rem; }
+  .top-bar-item a:hover { color: var(--sand-2); }
+  .top-bar-item svg { color: var(--navy); flex-shrink: 0; opacity: 0.8; }
+  .top-bar-sep { color: rgba(27, 36, 48, 0.2); font-size: 0.9rem; }
 
   /* Main Header */
   .main-header {
     position: sticky;
     top: 0;
     z-index: 1000;
-    background: #040506;
+    background: rgba(27, 36, 48, 0.96);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--line);
+    padding: 0.6rem 0;
   }
   .nav-bar-inner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0.4rem 0;
   }
-  .nav-logo img { max-width: 220px; width: 100%; height: auto; }
+  
+  .nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
+  }
+  .nav-logo-text {
+    font-family: 'Archivo Expanded', sans-serif;
+    font-weight: 800;
+    font-size: 1.3rem;
+    color: var(--white);
+    letter-spacing: 0.5px;
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+  }
+  .nav-logo-text span {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.65rem;
+    color: var(--sand);
+    letter-spacing: 2px;
+    margin-top: 2px;
+  }
+
   .nav-menu {
     display: flex;
     align-items: center;
     gap: 2rem;
   }
   .nav-menu a {
-    color: #ffffff;
+    color: var(--white);
     text-decoration: none;
     font-family: var(--font-body);
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 0.88rem;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
     padding-bottom: 2px;
     border-bottom: 2px solid transparent;
-    transition: color 0.2s ease, border-color 0.2s ease;
-    white-space: nowrap;
+    transition: var(--transition);
   }
-  .nav-menu a:hover { color: #a0b4cc; border-bottom-color: #a0b4cc; }
+  .nav-menu a:hover:not(.nav-cta-btn) { 
+    color: var(--sand); 
+    border-bottom-color: var(--sand); 
+  }
+  
+  .nav-cta-btn {
+    background-color: var(--sand);
+    color: var(--navy) !important;
+    padding: 0.5rem 1.2rem;
+    border-radius: 3px;
+    font-weight: 700 !important;
+    border: 1px solid transparent !important;
+  }
+  .nav-cta-btn:hover {
+    background-color: transparent !important;
+    color: var(--sand) !important;
+    border-color: var(--sand) !important;
+    transform: translateY(-1px);
+  }
 
   /* Mobile */
   @media (max-width: 768px) {
