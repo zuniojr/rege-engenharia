@@ -1,10 +1,5 @@
 <a href="https://bitlybr.net/rege" class="floating-cta" target="_blank" rel="noopener noreferrer" aria-label="Falar no WhatsApp">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="whatsapp-svg">
-    <!-- Contorno branco do balão (sem preenchimento interno) -->
-    <path fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M3 21l1.9-5.7A8.5 8.5 0 1 1 21 11.5a8.5 8.5 0 0 1-16.1 3.8z"/>
-    <!-- Ícone do telefone preenchido em branco sólido -->
-    <path fill="#ffffff" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.424-.495.142-.165.19-.283.283-.472.094-.19.047-.353-.024-.495-.07-.142-.64-1.543-.877-2.11-.23-.556-.464-.48-.64-.49-.163-.008-.353-.01-.54-.01-.19 0-.495.07-.754.353-.26.283-.99 1.067-.99 2.602 0 1.536 1.12 3.018 1.272 3.224.153.206 2.2 3.36 5.328 4.71 1.705.736 2.457.822 3.336.69.585-.087 1.68-.687 1.916-1.353.235-.667.235-1.24.164-1.353-.07-.114-.26-.206-.542-.347"/>
-  </svg>
+  <img src="/images/whatsapp.png" alt="WhatsApp" class="whatsapp-img" />
 </a>
 
 <style>
@@ -12,14 +7,12 @@
     position: fixed;
     bottom: 30px;
     right: 30px;
-    background-color: #12c855; /* Verde vibrante idêntico à imagem */
-    border-radius: 50%;
     width: 60px;
     height: 60px;
+    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
     z-index: 1000;
     transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     animation: floating-pulse 2s infinite;
@@ -29,11 +22,13 @@
     transform: scale(1.08);
   }
 
-  .whatsapp-svg {
-    width: 32px;
-    height: 32px;
+  .whatsapp-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
     display: block;
-    filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));
+    border-radius: 50%;
+    filter: drop-shadow(0 2px 5px rgba(0,0,0,0.15));
   }
 
   @keyframes floating-pulse {
