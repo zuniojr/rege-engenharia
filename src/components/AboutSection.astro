@@ -1,0 +1,218 @@
+---
+---
+
+<section class="about-section" id="sobre">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-text-col">
+        <span class="subtitle reveal">QUEM SOMOS</span>
+        <h2 class="section-title reveal reveal-delay-1">ENGENHARIA E CONSTRUÇÃO COM PROPÓSITO</h2>
+        <div class="about-divider reveal reveal-delay-2"></div>
+        <p class="about-lead reveal reveal-delay-2">A Regê Engenharia nasceu com o objetivo de materializar projetos de forma transparente, técnica e sofisticada.</p>
+        <p class="about-desc reveal reveal-delay-3">
+          Com sede em Navegantes - SC, somos especializados no gerenciamento de obras residenciais e comerciais no modelo <strong>chave na mão (turnkey)</strong>. Cuidamos de cada etapa do processo construtivo: desde os estudos preliminares, modelagem de projetos integrados, orçamento executivo detalhado até a execução técnica no canteiro e a entrega das chaves.
+        </p>
+        <p class="about-desc reveal reveal-delay-4">
+          Nossa filosofia de trabalho une o rigor técnico da engenharia civil com o cuidado estético da arquitetura, oferecendo também serviços completos de regularizações imobiliárias e licenças, reduzindo ao máximo a burocracia para nossos clientes.
+        </p>
+        <div class="pillars-grid reveal reveal-delay-5">
+          <div class="pillar-item">
+            <span class="pillar-num">01</span>
+            <div class="pillar-info">
+              <h4>Transparência</h4>
+              <p>Relatórios financeiros claros e controle rígido de compras.</p>
+            </div>
+          </div>
+          <div class="pillar-item">
+            <span class="pillar-num">02</span>
+            <div class="pillar-info">
+              <h4>Qualidade</h4>
+              <p>Mão de obra qualificada e materiais rigorosamente certificados.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="about-img-col reveal reveal-delay-2">
+        <div class="img-frame">
+          <img src="/images/sobre-nos.png" alt="Reunião de planejamento e projetos na Regê Engenharia" loading="lazy" />
+          <div class="frame-border"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .about-section {
+    padding: var(--spacing-xl) 0;
+    background-color: var(--white);
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .about-text-col {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .subtitle {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--sand-2);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 0.75rem;
+    font-family: var(--font-hero);
+    font-weight: 700;
+  }
+
+  .section-title {
+    font-family: var(--font-hero);
+    font-size: clamp(2rem, 3.5vw, 2.8rem);
+    color: var(--navy);
+    margin: 0 0 1rem 0;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    line-height: 1.1;
+    text-align: left;
+  }
+
+  .about-divider {
+    width: 60px;
+    height: 3px;
+    background-color: var(--sand-2);
+    margin-bottom: 2rem;
+  }
+
+  .about-lead {
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-size: 1.25rem;
+    color: var(--navy-2);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+
+  .about-desc {
+    font-size: 0.98rem;
+    color: #555;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
+
+  .about-desc strong {
+    color: var(--navy);
+  }
+
+  .pillars-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-top: 1.5rem;
+    border-top: 1px solid rgba(27, 36, 48, 0.1);
+    padding-top: 2rem;
+    width: 100%;
+  }
+
+  .pillar-item {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .pillar-num {
+    font-family: var(--font-hero);
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--sand-2);
+    line-height: 1;
+  }
+
+  .pillar-info h4 {
+    font-family: var(--font-hero);
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--navy);
+    margin-bottom: 0.25rem;
+  }
+
+  .pillar-info p {
+    font-size: 0.88rem;
+    color: #666;
+    line-height: 1.5;
+  }
+
+  /* Image Column Frame */
+  .about-img-col {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .img-frame {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    max-width: 440px;
+  }
+
+  .img-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    box-shadow: 0 15px 35px rgba(27, 36, 48, 0.15);
+    position: relative;
+    z-index: 2;
+  }
+
+  .frame-border {
+    position: absolute;
+    top: 20px;
+    left: -20px;
+    right: 20px;
+    bottom: -20px;
+    border: 2px solid var(--sand-2);
+    border-radius: 4px;
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  /* Responsive */
+  @media (max-width: 992px) {
+    .about-grid {
+      grid-template-columns: 1fr;
+      gap: 3rem;
+    }
+    
+    .about-img-col {
+      order: -1;
+    }
+
+    .img-frame {
+      aspect-ratio: 16 / 10;
+      max-width: 100%;
+    }
+
+    .frame-border {
+      display: none;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .pillars-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+  }
+</style>

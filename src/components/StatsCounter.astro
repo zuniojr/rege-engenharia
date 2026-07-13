@@ -1,0 +1,207 @@
+---
+const stats = [
+  {
+    number: 8,
+    suffix: "+",
+    label: "Anos de Experiência"
+  },
+  {
+    number: 45,
+    suffix: "+",
+    label: "Obras Entregues"
+  },
+  {
+    number: 15,
+    suffix: "k",
+    label: "m² de Obras Gerenciadas"
+  },
+  {
+    number: 100,
+    suffix: "%",
+    label: "Satisfação dos Clientes"
+  }
+];
+---
+
+<section class="stats-section">
+  <div class="container">
+    <div class="stats-grid">
+      {stats.map((stat, i) => (
+        <div class="stat-card" data-index={i}>
+          <div class="stat-number-wrap">
+            <span class="stat-number" data-target={stat.number}>0</span>
+            <span class="stat-suffix">{stat.suffix}</span>
+          </div>
+          <p class="stat-label">{stat.label}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .stats-section {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--navy-2) 100%);
+    padding: 5rem 0;
+    color: var(--white);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Linhas de fundo decorativas */
+  .stats-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 25%;
+    width: 1px;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.03);
+    pointer-events: none;
+  }
+  
+  .stats-section::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 75%;
+    width: 1px;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.03);
+    pointer-events: none;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    position: relative;
+    z-index: 2;
+  }
+
+  .stat-card {
+    text-align: center;
+    padding: 1.5rem;
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .stat-card:last-child {
+    border-right: none;
+  }
+
+  .stat-number-wrap {
+    font-family: var(--font-hero);
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 800;
+    color: var(--sand);
+    line-height: 1;
+    margin-bottom: 0.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+  }
+
+  .stat-number {
+    font-variant-numeric: tabular-nums;
+  }
+
+  .stat-suffix {
+    color: var(--sand-2);
+    font-size: 0.75em;
+    margin-left: 2px;
+  }
+
+  .stat-label {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  /* Responsivo */
+  @media (max-width: 992px) {
+    .stats-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 3rem 1.5rem;
+    }
+
+    .stat-card {
+      border-right: none;
+    }
+    
+    .stat-card:nth-child(odd) {
+      border-right: 1px solid rgba(255, 255, 255, 0.08);
+    }
+  }
+
+  @media (max-width: 576px) {
+    .stats-grid {
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+
+    .stat-card {
+      border-right: none !important;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      padding-bottom: 2rem;
+    }
+    
+    .stat-card:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+  }
+</style>
+
+<script>
+  // Função para animar os contadores
+  const startCounter = (el: HTMLElement) => {
+    const target = parseInt(el.getAttribute('data-target') || '0', 10);
+    const duration = 2000; // 2 segundos
+    const stepTime = Math.abs(Math.floor(duration / target));
+    let current = 0;
+    
+    const timer = setInterval(() => {
+      current += 1;
+      el.textContent = current.toString();
+      if (current >= target) {
+        el.textContent = target.toString();
+        clearInterval(timer);
+      }
+    }, Math.max(stepTime, 15));
+  };
+
+  // Inicialização com Intersection Observer
+  const observerOptions = {
+    threshold: 0.1,
+    rootMargin: '0px 0px -50px 0px'
+  };
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const numbers = entry.target.querySelectorAll('.stat-number');
+        numbers.forEach(num => {
+          if (num.textContent === '0') {
+            startCounter(num as HTMLElement);
+          }
+        });
+        observer.unobserve(entry.target);
+      }
+    });
+  }, observerOptions);
+
+  const statsSection = document.querySelector('.stats-section');
+  if (statsSection) {
+    observer.observe(statsSection);
+  }
+</script>

@@ -25,14 +25,14 @@ function getInitials(name: string) {
 <section class="testimonials-section" id="depoimentos">
   <div class="container">
     <div class="section-header">
-      <span class="subtitle">DEPOIMENTOS DE CLIENTES</span>
-      <h2 class="section-title">QUEM CONFIA NA REGÊ</h2>
-      <p class="section-desc">Histórias reais de sonhos construídos com segurança, dedicação e engenharia de excelência.</p>
+      <span class="subtitle reveal">DEPOIMENTOS DE CLIENTES</span>
+      <h2 class="section-title reveal reveal-delay-1">QUEM CONFIA NA REGÊ</h2>
+      <p class="section-desc reveal reveal-delay-2">Histórias reais de sonhos construídos com segurança, dedicação e engenharia de excelência.</p>
     </div>
 
     <div class="testimonials-grid">
-      {testimonials.map((t) => (
-        <div class="testimonial-card">
+      {testimonials.map((t, idx) => (
+        <div class={`testimonial-card reveal reveal-delay-${(idx % 3) + 1}`}>
           <div class="stars">
             {Array.from({ length: t.stars }).map(() => (
               <span class="star">★</span>

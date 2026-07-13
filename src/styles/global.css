@@ -21,6 +21,7 @@
   --font-section: 'Archivo Expanded', sans-serif;
   --font-heading: 'Archivo', sans-serif;
   --font-body: 'Archivo', sans-serif;
+  --font-accent: 'Bitter', serif;
 
   --spacing-sm: 1rem;
   --spacing-md: 2rem;
@@ -30,10 +31,19 @@
   --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+::selection {
+  background-color: var(--navy);
+  color: var(--sand);
 }
 
 body {
@@ -121,3 +131,23 @@ img {
     margin-bottom: var(--spacing-md);
   }
 }
+
+/* Scroll Reveal Classes */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s cubic-bezier(0.25, 1, 0.5, 1), transform 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Animações com delays sequenciais (stagger) */
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-5 { transition-delay: 0.5s; }
+

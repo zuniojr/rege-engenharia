@@ -3,25 +3,25 @@ const projects = [
   {
     title: "Residencial Alto Padrão",
     desc: "Execução completa de residência de luxo com alto nível de detalhamento estrutural.",
-    img: "obra-residencial.jpg",
+    img: "obra-residencial.png",
     tag: "OBRA RESIDENCIAL"
   },
   {
     title: "Projeto Arquitetônico Moderno",
     desc: "Desenho arquitetônico contemporâneo integrado ao cálculo de estrutura de concreto armado.",
-    img: "projeto-arquitetonico.jpg",
+    img: "projeto-arquitetonico.png",
     tag: "PROJETO & ENGENHARIA"
   },
   {
     title: "Edifício Comercial Alfa",
     desc: "Construção de empreendimento corporativo com otimização de prazo e controle de insumos.",
-    img: "obra-comercial.jpg",
+    img: "obra-comercial.png",
     tag: "OBRA COMERCIAL"
   },
   {
     title: "Aprovação & Legalização",
     desc: "Processamento completo de documentação, habite-se e regularização imobiliária.",
-    img: "regularizacao.jpg",
+    img: "regularizacao.png",
     tag: "REGULARIZAÇÃO"
   }
 ];
@@ -30,14 +30,14 @@ const projects = [
 <section class="gallery-section" id="portfolio">
   <div class="container">
     <div class="section-header">
-      <span class="subtitle">PORTFÓLIO & REALIZAÇÕES</span>
-      <h2 class="section-title">NOSSOS PROJETOS</h2>
-      <p class="section-desc">Uma amostra do rigor técnico, qualidade e sofisticação que entregamos em cada obra.</p>
+      <span class="subtitle reveal">PORTFÓLIO & REALIZAÇÕES</span>
+      <h2 class="section-title reveal reveal-delay-1">NOSSOS PROJETOS</h2>
+      <p class="section-desc reveal reveal-delay-2">Uma amostra do rigor técnico, qualidade e sofisticação que entregamos em cada obra.</p>
     </div>
 
     <div class="gallery-grid">
-      {projects.map((proj) => (
-        <div class="gallery-card">
+      {projects.map((proj, idx) => (
+        <div class={`gallery-card reveal reveal-delay-${(idx % 2) + 1}`}>
           <div class="gallery-img-wrap">
             <img src={`/images/${proj.img}`} alt={proj.title} loading="lazy" />
             <div class="card-overlay">

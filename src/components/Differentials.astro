@@ -30,14 +30,14 @@ const services = [
 <section class="services-section" id="diferenciais">
   <div class="container">
     <div class="section-header">
-      <span class="subtitle">CONFIANÇA E EXCELÊNCIA TÉCNICA</span>
-      <h2 class="section-title">SERVIÇOS & SOLUÇÕES</h2>
-      <p class="section-desc">Cuidamos de todo o processo para você focar no que realmente importa: a realização do seu sonho.</p>
+      <span class="subtitle reveal">CONFIANÇA E EXCELÊNCIA TÉCNICA</span>
+      <h2 class="section-title reveal reveal-delay-1">SERVIÇOS & SOLUÇÕES</h2>
+      <p class="section-desc reveal reveal-delay-2">Cuidamos de todo o processo para você focar no que realmente importa: a realização do seu sonho.</p>
     </div>
     
     <div class="services-grid">
-      {services.map((svc) => (
-        <div class={`service-card service-${svc.theme}`}>
+      {services.map((svc, idx) => (
+        <div class={`service-card service-${svc.theme} reveal reveal-delay-${(idx % 2) + 1}`}>
           <div class="icon-wrapper" set:html={svc.icon} />
           <h3 class="card-title">{svc.title}</h3>
           <div class="card-divider"></div>

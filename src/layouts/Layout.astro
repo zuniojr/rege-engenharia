@@ -1,5 +1,8 @@
 ---
 import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import FloatingCTA from '../components/FloatingCTA.astro';
 
 interface Props {
   title: string;
@@ -17,7 +20,8 @@ const { title, description } = Astro.props;
     <meta name="description" content={description} />
     <title>{title}</title>
     
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Favicon inline inteligente -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2245%22 fill=%22%231b2430%22/><text x=%2250%22 y=%2257%22 font-family=%22sans-serif%22 font-weight=%22bold%22 font-size=%2228%22 fill=%22%23e7ded0%22 text-anchor=%22middle%22>R</text></svg>" />
     
     <!-- SEO local e Open Graph -->
     <meta property="og:locale" content="pt_BR" />
@@ -26,9 +30,72 @@ const { title, description } = Astro.props;
     <meta property="og:description" content={description} />
     <meta property="og:url" content="https://regeengenharia.com.br/" />
     <meta property="og:site_name" content="Regê Engenharia" />
-    <meta property="og:image" content="/favicon.svg" />
+    <meta property="og:image" content="https://regeengenharia.com.br/images/hero-rege.png" />
+
+    <!-- Schema.org JSON-LD para Negócio Local -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Regê Engenharia",
+        "image": "https://regeengenharia.com.br/images/hero-rege.png",
+        "@id": "https://regeengenharia.com.br/#website",
+        "url": "https://regeengenharia.com.br/",
+        "telephone": "+5547992184100",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rua Onório Bortolato, 2517",
+          "addressLocality": "Navegantes",
+          "addressRegion": "SC",
+          "postalCode": "88370-000",
+          "addressCountry": "BR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -26.8833,
+          "longitude": -48.6500
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      }
+    </script>
   </head>
   <body>
+    <Header />
     <slot />
+    <Footer />
+    <FloatingCTA />
+
+    <script>
+      // Script global de animação no Scroll
+      const setupReveal = () => {
+        const reveals = document.querySelectorAll('.reveal');
+        
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('active');
+            }
+          });
+        }, {
+          threshold: 0.05,
+          rootMargin: '0px 0px -50px 0px'
+        });
+
+        reveals.forEach(el => observer.observe(el));
+      };
+
+      document.addEventListener('DOMContentLoaded', setupReveal);
+    </script>
   </body>
 </html>
