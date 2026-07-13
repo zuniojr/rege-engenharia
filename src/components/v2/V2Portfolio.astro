@@ -1,0 +1,138 @@
+---
+---
+
+<section class="v2-portfolio" id="v2-portfolio">
+  <div class="v2-container">
+    <div class="v2-section-header v2-reveal">
+      <span class="v2-eyebrow">PORTFÓLIO & REALIZAÇÕES</span>
+      <h2 class="v2-section-title">Nossos<br /><em>Projetos.</em></h2>
+    </div>
+    <div class="v2-portfolio-grid">
+      <div class="v2-port-card v2-port-large v2-reveal">
+        <div class="v2-port-img">
+          <img src="/images/obra-residencial.png" alt="Residencial Alto Padrão" loading="lazy" />
+          <div class="v2-port-overlay">
+            <span class="v2-port-category">OBRA RESIDENCIAL</span>
+            <div class="v2-port-info">
+              <h3>Residencial Alto Padrão</h3>
+              <p>Execução completa com alto nível de detalhamento estrutural.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="v2-port-card v2-reveal v2-reveal-delay-1">
+        <div class="v2-port-img">
+          <img src="/images/projeto-arquitetonico.png" alt="Projeto Arquitetônico Moderno" loading="lazy" />
+          <div class="v2-port-overlay">
+            <span class="v2-port-category">PROJETO & ENGENHARIA</span>
+            <div class="v2-port-info">
+              <h3>Projeto Arquitetônico Moderno</h3>
+              <p>Design contemporâneo integrado ao cálculo estrutural.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="v2-port-card v2-reveal v2-reveal-delay-2">
+        <div class="v2-port-img">
+          <img src="/images/obra-comercial.png" alt="Edifício Comercial Alfa" loading="lazy" />
+          <div class="v2-port-overlay">
+            <span class="v2-port-category">OBRA COMERCIAL</span>
+            <div class="v2-port-info">
+              <h3>Edifício Comercial Alfa</h3>
+              <p>Construção corporativa com otimização de prazo e controle de insumos.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="v2-port-card v2-reveal v2-reveal-delay-1">
+        <div class="v2-port-img">
+          <img src="/images/regularizacao.png" alt="Aprovação e Legalização" loading="lazy" />
+          <div class="v2-port-overlay">
+            <span class="v2-port-category">REGULARIZAÇÃO</span>
+            <div class="v2-port-info">
+              <h3>Aprovação &amp; Legalização</h3>
+              <p>Documentação, habite-se e regularização imobiliária completa.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* PORTFOLIO */
+.v2-portfolio { padding: 8rem 0; background: var(--v2-white); }
+.v2-portfolio-grid {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 1.5rem;
+}
+.v2-port-large { grid-row: span 2; }
+.v2-port-card { border-radius: var(--v2-radius-lg); overflow: hidden; }
+.v2-port-img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 260px;
+  overflow: hidden;
+}
+.v2-port-large .v2-port-img { min-height: 100%; }
+.v2-port-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s var(--v2-ease);
+  display: block;
+}
+.v2-port-card:hover .v2-port-img img { transform: scale(1.07); }
+.v2-port-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(8,14,23,0.88) 25%, rgba(8,14,23,0.15) 70%);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1.25rem 1.5rem;
+  opacity: 0;
+  transition: opacity 0.4s var(--v2-ease);
+}
+.v2-port-card:hover .v2-port-overlay { opacity: 1; }
+.v2-port-category {
+  font-family: var(--v2-font-display);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  background: rgba(8,14,23,0.5);
+  padding: 0.3rem 0.7rem;
+  border-radius: 2px;
+  align-self: flex-start;
+  backdrop-filter: blur(4px);
+}
+.v2-port-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  transform: translateY(10px);
+  transition: transform 0.4s var(--v2-ease);
+}
+.v2-port-card:hover .v2-port-info { transform: translateY(0); }
+.v2-port-info h3 {
+  font-family: var(--v2-font-display);
+  font-size: 1rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--v2-white);
+  margin: 0;
+}
+.v2-port-info p { font-size: 0.83rem; color: rgba(240,234,216,0.7); margin: 0; }
+
+@media (max-width: 900px) {
+  .v2-portfolio-grid { grid-template-columns: 1fr; grid-template-rows: auto; }
+  .v2-port-large { grid-row: span 1; }
+  .v2-port-img { min-height: 280px; }
+}
+</style>

@@ -1,0 +1,53 @@
+---
+---
+
+<div class="v2-quote-banner">
+  <div class="v2-container">
+    <blockquote>
+      <span class="v2-quote-mark">"</span>Da concepção à chave na mão, nós estamos com você em cada etapa.<span class="v2-quote-mark">"</span>
+    </blockquote>
+    <cite>— REGÊ ENGENHARIA</cite>
+  </div>
+</div>
+
+<style>
+/* QUOTE BANNER */
+.v2-quote-banner {
+  padding: 5rem 1.5rem;
+  background: var(--v2-gold);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.v2-quote-banner::before {
+  content: '"';
+  position: absolute;
+  font-family: var(--v2-font-serif);
+  font-size: 30rem;
+  line-height: 1;
+  color: rgba(8,14,23,0.04);
+  top: -4rem;
+  left: 50%;
+  transform: translateX(-50%);
+  pointer-events: none;
+  user-select: none;
+}
+.v2-quote-banner blockquote {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: clamp(1.3rem, 3vw, 2rem);
+  color: var(--v2-dark);
+  max-width: 800px;
+  margin: 0 auto 1rem;
+  line-height: 1.5;
+}
+.v2-quote-mark { color: rgba(8,14,23,0.3); }
+.v2-quote-banner cite {
+  font-family: var(--v2-font-display);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: rgba(8,14,23,0.55);
+  font-style: normal;
+}
+</style>

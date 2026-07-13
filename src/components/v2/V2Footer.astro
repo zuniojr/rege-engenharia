@@ -1,0 +1,141 @@
+---
+---
+
+<footer class="v2-footer">
+  <div class="v2-container v2-footer-inner">
+    <div class="v2-footer-brand">
+      <a href="/" class="v2-logo">
+        <span class="v2-logo-mark">R</span>
+        <span class="v2-logo-text">REGÊ <em>ENGENHARIA</em></span>
+      </a>
+      <p>Da concepção à chave na mão.<br />Navegantes · SC</p>
+    </div>
+    <nav class="v2-footer-nav" aria-label="Links do rodapé">
+      <h4>Navegação</h4>
+      <a href="#v2-sobre">Sobre</a>
+      <a href="#v2-servicos">Serviços</a>
+      <a href="#v2-portfolio">Portfólio</a>
+      <a href="#v2-depoimentos">Depoimentos</a>
+    </nav>
+    <nav class="v2-footer-nav" aria-label="Contato">
+      <h4>Contato</h4>
+      <a href="tel:+5547992184100">(47) 99218-4100</a>
+      <a href="https://bitlybr.net/rege" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+      <a href="mailto:contato@rege.eng.br">contato@rege.eng.br</a>
+    </nav>
+  </div>
+  <div class="v2-footer-bottom">
+    <p>© 2024 Regê Engenharia — Todos os direitos reservados.</p>
+    <a href="/v1">Versão Original</a>
+  </div>
+</footer>
+
+<style>
+/* FOOTER */
+.v2-footer {
+  background: var(--v2-dark);
+  border-top: 1px solid var(--v2-border);
+  padding: 4rem 1.5rem 0;
+}
+.v2-footer-inner {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid var(--v2-border);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.v2-footer-brand p {
+  font-size: 0.88rem;
+  color: var(--v2-muted);
+  line-height: 1.7;
+  margin-top: 1.25rem;
+}
+.v2-footer-nav { display: flex; flex-direction: column; gap: 0.75rem; }
+.v2-footer-nav h4 {
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  margin-bottom: 0.5rem;
+}
+.v2-footer-nav a {
+  font-size: 0.88rem;
+  color: var(--v2-muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.v2-footer-nav a:hover { color: var(--v2-white); }
+.v2-footer-bottom {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 0;
+  gap: 1rem;
+}
+.v2-footer-bottom p { font-size: 0.78rem; color: rgba(255,255,255,0.3); }
+.v2-footer-bottom a {
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+.v2-footer-bottom a:hover { opacity: 1; }
+
+.v2-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.v2-logo-mark {
+  width: 36px;
+  height: 36px;
+  background: var(--v2-gold);
+  color: var(--v2-dark);
+  font-family: var(--v2-font-display);
+  font-weight: 800;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.v2-logo-text {
+  font-family: var(--v2-font-display);
+  font-weight: 700;
+  font-size: 0.75rem;
+  letter-spacing: 2px;
+  color: var(--v2-white);
+  line-height: 1.2;
+}
+.v2-logo-text em {
+  display: block;
+  font-style: normal;
+  color: var(--v2-gold);
+  font-weight: 400;
+}
+
+@media (max-width: 900px) {
+  .v2-footer-inner { grid-template-columns: 1fr 1fr; }
+  .v2-footer-brand { grid-column: span 2; }
+}
+
+@media (max-width: 600px) {
+  .v2-footer-inner { grid-template-columns: 1fr; }
+  .v2-footer-brand { grid-column: span 1; }
+  .v2-footer-bottom { flex-direction: column; text-align: center; gap: 0.5rem; }
+}
+</style>

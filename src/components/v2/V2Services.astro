@@ -1,0 +1,150 @@
+---
+---
+
+<section class="v2-services" id="v2-servicos">
+  <div class="v2-services-bg" aria-hidden="true"></div>
+  <div class="v2-container">
+    <div class="v2-section-header v2-reveal">
+      <span class="v2-eyebrow v2-eyebrow-light">CONFIANÇA E EXCELÊNCIA</span>
+      <h2 class="v2-section-title v2-light">Serviços &amp;<br /><em>Soluções</em></h2>
+    </div>
+    <div class="v2-services-grid">
+      <div class="v2-svc-card v2-svc-featured v2-reveal">
+        <div class="v2-svc-num">01</div>
+        <div class="v2-svc-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 3-9.6 9.6"/><path d="m15.5 7.5 3 3"/><path d="m18.5 4.5 3 3"/></svg>
+        </div>
+        <h3>Da Concepção à Chave na Mão</h3>
+        <p>Cuidamos de todo o processo da sua obra, desde os primeiros esboços arquitetônicos e modelagem 3D até a limpeza pós-obra e a entrega final das chaves. Tranquilidade absoluta para você.</p>
+        <div class="v2-svc-tag">TURNKEY</div>
+      </div>
+      <div class="v2-svc-card v2-reveal v2-reveal-delay-1">
+        <div class="v2-svc-num">02</div>
+        <div class="v2-svc-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22V4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v18"/><path d="M10 6h4"/><path d="M10 10h4"/><path d="M8 14h8"/><path d="M8 18h8"/></svg>
+        </div>
+        <h3>Projetos Personalizados</h3>
+        <p>Projetos de arquitetura, design de interiores, cálculo estrutural e instalações integrados sob medida para o seu estilo de vida.</p>
+        <div class="v2-svc-tag">PROJETOS</div>
+      </div>
+      <div class="v2-svc-card v2-reveal v2-reveal-delay-2">
+        <div class="v2-svc-num">03</div>
+        <div class="v2-svc-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/><circle cx="10" cy="15" r="2"/><path d="m11.5 16.5 3 3"/></svg>
+        </div>
+        <h3>Aprovações e Regularizações</h3>
+        <p>Aprovação junto à Prefeitura, licenciamento do Corpo de Bombeiros, averbações e regularização completa de registros de imóveis.</p>
+        <div class="v2-svc-tag">LEGAL</div>
+      </div>
+      <div class="v2-svc-card v2-reveal v2-reveal-delay-1">
+        <div class="v2-svc-num">04</div>
+        <div class="v2-svc-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 22h20"/><path d="M16 22V2h-4v20"/><path d="M12 5h8"/><path d="M12 9h8"/><path d="M8 22V10H4v12"/></svg>
+        </div>
+        <h3>Execução &amp; Gestão de Obras</h3>
+        <p>Gestão técnica rigorosa do canteiro. Fidelidade ao projeto, prazos cumpridos, controle financeiro transparente e segurança estrutural máxima.</p>
+        <div class="v2-svc-tag">EXECUÇÃO</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* SERVICES */
+.v2-services {
+  position: relative;
+  padding: 8rem 0;
+  background: var(--v2-dark-2);
+  overflow: hidden;
+}
+.v2-services-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 800px 600px at 20% 50%, rgba(201,168,76,0.04) 0%, transparent 70%),
+    radial-gradient(ellipse 600px 400px at 80% 20%, rgba(201,168,76,0.03) 0%, transparent 60%);
+  pointer-events: none;
+}
+.v2-services-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+.v2-svc-card {
+  background: var(--v2-panel);
+  border: 1px solid var(--v2-border);
+  border-radius: var(--v2-radius-lg);
+  padding: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.4s var(--v2-ease), border-color 0.3s, box-shadow 0.4s;
+  display: flex;
+  flex-direction: column;
+}
+.v2-svc-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(to right, var(--v2-gold), transparent);
+  opacity: 0;
+  transition: opacity 0.4s;
+}
+.v2-svc-card:hover { transform: translateY(-6px); border-color: rgba(201,168,76,0.2); box-shadow: 0 20px 50px rgba(8,14,23,0.4); }
+.v2-svc-card:hover::before { opacity: 1; }
+.v2-svc-featured { background: linear-gradient(135deg, rgba(201,168,76,0.12) 0%, var(--v2-panel) 60%); border-color: rgba(201,168,76,0.2); }
+.v2-svc-featured::before { opacity: 1; }
+.v2-svc-num {
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--v2-gold);
+  margin-bottom: 1.5rem;
+  opacity: 0.7;
+}
+.v2-svc-icon {
+  width: 48px;
+  height: 48px;
+  background: var(--v2-gold-muted);
+  border-radius: var(--v2-radius);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(201,168,76,0.2);
+  transition: background 0.3s, transform 0.3s;
+}
+.v2-svc-card:hover .v2-svc-icon { background: rgba(201,168,76,0.2); transform: scale(1.05); }
+.v2-svc-icon svg { width: 24px; height: 24px; stroke: var(--v2-gold); }
+.v2-svc-card h3 {
+  font-family: var(--v2-font-display);
+  font-size: 1.05rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-white);
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+.v2-svc-card p { font-size: 0.9rem; color: var(--v2-muted); line-height: 1.8; flex: 1; }
+.v2-svc-tag {
+  display: inline-block;
+  margin-top: 1.5rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  background: var(--v2-gold-muted);
+  padding: 0.3rem 0.7rem;
+  border-radius: 2px;
+  border: 1px solid rgba(201,168,76,0.2);
+  align-self: flex-start;
+}
+
+@media (max-width: 900px) {
+  .v2-services-grid { grid-template-columns: 1fr; gap: 1rem; }
+}
+</style>

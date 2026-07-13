@@ -1,0 +1,132 @@
+---
+---
+
+<section class="v2-testimonials" id="v2-depoimentos">
+  <div class="v2-container">
+    <div class="v2-section-header v2-reveal">
+      <span class="v2-eyebrow">DEPOIMENTOS DE CLIENTES</span>
+      <h2 class="v2-section-title">Quem Confia<br /><em>na Regê.</em></h2>
+    </div>
+    <div class="v2-testi-grid">
+      <div class="v2-testi-card v2-testi-featured v2-reveal">
+        <div class="v2-testi-stars">★★★★★</div>
+        <p class="v2-testi-text">"A Regê Engenharia construiu a nossa residência do absoluto zero. A transparência no controle de custos e o cumprimento rigoroso dos prazos nos deixaram totalmente tranquilos. A entrega das chaves foi um sonho realizado."</p>
+        <div class="v2-testi-author">
+          <div class="v2-testi-avatar">MF</div>
+          <div><strong>Marcos &amp; Flávia Silveira</strong><span>Cliente Residencial</span></div>
+        </div>
+      </div>
+      <div class="v2-testi-card v2-reveal v2-reveal-delay-1">
+        <div class="v2-testi-stars">★★★★★</div>
+        <p class="v2-testi-text">"Excelente gestão na execução do nosso galpão comercial. O rigor técnico em toda a estrutura de concreto armado e a organização do canteiro de obras foram exemplares."</p>
+        <div class="v2-testi-author">
+          <div class="v2-testi-avatar">RM</div>
+          <div><strong>Rodrigo Mendes</strong><span>Cliente Comercial</span></div>
+        </div>
+      </div>
+      <div class="v2-testi-card v2-reveal v2-reveal-delay-2">
+        <div class="v2-testi-stars">★★★★★</div>
+        <p class="v2-testi-text">"Contratamos a Regê para a regularização completa do nosso imóvel e aprovação junto aos Bombeiros. Processo ágil, eficiente e sem burocracia para nós."</p>
+        <div class="v2-testi-author">
+          <div class="v2-testi-avatar">JR</div>
+          <div><strong>Juliana Ramos</strong><span>Regularização Imobiliária</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* TESTIMONIALS */
+.v2-testimonials { padding: 8rem 0; background: #f5f2ec; position: relative; }
+.v2-testimonials::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, transparent, var(--v2-gold), transparent);
+}
+.v2-testi-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+.v2-testi-card {
+  background: var(--v2-white);
+  border: 1px solid rgba(8,14,23,0.06);
+  border-radius: var(--v2-radius-lg);
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.4s var(--v2-ease), box-shadow 0.4s;
+}
+.v2-testi-card:hover { transform: translateY(-5px); box-shadow: 0 15px 40px rgba(8,14,23,0.08); }
+.v2-testi-featured {
+  background: var(--v2-dark);
+  border-color: transparent;
+  position: relative;
+  overflow: hidden;
+}
+.v2-testi-featured::before {
+  content: '"';
+  position: absolute;
+  font-family: var(--v2-font-serif);
+  font-size: 12rem;
+  color: rgba(255,255,255,0.04);
+  top: -1rem;
+  right: 1rem;
+  line-height: 1;
+  pointer-events: none;
+}
+.v2-testi-featured .v2-testi-stars { color: var(--v2-gold); }
+.v2-testi-featured .v2-testi-text { color: rgba(240,234,216,0.75); }
+.v2-testi-featured .v2-testi-author strong { color: var(--v2-white); }
+.v2-testi-featured .v2-testi-author span { color: var(--v2-muted); }
+.v2-testi-featured .v2-testi-avatar { background: var(--v2-gold); color: var(--v2-dark); }
+.v2-testi-stars { font-size: 1rem; color: var(--v2-gold); letter-spacing: 2px; margin-bottom: 1.25rem; }
+.v2-testi-text {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: 0.97rem;
+  line-height: 1.8;
+  color: #555;
+  flex: 1;
+  margin-bottom: 2rem;
+}
+.v2-testi-author {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  border-top: 1px solid rgba(8,14,23,0.07);
+  padding-top: 1.25rem;
+}
+.v2-testi-avatar {
+  width: 42px;
+  height: 42px;
+  background: var(--v2-dark);
+  color: var(--v2-gold);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--v2-font-display);
+  font-size: 0.75rem;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+.v2-testi-author strong {
+  display: block;
+  font-family: var(--v2-font-display);
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-dark);
+}
+.v2-testi-author span { font-size: 0.73rem; color: #999; display: block; }
+
+@media (max-width: 900px) {
+  .v2-testi-grid { grid-template-columns: 1fr; }
+}
+</style>

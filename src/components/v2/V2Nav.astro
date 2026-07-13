@@ -1,0 +1,194 @@
+---
+---
+
+<nav class="v2-nav" id="v2-nav">
+  <div class="v2-nav-inner">
+    <a href="/" class="v2-logo">
+      <span class="v2-logo-mark">R</span>
+      <span class="v2-logo-text">REGÊ <em>ENGENHARIA</em></span>
+    </a>
+    <ul class="v2-nav-links">
+      <li><a href="#v2-sobre">Sobre</a></li>
+      <li><a href="#v2-servicos">Serviços</a></li>
+      <li><a href="#v2-portfolio">Portfólio</a></li>
+      <li><a href="#v2-depoimentos">BLOG</a></li>
+    </ul>
+    <a href="https://bitlybr.net/rege" class="v2-nav-cta" target="_blank" rel="noopener noreferrer">
+      Fale Conosco
+    </a>
+    <button class="v2-hamburger" id="v2-hamburger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="v2-mobile-menu" id="v2-mobile-menu">
+    <a href="#v2-sobre">Sobre</a>
+    <a href="#v2-servicos">Serviços</a>
+    <a href="#v2-portfolio">Portfólio</a>
+    <a href="#v2-depoimentos">BLOG</a>
+    <a href="https://bitlybr.net/rege" class="v2-mobile-cta" target="_blank">Fale Conosco</a>
+  </div>
+</nav>
+
+<style>
+/* NAV */
+.v2-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  transition: background 0.4s var(--v2-ease), box-shadow 0.4s var(--v2-ease);
+}
+.v2-nav.scrolled {
+  background: rgba(8,14,23,0.92);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: 0 1px 0 var(--v2-border);
+}
+.v2-nav-inner {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.4rem 1.5rem;
+}
+.v2-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.v2-logo-mark {
+  width: 36px;
+  height: 36px;
+  background: var(--v2-gold);
+  color: var(--v2-dark);
+  font-family: var(--v2-font-display);
+  font-weight: 800;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.v2-logo-text {
+  font-family: var(--v2-font-display);
+  font-weight: 700;
+  font-size: 0.75rem;
+  letter-spacing: 2px;
+  color: var(--v2-white);
+  line-height: 1.2;
+}
+.v2-logo-text em {
+  display: block;
+  font-style: normal;
+  color: var(--v2-gold);
+  font-weight: 400;
+}
+.v2-nav-links {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+  margin: 0 0 0 auto;
+  padding: 0;
+}
+.v2-nav-links a {
+  text-decoration: none;
+  font-family: var(--v2-font-display);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.7);
+  transition: color 0.25s;
+}
+.v2-nav-links a:hover { color: var(--v2-gold); }
+.v2-nav-cta {
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--v2-dark);
+  background: var(--v2-gold);
+  padding: 0.6rem 1.4rem;
+  border-radius: 3px;
+  text-decoration: none;
+  transition: background 0.25s, transform 0.2s;
+  flex-shrink: 0;
+}
+.v2-nav-cta:hover { background: var(--v2-gold-2); transform: translateY(-1px); }
+.v2-hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  margin-left: auto;
+}
+.v2-hamburger span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: var(--v2-white);
+  transition: all 0.3s;
+}
+.v2-mobile-menu {
+  display: none;
+  flex-direction: column;
+  background: rgba(8,14,23,0.98);
+  border-top: 1px solid var(--v2-border);
+}
+.v2-mobile-menu a {
+  text-decoration: none;
+  font-family: var(--v2-font-display);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.7);
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--v2-border);
+  transition: color 0.2s, background 0.2s;
+}
+.v2-mobile-menu a:hover { color: var(--v2-gold); background: rgba(201,168,76,0.05); }
+.v2-mobile-cta { color: var(--v2-gold) !important; }
+.v2-mobile-menu.open { display: flex; }
+
+@media (max-width: 900px) {
+  .v2-nav-links { display: none; }
+  .v2-nav-cta { display: none; }
+  .v2-hamburger { display: flex; }
+  .v2-nav-inner { gap: 1rem; }
+}
+</style>
+
+<script>
+  // NAV scroll
+  const nav = document.getElementById('v2-nav');
+  window.addEventListener('scroll', () => {
+    nav?.classList.toggle('scrolled', window.scrollY > 60);
+  }, { passive: true });
+
+  // Hamburger
+  const hamburger = document.getElementById('v2-hamburger');
+  const mobileMenu = document.getElementById('v2-mobile-menu');
+  hamburger?.addEventListener('click', () => mobileMenu?.classList.toggle('open'));
+  mobileMenu?.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => mobileMenu.classList.remove('open'));
+  });
+
+  // Smooth scroll
+  document.querySelectorAll('a[href^="#v2-"]').forEach(anchor => {
+    anchor.addEventListener('click', (e) => {
+      e.preventDefault();
+      const target = document.querySelector((anchor as HTMLAnchorElement).getAttribute('href')!);
+      target?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+</script>
