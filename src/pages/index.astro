@@ -74,27 +74,6 @@ import Layout from '../layouts/Layout.astro';
     <div class="v2-scroll-line"></div>
     <span>SCROLL</span>
   </div>
-  <div class="v2-hero-stats">
-    <div class="v2-stat">
-      <strong class="v2-stat-num" data-count="8">0</strong><span class="v2-stat-suf">+</span>
-      <p>Anos</p>
-    </div>
-    <div class="v2-stat-divider"></div>
-    <div class="v2-stat">
-      <strong class="v2-stat-num" data-count="45">0</strong><span class="v2-stat-suf">+</span>
-      <p>Obras</p>
-    </div>
-    <div class="v2-stat-divider"></div>
-    <div class="v2-stat">
-      <strong class="v2-stat-num" data-count="15">0</strong><span class="v2-stat-suf">k m²</span>
-      <p>Gerenciados</p>
-    </div>
-    <div class="v2-stat-divider"></div>
-    <div class="v2-stat">
-      <strong class="v2-stat-num" data-count="100">0</strong><span class="v2-stat-suf">%</span>
-      <p>Satisfação</p>
-    </div>
-  </div>
 </section>
 
 <!-- ══ ABOUT ══ -->
@@ -1359,32 +1338,7 @@ import Layout from '../layouts/Layout.astro';
 
   document.querySelectorAll('.v2-reveal').forEach(el => revealObserver.observe(el));
 
-  // Stats counter
-  const countUp = (el: HTMLElement) => {
-    const target = parseInt(el.dataset.count || '0', 10);
-    const duration = 2000;
-    const step = Math.max(Math.floor(duration / target), 15);
-    let current = 0;
-    const timer = setInterval(() => {
-      current += 1;
-      el.textContent = current.toString();
-      if (current >= target) { el.textContent = target.toString(); clearInterval(timer); }
-    }, step);
-  };
 
-  const statsObserver = new IntersectionObserver((entries, obs) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.querySelectorAll('.v2-stat-num').forEach(el => {
-          if ((el as HTMLElement).textContent === '0') countUp(el as HTMLElement);
-        });
-        obs.unobserve(entry.target);
-      }
-    });
-  }, { threshold: 0.3 });
-
-  const heroStats = document.querySelector('.v2-hero-stats');
-  if (heroStats) statsObserver.observe(heroStats);
 
   // Smooth scroll
   document.querySelectorAll('a[href^="#v2-"]').forEach(anchor => {
