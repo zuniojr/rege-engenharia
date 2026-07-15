@@ -1,0 +1,574 @@
+---
+import Layout from '../layouts/Layout.astro';
+import V2Nav from '../components/v2/V2Nav.astro';
+import V2Footer from '../components/v2/V2Footer.astro';
+import V2CtaSection from '../components/v2/V2CtaSection.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
+---
+
+<Layout
+  title="Portfólio | Regê Engenharia — Projetos, Construção e Regularização"
+  description="Explore o portfólio de projetos e obras executadas pela Regê Engenharia em Navegantes - SC e região litoral."
+  showHeader={false}
+  showFooter={false}
+>
+  <V2Nav />
+
+  <!-- PAGE HERO -->
+  <section class="port-hero">
+    <div class="port-hero-bg">
+      <img src="/images/hero-rege.png" alt="Obra Regê Engenharia" />
+      <div class="port-hero-overlay"></div>
+    </div>
+    <div class="port-hero-content v2-container">
+      <div class="port-hero-badge">
+        <span class="v2-badge-dot"></span>
+        NOSSO PORTFÓLIO
+      </div>
+      <h1 class="port-hero-title">
+        <span class="port-title-line" style="animation-delay:0.3s">PROJETOS COM</span>
+        <span class="port-title-line port-title-accent" style="animation-delay:0.45s">EXCELÊNCIA</span>
+        <span class="port-title-line port-title-stroke" style="animation-delay:0.6s">E RIGOR.</span>
+      </h1>
+      <p class="port-hero-sub">
+        Conheça algumas das nossas realizações residenciais, comerciais,
+        projetos de engenharia e regularizações completas.
+      </p>
+      <nav class="port-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Início</a>
+        <span class="port-breadcrumb-sep">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </span>
+        <span>Portfólio</span>
+      </nav>
+    </div>
+  </section>
+
+  <!-- PORTFOLIO GRID COM FILTROS -->
+  <section class="port-section">
+    <div class="v2-container">
+      <div class="v2-section-header v2-reveal" style="text-align:center; margin-bottom: 4rem;">
+        <span class="v2-eyebrow">PORTFÓLIO & REALIZAÇÕES</span>
+        <h2 class="v2-section-title">Galeria de<br /><em>Projetos</em></h2>
+      </div>
+
+      <!-- Filtros -->
+      <div class="port-filters v2-reveal">
+        <button class="port-filter-btn active" data-filter="all">Todos</button>
+        <button class="port-filter-btn" data-filter="residencial">Obras Residenciais</button>
+        <button class="port-filter-btn" data-filter="comercial">Obras Comerciais</button>
+        <button class="port-filter-btn" data-filter="projeto">Projetos & Engenharia</button>
+        <button class="port-filter-btn" data-filter="legal">Regularizações</button>
+      </div>
+
+      <!-- Grid de Projetos -->
+      <div class="port-grid">
+        <!-- Projeto 1 -->
+        <div class="port-card v2-reveal" data-category="residencial">
+          <div class="port-img-wrap">
+            <img src="/images/obra-residencial.png" alt="Residencial Alto Padrão" loading="lazy" />
+            <div class="port-card-overlay">
+              <span class="port-card-category">Obra Residencial</span>
+              <h3>Residencial Alto Padrão</h3>
+              <p>Execução completa com gerenciamento de ponta a ponta, fidelidade estrutural e acabamento refinado.</p>
+              <span class="port-card-location">Navegantes - SC</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Projeto 2 -->
+        <div class="port-card v2-reveal v2-reveal-delay-1" data-category="projeto">
+          <div class="port-img-wrap">
+            <img src="/images/projeto-arquitetonico.png" alt="Projeto Arquitetônico Moderno" loading="lazy" />
+            <div class="port-card-overlay">
+              <span class="port-card-category">Projeto &amp; Engenharia</span>
+              <h3>Projeto Arquitetônico Moderno</h3>
+              <p>Concepção espacial contemporânea, design de interiores integrado e engenharia estrutural sob medida.</p>
+              <span class="port-card-location">Balneário Camboriú - SC</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Projeto 3 -->
+        <div class="port-card v2-reveal v2-reveal-delay-2" data-category="comercial">
+          <div class="port-img-wrap">
+            <img src="/images/obra-comercial.png" alt="Edifício Comercial Alfa" loading="lazy" />
+            <div class="port-card-overlay">
+              <span class="port-card-category">Obra Comercial</span>
+              <h3>Edifício Comercial Alfa</h3>
+              <p>Galpão e escritórios corporativos planejados para máxima eficiência de custos e prazos de entrega recordes.</p>
+              <span class="port-card-location">Itajaí - SC</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Projeto 4 -->
+        <div class="port-card v2-reveal" data-category="legal">
+          <div class="port-img-wrap">
+            <img src="/images/regularizacao.png" alt="Aprovação e Legalização Completa" loading="lazy" />
+            <div class="port-card-overlay">
+              <span class="port-card-category">Regularização</span>
+              <h3>Aprovação &amp; Legalização</h3>
+              <p>Processamento rápido de habite-se, laudos, vistorias do Corpo de Bombeiros e escrituração junto à prefeitura.</p>
+              <span class="port-card-location">Navegantes - SC</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Projeto 5 -->
+        <div class="port-card v2-reveal v2-reveal-delay-1" data-category="residencial">
+          <div class="port-img-wrap">
+            <img src="/images/hero-rege.png" alt="Construção Unifamiliar" loading="lazy" />
+            <div class="port-card-overlay">
+              <span class="port-card-category">Obra Residencial</span>
+              <h3>Construção Unifamiliar</h3>
+              <p>Execução completa no modelo turnkey de casa de praia com foco em durabilidade e integração de ambientes.</p>
+              <span class="port-card-location">Penha - SC</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Projeto 6 -->
+        <div class="port-card v2-reveal v2-reveal-delay-2" data-category="projeto">
+          <div class="port-img-wrap">
+            <img src="/images/sobre-nos.png" alt="Modelagem estrutural integrada" loading="lazy" />
+            <div class="port-card-overlay">
+              <span class="port-card-category">Projeto &amp; Engenharia</span>
+              <h3>Modelagem Estrutural</h3>
+              <p>Compatibilização de projetos hidrossanitários, elétricos e de concreto armado com softwares BIM de última geração.</p>
+              <span class="port-card-location">Navegantes - SC</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DEPOIMENTOS / TESTEMUNHOS -->
+  <section class="port-testimonials">
+    <div class="v2-container">
+      <div class="v2-section-header v2-reveal" style="text-align:center;">
+        <span class="v2-eyebrow">DEPOIMENTOS DE CLIENTES</span>
+        <h2 class="v2-section-title">Quem Confia<br /><em>na Regê.</em></h2>
+      </div>
+      <div class="port-testi-grid">
+        <div class="port-testi-card port-testi-featured v2-reveal">
+          <div class="port-testi-stars">★★★★★</div>
+          <p class="port-testi-text">"A Regê Engenharia construiu a nossa residência do absoluto zero. A transparência no controle de custos e o cumprimento rigoroso dos prazos nos deixaram totalmente tranquilos. A entrega das chaves foi um sonho realizado."</p>
+          <div class="port-testi-author">
+            <div class="port-testi-avatar">MF</div>
+            <div><strong>Marcos &amp; Flávia Silveira</strong><span>Cliente Residencial</span></div>
+          </div>
+        </div>
+        <div class="port-testi-card v2-reveal v2-reveal-delay-1">
+          <div class="port-testi-stars">★★★★★</div>
+          <p class="port-testi-text">"Excelente gestão na execução do nosso galpão comercial. O rigor técnico em toda a estrutura de concreto armado e a organização do canteiro de obras foram exemplares."</p>
+          <div class="port-testi-author">
+            <div class="port-testi-avatar">RM</div>
+            <div><strong>Rodrigo Mendes</strong><span>Cliente Comercial</span></div>
+          </div>
+        </div>
+        <div class="port-testi-card v2-reveal v2-reveal-delay-2">
+          <div class="port-testi-stars">★★★★★</div>
+          <p class="port-testi-text">"Contratamos a Regê para a regularização completa do nosso imóvel e aprovação junto aos Bombeiros. Processo ágil, eficiente e sem burocracia para nós."</p>
+          <div class="port-testi-author">
+            <div class="port-testi-avatar">JR</div>
+            <div><strong>Juliana Ramos</strong><span>Regularização Imobiliária</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <V2CtaSection />
+  <V2Footer />
+  <FloatingCTA />
+</Layout>
+
+<style>
+/* ============================
+   PORTFOLIO - PAGE HERO
+   ============================ */
+.port-hero {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--v2-dark);
+}
+.port-hero-bg {
+  position: absolute;
+  inset: 0;
+}
+.port-hero-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.25;
+  filter: grayscale(30%) contrast(1.1);
+}
+.port-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(to right, rgba(8,14,23,0.95) 40%, rgba(8,14,23,0.4) 100%),
+    linear-gradient(to top, rgba(8,14,23,0.95) 5%, transparent 40%);
+}
+.port-hero-content {
+  position: relative;
+  z-index: 10;
+  padding: 12rem 1.5rem 5rem;
+}
+.port-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  border: 1px solid rgba(201,168,76,0.3);
+  padding: 0.4rem 1rem;
+  border-radius: 100px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: portFadeUp 0.8s var(--v2-ease-out) 0.1s forwards;
+}
+.port-hero-title {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--v2-font-display);
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem;
+  color: var(--v2-white);
+}
+.port-title-line {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: portFadeUp 0.8s var(--v2-ease-out) forwards;
+}
+.port-title-accent { color: var(--v2-gold); }
+.port-title-stroke {
+  -webkit-text-stroke: 2px var(--v2-white);
+  color: transparent;
+}
+.port-hero-sub {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: clamp(1rem, 1.8vw, 1.25rem);
+  color: rgba(240,234,216,0.7);
+  line-height: 1.6;
+  max-width: 520px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: portFadeUp 0.8s var(--v2-ease-out) 0.65s forwards;
+}
+.port-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  opacity: 0;
+  animation: portFadeUp 0.8s var(--v2-ease-out) 0.8s forwards;
+}
+.port-breadcrumb a {
+  color: var(--v2-muted);
+  text-decoration: none;
+  transition: color 0.25s;
+}
+.port-breadcrumb a:hover { color: var(--v2-gold); }
+.port-breadcrumb-sep { color: rgba(255,255,255,0.25); display: flex; }
+.port-breadcrumb > span:last-child { color: var(--v2-gold); }
+
+@keyframes portFadeUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================
+   PORTFOLIO - FILTROS & GRID
+   ============================ */
+.port-section {
+  padding: 8rem 0;
+  background: var(--v2-white);
+  position: relative;
+}
+.port-section::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, var(--v2-gold), transparent);
+}
+.port-filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 4rem;
+}
+.port-filter-btn {
+  background: transparent;
+  color: var(--v2-dark-3);
+  border: 1px solid rgba(8,14,23,0.1);
+  padding: 0.6rem 1.4rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.3s var(--v2-ease);
+}
+.port-filter-btn:hover,
+.port-filter-btn.active {
+  background: var(--v2-dark);
+  color: var(--v2-gold);
+  border-color: var(--v2-dark);
+}
+
+.port-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+.port-card {
+  border-radius: var(--v2-radius-lg);
+  overflow: hidden;
+  position: relative;
+  aspect-ratio: 4/3;
+  transition: transform 0.4s var(--v2-ease), opacity 0.4s var(--v2-ease);
+}
+.port-card.hidden {
+  display: none;
+}
+.port-img-wrap {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.port-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.8s var(--v2-ease);
+  display: block;
+}
+.port-card:hover .port-img-wrap img {
+  transform: scale(1.06);
+}
+.port-card-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(8,14,23,0.95) 20%, rgba(8,14,23,0.4) 60%, rgba(8,14,23,0.1) 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 2rem;
+  opacity: 0;
+  transition: opacity 0.4s var(--v2-ease);
+}
+.port-card:hover .port-card-overlay {
+  opacity: 1;
+}
+.port-card-category {
+  font-family: var(--v2-font-display);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  margin-bottom: 0.75rem;
+  display: inline-block;
+}
+.port-card-overlay h3 {
+  font-family: var(--v2-font-display);
+  font-size: 1.15rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--v2-white);
+  margin: 0 0 0.5rem;
+}
+.port-card-overlay p {
+  font-size: 0.82rem;
+  color: rgba(240,234,216,0.7);
+  line-height: 1.6;
+  margin: 0 0 1rem;
+}
+.port-card-location {
+  font-family: var(--v2-font-display);
+  font-size: 0.55rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--v2-muted);
+}
+
+/* ============================
+   PORTFOLIO - DEPOIMENTOS
+   ============================ */
+.port-testimonials {
+  padding: 8rem 0;
+  background: #f5f2ec;
+  position: relative;
+}
+.port-testimonials::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, transparent, var(--v2-gold), transparent);
+}
+.port-testi-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  margin-top: 4rem;
+}
+.port-testi-card {
+  background: var(--v2-white);
+  border: 1px solid rgba(8,14,23,0.06);
+  border-radius: var(--v2-radius-lg);
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.4s var(--v2-ease), box-shadow 0.4s;
+}
+.port-testi-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(8,14,23,0.08);
+}
+.port-testi-featured {
+  background: var(--v2-dark);
+  border-color: transparent;
+  position: relative;
+  overflow: hidden;
+}
+.port-testi-featured::before {
+  content: '"';
+  position: absolute;
+  font-family: var(--v2-font-serif);
+  font-size: 12rem;
+  color: rgba(255,255,255,0.04);
+  top: -1rem;
+  right: 1rem;
+  line-height: 1;
+  pointer-events: none;
+}
+.port-testi-featured .port-testi-stars { color: var(--v2-gold); }
+.port-testi-featured .port-testi-text { color: rgba(240,234,216,0.75); }
+.port-testi-featured .port-testi-author strong { color: var(--v2-white); }
+.port-testi-featured .port-testi-author span { color: var(--v2-muted); }
+.port-testi-featured .port-testi-avatar { background: var(--v2-gold); color: var(--v2-dark); }
+.port-testi-stars { font-size: 1rem; color: var(--v2-gold); letter-spacing: 2px; margin-bottom: 1.25rem; }
+.port-testi-text {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: 0.97rem;
+  line-height: 1.8;
+  color: #555;
+  flex: 1;
+  margin-bottom: 2rem;
+}
+.port-testi-author {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  border-top: 1px solid rgba(8,14,23,0.07);
+  padding-top: 1.25rem;
+}
+.port-testi-avatar {
+  width: 42px;
+  height: 42px;
+  background: var(--v2-dark);
+  color: var(--v2-gold);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--v2-font-display);
+  font-size: 0.75rem;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+.port-testi-author strong {
+  display: block;
+  font-family: var(--v2-font-display);
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-dark);
+}
+.port-testi-author span { font-size: 0.73rem; color: #999; display: block; }
+
+/* ============================
+   RESPONSIVE
+   ============================ */
+@media (max-width: 900px) {
+  .port-grid { grid-template-columns: repeat(2, 1fr); }
+  .port-testi-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 600px) {
+  .port-hero-content { padding: 9rem 1rem 4rem; }
+  .port-grid { grid-template-columns: 1fr; }
+  .port-filters { gap: 0.5rem; }
+  .port-filter-btn { padding: 0.5rem 1rem; font-size: 0.62rem; }
+}
+</style>
+
+<script>
+  // Scroll reveal
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        revealObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+
+  document.querySelectorAll('.v2-reveal').forEach(el => revealObserver.observe(el));
+
+  // Filtros interativos
+  const filterBtns = document.querySelectorAll('.port-filter-btn');
+  const portCards = document.querySelectorAll<HTMLElement>('.port-card');
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      // Remove classe active de todos os botões e adiciona ao atual
+      filterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      const filter = btn.getAttribute('data-filter');
+
+      portCards.forEach(card => {
+        const category = card.getAttribute('data-category');
+        if (filter === 'all' || category === filter) {
+          card.classList.remove('hidden');
+          // Reaplica animação se necessário
+          card.style.opacity = '1';
+          card.style.transform = 'translateY(0)';
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+    });
+  });
+</script>

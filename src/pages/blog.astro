@@ -1,0 +1,529 @@
+---
+import Layout from '../layouts/Layout.astro';
+import V2Nav from '../components/v2/V2Nav.astro';
+import V2Footer from '../components/v2/V2Footer.astro';
+import V2CtaSection from '../components/v2/V2CtaSection.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
+---
+
+<Layout
+  title="Blog | Regê Engenharia — Dicas de Construção, Arquitetura e Engenharia"
+  description="Fique por dentro das novidades da construção civil, dicas de decoração, planejamento de obras e regularização de imóveis no blog da Regê Engenharia."
+  showHeader={false}
+  showFooter={false}
+>
+  <V2Nav />
+
+  <!-- PAGE HERO -->
+  <section class="blog-hero">
+    <div class="blog-hero-bg">
+      <img src="/images/hero-rege.png" alt="Blog Regê Engenharia" />
+      <div class="blog-hero-overlay"></div>
+    </div>
+    <div class="blog-hero-content v2-container">
+      <div class="blog-hero-badge">
+        <span class="v2-badge-dot"></span>
+        NOSSO BLOG
+      </div>
+      <h1 class="blog-hero-title">
+        <span class="blog-title-line" style="animation-delay:0.3s">CONTEÚDOS E</span>
+        <span class="blog-title-line blog-title-accent" style="animation-delay:0.45s">NOVIDADES</span>
+        <span class="blog-title-line blog-title-stroke" style="animation-delay:0.6s">SOBRE OBRAS.</span>
+      </h1>
+      <p class="blog-hero-sub">
+        Fique por dentro das melhores práticas na construção civil,
+        dicas de planejamento, projetos inovadores e legislação.
+      </p>
+      <nav class="blog-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Início</a>
+        <span class="blog-breadcrumb-sep">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </span>
+        <span>Blog</span>
+      </nav>
+    </div>
+  </section>
+
+  <!-- BLOG MAIN CONTENT -->
+  <section class="blog-section">
+    <div class="v2-container">
+      
+      <!-- Destaque Principal -->
+      <div class="blog-featured-post v2-reveal">
+        <div class="blog-featured-img">
+          <img src="/images/obra-residencial.png" alt="Construção Turnkey" />
+        </div>
+        <div class="blog-featured-text">
+          <div class="blog-post-meta">
+            <span class="blog-post-tag">CONSTRUÇÃO</span>
+            <span class="blog-post-date">15 Julho, 2026</span>
+          </div>
+          <h2>Como funciona o sistema de construção Chave na Mão (Turnkey)?</h2>
+          <p class="blog-post-excerpt">Descubra todas as vantagens e etapas do modelo construtivo que tem conquistado o litoral de Santa Catarina por sua comodidade, previsibilidade de custos e otimização total de prazos.</p>
+          <a href="#" class="blog-read-more">
+            <span>Ler Artigo Completo</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- Grid de Artigos -->
+      <div class="blog-grid">
+        
+        <!-- Post 1 -->
+        <article class="blog-card v2-reveal">
+          <div class="blog-card-img">
+            <img src="/images/projeto-arquitetonico.png" alt="Planejamento de Projetos" />
+          </div>
+          <div class="blog-card-content">
+            <div class="blog-post-meta">
+              <span class="blog-post-tag">PROJETOS</span>
+              <span class="blog-post-date">10 Julho, 2026</span>
+            </div>
+            <h3>5 erros comuns na hora de desenhar a planta da sua casa</h3>
+            <p>Erros simples no layout arquitetônico podem custar caro e comprometer o conforto. Veja como evitá-los em conjunto com seu engenheiro.</p>
+            <a href="#" class="blog-card-link">Ler mais</a>
+          </div>
+        </article>
+
+        <!-- Post 2 -->
+        <article class="blog-card v2-reveal v2-reveal-delay-1">
+          <div class="blog-card-img">
+            <img src="/images/regularizacao.png" alt="Averbação e Documentos" />
+          </div>
+          <div class="blog-card-content">
+            <div class="blog-post-meta">
+              <span class="blog-post-tag">LEGISLAÇÃO</span>
+              <span class="blog-post-date">05 Julho, 2026</span>
+            </div>
+            <h3>Averbação de imóvel: O que é e por que você deve fazer?</h3>
+            <p>Entenda por que manter o registro da construção do seu imóvel atualizado junto ao cartório é essencial para venda, financiamento e partilhas.</p>
+            <a href="#" class="blog-card-link">Ler mais</a>
+          </div>
+        </article>
+
+        <!-- Post 3 -->
+        <article class="blog-card v2-reveal v2-reveal-delay-2">
+          <div class="blog-card-img">
+            <img src="/images/obra-comercial.png" alt="Estruturas e Fundações" />
+          </div>
+          <div class="blog-card-content">
+            <div class="blog-post-meta">
+              <span class="blog-post-tag">ENGENHARIA</span>
+              <span class="blog-post-date">28 Junho, 2026</span>
+            </div>
+            <h3>A importância da sondagem de solo para a fundação da sua obra</h3>
+            <p>Economizar na análise geotécnica pode colocar em risco toda a segurança estrutural da construção. Descubra os riscos do recalque diferencial.</p>
+            <a href="#" class="blog-card-link">Ler mais</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- NEWSLETTER SECTION -->
+  <section class="blog-newsletter">
+    <div class="blog-news-bg" aria-hidden="true"></div>
+    <div class="v2-container blog-news-content">
+      <span class="v2-eyebrow v2-eyebrow-light">FIQUE ATUALIZADO</span>
+      <h2 class="v2-light">Inscreva-se na nossa Newsletter</h2>
+      <p>Receba em primeira mão nossas novidades, guias e dicas exclusivas para construir ou regularizar com inteligência.</p>
+      <form class="blog-news-form" onsubmit="event.preventDefault(); alert('Inscrição realizada com sucesso!');">
+        <input type="email" placeholder="Seu melhor e-mail" required />
+        <button type="submit" class="v2-btn v2-btn-gold">Inscrever-se</button>
+      </form>
+    </div>
+  </section>
+
+  <V2CtaSection />
+  <V2Footer />
+  <FloatingCTA />
+</Layout>
+
+<style>
+/* ============================
+   BLOG - PAGE HERO
+   ============================ */
+.blog-hero {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--v2-dark);
+}
+.blog-hero-bg {
+  position: absolute;
+  inset: 0;
+}
+.blog-hero-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.25;
+  filter: grayscale(30%) contrast(1.1);
+}
+.blog-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(to right, rgba(8,14,23,0.95) 40%, rgba(8,14,23,0.4) 100%),
+    linear-gradient(to top, rgba(8,14,23,0.95) 5%, transparent 40%);
+}
+.blog-hero-content {
+  position: relative;
+  z-index: 10;
+  padding: 12rem 1.5rem 5rem;
+}
+.blog-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  border: 1px solid rgba(201,168,76,0.3);
+  padding: 0.4rem 1rem;
+  border-radius: 100px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: blogFadeUp 0.8s var(--v2-ease-out) 0.1s forwards;
+}
+.blog-hero-title {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--v2-font-display);
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem;
+  color: var(--v2-white);
+}
+.blog-title-line {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: blogFadeUp 0.8s var(--v2-ease-out) forwards;
+}
+.blog-title-accent { color: var(--v2-gold); }
+.blog-title-stroke {
+  -webkit-text-stroke: 2px var(--v2-white);
+  color: transparent;
+}
+.blog-hero-sub {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: clamp(1rem, 1.8vw, 1.25rem);
+  color: rgba(240,234,216,0.7);
+  line-height: 1.6;
+  max-width: 520px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: blogFadeUp 0.8s var(--v2-ease-out) 0.65s forwards;
+}
+.blog-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  opacity: 0;
+  animation: blogFadeUp 0.8s var(--v2-ease-out) 0.8s forwards;
+}
+.blog-breadcrumb a {
+  color: var(--v2-muted);
+  text-decoration: none;
+  transition: color 0.25s;
+}
+.blog-breadcrumb a:hover { color: var(--v2-gold); }
+.blog-breadcrumb-sep { color: rgba(255,255,255,0.25); display: flex; }
+.blog-breadcrumb > span:last-child { color: var(--v2-gold); }
+
+@keyframes blogFadeUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================
+   BLOG - CONTEÚDO PRINCIPAL
+   ============================ */
+.blog-section {
+  padding: 8rem 0;
+  background: var(--v2-white);
+  position: relative;
+}
+.blog-section::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, var(--v2-gold), transparent);
+}
+
+/* Post em Destaque */
+.blog-featured-post {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 4rem;
+  background: rgba(8,14,23,0.02);
+  border: 1px solid rgba(8,14,23,0.05);
+  border-radius: var(--v2-radius-lg);
+  overflow: hidden;
+  margin-bottom: 6rem;
+  align-items: center;
+}
+.blog-featured-img {
+  aspect-ratio: 16/10;
+  width: 100%;
+  overflow: hidden;
+}
+.blog-featured-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.8s var(--v2-ease);
+}
+.blog-featured-post:hover .blog-featured-img img {
+  transform: scale(1.03);
+}
+.blog-featured-text {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.blog-post-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+.blog-post-tag {
+  font-family: var(--v2-font-display);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  background: var(--v2-gold-muted);
+  padding: 0.25rem 0.6rem;
+  border-radius: 2px;
+  border: 1px solid rgba(201,168,76,0.15);
+}
+.blog-post-date {
+  font-family: var(--v2-font-display);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #888;
+}
+.blog-featured-text h2 {
+  font-family: var(--v2-font-display);
+  font-size: 1.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 1.15;
+  color: var(--v2-dark);
+  margin: 0 0 1.25rem;
+  letter-spacing: -0.5px;
+}
+.blog-post-excerpt {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.8;
+  margin: 0 0 2rem;
+}
+.blog-read-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--v2-dark);
+  text-decoration: none;
+  align-self: flex-start;
+}
+.blog-read-more svg {
+  transition: transform 0.3s var(--v2-ease);
+}
+.blog-read-more:hover svg {
+  transform: translateX(4px);
+}
+
+/* Grid de Posts Secundários */
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+.blog-card {
+  background: var(--v2-white);
+  border: 1px solid rgba(8,14,23,0.06);
+  border-radius: var(--v2-radius-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.4s var(--v2-ease), box-shadow 0.4s;
+}
+.blog-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 45px rgba(8,14,23,0.08);
+}
+.blog-card-img {
+  aspect-ratio: 16/10;
+  overflow: hidden;
+  width: 100%;
+}
+.blog-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.8s var(--v2-ease);
+}
+.blog-card:hover .blog-card-img img {
+  transform: scale(1.05);
+}
+.blog-card-content {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.blog-card-content h3 {
+  font-family: var(--v2-font-display);
+  font-size: 1.05rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--v2-dark);
+  margin: 0 0 1rem;
+  line-height: 1.25;
+  letter-spacing: -0.2px;
+}
+.blog-card-content p {
+  font-size: 0.88rem;
+  color: #666;
+  line-height: 1.7;
+  margin: 0 0 1.5rem;
+  flex: 1;
+}
+.blog-card-link {
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  text-decoration: none;
+  transition: color 0.25s;
+}
+.blog-card-link:hover {
+  color: var(--v2-dark);
+}
+
+/* ============================
+   BLOG - NEWSLETTER
+   ============================ */
+.blog-newsletter {
+  position: relative;
+  padding: 8rem 0;
+  background: var(--v2-dark-2);
+  text-align: center;
+  overflow: hidden;
+}
+.blog-news-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 700px 500px at 50% 50%, rgba(201,168,76,0.04) 0%, transparent 70%);
+  pointer-events: none;
+}
+.blog-news-content {
+  position: relative;
+  z-index: 10;
+}
+.blog-news-content h2 {
+  font-family: var(--v2-font-display);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  margin: 0.5rem 0 1.25rem;
+}
+.blog-news-content p {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--v2-muted);
+  max-width: 500px;
+  margin: 0 auto 3rem;
+  line-height: 1.6;
+}
+.blog-news-form {
+  display: flex;
+  justify-content: center;
+  max-width: 550px;
+  margin: 0 auto;
+  gap: 0.5rem;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid var(--v2-border);
+}
+.blog-news-form input[type="email"] {
+  flex: 1;
+  background: transparent;
+  border: none;
+  padding: 0.8rem 1.2rem;
+  font-family: var(--v2-font-body);
+  font-size: 0.9rem;
+  color: var(--v2-white);
+  outline: none;
+}
+.blog-news-form input[type="email"]::placeholder {
+  color: rgba(255, 255, 255, 0.25);
+}
+.blog-news-form button {
+  white-space: nowrap;
+}
+
+/* ============================
+   RESPONSIVE
+   ============================ */
+@media (max-width: 900px) {
+  .blog-featured-post { grid-template-columns: 1fr; gap: 0; }
+  .blog-featured-text { padding: 2.5rem; }
+  .blog-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  .blog-hero-content { padding: 9rem 1rem 4rem; }
+  .blog-grid { grid-template-columns: 1fr; }
+  .blog-news-form { flex-direction: column; background: transparent; border: none; padding: 0; gap: 1rem; }
+  .blog-news-form input[type="email"] { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--v2-border); border-radius: 3px; }
+}
+</style>
+
+<script>
+  // Scroll reveal
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        revealObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+
+  document.querySelectorAll('.v2-reveal').forEach(el => revealObserver.observe(el));
+</script>
