@@ -122,19 +122,7 @@ import '../styles/v2.css';
     </div>
   </section>
 
-  <!-- NEWSLETTER SECTION -->
-  <section class="blog-newsletter">
-    <div class="blog-news-bg" aria-hidden="true"></div>
-    <div class="v2-container blog-news-content">
-      <span class="v2-eyebrow v2-eyebrow-light">FIQUE ATUALIZADO</span>
-      <h2 class="v2-light">Inscreva-se na nossa Newsletter</h2>
-      <p>Receba em primeira mão nossas novidades, guias e dicas exclusivas para construir ou regularizar com inteligência.</p>
-      <form class="blog-news-form" onsubmit="event.preventDefault(); alert('Inscrição realizada com sucesso!');">
-        <input type="email" placeholder="Seu melhor e-mail" required />
-        <button type="submit" class="v2-btn v2-btn-gold">Inscrever-se</button>
-      </form>
-    </div>
-  </section>
+
 
   <V2CtaSection />
   <V2Footer />
@@ -431,71 +419,7 @@ import '../styles/v2.css';
   color: var(--v2-dark);
 }
 
-/* ============================
-   BLOG - NEWSLETTER
-   ============================ */
-.blog-newsletter {
-  position: relative;
-  padding: 8rem 0;
-  background: var(--v2-dark-2);
-  text-align: center;
-  overflow: hidden;
-}
-.blog-news-bg {
-  position: absolute;
-  inset: 0;
-  background:
-    radial-gradient(ellipse 700px 500px at 50% 50%, rgba(201,168,76,0.04) 0%, transparent 70%);
-  pointer-events: none;
-}
-.blog-news-content {
-  position: relative;
-  z-index: 10;
-}
-.blog-news-content h2 {
-  font-family: var(--v2-font-display);
-  font-size: clamp(2rem, 4vw, 3rem);
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: -1px;
-  margin: 0.5rem 0 1.25rem;
-}
-.blog-news-content p {
-  font-family: var(--v2-font-serif);
-  font-style: italic;
-  font-size: 1.1rem;
-  color: var(--v2-muted);
-  max-width: 500px;
-  margin: 0 auto 3rem;
-  line-height: 1.6;
-}
-.blog-news-form {
-  display: flex;
-  justify-content: center;
-  max-width: 550px;
-  margin: 0 auto;
-  gap: 0.5rem;
-  background: rgba(255, 255, 255, 0.03);
-  padding: 0.5rem;
-  border-radius: 4px;
-  border: 1px solid var(--v2-border);
-}
-.blog-news-form input[type="email"] {
-  flex: 1;
-  background: transparent;
-  border: none;
-  padding: 0.8rem 1.2rem;
-  font-family: var(--v2-font-body);
-  font-size: 0.9rem;
-  color: var(--v2-white);
-  outline: none;
-}
-.blog-news-form input[type="email"]::placeholder {
-  color: rgba(255, 255, 255, 0.25);
-}
-.blog-news-form button {
-  white-space: nowrap;
-}
+
 
 /* ============================
    RESPONSIVE
@@ -509,8 +433,6 @@ import '../styles/v2.css';
 @media (max-width: 600px) {
   .blog-hero-content { padding: 9rem 1rem 4rem; }
   .blog-grid { grid-template-columns: 1fr; }
-  .blog-news-form { flex-direction: column; background: transparent; border: none; padding: 0; gap: 1rem; }
-  .blog-news-form input[type="email"] { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--v2-border); border-radius: 3px; }
 }
 </style>
 
