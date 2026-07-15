@@ -159,29 +159,7 @@ import '../styles/v2.css';
     </div>
   </section>
 
-  <!-- STATS / NÚMEROS -->
-  <section class="sobre-stats">
-    <div class="v2-container">
-      <div class="sobre-stats-grid">
-        <div class="sobre-stat v2-reveal">
-          <span class="sobre-stat-number">+8</span>
-          <span class="sobre-stat-label">Anos de<br />Experiência</span>
-        </div>
-        <div class="sobre-stat v2-reveal v2-reveal-delay-1">
-          <span class="sobre-stat-number">+50</span>
-          <span class="sobre-stat-label">Projetos<br />Entregues</span>
-        </div>
-        <div class="sobre-stat v2-reveal v2-reveal-delay-2">
-          <span class="sobre-stat-number">100%</span>
-          <span class="sobre-stat-label">Obras no<br />Prazo</span>
-        </div>
-        <div class="sobre-stat v2-reveal">
-          <span class="sobre-stat-number">+40</span>
-          <span class="sobre-stat-label">Clientes<br />Satisfeitos</span>
-        </div>
-      </div>
-    </div>
-  </section>
+
 
   <V2CtaSection />
   <V2Footer />
@@ -544,57 +522,7 @@ import '../styles/v2.css';
   line-height: 1.7;
 }
 
-/* ============================
-   SOBRE - NÚMEROS / STATS
-   ============================ */
-.sobre-stats {
-  padding: 5rem 0;
-  background: var(--v2-gold);
-  position: relative;
-  overflow: hidden;
-}
-.sobre-stats::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: repeating-linear-gradient(
-    90deg,
-    transparent,
-    transparent 25%,
-    rgba(8,14,23,0.04) 25%,
-    rgba(8,14,23,0.04) 25.5%
-  );
-  pointer-events: none;
-}
-.sobre-stats-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 2rem;
-  text-align: center;
-}
-.sobre-stat {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.5rem;
-}
-.sobre-stat-number {
-  font-family: var(--v2-font-display);
-  font-size: clamp(2.5rem, 4vw, 3.5rem);
-  font-weight: 800;
-  color: var(--v2-dark);
-  line-height: 1;
-  letter-spacing: -2px;
-}
-.sobre-stat-label {
-  font-family: var(--v2-font-display);
-  font-size: 0.68rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: rgba(8,14,23,0.55);
-  line-height: 1.4;
-}
+
 
 /* ============================
    RESPONSIVE
@@ -606,12 +534,10 @@ import '../styles/v2.css';
   .sobre-exp-badge { bottom: -1rem; right: 0.5rem; }
   .sobre-mvv-grid { grid-template-columns: 1fr; gap: 1rem; }
   .sobre-diff-grid { grid-template-columns: 1fr; gap: 1.25rem; }
-  .sobre-stats-grid { grid-template-columns: repeat(2, 1fr); gap: 2rem; }
 }
 
 @media (max-width: 600px) {
   .sobre-hero-content { padding: 9rem 1rem 4rem; }
-  .sobre-stats-grid { grid-template-columns: 1fr 1fr; }
   .sobre-diff-item { flex-direction: column; gap: 0.75rem; }
 }
 </style>
