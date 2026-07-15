@@ -1,0 +1,793 @@
+---
+import Layout from '../layouts/Layout.astro';
+import V2Nav from '../components/v2/V2Nav.astro';
+import V2Footer from '../components/v2/V2Footer.astro';
+import V2CtaSection from '../components/v2/V2CtaSection.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
+---
+
+<Layout
+  title="Serviços | Regê Engenharia — Projetos, Construção e Regularização"
+  description="Conheça os serviços da Regê Engenharia: gestão chave na mão, projetos personalizados, aprovações, regularizações e execução de obras em Navegantes - SC."
+  showHeader={false}
+  showFooter={false}
+>
+  <V2Nav />
+
+  <!-- PAGE HERO -->
+  <section class="svc-hero">
+    <div class="svc-hero-bg">
+      <img src="/images/hero-rege.png" alt="Obra Regê Engenharia" />
+      <div class="svc-hero-overlay"></div>
+    </div>
+    <div class="svc-hero-content v2-container">
+      <div class="svc-hero-badge">
+        <span class="v2-badge-dot"></span>
+        NOSSOS SERVIÇOS
+      </div>
+      <h1 class="svc-hero-title">
+        <span class="svc-title-line" style="animation-delay:0.3s">SOLUÇÕES</span>
+        <span class="svc-title-line svc-title-accent" style="animation-delay:0.45s">COMPLETAS</span>
+        <span class="svc-title-line svc-title-stroke" style="animation-delay:0.6s">EM ENGENHARIA.</span>
+      </h1>
+      <p class="svc-hero-sub">
+        Da concepção à entrega das chaves — cada serviço
+        é pensado para garantir excelência e tranquilidade.
+      </p>
+      <nav class="svc-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Início</a>
+        <span class="svc-breadcrumb-sep">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </span>
+        <span>Serviços</span>
+      </nav>
+    </div>
+  </section>
+
+  <!-- SERVIÇOS DETALHADOS -->
+  <section class="svc-detail">
+    <div class="v2-container">
+      <div class="v2-section-header v2-reveal" style="text-align:center; margin-bottom:5rem;">
+        <span class="v2-eyebrow">CONFIANÇA E EXCELÊNCIA</span>
+        <h2 class="v2-section-title">Serviços &amp;<br /><em>Soluções</em></h2>
+      </div>
+
+      <!-- SERVIÇO 01 -->
+      <div class="svc-block v2-reveal" id="chave-na-mao">
+        <div class="svc-block-img">
+          <div class="svc-block-frame">
+            <img src="/images/obra-residencial.png" alt="Gestão Chave na Mão" loading="lazy" />
+          </div>
+          <div class="svc-block-num">01</div>
+        </div>
+        <div class="svc-block-text">
+          <div class="svc-block-tag">TURNKEY</div>
+          <h3>Da Concepção à Chave na Mão</h3>
+          <p class="svc-block-lead">Cuidamos de absolutamente todo o processo da sua obra, desde os primeiros esboços até a entrega final das chaves.</p>
+          <p>Nosso modelo <strong>turnkey (chave na mão)</strong> é a solução ideal para quem deseja construir sem preocupações. Assumimos a responsabilidade completa do projeto: estudos preliminares, modelagem 3D, orçamento executivo detalhado, execução técnica no canteiro, gestão de fornecedores e a entrega das chaves com limpeza pós-obra.</p>
+          <ul class="svc-block-list">
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Estudos preliminares e viabilidade
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Modelagem de projetos integrados
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Orçamento executivo detalhado
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Execução técnica e gestão de canteiro
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Limpeza pós-obra e entrega das chaves
+            </li>
+          </ul>
+          <a href="https://bitlybr.net/rege" class="v2-btn v2-btn-primary" target="_blank" rel="noopener noreferrer">
+            <span>Solicitar Orçamento</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 14 0"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- SERVIÇO 02 -->
+      <div class="svc-block svc-block-reverse v2-reveal" id="projetos">
+        <div class="svc-block-img">
+          <div class="svc-block-frame">
+            <img src="/images/projeto-arquitetonico.png" alt="Projetos Personalizados" loading="lazy" />
+          </div>
+          <div class="svc-block-num">02</div>
+        </div>
+        <div class="svc-block-text">
+          <div class="svc-block-tag">PROJETOS</div>
+          <h3>Projetos Personalizados</h3>
+          <p class="svc-block-lead">Projetos de arquitetura, design de interiores, cálculo estrutural e instalações sob medida para o seu estilo de vida.</p>
+          <p>Cada projeto é único. Desenvolvemos soluções arquitetônicas que refletem a personalidade e as necessidades de cada cliente, utilizando tecnologia de ponta para modelagem e visualização. Nossos projetos são integrados, contemplando todas as disciplinas necessárias para uma construção eficiente.</p>
+          <ul class="svc-block-list">
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Projeto arquitetônico completo
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Design de interiores
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Projeto estrutural e cálculo
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Projetos de instalações (elétrica, hidráulica, etc.)
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Modelagem 3D e renderização
+            </li>
+          </ul>
+          <a href="https://bitlybr.net/rege" class="v2-btn v2-btn-primary" target="_blank" rel="noopener noreferrer">
+            <span>Falar sobre meu Projeto</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 14 0"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- SERVIÇO 03 -->
+      <div class="svc-block v2-reveal" id="regularizacao">
+        <div class="svc-block-img">
+          <div class="svc-block-frame">
+            <img src="/images/regularizacao.png" alt="Aprovações e Regularizações" loading="lazy" />
+          </div>
+          <div class="svc-block-num">03</div>
+        </div>
+        <div class="svc-block-text">
+          <div class="svc-block-tag">LEGAL</div>
+          <h3>Aprovações e Regularizações</h3>
+          <p class="svc-block-lead">Aprovação junto à Prefeitura, licenciamento do Corpo de Bombeiros, averbações e regularização completa de imóveis.</p>
+          <p>A burocracia não precisa ser um obstáculo. Nossa equipe conhece profundamente os trâmites legais e normativos necessários para regularizar seu imóvel ou obter todas as aprovações para sua nova construção. Tratamos de toda a documentação para que você tenha total segurança jurídica.</p>
+          <ul class="svc-block-list">
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Aprovação de projetos na Prefeitura
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Licenciamento do Corpo de Bombeiros
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Averbação de construção
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Regularização de imóveis
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Habite-se e certidões
+            </li>
+          </ul>
+          <a href="https://bitlybr.net/rege" class="v2-btn v2-btn-primary" target="_blank" rel="noopener noreferrer">
+            <span>Regularizar meu Imóvel</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 14 0"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- SERVIÇO 04 -->
+      <div class="svc-block svc-block-reverse v2-reveal" id="execucao">
+        <div class="svc-block-img">
+          <div class="svc-block-frame">
+            <img src="/images/obra-comercial.png" alt="Execução e Gestão de Obras" loading="lazy" />
+          </div>
+          <div class="svc-block-num">04</div>
+        </div>
+        <div class="svc-block-text">
+          <div class="svc-block-tag">EXECUÇÃO</div>
+          <h3>Execução &amp; Gestão de Obras</h3>
+          <p class="svc-block-lead">Gestão técnica rigorosa do canteiro com fidelidade ao projeto, prazos cumpridos e controle financeiro transparente.</p>
+          <p>Nossa gestão de obras combina rigor técnico com eficiência operacional. Controlamos cada aspecto da execução — cronograma, qualidade dos materiais, segurança do canteiro e custos — garantindo que sua obra seja entregue dentro do prazo e do orçamento, sem comprometer a qualidade.</p>
+          <ul class="svc-block-list">
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Gestão técnica de canteiro
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Controle de cronograma e prazos
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Relatórios financeiros periódicos
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Fiscalização de qualidade e segurança
+            </li>
+            <li>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              Gestão de fornecedores e subempreiteiros
+            </li>
+          </ul>
+          <a href="https://bitlybr.net/rege" class="v2-btn v2-btn-primary" target="_blank" rel="noopener noreferrer">
+            <span>Falar com a Equipe</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 14 0"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROCESSO DE TRABALHO -->
+  <section class="svc-process">
+    <div class="svc-process-bg" aria-hidden="true"></div>
+    <div class="v2-container">
+      <div class="v2-section-header v2-reveal" style="text-align:center;">
+        <span class="v2-eyebrow v2-eyebrow-light">METODOLOGIA</span>
+        <h2 class="v2-section-title v2-light">Como<br /><em>Trabalhamos</em></h2>
+      </div>
+      <div class="svc-process-grid">
+        <div class="svc-step v2-reveal">
+          <div class="svc-step-line" aria-hidden="true"></div>
+          <div class="svc-step-dot"></div>
+          <div class="svc-step-content">
+            <span class="svc-step-num">01</span>
+            <h4>Consulta Inicial</h4>
+            <p>Entendemos suas necessidades, estilo de vida, objetivos e orçamento disponível. Sem compromisso.</p>
+          </div>
+        </div>
+        <div class="svc-step v2-reveal v2-reveal-delay-1">
+          <div class="svc-step-line" aria-hidden="true"></div>
+          <div class="svc-step-dot"></div>
+          <div class="svc-step-content">
+            <span class="svc-step-num">02</span>
+            <h4>Estudo & Projeto</h4>
+            <p>Desenvolvemos o estudo de viabilidade, projeto arquitetônico e orçamento executivo detalhado.</p>
+          </div>
+        </div>
+        <div class="svc-step v2-reveal v2-reveal-delay-2">
+          <div class="svc-step-line" aria-hidden="true"></div>
+          <div class="svc-step-dot"></div>
+          <div class="svc-step-content">
+            <span class="svc-step-num">03</span>
+            <h4>Aprovações</h4>
+            <p>Cuidamos de toda a burocracia: aprovação na prefeitura, bombeiros, licenças e alvarás.</p>
+          </div>
+        </div>
+        <div class="svc-step v2-reveal">
+          <div class="svc-step-line" aria-hidden="true"></div>
+          <div class="svc-step-dot"></div>
+          <div class="svc-step-content">
+            <span class="svc-step-num">04</span>
+            <h4>Execução</h4>
+            <p>Início da obra com gestão rigorosa de cronograma, qualidade, segurança e custos.</p>
+          </div>
+        </div>
+        <div class="svc-step v2-reveal v2-reveal-delay-1">
+          <div class="svc-step-line" aria-hidden="true"></div>
+          <div class="svc-step-dot"></div>
+          <div class="svc-step-content">
+            <span class="svc-step-num">05</span>
+            <h4>Acompanhamento</h4>
+            <p>Relatórios periódicos, fotos e atualizações constantes sobre o andamento da sua obra.</p>
+          </div>
+        </div>
+        <div class="svc-step v2-reveal v2-reveal-delay-2">
+          <div class="svc-step-line" aria-hidden="true"></div>
+          <div class="svc-step-dot svc-step-dot-final"></div>
+          <div class="svc-step-content">
+            <span class="svc-step-num">06</span>
+            <h4>Entrega das Chaves</h4>
+            <p>Vistoria final, limpeza pós-obra e entrega das chaves com documentação completa.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="svc-faq">
+    <div class="v2-container">
+      <div class="svc-faq-grid">
+        <div class="svc-faq-header v2-reveal">
+          <span class="v2-eyebrow">DÚVIDAS</span>
+          <h2 class="v2-section-title">Perguntas<br /><em>Frequentes</em></h2>
+          <div class="v2-title-underline"></div>
+          <p class="svc-faq-intro">Tire suas principais dúvidas sobre nossos serviços. Se precisar de mais informações, estamos à disposição.</p>
+          <a href="https://bitlybr.net/rege" class="v2-btn v2-btn-primary" target="_blank" rel="noopener noreferrer">
+            <span>Falar no WhatsApp</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 14 0"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+        </div>
+        <div class="svc-faq-list v2-reveal v2-reveal-delay-1">
+          <details class="svc-faq-item">
+            <summary>
+              O que é o modelo chave na mão (turnkey)?
+              <svg class="svc-faq-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+            </summary>
+            <p>É um modelo de construção onde a Regê Engenharia assume a responsabilidade total do projeto, desde a concepção até a entrega final das chaves. O cliente participa das decisões importantes, mas não precisa se preocupar com a gestão do dia a dia da obra.</p>
+          </details>
+          <details class="svc-faq-item">
+            <summary>
+              Vocês fazem obras residenciais e comerciais?
+              <svg class="svc-faq-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+            </summary>
+            <p>Sim! Atuamos em obras residenciais (casas, sobrados, edifícios) e comerciais (lojas, galpões, escritórios). Cada projeto recebe atenção personalizada de acordo com suas necessidades específicas.</p>
+          </details>
+          <details class="svc-faq-item">
+            <summary>
+              Qual a área de atuação da Regê Engenharia?
+              <svg class="svc-faq-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+            </summary>
+            <p>Nossa sede fica em Navegantes - SC e atendemos toda a região do Vale do Itajaí e litoral catarinense, incluindo cidades como Itajaí, Balneário Camboriú, Penha, Piçarras e região.</p>
+          </details>
+          <details class="svc-faq-item">
+            <summary>
+              Como funciona o controle financeiro das obras?
+              <svg class="svc-faq-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+            </summary>
+            <p>Trabalhamos com orçamento executivo detalhado desde o primeiro dia. O cliente recebe relatórios financeiros periódicos com todos os custos discriminados, garantindo total transparência e previsibilidade.</p>
+          </details>
+          <details class="svc-faq-item">
+            <summary>
+              Posso contratar apenas o projeto, sem a execução?
+              <svg class="svc-faq-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+            </summary>
+            <p>Sim, nossos serviços são modulares. Você pode contratar apenas o projeto arquitetônico, apenas a regularização, ou o pacote completo chave na mão. Adaptamos a proposta às suas necessidades.</p>
+          </details>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <V2CtaSection />
+  <V2Footer />
+  <FloatingCTA />
+</Layout>
+
+<style>
+/* ============================
+   SERVIÇOS - PAGE HERO
+   ============================ */
+.svc-hero {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--v2-dark);
+}
+.svc-hero-bg {
+  position: absolute;
+  inset: 0;
+}
+.svc-hero-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.25;
+  filter: grayscale(30%) contrast(1.1);
+}
+.svc-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(to right, rgba(8,14,23,0.95) 40%, rgba(8,14,23,0.4) 100%),
+    linear-gradient(to top, rgba(8,14,23,0.95) 5%, transparent 40%);
+}
+.svc-hero-content {
+  position: relative;
+  z-index: 10;
+  padding: 12rem 1.5rem 5rem;
+}
+.svc-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  border: 1px solid rgba(201,168,76,0.3);
+  padding: 0.4rem 1rem;
+  border-radius: 100px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: svcFadeUp 0.8s var(--v2-ease-out) 0.1s forwards;
+}
+.svc-hero-title {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--v2-font-display);
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem;
+  color: var(--v2-white);
+}
+.svc-title-line {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: svcFadeUp 0.8s var(--v2-ease-out) forwards;
+}
+.svc-title-accent { color: var(--v2-gold); }
+.svc-title-stroke {
+  -webkit-text-stroke: 2px var(--v2-white);
+  color: transparent;
+}
+.svc-hero-sub {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: clamp(1rem, 1.8vw, 1.25rem);
+  color: rgba(240,234,216,0.7);
+  line-height: 1.6;
+  max-width: 520px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: svcFadeUp 0.8s var(--v2-ease-out) 0.65s forwards;
+}
+.svc-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  opacity: 0;
+  animation: svcFadeUp 0.8s var(--v2-ease-out) 0.8s forwards;
+}
+.svc-breadcrumb a {
+  color: var(--v2-muted);
+  text-decoration: none;
+  transition: color 0.25s;
+}
+.svc-breadcrumb a:hover { color: var(--v2-gold); }
+.svc-breadcrumb-sep { color: rgba(255,255,255,0.25); display: flex; }
+.svc-breadcrumb > span:last-child { color: var(--v2-gold); }
+
+@keyframes svcFadeUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================
+   SERVIÇOS - BLOCOS DETALHADOS
+   ============================ */
+.svc-detail {
+  padding: 8rem 0;
+  background: var(--v2-white);
+  position: relative;
+}
+.svc-detail::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, var(--v2-gold), transparent);
+}
+.svc-block {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 5rem;
+  align-items: center;
+  margin-bottom: 6rem;
+  padding-bottom: 6rem;
+  border-bottom: 1px solid rgba(8,14,23,0.06);
+}
+.svc-block:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+.svc-block-reverse { direction: rtl; }
+.svc-block-reverse > * { direction: ltr; }
+.svc-block-img { position: relative; }
+.svc-block-frame {
+  position: relative;
+  aspect-ratio: 4/3;
+  border-radius: var(--v2-radius-lg);
+  overflow: hidden;
+  box-shadow: 0 25px 50px rgba(8,14,23,0.15);
+}
+.svc-block-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.8s var(--v2-ease);
+}
+.svc-block-frame:hover img { transform: scale(1.04); }
+.svc-block-frame::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent 60%, rgba(8,14,23,0.3));
+  z-index: 1;
+  pointer-events: none;
+}
+.svc-block-num {
+  position: absolute;
+  top: -1rem;
+  left: -1rem;
+  font-family: var(--v2-font-display);
+  font-size: 4rem;
+  font-weight: 800;
+  color: var(--v2-gold);
+  opacity: 0.15;
+  line-height: 1;
+  z-index: 2;
+  pointer-events: none;
+}
+.svc-block-reverse .svc-block-num {
+  left: auto;
+  right: -1rem;
+}
+.svc-block-tag {
+  display: inline-block;
+  font-family: var(--v2-font-display);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  background: var(--v2-gold-muted);
+  padding: 0.35rem 0.8rem;
+  border-radius: 2px;
+  border: 1px solid rgba(201,168,76,0.2);
+  margin-bottom: 1.25rem;
+}
+.svc-block-text h3 {
+  font-family: var(--v2-font-display);
+  font-size: clamp(1.3rem, 2.5vw, 1.8rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+  color: var(--v2-dark);
+  margin-bottom: 1rem;
+  line-height: 1.15;
+}
+.svc-block-lead {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--v2-dark-3);
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+.svc-block-text > p:not(.svc-block-lead) {
+  font-size: 0.92rem;
+  color: #555;
+  line-height: 1.85;
+  margin-bottom: 1.5rem;
+}
+.svc-block-text > p strong { color: var(--v2-dark); font-weight: 700; }
+.svc-block-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+.svc-block-list li {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  font-size: 0.88rem;
+  color: #444;
+  font-weight: 500;
+}
+.svc-block-list li svg {
+  stroke: var(--v2-gold);
+  flex-shrink: 0;
+}
+
+/* ============================
+   SERVIÇOS - PROCESSO
+   ============================ */
+.svc-process {
+  position: relative;
+  padding: 8rem 0;
+  background: var(--v2-dark-2);
+  overflow: hidden;
+}
+.svc-process-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 800px 600px at 50% 30%, rgba(201,168,76,0.05) 0%, transparent 70%);
+  pointer-events: none;
+}
+.svc-process-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+.svc-step {
+  position: relative;
+  padding: 2rem;
+  background: var(--v2-panel);
+  border: 1px solid var(--v2-border);
+  border-radius: var(--v2-radius-lg);
+  transition: transform 0.4s var(--v2-ease), border-color 0.3s, box-shadow 0.4s;
+}
+.svc-step:hover {
+  transform: translateY(-4px);
+  border-color: rgba(201,168,76,0.25);
+  box-shadow: 0 16px 40px rgba(8,14,23,0.4);
+}
+.svc-step-dot {
+  width: 12px;
+  height: 12px;
+  background: var(--v2-gold);
+  border-radius: 50%;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+.svc-step-dot::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border: 2px solid rgba(201,168,76,0.3);
+  border-radius: 50%;
+}
+.svc-step-dot-final {
+  background: var(--v2-gold);
+  box-shadow: 0 0 0 4px rgba(201,168,76,0.2), 0 0 20px rgba(201,168,76,0.3);
+}
+.svc-step-num {
+  display: block;
+  font-family: var(--v2-font-display);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--v2-gold);
+  opacity: 0.6;
+  margin-bottom: 0.75rem;
+}
+.svc-step h4 {
+  font-family: var(--v2-font-display);
+  font-size: 0.88rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-white);
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+.svc-step p {
+  font-size: 0.85rem;
+  color: var(--v2-muted);
+  line-height: 1.7;
+}
+.svc-step-line { display: none; }
+
+/* ============================
+   SERVIÇOS - FAQ
+   ============================ */
+.svc-faq {
+  padding: 8rem 0;
+  background: var(--v2-white);
+  position: relative;
+}
+.svc-faq::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, var(--v2-gold), transparent);
+}
+.svc-faq-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 5rem;
+  align-items: start;
+}
+.svc-faq-header {
+  position: sticky;
+  top: 8rem;
+}
+.svc-faq-header .v2-title-underline {
+  width: 50px;
+  height: 3px;
+  background: var(--v2-gold);
+  margin: 1.5rem 0 2rem;
+  border-radius: 2px;
+}
+.svc-faq-intro {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 2rem;
+}
+.svc-faq-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.svc-faq-item {
+  border-bottom: 1px solid rgba(8,14,23,0.08);
+}
+.svc-faq-item:first-child {
+  border-top: 1px solid rgba(8,14,23,0.08);
+}
+.svc-faq-item summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.5rem 0;
+  cursor: pointer;
+  font-family: var(--v2-font-display);
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--v2-dark);
+  line-height: 1.4;
+  list-style: none;
+  transition: color 0.25s;
+}
+.svc-faq-item summary::-webkit-details-marker { display: none; }
+.svc-faq-item summary::marker { display: none; content: ''; }
+.svc-faq-item summary:hover { color: var(--v2-gold); }
+.svc-faq-chevron {
+  flex-shrink: 0;
+  stroke: var(--v2-gold);
+  transition: transform 0.3s var(--v2-ease);
+}
+.svc-faq-item[open] .svc-faq-chevron {
+  transform: rotate(180deg);
+}
+.svc-faq-item p {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.8;
+  padding: 0 0 1.5rem;
+}
+
+/* ============================
+   RESPONSIVE
+   ============================ */
+@media (max-width: 900px) {
+  .svc-block {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+  .svc-block-reverse { direction: ltr; }
+  .svc-block-img { order: -1; }
+  .svc-block-frame { aspect-ratio: 16/9; max-height: 350px; }
+  .svc-block-num { top: -0.5rem; left: 0.5rem; font-size: 3rem; }
+  .svc-block-reverse .svc-block-num { right: auto; left: 0.5rem; }
+  .svc-process-grid { grid-template-columns: 1fr; gap: 1rem; }
+  .svc-faq-grid { grid-template-columns: 1fr; gap: 3rem; }
+  .svc-faq-header { position: static; }
+}
+
+@media (max-width: 600px) {
+  .svc-hero-content { padding: 9rem 1rem 4rem; }
+  .svc-block { gap: 2rem; margin-bottom: 4rem; padding-bottom: 4rem; }
+}
+</style>
+
+<script>
+  // Scroll reveal
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        revealObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+
+  document.querySelectorAll('.v2-reveal').forEach(el => revealObserver.observe(el));
+</script>
