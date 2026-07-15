@@ -3,29 +3,59 @@
 
 <footer class="v2-footer">
   <div class="v2-container v2-footer-inner">
+    
     <div class="v2-footer-brand">
       <a href="/" class="v2-logo">
         <span class="v2-logo-mark">R</span>
         <span class="v2-logo-text">REGÊ <em>ENGENHARIA</em></span>
       </a>
-      <p>Da concepção à chave na mão.<br />Navegantes · SC</p>
+      <p>Projeto focado no planejamento, engenharia e construção civil de alta performance no modelo turnkey e excelência técnica.</p>
     </div>
-    <nav class="v2-footer-nav" aria-label="Links do rodapé">
+
+    <nav class="v2-footer-nav" aria-label="Navegação">
       <h4>Navegação</h4>
-      <a href="/sobre">Sobre</a>
-      <a href="/servicos">Serviços</a>
+      <a href="/">Início</a>
+      <a href="/sobre">Sobre Nós</a>
+      <a href="/servicos">Nossos Serviços</a>
       <a href="/portfolio">Portfólio</a>
       <a href="/blog">Blog</a>
     </nav>
-    <nav class="v2-footer-nav" aria-label="Contato">
-      <h4>Contato</h4>
-      <a href="tel:+5547992184100">(47) 99218-4100</a>
-      <a href="https://bitlybr.net/rege" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-      <a href="mailto:contato@rege.eng.br">contato@rege.eng.br</a>
+
+    <nav class="v2-footer-nav" aria-label="Serviços">
+      <h4>Serviços</h4>
+      <a href="/servicos">Obra Residencial</a>
+      <a href="/servicos">Projeto & Engenharia</a>
+      <a href="/servicos">Obra Comercial</a>
+      <a href="/servicos">Regularização Imobiliária</a>
+      <a href="/servicos">Laudos e Vistorias</a>
     </nav>
+
+    <nav class="v2-footer-nav" aria-label="Atendimento">
+      <h4>Atendimento</h4>
+      <a href="#">Litoral SC e Região</a>
+      <a href="#">Projetos Personalizados</a>
+      <a href="https://bitlybr.net/rege" target="_blank" rel="noopener noreferrer">Consultoria Técnica</a>
+      <a href="https://bitlybr.net/rege" target="_blank" rel="noopener noreferrer">Suporte Dedicado</a>
+    </nav>
+
+    <nav class="v2-footer-nav" aria-label="Institucional">
+      <h4>Institucional</h4>
+      <a href="#">Termos de Uso</a>
+      <a href="#">Considerações Importantes</a>
+      <a href="#">Política de Privacidade</a>
+      <a href="#">Trabalhe Conosco</a>
+      <a href="https://bitlybr.net/rege" target="_blank" rel="noopener noreferrer">Contato</a>
+    </nav>
+
   </div>
   <div class="v2-footer-bottom">
-    <p>© 2024 Regê Engenharia — Todos os direitos reservados.</p>
+    <div class="v2-container v2-footer-bottom-inner">
+      <p>© 2026 Regê Engenharia. Todos os direitos reservados.</p>
+      <div class="v2-footer-social">
+        <a href="#" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Facebook</a>
+      </div>
+    </div>
   </div>
 </footer>
 
@@ -34,16 +64,18 @@
 .v2-footer {
   background: var(--v2-dark);
   border-top: 1px solid var(--v2-border);
-  padding: 4rem 1.5rem 0;
+  padding: 5rem 0 0;
 }
 .v2-footer-inner {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  gap: 3rem;
-  padding-bottom: 3rem;
-  border-bottom: 1px solid var(--v2-border);
+  grid-template-columns: 2fr 1fr 1.5fr 1fr 1fr;
+  gap: 2rem;
+  padding-bottom: 4rem;
   max-width: 1200px;
   margin: 0 auto;
+}
+.v2-footer-brand {
+  padding-right: 2rem;
 }
 .v2-footer-brand p {
   font-size: 0.88rem;
@@ -51,14 +83,12 @@
   line-height: 1.7;
   margin-top: 1.25rem;
 }
-.v2-footer-nav { display: flex; flex-direction: column; gap: 0.75rem; }
+.v2-footer-nav { display: flex; flex-direction: column; gap: 1rem; }
 .v2-footer-nav h4 {
-  font-family: var(--v2-font-display);
-  font-size: 0.65rem;
+  font-family: var(--v2-font-body);
+  font-size: 0.95rem;
   font-weight: 700;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  color: var(--v2-gold);
+  color: var(--v2-white);
   margin-bottom: 0.5rem;
 }
 .v2-footer-nav a {
@@ -67,17 +97,32 @@
   text-decoration: none;
   transition: color 0.2s;
 }
-.v2-footer-nav a:hover { color: var(--v2-white); }
+.v2-footer-nav a:hover { color: var(--v2-gold); }
+
 .v2-footer-bottom {
-  max-width: 1200px;
-  margin: 0 auto;
+  border-top: 1px solid var(--v2-border);
+  background: var(--v2-dark);
+}
+.v2-footer-bottom-inner {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5rem 0;
-  gap: 1rem;
+  padding: 1.5rem 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
-.v2-footer-bottom p { font-size: 0.78rem; color: rgba(255,255,255,0.3); }
+.v2-footer-bottom p { font-size: 0.78rem; color: rgba(255,255,255,0.6); margin: 0; }
+.v2-footer-social {
+  display: flex;
+  gap: 1.5rem;
+}
+.v2-footer-social a {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.6);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.v2-footer-social a:hover { color: var(--v2-gold); }
 
 .v2-logo {
   display: flex;
@@ -115,14 +160,18 @@
   font-weight: 400;
 }
 
-@media (max-width: 900px) {
-  .v2-footer-inner { grid-template-columns: 1fr 1fr; }
-  .v2-footer-brand { grid-column: span 2; }
+@media (max-width: 1100px) {
+  .v2-footer-inner { grid-template-columns: 1.5fr 1fr 1fr; gap: 3rem; }
+}
+
+@media (max-width: 768px) {
+  .v2-footer-inner { grid-template-columns: 1fr 1fr; gap: 2.5rem; }
+  .v2-footer-brand { grid-column: span 2; padding-right: 0; }
 }
 
 @media (max-width: 600px) {
-  .v2-footer-inner { grid-template-columns: 1fr; }
+  .v2-footer-inner { grid-template-columns: 1fr; gap: 2rem; }
   .v2-footer-brand { grid-column: span 1; }
-  .v2-footer-bottom { flex-direction: column; text-align: center; gap: 0.5rem; }
+  .v2-footer-bottom-inner { flex-direction: column; text-align: center; gap: 1rem; }
 }
 </style>
