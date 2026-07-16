@@ -1,0 +1,675 @@
+---
+import Layout from '../layouts/Layout.astro';
+import V2Nav from '../components/v2/V2Nav.astro';
+import V2Footer from '../components/v2/V2Footer.astro';
+import FloatingCTA from '../components/FloatingCTA.astro';
+---
+
+<Layout 
+  title="Trabalhe Conosco | Regê Engenharia" 
+  description="Faça parte da equipe Regê Engenharia. Confira nossas áreas de atuação, valores e como se candidatar a uma vaga em engenharia e construção civil."
+>
+  <V2Nav />
+
+  <main class="tc-page">
+    <!-- HERO -->
+    <header class="tc-hero">
+      <div class="tc-hero-glow"></div>
+      <div class="v2-container">
+        <span class="v2-eyebrow">CARREIRA</span>
+        <h1>Trabalhe<br><span class="tc-hero-accent">Conosco</span></h1>
+        <p class="tc-hero-desc">
+          Estamos sempre em busca de profissionais que compartilham nossa paixão por engenharia de excelência. 
+          Se você quer crescer em uma empresa que valoriza talento, comprometimento e inovação, este é o seu lugar.
+        </p>
+        <div class="tc-hero-stats">
+          <div class="tc-stat">
+            <span class="tc-stat-number">9+</span>
+            <span class="tc-stat-label">Anos de Mercado</span>
+          </div>
+          <div class="tc-stat-divider"></div>
+          <div class="tc-stat">
+            <span class="tc-stat-number">50+</span>
+            <span class="tc-stat-label">Projetos Entregues</span>
+          </div>
+          <div class="tc-stat-divider"></div>
+          <div class="tc-stat">
+            <span class="tc-stat-number">SC</span>
+            <span class="tc-stat-label">Litoral Catarinense</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- POR QUE TRABALHAR CONOSCO -->
+    <section class="tc-why">
+      <div class="v2-container">
+        <span class="v2-eyebrow">POR QUE A REGÊ?</span>
+        <h2 class="tc-section-title">Mais do que um emprego,<br>uma <span class="tc-title-accent">carreira com propósito</span>.</h2>
+        
+        <div class="tc-benefits-grid">
+          <div class="tc-benefit-card">
+            <div class="tc-benefit-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+            </div>
+            <h3>Projetos de Impacto</h3>
+            <p>Trabalhe em obras reais que transformam a paisagem do litoral catarinense. Do residencial ao comercial, cada projeto é uma oportunidade de aprendizado.</p>
+          </div>
+          <div class="tc-benefit-card">
+            <div class="tc-benefit-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            </div>
+            <h3>Equipe Colaborativa</h3>
+            <p>Valorizamos o trabalho em equipe, o respeito entre profissionais e a troca de experiências. Aqui, sua opinião é ouvida e suas ideias têm espaço.</p>
+          </div>
+          <div class="tc-benefit-card">
+            <div class="tc-benefit-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+            </div>
+            <h3>Crescimento Profissional</h3>
+            <p>Incentivamos capacitação técnica, cursos de especialização e a evolução contínua. Seu crescimento é o nosso crescimento.</p>
+          </div>
+          <div class="tc-benefit-card">
+            <div class="tc-benefit-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <h3>Segurança e Ética</h3>
+            <p>Trabalhamos com total conformidade com as normas regulamentadoras (NRs), priorizando a segurança de todos em cada canteiro de obra.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- VALORES -->
+    <section class="tc-values">
+      <div class="v2-container">
+        <span class="v2-eyebrow">O QUE BUSCAMOS</span>
+        <h2 class="tc-section-title">O perfil que <span class="tc-title-accent">valorizamos</span></h2>
+        <div class="tc-values-grid">
+          <div class="tc-value-item">
+            <span class="tc-value-number">01</span>
+            <div>
+              <h4>Comprometimento</h4>
+              <p>Profissionais que cumprem prazos, honram compromissos e tratam cada projeto como se fosse o seu próprio.</p>
+            </div>
+          </div>
+          <div class="tc-value-item">
+            <span class="tc-value-number">02</span>
+            <div>
+              <h4>Excelência Técnica</h4>
+              <p>Buscamos quem tem sede de conhecimento, acompanha normas técnicas e se mantém atualizado no mercado da construção civil.</p>
+            </div>
+          </div>
+          <div class="tc-value-item">
+            <span class="tc-value-number">03</span>
+            <div>
+              <h4>Proatividade</h4>
+              <p>Valorizamos quem antecipa problemas, propõe soluções e não espera ordens para fazer a diferença no dia a dia da obra.</p>
+            </div>
+          </div>
+          <div class="tc-value-item">
+            <span class="tc-value-number">04</span>
+            <div>
+              <h4>Trabalho em Equipe</h4>
+              <p>Engenharia é colaboração. Procuramos profissionais que sabem ouvir, ensinar e construir junto — tanto paredes quanto relações.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ÁREAS DE ATUAÇÃO -->
+    <section class="tc-areas">
+      <div class="v2-container">
+        <span class="v2-eyebrow">ÁREAS</span>
+        <h2 class="tc-section-title">Áreas em que <span class="tc-title-accent">atuamos</span></h2>
+        <p class="tc-areas-desc">Mesmo sem vagas abertas no momento, mantemos um banco de talentos ativo. Envie seu currículo para as áreas abaixo e entraremos em contato assim que surgir uma oportunidade compatível.</p>
+
+        <div class="tc-areas-grid">
+          <div class="tc-area-card">
+            <div class="tc-area-icon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg>
+            </div>
+            <h4>Engenharia Civil</h4>
+            <p>Planejamento, execução e fiscalização de obras residenciais e comerciais.</p>
+            <ul>
+              <li>Engenheiro(a) Civil</li>
+              <li>Estagiário(a) de Engenharia</li>
+            </ul>
+          </div>
+
+          <div class="tc-area-card">
+            <div class="tc-area-icon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+            </div>
+            <h4>Projetos e Arquitetura</h4>
+            <p>Elaboração de projetos arquitetônicos, estruturais e complementares.</p>
+            <ul>
+              <li>Arquiteto(a)</li>
+              <li>Projetista / Cadista</li>
+            </ul>
+          </div>
+
+          <div class="tc-area-card">
+            <div class="tc-area-icon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
+            </div>
+            <h4>Execução de Obras</h4>
+            <p>Mão de obra qualificada no canteiro: alvenaria, elétrica, hidráulica e acabamentos.</p>
+            <ul>
+              <li>Mestre de Obras</li>
+              <li>Pedreiro / Eletricista / Encanador</li>
+              <li>Servente / Auxiliar</li>
+            </ul>
+          </div>
+
+          <div class="tc-area-card">
+            <div class="tc-area-icon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+            </div>
+            <h4>Administrativo</h4>
+            <p>Suporte administrativo, financeiro e atendimento ao cliente.</p>
+            <ul>
+              <li>Auxiliar Administrativo</li>
+              <li>Marketing / Social Media</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMO SE CANDIDATAR -->
+    <section class="tc-apply">
+      <div class="v2-container">
+        <div class="tc-apply-card">
+          <div class="tc-apply-content">
+            <span class="v2-eyebrow">ENVIE SEU CURRÍCULO</span>
+            <h2>Pronto para fazer<br>parte da <span class="tc-title-accent">equipe</span>?</h2>
+            <p>Envie seu currículo atualizado para o e-mail abaixo com o assunto <strong>"Trabalhe Conosco — [Área de Interesse]"</strong>. Vamos analisar com atenção e entrar em contato caso haja oportunidades compatíveis com o seu perfil.</p>
+            
+            <div class="tc-apply-info">
+              <div class="tc-apply-row">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+                <a href="mailto:contato@rege.eng.br">contato@rege.eng.br</a>
+              </div>
+              <div class="tc-apply-row">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                <a href="tel:+5547992184100">(47) 99218-4100</a>
+              </div>
+              <div class="tc-apply-row">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                <span>Navegantes, SC — Litoral Catarinense</span>
+              </div>
+            </div>
+
+            <div class="tc-apply-actions">
+              <a href="https://bitlybr.net/rege" target="_blank" rel="noopener noreferrer" class="tc-apply-btn">
+                Enviar Currículo via WhatsApp
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+              </a>
+            </div>
+          </div>
+
+          <div class="tc-apply-visual">
+            <div class="tc-apply-steps">
+              <div class="tc-step">
+                <span class="tc-step-num">1</span>
+                <div>
+                  <h5>Envie seu CV</h5>
+                  <p>Por e-mail ou WhatsApp</p>
+                </div>
+              </div>
+              <div class="tc-step">
+                <span class="tc-step-num">2</span>
+                <div>
+                  <h5>Análise</h5>
+                  <p>Avaliamos seu perfil</p>
+                </div>
+              </div>
+              <div class="tc-step">
+                <span class="tc-step-num">3</span>
+                <div>
+                  <h5>Entrevista</h5>
+                  <p>Conversa com a equipe</p>
+                </div>
+              </div>
+              <div class="tc-step">
+                <span class="tc-step-num">4</span>
+                <div>
+                  <h5>Bem-vindo!</h5>
+                  <p>Integração à equipe Regê</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <V2Footer />
+  <FloatingCTA />
+</Layout>
+
+<style>
+.tc-page {
+  background: var(--v2-dark);
+  color: var(--v2-white);
+}
+
+/* ========== HERO ========== */
+.tc-hero {
+  padding: 12rem 0 6rem;
+  border-bottom: 1px solid var(--v2-border);
+  background: linear-gradient(160deg, var(--v2-dark-2) 0%, var(--v2-dark) 100%);
+  position: relative;
+  overflow: hidden;
+}
+.tc-hero-glow {
+  position: absolute;
+  top: -120px;
+  right: -100px;
+  width: 550px;
+  height: 550px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(200, 160, 80, 0.07) 0%, transparent 65%);
+  pointer-events: none;
+}
+.tc-hero h1 {
+  font-family: var(--v2-font-display);
+  font-size: clamp(3rem, 6vw, 5rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -2px;
+  line-height: 1;
+  color: var(--v2-white);
+  margin: 0.5rem 0 1.5rem;
+}
+.tc-hero-accent {
+  color: var(--v2-gold);
+  -webkit-text-stroke: 1px var(--v2-gold);
+}
+.tc-hero-desc {
+  font-family: var(--v2-font-body);
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.6);
+  max-width: 600px;
+  margin: 0 0 3rem;
+}
+.tc-hero-stats {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+.tc-stat-number {
+  display: block;
+  font-family: var(--v2-font-display);
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--v2-gold);
+  letter-spacing: -1px;
+}
+.tc-stat-label {
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--v2-muted);
+}
+.tc-stat-divider {
+  width: 1px;
+  height: 40px;
+  background: var(--v2-border);
+}
+
+/* ========== SECTION TITLES ========== */
+.tc-section-title {
+  font-family: var(--v2-font-display);
+  font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  color: var(--v2-white);
+  margin: 0.5rem 0 2rem;
+  line-height: 1.15;
+}
+.tc-title-accent {
+  color: var(--v2-gold);
+}
+
+/* ========== POR QUE A REGÊ ========== */
+.tc-why {
+  padding: 7rem 0;
+  border-bottom: 1px solid var(--v2-border);
+}
+.tc-benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 1rem;
+}
+.tc-benefit-card {
+  background: var(--v2-dark-2);
+  border: 1px solid var(--v2-border);
+  border-radius: 8px;
+  padding: 2rem;
+  transition: all 0.3s var(--v2-ease);
+}
+.tc-benefit-card:hover {
+  border-color: rgba(200, 160, 80, 0.3);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+}
+.tc-benefit-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  background: rgba(200, 160, 80, 0.1);
+  border: 1px solid rgba(200, 160, 80, 0.2);
+  border-radius: 10px;
+  color: var(--v2-gold);
+  margin-bottom: 1.25rem;
+}
+.tc-benefit-card h3 {
+  font-family: var(--v2-font-display);
+  font-size: 1rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-white);
+  margin: 0 0 0.75rem;
+}
+.tc-benefit-card p {
+  font-family: var(--v2-font-body);
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0;
+}
+
+/* ========== VALORES ========== */
+.tc-values {
+  padding: 7rem 0;
+  border-bottom: 1px solid var(--v2-border);
+}
+.tc-values-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.5rem;
+}
+.tc-value-item {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+.tc-value-number {
+  font-family: var(--v2-font-display);
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: rgba(200, 160, 80, 0.15);
+  line-height: 1;
+  flex-shrink: 0;
+}
+.tc-value-item h4 {
+  font-family: var(--v2-font-display);
+  font-size: 0.85rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-white);
+  margin: 0 0 0.5rem;
+}
+.tc-value-item p {
+  font-family: var(--v2-font-body);
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.55);
+  margin: 0;
+}
+
+/* ========== ÁREAS ========== */
+.tc-areas {
+  padding: 7rem 0;
+  border-bottom: 1px solid var(--v2-border);
+}
+.tc-areas-desc {
+  font-family: var(--v2-font-body);
+  font-size: 1rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.6);
+  max-width: 680px;
+  margin: -0.5rem 0 3rem;
+}
+.tc-areas-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+.tc-area-card {
+  background: var(--v2-dark-2);
+  border: 1px solid var(--v2-border);
+  border-radius: 8px;
+  padding: 1.75rem;
+  transition: all 0.3s var(--v2-ease);
+}
+.tc-area-card:hover {
+  border-color: rgba(200, 160, 80, 0.3);
+}
+.tc-area-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: rgba(200, 160, 80, 0.1);
+  border: 1px solid rgba(200, 160, 80, 0.2);
+  border-radius: 8px;
+  color: var(--v2-gold);
+  margin-bottom: 1.25rem;
+}
+.tc-area-card h4 {
+  font-family: var(--v2-font-display);
+  font-size: 0.85rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-white);
+  margin: 0 0 0.5rem;
+}
+.tc-area-card > p {
+  font-family: var(--v2-font-body);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0 0 1rem;
+}
+.tc-area-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  border-top: 1px solid var(--v2-border);
+  padding-top: 1rem;
+}
+.tc-area-card li {
+  font-family: var(--v2-font-body);
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.6);
+  padding-left: 1rem;
+  position: relative;
+}
+.tc-area-card li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--v2-gold);
+  opacity: 0.5;
+}
+
+/* ========== CANDIDATURA ========== */
+.tc-apply {
+  padding: 7rem 0 6rem;
+}
+.tc-apply-card {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 4rem;
+  background: var(--v2-dark-2);
+  border: 1px solid var(--v2-border);
+  border-radius: 12px;
+  padding: 3.5rem;
+}
+.tc-apply-content h2 {
+  font-family: var(--v2-font-display);
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  color: var(--v2-white);
+  margin: 0.5rem 0 1.5rem;
+  line-height: 1.15;
+}
+.tc-apply-content > p {
+  font-family: var(--v2-font-body);
+  font-size: 0.93rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0 0 2rem;
+}
+.tc-apply-content > p strong {
+  color: var(--v2-gold);
+}
+
+.tc-apply-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-bottom: 2rem;
+}
+.tc-apply-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-family: var(--v2-font-body);
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+.tc-apply-row svg {
+  color: var(--v2-gold);
+  flex-shrink: 0;
+}
+.tc-apply-row a {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.tc-apply-row a:hover { color: var(--v2-gold); }
+
+.tc-apply-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--v2-gold);
+  color: var(--v2-dark);
+  font-family: var(--v2-font-display);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.85rem 1.75rem;
+  border-radius: 4px;
+  transition: all 0.25s var(--v2-ease);
+}
+.tc-apply-btn:hover {
+  background: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(200, 160, 80, 0.25);
+}
+
+/* STEPS VISUAL */
+.tc-apply-visual {
+  display: flex;
+  align-items: center;
+}
+.tc-apply-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  padding-left: 2rem;
+  border-left: 2px solid var(--v2-border);
+}
+.tc-step {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  position: relative;
+}
+.tc-step::before {
+  content: '';
+  position: absolute;
+  left: -2.55rem;
+  top: 0.25rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--v2-dark-2);
+  border: 2px solid var(--v2-gold);
+}
+.tc-step-num {
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  color: var(--v2-gold);
+  background: rgba(200, 160, 80, 0.1);
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+.tc-step h5 {
+  font-family: var(--v2-font-display);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-white);
+  margin: 0 0 0.15rem;
+}
+.tc-step p {
+  font-family: var(--v2-font-body);
+  font-size: 0.82rem;
+  color: var(--v2-muted);
+  margin: 0;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 1024px) {
+  .tc-areas-grid { grid-template-columns: repeat(2, 1fr); }
+  .tc-apply-card { grid-template-columns: 1fr; gap: 3rem; }
+  .tc-apply-steps { border-left: none; padding-left: 0; flex-direction: row; gap: 1.5rem; flex-wrap: wrap; }
+  .tc-step::before { display: none; }
+}
+@media (max-width: 768px) {
+  .tc-benefits-grid { grid-template-columns: 1fr; }
+  .tc-values-grid { grid-template-columns: 1fr; }
+  .tc-areas-grid { grid-template-columns: 1fr; }
+  .tc-hero-stats { flex-wrap: wrap; gap: 1.5rem; }
+  .tc-apply-card { padding: 2rem; }
+  .tc-apply-steps { flex-direction: column; }
+}
+</style>
