@@ -2,12 +2,15 @@
 import Layout from '../layouts/Layout.astro';
 import V2Nav from '../components/v2/V2Nav.astro';
 import V2Footer from '../components/v2/V2Footer.astro';
-import FloatingCTA from '../components/FloatingCTA.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
 ---
 
 <Layout 
   title="Trabalhe Conosco | Regê Engenharia" 
   description="Faça parte da equipe Regê Engenharia. Confira nossas áreas de atuação, valores e como se candidatar a uma vaga em engenharia e construção civil."
+  showHeader={false}
+  showFooter={false}
 >
   <V2Nav />
 

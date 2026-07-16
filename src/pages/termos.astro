@@ -2,12 +2,15 @@
 import Layout from '../layouts/Layout.astro';
 import V2Nav from '../components/v2/V2Nav.astro';
 import V2Footer from '../components/v2/V2Footer.astro';
-import FloatingCTA from '../components/FloatingCTA.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
 ---
 
 <Layout 
   title="Termos de Uso | Regê Engenharia" 
   description="Termos de uso e condições de navegação para o site da Regê Engenharia."
+  showHeader={false}
+  showFooter={false}
 >
   <V2Nav />
 

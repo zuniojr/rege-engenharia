@@ -2,12 +2,15 @@
 import Layout from '../layouts/Layout.astro';
 import V2Nav from '../components/v2/V2Nav.astro';
 import V2Footer from '../components/v2/V2Footer.astro';
-import FloatingCTA from '../components/FloatingCTA.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
 ---
 
 <Layout 
   title="Política de Privacidade | Regê Engenharia" 
   description="Saiba como a Regê Engenharia coleta, usa e protege seus dados pessoais, em conformidade com a LGPD (Lei nº 13.709/2018)."
+  showHeader={false}
+  showFooter={false}
 >
   <V2Nav />
 

@@ -2,12 +2,15 @@
 import Layout from '../layouts/Layout.astro';
 import V2Nav from '../components/v2/V2Nav.astro';
 import V2Footer from '../components/v2/V2Footer.astro';
-import FloatingCTA from '../components/FloatingCTA.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
 ---
 
 <Layout 
   title="Considerações Importantes | Regê Engenharia" 
   description="Informações essenciais sobre projetos, prazos, orçamentos e limitações técnicas da Regê Engenharia. Leia antes de contratar nossos serviços."
+  showHeader={false}
+  showFooter={false}
 >
   <V2Nav />
 
