@@ -1,0 +1,256 @@
+---
+import Layout from '../layouts/Layout.astro';
+import V2Nav from '../components/v2/V2Nav.astro';
+import V2Footer from '../components/v2/V2Footer.astro';
+import FloatingCTA from '../components/FloatingCTA.astro';
+---
+
+<Layout 
+  title="Termos de Uso | Regê Engenharia" 
+  description="Termos de uso e condições de navegação para o site da Regê Engenharia."
+>
+  <V2Nav />
+
+  <main class="terms-page">
+    <!-- HERO -->
+    <header class="terms-hero">
+      <div class="v2-container">
+        <span class="v2-eyebrow">INSTITUCIONAL</span>
+        <h1>Termos de Uso</h1>
+        <p class="terms-hero-sub">Última atualização: 15 de Julho de 2026</p>
+      </div>
+    </header>
+
+    <!-- CONTENT -->
+    <section class="terms-content">
+      <div class="v2-container terms-grid">
+        
+        <aside class="terms-sidebar">
+          <nav class="terms-toc">
+            <a href="#aceite" class="active">1. Aceite dos Termos</a>
+            <a href="#uso">2. Uso do Conteúdo</a>
+            <a href="#responsabilidades">3. Responsabilidades</a>
+            <a href="#propriedade">4. Propriedade Intelectual</a>
+            <a href="#contato">5. Contato e Suporte</a>
+          </nav>
+        </aside>
+
+        <article class="terms-article">
+          <div class="terms-section" id="aceite">
+            <h2>1. Aceite dos Termos</h2>
+            <p>Ao acessar e utilizar o site da <strong>Regê Engenharia</strong> (https://rege-engenharia.vercel.app/ ou domínios associados), você concorda expressa e integralmente com os presentes Termos de Uso. Caso não concorde com qualquer disposição aqui descrita, solicitamos que não utilize ou acesse nossos serviços e páginas.</p>
+            <p>Estes termos podem ser atualizados periodicamente sem aviso prévio. Recomendamos a revisão regular desta página para se manter informado sobre eventuais modificações.</p>
+          </div>
+
+          <div class="terms-section" id="uso">
+            <h2>2. Uso do Conteúdo e Serviços</h2>
+            <p>Todo o material disponibilizado neste site, incluindo portfólio de obras, artigos de blog, imagens e descrições de serviços, possui finalidade puramente informativa e comercial.</p>
+            <p>Como usuário, você se compromete a:</p>
+            <ul>
+              <li>Não utilizar o site para fins ilícitos ou que descumpram a legislação brasileira;</li>
+              <li>Não realizar engenharia reversa, invasão de sistemas ou envio de códigos maliciosos;</li>
+              <li>Não copiar ou reproduzir comercialmente qualquer imagem, marca ou texto sem autorização expressa da Regê Engenharia.</li>
+            </ul>
+          </div>
+
+          <div class="terms-section" id="responsabilidades">
+            <h2>3. Limitação de Responsabilidade</h2>
+            <p>Embora a Regê Engenharia envide seus melhores esforços para garantir a exatidão das informações, imagens de maquetes e andamento de obras, todo o conteúdo é fornecido "como está". Não garantimos que o site estará disponível de forma ininterrupta ou livre de erros pontuais.</p>
+            <p>Qualquer estimativa de prazo ou custo contida em artigos ou páginas do site deve ser confirmada diretamente através de proposta técnica ou comercial assinada pelas partes.</p>
+          </div>
+
+          <div class="terms-section" id="propriedade">
+            <h2>4. Propriedade Intelectual</h2>
+            <p>A marca "Regê Engenharia", o logotipo, o design do site, os códigos-fonte, os textos das postagens e as fotografias das obras executadas são de propriedade intelectual exclusiva da Regê Engenharia ou de seus respectivos licenciadores, protegidos pelas leis de direitos autorais brasileiras e tratados internacionais.</p>
+          </div>
+
+          <div class="terms-section" id="contato">
+            <h2>5. Contato e Suporte</h2>
+            <p>Para esclarecer dúvidas sobre estes Termos de Uso ou solicitar informações sobre o tratamento de dados (em conformidade com a LGPD), entre em contato com nossa equipe administrativa através do e-mail oficial:</p>
+            <p class="terms-highlight"><a href="mailto:contato@rege.eng.br">contato@rege.eng.br</a> ou pelo telefone <a href="tel:+5547992184100">(47) 99218-4100</a>.</p>
+          </div>
+        </article>
+
+      </div>
+    </section>
+  </main>
+
+  <V2Footer />
+  <FloatingCTA />
+</Layout>
+
+<style>
+.terms-page {
+  background: var(--v2-dark);
+  color: var(--v2-white);
+  padding-bottom: 6rem;
+}
+
+/* HERO */
+.terms-hero {
+  padding: 12rem 0 5rem;
+  border-bottom: 1px solid var(--v2-border);
+  background: linear-gradient(to bottom, var(--v2-dark-2) 0%, var(--v2-dark) 100%);
+}
+.terms-hero h1 {
+  font-family: var(--v2-font-display);
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -1.5px;
+  color: var(--v2-white);
+  margin: 0.5rem 0 1rem;
+}
+.terms-hero-sub {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  color: var(--v2-muted);
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* CONTENT LAYOUT */
+.terms-content {
+  padding: 5rem 0;
+}
+.terms-grid {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 4rem;
+}
+
+/* SIDEBAR / TOC */
+.terms-sidebar {
+  position: sticky;
+  top: 7rem;
+  height: fit-content;
+}
+.terms-toc {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border-left: 2px solid var(--v2-border);
+  padding-left: 1.5rem;
+}
+.terms-toc a {
+  font-family: var(--v2-font-display);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--v2-muted);
+  text-decoration: none;
+  transition: all 0.25s var(--v2-ease);
+}
+.terms-toc a:hover,
+.terms-toc a.active {
+  color: var(--v2-gold);
+}
+
+/* ARTICLE CONTENT */
+.terms-article {
+  max-width: 750px;
+}
+.terms-section {
+  margin-bottom: 4.5rem;
+}
+.terms-section:last-child {
+  margin-bottom: 0;
+}
+.terms-section h2 {
+  font-family: var(--v2-font-display);
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+  color: var(--v2-white);
+  margin: 0 0 1.5rem;
+}
+.terms-section p {
+  font-family: var(--v2-font-body);
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0 0 1.25rem;
+}
+.terms-section strong {
+  color: var(--v2-white);
+  font-weight: 700;
+}
+.terms-section ul {
+  margin: 0 0 1.5rem 1.5rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.terms-section li {
+  font-family: var(--v2-font-body);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.7);
+}
+.terms-highlight {
+  background: var(--v2-dark-2);
+  padding: 1.5rem;
+  border-left: 3px solid var(--v2-gold);
+  border-radius: 0 4px 4px 0;
+}
+.terms-highlight a {
+  color: var(--v2-gold);
+  text-decoration: none;
+  font-weight: 600;
+}
+.terms-highlight a:hover {
+  text-decoration: underline;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .terms-grid {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .terms-sidebar {
+    position: static;
+    border-bottom: 1px solid var(--v2-border);
+    padding-bottom: 2rem;
+  }
+  .terms-toc {
+    border-left: none;
+    padding-left: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem 1.5rem;
+  }
+}
+</style>
+
+<script>
+  // Dynamic active state for TOC
+  const sections = document.querySelectorAll('.terms-section');
+  const navLinks = document.querySelectorAll('.terms-toc a');
+
+  const observerOptions = {
+    root: null,
+    rootMargin: '-20% 0px -60% 0px',
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const activeId = entry.target.getAttribute('id');
+        navLinks.forEach(link => {
+          if (link.getAttribute('href') === `#${activeId}`) {
+            link.classList.add('active');
+          } else {
+            link.classList.remove('active');
+          }
+        });
+      }
+    });
+  }, observerOptions);
+
+  sections.forEach(sec => observer.observe(sec));
+</script>
