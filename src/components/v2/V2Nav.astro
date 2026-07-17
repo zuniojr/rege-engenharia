@@ -4,7 +4,7 @@
 <nav class="v2-nav" id="v2-nav">
   <div class="v2-nav-inner">
     <a href="/" class="v2-logo">
-      <img src="/images/logo.svg" alt="Regê Engenharia" class="v2-logo-img" />
+      <img src="/images/logo.png" alt="Regê Engenharia" class="v2-logo-img" />
     </a>
     <ul class="v2-nav-links">
       <li><a href="/sobre">Sobre</a></li>
@@ -36,11 +36,13 @@
   left: 0;
   right: 0;
   z-index: 1000;
-  background: rgba(46, 57, 69, 0.92);
+  transition: background 0.4s var(--v2-ease), box-shadow 0.4s var(--v2-ease);
+}
+.v2-nav.scrolled {
+  background: rgba(8,14,23,0.92);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   box-shadow: 0 1px 0 var(--v2-border);
-  transition: background 0.4s var(--v2-ease), box-shadow 0.4s var(--v2-ease);
 }
 .v2-nav-inner {
   display: flex;
@@ -114,7 +116,7 @@
 .v2-mobile-menu {
   display: none;
   flex-direction: column;
-  background: rgba(46, 57, 69, 0.98);
+  background: rgba(8,14,23,0.98);
   border-top: 1px solid var(--v2-border);
 }
 .v2-mobile-menu a {

@@ -1,5 +1,4 @@
 ---
-import LogoBadge from './LogoBadge.astro';
 ---
 <!-- Top Bar (white) -->
 <header class="top-bar">
@@ -24,8 +23,7 @@ import LogoBadge from './LogoBadge.astro';
 <header class="main-header">
   <div class="container nav-bar-inner">
     <a href="/" class="nav-logo" aria-label="Regê Engenharia Home">
-      <LogoBadge size={54} />
-      <span class="nav-logo-text">REGÊ <span>ENGENHARIA</span></span>
+      <img src="/images/logo.png" alt="Regê Engenharia" class="nav-logo-img" />
     </a>
     <nav class="nav-menu" aria-label="Menu principal">
       <a href="/">Início</a>
@@ -104,26 +102,12 @@ import LogoBadge from './LogoBadge.astro';
   .nav-logo {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
     text-decoration: none;
   }
-  .nav-logo-text {
-    font-family: 'Archivo Expanded', sans-serif;
-    font-weight: 800;
-    font-size: 1.3rem;
-    color: var(--white);
-    letter-spacing: 0.5px;
-    display: flex;
-    flex-direction: column;
-    line-height: 1;
-  }
-  .nav-logo-text span {
-    font-family: var(--font-body);
-    font-weight: 600;
-    font-size: 0.65rem;
-    color: var(--sand);
-    letter-spacing: 2px;
-    margin-top: 2px;
+  .nav-logo-img {
+    height: 45px;
+    width: auto;
+    display: block;
   }
 
   .nav-menu {

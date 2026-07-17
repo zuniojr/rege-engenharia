@@ -1,15 +1,10 @@
 ---
-import LogoBadge from './LogoBadge.astro';
 ---
 <footer class="footer">
   <div class="container footer-content">
     <div class="footer-col brand-col">
       <div class="footer-logo-wrap">
-        <LogoBadge size={70} />
-        <div class="footer-logo-text">
-          <span class="logo-title">REGÊ</span>
-          <span class="logo-subtitle">ENGENHARIA</span>
-        </div>
+        <img src="/images/logo.png" alt="Regê Engenharia" class="footer-logo-img" />
       </div>
       <p class="brand-tagline">"Projetando espaços, construindo sonhos."</p>
     </div>
@@ -59,25 +54,11 @@ import LogoBadge from './LogoBadge.astro';
   .footer-logo-wrap {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
   }
-  .footer-logo-text {
-    display: flex;
-    flex-direction: column;
-    font-family: 'Archivo Expanded', sans-serif;
-    font-weight: 800;
-    font-size: 1.5rem;
-    color: var(--white);
-    line-height: 1;
-    letter-spacing: 0.5px;
-  }
-  .footer-logo-text .logo-subtitle {
-    font-family: var(--font-body);
-    font-weight: 600;
-    font-size: 0.75rem;
-    color: var(--sand);
-    letter-spacing: 2px;
-    margin-top: 2px;
+  .footer-logo-img {
+    height: 55px;
+    width: auto;
+    display: block;
   }
   .brand-tagline {
     font-family: var(--font-accent);
