@@ -6,7 +6,7 @@ git add .
 
 # Criar commit
 Write-Host "2. Criando commit com as alteracoes..." -ForegroundColor Yellow
-git commit -m "style: atualiza logotipo para o novo formato PNG nos cabecalhos e rodape"
+git commit -m "style: atualiza logotipo e ajusta textos na pagina sobre e rodape"
 
 # Enviar para o GitHub
 Write-Host "3. Enviando alteracoes para o GitHub..." -ForegroundColor Yellow
