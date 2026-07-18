@@ -1,0 +1,742 @@
+---
+import Layout from '../layouts/Layout.astro';
+import V2Nav from '../components/v2/V2Nav.astro';
+import V2Footer from '../components/v2/V2Footer.astro';
+import V2CtaSection from '../components/v2/V2CtaSection.astro';
+import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import '../styles/v2.css';
+---
+
+<Layout
+  title="Projetos Personalizados | Regê Engenharia — Arquitetura e Engenharia Exclusivas"
+  description="Construa uma casa única. Nossos projetos personalizados unem a beleza da arquitetura com a precisão da engenharia, traduzindo seu estilo de vida em um imóvel exclusivo."
+  showHeader={false}
+  showFooter={false}
+>
+  <V2Nav />
+
+  <!-- PAGE HERO -->
+  <section class="art-hero">
+    <div class="art-hero-bg">
+      <img src="/images/hero-rege.png" alt="Projetos Personalizados - Regê Engenharia" />
+      <div class="art-hero-overlay"></div>
+    </div>
+    <div class="art-hero-content v2-container">
+      <div class="art-hero-badge">
+        <span class="v2-badge-dot"></span>
+        EXCLUSIVIDADE & DESIGN
+      </div>
+      <h1 class="art-hero-title">
+        <span class="art-title-line" style="animation-delay:0.3s">PROJETOS</span>
+        <span class="art-title-line art-title-accent" style="animation-delay:0.45s">PERSONALIZADOS</span>
+        <span class="art-title-line art-title-stroke" style="animation-delay:0.6s">A SUA MEDIDA.</span>
+      </h1>
+      <p class="art-hero-sub">
+        Esqueça plantas padronizadas. Criamos residências exclusivas que
+        refletem o seu estilo de vida, unindo arquitetura impecável e engenharia de precisão.
+      </p>
+      <nav class="art-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Início</a>
+        <span class="art-breadcrumb-sep">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </span>
+        <a href="/sobre">Atendimento</a>
+        <span class="art-breadcrumb-sep">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </span>
+        <span>Projetos Personalizados</span>
+      </nav>
+    </div>
+  </section>
+
+  <!-- ARTICLE CONTENT -->
+  <article class="art-content">
+    <div class="v2-container">
+      <div class="art-layout">
+
+        <!-- Main Article -->
+        <div class="art-main">
+
+          <div class="art-meta">
+            <span class="art-tag">ARQUITETURA</span>
+            <span class="art-date">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              17 Julho, 2026
+            </span>
+            <span class="art-read">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              11 min de leitura
+            </span>
+          </div>
+
+          <div class="art-body">
+            <p class="art-lead">
+              A sua casa não deve ser apenas um lugar para morar, mas sim um reflexo fiel da sua identidade, da sua rotina e dos seus sonhos. No mercado de alto padrão, projetos de prateleira (ou "plantas de gaveta") não fazem mais sentido. É aqui que entra o conceito fundamental do Projeto Personalizado.
+            </p>
+
+            <h2>O que Significa um Projeto Personalizado?</h2>
+            <p>
+              Um projeto personalizado é aquele criado a partir de uma "folha em branco", tendo como base exclusiva o perfil da sua família, as características topográficas do seu terreno e o orçamento estipulado para a obra.
+            </p>
+            <p>
+              Em vez de você ter que adaptar a sua rotina aos espaços limitados de uma planta padrão, o projeto é desenhado milimetricamente para se moldar ao que você gosta. Gosta de cozinhar para os amigos? A ilha gourmet ganha protagonismo. Trabalha de casa? O home office é posicionado na área com melhor iluminação e isolamento acústico.
+            </p>
+
+            <div class="art-highlight">
+              <div class="art-highlight-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              </div>
+              <div>
+                <strong>Exclusividade absoluta:</strong> Um projeto personalizado garante que não exista nenhuma casa igual à sua no mundo. A fachada, os volumes e as texturas são uma assinatura pessoal da sua família no espaço urbano.
+              </div>
+            </div>
+
+            <h2>Como Funciona Nosso Processo Criativo?</h2>
+            <p>
+              Na Regê Engenharia, combinamos a criatividade da arquitetura com a precisão dos cálculos de engenharia. Nosso fluxo de criação de projetos personalizados envolve as seguintes etapas:
+            </p>
+
+            <h3>1. Briefing e Entrevista Familiar</h3>
+            <p>
+              Tudo começa com uma boa conversa. Queremos entender os hábitos da família: vocês recebem muitas visitas? Têm pets? Praticam esportes que exigem espaços de guarda de equipamentos? Preferem ambientes abertos (conceito aberto) ou mais reservados? Este é o mapeamento de necessidades.
+            </p>
+
+            <h3>2. Estudo do Terreno e Legislação</h3>
+            <p>
+              Analisamos a posição do sol (insolação), os ventos predominantes, o declive do terreno e, muito importante, o plano diretor da cidade ou as regras internas do condomínio (recuos, taxas de permeabilidade, limite de altura).
+            </p>
+
+            <h3>3. Estudo Preliminar e Anteprojeto 3D</h3>
+            <p>
+              Apresentamos as primeiras plantas baixas com a distribuição dos cômodos e as volumetrias em 3D. Nessa fase, você já consegue visualizar como a casa ficará através de maquetes eletrônicas realistas. São feitos os ajustes até que o cliente esteja 100% satisfeito com o design.
+            </p>
+
+            <h3>4. Projeto Legal (Aprovação)</h3>
+            <p>
+              Com a estética e os tamanhos definidos, geramos as plantas técnicas e enviamos para a prefeitura e/ou administração do condomínio para obter o Alvará de Construção.
+            </p>
+
+            <h3>5. Projetos Executivos e Compatibilização</h3>
+            <p>
+              A fase mais crucial. Enquanto a arquitetura definiu a estética, a engenharia entra detalhando tudo: como os pilares vão segurar o vão livre da sala (Projeto Estrutural), onde ficará o quadro de energia (Elétrico) e como a água escoará sem fazer barulho no teto do andar inferior (Hidrossanitário). Juntamos todos esses projetos no software BIM para garantir que nenhum cano "esbarre" em uma viga.
+            </p>
+
+            <h2>A União entre Arquitetura e Engenharia</h2>
+            <p>
+              Um problema comum no mercado é o cliente contratar um arquiteto e, só depois do projeto pronto, procurar um engenheiro ou construtora. Isso muitas vezes gera o que chamamos de "projeto inviável" — casas maravilhosas no papel, mas absurdamente caras para serem sustentadas estruturalmente.
+            </p>
+            <p>
+              Ao escolher a Regê Engenharia, a equipe criativa e a equipe técnica trabalham juntas. O arquiteto desenha um balanço majestoso na fachada e, na mesma hora, o engenheiro estrutural ao lado já avalia a viabilidade técnica e financeira daquela solução, sugerindo ajustes que mantêm a beleza da obra sem estourar o bolso do cliente.
+            </p>
+
+            <h2>Vantagens do Projeto Personalizado</h2>
+
+            <div class="art-benefits-grid">
+              <div class="art-benefit">
+                <div class="art-benefit-icon">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                </div>
+                <h4>Aproveitamento do Lote</h4>
+                <p>Otimização de cada metro quadrado do seu terreno, respeitando recuos e valorizando a vista.</p>
+              </div>
+              <div class="art-benefit">
+                <div class="art-benefit-icon">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                </div>
+                <h4>Conforto Térmico</h4>
+                <p>Posicionamento estratégico dos quartos para o sol da manhã (leste) e grandes aberturas para ventilação cruzada.</p>
+              </div>
+              <div class="art-benefit">
+                <div class="art-benefit-icon">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                </div>
+                <h4>Alto Valor de Revenda</h4>
+                <p>Imóveis com arquitetura autoral e assinada possuem valorização exponencial no mercado secundário de imóveis.</p>
+              </div>
+              <div class="art-benefit">
+                <div class="art-benefit-icon">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                </div>
+                <h4>Controle do Orçamento</h4>
+                <p>Nós desenhamos a casa de acordo com o limite financeiro que você estabeleceu, sem surpresas na hora de cotar o material.</p>
+              </div>
+            </div>
+
+            <h2>Construa o Seu Sonho com a Regê</h2>
+            <p>
+              Entregar plantas genéricas é fácil. Difícil é escutar os desejos de uma família, processar dezenas de informações legais e técnicas, e transformar isso em um lar acolhedor, seguro e com design arrebatador. E é exatamente isso que fazemos na <strong>Regê Engenharia</strong> todos os dias.
+            </p>
+
+            <div class="art-cta-box">
+              <h3>Vamos desenhar a sua nova casa juntos?</h3>
+              <p>Agende um café com nossos arquitetos e engenheiros e nos conte quais são as suas inspirações. Nós cuidamos de todo o processo de concepção até a chave na mão.</p>
+              <a href="https://bitlybr.net/rege" class="art-cta-btn" target="_blank" rel="noopener noreferrer">
+                <span>Solicitar Reunião de Briefing</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 14 0"/><path d="m12 5 7 7-7 7"/></svg>
+              </a>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="art-sidebar">
+          <div class="art-sidebar-card">
+            <h4>Índice do Artigo</h4>
+            <nav class="art-toc">
+              <a href="#" onclick="return false">O que é um Projeto Personalizado?</a>
+              <a href="#" onclick="return false">Nosso Processo Criativo</a>
+              <a href="#" onclick="return false">Arquitetura + Engenharia</a>
+              <a href="#" onclick="return false">Principais Vantagens</a>
+              <a href="#" onclick="return false">Comece Seu Projeto</a>
+            </nav>
+          </div>
+          <div class="art-sidebar-card art-sidebar-cta">
+            <span class="art-sidebar-eyebrow">DESIGN & CONSTRUÇÃO</span>
+            <h4>Uma casa com a sua assinatura</h4>
+            <p>Traga a sua ideia ou planta. Nós ajudamos a transformar inspirações em realidade construtiva.</p>
+            <a href="https://bitlybr.net/rege" class="art-sidebar-btn" target="_blank" rel="noopener noreferrer">Falar com o Arquiteto</a>
+          </div>
+          <div class="art-sidebar-card">
+            <h4>Artigos Relacionados</h4>
+            <nav class="art-related">
+              <a href="/obra-residencial">
+                <span class="art-related-tag">CONSTRUÇÃO</span>
+                Etapas de uma Obra Residencial
+              </a>
+              <a href="/projeto-engenharia">
+                <span class="art-related-tag">ENGENHARIA</span>
+                Como ler Projetos de Estrutura
+              </a>
+              <a href="/litoral-sc-e-regiao">
+                <span class="art-related-tag">MERCADO</span>
+                Por que investir no Litoral de SC?
+              </a>
+            </nav>
+          </div>
+        </aside>
+
+      </div>
+    </div>
+  </article>
+
+  <V2CtaSection />
+  <V2Footer />
+  <FloatingCTA />
+</Layout>
+
+<style>
+/* ============================
+   ARTICLE - HERO
+   ============================ */
+.art-hero {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--v2-dark);
+}
+.art-hero-bg {
+  position: absolute;
+  inset: 0;
+}
+.art-hero-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.25;
+  filter: grayscale(30%) contrast(1.1);
+}
+.art-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(to right, rgba(8,14,23,0.95) 40%, rgba(8,14,23,0.4) 100%),
+    linear-gradient(to top, rgba(8,14,23,0.95) 5%, transparent 40%);
+}
+.art-hero-content {
+  position: relative;
+  z-index: 10;
+  padding: 12rem 1.5rem 5rem;
+}
+.art-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  border: 1px solid rgba(201,168,76,0.3);
+  padding: 0.4rem 1rem;
+  border-radius: 100px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: artFadeUp 0.8s var(--v2-ease-out) 0.1s forwards;
+}
+.art-hero-title {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--v2-font-display);
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem;
+  color: var(--v2-white);
+}
+.art-title-line {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: artFadeUp 0.8s var(--v2-ease-out) forwards;
+}
+.art-title-accent { color: var(--v2-gold); }
+.art-title-stroke {
+  -webkit-text-stroke: 2px var(--v2-white);
+  color: transparent;
+  font-size: clamp(1.8rem, 4.5vw, 3.5rem);
+}
+.art-hero-sub {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: clamp(1rem, 1.8vw, 1.25rem);
+  color: rgba(240,234,216,0.7);
+  line-height: 1.6;
+  max-width: 520px;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: artFadeUp 0.8s var(--v2-ease-out) 0.65s forwards;
+}
+.art-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  opacity: 0;
+  animation: artFadeUp 0.8s var(--v2-ease-out) 0.8s forwards;
+}
+.art-breadcrumb a {
+  color: var(--v2-muted);
+  text-decoration: none;
+  transition: color 0.25s;
+}
+.art-breadcrumb a:hover { color: var(--v2-gold); }
+.art-breadcrumb-sep { color: rgba(255,255,255,0.25); display: flex; }
+.art-breadcrumb > span:last-child { color: var(--v2-gold); }
+
+@keyframes artFadeUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================
+   ARTICLE - CONTENT
+   ============================ */
+.art-content {
+  padding: 6rem 0;
+  background: var(--v2-white);
+  position: relative;
+}
+.art-content::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, var(--v2-gold), transparent);
+}
+.art-layout {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 4rem;
+  align-items: start;
+}
+
+/* META */
+.art-meta {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(8,14,23,0.08);
+}
+.art-tag {
+  font-family: var(--v2-font-display);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-gold);
+  background: var(--v2-gold-muted);
+  padding: 0.3rem 0.7rem;
+  border-radius: 2px;
+  border: 1px solid rgba(201,168,76,0.15);
+}
+.art-date, .art-read {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #888;
+  letter-spacing: 0.5px;
+}
+.art-date svg, .art-read svg { stroke: #aaa; }
+
+/* BODY */
+.art-lead {
+  font-family: var(--v2-font-serif);
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--v2-dark-3);
+  line-height: 1.8;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(8,14,23,0.06);
+}
+.art-body h2 {
+  font-family: var(--v2-font-display);
+  font-size: 1.6rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+  color: var(--v2-dark);
+  margin: 3rem 0 1.25rem;
+  line-height: 1.2;
+}
+.art-body h3 {
+  font-family: var(--v2-font-display);
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--v2-dark);
+  margin: 2rem 0 0.75rem;
+  line-height: 1.3;
+}
+.art-body p {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.9;
+  margin-bottom: 1.25rem;
+}
+.art-body strong { color: var(--v2-dark); font-weight: 700; }
+.art-body em { color: #777; }
+.art-body ul {
+  margin: 0.75rem 0 1.5rem 1.5rem;
+  padding: 0;
+}
+.art-body ul li {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.9;
+  margin-bottom: 0.35rem;
+  position: relative;
+}
+.art-body ul li::marker {
+  color: var(--v2-gold);
+}
+
+/* HIGHLIGHT BOX */
+.art-highlight {
+  display: flex;
+  gap: 1.25rem;
+  padding: 1.75rem 2rem;
+  background: rgba(201,168,76,0.06);
+  border: 1px solid rgba(201,168,76,0.15);
+  border-left: 3px solid var(--v2-gold);
+  border-radius: var(--v2-radius);
+  margin: 2rem 0;
+  font-size: 0.92rem;
+  color: #555;
+  line-height: 1.7;
+}
+.art-highlight-icon {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  background: var(--v2-gold-muted);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.art-highlight-icon svg { stroke: var(--v2-gold); }
+.art-highlight strong { color: var(--v2-dark); }
+.art-highlight-warn {
+  background: rgba(220,120,40,0.05);
+  border-color: rgba(220,120,40,0.15);
+  border-left-color: #dc7828;
+}
+.art-highlight-warn .art-highlight-icon {
+  background: rgba(220,120,40,0.1);
+}
+.art-highlight-warn .art-highlight-icon svg { stroke: #dc7828; }
+
+/* BENEFITS GRID */
+.art-benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.art-benefit {
+  padding: 2rem;
+  background: rgba(8,14,23,0.02);
+  border: 1px solid rgba(8,14,23,0.06);
+  border-radius: var(--v2-radius-lg);
+  transition: transform 0.4s var(--v2-ease), box-shadow 0.4s, border-color 0.3s;
+}
+.art-benefit:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(8,14,23,0.08);
+  border-color: rgba(201,168,76,0.25);
+}
+.art-benefit-icon {
+  width: 44px;
+  height: 44px;
+  background: var(--v2-gold-muted);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  border: 1px solid rgba(201,168,76,0.15);
+}
+.art-benefit-icon svg { stroke: var(--v2-gold); }
+.art-benefit h4 {
+  font-family: var(--v2-font-display);
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-dark);
+  margin: 0 0 0.5rem;
+}
+.art-benefit p {
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* CTA BOX */
+.art-cta-box {
+  margin: 3rem 0 0;
+  padding: 3rem;
+  background: var(--v2-dark);
+  border-radius: var(--v2-radius-lg);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.art-cta-box::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(to right, var(--v2-gold), transparent);
+}
+.art-cta-box h3 {
+  font-family: var(--v2-font-display);
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--v2-white);
+  margin: 0 0 1rem;
+}
+.art-cta-box p {
+  font-size: 0.95rem;
+  color: var(--v2-muted);
+  line-height: 1.7;
+  max-width: 500px;
+  margin: 0 auto 2rem;
+}
+.art-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--v2-font-display);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--v2-dark);
+  background: var(--v2-gold);
+  padding: 0.9rem 2.25rem;
+  border-radius: var(--v2-radius);
+  text-decoration: none;
+  transition: background 0.3s, transform 0.3s;
+}
+.art-cta-btn:hover {
+  background: #d4b44e;
+  transform: translateY(-2px);
+}
+
+/* ============================
+   SIDEBAR
+   ============================ */
+.art-sidebar {
+  position: sticky;
+  top: 6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.art-sidebar-card {
+  background: rgba(8,14,23,0.02);
+  border: 1px solid rgba(8,14,23,0.06);
+  border-radius: var(--v2-radius-lg);
+  padding: 2rem;
+}
+.art-sidebar-card h4 {
+  font-family: var(--v2-font-display);
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--v2-dark);
+  margin: 0 0 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(8,14,23,0.06);
+}
+
+/* TOC */
+.art-toc {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.art-toc a {
+  font-size: 0.85rem;
+  color: #666;
+  text-decoration: none;
+  padding: 0.35rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid transparent;
+  transition: color 0.25s, border-color 0.25s;
+}
+.art-toc a:hover {
+  color: var(--v2-gold);
+  border-left-color: var(--v2-gold);
+}
+
+/* SIDEBAR CTA */
+.art-sidebar-cta {
+  background: var(--v2-dark);
+  border-color: var(--v2-border);
+}
+.art-sidebar-cta h4 {
+  color: var(--v2-white);
+  border-bottom-color: var(--v2-border);
+}
+.art-sidebar-eyebrow {
+  font-family: var(--v2-font-display);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--v2-gold);
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.art-sidebar-cta p {
+  font-size: 0.85rem;
+  color: var(--v2-muted);
+  line-height: 1.7;
+  margin: 0 0 1.5rem;
+}
+.art-sidebar-btn {
+  display: block;
+  text-align: center;
+  font-family: var(--v2-font-display);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--v2-dark);
+  background: var(--v2-gold);
+  padding: 0.8rem 1.5rem;
+  border-radius: var(--v2-radius);
+  text-decoration: none;
+  transition: background 0.3s, transform 0.3s;
+}
+.art-sidebar-btn:hover {
+  background: #d4b44e;
+  transform: translateY(-2px);
+}
+
+/* RELATED */
+.art-related {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.art-related a {
+  display: block;
+  font-size: 0.85rem;
+  color: #555;
+  text-decoration: none;
+  padding: 0.75rem;
+  border-radius: 6px;
+  border: 1px solid rgba(8,14,23,0.04);
+  transition: background 0.25s, border-color 0.25s;
+  line-height: 1.5;
+}
+.art-related a:hover {
+  background: rgba(201,168,76,0.04);
+  border-color: rgba(201,168,76,0.15);
+}
+.art-related-tag {
+  display: block;
+  font-family: var(--v2-font-display);
+  font-size: 0.52rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--v2-gold);
+  margin-bottom: 0.25rem;
+}
+
+/* ============================
+   RESPONSIVE
+   ============================ */
+@media (max-width: 1024px) {
+  .art-layout {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .art-sidebar {
+    position: static;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+  }
+  .art-sidebar-card {
+    flex: 1 1 280px;
+  }
+}
+
+@media (max-width: 768px) {
+  .art-benefits-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 600px) {
+  .art-hero-content { padding: 9rem 1rem 4rem; }
+  .art-meta { flex-wrap: wrap; gap: 0.75rem; }
+  .art-highlight { flex-direction: column; gap: 0.75rem; }
+  .art-tip { flex-direction: column; gap: 0.75rem; }
+  .art-cta-box { padding: 2rem 1.5rem; }
+  .art-sidebar {
+    flex-direction: column;
+  }
+  .art-sidebar-card {
+    flex: 1 1 100%;
+  }
+}
+</style>
