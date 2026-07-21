@@ -135,4 +135,25 @@
   .v2-port-large { grid-row: span 1; }
   .v2-port-img { min-height: 280px; }
 }
+
+@media (max-width: 768px) {
+  .v2-portfolio { padding: 4.5rem 0; }
+  .v2-portfolio-grid { gap: 1.25rem; }
+  .v2-port-img { min-height: 240px; }
+  .v2-port-overlay {
+    opacity: 1;
+    background: linear-gradient(to top, rgba(8,14,23,0.92) 40%, rgba(8,14,23,0.2) 80%);
+    padding: 1.25rem;
+  }
+  .v2-port-info {
+    transform: translateY(0);
+  }
+  .v2-port-info h3 {
+    font-size: 0.95rem;
+  }
+  .v2-port-info p {
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+}
 </style>

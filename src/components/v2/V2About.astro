@@ -188,4 +188,22 @@
   .v2-about-badge-float { bottom: -1rem; right: 0.5rem; }
   .v2-pillars { grid-template-columns: 1fr; gap: 1.25rem; }
 }
+
+@media (max-width: 768px) {
+  .v2-about { padding: 4.5rem 0; }
+  .v2-about-grid { gap: 2.5rem; }
+  .v2-img-frame { aspect-ratio: 16/10; max-height: 280px; }
+  .v2-about-badge-float {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: -1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 0.9rem 1.25rem;
+    justify-content: flex-start;
+  }
+  .v2-about-lead { font-size: 1.08rem; line-height: 1.65; margin-bottom: 1.25rem; }
+  .v2-about-body { font-size: 0.92rem; line-height: 1.75; margin-bottom: 2rem; }
+}
 </style>

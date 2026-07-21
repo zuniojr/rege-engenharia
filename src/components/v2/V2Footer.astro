@@ -143,19 +143,29 @@
 }
 
 @media (max-width: 768px) {
+  .v2-footer { padding: 3.5rem 0 0; }
   .v2-footer-inner {
-    gap: 2.5rem;
+    flex-direction: column;
+    gap: 2rem;
+    padding-bottom: 2.5rem;
   }
-}
-
-@media (max-width: 600px) {
+  .v2-footer-brand {
+    max-width: 100%;
+  }
+  .v2-footer-nav {
+    gap: 0.5rem;
+  }
+  .v2-footer-nav a {
+    padding: 0.4rem 0;
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
+  }
   .v2-footer-bottom-inner {
     flex-direction: column;
     text-align: center;
     gap: 1rem;
-  }
-  .v2-footer-brand {
-    max-width: 100%;
+    padding: 1.25rem 1rem;
   }
 }
 </style>

@@ -126,9 +126,26 @@ img {
 }
 
 @media (max-width: 768px) {
+  .container {
+    padding: 0 1.25rem;
+  }
   .section-title {
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: var(--spacing-md);
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 52px;
+    padding: 0.9rem 1.5rem;
+    font-size: 0.8rem;
+    box-sizing: border-box;
+  }
+  input, select, textarea {
+    font-size: 16px !important; /* Previne auto-zoom no iOS */
+    min-height: 48px;
   }
 }
 
