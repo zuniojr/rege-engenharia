@@ -108,6 +108,12 @@
     padding: 0 1.25rem;
   }
 
+  .v2-logo-img,
+  .nav-logo-img {
+    height: 25px !important;
+    width: auto !important;
+  }
+
   .v2-btn {
     width: 100%;
     min-height: 52px;
