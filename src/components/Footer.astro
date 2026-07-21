@@ -117,4 +117,35 @@
     color: var(--sand-2);
     border-top: 1px solid var(--line);
   }
+
+  @media (max-width: 768px) {
+    .footer {
+      padding-top: 3rem;
+    }
+    .footer-content {
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem 1.25rem;
+      margin-bottom: 2.5rem;
+    }
+    .brand-col {
+      grid-column: 1 / -1;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 1.5rem;
+    }
+    .footer-logo-img {
+      height: 25px;
+    }
+    .footer-col h3 {
+      font-size: 0.85rem;
+      margin-bottom: 1rem;
+    }
+    .footer-col ul li a {
+      min-height: 38px;
+      display: inline-flex;
+      align-items: center;
+    }
+    .footer-bottom {
+      padding: 1.25rem 1rem 2.25rem;
+    }
+  }
 </style>
