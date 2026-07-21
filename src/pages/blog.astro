@@ -4,7 +4,12 @@ import V2Nav from '../components/v2/V2Nav.astro';
 import V2Footer from '../components/v2/V2Footer.astro';
 import V2CtaSection from '../components/v2/V2CtaSection.astro';
 import FloatingCTA from '../components/v2/FloatingCTA.astro';
+import { blogPosts } from '../data/blogPosts.js';
 import '../styles/v2.css';
+
+const featuredPost = blogPosts.find(p => p.featured);
+const gridPosts = blogPosts.filter(p => !p.featured);
+const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
 ---
 
 <Layout
@@ -49,123 +54,45 @@ import '../styles/v2.css';
   <section class="blog-section">
     <div class="v2-container">
       
-      <!-- Destaque Principal -->
-      <div class="blog-featured-post v2-reveal">
-        <div class="blog-featured-img">
-          <img src="/images/obra-residencial.png" alt="Construção Turnkey" />
-        </div>
-        <div class="blog-featured-text">
-          <div class="blog-post-meta">
-            <span class="blog-post-tag">CONSTRUÇÃO</span>
-            <span class="blog-post-date">15 Julho, 2026</span>
+      {featuredPost && (
+        <!-- Destaque Principal -->
+        <a href={`/blog/${featuredPost.slug}`} target="_blank" rel="noopener noreferrer" class="blog-featured-post v2-reveal">
+          <div class="blog-featured-img">
+            <img src={featuredPost.image} alt={featuredPost.imageAlt} />
           </div>
-          <h2>Como funciona o sistema de construção Chave na Mão (Turnkey)?</h2>
-          <p class="blog-post-excerpt">Descubra todas as vantagens e etapas do modelo construtivo que tem conquistado o litoral de Santa Catarina por sua comodidade, previsibilidade de custos e otimização total de prazos.</p>
-          <a href="#" class="blog-read-more">
-            <span>Ler Artigo Completo</span>
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-          </a>
-        </div>
-      </div>
+          <div class="blog-featured-text">
+            <div class="blog-post-meta">
+              <span class="blog-post-tag">{featuredPost.tag}</span>
+              <span class="blog-post-date">{featuredPost.date}</span>
+            </div>
+            <h2>{featuredPost.title}</h2>
+            <p class="blog-post-excerpt">{featuredPost.excerpt}</p>
+            <span class="blog-read-more">
+              <span>Ler Artigo Completo</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </span>
+          </div>
+        </a>
+      )}
 
       <!-- Grid de Artigos -->
       <div class="blog-grid">
-        
-        <!-- Post 1 -->
-        <article class="blog-card v2-reveal">
-          <div class="blog-card-img">
-            <img src="/images/projeto-arquitetonico.png" alt="Planejamento de Projetos" />
-          </div>
-          <div class="blog-card-content">
-            <div class="blog-post-meta">
-              <span class="blog-post-tag">PROJETOS</span>
-              <span class="blog-post-date">10 Julho, 2026</span>
+        {gridPosts.map((post, i) => (
+          <a href={`/blog/${post.slug}`} target="_blank" rel="noopener noreferrer" class={`blog-card v2-reveal ${delayClasses[i % 3]}`}>
+            <div class="blog-card-img">
+              <img src={post.image} alt={post.imageAlt} />
             </div>
-            <h3>5 erros comuns na hora de desenhar a planta da sua casa</h3>
-            <p>Erros simples no layout arquitetônico podem custar caro e comprometer o conforto. Veja como evitá-los em conjunto com seu engenheiro.</p>
-            <a href="#" class="blog-card-link">Ler mais</a>
-          </div>
-        </article>
-
-        <!-- Post 2 -->
-        <article class="blog-card v2-reveal v2-reveal-delay-1">
-          <div class="blog-card-img">
-            <img src="/images/regularizacao.png" alt="Averbação e Documentos" />
-          </div>
-          <div class="blog-card-content">
-            <div class="blog-post-meta">
-              <span class="blog-post-tag">LEGISLAÇÃO</span>
-              <span class="blog-post-date">05 Julho, 2026</span>
+            <div class="blog-card-content">
+              <div class="blog-post-meta">
+                <span class="blog-post-tag">{post.tag}</span>
+                <span class="blog-post-date">{post.date}</span>
+              </div>
+              <h3>{post.title}</h3>
+              <p>{post.excerpt}</p>
+              <span class="blog-card-link">Ler mais</span>
             </div>
-            <h3>Averbação de imóvel: O que é e por que você deve fazer?</h3>
-            <p>Entenda por que manter o registro da construção do seu imóvel atualizado junto ao cartório é essencial para venda, financiamento e partilhas.</p>
-            <a href="#" class="blog-card-link">Ler mais</a>
-          </div>
-        </article>
-
-        <!-- Post 3 -->
-        <article class="blog-card v2-reveal v2-reveal-delay-2">
-          <div class="blog-card-img">
-            <img src="/images/obra-comercial.png" alt="Estruturas e Fundações" />
-          </div>
-          <div class="blog-card-content">
-            <div class="blog-post-meta">
-              <span class="blog-post-tag">ENGENHARIA</span>
-              <span class="blog-post-date">28 Junho, 2026</span>
-            </div>
-            <h3>A importância da sondagem de solo para a fundação da sua obra</h3>
-            <p>Economizar na análise geotécnica pode colocar em risco toda a segurança estrutural da construção. Descubra os riscos do recalque diferencial.</p>
-            <a href="#" class="blog-card-link">Ler mais</a>
-          </div>
-        </article>
-
-        <!-- Post 4 -->
-        <article class="blog-card v2-reveal">
-          <div class="blog-card-img">
-            <img src="/images/obra-residencial.png" alt="Planejamento de orçamento de obra" />
-          </div>
-          <div class="blog-card-content">
-            <div class="blog-post-meta">
-              <span class="blog-post-tag">PLANEJAMENTO</span>
-              <span class="blog-post-date">17 Julho, 2026</span>
-            </div>
-            <h3>Custo de obra em 2026: Como planejar seu orçamento sem surpresas</h3>
-            <p>O custo por metro quadrado no litoral catarinense subiu consideravelmente. Entenda como montar um orçamento executivo realista, quais itens mais impactam o valor final e como evitar os estouros que comprometem o sonho da casa própria.</p>
-            <a href="#" class="blog-card-link">Ler mais</a>
-          </div>
-        </article>
-
-        <!-- Post 5 -->
-        <article class="blog-card v2-reveal v2-reveal-delay-1">
-          <div class="blog-card-img">
-            <img src="/images/construtora.png" alt="Escolhendo a melhor construtora" />
-          </div>
-          <div class="blog-card-content">
-            <div class="blog-post-meta">
-              <span class="blog-post-tag">DICAS</span>
-              <span class="blog-post-date">16 Julho, 2026</span>
-            </div>
-            <h3>Como escolher a melhor construtora para sua obra residencial</h3>
-            <p>Portfólio, contrato detalhado, referências de clientes e transparência financeira são apenas alguns dos critérios essenciais. Confira o checklist completo para tomar a decisão certa e evitar dores de cabeça.</p>
-            <a href="#" class="blog-card-link">Ler mais</a>
-          </div>
-        </article>
-
-        <!-- Post 6 -->
-        <article class="blog-card v2-reveal v2-reveal-delay-2">
-          <div class="blog-card-img">
-            <img src="/images/rege-engenharia.png" alt="Etapas da construção civil" />
-          </div>
-          <div class="blog-card-content">
-            <div class="blog-post-meta">
-              <span class="blog-post-tag">CONSTRUÇÃO</span>
-              <span class="blog-post-date">14 Julho, 2026</span>
-            </div>
-            <h3>As 7 etapas da construção civil: Do terreno à entrega das chaves</h3>
-            <p>Sondagem, fundação, estrutura, alvenaria, instalações, acabamento e entrega — conheça em detalhes cada fase da obra e saiba exatamente o que esperar em cada momento do seu projeto.</p>
-            <a href="#" class="blog-card-link">Ler mais</a>
-          </div>
-        </article>
+          </a>
+        ))}
       </div>
     </div>
   </section>
@@ -305,6 +232,11 @@ import '../styles/v2.css';
 }
 
 /* Post em Destaque */
+a.blog-featured-post,
+a.blog-card {
+  text-decoration: none;
+  color: inherit;
+}
 .blog-featured-post {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
