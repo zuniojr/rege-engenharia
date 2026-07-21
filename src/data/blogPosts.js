@@ -641,7 +641,7 @@ export const blogPosts = [
     title: 'Construir sem Dor de Cabeça: O Guia Completo para Planejar e Executar sua Obra com Segurança',
     tag: 'ENGENHARIA',
     date: '21 Julho, 2026',
-    image: '/images/obra-residencial.png',
+    image: '/images/regeengenharia.jpg',
     imageAlt: 'Engenheiro civil realizando acompanhamento técnico com capacete e prancheta em canteiro de obras.',
     excerpt: 'O segredo de uma obra bem-sucedida está nas etapas invisíveis: planejamento, projetos precisos e acompanhamento técnico rigoroso. Descubra como construir com segurança, dentro do prazo e do orçamento.',
     readTime: '6 min de leitura',
