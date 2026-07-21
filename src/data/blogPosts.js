@@ -635,5 +635,130 @@ export const blogPosts = [
         text: 'Seu projeto merece um processo de aprovação sem complicações. Conte com a Regê Engenharia para isso. Entre em contato conosco e descubra como podemos ajudar você a transformar seu projeto em realidade de forma totalmente legalizada.'
       }
     ]
+  },
+  {
+    slug: 'acompanhamento-tecnico-de-obra',
+    title: 'Construir sem Dor de Cabeça: O Guia Completo para Planejar e Executar sua Obra com Segurança',
+    tag: 'ENGENHARIA',
+    date: '21 Julho, 2026',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Engenheiro civil realizando acompanhamento técnico com capacete e prancheta em canteiro de obras.',
+    excerpt: 'O segredo de uma obra bem-sucedida está nas etapas invisíveis: planejamento, projetos precisos e acompanhamento técnico rigoroso. Descubra como construir com segurança, dentro do prazo e do orçamento.',
+    readTime: '6 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Construir ou reformar é o sonho de muitas pessoas e empresas, mas o processo costuma ser associado a atrasos, estresse e orçamentos estourados. A verdade é que erguer uma edificação vai muito além de comprar tijolos e levantar paredes.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O segredo de um projeto bem-sucedido reside nas etapas invisíveis para quem vê de fora: o planejamento detalhado, a elaboração de projetos precisos e o acompanhamento técnico rigoroso. Sem essa base, pequenos deslizes na fundação ou na documentação podem se transformar em grandes prejuízos no futuro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na Regê Engenharia, transformamos a complexidade da construção civil em um processo transparente e previsível. Nosso objetivo é garantir que sua obra avance com segurança, dentro do prazo e respeitando o seu orçamento — do papel até a entrega das chaves.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que construir com planejamento e acompanhamento técnico?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Muitos proprietários tentam economizar pulando etapas cruciais, como a elaboração de projetos complementares ou a contratação de um engenheiro para acompanhar a execução. No entanto, a ausência desse suporte costuma custar muito mais caro do que parece.'
+      },
+      {
+        type: 'heading',
+        text: 'O custo da improvisação na construção civil'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sem um projeto bem estruturado, a obra fica à mercê do improviso. Isso gera desperdício de materiais com compras incorretas e refações de serviços mal executados, atrasos no cronograma por falta de alinhamento entre as equipes, e patologias estruturais como infiltrações, trincas e falhas elétricas que só aparecem meses após a entrega.'
+      },
+      {
+        type: 'heading',
+        text: 'A importância do acompanhamento técnico profissional'
+      },
+      {
+        type: 'paragraph',
+        text: 'O acompanhamento técnico garante que o construtor siga à risca o que foi dimensionado nos projetos. O engenheiro responsável atua no controle de qualidade dos materiais, na verificação das etapas construtivas e no alinhamento com as normas da ABNT — prevenindo erros que seriam muito mais caros de corrigir depois da obra pronta.'
+      },
+      {
+        type: 'heading',
+        text: 'As etapas fundamentais de uma obra organizada'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para garantir previsibilidade e eficiência, uma obra precisa ser dividida em fases estratégicas. Cada etapa tem sua função e seu momento certo de acontecer.'
+      },
+      {
+        type: 'heading',
+        text: 'Projetos arquitetônicos, estruturais e complementares'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de mover a primeira pá de terra, é necessário desenhar o funcionamento completo da edificação. O projeto arquitetônico define a distribuição dos espaços, fachada, iluminação natural e estética. O projeto estrutural dimensiona fundações, pilares e vigas, garantindo a estabilidade e a segurança da edificação. Os projetos complementares — que incluem instalações hidrossanitárias, elétricas e de dados — evitam interferências no canteiro e garantem que tudo funcione em harmonia.'
+      },
+      {
+        type: 'heading',
+        text: 'Aprovações e regularizações'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nenhuma obra pode rodar de forma legal sem a documentação adequada. Essa etapa inclui a submissão dos projetos para aprovação na Prefeitura Municipal, a emissão do Alvará de Construção e a adequação às normas ambientais e de bombeiros. Pular esse passo pode resultar em embargos, multas e grandes dificuldades para registrar o imóvel futuramente.'
+      },
+      {
+        type: 'heading',
+        text: 'Acompanhamento técnico e gestão da execução'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com os alvarás em mãos e projetos aprovados, inicia-se a execução. A assessoria especializada monitora o progresso diário, valida as entregas técnicas e garante a aplicação correta dos insumos — mantendo a obra dentro do cronograma e do orçamento planejado.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia transforma sua ideia em realidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua de forma integral em todas as fases da construção, oferecendo soluções sob medida para quem busca tranquilidade e eficiência.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projetos integrados — compatibilização completa entre arquitetura e engenharia para evitar retrabalho',
+          'Gestão burocrática — suporte completo em aprovações e regularizações junto aos órgãos competentes',
+          'Previsibilidade financeira e operacional — controle do cronograma para que a entrega ocorra dentro do combinado'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Quando o projeto é bem planejado, o resultado aparece em cada detalhe da entrega.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre acompanhamento técnico de obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Por que preciso de projetos complementares além do arquitetônico? O projeto arquitetônico define a estética e o layout. Os projetos complementares (estrutural, elétrico e hidrossanitário) definem como a casa funciona por dentro — garantindo que a estrutura suporte as cargas e que não haja curtos-circuitos ou vazamentos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a função do acompanhamento técnico na obra? O acompanhamento técnico garante que os pedreiros e empreiteiros sigam rigorosamente as especificações do projeto, respeitando as normas de segurança e garantindo a qualidade final do imóvel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O que acontece se eu construir sem alvará de aprovação? Construir sem aprovação municipal pode gerar multas, embargos da obra por fiscalização e grandes dificuldades para obter o Habite-se ou registrar o imóvel no Cartório de Imóveis posteriormente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual o momento certo para contratar a assessoria em engenharia? O ideal é contratar a assessoria antes mesmo de comprar o terreno ou iniciar qualquer desenho, para avaliar a viabilidade técnica e legal do local e evitar surpresas desde o início.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Construir é um investimento de alto valor e não deve ser deixado ao acaso. Ao optar por planejamento técnico, projetos integrados e gestão especializada, você protege seu patrimônio e garante um imóvel seguro, funcional e valorizado. Entre em contato com a equipe da Regê Engenharia e descubra como podemos apoiar sua obra do início ao fim.'
+      }
+    ]
   }
 ];
