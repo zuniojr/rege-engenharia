@@ -147,6 +147,10 @@ img {
     font-size: 16px !important; /* Previne auto-zoom no iOS */
     min-height: 48px;
   }
+  [class*="-stroke"],
+  [class*="title-stroke"] {
+    -webkit-text-stroke-width: 1px !important;
+  }
 }
 
 /* Scroll Reveal Classes */

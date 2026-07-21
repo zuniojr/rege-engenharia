@@ -114,6 +114,21 @@
     width: auto !important;
   }
 
+  /* TEXTO VAZADO / CONTORNO DE FONTE NO MOBILE (< 768px) */
+  .v2-title-stroke,
+  .sobre-title-stroke,
+  .svc-title-stroke,
+  .port-title-stroke,
+  .blog-title-stroke,
+  .art-title-stroke,
+  .ci-title-stroke,
+  .pp-title-stroke,
+  .tc-title-stroke,
+  .tp-title-stroke,
+  [class*="-stroke"] {
+    -webkit-text-stroke-width: 1px !important;
+  }
+
   .v2-btn {
     width: 100%;
     min-height: 52px;
