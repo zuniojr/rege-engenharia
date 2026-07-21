@@ -203,14 +203,16 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(to right, rgba(8,14,23,0.95) 30%, rgba(8,14,23,0.5) 100%),
-    linear-gradient(to top, rgba(8,14,23,1) 0%, rgba(8,14,23,0.6) 30%, transparent 60%);
+    linear-gradient(to right, rgba(8,14,23,0.95) 45%, rgba(8,14,23,0.3) 100%),
+    linear-gradient(to top, rgba(8,14,23,0.9) 10%, transparent 50%);
 }
 .sp-hero-content {
   position: relative;
   z-index: 10;
-  padding: 8rem 1.5rem 5rem;
-  max-width: 850px;
+  padding: 10rem 1.5rem 6rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
 }
 .sp-hero-badge {
   display: inline-flex;
@@ -671,7 +673,7 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
 
 @media (max-width: 600px) {
   .sp-hero-content {
-    padding: 0 1rem 3.5rem;
+    padding: 6.5rem 1.25rem 4rem;
   }
   .sp-hero {
     min-height: 65vh;
