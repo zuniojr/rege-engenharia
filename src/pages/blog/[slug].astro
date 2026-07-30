@@ -41,11 +41,6 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
         {post.title}
       </h1>
       <div class="sp-hero-meta">
-        <span class="sp-meta-date">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-          {post.date}
-        </span>
-        <span class="sp-meta-sep">•</span>
         <span class="sp-meta-read">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
           {post.readTime}
@@ -153,7 +148,6 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
             <div class="sp-related-card-content">
               <div class="blog-post-meta">
                 <span class="blog-post-tag">{rPost.tag}</span>
-                <span class="blog-post-date">{rPost.date}</span>
               </div>
               <h3>{rPost.title}</h3>
               <span class="sp-related-card-link">Ler artigo →</span>
