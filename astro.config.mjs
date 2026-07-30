@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 import sharp from 'sharp';
 import fs from 'fs';
 import path from 'path';
@@ -34,5 +35,6 @@ function avifAutoConverter() {
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [avifAutoConverter()]
+  site: 'https://regeengenharia.com.br',
+  integrations: [avifAutoConverter(), sitemap()]
 });
