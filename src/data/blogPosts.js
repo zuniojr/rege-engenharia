@@ -1,4 +1,4 @@
-﻿export const blogPosts = [
+export const blogPosts = [
   {
     slug: 'engenheiro-civil-perto-de-mim',
     title: 'Engenheiro Civil Perto de Mim: Como Encontrar e Contratar o Profissional Certo para Sua Obra',
@@ -589,7 +589,7 @@
     slug: 'energia-solar-retorno-investimento-navegantes',
     title: 'Energia Solar no Litoral Norte: Retorno sobre o Investimento para sua Casa em Navegantes',
     tag: 'ENERGIA SOLAR',
-    image: '/images/obra-residencial.avif',
+    image: '/images/Energia Solar.png',
     imageAlt: 'Casa em Navegantes SC com painéis solares fotovoltaicos no telhado, aproveitando a irradiação solar do litoral norte catarinense.',
     excerpt: 'Quanto custa e em quanto tempo se paga um sistema de energia solar em Navegantes? Entenda o retorno sobre o investimento real para sua casa no litoral norte de Santa Catarina — com preços, payback, a Lei 14.300 e o Fio B, e os cuidados do ambiente salino.',
     readTime: '10 min de leitura',
@@ -792,7 +792,7 @@
     slug: 'engenheiro-economiza-dinheiro-construcao',
     title: 'Como um Engenheiro Pode Economizar Dinheiro na Sua Construção',
     tag: 'ENGENHARIA',
-    image: '/images/obra-residencial.avif',
+    image: '/images/engenheiro-economiza-dinheiro.png',
     imageAlt: 'Engenheiro civil em obra em Navegantes SC analisando projeto e orçamento, representando economia e controle de custos na construção.',
     excerpt: 'Contratar engenheiro parece custo — mas é o investimento que mais economiza em uma obra. Descubra como o acompanhamento técnico reduz desperdício, evita retrabalho, garante especificações corretas e transforma o seu orçamento em previsível, do projeto à entrega.',
     readTime: '10 min de leitura',
@@ -23039,7 +23039,7 @@
     slug: 'energia-solar-litoral-norte-sc-viabilidade-retorno',
     title: 'Energia Solar no Litoral Norte de SC: Viabilidade e Retorno de Investimento',
     tag: 'ENERGIA SOLAR',
-    image: '/images/obra-residencial.avif',
+    image: '/images/Energia Solar.png',
     imageAlt: 'Painéis solares fotovoltaicos instalados no telhado de casa no litoral norte de Santa Catarina, com vista para o mar e irradiação solar máxima.',
     excerpt: 'Quanto custa e em quanto tempo se paga energia solar no litoral norte de SC? Análise completa de viabilidade, payback por cidade, tarifas Celesc 2026, impacto da Lei 14.300 e cuidados com o ambiente salino. Números reais, sem promessas.',
     readTime: '12 min de leitura',
