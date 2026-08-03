@@ -67,7 +67,7 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
       <div class="sp-layout">
         
         <!-- Main Content -->
-        <article class="sp-article v2-reveal">
+        <article class="sp-article">
 
           <!-- Imagem de capa repetida no topo do artigo -->
           <div class="sp-article-cover">
@@ -81,7 +81,10 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
             if (block.type === 'heading') {
               return <h2>{block.text}</h2>;
             }
-            if (block.type === 'list') {
+            if (block.type === 'subheading' || block.type === 'h3') {
+              return <h3>{block.text}</h3>;
+            }
+            if (block.type === 'list' && Array.isArray(block.items)) {
               return (
                 <ul>
                   {block.items.map((item) => <li>{item}</li>)}
@@ -95,6 +98,10 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
                 </blockquote>
               );
             }
+            if (block.text) {
+              return <p>{block.text}</p>;
+            }
+            return null;
           })}
 
           <!-- Share / Tags -->
@@ -749,7 +756,7 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
         revealObserver.unobserve(entry.target);
       }
     });
-  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+  }, { threshold: 0, rootMargin: '0px 0px -20px 0px' });
 
   document.querySelectorAll('.v2-reveal').forEach(el => revealObserver.observe(el));
 </script>
