@@ -104,6 +104,13 @@
     overflow-x: hidden;
   }
 
+  /* Garante que elementos com v2-reveal sejam sempre visíveis no mobile */
+  .v2-reveal {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+    transition: none !important;
+  }
+
   .v2-container {
     padding: 0 1.25rem;
   }

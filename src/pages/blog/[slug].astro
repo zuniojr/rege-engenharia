@@ -716,6 +716,27 @@ const relatedPosts = blogPosts.filter(p => p.slug !== post.slug).slice(0, 3);
   .sp-related {
     padding: 4rem 0 2rem;
   }
+
+  /* Garante visibilidade das animações do hero no mobile */
+  .sp-hero-badge,
+  .sp-hero-title,
+  .sp-hero-meta,
+  .sp-breadcrumb {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+    animation: none !important;
+  }
+
+  /* Layout do artigo em coluna no mobile */
+  .sp-layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .sp-sidebar {
+    position: static;
+    flex-direction: column;
+  }
 }
 </style>
 

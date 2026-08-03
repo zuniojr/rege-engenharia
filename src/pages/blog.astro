@@ -411,6 +411,16 @@ a.blog-card {
 @media (max-width: 600px) {
   .blog-hero-content { padding: 9rem 1rem 4rem; }
   .blog-grid { grid-template-columns: 1fr; }
+
+  /* Garante visibilidade das animações do hero no mobile */
+  .blog-hero-badge,
+  .blog-title-line,
+  .blog-hero-sub,
+  .blog-breadcrumb {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+    animation: none !important;
+  }
 }
 </style>
 

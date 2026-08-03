@@ -1,0 +1,10 @@
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes, Machados e em todo o litoral catarinense desde 2016, com projetos industriais completos: implantação, estrutura, instalações, combate a incêndio e licenciamento. Conhecemos a região, o porto e as exigências da indústria local — e projetamos empreendimentos prontos para operar no ritmo de Machados.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir ou alugar galpões em Machados, comece pelo projeto certo. Entre em contato com a equipe da Regê Engenharia, apresente sua operação e receba a proposta de projeto que transforma o terreno em um empreendimento produtivo, licenciado e pronto para crescer — da fundação à primeira expedição.'
+      }
+    ]
+  }
+];
