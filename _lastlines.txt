@@ -1,10 +1,184 @@
-        type: 'paragraph',
-        text: 'A Reg� Engenharia atua em Navegantes, Machados e em todo o litoral catarinense desde 2016, com projetos industriais completos: implanta��o, estrutura, instala��es, combate a inc�ndio e licenciamento. Conhecemos a regi�o, o porto e as exig�ncias da ind�stria local � e projetamos empreendimentos prontos para operar no ritmo de Machados.'
-      },
-      {
-        type: 'paragraph',
-        text: 'Se voc� vai construir ou alugar galp�es em Machados, comece pelo projeto certo. Entre em contato com a equipe da Reg� Engenharia, apresente sua opera��o e receba a proposta de projeto que transforma o terreno em um empreendimento produtivo, licenciado e pronto para crescer � da funda��o � primeira expedi��o.'
-      }
-    ]
-  }
-];
+
+  {
+    slug: 'projetos-industriais-machado-galpoes-fabricas',
+    title: 'Projetos Industriais Machado (Navegantes SC): Soluções para Galpões e Fábricas',
+    tag: 'INDUSTRIAL',
+    image: '/images/obra-comercial.avif',
+    imageAlt: 'Projeto de galpão industrial em Machado, Navegantes SC, com estrutura metálica em montagem no canteiro de obras.',
+    excerpt: 'Machado virou o endereço industrial de Navegantes: complexos logísticos às margens da BR-470, perto do porto e do aeroporto. Entenda como planejar, licenciar e construir um galpão ou fábrica com engenharia, ART e custo controlado.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando se pensa em Navegantes, a imagem de orla costuma vir primeiro. Mas a força econômica da cidade está em outro lugar: no eixo da BR-470, onde o bairro Machado concentra um dos mais modernos parques de galpões industriais e logísticos de Santa Catarina. É ali que operam complexos como o XLNAV, o Navepark e o TIPLO — é para ali que apontam as empresas que precisam de estrutura, acesso rodoviário e proximidade do porto.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projetar e construir um empreendimento industrial em Machado é uma disciplina própria da engenharia. Um galpão não é uma casa grande, e uma fábrica não é um galpão com máquinas: cada uso exige cálculos, licenças, logística e especificações específicas. Este guia mostra o que está envolvido em projetos industriais em Machado — da terraplanagem à entrega, passando por fundação, estrutura metálica, piso, prevenção a incêndio e licenciamento — para que o empreendedor tome decisões com técnica e sem surpresas.'
+      },
+      {
+        type: 'quote',
+        text: 'Em Machado, o galpão certo nasce antes da primeira viga: nasce no estudo de viabilidade, no terreno, no solo e no projeto. O improviso constrói paredes; o projeto constrói ativos que valorizam por décadas.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que Machado se tornou o polo industrial de Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Machado é o ponto onde a infraestrutura de Navegantes se encontra. Localizado às margens da BR-470, o bairro virou o endereço natural de centros de distribuição, indústrias e operadores logísticos. Os fatores que explicam essa concentração:'
+      },
+      {
+        type: 'list',
+        items: [
+          'BR-470 e BR-101 — a rodovia conecta o empreendimento ao corredor do Vale do Itajaí e às principais rotas do Sul do Brasil, com a BR-101 a poucos minutos',
+          'Porto de Navegantes e Portonave — o maior porto de contêineres do Sul do Brasil, a cerca de 10 km, é o principal gerador da demanda logística da região',
+          'Aeroporto Internacional de Navegantes — a cerca de 11 km, agiliza cargas e operações de distribuição',
+          'Zona industrial consolidada — a convivência entre empresas cria sinergia, mão de obra disponível e fornecedores locais',
+          'Mercado aquecido — a baixa vacância e a demanda crescente de galpões de alto padrão tornam o investimento atraente para indústrias e fundos'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Enquanto a orla é a vitrine de Navegantes, Machado é a fábrica. É lá que a cidade realmente cresce — e é lá que a engenharia industrial encontra o seu melhor terreno.'
+      },
+      {
+        type: 'heading',
+        text: 'Galpões industriais e logísticos: o que um projeto moderno exige'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um galpão em Machado com padrão AAA — o que as grandes operações exigem hoje — reúne requisitos técnicos específicos. O projeto precisa contemplar desde o pré-dimensionamento até os sistemas que fazem do empreendimento um ativo de alta performance:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vãos livres e pé-direito alto — os projetos mais procurados têm de 10 a 14 metros de pé-direito, permitindo armazenagem vertical e operação de equipamentos',
+          'Piso industrial de alto desempenho — resistência de 5 a 6 toneladas por m², com juntas adequadas e acabamento para empilhadeiras e caminhões',
+          'Docas de carga e descarga — com niveladoras embutidas, dimensionadas para o fluxo de veículos pesados',
+          'Modulação — galpões modulares, que crescem em blocos conforme a operação',
+          'Prevenção e combate a incêndio — sprinklers e classificação de risco conforme o uso da edificação',
+          'Eficiência operacional — ventilação natural na cobertura, iluminação LED de alta eficiência, luminosos zenitais e cobertura com isolamento termoacústico',
+          'Preparação para verticalização — mezaninos e áreas administrativas sobre a operação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O galpão de hoje não é um barracão com chapas: é um edifício logístico com pé-direito, docas, sprinkler, iluminação e estrutura preparados para operar 24 horas por dia.'
+      },
+      {
+        type: 'heading',
+        text: 'Fábricas: quando o galpão vira planta industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quando a operação é fabril — e não apenas armazenagem —, o projeto muda de natureza. Uma fábrica em Machado exige itens que nenhum galpão básico contempla:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Fundação e estrutura calculada para máquinas — bases para equipamentos pesados, isolamento de vibração e tolerâncias de deslocamento',
+          'Instalações de utilidades — rede elétrica de alta tensão, gases, ar comprimido, vapor, água industrial e esgoto especial',
+          'Licenciamento ambiental — classificação da atividade, exigências do órgão ambiental e, em muitos casos, estudo de impacto',
+          'Segurança do trabalho — adequação de máquinas e equipamentos (NR-12), sinalização e proteções perimetrais',
+          'Logística interna — fluxo de matéria-prima, estoque e expedição, com área de manobra para caminhões',
+          'Conforto ambiental — cobertura isolante termoacústico, ventilação e exaustão para cargas de calor e de processo'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O galpão abriga a operação; a fábrica produz o valor. A diferença entre os dois projetos não é o tamanho — é a profundidade do cálculo, do licenciamento e da logística.'
+      },
+      {
+        type: 'heading',
+        text: 'O processo de um projeto industrial em Machado'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto industrial segue etapas que precisam acontecer na sequência certa para não gerar retrabalho e custos ocultos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Viabilidade e escopo — estudo do terreno, capacidade do solo, acesso rodoviário, demanda da operação e programa funcional',
+          'Projeto de arquitetura e engenharia — leiaute, fundação, estrutura metálica, instalações e sistemas complementares, com ART e memorial',
+          'Licenciamento e aprovações — Prefeitura de Navegantes, órgão ambiental quando aplicável e projeto de prevenção aprovado pelo Corpo de Bombeiros',
+          'Execução — terraplenagem, fundações, montagem da estrutura, cobertura, piso industrial, instalações e acabamentos',
+          'Entrega — inspeções, habite-se, certificações e treinamento da equipe de operação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Licenciamento e regularização: o que nem sempre aparece no orçamento'
+      },
+      {
+        type: 'list',
+        items: [
+          'Aprovação do projeto e alvará de construção na Prefeitura de Navegantes — sem o alvará, a obra não pode iniciar',
+          'Licença de instalação ou operação junto ao órgão ambiental do estado, quando a atividade exigir',
+          'Prevenção e combate a incêndio aprovada no Corpo de Bombeiros, com classificação de risco conforme o uso',
+          'ART e responsabilidade técnica — todos os serviços com responsável registrado no CREA-SC',
+          'Habite-se da edificação e averbação no cartório — documentos que valorizam o ativo e o tornam financiável'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'No galpão, a documentação não é um papel: é o que transforma uma estrutura em um ativo vendável, financiado e financiável. Comece a legalização enquanto a operação cresce — não na hora da venda.'
+      },
+      {
+        type: 'heading',
+        text: 'Custos de referência para projetos industriais em Machado (2026)'
+      },
+      {
+        type: 'paragraph',
+        text: 'O preço de um galpão ou fábrica depende da estrutura, da altura, do piso, das instalações e do porte. Como estimativa inicial para planejamento:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Galpão logístico ou industrial (estrutura metálica + cobertura + fechamentos) — R$ 2.200 a R$ 3.800 por m²',
+          'Piso industrial de alto desempenho — R$ 60 a R$ 120 por m²',
+          'Docas e equipamentos de carga — incluídos na operação com valores adicionais por doca',
+          'Instalações elétricas — R$ 30 a R$ 60 por m²',
+          'Sistema de prevenção contra incêndio (sprinklers) — R$ 25 a R$ 50 por m²',
+          'Projeto completo (fundação, estrutura, instalações) — 3 a 10% do custo da obra'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Os valores são estimativas de mercado para 2026 e variam conforme a especificação técnica e o porte do empreendimento. Um orçamento executivo real substitui qualquer estimativa de tabela.'
+      },
+      {
+        type: 'heading',
+        text: 'Cinco erros que custam caro em obra industrial'
+      },
+      {
+        type: 'list',
+        items: [
+          'Pular a viabilidade e a sondagem — fundação sobre solo errado é garantia de recalque e fissuras',
+          'Escolher a estrutura sem cálculo — galpão precisa de projeto estrutural assinado, não de estrutura pronta de catálogo',
+          'Subestimar a prevenção de incêndio — sistema incorreto deixa a operação interditada e a seguradora recusa o sinistro',
+          'Esquecer o licenciamento ambiental — a licença incorreta paralisia um projeto pronto',
+          'Tratar a fábrica como galpão — máquinas pesadas, utilidades e logística interna exigem projeto específico'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Na obra industrial, o barato que improvisa vira o caro que embarga: multa, fiscalização, retrabalho e um ativo que não entrega retorno.'
+      },
+      {
+        type: 'heading',
+        text: 'Projetos industriais em Machado com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia, com sede em Navegantes, atua em projetos industriais de galpões e fábricas — do estudo de viabilidade à entrega do empreendimento. Conhecemos a realidade da zona logística de Machado, as exigências da Prefeitura de Navegantes, do licenciamento estadual e do Corpo de Bombeiros, e trabalhamos com engenharia, ART e transparência em todas as etapas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, ampliar ou modernizar um galpão industrial ou uma fábrica em Machado ou na região, fale com a nossa equipe técnica. Receba a avaliação do seu caso, o escopo do projeto e um cronograma claro — antes de assinar qualquer contrato.'
+      }
+    ]
+  }
+];
