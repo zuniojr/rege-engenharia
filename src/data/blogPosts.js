@@ -39625,11 +39625,11 @@ export const blogPosts = [
 ,
   {
     slug: 'projeto-prevencao-combate-incendios',
-    title: 'Projeto de Prevencao e Combate a Incendios: O Que e, Normas, Etapas e Quando e Obrigatorio',
-    tag: 'SEGURANCA',
+    title: 'Projeto de Prevenção e Combate a Incêndios: O Que É, Normas, Etapas e Quando É Obrigatório',
+    tag: 'SEGURANÇA',
     image: '/images/obra-comercial.png',
-    imageAlt: 'Projeto de prevencao e combate a incendios em edificacao comercial em Navegantes SC - hidrantes, sprinklers, extintores e rotas de fuga dimensionados pelo Corpo de Bombeiros.',
-    excerpt: 'O projeto de prevencao e combate a incendios (PPCI) e obrigatorio para a maioria das edificacoes comerciais, industriais e multifamiliares. Entenda o que ele envolve, quais normas se aplicam, como e o processo no Corpo de Bombeiros de SC e como garantir o AVCB do seu imovel.',
+    imageAlt: 'Projeto de prevenção e combate a incêndios em edificação comercial em Navegantes SC — hidrantes, sprinklers, extintores e rotas de fuga dimensionados pelo Corpo de Bombeiros.',
+    excerpt: 'O projeto de prevenção e combate a incêndios (PPCI) é obrigatório para a maioria das edificações comerciais, industriais e multifamiliares. Entenda o que ele envolve, quais normas se aplicam, como é o processo no Corpo de Bombeiros de SC e como garantir o AVCB do seu imóvel.',
     readTime: '12 min de leitura',
     featured: false,
     content: [
