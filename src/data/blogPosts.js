@@ -1,21 +1,1736 @@
 export const blogPosts = [
   {
-    slug: 'engenheiro-civil-perto-de-mim',
-    title: 'Engenheiro Civil Perto de Mim: Como Encontrar e Contratar o Profissional Certo para Sua Obra',
-    tag: 'ENGENHARIA',
-    image: '/images/obra-residencial.png',
-    imageAlt: 'Engenheiro civil registrado no CREA-SC em visita técnica a obra residencial no litoral de Santa Catarina — Navegantes, Itajaí, Balneário Camboriú.',
-    excerpt: 'Buscar "engenheiro civil perto de mim" é o primeiro passo certo. Mas o que vem depois? Este guia mostra como encontrar, avaliar e contratar um engenheiro civil de confiança — com ART, portfólio e presença local — para que sua obra no litoral de SC seja segura, legal e dentro do orçamento.',
+    slug: 'eficiencia-energetica-industrial',
+    title: 'Eficiência Energética Industrial: Como Reduzir Custos e Aumentar a Competitividade',
+    tag: 'ENERGIA',
+    image: '/images/Energia Solar.png',
+    imageAlt: 'Eficiência energética industrial em Santa Catarina — engenheiro analisando consumo de energia de planta industrial com painéis solares e medição técnica.',
+    excerpt: 'Energia está entre os maiores custos fixos da indústria. A eficiência energética industrial reduz a conta sem parar a produção: auditoria, fator de potência, motores, iluminação e geração própria. Veja como.',
     readTime: '11 min de leitura',
     featured: true,
     content: [
       {
         type: 'paragraph',
-        text: 'Quando alguém digita "engenheiro civil perto de mim" no Google, o que está por trás dessa busca quase sempre é a mesma coisa: uma obra que precisa sair do papel, um problema estrutural que preocupa, uma reforma que parece simples mas tem implicações técnicas — e a necessidade de um profissional de confiança, próximo o suficiente para acompanhar de perto. A palavra "perto" não é apenas geográfica: é também sinal de que a pessoa quer atenção, presença e conhecimento do contexto local.'
+        text: 'Na maioria das indústrias brasileiras, a energia elétrica está entre os três maiores custos de operação — e, diferente de matéria-prima ou folha, ela é paga todos os meses, em tarifa crescente, muitas vezes com desperdício embutido. Motores rodando em vazio, iluminação obsoleta, fator de potência reativo, ar comprimido vazando: cada um desses pontos sangra o caixa silenciosamente. A eficiência energética industrial é a disciplina que identifica esses pontos e os transforma em economia mensurável.'
       },
       {
         type: 'paragraph',
-        text: 'Este guia mostra o que fazer depois que você decide buscar um engenheiro civil: como identificar o profissional certo para o seu tipo de obra, o que verificar antes de contratar, quais documentos são obrigatórios e por que o engenheiro civil local — que conhece a legislação, o clima, o solo e as exigências da prefeitura da sua cidade — faz diferença real no resultado.'
+        text: 'Este guia explica o que é eficiência energética aplicada à indústria, por que ela virou prioridade competitiva, quais são as principais oportunidades de economia, como funciona um diagnóstico energético profissional e como a Regê Engenharia conduz esse trabalho no litoral de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é eficiência energética industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Eficiência energética industrial é produzir a mesma quantidade de bens usando menos energia. Não se trata de reduzir produção nem de apagar máquinas: trata-se de eliminar desperdícios, melhorar processos e adotar tecnologias mais eficientes, mantendo (ou aumentando) a produtividade. O resultado aparece direto na fatura e no custo unitário do produto.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Redução de consumo — menos kWh para a mesma produção',
+          'Otimização tarifária — enquadramento correto na tarifa e horários de operação',
+          'Qualidade de energia — correção de fator de potência e eliminação de multas',
+          'Geração própria — solar fotovoltaica e outras fontes para reduzir compra da rede'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Cada real economizado em energia cai integralmente na margem. Para pagar o mesmo lucro vendendo produto, seria preciso faturar muito mais.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a eficiência energética virou prioridade'
+      },
+      {
+        type: 'list',
+        items: [
+          'Tarifas em alta — bandeiras tarifárias e reajustes pressionam o custo fixo mês após mês',
+          'Competitividade — indústria eficiente precifica melhor e sobrevive a margens apertadas',
+          'Exigência de mercado — grandes compradores avaliam desempenho energético e ESG dos fornecedores',
+          'Multas evitáveis — fator de potência abaixo do mínimo gera cobrança extra todo mês',
+          'Sustentabilidade — menor consumo significa menos emissões associadas à operação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Principais oportunidades de economia na indústria'
+      },
+      {
+        type: 'heading',
+        text: '1. Auditoria e diagnóstico energético'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo projeto eficiente começa medindo. A auditoria energética mapeia onde a energia é consumida (por setor, processo e equipamento), identifica os grandes consumidores e quantifica os desperdícios. Sem esse raio-x, qualquer investimento é chute — com ele, cada ação tem retorno calculado.'
+      },
+      {
+        type: 'heading',
+        text: '2. Fator de potência e qualidade de energia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Fator de potência baixo gera cobrança de energia reativa na fatura — uma multa disfarçada que muitas indústrias pagam há anos sem saber. A instalação de banco de capacitores corretamente dimensionado corrige o problema e costuma ter retorno rápido. Harmonicos e desequilíbrios também são avaliados no diagnóstico.'
+      },
+      {
+        type: 'heading',
+        text: '3. Motores elétricos e inversores de frequência'
+      },
+      {
+        type: 'paragraph',
+        text: 'Motores respondem pela maior fatia do consumo industrial. Substituir motores antigos por modelos de alto rendimento (IE3/IE4), dimensionar corretamente as cargas e usar inversores de frequência em bombas e ventiladores reduzem consumo de forma expressiva — um motor que roda 20% abaixo da carga ideal desperdiça energia todos os dias de operação.'
+      },
+      {
+        type: 'heading',
+        text: '4. Ar comprimido: o energético mais caro da fábrica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vazamentos em redes de ar comprimido podem representar perda de 20% a 30% de toda a energia do sistema. É considerado o utilitário mais caro da indústria justamente porque boa parte vaza antes de ser usada. Campanhas de detecção de vazamentos, pressão adequada e manutenção de drenos geram economia imediata.'
+      },
+      {
+        type: 'heading',
+        text: '5. Iluminação industrial LED'
+      },
+      {
+        type: 'paragraph',
+        text: 'Substituir luminárias convencionais (vapor metálico, sódio) por LED com sensores de presença reduz em até 60% o consumo de iluminação — relevante em galpões que operam longos turnos. O ganho inclui menor manutenção e melhor qualidade de luz no posto de trabalho.'
+      },
+      {
+        type: 'heading',
+        text: '6. Geração solar fotovoltaica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Galpões industriais têm telhados amplos e consumo diurno — combinação ideal para energia solar. A geração distribuída reduz a compra da rede e protege contra reajustes tarifários, com retorno típico entre 3 e 6 anos e vida útil superior a 25 anos. Em Santa Catarina, o nível de irradiação permite bons índices de geração mesmo no sul do país.'
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona um diagnóstico energético profissional'
+      },
+      {
+        type: 'paragraph',
+        text: 'O diagnóstico segue uma metodologia estruturada:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento — análise das faturas, medição em campo e inventário de equipamentos',
+          'Balanceamento — distribuição do consumo por setor, turno e processo produtivo',
+          'Identificação — lista de oportunidades com consumo evitável estimado',
+          'Priorização — ações ordenadas por retorno sobre investimento (payback)',
+          'Implementação — execução das medidas com acompanhamento técnico',
+          'Verificação — medição antes e depois para comprovar a economia real'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'ISO 50001: gestão de energia como sistema'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para indústrias que querem tratar energia de forma permanente — não como projeto pontual — a ISO 50001 estrutura um Sistema de Gestão de Energia (SGE) com política, metas, indicadores e melhoria contínua. Além da economia direta, a certificação pesa em licitações e nas exigências ESG de grandes clientes.'
+      },
+      {
+        type: 'heading',
+        text: 'Eficiência energética industrial no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — a matriz industrial passa por portos, frigoríficos, metalurgia e construção. São perfis de consumo distintos, mas com oportunidades comuns: refrigeração eficiente, ar comprimido controlado, motores otimizados e telhados de galpão disponíveis para solar. A maresia exige ainda atenção redobrada na especificação de equipamentos expostos, priorizando materiais resistentes à corrosão.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia apoia sua indústria'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia une engenharia civil, instalações e consultoria técnica para conduzir projetos de eficiência energética no litoral de Santa Catarina — do diagnóstico à implementação, com emissão de ART no CREA-SC em todas as etapas técnicas.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Auditoria e diagnóstico energético com balanceamento por setor e turno',
+          'Correção de fator de potência e melhoria da qualidade de energia',
+          'Projetos de iluminação LED e modernização de instalações',
+          'Dimensionamento de sistemas solares fotovoltaicos para galpões e plantas',
+          'Laudo de eficiência energética para edificações',
+          'ART no CREA-SC e atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha e região'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se a sua indústria paga tarifas altas, sofre com multa de reativo ou quer avaliar geração própria, fale com a equipe da Regê Engenharia. Vamos medir onde a energia está sendo desperdiçada e transformar isso em economia comprovada — porque energia que não é medida, não é gerenciada; e energia que não é gerenciada, é dinheiro perdido.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre eficiência energética industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Por onde começar? Pela auditoria energética. Ela custa uma fração do que revela de economia e define exatamente onde investir primeiro, com payback calculado para cada ação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso parar a produção para fazer o diagnóstico? Não. As medições são feitas em operação, com equipamentos portáteis e planejamento conjunto com a produção, minimizando qualquer impacto no ritmo fabril.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto uma indústria consegue economizar? Depende do perfil, mas diagnósticos bem conduzidos identificam com frequência potenciais de 10% a 30% de redução no consumo, somando correções rápidas (reativo, vazamentos, iluminação) e investimentos estruturais (motores, solar).'
+      },
+      {
+        type: 'paragraph',
+        text: 'Energia solar vale para toda indústria? Quase sempre vale quando há consumo diurno consistente e telhado ou área disponível. A análise de viabilidade considera fatura, perfil de carga e espaço — e indica o tamanho ótimo do sistema.'
+      }
+    ]
+  },
+  {
+    slug: 'preciso-de-engenheiro-para-reformar-meu-imovel',
+    title: 'Preciso de Engenheiro para Reformar Meu Imóvel? Guia Completo para Decidir e Contratar',
+    tag: 'REFORMAS',
+    image: '/images/engenheiro-economiza-dinheiro.png',
+    imageAlt: 'Engenheiro civil orientando proprietário durante reforma residencial em Navegantes SC, analisando projeto e prancheta no canteiro.',
+    excerpt: 'Vai reformar e não sabe se precisa de engenheiro? Veja quando ele é obrigatório por lei, o que ele entrega em cada etapa da reforma, quanto custa e como contratar com segurança.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: '"Preciso de engenheiro para reformar meu imóvel?" Esta é uma das perguntas mais comuns — e mais mal respondidas — do início de qualquer reforma. De um lado, o vizinho garante que "parede divisória não precisa de nada"; do outro, sobram dúvidas sobre multas, condomínio e documentação. Muitos proprietários começam a obra no improviso e só descobrem o erro quando ele já está embutido na alvenaria.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A resposta correta tem duas partes. Primeira: a legislação exige responsável técnico sempre que a reforma interfere em estrutura, instalações, segurança, fachada ou área construída — e a maioria das reformas interfere em pelo menos um desses pontos. Segunda: mesmo nos casos em que a lei dispensa, o engenheiro é quem transforma uma reforma cara e arriscada em um investimento previsível. Este guia mostra como decidir no seu caso, o que o engenheiro entrega em cada etapa, quanto custa e como contratar sem sustos.'
+      },
+      {
+        type: 'quote',
+        text: 'A pergunta certa não é "posso reformar sem engenheiro?", e sim "o que pode dar errado se eu fizer isso?" — e a lista de respostas é longa.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando o engenheiro é obrigatório — e quando é dispensado'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obrigatório: remoção ou corte de paredes estruturais, vigas, pilares e lajes',
+          'Obrigatório: ampliação de área, novo pavimento, varanda ou cobertura nova',
+          'Obrigatório: alteração de instalações elétricas, hidráulicas ou de gás além de reparos pontuais',
+          'Obrigatório: mudança de uso do imóvel, como transformar residência em ponto comercial',
+          'Obrigatório: intervenção em estrutura, fachada ou áreas comuns em prédios e condomínios',
+          'Depende de avaliação: demolição de paredes que parecem divisórias — podem esconder função estrutural',
+          'Dispensado na prática: pintura, troca de revestimento sem mexer na laje, móveis planejados e reparos pontuais'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A linha entre "não precisa" e "precisa" nem sempre é visível para o leigo. Uma parede aparentemente simples pode sustentar a laje de cima; um piso pode estar distribuindo carga. Por isso, diante de qualquer dúvida, a vistoria de um engenheiro é o caminho mais barato — comparada ao custo de desfazer o erro depois.'
+      },
+      {
+        type: 'heading',
+        text: 'Teste rápido: 7 perguntas antes de quebrar a primeira parede'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vou derrubar alguma parede? Então é preciso confirmar se ela é estrutural — e essa confirmação é trabalho de engenheiro',
+          'Vou mexer em ponto elétrico, hidráulico ou gás? Alterações de instalações exigem projeto e responsável técnico',
+          'Vou aumentar a área, cobrir o pátio ou criar um novo ambiente? Qualquer acréscimo passa por aprovação na Prefeitura',
+          'Meu imóvel é apartamento? A norma NBR 16280 exige gestão técnica da reforma e comunicação formal ao condomínio',
+          'Existem trincas, fissuras, infiltrações ou piso desnivelado? Patologias precisam de diagnóstico antes de receber revestimento novo',
+          'Vou usar o imóvel de forma diferente? Mudança de uso altera exigências de segurança, acessibilidade e ventilação',
+          'Fiquei em dúvida em algum item acima? Considere obrigatório: a avaliação técnica custa pouco e define o caminho seguro'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você respondeu "sim" a pelo menos uma pergunta, sua reforma precisa de engenheiro — seja por exigência legal, seja pelo risco técnico envolvido. E não se trata de burocracia por burocracia: cada item dessa lista corresponde a um tipo de acidente, multa ou retrabalho que aparece com frequência nas obras conduzidas sem acompanhamento.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o engenheiro faz na sua reforma, na prática'
+      },
+      {
+        type: 'paragraph',
+        text: 'Muita gente imagina que o engenheiro "só assina o papel". Na reforma bem conduzida, o trabalho tem entregas concretas em todas as fases:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico e vistoria — análise das condições do imóvel, identificação de patologias e definição do que pode e do que não pode ser feito',
+          'Projeto técnico — plantas, detalhes executivos e especificação de materiais para estrutura, elétrica, hidráulica e acabamentos',
+          'ART — Anotação de Responsabilidade Técnica registrada no CREA, documento que formaliza a responsabilidade profissional e é exigido por Prefeitura e condomínio',
+          'Orçamento e cronograma — quantitativos de material, composição de custos e sequência de serviços que evitam compra errada e obra parada',
+          'Execução acompanhada — conferência de serviços, orientação da equipe e controle de qualidade etapa por etapa',
+          'Encerramento documentado — verificação final, registro fotográfico e documentação técnica que valoriza o imóvel em venda ou financiamento'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Apartamento ou casa: o que muda na exigência'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em apartamentos, a regra é clara: a NBR 16280 estabelece que reformas em edificações existentes devem ter gestão técnica, com projeto de profissional habilitado e comunicação formal ao síndico e aos condôminos. Somem-se a isso as convenções do condomínio, que costumam exigir ART e horários restritos para obras ruidosas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em casas, a exigência depende do porte da intervenção — mas o critério técnico é o mesmo: mexeu em estrutura, instalações ou área construída, precisa de responsável técnico. E o código de obras do município complementa a regra, definindo quando a reforma precisa de licença aprovada antes de começar.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa contratar engenheiro para reforma'
+      },
+      {
+        type: 'paragraph',
+        text: 'O custo costuma ser menor do que se imagina — e certamente menor do que o retrabalho que ele evita. Os modelos de contratação mais comuns são:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Percentual da obra — padrão em reformas completas: em geral entre 2% e 5% do custo total, incluindo projeto e acompanhamento',
+          'Valor mensal ou por visita — típico de reformas menores, quando o acompanhamento de execução é o foco',
+          'Projeto isolado — cobrado por metro quadrado ou por disciplina, quando você só precisa do projeto técnico e da ART',
+          'Pacote completo — diagnóstico, projeto e acompanhamento com um único responsável do início ao fim, o formato mais indicado'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Para calibrar a expectativa: uma infiltração não tratada durante a reforma pode virar, em poucos anos, uma recuperação estrutural dez vezes mais cara que o reparo correto. O derrube de parede errada, sem volta barata. Nessa conta, o engenheiro deixa de ser custo e passa a ser o item de seguro mais eficiente da obra.'
+      },
+      {
+        type: 'heading',
+        text: 'Como escolher o profissional certo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Verifique o registro no CREA — todo engenheiro possui número de registro consultável gratuitamente no site do conselho',
+          'Exija a ART desde o início — quem promete "resolver o papel depois" costuma nunca resolver',
+          'Peça escopo por escrito — deixe claro o que está incluído (visitas, projetos, laudos) e o que é cobrado à parte',
+          'Prefira experiência local — quem conhece o código de obras da cidade e as condições do litoral executa melhor e mais rápido',
+          'Desconfie de preço muito abaixo do mercado — quase sempre significa serviço sem responsabilidade formal'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades de reformar no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem reforma em Navegantes, Itajaí, Balneário Camboriú ou Penha lida com variáveis que o manual genérico não cobre:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Maresia e umidade — especificação de materiais resistentes à corrosão e detalhes de impermeabilização decidem se a reforma dura cinco anos ou vinte',
+          'Solo arenoso — típico da região, exige atenção redobrada à fundação em qualquer acréscimo de carga, como mezaninos e coberturas',
+          'Casas de praia antigas — muitas erguidas sem projeto; a vistoria estrutural antes de reformar evita descobrir problemas com obra aberta',
+          'Código de obras municipal — recuos, altura e taxa de ocupação limitam o que pode ser ampliado, e a fiscalização atua'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre engenheiro para reforma'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda reforma precisa de engenheiro? Não toda. Pintura, acabamentos e reparos pontuais dispensam. Mas qualquer intervenção em estrutura, instalações, fachada, área construída ou uso do imóvel exige responsável técnico — e, na dúvida, a vistoria prévia resolve a questão com baixo custo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Pedreiro experiente substitui o engenheiro? Não. A experiência de quem executa é valiosa, mas não substitui cálculo, projeto e responsabilidade legal. As funções são complementares: o engenheiro define o que e como fazer; o pedreiro executa com qualidade dentro dessa definição.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O arquiteto pode responder pela minha reforma? O arquiteto pode assinar reformas de arquitetura e interiores. Intervenções estruturais e de instalações prediais cabem ao engenheiro civil. Em reformas completas, o ideal é a atuação conjunta dos dois profissionais.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso aprovar a reforma na Prefeitura? Reformas que alteram área, fachada, estrutura ou uso normalmente exigem licença com ART anexada. Reformas internas leves costumam dispensar. Como a regra varia por município, a consulta prévia ao código de obras local evita autuação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O que acontece se eu reformar sem engenheiro? Além dos riscos técnicos, a obra fica irregular: fica sujeita a multa e embargo da fiscalização, pode ter o Habite-se negado quando exigido, enfrenta dificuldade em venda e financiamento — e o proprietário responde civilmente pelos danos causados a terceiros.'
+      },
+      {
+        type: 'heading',
+        text: 'Reformar com segurança, com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia conduz reformas residenciais e comerciais em Navegantes e em todo o Litoral Norte de Santa Catarina: vistoria e diagnóstico do imóvel, projeto técnico, ART registrada no CREA-SC, orçamento transparente e acompanhamento de execução até a entrega. Se você está se perguntando se a sua reforma precisa de engenheiro, fale com nossa equipe — a avaliação inicial define exatamente o que a sua obra exige, sem surpresas no caminho.'
+      }
+    ]
+  },
+  {
+    slug: 'laudo-seguranca-contra-incendio',
+    title: 'Laudo de Segurança contra Incêndio: O que é, quando é obrigatório e como obter o AVCB',
+    tag: 'INCÊNDIO',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Laudo de segurança contra incêndio em Navegantes SC — inspeção de extintores, hidrantes e sinalização de emergência em edificação comercial.',
+    excerpt: 'O laudo de segurança contra incêndio atesta que a edificação está protegida conforme as normas do Corpo de Bombeiros. Saiba o que ele avalia, quando é exigido e como obter e renovar o AVCB.',
+    readTime: '10 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Incêndio é um dos poucos riscos capazes de destruir, em horas, um patrimônio construído em anos — e de colocar vidas em perigo em minutos. Por isso, a legislação brasileira exige que edificações comerciais, industriais e residenciais coletivas comprovem, por meio de documentação técnica, que estão preparadas para prevenir e enfrentar um sinistro. O documento central dessa comprovação é o laudo de segurança contra incêndio.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é o laudo de segurança contra incêndio, qual a relação dele com o AVCB (Atestado de Verificação de Circulação) emitido pelo Corpo de Bombeiros, quando ele é obrigatório, o que é inspecionado na prática e como a Regê Engenharia conduz todo o processo no litoral de Santa Catarina — da vistoria à renovação do certificado.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o laudo de segurança contra incêndio'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo de segurança contra incêndio é o documento técnico elaborado por profissional habilitado que inspeciona os sistemas de proteção contra incêndio de uma edificação e atesta sua conformidade com as normas do Corpo de Bombeiros e da ABNT. Ele reúne a verificação em campo de cada item de proteção passiva e ativa, medições, registro fotográfico e uma conclusão formal sobre a condição da edificação.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Proteção passiva — compartimentação, resistência ao fogo, rotas de fuga, sinalização',
+          'Proteção ativa — extintores, hidrantes, sprinklers, detecção e alarme, iluminação de emergência',
+          'Documentação — PPCI, memoriais, ARTs e registros de manutenção dos sistemas',
+          'Conclusão técnica — conformidade, não conformidade ou necessidade de adequação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O laudo de incêndio não é papel para guardar na gaveta: é a prova de que, se algo acontecer, a edificação respondeu como deveria.'
+      },
+      {
+        type: 'heading',
+        text: 'Qual a relação com o AVCB'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Santa Catarina, o Corpo de Bombeiros Militar de SC é o órgão responsável por avaliar a segurança contra incêndio das edificações. O fluxo funciona assim: o projeto técnico (PPCI — Projeto de Prevenção e Combate a Incêndio) é elaborado e protocolado; o Corpo de Bombeiros analisa; realizada a vistoria e constatado o cumprimento, é emitido o AVCB — o certificado que comprova regularidade. O laudo de segurança contra incêndio sustenta tecnicamente esse processo e é renovado junto com o certificado.'
+      },
+      {
+        type: 'list',
+        items: [
+          'PPCI — projeto técnico dimensionando todos os sistemas de proteção',
+          'Vistoria — conferência em campo da execução conforme o projeto aprovado',
+          'AVCB — certificado emitido pelo Corpo de Bombeiros comvalidando a segurança',
+          'Renovação periódica — validade limitada conforme o grau de risco da edificação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando o laudo de segurança contra incêndio é obrigatório'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os momentos e situações que exigem o documento:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obtenção do alvará de funcionamento — prefeituras exigem AVCB para liberar atividades comerciais e industriais',
+          'Edificações com grande público — escolas, clínicas, hotéis, mercados e eventos dependem do certificado',
+          'Renovação do AVCB — o certificado tem validade e precisa ser renovado com nova vistoria',
+          'Financiamento e seguro — bancos e seguradoras pedem o documento para liberar crédito e cobertura',
+          'Após reforma ou mudança de uso — alterações podem mudar a carga de incêndio e exigir atualização do PPCI',
+          'Fiscalização do Corpo de Bombeiros — operar sem AVCB sujeita a notificação, multa e interdição'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que é inspecionado no laudo'
+      },
+      {
+        type: 'paragraph',
+        text: 'A inspeção cobre todos os sistemas de proteção previstos para a edificação. Os itens mais comuns:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Extintores — tipo, capacidade, carga, lacre, validade e posicionamento correto',
+          'Hidrantes e mangueiras — pressão, estado de conservação e acessibilidade',
+          'Sprinklers e chuveiros automáticos — quando o risco da edificação exige o sistema',
+          'Detecção e alarme — sensores funcionando e central operacional',
+          'Iluminação de emergência — autonomia e cobertura das rotas de fuga',
+          'Sinalização e rotas de escape — placas legíveis, portas destrancadas no sentido da fuga',
+          'Compartimentação e resistência ao fogo — paredes, portas corta-fogo e vedação',
+          'Escadas de emergência e pressurização — quando aplicável à tipologia da edificação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Laudo de segurança contra incêndio em Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cada estado tem sua norma de segurança contra incêndio. Em Santa Catarina, vale a norma técnica do Corpo de Bombeiro Militar de SC, com requisitos próprios por ocupação e carga de incêndio. Para imóveis no litoral — Navegantes, Itajaí, Balneário Camboriú, Penha — há ainda o fator agressividade ambiental: equipamentos expostos à maresia demandam inspeção mais frequente e materiais mais resistentes à corrosão.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Norma estadual própria — requisitos diferem de outros estados e precisam ser seguidos à risca',
+          'Classificação por carga de incêndio — define os sistemas obrigatórios para cada atividade',
+          'Maresia — corrosão acelerada de hidrantes, conexões e gabinetes expostos',
+          'Temporada — edificações comerciais intensamente usadas no verão exigem manutenção rigorosa'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia conduz o processo'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua no litoral catarinense em toda a cadeia da segurança contra incêndio: elaboração do PPCI conforme a norma do Corpo de Bombeiros de SC, acompanhamento da execução dos sistemas, vistoria prévia, emissão do laudo e obtenção e renovação do AVCB — sempre com ART no CREA-SC em cada serviço técnico.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Elaboração do PPCI completo conforme a norma do CBMSC',
+          'Dimensionamento de proteção passiva e ativa (extintores, hidrantes, sprinklers, detecção)',
+          'Vistoria técnica e laudo conclusivo antes da fiscalização oficial',
+          'Protocolo, acompanhamento e obtenção do AVCB',
+          'Renovação de AVCB com checagem completa de todos os sistemas',
+          'ART no CREA-SC e atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha e região'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se a sua edificação precisa obter o primeiro AVCB, está com o certificado vencido ou recebeu notificação do Corpo de Bombeiros, fale com a equipe da Regê Engenharia. Vamos inspecionar, adequar e emitir o laudo correto — porque contra incêndio, prevenção documentada é a única proteção que vale.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre laudo de segurança contra incêndio'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda edificação precisa de AVCB? Não. A exigência depende da área, da ocupação e da carga de incêndio definidas pela norma do Corpo de Bombeiros de SC. Residências unifamiliares pequenas geralmente estão dispensadas; comércios, indústrias e prédios normalmente são obrigados.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre PPCI e AVCB? O PPCI é o projeto técnico que dimensiona os sistemas de proteção; o AVCB é o certificado que o Corpo de Bombeiros emite após verificar que a edificação executa o projeto. Um antecede o outro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo vale o AVCB? A validade varia conforme o grau de risco e a ocupação da edificação, definidos pela norma estadual. Edificações de maior risco têm renovação mais frequente e exigem manutenção documentada dos sistemas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso obter o AVCB sem engenheiro? Não. O PPCI e o laudo devem ser assinados por profissional habilitado, com ART no CREA. Sem responsável técnico, o Corpo de Bombeiros não aceita o processo.'
+      }
+    ]
+  },
+  {
+    slug: 'dimensionamento-hidraulico',
+    title: 'Dimensionamento Hidráulico: Como Projetar Água, Esgoto e Drenagem sem Erro',
+    tag: 'HIDRÁULICA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Dimensionamento hidráulico em Navegantes SC — engenheiro analisando projeto de água, esgoto e drenagem pluvial de residência no litoral.',
+    excerpt: 'O dimensionamento hidráulico define o tamanho correto de tubulações, reservatórios e drenagem. Feito errado, gera falta d água, entupimentos e alagamento. Saiba o que é, quando contratar e como a Regê projet.',
+    readTime: '11 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Água que não chega no segundo andar, esgoto que entope toda chuva, pia que demora a escoar, barramento de drenagem na porta de casa. Quase sempre, esses problemas não começam na execução: começam no dimensionamento hidráulico. É o cálculo que define o diâmetro de cada tubulação, a capacidade do reservatório e o traçado da drenagem — e quando feito de forma empírica, cobra caro depois.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é o dimensionamento hidráulico, por que ele é decisivo, o que envolve na prática (água, esgoto, drenagem), quando é obrigatório e como a Regê Engenharia projeta essas redes no litoral de Santa Catarina, respeitando as normas da ABNT e as particularidades do solo arenoso e do lençol freático da região.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é dimensionamento hidráulico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O dimensionamento hidráulico é o conjunto de cálculos que define as dimensões e a disposição dos sistemas de água, esgoto e drenagem de uma edificação. Ele considera a demanda prevista (quantas pessoas, quantos pontos de água, que equipamentos), a pressão disponível, as distâncias e as pendentes, transformando tudo em diâmetros de tubulação, capacidade de caixas e reservatórios e traçado das redes.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Água fria e quente — dimensionamento da rede de distribuição interna (NBR 5626)',
+          'Esgoto sanitário — diâmetro e declividade dos coletores para escoamento sem entupimento',
+          'Águas pluviais — drenagem de chuva e dimensionamento de calhas, condutores e barramentos',
+          'Reservatórios — volume da caixa d água e do reservatório inferior conforme a norma',
+          'Bombas e pressurização — quando a rede pública não garante pressão suficiente'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Dimensionar hidráulica não é "chutar" o diâmetro do cano. É calcular a demanda e a pressão para que a água chegue onde deve, quando deve.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que o dimensionamento hidráulico importa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto hidráulico mal dimensionado gera problemas visíveis e custosos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Falta de pressão — chuveiro fraco no andar de cima e torneira que não enche a máquina de lavar',
+          'Entupimentos — tubulação subdimensionada ou com pendente errado retém resíduos e transborda',
+          'Alagamento — drenagem insuficiente para a chuva local alaga terreno e vizinho',
+          'Retrabalho — refazer cano na alvenaria pronta destrói acabamento e dobra o custo',
+          'Desperdício — dimensionamento excessivo gasta material e espaço sem benefício'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que o dimensionamento hidráulico envolve na prática'
+      },
+      {
+        type: 'heading',
+        text: '1. Rede de água (NBR 5626)'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NBR 5626 estabelece como dimensionar a instalação predial de água fria. O projeto parte da demanda (única ou simultânea, conforme o número de pavimentos e pontos), define os diâmetros das tubulações para garantir vazão e pressão adequadas e posiciona reservatórios e bombas. No litoral, a pressão da rede pública e a altura do terreno definem se haverá necessidade de pressurização.'
+      },
+      {
+        type: 'heading',
+        text: '2. Esgoto sanitário'
+      },
+      {
+        type: 'paragraph',
+        text: 'A rede de esgoto depende de diâmetro e, principalmente, de declividade. O traçado deve garantir velocidade suficiente para arrastar o material sem erodir a tubulação, evitando both lentidão (entupimento) e excesso de velocidade (desgaste). A NBR 8160 orienta a disposição e o dimensionamento dos coletores.'
+      },
+      {
+        type: 'heading',
+        text: '3. Drenagem pluvial'
+      },
+      {
+        type: 'paragraph',
+        text: 'A drenagem de águas pluviais dimensiona calhas, condutores e barramentos para escoar a chuva sem alagar. No litoral catarinense, onde as chuvas são intensas e o solo é arenoso, o dimensionamento correto evita saturação do terreno e infiltração nas edificações.'
+      },
+      {
+        type: 'heading',
+        text: '4. Reservatórios e pressurização'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NBR 5626 define o volume mínimo do reservatório (caixa d água) em função do consumo e do fornecimento. Quando a pressão da rua é insuficiente para os pavimentos superiores, o projeto prevê grupo de pressurização ou reservatório inferior com bomba, dimensionados para a demanda de pico.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando contratar o dimensionamento hidráulico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os momentos em que esse serviço é obrigatório ou altamente recomendado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto de construção — toda edificação nova precisa de projeto hidráulico aprovado na prefeitura',
+          'Reforma com mudança de banheiros ou cozinha — alterar pontos exige recálculo da rede',
+          'Ampliação — aumento de demanda pode tornar a rede existente subdimensionada',
+          'Regularização — obra sem projeto hidráulico precisa dele para habite-se e averbação',
+          'Problemas recorrentes — falta de pressão, entupimentos e alagamento indicam erro de dimensionamento',
+          'Adequação a normas — imóveis com instalação antiga fora da NBR 5626'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Dimensionamento hidráulico no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, Itajaí, Balneário Camboriú, Penha e região, o solo arenoso e o lençol freático raso alteram a lógica do projeto. A fundação e as redes enterradas convivem com umidade constante, e a drenagem precisa absorver chuvas de alta intensidade. O engenheiro local dimensiona a rede considerando essas variáveis, evitando infiltração e saturação.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Solo arenoso — exigência de compactação e proteção das tubulações enterradas',
+          'Lençol freático raso — cuidado com a saturação e a infiltração nas redes',
+          'Chuva intensa — barramento e drenagem dimensionados para o pico local',
+          'Maresia — materiais resistentes à corrosão em instalações aparentes'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia faz o dimensionamento hidráulico'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia elabora projetos hidráulicos completos para imóveis residenciais, comerciais e industriais no litoral de Santa Catarina. Unimos cálculo normatizado (NBR 5626, NBR 8160 e NBR 10844), desenho executivo e emissão de ART no CREA-SC, entregando um projeto que a prefeitura aprova e a obra executa sem retrabalho.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento de demanda e da pressão disponível na rede',
+          'Dimensionamento de água fria/quente, esgoto e drenagem pluvial',
+          'Cálculo de reservatórios e de grupos de pressurização quando necessário',
+          'Desenho executivo compatibilizado com arquitetura e estrutura',
+          'ART no CREA-SC e suporte à aprovação na prefeitura',
+          'Atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha e região'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se a sua obra, reforma ou regularização precisa de projeto hidráulico bem dimensionado — ou se você convive com falta de pressão, entupimentos ou alagamento — fale com a equipe da Regê Engenharia. Vamos calcular a rede correta para o seu imóvel: porque hidráulica bem dimensionada é conforto que ninguém vê, mas todo mundo sente.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre dimensionamento hidráulico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Dá para reaproveitar o projeto de outra casa? Não. O dimensionamento depende da planta, do número de pavimentos, da demanda e da pressão local. Um projeto de imóvel vizinho raramente serve, e a prefeitura exige projeto próprio.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Precisa de engenheiro? Sim. O projeto hidráulico para aprovação e emissão de ART é atribuição de engenheiro civil ou de projetos. Executar sem projeto ou com projetista sem habilitação gera não conformidade e retrabalho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a norma principal? Para água, a NBR 5626; para esgoto, a NBR 8160; e para reservatórios e bombas, as mesmas normas somadas às diretrizes da concessionária local. O projeto deve seguir a edição vigente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa? Varia com a metragem e a complexidade da edificação. O investimento no projeto é uma fração do custo de refazer a rede depois da alvenaria pronta — e elimina os problemas de uso diário.'
+      }
+    ]
+  },
+  {
+    slug: 'laudo-eletrico',
+    title: 'Laudo Elétrico: O que é, para que serve e quando sua obra ou empresa precisa',
+    tag: 'ELÉTRICA',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Laudo elétrico em Navegantes SC — engenheiro inspecionando quadro de distribuição e instalações elétricas com equipamentos de medição.',
+    excerpt: 'O laudo elétrico atesta a segurança da instalação e é exigido em vistorias, venda, seguro e conformidade com a NR-10. Saiba o que ele avalia, quando é obrigatório e como a Regê Engenharia emite com ART.',
+    readTime: '10 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A energia elétrica é invisível, mas os riscos dela não são: curtos-circuitos, sobrecargas, choques e incêndios de origem elétrica figuram entre as causas mais comuns de sinistros em imóveis e indústrias. Para comprovar que uma instalação é segura e está dentro das normas, existe o laudo elétrico — o documento técnico assinado por profissional habilitado que atesta a conformidade da rede.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é o laudo elétrico, para que ele serve, quando é obrigatório, o que ele avalia na prática e como a Regê Engenharia emite esse documento com ART no CREA-SC, com atenção especial às condições do litoral catarinense.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é laudo elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo elétrico é um relatório técnico elaborado por engenheiro eletricista ou eletrotécnico que analisa as instalações elétricas de um imóvel ou equipamento e conclui se elas atendem às normas da ABNT e às exigências de segurança. Ele reúne inspeção em campo, medições e documentação (diagramas, memoriais, fotos) e emite uma conclusão: a instalação está segura e conforme, ou aponta as não conformidades que precisam ser corrigidas.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Identificação do imóvel e do responsável técnico',
+          'Descrição da instalação e dos equipamentos avaliados',
+          'Medições de campo (continuidade, isolamento, resistência de aterramento)',
+          'Conclusão técnica de conformidade ou não conformidade',
+          'ART no CREA-SC vinculando o profissional ao serviço'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O laudo elétrico não é burocracia: é a prova de que a instalação não vai causar choque, incêndio ou interrupção da sua operação.'
+      },
+      {
+        type: 'heading',
+        text: 'Para que serve o laudo elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O documento cumpre funções distintas dependendo do contexto, mas todas giram em torno da segurança e da conformidade:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Segurança — identifica pontos de risco antes que virem acidente ou incêndio',
+          'Conformidade legal — atesta o atendimento às normas da ABNT e à NR-10',
+          'Vistoria e aprovação — órgãos e concessionárias pedem o laudo para liberar ligação ou vistoria',
+          'Venda e financiamento — compradores e bancos exigem o documento para imóveis e indústrias',
+          'Seguro — seguradoras pedem o laudo para cobrir instalações e reduzir sinistros elétricos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando o laudo elétrico é obrigatório'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os gatilhos que tornam o laudo elétrico necessário:'
+      },
+      {
+        type: 'list',
+        items: [
+          'NR-10 — instalações e serviços com eletricidade exigem laudo e inspeção para proteger trabalhadores',
+          'Vistoria do Corpo de Bombeiros — o AVCB exige laudo de instalações elétricas e de SPDA',
+          'Ligação nova ou reforma de rede — a concessionária pede o documento para liberar o fornecimento',
+          'Venda ou financiamento — bancos e cartórios exigem comprovação da instalação regular',
+          'Apólice de seguro — seguradoras condicionam a cobertura à existência do laudo',
+          'Sinistro ou suspeita de falha — o laudo atesta a causa e embasa reparo ou indenização'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que o laudo elétrico avalia na prática'
+      },
+      {
+        type: 'paragraph',
+        text: 'A inspeção cobre pontos críticos da instalação. Os principais itens verificados:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Quadro de distribuição — disjuntores, DR, dimensionamento e organização dos circuitos',
+          'Aterramento — resistência de terra dentro dos limites da norma para proteger contra choque',
+          'SPDA — sistema de proteção contra descargas atmosféricas (obrigatório em muitas edificações)',
+          'Fiação e dimensionamento — se os condutores suportam a carga sem aquecimento excessivo',
+          'Tomadas e equipamentos — integridade, polarização e ausência de sobrecarga',
+          'Compatibilidade com a carga — se a entrada de energia atende ao consumo real do imóvel'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Laudo de inspeção e NR-10'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na NR-10, a inspeção de instalações elétricas é parte do programa de segurança. O laudo de inspeção elétrica atesta que a rede foi montada e é mantida conforme a norma, protegendo a vida de quem trabalha perto da energia. Para indústrias e canteiros, ele integra o prontuário de instalações elétricas exigido pela norma.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo elétrico no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — a maresia e a umidade aceleram a corrosão de quadros, conectores e cabos. Isso eleva o risco de falha elétrica e torna o laudo ainda mais importante: a inspeção local detecta oxidação precoce, penetração de umidade em caixas e perda de isolamento que um laudo genérico não perceberia.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Corrosão de equipamentos por salinidade — verificação de quadros e conexões expostos',
+          'Umidade em caixas e eletrodutos — risco de curto e choque em ambiente litorâneo',
+          'SPDA reforçado — regiões litorâneas concentram descargas atmosféricas',
+          'Materiais específicos — uso de componentes resistentes à agressividade ambiental'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia emite o laudo elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua no litoral de Santa Catarina elaborando laudos elétricos para imóveis residenciais, comerciais e industriais. O processo une inspeção em campo, medições normatizadas e emissão de ART no CREA-SC, entregando um documento válido para vistorias, seguros e financiamentos.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Inspeção de campo em quadros, aterramento, SPDA e fiação',
+          'Medições de continuidade, isolamento e resistência de terra',
+          'Laudo técnico conclusivo com ART no CREA-SC',
+          'Adequação de instalações apontadas como não conformes',
+          'Atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha and região'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se a sua obra, indústria ou imóvel precisa de laudo elétrico para vistoria, venda, seguro ou conformidade com a NR-10, fale com a equipe da Regê Engenharia. Vamos inspecionar, medir e emitir o documento correto — porque energia segura começa com laudo, não com sorte.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre laudo elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Laudo elétrico e ART são a mesma coisa? Não. O laudo é o documento técnico; a ART é o registro no CREA que vincula o profissional responsável ao serviço. O laudo correto sempre vem acompanhado da ART.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda edificação precisa de laudo? Toda instalação elétrica deve ser segura, mas o laudo é exigido formalmente em vistorias, seguros, financiamentos e conformidade com a NR-10. Mesmo quando não exigido, ele é a forma mais segura de comprovar a conformidade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem pode assinar o laudo elétrico? Engenheiro eletricista ou eletrotécnico com registro no CREA, nas atribuições relativas à eletricidade. A assinatura sem habilitação invalida o documento perante órgãos e seguradoras.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva? Depende do porte da instalação e da facilidade de acesso aos pontos de medição. Imóveis residenciais costumam ser vistoriados em poucas horas; indústrias e edifícios exigem inspeção mais extensa.'
+      }
+    ]
+  },
+  {
+    slug: 'regularizacao-de-obra',
+    title: 'Regularização de Obra: Guia Completo para Legalizar sua Construção sem Multas',
+    tag: 'REGULARIZAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Regularização de obra em Navegantes SC — engenheiro analisando projeto e documentação para habite-se e averbação junto à prefeitura.',
+    excerpt: 'Regularização de obra é o processo que transforma uma construção irregular em imóvel legal, com alvará, habite-se e averbação. Saiba as etapas, os documentos e quando contratar engenheiro.',
+    readTime: '11 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Muitos imóveis no Brasil — especialmente no litoral catarinense, onde o crescimento imobiliário é acelerado — foram construídos, ampliados ou reformados sem a devida autorização da prefeitura. O resultado é uma obra irregular: sem alvará, sem habite-se, sem averbação na matrícula. Mais do que um problema burocrático, a irregularidade trava a venda, impede o financiamento, gera multas e pode levar ao embargo. A saída é a regularização de obra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é a regularização de obra, por que ela é indispensável, quais documentos e etapas envolve, em que situações ela é obrigatória e como a engenharia especializada conduz o processo junto à prefeitura — com emissão de ART no CREA-SC em todas as etapas técnicas.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é regularização de obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'A regularização de obra é o conjunto de ações técnicas e administrativas que levam uma edificação à conformidade com a legislação urbanística e edilícia do município. Em termos práticos, é o caminho para obter o alvará de construção (quando aplicável retroativamente), o projeto aprovado, o habite-se e a averbação da construção na matrícula do imóvel no cartório de registro de imóveis.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Alvará de construção — autorização para executar ou regularizar a obra perante a prefeitura',
+          'Projeto aprovado — plantas e memorial descritivo compatíveis com o Código de Obras e o Plano Diretor',
+          'Habite-se — certificado de conclusão que atesta a obra conforme o projeto aprovado',
+          'Averbação — registro da construção na matrícula do imóvel, transformando "terreno com construção" em imóvel regular',
+          'ART — Anotação de Responsabilidade Técnica que vincula o engenheiro ao serviço perante o CREA-SC'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Regularizar a obra não é admitir erro — é proteger o patrimônio. Um imóvel irregular vale menos, financia menos e vende menos.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que regularizar a obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'A regularização deixa de ser "opcional" no momento em que o proprietário precisa usar o imóvel plenamente. Os motivos estruturais:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Valor de mercado — imóveis irregulares têm desconto significativo e demoram mais para vender',
+          'Financiamento — bancos exigem habite-se e matrícula atualizada para liberar crédito imobiliário',
+          'Segurança jurídica — a averbação garante que a construção existe oficialmente e protege na sucessão e na venda',
+          'Multas e embargo — obras sem alvará ou habite-se estão sujeitas a autos de infração e interdição pela prefeitura',
+          'Acesso a serviços — ligação de água, energia e IPTU regular dependem da obra estar legalizada'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Documentos e etapas da regularização de obra'
+      },
+      {
+        type: 'heading',
+        text: '1. Levantamento e diagnóstico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Tudo começa com o levantamento planialtimétrico e a verificação da situação do imóvel: matrícula, zoneamento, gabarito permitido, taxa de ocupação e restrições do Plano Diretor e do Código de Obras do município. O engenheiro identifica o quanto a construção atual diverge do permitido e qual o caminho de regularização.'
+      },
+      {
+        type: 'heading',
+        text: '2. Projeto de regularização'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com base no levantamento, é elaborado o projeto de arquitetura compatibilizado com as exigências locais. Quando há divergência de gabarito ou área, pode ser necessário processo de doação de faixa ou compensação, conforme a legislação municipal. O projeto é protocolado na prefeitura para aprovação.'
+      },
+      {
+        type: 'heading',
+        text: '3. Alvará e execução das adequações'
+      },
+      {
+        type: 'paragraph',
+        text: 'Aprovado o projeto, a prefeitura emite o alvará de construção ou de regularização. Se a edificação precisar de ajustes (recuos, altura, instalações), o engenheiro acompanha a execução das adequações para que a obra fique conforme o aprovado.'
+      },
+      {
+        type: 'heading',
+        text: '4. Habite-se'
+      },
+      {
+        type: 'paragraph',
+        text: 'Concluídas as adequações, a prefeitura vistoria e emite o habite-se (Certificado de Conclusão). Sem ele, a obra não pode ser ocupada legalmente. O habite-se é a porta de entrada para a averbação e para a regularização do IPTU.'
+      },
+      {
+        type: 'heading',
+        text: '5. Averbação na matrícula'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com o habite-se em mãos, o engenheiro providencia a averbação da construção na matrícula do imóvel no cartório de registro de imóveis. A partir daí, a construção passa a constar oficialmente do patrimônio — exigência para venda, financiamento e sucessão.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a obra precisa ser regularizada'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os gatilhos que tornam a regularização urgente:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obra construída sem alvará — casa, ampliação ou reforma executada sem autorização da prefeitura',
+          'Imóvel comprado irregular — a matrícula não reflete a construção existente',
+          'Venda ou financiamento em andamento — banco e cartório exigem habite-se e averbação',
+          'Notificação da prefeitura — auto de infração ou intimação para apresentar documentos',
+          'Acesso a utilidades — necessidade de ligação formal de água, energia ou revisão do IPTU',
+          'Sucessão ou inventário — regularizar antes para facilitar a partilha dos bens'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Regularização de obra no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, Itajaí, Balneário Camboriú, Penha e região, a regularização de obra carrega variáveis locais que exigem conhecimento da legislação municipal. O Plano Diretor de cada cidade, as Áreas de Preservação Permanente (APP) próximas a manguezais e rios, as restrições de orla e a agressividade da maresia influenciam o projeto de regularização.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Zoneamento e gabarito específicos de cada município litorâneo',
+          'Restrições de APP e de faixa de praia que limitam recuos e altura',
+          'Exigências de estudo geotécnico em solo arenoso e lençol freático raso',
+          'Adequação a normas de estabilidade e impermeabilização para a maresia'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia conduz a regularização'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua no litoral de Santa Catarina conduzindo a regularização de obras residenciais, comerciais e industriais do início ao fim. Não entregamos apenas o projeto: gerenciamos o processo junto à prefeitura, garantimos a emissão de ART no CREA-SC e acompanhamos cada etapa até a averbação.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento planialtimétrico e diagnóstico da situação do imóvel',
+          'Elaboração e aprovação do projeto de regularização na prefeitura',
+          'Acompanhamento de alvará, adequações e vistoria para habite-se',
+          'Providência de ART no CREA-SC em todos os serviços técnicos',
+          'Suporte para averbação na matrícula e regularização do IPTU',
+          'Atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha e região'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se a sua obra foi construída sem alvará, está com habite-se pendente ou você pretende vender/financiar o imóvel, fale com a equipe da Regê Engenharia. Vamos estruturar o processo de regularização correto para o seu caso — porque imóvel irregular é passivo, e imóvel regular é patrimônio.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre regularização de obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Dá para regularizar obra antiga? Sim. Mesmo construções de décadas atrás podem ser regularizadas, desde que atendam às normas vigentes ou aos regimes de transição previstos no Código de Obras de cada município. O engenheiro avalia o caso e indica o caminho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Regularizar é caro? O custo varia com a complexidade e as adequações necessárias. Em geral, é muito menor do que o prejuízo de uma multa recorrente, de um embargo ou de um desconto na venda do imóvel irregular. O estudo de viabilidade é o primeiro passo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso regularizar sem engenheiro? A aprovação de projetos e a emissão de ART são atribuições técnicas obrigatórias. A prefeitura exige responsável habilitado (engenheiro ou arquiteto) para o projeto e para o habite-se. Tentar sem profissional geralmente só alonga o processo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva? Depende da prefeitura e da completude do processo. Um protocolo bem preparado pelo engenheiro anda meses mais rápido do que envios incompletos que entram em ciclos de exigência e complementação.'
+      }
+    ]
+  },
+  {
+    slug: 'documentacao-de-seguranca',
+    title: 'Documentação de Segurança: Guia Completo dos Documentos Obrigatórios por Número de NR',
+    tag: 'SEGURANÇA',
+    image: '/images/construtora.png',
+    imageAlt: 'Documentação de segurança do trabalho em canteiro de obras — prontuário, PCMAT e sinalização de segurança organizados pela engenharia em Navegantes SC.',
+    excerpt: 'Documentação de segurança não é burocracia: é o que prova conformidade com as NRs, blinda a empresa contra multas e protege vidas. Veja quais documentos são obrigatórios e como organizá-los.',
+    readTime: '12 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando se fala em segurança do trabalho, a primeira imagem que vem à mente costuma ser o capacete, o cinto de segurança, a sinalização na obra. Mas há uma camada invisível — e decisiva — que sustenta toda essa proteção: a documentação de segurança. São os programas, laudos, prontuários e relatórios que traduzem a legislação em prova escrita de que a empresa identificou os riscos e adotou as medidas de controle.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na prática, a documentação de segurança é o que separa uma empresa regularizada de uma autuação pelo Ministério do Trabalho, de um litígio trabalhista oneroso e de uma tragédia sem resposta técnica. Este guia reúne os principais documentos obrigatórios divididos por Norma Regulamentadora (NR), explica quando cada um é exigido e mostra como a engenharia de segurança do trabalho organiza tudo isso para a sua obra ou indústria.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é documentação de segurança e por que ela existe'
+      },
+      {
+        type: 'paragraph',
+        text: 'A documentação de segurança é o conjunto de documentos técnicos que registra como a empresa gereia os riscos ocupacionais. Ela nasce da Consolidação das Leis do Trabalho (CLT, art. 157 e seguintes) e das Normas Regulamentadoras aprovadas pela Portaria 3.214/78 do Ministério do Trabalho. Mais do que "papel", cada documento cumpre uma função: mapear perigos, prescrever controles, treinar equipes e deixar rastro auditável para fiscalizações e perícias.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Comprovação legal — em uma fiscalização da SST ou em uma ação trabalhista, o documento é a evidência de que a empresa agiu com diligência',
+          'Gestão de risco — programas estruturados forçam a empresa a olhar para cada etapa do trabalho antes do acidente acontecer',
+          'Continuidade — documentos bem mantidos permitem que a segurança não dependa da memória de uma única pessoa',
+          'Defesa — em casos de insalubridade, periculosidade ou acidente, a documentação embasa laudos e acordos'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Na segurança do trabalho, o que não está documentado é como se não tivesse sido feito. A fiscalização e a Justiça exigem prova, não promessa.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a documentação de segurança é obrigatória'
+      },
+      {
+        type: 'paragraph',
+        text: 'O Brasil tem uma das legislações de SST mais detalhadas do mundo. As NRs estabelecem não apenas equipamentos e procedimentos, mas também a obrigação de documentar. Os custos de não cumprir são altos: autuações do Ministério do Trabalho variam conforme a gravidade (leve, média, grave e muito grave), podendo resultar em embargo de obra, interdição e responsabilização da diretoria. Além disso, a Reforma Trabalhista e as normas de saúde ocupacional tornaram a ausência de documentação um risco civil e previdenciário real.'
+      },
+      {
+        type: 'heading',
+        text: 'Principais documentos de segurança por Norma Regulamentadora'
+      },
+      {
+        type: 'heading',
+        text: '1. PCMAT — NR-18 (Construção Civil)'
+      },
+      {
+        type: 'paragraph',
+        text: 'O Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção é obrigatório em toda obra com mais de 20 trabalhadores. Ele descreve as medidas de controle de riscos por fase da obra (terraplenagem, fundação, estrutura, cobertura, instalações) e acompanha o canteiro do início ao fim. Sem PCMAT, a obra está irregular perante a NR-18 e sujeita a embargo.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico dos riscos por etapa construtiva',
+          'Medidas de controle de quedas, escavações, eletricidade e máquinas',
+          'Planejamento de canteiro, instalações e circulação',
+          'Acompanhamento e atualização conforme a obra avança'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '2. PGR — NR-1 (Gerenciamento de Riscos)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Desde a atualização da NR-1, o Programa de Gerenciamento de Riscos substituiu e unificou antigos programas (como o PPRA). Ele é transversal: toda empresa com empregados precisa dele. O PGR adota a metodologia de Análise de Perigos e Riscos (APR) e integra saúde e segurança em um único documento vivo, revisado periodicamente.'
+      },
+      {
+        type: 'heading',
+        text: '3. PCMSO e LTCAT — NR-7 (Saúde Ocupacional)'
+      },
+      {
+        type: 'paragraph',
+        text: 'O Programa de Controle Médico de Saúde Ocupacional e o Laudo Técnico das Condições Ambientais de Trabalho são a base da vigilância da saúde. O PCMSO define os exames admissionais, periódicos, de retorno e demissionais; o LTCAT caracteriza a exposição a agentes físicos, químicos e biológicos e embasa o Perfil Profissiográfico Previdenciário (PPP).'
+      },
+      {
+        type: 'list',
+        items: [
+          'PCMSO — cronograma de exames e acompanhamento clínico da equipe',
+          'LTCAT — mapeamento de agentes nocivos por posto de trabalho',
+          'PPP — prontuário individual que histórico a exposição do trabalhador'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '4. APR — Análise Preliminar de Risco'
+      },
+      {
+        type: 'paragraph',
+        text: 'A APR é o documento que antecede qualquer tarefa de maior risco (trabalho em altura, espaço confinado, demolição). Ela identifica os perigos da atividade, define as medidas de controle e só libera o serviço após a assinatura das partes. É peça central na prevenção de acidentes graves e na defesa da empresa.'
+      },
+      {
+        type: 'heading',
+        text: '5. CIPA, SIPAT e Ordem de Serviço — NR-5 e NR-1'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Comissão Interna de Prevenção de Acidentes é obrigatória conforme o grau de risco e o número de empregados, com representação patronal e de empregados. A SIPAT (Semana Interna de Prevenção de Acidentes do Trabalho) e a Ordem de Serviço de Segurança documentam o treinamento e a comunicação das regras de cada posto.'
+      },
+      {
+        type: 'heading',
+        text: '6. Laudos de insalubridade, periculosidade e ergonomia — NRs 15, 16 e 17'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quando há exposição a agentes insalubres ou perigosos, a empresa precisa de laudos técnicos que quantifiquem a exposição e embasem adicionais salariais e contribuições previdenciárias. A NR-17 exige ainda a análise ergonômica do trabalho (AET) para postos que apresentem risco de lesão por esforço repetitivo ou postura inadequada.'
+      },
+      {
+        type: 'heading',
+        text: '7. Prontuário e documentos complementares'
+      },
+      {
+        type: 'paragraph',
+        text: 'Além dos programas, a empresa deve manter o Prontuário de Instalações Elétricas (NR-10), o Laudo de Inspeção do Veículo (NR-11, quando aplicável), diários de bordo de máquinas, treinamentos registrados e as APs de segurança. A organização desses documentos é o que permite responder a uma fiscalização em horas, não em semanas.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a empresa precisa dessa documentação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não existe "empresa pequena demais" para a segurança. Os gatilhos que tornam a documentação urgente:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Ao abrir a obra ou a indústria — PCMAT e PGR devem existir antes do início das atividades',
+          'Ao contratar o primeiro funcionário — NR-1, exames admissionais e PPP passam a ser exigidos',
+          'Em licitações e grandes clientes — o documento de SST é exigência de habilitação e de contrato',
+          'Na renovação de alvará e licenças — órgãos municipais e o IMA/SC pedem comprovação de segurança',
+          'Após um acidente ou quase-acidente — a investigação e a APR atualizada viram prioritárias',
+          'Em fiscalização do Ministério do Trabalho — a apresentação imediata dos documentos evita embargo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Documentação de segurança no canteiro e na indústria em Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — as obras convivem com ventos fortes, maresia e canteiros montados em áreas portuárias e industriais. Isso eleva riscos de queda, de descarga atmosférica e de operação de guindastes, exigindo uma documentação de segurança ainda mais rigorosa e localmente adaptada. A engenharia de segurança que conhece a região antecipa essas variáveis no PCMAT e no PGR.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Controle de quedas em estruturas expostas ao vento litorâneo',
+          'Proteção elétrica e descarga atmosférica em áreas próximas ao mar',
+          'Movimentação de carga integrada à logística portuária',
+          'Treinamentos em português e espanhol para equipes mistas comuns na região'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia apoia a documentação de segurança'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua no litoral de Santa Catarina integrando engenharia civil e segurança do trabalho. Não entregamos apenas um laudo avulso: estruturamos o pacote completo de documentação de segurança, com emissão de ART no CREA-SC em todos os serviços técnicos, para que a sua obra ou indústria esteja regular, protegida e pronta para fiscalização.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Elaboração de PCMAT (NR-18) e PGR (NR-1) completos e atualizados por fase',
+          'Laudos de insalubridade, periculosidade e ergonomia (NRs 15, 16 e 17)',
+          'Apoio a PCMSO, LTCAT e PPP junto ao serviço médico ocupacional',
+          'APR, CIPA, SIPAT e ordens de serviço documentadas',
+          'Prontuário de instalações elétricas (NR-10) e acompanhamento de máquinas',
+          'ART no CREA-SC e organização do prontuário para apresentação imediata'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se a sua obra ou indústria ainda não tem a documentação de segurança em dia — ou se recebeu exigência de fiscalização — fale com a equipe da Regê Engenharia. Vamos estruturar os documentos corretos para o seu empreendimento: porque segurança não se prova depois do acidente, se prova antes, com documento.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre documentação de segurança'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda empresa precisa de PCMAT? Não. O PCMAT é obrigatório apenas para obras de construção civil com mais de 20 trabalhadores (NR-18). Empresas que não são de construção seguem o PGR e os demais programas conforme sua atividade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso ter apenas um documento para toda a segurança? O PGR (NR-1) unifica a gestão de riscos, mas programas específicos como PCMAT (construção), PCMSO (saúde) e laudos de insalubridade continuam sendo exigidos conforme a norma. A integração é recomendada, mas não elimina documentos previstos em NR própria.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem pode assinar a documentação de segurança? Profissionais habilitados: engenheiro de segurança do trabalho, engenheiro civil ou técnico em segurança do trabalho, com registro no CREA/CRT conforme a atribuição. A emissão de ART é obrigatória para responsabilizar tecnicamente o serviço.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A documentação substitui o EPI? Não. Documentação e EPI se complementam. O programa identifica o risco e prescreve o controle; o EPI é a última linha de defesa quando o controle coletivo não é suficiente. Um não exonera o outro.'
+      }
+    ]
+  },
+  {
+    slug: 'consultoria-ambiental-industrial',
+    title: 'Consultoria Ambiental Industrial: Guia Completo para Licenciamento, Conformidade e Sustentabilidade',
+    tag: 'AMBIENTAL',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Consultoria ambiental industrial em Santa Catarina — engenheiro realizando vistoria técnica e acompanhamento de conformidade ambiental em galpão e área industrial.',
+    excerpt: 'A consultoria ambiental industrial é o que separa uma indústria regularizada de multas, embargo e perda de licença. Saiba o que é, quais serviços envolve e como proteger sua operação com engenharia especializada.',
+    readTime: '12 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'No Brasil, a atividade industrial convive com uma malha de obrigações ambientais entre as mais densas do mundo. Órgãos como o IBAMA, o IMA/SC (antiga FATMA) e as prefeituras exigem licenças, relatórios, monitoramentos e planos de gestão que, quando ignorados, resultam em multas que podem chegar a milhões de reais, embargo da operação e até responsabilização criminal dos sócios. A boa notícia é que tudo isso é gerenciável — e é exatamente aí que entra a consultoria ambiental industrial.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que é a consultoria ambiental industrial na prática, quais serviços ela engloba, em que momento a contratação é obrigatória e por que, em Santa Catarina, o conhecimento das normas estaduais e municipais faz toda a diferença entre uma operação tranquila e um passivo ambiental imprevisível.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é consultoria ambiental industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'A consultoria ambiental industrial é o serviço técnico especializado que orienta indústrias na adequação às leis ambientais em todas as fases do empreendimento: da escolha e licenciamento do terreno à operação, expansão e descomissionamento. Diferente da consultoria genérica de engenharia, ela une conhecimento técnico (engenharia, geotecnia, química, saneamento) a profundo domínio da legislação ambiental federal, estadual e municipal.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O consultor ambiental atua como uma ponte entre a operação da empresa e os órgãos fiscalizadores: traduz a complexidade das resoluções do CONAMA, das portarias do IMA/SC e das condicionantes de licença em ações concretas, documentadas e auditáveis. O objetivo não é apenas "cumprir a lei", mas proteger a continuidade do negócio e reduzir custos com risco, desperdício e energia.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico ambiental — mapeamento da situação atual da indústria frente às exigências legais',
+          'Licenciamento — obtenção e renovação de Licença Prévia (LP), de Instalação (LI) e de Operação (LO)',
+          'Planejamento — elaboração de estudos, planos de gestão e programas de mitigação de impactos',
+          'Acompanhamento — monitoramento de indicadores, relatórios e suporte em vistorias e auditorias',
+          'Defesa — resposta a autos de infração, Termos de Ajustamento de Conduta (TAC) e exigências dos órgãos'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A consultoria ambiental industrial não é um custo de conformidade — é o seguro que mantém a sua linha de produção rodando e a sua licença ativa.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a consultoria ambiental é decisiva para indústrias'
+      },
+      {
+        type: 'paragraph',
+        text: 'Muitos empresários só percebem a importância da consultoria quando recebem uma notificação ou quando o órgão ambiental embarga a obra. Os motivos estruturais que tornam esse serviço indispensável são outros:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Complexidade legal — a legislação ambiental brasileira envolve dezenas de resoluções federais, normas estaduais e leis municipais, com interpretações que variam por tipo de atividade e localização',
+          'Risco financeiro — multas ambientais são progressivas e podem superar o faturamento mensal da operação; o embargo interrompe a receita sem interromper os custos fixos',
+          'Responsabilidade — a Lei de Crimes Ambientais (Lei 9.605/98) prevê sanções que alcançam pessoas físicas, incluindo os sócios e a diretoria',
+          'Acesso a mercados — grandes compradores e cadeias de suprimentos exigem certificações e compliance ambiental como pré-requisito contratual',
+          'Eficiência operacional — gestão correta de resíduos, energia e água reduz custos diretos e melhora a margem da indústria'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Principais serviços de consultoria ambiental industrial'
+      },
+      {
+        type: 'heading',
+        text: '1. Licenciamento ambiental (LP, LI e LO)'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento é o processo pelo qual o órgão competente autoriza a localização, instalação e operação da indústria. Em Santa Catarina, cabe ao IMA/SC a maior parte dos processos, com articulação junto à prefeitura (zoneamento e alvará) e, em casos de impacto federal, ao IBAMA. A consultoria prepara o dossiê, os estudos técnicos e acompanha todas as fases:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Licença Prévia (LP) — aprova a viabilidade ambiental do empreendimento e de sua localização antes da compra do terreno',
+          'Licença de Instalação (LI) — autoriza o início das obras e a execução do projeto aprovado',
+          'Licença de Operação (LO) — libera o funcionamento da indústria após comprovação do cumprimento das condicionantes',
+          'Renovação e ampliação — manutenção da validade e adequação a novas linhas de produção ou aumento de capacidade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '2. Estudos de impacto (EIA/RIMA, RAS e RCA)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para empreendimentos de maior porte ou localizados em áreas sensíveis, são exigidos estudos detalhados. A consultoria ambiental industrial conduz o Estudo de Impacto Ambiental e seu Relatório de Impacto (EIA/RIMA), o Relatório de Atividades Similares (RAS) e o Relatório de Caracterização Ambiental (RCA), documentando os impactos e as medidas de compensação junto à comunidade e ao órgão.'
+      },
+      {
+        type: 'heading',
+        text: '3. Gestão de resíduos (PGRS)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda indústria gera resíduos — sólidos, líquidos ou perigosos — e precisa de um Plano de Gerenciamento de Resíduos Sólidos (PGRS) que defina coleta, segregação, armazenamento, transporte e destinação final. A consultoria estrutura o PGRS, cadastra a operação no sistema de logística reversa e auditênse a cadeia de descarte, evitando que um destinador irregular gere responsabilidade solidária para a indústria geradora.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Mapeamento da geração por tipo e periculosidade (Classe I e Classe II)',
+          'Cadastro de transportadores e destinadores finais devidamente licenciados',
+          'Manifesto de Transporte de Resíduos (MTR) e rastreabilidade documental',
+          'Treinamento interno das equipes de produção e limpeza'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '4. Controle de emissões atmosféricas e efluentes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Chaminés, fornos, caldeiras e sistemas de exaustão estão sujeitos a limites de emissão. O mesmo vale para a água de processo e o esgoto industrial, que não podem ser lançados sem tratamento adequado. A consultoria define sistemas de controle, elabora projetos de tratamento de efluentes e acompanha a outorga de direito de uso de recursos hídricos junto ao IMA/SC quando houver captação de água superficial ou subterrânea.'
+      },
+      {
+        type: 'heading',
+        text: '5. Monitoramento e auditoria ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Depois de licenciada, a indústria precisa comprovar, periodicamente, o cumprimento das condicionantes. A consultoria ambiental industrial mantém o programa de monitoramento (qualidade do ar, água, ruído, solo) e conduz auditorias internas que antecipam não conformidades antes que virem auto de infração.'
+      },
+      {
+        type: 'heading',
+        text: '6. Conformidade e certificação (ISO 14001)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cadeias globais de suprimentos exigem Sistemas de Gestão Ambiental certificados. A consultoria estrutura a implementação da ISO 14001, prepara a indústria para auditorias de clientes e reduz o atrito comercial com grandes compradores que adotam critérios ESG.'
+      },
+      {
+        type: 'heading',
+        text: '7. Adequação a órgãos fiscalizadores (IMA/SC, IBAMA, prefeitura)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cada órgão tem linguagem, prazos e alçadas próprias. A consultoria ambiental industrial conhece os fluxos do IMA/SC, do IBAMA e das secretarias municipais de meio ambiente, o que acelera processos e evita o "vai e vem" de documentos incompletos que estica o licenciamento por meses.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a indústria deve contratar consultoria ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O momento ideal é sempre antes do problema aparecer. Na prática, estes são os gatilhos que tornam a contratação urgente:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Antes de comprar ou alugar o terreno — a Licença Prévia e a vocação ambiental do local definem a viabilidade do negócio',
+          'Ao projetar a planta industrial — o layout interfere em ruído, efluentes, resíduos e nas próprias condicionantes de licença',
+          'Na expansão da produção — aumento de capacidade quase sempre exige alteração ou renovação de licença',
+          'Ao receber auto de infração ou notificação — a defesa técnica dentro do prazo evita multa consolidada',
+          'Na entrada em novas cadeias de suprimento — certificações e compliance ambiental viram exigência contratual',
+          'Na renovação periódica da Licença de Operação — evitar a surpresa de uma licença vencida e operação irregular'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Consultoria ambiental industrial no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha — a variável ambiental ganha peso extra. A proximidade com o mar, as bacias hidrográficas sensíveis e a concentração de portos e polos industriais tornam a fiscalização mais rigorosa e as condicionantes mais específicas. Fatores regionais que a consultoria local domina:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Áreas de Proteção Ambiental (APA) e manguezais — restrições de ocupação e de lançamento de efluentes muito próximas das zonas industriais costeiras',
+          'Outorga de águas — o IMA/SC controla rigorosamente captação e lançamento em bacias com forte pressão de uso',
+          'Logística portuária — indústrias integradas a portos têm condicionantes de ruído, poeira e tráfego próprias',
+          'Resoluções estaduais próprias — normas do IMA/SC sobre emissões e resíduos diferem das médias nacionais e exigem acompanhamento especializado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia apoia a indústria'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua no litoral de Santa Catarina integrando engenharia civil, consultoria técnica e adequação ambiental. Não entregamos apenas um laudo: estruturamos o caminho completo entre a operação da sua indústria e a conformidade legal, com emissão de ART no CREA-SC em todos os serviços técnicos.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico ambiental e engenharia de adequação da planta industrial',
+          'Elaboração e acompanhamento de licenciamento ambiental junto ao IMA/SC',
+          'PGRS, gestão de resíduos e articulação com destinadores licenciados',
+          'Projetos de tratamento de efluentes e sistemas de controle de emissões',
+          'Suporte em auditorias, vistorias e defesa de autos de infração',
+          'ART no CREA-SC e documentação técnica para todas as etapas'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se a sua indústria precisa de licença, está recebendo exigências do órgão ambiental ou quer antecipar não conformidades antes que virem multa, fale com a equipe da Regê Engenharia. Vamos estruturar o plano de conformidade correto para o seu empreendimento — porque ambiental não se resolve no improviso, se resolve com projeto.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre consultoria ambiental industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda indústria precisa de licença ambiental? Sim. A Resolução CONAMA 237/97 estabelece que empreendimentos e atividades potencialmente poluidores dependem de licenciamento. O porte e o risco definem o nível do processo, mas a obrigatoriedade cobre a grande maioria das operações industriais.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso licenciar depois de começar a operar? Tecnicamente não. Operar sem Licença de Operação é infração grave sujeita a multa e embargo. A consultoria ambiental industrial existe justamente para projetar o licenciamento antes da obra e da produção.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva um licenciamento em SC? Varia com a complexidade e com a completude do dossiê. Processos bem preparados pela consultoria andam meses mais rápido do que envios incompletos que entram em ciclos de exigência e complementação no IMA/SC.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A consultoria substitui o órgão ambiental? Não. O órgão é quem concede a licença. A consultoria prepara, articula e defende tecnicamente o pedido, mas a decisão final é sempre do IMA/SC, IBAMA ou prefeitura.'
+      }
+    ]
+  },
+  {
+    slug: 'licenciamento-ambiental-empresa',
+    title: 'Licenciamento Ambiental para Empresas: O Guia Completo para Não Parar na Fiscalização',
+    tag: 'AMBIENTAL',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Empresa em processo de licenciamento ambiental em Santa Catarina, com gestão técnica de resíduos, efluentes e emissões conduzida pela Rege Engenharia.',
+    excerpt: 'Sua empresa polui, gera resíduo, consome água ou altera a natureza? O CNPJ pode precisar de licença ambiental — e a falta dela embarga a operação, gera multa diária e afasta clientes e financiadores. Veja quem precisa, quais estudos exigir e como a Rege Engenharia regulariza seu empreendimento.',
+    readTime: '12 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Muitos empresários descobrem que a empresa precisa de licença ambiental só quando o fiscal bate à porta — ou quando o banco nega o financiamento, o cliente grande exige certificado de conformidade ou a prefeitura trava o alvará de funcionamento. O licenciamento ambiental não é "coisa de fábrica gigante": é obrigatório para toda atividade que utilize recursos naturais, seja potencialmente poluidora ou capaz de causar qualquer degradação ambiental. Se o seu CNPJ gera resíduo, efluente, emissão atmosférica, ruído, risco de contaminação de solo ou água, ou altera cobertura vegetal e topografia, a chance de precisar de licença é alta.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra, na prática, o que é o licenciamento ambiental para empresas, quais CNAEs e atividades estão sujeitos a ele, quais estudos ambientais o seu caso exige, os riscos de operar irregular e como a Rege Engenharia conduz o processo de viabilidade à Licença de Operação — com segurança jurídica, custo controlado e foco em manter a operação rodando.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o licenciamento ambiental para empresas'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental é o procedimento administrativo pelo qual o órgão ambiental competente (no caso de Santa Catarina, a FATMA/IMA e as prefeituras municipais) autoriza a localização, instalação e operação de empreendimentos e atividades que usam recursos ambientais. Para a empresa, ele se traduz em três atos: a permissão de fazer (Licença Prévia), a permissão de construir (Licença de Instalação) e a permissão de funcionar (Licença de Operação). Sem esses documentos, a atividade é ilegal — independentemente de a empresa ter CNPJ aberto, alvará comercial e nota fiscal emitida.'
+      },
+      {
+        type: 'quote',
+        text: 'Ter CNPJ ativo e alvará de funcionamento não isenta a empresa de licença ambiental. São obrigações diferentes de órgãos diferentes — e a fiscalização ambiental autua quem confunde uma com a outra.'
+      },
+      {
+        type: 'heading',
+        text: 'Quais empresas precisam de licenciamento ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'A regra prática é simples: se a atividade gera impacto sobre o meio ambiente, precisa de licença. A relação abaixo cobre os setores mais comuns que surpreendem o empresário — mas a lista não é fechada, pois cada órgão mantém seu próprio rol de atividades licenciáveis:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Indústrias de qualquer porte — alimentícia, têxtil, plástica, metalúrgica, moveleira, química: efluente, emissão e resíduo sólido quase sempre exigem LP + LI + LO',
+          'Postos de combustível e lava-rápidos — tanque subterrâneo, óleo e água contaminada demandam licença completa e outorga de lançamento',
+          'Restaurantes, padarias e supermercados com gordura/efluente — geralmente LI + LO, com sistema de tratamento de efluente',
+          'Comércio e serviços com emissão ou ruído — oficinas mecânicas, gráficas, carpintarias, galvanoplastia, estamparia',
+          'Construção civil acima de 1.500 m² ou 3 pavimentos — e qualquer obra em APP (margem de rio, restinga, dunas, mangue)',
+          'Loteamentos e desmembramentos — licenciamento ambiental integrado com o urbanístico',
+          'Transporte e logística — pátios de caminhões, terminais, lavagem de frota',
+          'Energia e mineração — usinas solares de solo, pedreiras, extração, silos e beneficiamento',
+          'Saúde e educação — hospitais, clínicas com resíduo de saúde (RSS), laboratórios',
+          'Empreendimentos em zona costeira — qualquer atividade na faixa de praia, dunas ou marinho'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Há ainda as licenças simplificadas (LAS) e autorizações (AA) para atividades de baixo impacto, e a dispensa taxativa para casos previstos em resolução — mas a dispensa nunca isenta a empresa de cumprir a legislação ambiental. Na dúvida, o correto é protocolar e deixar o órgão definir o enquadramento.'
+      },
+      {
+        type: 'heading',
+        text: 'A trilogia LP – LI – LO resumida para empresas'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental de empresas segue, na maioria dos casos, a sequência de três licenças. Entender cada uma evita que a operação pare no meio do caminho:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Licença Prévia (LP) — aprova a viabilidade locacional e conceitual: zoneamento, APP, unidades de conservação, tecnologia e mitigação. É o momento de descobrir se a empresa pode, de fato, ocupar aquele endereço. Validade: 2 a 4 anos',
+          'Licença de Instalação (LI) — autoriza a construção e os projetos executivos (drenagem, efluentes, resíduos, controle erosivo). É a fase de obra e de montagem da planta. Validade: até a conclusão',
+          'Licença de Operação (LO) — autoriza o funcionamento após comprovação das condicionantes da LI, com monitoramentos e planos de gestão. É o documento que libera a empresa a operar legalmente. Validade: 4 a 10 anos'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Para atividades de baixo impacto, a Licença Ambiental Simplificada (LAS) reúne as três fases em um único ato. Para impacto insignificante, a Autorização Ambiental (AA) dispensa o processo formal. A Rege Engenharia avalia o enquadramento correto no primeiro diagnóstico — e isso já define o prazo e o custo do processo.'
+      },
+      {
+        type: 'heading',
+        text: 'Estudos ambientais que sua empresa pode exigir'
+      },
+      {
+        type: 'paragraph',
+        text: 'O estudo ambiental é o "dossiê técnico" que prova ao órgão que a empresa vai operar sem destruir o ambiente. O tipo depende do porte e do impacto — e escolher o estudo certo evita gastar meses e dezenas de milhares de reais a mais do que o necessário:'
+      },
+      {
+        type: 'list',
+        items: [
+          'RAS (Relatório Ambiental Simplificado) — atividades de baixo/médio impacto; diagnóstico e medidas mitigadoras',
+          'EAS (Estudo Ambiental Simplificado) — médio impacto, APP ou restinga; inclui alternativas locacionais e programas',
+          'EIA/RIMA (Estudo de Impacto Ambiental) — grande impacto: indústrias, loteamentos acima de 50 ha, portos e rodovias; exige audiência pública',
+          'PCA/PCCA (Plano de Controle Ambiental) — obrigatório na LI; erosão, sedimentos, ruído, resíduos, efluentes e tráfego',
+          'PRAD (Plano de Recuperação de Área Degradada) — quando há supressão de vegetação nativa ou APP degradada',
+          'EVE (Estudo de Viabilidade de Efluentes) — para lançamento em corpo hídrico ou rede coletora, com outorga',
+          'PGRS (Plano de Gerenciamento de Resíduos Sólidos) — obrigatório para quase toda empresa que gere resíduo'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Estudo mal dimensionado é dinheiro jogado fora: pedir EIA onde RAS basta pode custar 6 a 12 meses e R$ 50 mil a R$ 150 mil a mais. Dimensionar certo é a primeira economia do licenciamento.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que empresas irregulares pagam caro'
+      },
+      {
+        type: 'paragraph',
+        text: 'Operar sem a licença ambiental devida não é "um detalhe burocrático" — é risco jurídico, financeiro e reputacional. As consequências costumam se somar:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Embargo da atividade — a operação é interrompida por determinação do órgão ou do Ministério Público',
+          'Multa diária — valores que correm por dia de irregularidade, podendo chegar a centenas de milhares de reais',
+          'Responsabilidade criminal — a conduta pode enquadrar sócios e responsáveis técnicos em processo penal ambiental',
+          'Perda de financiamento — bancos e fundos negam crédito a empresa com passivo ambiental',
+          'Bloqueio de licitações e grandes clientes — muitas empresas exigem certidão ambiental negativa para fechar contrato',
+          'Reversão de imagem — vazamento, denúncia ou autuação mancham a reputação da marca de forma difícil de reverter'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'As vantagens de uma empresa ambientalmente regular'
+      },
+      {
+        type: 'paragraph',
+        text: 'Regularizar não é só "evitar dor de cabeça": é uma vantagem competitiva. Empresas com licença em dia operam com previsibilidade e abrem portas que a concorrência irregular não alcança:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Acesso a crédito e investimento — linhas verdes e fundos ESG exigem conformidade ambiental comprovada',
+          'Habilitação em licitações — prefeituras, estados e grandes compradores pedem certidões ambientais',
+          'Relação saudável com o vizinho — ruído, odor e efluente tratados previnem conflitos e processos',
+          'Valorização do ativo — imóvel e operação regularizados valem mais na venda ou sucessão',
+          'Marca sustentável — o selo de conformidade vira argumento de venda para o cliente final',
+          'Tranquilidade operacional — a fiscalização deixa de ser ameaça e passa a ser rotina protocolada'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que atrasam (ou inviabilizam) o licenciamento da empresa'
+      },
+      {
+        type: 'list',
+        items: [
+          'Iniciar a operação antes da LP/LI — gera embargo, multa e processo; a viabilidade deve vir antes do aluguel ou da obra',
+          'Subestimar APP, restinga ou duna — inviabiliza o empreendimento e pode gerar supressão não autorizada',
+          'Esquecer a outorga de água/efluente — a LO é negada ou o poço/ETE é lacrado sem o documento',
+          'Usar PCA genérico copiado da internet — frustra o órgão, paralisa e obriga a refazer o plano',
+          'Não prever compensação ambiental — condicionante-surpresa na LI/LO que encarece o projeto no fim',
+          'Perder o prazo de renovação — licença vencida é operação irregular, com os mesmos riscos do início',
+          'Mudar o projeto sem aditivo — vistoria final reprovada e necessidade de nova LI'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Rege Engenharia conduz o licenciamento da sua empresa'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Rege Engenharia atua com equipe multidisciplinar própria — engenheiro ambiental, engenheiro civil, sanitarista, biólogo, geólogo e topógrafo, todos com ART — e conduz o ciclo completo de licenciamento empresarial em Santa Catarina, do diagnóstico à gestão contínua:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Fase 0 — Diagnóstico: análise de CNAE, porte, terreno, histórico e roadmap de licenças com estimativa de custo e prazo',
+          'Fase 1 — Viabilidade e LP: topografia, caracterização de APP, definição do estudo (RAS/EAS/EIA) e protocolo',
+          'Fase 2 — LI e projetos executivos: drenagem, efluentes, PGRS, PCCA, supressão, ruído e todas as ARTs',
+          'Fase 3 — Acompanhamento de obra/instalação: visitas, treinamento, monitoramentos com laboratório acreditado e gestão de resíduos',
+          'Fase 4 — LO e pós-licença: comprovação de condicionantes, vistoria e entrega da pasta digital com alertas de renovação',
+          'Fase 5 — Gestão contínua (opcional): renovação, atualização de planos, aditivos e atendimento a fiscalização'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A gestão integrada (LP → LI → LO + operação) garante coerência entre os estudos, evita retrabalho e reduz o custo total do processo. E, no dia a dia, o cliente recebe uma pasta digital organizada: estudos, projetos, ARTs, protocolos, ofícios, laudos e cronograma em um só lugar.'
+      },
+      {
+        type: 'heading',
+        text: 'Custo do licenciamento vs. custo da irregularidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'A assessoria técnica specializada representa, em geral, de 1% a 3% do investimento total do empreendimento — e quase sempre é inferior ao custo de uma única autuação, embargo ou multa diária. Para referência de mercado em 2026:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Estudo ambiental (RAS/EAS): R$ 4.000 a R$ 25.000',
+          'EIA/RIMA: R$ 80.000 a R$ 300.000+',
+          'Projetos executivos ambientais (LI): R$ 8.000 a R$ 40.000',
+          'Taxas do órgão (por fase): R$ 500 a R$ 15.000',
+          'Compensação ambiental: R$ 15.000 a R$ 500.000+ conforme o caso',
+          'Monitoramentos anuais: R$ 2.000 a R$ 8.000/ano',
+          'Multa por operar sem licença: R$ 5.000 a R$ 1.000.000+ (evitável com assessoria)'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre licenciamento ambiental empresarial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha empresa é pequena, precisa de licença? Depende da atividade, não do tamanho. Um pequeno lava-rápido ou oficina pode exigir LI + LO tanto quanto uma indústria. O correto é verificar o CNAE e o enquadramento junto ao órgão — e não presumir a dispensa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso fazer o RAS/EAS eu mesmo? Não. O estudo exige responsável técnico habilitado (engenheiro ambiental, sanitarista, biólogo, geólogo) com ART/RRT. Estudo leigo é indeferido e gera retrabalho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo demora? RAS/LAS: 45 a 90 dias. EAS: 90 a 180 dias. EIA/RIMA: 18 a 36 meses. O atraso quase sempre vem de estudo incompleto, projeto falho ou resposta lenta às exigências — por isso a Rege acompanha o processo diariamente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Já estou operando sem licença. E agora? Pare a atividade criticável, contrate assessoria e inicie a regularização (Licença de Regularização ou Termo de Ajustamento de Conduta). Quanto antes, menor a multa e o risco de embargo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A prefeitura licencia tudo? Não. Atividades de impacto estadual (indústrias, loteamentos, postos, usinas, APP costeira) vão à FATMA/IMA. A Rege protocola no órgão correto para evitar ida e volta.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Rege faz só o estudo ou acompanha até a LO? Fazemos o ciclo completo. Pode contratar por fase, mas a gestão integrada reduz o custo total em 20% a 30% e garante a Licença de Operação na primeira vistoria.'
+      },
+      {
+        type: 'heading',
+        text: 'Próximo passo: diagnóstico ambiental gratuito para sua empresa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Tem a empresa em operação, em ampliação ou na fase de projeto? Suspeita que falta licença, recebeu notificação ou quer se prevenir antes de investir? Agende uma análise de viabilidade ambiental gratuita (até 2h), presencial em Navegantes ou remota.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Você recebe: (1) parecer técnico sobre quais licenças e estudos seu caso exige, (2) cronograma realista de LP → LI → LO, (3) estimativa de custos (estudos + taxas + compensação + assessoria), (4) riscos identificados e (5) plano de ação recomendado. Não arrisque o patrimônio e a operação da sua empresa: o licenciamento bem feito é o alicerce invisível que mantém o negócio aberto e legal.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com licenciamento ambiental para empresas, elaboração de estudos, projetos executivos e gestão contínua de conformidade. Fale com nossa equipe e descubra o caminho mais curto e seguro para a sua empresa operar regularizada.'
+      }
+    ]
+  },
+  {
+    slug: 'engenheiro-civil-perto-de-mim',
+    title: 'Engenheiro Civil Perto de Mim: Como Encontrar, Verificar e Contratar com Segurança',
+    tag: 'ENGENHARIA',
+    image: '/images/engenheiro-economiza-dinheiro.png',
+    imageAlt: 'Engenheiro civil perto de mim - profissional registrado no CREA-SC em vistoria técnica de obra residencial no litoral de Santa Catarina, com prancheta e capacete em canteiro em Navegantes.',
+    excerpt: 'Buscou "engenheiro civil perto de mim"? O próximo passo é contratar certo: aprenda a verificar o registro no CREA, exigir a ART, reconhecer os sinais vermelhos e escolher um profissional local que proteja sua obra e seu investimento.',
+    readTime: '12 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando alguém digita "engenheiro civil perto de mim" no Google, por trás da busca quase sempre existe uma obra esperando para sair do papel, um problema estrutural que preocupa ou uma reforma que parece simples mas esconde implicações técnicas. E a palavra-chave dessa busca não é só o nome da profissão: é "perto". A pessoa quer um profissional presente, acessível e que conheça a realidade da região — porque em engenharia, proximidade e conhecimento local fazem diferença técnica e financeira.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o caminho completo depois da busca: o que um engenheiro civil faz de fato, quando ele é indispensável, como encontrar candidatos confiáveis, o checklist do que verificar antes de assinar contrato, os sinais vermelhos que devem afastar você de um mau profissional, quanto custa cada serviço e por que no litoral de Santa Catarina a escolha certa pesa ainda mais.'
       },
       {
         type: 'heading',
@@ -23,24 +1738,24 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'Antes de saber como encontrar o profissional, é útil ter clareza sobre o que ele pode fazer por você. O engenheiro civil atua em praticamente todas as etapas de uma construção ou reforma — e também em situações que não envolvem obra nenhuma, como avaliação e laudos.'
+        text: 'Antes de avaliar candidatos, vale ter clareza sobre o escopo do trabalho. O engenheiro civil atua em todas as fases da vida de uma edificação:'
       },
       {
         type: 'list',
         items: [
-          'Projeto estrutural — cálculo e dimensionamento das fundações, vigas, lajes, pilares e estruturas de concreto, aço ou madeira, garantindo segurança e durabilidade',
-          'Acompanhamento de obra — fiscalização técnica no canteiro, controle de qualidade dos materiais, verificação da execução e aprovação de etapas',
-          'Gestão da construção — coordenação de equipes, controle de cronograma, compras e orçamento, prevenindo desperdício e retrabalho',
-          'Projetos complementares — hidráulico, elétrico, de fundações, de contenção de encostas e de drenagem',
-          'Laudos e vistorias — laudo técnico de imóvel, vistoria cautelar, análise estrutural, diagnóstico de patologias (fissuras, infiltrações, corrosão)',
-          'Regularização de imóveis — aprovação de projeto na prefeitura, habite-se, averbação de construção, regularização de imóvel sem documentação',
-          'Consultoria técnica — análise de viabilidade, avaliação de risco, orientação antes de comprar ou reformar um imóvel',
-          'Emissão de ART — a Anotação de Responsabilidade Técnica é o documento legal que vincula o engenheiro à obra e é obrigatório para qualquer serviço de engenharia no Brasil'
+          'Projeto estrutural — cálculo e dimensionamento de fundações, pilares, vigas e lajes conforme as normas NBR, definindo a segurança de toda a edificação',
+          'Projetos complementares — hidrossanitário, elétrico, drenagem, contenções e pavimentação, integrados ao projeto arquitetônico',
+          'Acompanhamento técnico de obra — fiscalização no canteiro, controle de qualidade dos materiais, verificação de conformidade com o projeto',
+          'Gestão da construção — coordenação de equipes, cronograma físico-financeiro, compras e controle de custos',
+          'Laudos e vistorias — laudo técnico de imóvel, vistoria cautelar de vizinhança, análise estrutural e diagnóstico de patologias',
+          'Aprovações e regularização — projeto aprovado na prefeitura, habite-se, averbação e regularização de construções existentes',
+          'Consultoria técnica — análise de viabilidade, avaliação de risco e apoio à decisão antes de comprar, construir ou reformar',
+          'Emissão de ART — a Anotação de Responsabilidade Técnica que formaliza legalmente a responsabilidade sobre o serviço'
         ]
       },
       {
         type: 'quote',
-        text: 'O engenheiro civil não é um custo da obra — é quem garante que o seu investimento não vire problema estrutural, multa ou obra embargada.'
+        text: 'O engenheiro civil não é um custo da obra — é quem garante que o seu investimento não vire problema estrutural, jurídico ou financeiro.'
       },
       {
         type: 'heading',
@@ -48,20 +1763,41 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'Nem toda situação é óbvia. Muita gente só percebe que precisava de engenheiro depois que o problema aparece. Estas são as situações em que a presença do profissional é obrigatória ou altamente recomendada:'
+        text: 'Muita gente descobre que precisava de um engenheiro apenas quando o problema já está instalado. Estas são as situações em que contratar não é opcional:'
       },
       {
         type: 'list',
         items: [
-          'Construção de casa do zero — projeto estrutural, fundações e acompanhamento de obra são funções exclusivas do engenheiro civil',
-          'Reforma que mexe com estrutura — abertura de vão, demolição de paredes, adição de pavimento, mudança de cobertura: qualquer intervenção estrutural exige avaliação técnica',
-          'Obra em área de risco — encosta, terreno alagável, área próxima a mar ou rio: o engenheiro avalia a viabilidade e as medidas de segurança',
-          'Problemas estruturais visíveis — fissuras, trincas, desrecalque de fundação, armadura exposta, laje com flecha: diagnóstico deve ser feito por engenheiro, não por pedreiro',
-          'Aprovação na prefeitura — projetos de construção ou ampliação precisam de responsável técnico (engenheiro ou arquiteto) para aprovação e emissão de alvará',
-          'Compra de imóvel — laudo de vistoria técnica antes de assinar o contrato evita comprar problemas escondidos por paredes e pintura nova',
-          'Financiamento bancário — bancos exigem ART, projeto aprovado e laudo do imóvel para liberar crédito de construção',
-          'Obra comercial ou industrial — qualquer edificação não residencial com uso público exige acompanhamento de engenheiro e emissão de ART'
+          'Construção do zero — projeto estrutural, fundações e acompanhamento são funções exclusivas de profissional habilitado; sem eles, a obra não tem respaldo legal nem garantia técnica',
+          'Reforma que interfere na estrutura — abertura de vãos, demolição de paredes, acréscimo de pavimento ou mudança de cobertura alteram esforços e pedem análise prévia',
+          'Terrenos desafiadores — encosta, solo arenoso, área alagável ou próximo ao mar exigem estudo geotécnico e fundação adequada',
+          'Sintomas visíveis — fissuras, trincas, recalques, armadura exposta ou lajes deformadas precisam de diagnóstico profissional antes de qualquer reparo',
+          'Aprovação na prefeitura — nenhum município aceita projeto de construção ou ampliação sem responsável técnico habilitado',
+          'Compra de imóvel — a vistoria técnica anterior à assinatura revela problemas que a visita de cinco minutos não mostra',
+          'Financiamento bancário — bancos exigem ART, projeto aprovado e documentação regular para liberar crédito',
+          'Obra comercial ou industrial — estabelecimentos que recebem público têm exigências de segurança e acessibilidade com responsabilidade técnica obrigatória'
         ]
+      },
+      {
+        type: 'heading',
+        text: 'Engenheiro civil, arquiteto ou construtor: quem faz o quê'
+      },
+      {
+        type: 'paragraph',
+        text: 'Uma das dúvidas mais comuns de quem começa a buscar um profissional é a divisão de papéis. Contratar o profissional errado para a tarefa certa gera retrabalho e até problema legal:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Arquiteto — concepção do projeto: layout, fachada, conforto, ventilação, estética e funcionalidade dos espaços. Registro no CAU',
+          'Engenheiro civil — estrutura, fundações, instalações, gestão de obra, laudos e aprovações técnicas. Registro no CREA',
+          'Construtora ou empreiteira — execução da obra contratada, sob responsabilidade técnica de um engenheiro que responde pelo canteiro',
+          'Mestre de obras e pedreiros — execução de serviços sob orientação técnica; nada do que exige cálculo ou responsabilidade legal pode ser decidido por eles'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Na prática, obras bem-sucedidas têm arquitetura e engenharia trabalhando juntas desde o papel — e um responsável técnico respondendo pela execução.'
       },
       {
         type: 'heading',
@@ -69,40 +1805,57 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'A busca online é o ponto de partida — mas encontrar o engenheiro certo vai além de clicar no primeiro resultado. Veja as formas mais confiáveis de localizar um profissional habilitado na sua região:'
+        text: 'A busca online é o ponto de partida, mas encontrar o profissional certo vai além de clicar no primeiro resultado. Use canais em combinação:'
       },
       {
         type: 'list',
         items: [
-          'CREA da sua região — o Conselho Regional de Engenharia e Agronomia mantém o cadastro atualizado de todos os profissionais e empresas de engenharia habilitados. Em Santa Catarina, é o CREA-SC (crea-sc.org.br): você pode confirmar se o profissional que você vai contratar tem registro ativo e sem restrições',
-          'Google Maps e buscas locais — pesquisar "engenheiro civil em [nome da cidade]" ou "empresa de engenharia em [cidade]" traz resultados georreferenciados com avaliações e fotos de obras',
-          'Indicação de quem já construiu — a recomendação de alguém que acompanhou o trabalho do engenheiro em uma obra semelhante à sua ainda é a referência mais valiosa',
-          'Portais especializados — plataformas como oHub e GetNinjas listam profissionais com avaliações de clientes anteriores e permitem solicitar orçamentos comparativos',
-          'Redes sociais e Instagram — escritórios de engenharia que documentam obras nas redes sociais mostram o resultado real do trabalho — e o volume e qualidade das obras executadas'
+          'CREA da sua região — o conselho mantém busca pública de todos os profissionais registrados; é a fonte oficial para confirmar habilitação',
+          'Google e buscas locais — pesquisar "engenheiro civil em [sua cidade]" traz escritórios com endereço, avaliações e portfólio; prefira quem aparece com conteúdo técnico próprio, sinal de domínio real',
+          'Indicação de quem já construiu — conversar com alguém que acompanhou o engenheiro em obra semelhante à sua é a referência mais confiável',
+          'Redes sociais — escritórios que documentam obras reais mostram resultado e método; perfil só com renderização e sem obra entregue pede cautela extra',
+          'Visitas a obras na região — perguntar na obra quem é o responsável técnico conecta você a profissionais ativos e testados no mercado local'
         ]
       },
       {
         type: 'heading',
-        text: 'O que verificar antes de contratar'
+        text: 'Checklist: o que verificar antes de contratar'
       },
       {
         type: 'paragraph',
-        text: 'Encontrar o profissional é o primeiro passo. Avaliá-lo é o segundo — e é onde muita gente atalha e acaba se arrependendo. Esses são os critérios que separam um engenheiro qualificado de um nome bonito no cartão:'
+        text: 'Encontrar candidatos é fácil; avaliá-los direito é o que separa uma boa contratação de um arrependimento. Antes de fechar, confirme item por item:'
       },
       {
         type: 'list',
         items: [
-          'Registro ativo no CREA — peça o número de registro e confirme no site do CREA regional. Um engenheiro sem registro ativo não pode emitir ART — e isso significa que a obra não tem respaldo legal',
-          'Especialidade — engenharia civil é ampla. Verifique se o profissional tem experiência com o tipo de serviço que você precisa: estrutural, residencial, comercial, laudo, regularização',
-          'Portfólio de obras similares — peça fotos ou referências de obras anteriores do mesmo porte e tipo. Um engenheiro experiente tem exemplos concretos para mostrar',
-          'Referências de clientes — conversar com quem já contratou o profissional é a forma mais direta de entender como é o trabalho no dia a dia, não só na entrega final',
-          'Clareza no contrato — o contrato deve especificar o escopo exato dos serviços, o cronograma, o valor, as formas de pagamento e a emissão da ART. Serviço sem contrato é risco de ambos os lados',
-          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser emitida no CREA e paga antes que qualquer serviço comece. Se o profissional adia ou evita o assunto, é sinal de alerta'
+          'Registro ativo no CREA — peça o número de registro e confira na consulta pública do conselho: situação ativa, titularidade e sem penalidades',
+          'Especialidade compatível — engenharia civil é ampla; quem faz laudo residencial pode não dominar galpão industrial, e vice-versa',
+          'Portfólio de obras similares — fotos, endereços e referências de trabalhos do mesmo porte e tipo do seu',
+          'Referências de clientes antigos — dois ou três contatos bastam para saber como o profissional lida com prazo, imprevisto e comunicação',
+          'Proposta com escopo detalhado — o que está incluído, quantas visitas, quantas revisões, o que gera custo adicional; proposta genérica é armadilha',
+          'Contrato formal — escopo, cronograma, valor, forma de pagamento e responsabilidades por escrito',
+          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve existir antes de qualquer serviço começar, não depois',
+          'Comunicação clara desde o primeiro contato — quem responde mal antes do contrato piora depois dele'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Sinais vermelhos: quando não contratar'
+      },
+      {
+        type: 'list',
+        items: [
+          'Não quer emitir ART ou sugere "deixar para depois" — responsabilidade técnica não é detalhe burocrático, é sua proteção legal',
+          'Promete aprovação garantida na prefeitura — nenhuma aprovação é garantida; promessa desse tamanho revela leviandade técnica',
+          'Orçamento muito abaixo do mercado sem justificativa — o barato reaparece como aditivo, retrabalho ou obra parada',
+          'Recusa-se a mostrar obras anteriores ou referências — quem tem bom histórico exibe',
+          'Trabalha sem contrato ou propõe combinar tudo informalmente — sem documento, não há o que cobrar nem onde reclamar',
+          'Registro no CREA inativo, suspenso ou em nome de terceiro — a responsabilidade precisa ser dele mesmo, formal e vigente'
         ]
       },
       {
         type: 'quote',
-        text: 'Um engenheiro que não emite ART não está praticando engenharia — está praticando informalidade. E quem paga o preço é o proprietário, não o profissional.'
+        text: 'Um engenheiro que não emite ART não está praticando engenharia — está praticando informalidade. E quem contrata informalidade assume sozinho todos os riscos.'
       },
       {
         type: 'heading',
@@ -110,16 +1863,16 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'Conhecimento local não é slogan: é vantagem técnica concreta. Um engenheiro que atua na sua cidade conhece variáveis que um profissional de fora precisaria semanas para aprender:'
+        text: 'Conhecimento local não é slogan de marketing: é vantagem técnica concreta. O profissional que atua diariamente na sua cidade domina variáveis que o de fora só descobriria errando:'
       },
       {
         type: 'list',
         items: [
-          'Código de obras e legislação urbanística local — cada município tem suas regras de recuos, gabarito, taxa de ocupação e aprovação de projetos. O engenheiro local já sabe o que a prefeitura exige e como tramitar o processo',
-          'Características do solo e subsolo — o tipo de solo da região define o tipo de fundação adequada. No litoral de Santa Catarina, solos argilosos, arenosos e com lençol freático alto são comuns e exigem fundações especializadas',
-          'Clima e agressividade ambiental — na faixa litorânea, a maresia e a umidade aceleram a corrosão de estruturas e materiais. O engenheiro local especifica materiais e revestimentos adequados para a realidade do litoral',
-          'Fornecedores e mão de obra local — a rede de relacionamentos do profissional com empreiteiras, fornecedores de materiais e mão de obra qualificada da região é parte do valor que ele entrega',
-          'Presença em obra — a proximidade física permite visitas mais frequentes ao canteiro, resposta rápida a imprevistos e fiscalização eficiente — o que muda radicalmente o resultado da obra'
+          'Legislação municipal — código de obras, recuos, gabarito, taxa de ocupação e exigências específicas de cada bairro ou zona',
+          'Comportamento do solo — o histórico geotécnico da região orienta a fundação certa antes mesmo da sondagem detalhar',
+          'Clima e agressividade ambiental — especificações de materiais e proteções adequadas à realidade de chuva, umidade e salinidade locais',
+          'Rede de fornecedores e executores — relacionamento com madeireiras, concreteiras e equipes confiáveis acelera obra e melhora preço',
+          'Presença física frequente — engenheiro perto visita mais, resolve imprevisto no dia e fiscaliza de verdade'
         ]
       },
       {
@@ -128,16 +1881,16 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'O litoral norte e central de Santa Catarina — que inclui cidades como Navegantes, Itajaí, Balneário Camboriú, Itapema, Piçarras e Barra Velha — tem um conjunto de especificidades que tornam o engenheiro local ainda mais relevante:'
+        text: 'No litoral norte catarinense — Navegantes, Itajaí, Balneário Camboriú, Itapema, Penha e região — o ambiente impõe condições próprias, e a experiência local vira critério de seleção ainda mais decisivo:'
       },
       {
         type: 'list',
         items: [
-          'Agressividade da maresia — a proximidade do mar classifica a região como Classe de Agressividade Ambiental III ou IV pela NBR 6118. Isso impõe requisitos específicos de cobrimento de armadura, resistência do concreto e impermeabilização que um projeto genérico não atende',
-          'Solo litorâneo — solos arenosos e com variação do lençol freático exigem estudo geotécnico antes da definição da fundação. Sapata rasa que funcionaria no interior pode afundar progressivamente na faixa costeira',
-          'Legislação de orla e APP — construções próximas ao mar envolvem restrições da SPU (Secretaria do Patrimônio da União), IMA/SC e dos planos diretores municipais. O engenheiro local conhece esses limites e como operar dentro deles',
-          'Crescimento e verticalização acelerados — Navegantes, Balneário Camboriú e Itapema estão entre os municípios que mais crescem no país, com demanda intensa por aprovação de projetos e regularização. O engenheiro com relacionamento na prefeitura local tem mais agilidade nesse processo',
-          'Temporada e obras sazonais — obras que precisam ser entregues antes da temporada de verão têm cronograma apertado que exige planejamento rigoroso e acompanhamento próximo'
+          'Agressividade da maresia — a faixa costeira é classificada como ambiente de agressividade forte à estrutura de concreto; cobrimentos, concreto e aço exigem especificação reforçada',
+          'Solo arenoso e lençol freático alto — fundações subdimensionadas geram recalques e trincas nos primeiros anos; sondagem nunca é opcional',
+          'Legislação de orla e áreas de preservação — construções próximas ao mar envolvem restrições federais, estaduais e municipais acumuladas',
+          'Verticalização acelerada — a pressão imobiliária da região multiplica obras simultâneas e disputa bons profissionais e insumos',
+          'Pressão da temporada — cronogramas que precisam vencer antes do verão exigem planejamento fino e gestão de obra competente'
         ]
       },
       {
@@ -146,22 +1899,22 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'É a pergunta que todo cliente faz primeiro — e a resposta depende do tipo e porte do serviço. O CREA estabelece honorários mínimos de referência, que servem como base, mas o mercado pratica variações conforme complexidade, localização e escopo. Valores de referência para os serviços mais comuns:'
+        text: 'Depende do tipo, porte e complexidade do serviço — e da régua de honorários do CREA estadual, que serve de referência. Faixas praticadas no mercado para dar ordem de grandeza:'
       },
       {
         type: 'list',
         items: [
-          'Projeto estrutural residencial — varia conforme a metragem e o tipo de estrutura; em geral, de R$ 15 a R$ 35 por m² de área projetada',
-          'Acompanhamento de obra (fiscalização) — percentual sobre o custo da obra, normalmente de 2% a 5%, ou valor fixo mensal conforme a frequência de visitas',
-          'Laudo técnico de imóvel — para vistoria e diagnóstico de patologias, de R$ 800 a R$ 3.000 conforme a área e a complexidade',
-          'Vistoria cautelar de vizinhança — de R$ 600 a R$ 2.000, dependendo da área e da quantidade de elementos vistoriados',
-          'Regularização de imóvel — varia muito com a situação documental; o estudo de viabilidade é o primeiro passo, normalmente entre R$ 500 e R$ 1.500',
-          'Consultoria técnica pontual — de R$ 300 a R$ 800 por hora, dependendo da especialidade e da complexidade do problema'
+          'Projeto estrutural residencial — geralmente cobrado por metro quadrado de construção, variando com o sistema estrutural e o nível de acabamento do projeto',
+          'Acompanhamento técnico de obra — percentual sobre o custo da construção, tipicamente entre 2% e 5%, ou valor fixo mensal',
+          'Laudo técnico de imóvel — varia com a área, a quantidade de manifestações e a necessidade de ensaios complementares',
+          'Vistoria cautelar de vizinhança — depende do porte da obra vizinha e da extensão dos elementos documentados',
+          'Regularização de imóvel — função direta da situação documental; começa sempre pelo estudo de viabilidade',
+          'Consultoria pontual — cobrança por hora ou por pacote de reuniões, conforme a especialidade envolvida'
         ]
       },
       {
         type: 'paragraph',
-        text: 'O maior erro ao comparar preços é comparar apenas números, sem comparar o que está incluído. Um projeto estrutural mais caro que inclui visitas em obra, compatibilização com os demais projetos e suporte ao longo da execução costuma custar menos que o barato que gera retrabalho. Peça orçamentos detalhados — e leia o que cada item cobre.'
+        text: 'O maior erro ao comparar preços é comparar só números sem olhar o que está incluído. Uma proposta mais cara que contempla projetos complementares integrados, número definido de visitas e revisões incluídas pode sair mais barata no fim do que a proposta mínima que cobra cada item como adicional. Peça sempre o escopo junto com o valor.'
       },
       {
         type: 'heading',
@@ -169,16 +1922,16 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'A Anotação de Responsabilidade Técnica (ART) é o documento emitido pelo engenheiro no CREA que formaliza a responsabilidade técnica pelo serviço. É obrigatória para qualquer serviço de engenharia no Brasil — e quem se beneficia dela é o proprietário, não o engenheiro. Com a ART:'
+        text: 'A Anotação de Responsabilidade Técnica é o registro no CREA que vincula formalmente o profissional ao serviço executado. Para o contratante, ela significa:'
       },
       {
         type: 'list',
         items: [
-          'Você tem respaldo legal — a obra tem um responsável técnico identificado e habilitado, o que é exigido para aprovação de projetos, habite-se, financiamento e registro em cartório',
-          'O profissional assume responsabilidade formal — em caso de falha técnica, a ART é a base do direito do proprietário de exigir a correção ou indenização',
-          'A obra pode ser aprovada na prefeitura — projetos sem ART não são aceitos pelo setor de obras de nenhuma prefeitura do país',
-          'Você evita autuação — obras sem responsável técnico identificado estão sujeitas a embargo pelo CREA e multas por parte da prefeitura',
-          'O imóvel pode ser financiado e registrado — bancos e cartórios exigem a regularidade técnica da construção para liberação de crédito e averbação'
+          'Respaldo legal — a obra tem responsável técnico identificado e habilitado, condição para aprovações, financiamentos e registros em cartório',
+          'Direito de regresso — em caso de falha técnica comprovada, a ART é a base para acionar o profissional e o seguro de responsabilidade',
+          'Aprovação possível — prefeitura nenhuma aceita projeto sem ART; obra sem documento empaca na primeira exigência',
+          'Proteção contra autuação — obras sem responsável técnico estão sujeitas a embargo do CREA e multa',
+          'Valorização do imóvel — construção regularizada com ART vale mais e é vendida com menos atrito'
         ]
       },
       {
@@ -187,31 +1940,43 @@ export const blogPosts = [
       },
       {
         type: 'paragraph',
-        text: 'Posso contratar engenheiro para obra pequena? Sim. Reformas que parecem simples — como abertura de vão, troca de escada, alteração de banheiro — podem ter implicações estruturais que o pedreiro não tem condição de avaliar. A consulta técnica pontual, mesmo para uma orientação, é mais barata do que corrigir o erro depois.'
+        text: 'Posso contratar engenheiro civil para obra pequena? Sim. Reformas que parecem simples — abertura de vão, troca de escada, acréscimo de laje — mexem com esforços da estrutura. O custo do acompanhamento é pequeno perto do prejuízo de uma reforma mal dimensionada.'
       },
       {
         type: 'paragraph',
-        text: 'Engenheiro ou arquiteto: qual contratar? Para obras onde o projeto estrutural e de fundações é o foco — casas com estrutura complexa, edifícios, obras em terrenos difíceis —, o engenheiro civil é o profissional indicado. Para obras onde o partido arquitetônico e os ambientes são a prioridade, o arquiteto lidera — e quando a obra tem estrutura relevante, ele conta com o engenheiro calculista. Para projetos completos, as duas especialidades se complementam.'
+        text: 'Engenheiro ou arquiteto: qual contratar? Os dois, quando a obra é completa. Arquiteto cuida da concepção e dos espaços; engenheiro civil responde por estrutura, instalações e execução. Em obras simples, o engenheiro civil pode assumir também a coordenação geral do projeto.'
       },
       {
         type: 'paragraph',
-        text: 'Preciso de engenheiro para construção com mão de obra própria? Sim. A presença de mão de obra familiar ou informal não elimina a necessidade do projeto e da responsabilidade técnica. O engenheiro projeta, o pedreiro executa — e o projeto é o que garante que a execução será segura.'
+        text: 'Como verifico se o engenheiro é mesmo registrado? Peça o número de registro e consulte no site do CREA regional, na área de consulta pública. Verifique se a situação está ativa e se a modalidade corresponde à engenharia civil. Leva dois minutos e elimina o maior risco da contratação.'
       },
       {
         type: 'paragraph',
-        text: 'O engenheiro pode ser de outra cidade? Pode — desde que conheça a legislação local e tenha como estar presente nas visitas necessárias. Mas para obras com acompanhamento frequente, o engenheiro local tem vantagem prática e de custo.'
+        text: 'Preciso de engenheiro se vou construir com mão de obra própria? Sim. Mão de obra familiar ou informal não substitui responsabilidade técnica: sem projeto e acompanhamento, a obra fica irregular, sem acesso a financiamento e com risco estrutural inteiramente nas suas costas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro pode ser de outra cidade? Pode — desde que conheça a legislação local e tenha disponibilidade real de presença em obra. Na prática, a distância costuma encarecer visitas e atrasar decisões; por isso a busca por um profissional "perto de mim" faz sentido técnico, não só prático.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo antes de começar a obra devo contratar? Idealmente na fase do terreno: a consultoria inicial avalia viabilidade, restrições e custos antes da compra. Se o terreno já existe, o engenheiro entra na definição do partido e dos projetos — nunca depois do projeto fechado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O que acontece se eu construir sem engenheiro? Além do risco estrutural sem responsável, a obra fica irregular: sem alvará, sem habite-se, sem averbação. Consequências práticas: multas, embargo, impossibilidade de financiar, vender com escritura plena ou receber indenização de seguro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Empresa de engenharia ou profissional autônomo? O autônomo atende bem demandas pontuais e especializadas. Quando o serviço atravessa várias fases — projeto, aprovação, obra e laudos —, a empresa oferece equipe multidisciplinar, continuidade garantida e responsabilidade formal estabelecida em contrato.'
       },
       {
         type: 'heading',
-        text: 'Engenheiro civil em Navegantes e no litoral de Santa Catarina'
+        text: 'Engenheiro civil perto de mim: a resposta em Navegantes é a Regê Engenharia'
       },
       {
         type: 'paragraph',
-        text: 'Se você está buscando um engenheiro civil para obra, reforma, laudo, regularização ou consultoria no litoral de Santa Catarina — Navegantes, Itajaí, Balneário Camboriú, Itapema, Piçarras ou região —, a Regê Engenharia atua com equipe local, registro ativo no CREA-SC e portfólio de obras concluídas no litoral norte catarinense.'
-      },
-      {
-        type: 'paragraph',
-        text: 'Trabalhamos com projetos estruturais, acompanhamento de obras residenciais e comerciais, laudos técnicos, vistorias, regularização de imóveis e consultoria técnica. Conhecemos a legislação dos municípios da região, as especificidades do solo litorâneo e os requisitos de durabilidade para o ambiente de maresia. Se você digitou "engenheiro civil perto de mim" e chegou até aqui, a próxima etapa é simples: fale com nossa equipe e descreva o que você precisa. A conversa inicial não tem custo — e costuma resolver muita dúvida antes de qualquer decisão.'
+        text: 'Se a sua busca por engenheiro civil é em Navegantes ou em qualquer cidade do litoral de Santa Catarina, a Regê Engenharia reúne tudo o que este guia recomendou verificar: equipe multidisciplinar com registro ativo no CREA-SC, portfólio de obras residenciais, comerciais e industriais entregues na região, ART em todos os serviços e presença local de verdade — com escritório na cidade e engenheiros que conhecem o solo, a legislação e o ritmo do litoral. Fale com nossa equipe e transforme a sua busca em obra segura, legal e dentro do orçamento.'
       }
     ]
   },
@@ -34573,247 +36338,6 @@ export const blogPosts = [
     ]
   },
   {
-    slug: 'alvara-de-construcao-itajai',
-    title: 'Alvará de Construção em Itajaí SC: Documentos, Processo e Prazos Atualizados',
-    tag: 'DOCUMENTAÇÃO',
-    image: '/images/obra-residencial.png',
-    imageAlt: 'Documentação de aprovação de projeto e alvará de construção em Itajaí SC sobre mesa de escritório de engenharia — projeto aprovado com ART no CREA-SC.',
-    excerpt: 'Construir em Itajaí sem alvará é irregularidade que gera multa, embargo e impede habite-se e financiamento. Saiba quais documentos a Prefeitura de Itajaí exige, como funciona o passo a passo do processo e quanto tempo leva para emitir o alvará.',
-    readTime: '9 min de leitura',
-    featured: false,
-    content: [
-      {
-        type: 'paragraph',
-        text: 'Itajaí é uma das cidades que mais crescem no litoral catarinense. Com o Porto de Itajaí, o polo logístico, a zona industrial e a valorização residencial dos bairros da orla e do centro, a demanda por construção civil não para de aumentar. Mas antes de qualquer fundação ser executada, existe um passo que não pode ser pulado: o alvará de construção.'
-      },
-      {
-        type: 'paragraph',
-        text: 'Construir sem alvará em Itajaí é infração urbanística que pode resultar em multa, embargo da obra e, no futuro, impedir a venda, o financiamento e a regularização do imóvel. Este guia explica o que é o alvará de construção, por que ele é obrigatório, quais documentos a Prefeitura de Itajaí exige, como funciona o processo passo a passo e quanto tempo leva.'
-      },
-      {
-        type: 'heading',
-        text: 'O que é o alvará de construção?'
-      },
-      {
-        type: 'paragraph',
-        text: 'O alvará de construção é a licença oficial emitida pela Prefeitura de Itajaí que autoriza a execução de uma obra em um endereço específico. Ele atesta que o projeto foi analisado e está em conformidade com a legislação urbanística municipal — plano diretor, zoneamento, recuos, taxa de ocupação, altura e demais normas.'
-      },
-      {
-        type: 'paragraph',
-        text: 'Na prática, o alvará é o "sinal verde" legal para construir. Ele é vinculado ao projeto aprovado: a obra deve ser executada exatamente conforme o que foi licenciado. Qualquer alteração significativa — ampliação, mudança de uso, alteração de fachada — exige novo pedido ou aditivo de licença.'
-      },
-      {
-        type: 'heading',
-        text: 'Por que o alvará é obrigatório em Itajaí'
-      },
-      {
-        type: 'paragraph',
-        text: 'A obrigatoriedade do alvará existe para proteger a cidade e o proprietário. O licenciamento garante que:'
-      },
-      {
-        type: 'list',
-        items: [
-          'A obra respeita o zoneamento e o plano diretor de Itajaí',
-          'Os recuos e afastamentos legais estão preservados',
-          'A construção não invade área de risco, APP (área de preservação permanente) ou faixa de domínio',
-          'Existe responsabilidade técnica (ART) sobre o projeto e a execução',
-          'A obra pode ser vistoriada e, ao final, receber o habite-se'
-        ]
-      },
-      {
-        type: 'paragraph',
-        text: 'Construir sem alvará sujeita o proprietário a multas que podem chegar a 10 UFMs (mais de R$ 50.000), embargo da obra e impossibilidade de obter o habite-se — o que trava financiamento, venda e averbação do imóvel no cartório.'
-      },
-      {
-        type: 'quote',
-        text: 'O alvará é o passaporte da sua obra em Itajaí: sem ele, o imóvel não nasce legalmente — e todo o investimento fica à margem da lei.'
-      },
-      {
-        type: 'heading',
-        text: 'Documentos exigidos pela Prefeitura de Itajaí'
-      },
-      {
-        type: 'paragraph',
-        text: 'O pedido de alvará de construção em Itajaí exige uma série de documentos. A relação pode variar conforme o porte da obra e as atualizações da legislação municipal, mas a base costuma ser:'
-      },
-      {
-        type: 'list',
-        items: [
-          'Requerimento padrão do setor de licenciamento da Prefeitura de Itajaí',
-          'Matrícula atualizada do imóvel (certidão do cartório de registro de imóveis)',
-          'Certidão negativa de débitos municipais (IPTU em dia)',
-          'Projeto arquitetônico aprovado com carimbo da Prefeitura',
-          'Projetos complementares — estrutural, elétrico, hidrossanitário — quando exigidos pelo porte da obra',
-          'ART (Anotação de Responsabilidade Técnica) do projeto e da execução, emitida pelo CREA-SC',
-          'Anuência do Corpo de Bombeiros para uso específico (comercial, industrial, múltiplas unidades)',
-          'Comprovante de responsabilidade pela obra e dados do responsável técnico'
-        ]
-      },
-      {
-        type: 'paragraph',
-        text: 'Para obras maiores ou em áreas específicas, podem ser exigidos ainda: estudo de impacto de vizinhança, anuências ambientais (se próximo a baía, rio ou mangue), licença do Corpo de Bombeiros e outras certidões setoriais.'
-      },
-      {
-        type: 'heading',
-        text: 'Passo a passo para obter o alvará em Itajaí'
-      },
-      {
-        type: 'list',
-        items: [
-          '1. Contrate o projeto — o projeto arquitetônico deve ser desenvolvido conforme a legislação municipal de Itajaí, de preferência por profissional que conheça as regras do zoneamento local',
-          '2. Aprove o projeto na Prefeitura — o projeto é protocolado, analisado pela equipe técnica e aprovado; eventuais ajustes são solicitados durante a análise',
-          '3. Reúna a documentação — matrícula, certidões, ARTs e demais documentos exigidos pela legislação vigente',
-          '4. Protocolize o pedido de alvará — com o projeto aprovado e a documentação completa, o pedido é protocolado no setor de licenciamento',
-          '5. Pague as taxas — taxas municipais de licença e expediente, conforme a tabela vigente',
-          '6. Aguarde a análise — a Prefeitura analisa o pedido e pode solicitar complementações ou esclarecimentos',
-          '7. Receba o alvará — emitido, o alvará autoriza o início da obra dentro do prazo estabelecido'
-        ]
-      },
-      {
-        type: 'heading',
-        text: 'Quanto tempo demora o alvará em Itajaí?'
-      },
-      {
-        type: 'paragraph',
-        text: 'O prazo para emissão do alvará de construção em Itajaí varia conforme a complexidade da obra e a completude da documentação. Em média:'
-      },
-      {
-        type: 'list',
-        items: [
-          'Projeto arquitetônico — 15 a 45 dias, dependendo do porte e complexidade',
-          'Aprovação do projeto na Prefeitura — 15 a 30 dias para análise inicial; períodos de complementação somam mais 10 a 20 dias',
-          'Emissão do alvará — 5 a 15 dias após projeto aprovado e documentação completa',
-          'Prazo total estimado — 35 a 90 dias para obras residenciais de pequeno porte; 60 a 120 dias para obras comerciais ou maiores'
-        ]
-      },
-      {
-        type: 'paragraph',
-        text: 'O segredo para acelerar o processo: projeto completo desde o início, sem pendências técnicas, e documentação organizada. Itajaí, como outras cidades do litoral, tem demanda alta de pedidos — e projeto incompleto é a causa número um de atraso.'
-      },
-      {
-        type: 'heading',
-        text: 'Quanto custa o alvará de construção em Itajaí?'
-      },
-      {
-        type: 'paragraph',
-        text: 'O custo do alvará em Itajaí depende de vários fatores:'
-      },
-      {
-        type: 'list',
-        items: [
-          'Taxas de licenciamento — valor proporcional ao custo total da obra e ao tipo de uso',
-          'Taxa de expediente — cobrada pela análise do projeto e emissão do documento',
-          'Custos indiretos — projeto arquitetônico e complementares, ART, certidões e eventuais anuências',
-          'Custos variáveis — obras em áreas específicas (orla, zona portuária, área de proteção) podem exigir estudos adicionais'
-        ]
-      },
-      {
-        type: 'paragraph',
-        text: 'É importante considerar que o custo do alvará é relativamente pequeno comparado ao custo de construir sem ele: multas de até R$ 50.000, custo de regularização retrospectiva (sempre mais alto) e perda de valor do imóvel.'
-      },
-      {
-        type: 'heading',
-        text: 'Riscos de construir sem alvará em Itajaí'
-      },
-      {
-        type: 'paragraph',
-        text: 'Construir sem alvará de construção em Itajaí é uma infração urbanística grave. As consequências práticas:'
-      },
-      {
-        type: 'list',
-        items: [
-          'Multa — valores que podem ultrapassar R$ 50.000 (10 UFMs), dependendo do porte da obra e do tempo sem licença',
-          'Embargo da obra — a fiscalização pode paralisar qualquer serviço no terreno, inclusive demolição e limpeza',
-          'Impossibilidade de habite-se — sem alvará, o habite-se não é emitido, e o imóvel permanece irregular',
-          'Dificuldade de financiamento — bancos exigem alvará e habite-se para liberar crédito',
-          'Impedimento de venda — imóvel sem documentação regular perde valor e encontra barreiras na venda',
-          'Risco de demolição — em casos extremos, a prefeitura pode determinar a demolição judicial da construção irregular'
-        ]
-      },
-      {
-        type: 'paragraph',
-        text: 'Uma obra sem alvará em Itajaí pode render multa diária de R$ 500 — e a prefeitura não para de cobrar até a obra ser legalizada ou demolida.'
-      },
-      {
-        type: 'heading',
-        text: 'Alvará de construção para diferentes tipos de obra em Itajaí'
-      },
-      {
-        type: 'paragraph',
-        text: 'Itajaí tem zonas diversas — da orla residencial ao polo logístico, do centro ao Distrito Industrial — e cada tipo de obra pode ter exigências adicionais:'
-      },
-      {
-        type: 'list',
-        items: [
-          'Residencial unifamiliar — alvará padrão com projeto arquitetônico, estrutural e ART; Corpo de Bombeiros geralmente não é exigido para moradia única',
-          'Residencial multifamiliar — exige projeto estrutural completo, anuência do Corpo de Bombeiros, impacto de vizinhança para condomínios altos e vaga de garagem conforme código de obras',
-          'Comercial — alvará com anuência do Corpo de Bombeiros, compatibilidade de uso com zoneamento e, em alguns casos, estudo de impacto ambiental',
-          'Industrial — licenciamento mais rigoroso, envolvendo Prefeitura, IBAMA e órgãos ambientais estaduais; alvará vinculado a licença de operação',
-          'Reforma — depende do porte: reformas sem alteração de área ou estrutura podem não exigir alvará, mas reformas com ampliação, mudança de uso ou alteração de fachada precisam de licença'
-        ]
-      },
-      {
-        type: 'heading',
-        text: 'Alvará de construção na zona portuária e industrial de Itajaí'
-      },
-      {
-        type: 'paragraph',
-        text: 'A zona portuária e o polo logístico de Itajaí têm regras próprias. Obras nessa área precisam de licenciamento que envolve não apenas a Prefeitura, mas também órgãos estaduais e federais — especialmente quando há interferência em área de mangue, baía ou zona de proteção ambiental.'
-      },
-      {
-        type: 'paragraph',
-        text: 'O alvará nessa região pode exigir: estudo de impacto ambiental, licença prévia do IBAMA ou da FEMA (Fundação Estadual do Meio Ambiente), anuência do porto e compatibilidade com o zoneamento industrial. É fundamental contar com engenheiro que conheça as particularidades do licenciamento portuário.'
-      },
-      {
-        type: 'heading',
-        text: 'Perguntas frequentes sobre alvará de construção em Itajaí'
-      },
-      {
-        type: 'paragraph',
-        text: 'Preciso de alvará para reforma em Itajaí? Depende do porte. Reformas simples, sem alteração estrutural e sem aumento de área, geralmente não exigem alvará — mas é fundamental confirmar no setor de licenciamento da Prefeitura antes de começar. Reformas com alteração de estrutura, área ou uso exigem.'
-      },
-      {
-        type: 'paragraph',
-        text: 'Quanto custa o alvará de construção em Itajaí? O valor varia conforme o porte da obra e a tabela de taxas do município. Consulte a Prefeitura de Itajaí para a tabela vigente.'
-      },
-      {
-        type: 'paragraph',
-        text: 'Posso começar a obra antes de receber o alvará? Não. Qualquer serviço no terreno antes da emissão do alvará — incluindo limpeza, locação e fundação — pode ser autuado como obra irregular.'
-      },
-      {
-        type: 'paragraph',
-        text: 'O alvará de construção tem validade? Sim, costuma ter prazo de validade para início e conclusão da obra. Se o prazo expirar, é preciso renovar ou revalidar a licença junto à Prefeitura.'
-      },
-      {
-        type: 'paragraph',
-        text: 'Quem faz o processo do alvará em Itajaí? A Regê Engenharia cuida de todo o processo: projeto, aprovação na Prefeitura, documentação e alvará — você acompanha tudo sem enfrentar a burocracia sozinho.'
-      },
-      {
-        type: 'heading',
-        text: 'Tire o alvará da sua obra com a Regê Engenharia'
-      },
-      {
-        type: 'paragraph',
-        text: 'A Regê Engenharia atua em Itajaí com experiência em projetos e aprovação de obras residenciais, comerciais e industriais. Conhecemos as exigências da Prefeitura de Itajaí, o zoneamento municipal, as particularidades da zona portuária e do Distrito Industrial — e cuidamos de toda a documentação para você obter o alvará sem burocracia.'
-      },
-      {
-        type: 'list',
-        items: [
-          'Projeto arquitetônico e complementares conforme legislação de Itajaí',
-          'Aprovação do projeto na Prefeitura com acompanhamento completo',
-          'Elaboração e registro de ART no CREA-SC',
-          'Documentação completa: matrícula, certidões, anuências e demais exigências',
-          'Acompanhamento do processo até a emissão do alvará',
-          'Assistência para habite-se e regularização final do imóvel'
-        ]
-      },
-      {
-        type: 'paragraph',
-        text: 'Entre em contato com a Regê Engenharia e solicite um relatório de conformidade técnica para seu imóvel. Não deixe a falta de documentação comprometer a segurança, a valorização e a legalidade do seu patrimônio.'
-      }
-    ]
-  },
-  {
     slug: 'habite-se-em-penha',
     title: 'Habite-se em Penha: Como Obter o Certificado de Conformidade do seu Imóvel',
     tag: 'ENGENHARIA',
@@ -39935,5 +41459,12531 @@ export const blogPosts = [
         text: 'Se você está construindo, reformando ou precisa renovar o AVCB do seu imóvel, entre em contato com a Regê Engenharia. Vamos dimensionar os sistemas de prevenção corretos, elaborar o projeto e garantir que sua edificação esteja segura e legal — porque segurança contra incêndio não é custo, é investimento.'
       }
     ]
+  },
+  {
+    slug: 'emissao-habite-se-navegantes',
+    title: 'Emissão de Habite-Se em Navegantes: O Que Exigir do Engenheiro e Arquiteto',
+    tag: 'LEGISLAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Engenheiro e arquiteto em vistoria técnica para emissão de habite-se em Navegantes SC, com ART no CREA-SC e RRT no CAU.',
+    excerpt: 'O habite-se é o documento que libera sua obra para uso e valoriza seu imóvel em Navegantes. Saiba o que é, quem emite, quais os documentos exigidos e, principalmente, o que exigir do engenheiro e do arquiteto para não ter surpresas na Prefeitura.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A obra terminou, o imóvel está pronto, mas falta um papel que pode travar tudo: o habite-se. Em Navegantes, como em qualquer cidade brasileira, a edificação só pode ser ocupada e utilizada regularmente após a emissão do certificado de conclusão pelo município. Sem ele, a casa não pode ser habitada, o imóvel não se vende com segurança, o financiamento trava e os órgãos de utilidade pública podem recusar a ligação definitiva de água, esgoto e energia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra como funciona a emissão de habite-se em Navegantes, o que a Prefeitura exige e, acima de tudo, o que você deve exigir do engenheiro civil e do arquiteto responsáveis — desde a ART e o RRT até a compatibilização dos projetos e a vistoria final — para que o documento saia sem retrabalho, multa ou atraso.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o habite-se e por que ele existe'
+      },
+      {
+        type: 'paragraph',
+        text: 'O habite-se — chamado tecnicamente de certidão de conclusão de obra ou auto de conclusão — é o documento emitido pela Prefeitura de Navegantes que atesta que a edificação foi construída conforme o projeto aprovado e atende às exigências de segurança, estrutura, incêndio e saneamento. Ele é a "carteira de identidade" da obra perante o município.'
+      },
+      {
+        type: 'list',
+        items: [
+          'É a prova de que a construção seguiu o alvará e o projeto aprovado',
+          'É o que libera a ocupação e o uso do imóvel de forma legal',
+          'É a base para a averbação da construção na matrícula do imóvel (Cartório de Registro de Imóveis)',
+          'É requisito para ligações definitivas de água, esgoto e energia e para financiamento bancário',
+          'É o que garante ao comprador que o imóvel é regular e seguro'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O habite-se não é burocracia — é o documento que transforma uma obra em patrimônio regular, habitável e vendável.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que o habite-se é obrigatório (e o que ele destrava)'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Lei Federal nº 4.591/1964 e as normas de edificações de Navegantes condicionam o uso da edificação à sua conclusão regular. Na prática, o habite-se destrava uma cadeia de etapas que só acontecem depois dele:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Ocupação legal — morar, alugar ou usar o imóvel sem habite-se é infração urbanística e pode gerar embargo e multa',
+          'Averbação no cartório — a nova área construída só entra para a matrícula do imóvel após o habite-se, reconhecendo o patrimônio no papel',
+          'Financiamento e FGTS — bancos exigem o habite-se (ou protocolo de regularização) para liberar crédito de construção ou compra',
+          'Ligações definitivas — CASAN (água e esgoto) e Celesc (energia) em geral exigem a conclusão regular para a ligação definitiva, e não apenas a provisória',
+          'Valor de revenda — imóvel com habite-se vale mais e vende mais rápido, porque o comprador herda um bem documentado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem emite o habite-se em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'A competência é da Prefeitura de Navegantes, normalmente através da Secretaria de Planejamento, Urbanismo ou do setor de Fiscalização de Obras. O fluxo costuma ser: a equipe técnica do município faz a vistoria de conclusão, confere se a obra bate com o projeto aprovado e com as exigências de bombeiros e saneamento, e, se estiver tudo em dia, emite a certidão. Antes disso, porém, outros órgãos precisam dar o aval.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Corpo de Bombeiros de SC — emissão do AVCB (Auto de Vistoria do Corpo de Bombeiros) ou do CLCB para edificações que exijam aprovação de prevenção a incêndio',
+          'CASAN — comprovação de ligação de água e esgoto conforme o projeto sanitário aprovado',
+          'Celesc — comprovação de ligação de energia elétrica conforme o projeto elétrico aprovado',
+          'INSS — em muitos casos, a regularidade da obra perante o INSS (GFIP/acc e a respectiva certidão) integra o processo de conclusão',
+          'CREA-SC e CAU — registros das responsabilidades técnicas (ART do engenheiro e RRT do arquiteto) devem estar ativos e vinculados à obra'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O detalhamento exato dos documentos e da ordem de apresentação varia conforme o porte e o uso da edificação. Por isso, o estudo de viabilidade e o acompanhamento junto ao município desde o projeto são o que evitam surpresas na hora da vistoria final.'
+      },
+      {
+        type: 'heading',
+        text: 'Habite-se provisório e definitivo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em algumas situações, a Prefeitura de Navegantes pode expedir um habite-se provisório (ou conclusão parcial) quando faltam apenas ajustes menores ou condicionantes de órgãos auxiliares, reservando a conclusão definitiva para depois de cumpridas essas etapas. Para imóveis residenciais comuns, a regra é buscar a conclusão definitiva de uma vez, apresentando toda a documentação antes da vistoria. O ponto importante: provisório algum substitui a regularização completa, e a obra irregular continua passível de autuação até o documento definitivo sair.'
+      },
+      {
+        type: 'heading',
+        text: 'O papel do engenheiro e do arquiteto nesse processo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Muita gente acha que o habite-se é "o papel do empreiteiro". Não é. Ele é o resultado do trabalho técnico de dois profissionais com responsabilidades distintas e complementares, ambos com registro em conselho:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro civil (CREA-SC) — responde pelo projeto estrutural, fundações, instalações e pela execução da obra; sua ART vincula tecnicamente toda a obra ao profissional',
+          'Arquiteto e urbanista (CAU/BR) — responde pelo projeto arquitetônico, o partido e os ambientes da edificação; seu RRT vincula o desenho aprovado à obra executada',
+          'Compatibilização — quando a obra tem relevância estrutural, os dois atuam juntos: o arquiteto desenha, o engenheiro calcula e ambos garantem que o que foi aprovado é o que foi construído'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Sem ART do engenheiro e RRT do arquiteto ativos, a Prefeitura nem abre o processo de habite-se. Responsabilidade técnica não é formalidade — é a porta de entrada do documento.'
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do engenheiro civil'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro é o profissional que sustenta a regularidade técnica da obra. Antes de contratar e durante a execução, exija dele:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — confirme o número de registro no site do conselho; engenheiro sem registro não pode emitir ART',
+          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada no CREA e paga antes de qualquer serviço; sem ART não há aprovação nem habite-se',
+          'Projeto estrutural assinado — cálculo de fundações, vigas, lajes e pilares, compatível com o solo de Navegantes (arenoso, com lençol freático elevado)',
+          'Projetos complementares — hidráulico, elétrico, de fundações e de contenção, todos compatibilizados com o arquitetônico',
+          'Acompanhamento de obra — visitas e medições registradas, com laudos que comprovem que a execução seguiu o projeto',
+          'ART de conclusão — ao final, o engenheiro deve emitir a ART de execução de obra concluída, vinculada à edificação',
+          'Suporte na vistoria — o engenheiro deve acompanhar (ou autorizar tecnicamente) a vistoria de conclusão na Prefeitura'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do arquiteto'
+      },
+      {
+        type: 'paragraph',
+        text: 'O arquiteto é quem garante que o que foi aprovado na Prefeitura é exatamente o que foi construído. Exija:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CAU/BR — a regularidade do arquiteto é verificável no site do conselho de arquitetura',
+          'RRT emitido — o Registro de Responsabilidade Técnica substitui a antiga "anotação" e vincula o arquiteto ao projeto aprovado e à obra',
+          'Projeto arquitetônico aprovado — plantas, cortes e fachadas que atendam ao código de obras e ao zoneamento de Navegantes (recuos, gabarito, taxa de ocupação)',
+          'Compatibilização com a engenharia — o desenho deve casar com a estrutura e as instalações, sem divergência entre o aprovado e o executado',
+          'Atualização de projeto — se houve mudança na obra, o arquiteto deve registrar a alteração e obter a aprovação da alteração antes da conclusão',
+          'Prontuário para vistoria — o arquiteto deve entregar o conjunto de documentos (planta de situação, memorial, quadro de áreas) que a Prefeitura confere na vistoria'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Documentos que a Prefeitura de Navegantes vai exigir'
+      },
+      {
+        type: 'paragraph',
+        text: 'Embora a lista final seja definida pelo município conforme o caso, este é o conjunto típico apresentado para a emissão do habite-se:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Requerimento de conclusão de obra assinado pelo proprietário e pelos responsáveis técnicos',
+          'Cópia do alvará de construção e do projeto aprovado',
+          'ART do engenheiro civil (execução e, quando aplicável, conclusão) registrada no CREA-SC',
+          'RRT do arquiteto registrado no CAU/BR',
+          'AVCB ou CLCB do Corpo de Bombeiros de SC (quando exigível)',
+          'Comprovação de ligação de água e esgoto (CASAN) e de energia (Celesc)',
+          'Certidão de regularidade do INSS da obra, quando aplicável',
+          'Memorial descritivo, quadro de áreas e planta de situação atualizados'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que atrasam (ou impedem) o habite-se'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obra diferente do projeto aprovado — qualquer alteração não autorizada gera exigência e retrabalho na vistoria',
+          'ART ou RRT faltando — sem as responsabilidades técnicas ativas, o processo nem inicia',
+          'Pendência de bombeiros ou saneamento — a falta do AVCB ou da ligação da CASAN/Celesc trava a conclusão',
+          'Recuos e gabarito descumpridos — a edificação fora do zoneamento é embargada e precisa de regularização específica',
+          'Impermeabilização e acessibilidade fora da norma — itens cada vez mais exigidos nas vistorias e que geram retorno de processo',
+          'Aprovação de alteração em cima da obra pronta — mudar o projeto depois de construir é mais caro e demorado que fazê-lo antes'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A maior causa de habite-se negado em Navegantes não é a burocracia — é a divergência entre o que foi aprovado e o que foi construído.'
+      },
+      {
+        type: 'heading',
+        text: 'Checklist: o que pedir antes de assinar o contrato'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC (engenheiro) e no CAU/BR (arquiteto)',
+          'ART e RRT previstos em contrato, com emissão antes do início e na conclusão',
+          'Escopo claro: projeto aprovado, execução e acompanhamento até o habite-se',
+          'Responsabilidade pela aprovação e pela vistoria de conclusão na Prefeitura',
+          'Prazo e custo do processo de regularização inclusos ou explicitados',
+          'Garantia de que o executado será idêntico ao aprovado, evitando retrabalho'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre habite-se em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso ocupar o imóvel sem habite-se? Não. A ocupação sem o certificado de conclusão é irregular e sujeita a embargo e multa pela Prefeitura. O imóvel também fica indisponível para financiamento e para a averbação no cartório.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem paga o habite-se, o engenheiro ou o proprietário? A taxa de expediente é do proprietário, mas a responsabilidade de entregar a obra regular e os documentos técnicos é dos profissiones contratados. Por isso o contrato deve deixar claro quem conduz o processo de conclusão.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro e o arquiteto podem ser os mesmos da aprovação? Sim. Na maioria dos casos, os responsáveis pelo projeto são os mesmos pela execução e pela conclusão, o que evita divergências entre aprovado e executado. O importante é que as ARTs e RRTs estejam ativas e vinculadas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'E se a obra já foi entregue sem habite-se? É possível regularizar. O caminho é contratar engenheiro e arquiteto para levantar a edificação, emitir as responsabilidades técnicas, adequar o que divergir do projeto e protocolar a conclusão. Quanto mais tempo passa, maior o risco de autuação e mais cara a regularização.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo demora a emissão? Depende do volume de processos na Prefeitura e da organização da documentação. Obras com projeto aprovado, responsabilidades técnicas ativas e os órgãos auxiliares em dia costumam concluir mais rápido. O atraso quase sempre vem de documento faltando, não do município.'
+      },
+      {
+        type: 'heading',
+        text: 'Emissão de habite-se com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos, execução e regularização de obras. Cuidamos de toda a cadeia do habite-se: projeto arquitetônico e estrutural aprovados, ART no CREA-SC e RRT no CAU/BR ativos, compatibilização dos projetos, acompanhamento de obra e condução do processo de conclusão junto à Prefeitura de Navegantes.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você está construindo, reformando ou precisa regularizar uma obra sem habite-se em Navegantes, fale com nossa equipe. A partir do primeiro contato, mostramos o que é exigido, organizamos a documentação e conduzimos sua obra até o certificado de conclusão — para que seu imóvel seja seguro, legal e valorizado desde o primeiro dia de uso.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-arquitetonico-vs-estrutural-navegantes',
+    title: 'Projeto Arquitetônico vs. Projeto Estrutural: Qual a Diferença na Aprovação em Navegantes?',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Planta de projeto arquitetônico e projeto estrutural sobrepostas, representando a aprovação de obra na Prefeitura de Navegantes SC.',
+    excerpt: 'Projeto arquitetônico e projeto estrutural são documentos diferentes, com profissionais e papéis distintos na aprovação de obra em Navegantes. Entenda o que cada um faz, quem assina, como a Prefeitura analisa e por que os dois são obrigatórios para liberar o alvará.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quem vai construir ou reformar em Navegantes logo esbarra em dois nomes que parecem a mesma coisa: projeto arquitetônico e projeto estrutural. Não são a mesma coisa. Um define como a edificação é — o desenho dos ambientes, a forma, o uso do espaço e o atendimento às regras urbanísticas. O outro define como ela se sustenta — as fundações, pilares, vigas e lajes que a mantêm de pé e em pé. E, na aprovação na Prefeitura, cada um tem um papel, um responsável e um peso diferentes.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica as diferenças entre os dois projetos e como cada um entra no processo de aprovação municipal — com foco em Navegantes e no Código de Obras do município (LC 416/2023). Entender essa distinção antes de contratar é o que evita obra parada, exigência de projeto na hora errada e a falta de um responsável técnico quando o problema aparece.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o projeto arquitetônico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto arquitetônico é o conjunto de desenhos e especificações que define a edificação em si: a distribuição dos ambientes, as áreas, as circulações, a fachada, a implantação no terreno, o conforto, a acessibilidade e o atendimento aos parâmetros urbanísticos. Ele responde ao "como a casa vai ser" — o partido, o uso e a estética.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Plantas baixas de cada pavimento, com dimensões e usos',
+          'Cortes e fachadas, com alturas e gabarito',
+          'Planta de situação e de implantação no lote',
+          'Memorial descritivo de materiais e acabamentos',
+          'Quadro de áreas e de parâmetros urbanísticos',
+          'Detalhes construtivos e de acessibilidade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que é o projeto estrutural'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto estrutural é o documento técnico que dimensiona a estrutura que sustenta a edificação. Ele calcula e detalha as fundações, os pilares, as vigas e as lajes, verificando que o conjunto resiste aos esforços — peso próprio, pessoas, móveis, vento, sobrecargas e a agressividade do ambiente litorâneo — sem risco de colapso ou deformação excessiva. Ele responde ao "como a casa fica de pé".'
+      },
+      {
+        type: 'list',
+        items: [
+          'Plantas de formas (posição e dimensões de pilares, vigas e lajes)',
+          'Plantas de armaduras (detalhamento das ferragens)',
+          'Memorial de cálculo estrutural',
+          'Especificações de concreto, aço e cobrimentos',
+          'Detalhes de fundação e de ligações entre elementos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'As principais diferenças entre os dois projetos'
+      },
+      {
+        type: 'list',
+        items: [
+          'O que define — o arquitetônico define forma, ambientes, uso e estética; o estrutural define fundações e estrutura que sustentam',
+          'Profissional — o arquitetônico pode ser de arquiteto (registro no CAU) ou engenheiro; o estrutural é exclusivo do engenheiro civil (registro no CREA)',
+          'Responsabilidade — RRT (arquiteto) ou ART (engenheiro) no arquitetônico; ART do engenheiro no estrutural',
+          'Custo de referência — arquitetônico de R$ 50 a R$ 150/m²; estrutural de R$ 25 a R$ 60/m²',
+          'Prazo típico — ambos entre 2 e 6 semanas para uma casa',
+          'Papel na Prefeitura — o arquitetônico é o "projeto legal" que gera o alvará; o estrutural é a exigência técnica para que o alvará seja liberado com segurança comprovada'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem assina cada projeto'
+      },
+      {
+        type: 'paragraph',
+        text: 'A responsabilidade técnica separa as duas especialidades. O projeto arquitetônico pode ser assinado por arquiteto e urbanista, registrado no Conselho de Arquitetura e Urbanismo (CAU), com emissão de RRT; ou por engenheiro civil, registrado no CREA, com emissão de ART. O projeto estrutural é atribuição exclusiva do engenheiro civil, registrado no CREA-SC, com emissão de ART. O arquiteto responde pela concepção, pelo uso e pela conformidade urbanística; o engenheiro estrutural responde pela segurança — e essa responsabilidade é formal, com respaldo civil e criminal.'
+      },
+      {
+        type: 'heading',
+        text: 'O papel de cada projeto na aprovação em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na Prefeitura de Navegantes, a aprovação do projeto segue o Código de Obras (LC 416/2023) e trata os dois projetos de forma diferente, mas complementar. O arquitetônico é o documento que a Prefeitura de fato analisa e aprova; o estrutural é a peça que a Prefeitura exige para liberar a obra com segurança.'
+      },
+      {
+        type: 'subheading',
+        text: 'O que a Prefeitura analisa no projeto arquitetônico'
+      },
+      {
+        type: 'list',
+        items: [
+          'Parâmetros urbanísticos — recuos, taxa de ocupação, coeficiente de aproveitamento e gabarito da zona',
+          'Estética e implantação — atendimento às exigências de fachada e de afastamento do código urbanístico',
+          'Áreas mínimas e acessibilidade — dimensionamento de cômodos, circulações, rampas e banheiros acessíveis',
+          'Segurança e salubridade — iluminação, ventilação e ventilação cruzada dos ambientes',
+          'Uso e ocupação — adequação da edificação ao zoneamento e ao tipo de atividade'
+        ]
+      },
+      {
+        type: 'subheading',
+        text: 'O que o projeto estrutural representa na aprovação'
+      },
+      {
+        type: 'list',
+        items: [
+          'Aprovação condicionada — a Prefeitura não libera o alvará sem a ART do responsável pelo projeto estrutural, porque a segurança é condição para qualquer obra',
+          'Segurança comprovada — o estrutural garante que o alvará sai com a responsabilidade técnica habilitada',
+          'Diálogo com bombeiros — em obras de maior porte, o Corpo de Bombeiros (CBMSC) analisa o projeto de prevenção de incêndio, que se conecta diretamente à estrutura'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O arquitetônico é o projeto que a Prefeitura aprova; o estrutural é o projeto que a Prefeitura exige para aprovar. Um sem o outro não vira alvará — e obra sem alvará não começa.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que o alvará exige os dois projetos'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obra sem arquitetônico aprovado — não existe: sem projeto legal, não há alvará e a obra é irregular, sujeita a multa e embargo',
+          'Obra sem estrutural — a aprovação não se completa e a obra perde a garantia de segurança; qualquer trinca ou recalque vira problema sem responsável técnico',
+          'Obra aprovada e executada diferente do projeto — o habite-se não sai, o imóvel não pode ser averbado e a venda ou o financiamento travam'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como os projetos se relacionam na obra'
+      },
+      {
+        type: 'list',
+        items: [
+          'O arquitetônico nasce primeiro — define ambientes, áreas e implantação',
+          'O estrutural se desenvolve sobre ele — calcula a estrutura para sustentar a arquitetura, respeitando as dimensões e os vãos definidos',
+          'A compatibilização é obrigatória — o estrutural não pode furar, deslocar ou esbarrar nos elementos do arquitetônico; a compatibilização evita a clássica viga que corta a janela',
+          'Ambos vão para a obra — o arquitetônico guia os ambientes; o estrutural guia a estrutura; nenhum profissional executa "no olho"'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Por isso, mudar a arquitetura depois do estrutural pronto gera retrabalho: alterar um ambiente pode exigir recalcular pilares e vigas. Definir bem a arquitetura antes de contratar o estrutural é a economia mais simples de uma obra.'
+      },
+      {
+        type: 'heading',
+        text: 'Custo e prazo na prática'
+      },
+      {
+        type: 'list',
+        items: [
+          'Custo de referência — arquitetônico de R$ 50 a R$ 150/m² (casa de 100 m²: R$ 8.000 a R$ 15.000); estrutural de R$ 25 a R$ 60/m² (casa de 100 m²: R$ 3.000 a R$ 6.000)',
+          'O que pesa no valor — no arquitetônico, complexidade, áreas e acabamentos; no estrutural, vãos, pavimentos, tipo de fundação e solo',
+          'Prazo de entrega — 2 a 6 semanas para uma casa, em ambos',
+          'Revisões — mudanças de layout geram retrabalho no arquitetônico e recálculo no estrutural'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'Qual projeto a Prefeitura aprova de fato?'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Prefeitura aprova o projeto arquitetônico (o "projeto legal"), que gera o alvará. Mas a aprovação exige a apresentação do projeto estrutural e dos demais projetos com ART — por isso os dois são obrigatórios para liberar a obra.'
+      },
+      {
+        type: 'subheading',
+        text: 'Preciso contratar arquiteto e engenheiro separados?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Depende da empresa. Na Regê Engenharia, arquitetura e engenharia trabalham integradas sob a mesma responsabilidade, o que evita conflito de projetos e agiliza a aprovação. Contratar separado também funciona, desde que os profissionais façam a compatibilização entre os projetos.'
+      },
+      {
+        type: 'subheading',
+        text: 'O arquiteto pode assinar o projeto estrutural?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. O projeto estrutural é atribuição do engenheiro civil, registrado no CREA, com ART. O arquiteto é responsável pelo projeto arquitetônico, com RRT no CAU. Um não substitui o outro.'
+      },
+      {
+        type: 'subheading',
+        text: 'Toda obra exige projeto estrutural?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda obra que envolve estrutura — construção, ampliação, sobrado, reforma estrutural — exige projeto estrutural com ART. Obras de pequeno porte sem alteração estrutural podem dispensar, mas a avaliação de dispensa é feita caso a caso pelo profissional e pela Prefeitura.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto tempo leva a aprovação em Navegantes?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em média, de 15 a 45 dias úteis após o protocolo, quando o projeto está completo e conforme a LC 416/2023. Projetos com exigências pendentes — arquitetônico fora dos parâmetros ou estrutural sem ART — têm prazo maior.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto arquitetônico e projeto estrutural são projetos diferentes, com responsáveis diferentes e papéis diferentes na aprovação municipal — mas nenhum funciona sem o outro. O arquitetônico é o que a Prefeitura aprova; o estrutural é o que a Prefeitura exige para aprovar; e os dois juntos são o que transforma um terreno em uma obra legal, segura e que pode ser averbada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de começar, escolha quem vai conduzir o processo do começo ao fim. A Regê Engenharia desenvolve projeto arquitetônico, projeto estrutural e projetos complementares de forma integrada, e conduz a aprovação na Prefeitura de Navegantes até a emissão do alvará — com ART em todas as etapas. Fale com nossa equipe técnica e projete sua obra com segurança, no prazo e sem surpresas.'
+      }
+    ]
+  },
+  {
+    slug: 'consultoria-normas-regulamentadoras',
+    title: 'Consultoria de Normas Regulamentadoras: O que é e por que sua Obra em Navegantes Precisa',
+    tag: 'SEGURANÇA DO TRABALHO',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Engenheiro de segurança do trabalho em canteiro de obra no litoral de Santa Catarina, revisando o cumprimento das Normas Regulamentadoras.',
+    excerpt: 'A consultoria de Normas Regulamentadoras interpreta e aplica as NRs na sua obra ou empresa. Entenda o que ela entrega, quais normas mais impactam a construção civil e por que contratar esse serviço em Navegantes evita multas, paralisações e acidentes.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quem conduz obra ou empresa no Brasil convive com um conjunto de regras de segurança e saúde que pouca gente domina por completo: as Normas Regulamentadoras, conhecidas como NRs. Elas estabelecem o mínimo obrigatório para proteger a vida de quem trabalha — e o descumprimento não é apenas um risco de acidente, é motivo para multa, interdição de obra e responsabilidade civil e criminal. É aqui que entra a consultoria de Normas Regulamentadoras: o serviço técnico que lê, interpreta e aplica as NRs na realidade da sua obra ou do seu negócio.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é a consultoria de normas regulamentadoras, quais NRs mais impactam a construção civil, o que esse serviço entrega na prática e por que contratá-lo em Navegantes e no litoral de Santa Catarina é uma decisão de gestão — não apenas de conformidade.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a consultoria de Normas Regulamentadoras'
+      },
+      {
+        type: 'paragraph',
+        text: 'As Normas Regulamentadoras são atos do Ministério do Trabalho e Emprego que estabelecem requisitos de segurança e saúde no trabalho. A consultoria de NRs é o serviço prestado por profissional habilitado — tipicamente engenheiro de segurança do trabalho ou técnico de segurança do trabalho — que avalia a operação, identifica as normas aplicáveis e implementa as medidas necessárias para o cumprimento delas, com a devida Anotação de Responsabilidade Técnica (ART).'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico de conformidade — mapeamento das NRs aplicáveis à sua atividade e dos pontos de não conformidade',
+          'Programa de Gerenciamento de Riscos (PGR) — documento central que substituiu o PPRA e organiza a prevenção na empresa',
+          'LTCAT e PPP — laudo técnico das condições ambientais e perfil profissiográfico dos colaboradores expostos a riscos',
+          'PCMSO — programa de controle médico de saúde ocupacional, com exames e acompanhamento clínico',
+          'Treinamentos e capacitações — NR-35 (trabalho em altura), NR-10 (eletricidade), NR-33 (espaços confinados) e outras',
+          'Emissão de ART para todos os serviços técnicos de segurança do trabalho'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quais NRs mais impactam a construção civil'
+      },
+      {
+        type: 'list',
+        items: [
+          'NR-18 — condições e meio ambiente de trabalho na indústria da construção; é a norma específica da obra, com exigências de canteiro, acesso, demolição, fôrmas e escoramentos',
+          'NR-35 — trabalho em altura, obrigatória para qualquer atividade acima de 2 metros do nível inferior, comum em edificações e telhados',
+          'NR-10 — segurança em instalações elétricas, essencial em obra e em manutenção de rede',
+          'NR-6 — equipamentos de proteção individual (EPIs), com escolha, entrega e controle de uso',
+          'NR-7 — Programa de Controle Médico de Saúde Ocupacional (PCMSO)',
+          'NR-9 — avaliação e controle das exposições ocupacionais (riscos físicos, químicos e biológicos)',
+          'NR-33 — segurança e saúde nos trabalhos em espaços confinados, presente em reservatórios e fundações',
+          'NR-12 — segurança no uso de máquinas e equipamentos do canteiro'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Entre todas, a NR-18 é a que mais define o dia a dia de uma obra civil: ela trata de tudo, do piso do canteiro à proteção de bordas e à sinalização. Obrigação de obra não é "ter um papel": é demonstrar, na vistoria do auditor fiscal, que cada exigência está implantada.'
+      },
+      {
+        type: 'heading',
+        text: 'O que a consultoria entrega na prática'
+      },
+      {
+        type: 'list',
+        items: [
+          'Mapeamento de riscos — identificação das fontes de perigo por etapa da obra ou do processo',
+          'Planos e programas — PGR, PCMSO, LTCAT e PPP redigidos e atualizados conforme a legislação vigente',
+          'Implantação no canteiro — sinalização, proteções coletivas, controle de EPIs e rotinas de inspeção',
+          'Treinamentos com certificado — capacitação da equipe nas normas aplicáveis à sua operação',
+          'Prontuário e documentação — organização de toda a evidência para apresentação ao fiscal ou ao cliente',
+          'Acompanhamento e renovação — revisões periódicas conforme a evolução da obra e das normas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que contratar consultoria de Normas Regulamentadoras'
+      },
+      {
+        type: 'list',
+        items: [
+          'Evita multas e interdições — obras irregulares são paradas e multadas pelo auditor fiscal do trabalho',
+          'Reduz acidentes — a aplicação correta das NRs protege a vida dos trabalhadores e a responsabilidade do empregador',
+          'Libera financiamento e licitações — bancos e editais exigem conformidade de segurança e documentação de SST',
+          'Protege a imagem da empresa — canteiro regular é diferencial em obra de cliente exigente e em grandes empreendimentos',
+          'Economia real — o custo da prevenção é uma fração do custo de um acidente, de uma paralisação ou de uma indenização'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Conformidade com as NRs não é burocracia: é o seguro mais barato que uma obra pode ter. O que falta na vistoria vira multa, paralisação ou acidente — e o preço de consertar depois é sempre maior que o de prevenir antes.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode assinar e emitir ART'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os serviços de segurança do trabalho são atribuição de engenheiro de segurança do trabalho ou técnico de segurança do trabalho, ambos registrados no CREA, com emissão de ART para os serviços técnicos. A responsabilidade é formal: em caso de acidente ou autuação, o profissional e a empresa respondem técnica, civil e criminalmente. Por isso, ter a ART emitida antes da obra começar é a primeira prova de que a segurança foi tratada com seriedade.'
+      },
+      {
+        type: 'heading',
+        text: 'Consultoria de NR em Navegantes e no litoral de SC'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral norte catarinense, a consultoria de NRs ganha contornos próprios. Canteiros próximos ao mar convivem com maresia e vento, que aceleram a corrosão de estruturas e equipamentos e exigem atenção extra a ancoragens, andaimes e proteções. Obras de verão, com equipes ampliadas e prazos apertados, multiplicam os riscos de altura e de eletricidade. E a fiscalização, em cidades em crescimento como Navegantes, Balneário Camboriú e Itajaí, é cada vez mais presente. Um consultor que conhece a realidade local antecipa esses riscos em vez de reagir a eles.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'A consultoria de NR substitui o SESMT?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não necessariamente. O SESMT (Serviço Especializado em Engenharia de Segurança e Medicina do Trabalho) é a equipe interna prevista em número conforme o grau de risco e o número de colaboradores. A consultoria externa complementa, implementa e dá suporte técnico — e muitas empresas mantêm a consultoria justamente quando não têm SESMT próprio ou precisam de reforço especializado.'
+      },
+      {
+        type: 'subheading',
+        text: 'A NR-18 é obrigatória para toda obra?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. A NR-18 aplica-se a qualquer canteiro de obra de construção, reforma, demolição ou reparo. Não há obra civil fora do alcance da norma — o tamanho muda o detalhamento, mas não a obrigatoriedade.'
+      },
+      {
+        type: 'subheading',
+        text: 'Qual o custo de uma consultoria de NR?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O valor varia com o porte da obra, o número de colaboradores e as normas envolvidas. Pequenas obras podem contratar diagnóstico e treinamentos pontuais; obras contínuas costumam ter acompanhamento mensal. Em qualquer caso, o custo é pequeno frente ao risco de uma multa ou de um acidente.'
+      },
+      {
+        type: 'subheading',
+        text: 'A consultoria evita multas?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Ela reduz drasticamente o risco. Nenhuma consultoria garante imunidade a autuações, mas uma obra com PGR implantado, documentação em dia e equipe treinada tem vasta vantagem na vistoria e consegue demonstrar conformidade — o que, na prática, afasta a maior parte das penalidades.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'A consultoria de Normas Regulamentadoras é o serviço que transforma a obrigação legal em obra segura e regular. Ela mapeia riscos, implanta programas, treina equipes e emite a ART que prova a responsabilidade técnica — protegendo trabalhadores, patrimônio e a continuidade do negócio.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar ou operar uma empresa em Navegantes e no litoral de Santa Catarina, fale com a equipe técnica da Regê Engenharia. Conduzimos a consultoria de normas regulamentadoras integrada à engenharia da sua obra — com PGR, treinamentos, documentação e ART em todas as etapas — para que seu canteiro seja seguro, legal e produtivo desde o primeiro dia.'
+      }
+    ]
+  },
+  {
+    slug: 'adequacao-as-normas-tecnicas',
+    title: 'Adequação às Normas Técnicas: Por Que Sua Obra em Navegantes Precisa Estar Dentro da Lei',
+    tag: 'ENGENHARIA',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Engenheiro conferindo projeto e normas técnicas de concreto, fundações e desempenho em obra de Navegantes SC.',
+    excerpt: 'Construir fora das normas técnicas não é economia — é risco. Entenda o que são as normas ABNT aplicadas à construção, quais as principais para obras em Navegantes e o que exigir do engenheiro e do arquiteto para entregar uma obra segura, legal e durável.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Uma obra "no jeito" do pedreiro pode parecer mais barata no começo. Mas quando a laje trinca, a instalação elétrica sobrecarrega ou o Corpo de Bombeiros nega o AVCB, o preço de ter ignorado as normas técnicas aparece — e costuma ser muito maior que o da engenharia que foi poupada. A adequação às normas técnicas não é burocracia de escritório: é o que separa uma construção segura de uma futura obra embargada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que significa a adequação às normas técnicas na construção civil, quais as principais normas brasileiras (ABNT) aplicadas a obras residenciais e comerciais em Navegantes, quem é o responsável por cumpri-las e o que você deve exigir do engenheiro e do arquiteto para não construir sobre o risco.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a adequação às normas técnicas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Norma técnica é um documento que estabelece requisitos mínimos de segurança, desempenho e qualidade para produtos, projetos e serviços. No Brasil, as principais são as normas da ABNT (Associação Brasileira de Normas Técnicas), como as NBR (Normas Brasileiras). Adequar-se a elas significa projetar e executar a obra segundo esses requisitos — e não segundo o que "sempre foi feito".'
+      },
+      {
+        type: 'list',
+        items: [
+          'É obrigatória — o Código de Defesa do Consumidor e as leis de engenharia tratam o não cumprimento de norma como vício ou risco',
+          'É a base do projeto — cálculo estrutural, instalações e desempenho só são válidos dentro da norma',
+          'É o que o município e os órgãos fiscalizadores conferem — na aprovação, na vistoria e no habite-se',
+          'É o que protege vidas — a norma existe porque alguém já se acidentou por não segui-la'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Norma técnica não é sugestão de engenheiro — é a linha que separa uma obra segura de uma obra perigosa.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a adequação importa para o seu imóvel'
+      },
+      {
+        type: 'list',
+        items: [
+          'Segurança — a estrutura projetada dentro da NBR 6118 e da NBR 8681 não colapsa sob carga normal nem em situações extremas',
+          'Durabilidade — o concreto especificado conforme a classe de agressividade do litoral (NBR 6118) resiste à maresia por décadas',
+          'Legalidade — projetos e obras fora da norma são reprovados na Prefeitura, no Corpo de Bombeiros e no CREA',
+          'Financiamento — bancos exigem projeto e execução dentro das normas para liberar crédito',
+          'Valor de revenda — imóvel com laudo e projeto regular vale mais e vende mais rápido',
+          'Acessibilidade — a NBR 9050 garante que a edificação seja usável por todos, o que também é exigência legal'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'As principais normas técnicas da construção'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para obras em Navegantes, este é o conjunto de normas que costuma entrar no projeto e na execução:'
+      },
+      {
+        type: 'list',
+        items: [
+          'NBR 6118 — Projeto de estruturas de concreto: cobrimento, resistência, classes de agressividade ambiental e durabilidade',
+          'NBR 6122 — Projeto de fundações: sondagem e dimensionamento adequados ao solo (no litoral, arenoso e com lençol freático elevado)',
+          'NBR 8681 — Ações e segurança nas estruturas: verificação dos estados-limite último e de serviço',
+          'NBR 15575 — Desempenho de edificações habitacionais: vida útil, estanqueidade, isolamento e acabamento',
+          'NBR 9575 — Impermeabilização: seleção e projeto de sistemas conforme a infiltração e a classe de agressividade',
+          'NBR 5410 — Instalações elétricas de baixa tensão: dimensionamento de rede, quadros e proteção',
+          'NBR 5626 — Instalações prediais de água fria e NBR 8160 — de esgoto sanitário: dimensionamento hidráulico',
+          'NBR 9050 — Acessibilidade a edificações, mobiliário e espaços urbanos',
+          'NBR 9077 — Saídas de emergência em edifícios e Instruções Técnicas do Corpo de Bombeiros de SC — prevenção a incêndio',
+          'NR-18 — Norma Regulamentadora de segurança e saúde no trabalho na construção (canteiro de obras)'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem é o responsável pela adequação'
+      },
+      {
+        type: 'paragraph',
+        text: 'A responsabilidade técnica é pessoal e intransferível. Cabe ao profissional habilitado garantir que o projeto e a execução atendam às normas — e ele responde por isso perante o conselho e a Justiça:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro civil (CREA-SC) — responde pelo projeto estrutural, fundações, instalações e pela execução da obra, com ART registrada',
+          'Arquiteto e urbanista (CAU/BR) — responde pelo projeto arquitetônico e pela compatibilização com as normas de desempenho e acessibilidade, com RRT registrado',
+          'Empreiteiro e mão de obra — executam conforme o projeto e as orientações técnicas; não substituem a responsabilidade do profissional',
+          'Proprietário — deve exigir e conservar a documentação técnica; contratar "por fora" da norma o expõe a risco e responsabilidade'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Quem assina a ART e o RRT responde pela norma. Quem constrói sem eles responde na Justiça — e na estrutura.'
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do engenheiro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto dentro das NBR aplicáveis — estrutura (NBR 6118/6122/8681), fundações e impermeabilização (NBR 9575) calculados e justificados',
+          'Especificação de materiais conforme a classe de agressividade — no litoral de Navegantes, concreto e cobrimento adequados à maresia',
+          'ART emitida antes do início e na conclusão — registrada no CREA-SC, vinculando o profissional à obra',
+          'Memorial de cálculo e desenhos executivos — o que permite à Prefeitura e ao CREA conferir a conformidade',
+          'Acompanhamento de obra — visitas que garantem que o executado bate com o projetado dentro da norma',
+          'Laudos de ensaio quando necessário — esclerometria, pacometria, cloretos, carbonatação e prova de carga em casos específicos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do arquiteto'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto arquitetônico compatível com a NBR 15575 — desempenho, estanqueidade e acabamento previstos',
+          'Acessibilidade conforme a NBR 9050 — rampas, rodapés, vagas e circulações acessíveis',
+          'RRT emitido e ativo no CAU/BR — vinculando o arquiteto ao projeto e à obra',
+          'Compatibilização dos projetos — arquitetônico, estrutural e de instalações desenhados juntos, sem conflito',
+          'Adequação ao código de obras de Navegantes — recuos, gabarito e zoneamento respeitados desde o projeto'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que acontece quando a obra sai da norma'
+      },
+      {
+        type: 'list',
+        items: [
+          'Reprovação na Prefeitura — projeto ou habite-se negado por divergência técnica',
+          'Negativa do AVCB — Corpo de Bombeiros reprova sistemas fora das Instruções Técnicas',
+          'Autuação pelo CREA — obra sem ART ou fora da responsabilidade técnica gera multa e embargo',
+          'Vícios construtivos — trincas, infiltrações e corrosão por especificação inadequada ao litoral',
+          'Responsabilidade civil e criminal — falha normativa que causa dano a terceiros recai sobre o profissional e o proprietário',
+          'Perda de valor — imóvel irregular e sem laudo técnico desvaloriza e trava a venda'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A economia de não contratar engenharia some no primeiro laudo que aponta vício por ausência de norma.'
+      },
+      {
+        type: 'heading',
+        text: 'Adequação na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contrate profissionais habilitados — CREA-SC (engenheiro) e CAU/BR (arquiteto) com registro ativo',
+          'Exija ART e RRT em contrato — emissão antes do início e na conclusão da obra',
+          'Aprove o projeto na Prefeitura — dentro do código de obras e das normas aplicáveis',
+          'Execute conforme o projeto — acompanhamento técnico para que o construído seja o normatizado',
+          'Faça ensaios quando a norma exigir — especialmente em estrutura e impermeabilização no litoral',
+          'Regularize a conclusão — habite-se e averbação com toda a documentação técnica em dia'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre normas técnicas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Norma técnica é obrigatória mesmo para casa pequena? Sim. Mesmo obras residenciais unifamiliares estão sujeitas às NBR de estrutura, instalações e desempenho. A escala muda o dimensionamento, não a obrigatoriedade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O pedreiro pode projetar por experiência? Não. Projetar exige cálculo normatizado feito por engenheiro ou arquiteto habilitado. A experiência do executor é valiosa na execução, mas não substitui a responsabilidade técnica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso reformar sem seguir norma? Reformas também exigem adequação, especialmente quando mexem em estrutura, instalações ou acessibilidade. Omitir a norma gera vício e retrabalho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem paga o cumprimento da norma? Está incluso no serviço de engenharia e arquitetura contratado. Tentar poupar nessa etapa transfere o custo — multiplicado — para o futuro da obra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Como sei se meu imóvel está dentro da norma? Através de laudo técnico de engenheiro (vistoria, análise estrutural, ensaios). Para obras antigas, a regularização técnica é o caminho para comprovar a conformidade.'
+      },
+      {
+        type: 'heading',
+        text: 'Adequação às normas com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos, execução e regularização de obras dentro das normas ABNT. Trabalhamos com cálculo estrutural conforme a NBR 6118, fundações adequadas ao solo litorâneo (NBR 6122), impermeabilização conforme a NBR 9575 e desempenho segundo a NBR 15575 — sempre com ART no CREA-SC e RRT no CAU/BR ativos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar ou precisa regularizar uma obra em Navegantes, fale com nossa equipe antes de começar. Garantir a adequação às normas técnicas desde o projeto é o que mantém sua obra segura, legal e valorizada por décadas — e protege você de multas, embargos e retrabalhos.'
+      }
+    ]
+  },
+  {
+    slug: 'engenharia-de-climatizacao-navegantes',
+    title: 'Engenharia de Climatização: Conforto Térmico e Eficiência que o Litoral de SC Exige',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Projeto de climatização e ar-condicionado em edificação comercial de Navegantes SC, com dimensionamento de carga térmica e eficiência energética.',
+    excerpt: 'Climatizar no litoral de Santa Catarina não é só colocar ar-condicionado nas paredes. Entenda o que é a engenharia de climatização, por que ela exige projeto técnico em Navegantes e o que exigir do engenheiro para ter conforto, saúde e conta de luz sob controle.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, o verão chega com força: calor úmido, praia lotada e ar-condicionado ligado o dia inteiro. Mas colocar aparelhos nas paredes não é climatizar — é improvisar. Quando o projeto térmico é feito por intuição, o resultado é conhecido: ambiente gelado em um cômodo e abafado no outro, condensamento nas paredes, ar que não circula e uma conta de energia que explode no fim do mês. A engenharia de climatização é o que separa o "ar-condicionado qualquer" do conforto térmico real e eficiente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que é a engenharia de climatização, por que ela é ainda mais decisiva no litoral catarinense e o que você deve exigir do engenheiro responsável — do cálculo de carga térmica à escolha dos equipamentos — para entregar conforto, saúde e eficiência energética na sua obra em Navegantes.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a engenharia de climatização'
+      },
+      {
+        type: 'paragraph',
+        text: 'Engenharia de climatização é a disciplina que projeta as condições de temperatura, umidade, renovação do ar e qualidade do ambiente interno de uma edificação. Não se trata apenas de ar-condicionado: abrange o dimensionamento correto da carga térmica, a ventilação, a distribuição do ar, o controle da umidade e a eficiência energética de todo o sistema. O objetivo é um ambiente saudável e confortável com o menor consumo possível.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Conforto térmico — manter temperatura e umidade adequadas o ano todo, sem pontos quentes ou frios',
+          'Qualidade do ar interior — renovação, filtragem e controle de umidade para evitar mofo e ácaros',
+          'Eficiência energética — sistema dimensionado para consumir o mínimo necessário ao resultado',
+          'Sustentabilidade — menor demanda de energia reduz custo e impacto ambiental',
+          'Saúde — ar bem tratado diminui problemas respiratórios e proliferação de fungos no ambiente litorâneo'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Ar-condicionado é o aparelho; climatização é o projeto. Um sem o outro vira gasto sem conforto.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que no litoral de SC a climatização é diferente'
+      },
+      {
+        type: 'paragraph',
+        text: 'O litoral norte de Santa Catarina — Navegantes, Itajaí, Balneário Camboriú, Penha — impõe condições que um projeto genérico não atende:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Calor e umidade elevados — a carga térmica de verão é alta e a umidade relativa do ar favorece mofo e condensamento',
+          'Maresia — a corrosão atinge equipamentos externos e tubulações; o projeto deve especificar materiais e proteção adequados',
+          'Temporada — a demanda concentra no verão, exigindo sistema com capacidade de pico sem desperdício no resto do ano',
+          'Ventos e fachadas — a orientação solar e a exposição ao mar definem a carga de cada ambiente',
+          'Consumo de energia — a Celesc tem tarifa regional; um sistema mal dimensionado multiplica a conta por anos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que um projeto de climatização entrega'
+      },
+      {
+        type: 'list',
+        items: [
+          'Cálculo de carga térmica — a NBR 16401 estabelece o dimensionamento da edificação por ambiente, considerando paredes, vidros, ocupação, equipamentos e clima local',
+          'Distribuição do ar — quantidade e posição das unidades para que o ar circule sem pontos de estagnação',
+          'Renovação do ar — taxas de ar externo conforme a NBR 16401 para qualidade do ar interior',
+          'Controle de umidade — desumidificação adequada para evitar mofo no ambiente litorâneo',
+          'Especificação de equipamentos — eficiência energética (selo Procel A), capacidade e compatibilidade com a rede elétrica',
+          'Integração com a arquitetura — caminhos de tubulação, drenos e unidades condensadoras previstos no projeto, não escondidos depois'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'A norma que rege a climatização no Brasil'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NBR 16401 (Instalações de Ar Condicionado — Sistemas Centrais e Unitários) é a referência para projetos de climatização no país. Ela define desde o cálculo de carga térmica até as taxas de renovação do ar e os limites de conforto (faixa de temperatura e umidade relativa). Um projeto fora da NBR 16401 não é apenas técnico: é irregular perante os órgãos e os conselhos.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem assina a responsabilidade técnica'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro mecânico ou engenheiro de aquecimento e refrigeração (CREA-SC) — é o profissional habilitado a projetar sistemas de climatização, com ART registrada',
+          'Engenheiro eletricista — deve validar a compatibilidade da carga elétrica dos equipamentos com a rede e o quadro de distribuição',
+          'Arquiteto (CAU/BR) — integra o sistema ao partido arquitetônico, com RRT quando a climatização altera forros, fachadas e caminhos',
+          'Empreiteiro e instalador — executam conforme o projeto; a instalação segue a responsabilidade do projetista'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Quem assina a ART da climatização responde pelo conforto e pela conta de luz dos próximos anos. Escolha o responsável técnico, não o instalador de ocasião.'
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do engenheiro de climatização'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — confirme o número de registro no conselho',
+          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada antes da instalação',
+          'Cálculo de carga térmica por ambiente — não aceite "um aparelho para cada cômodo" sem dimensionamento',
+          'Projeto conforme a NBR 16401 — com renovação de ar, controle de umidade e faixas de conforto documentadas',
+          'Especificação eficiente — equipamentos com melhor classe Procel, adequados ao clima e à rede local',
+          'Detalhamento de instalação — drenos, isolamento térmico das tubulações e posição das condensadoras fora da ação direta da maresia',
+          'ART de execução — ao final, o engenheiro atesta a instalação conforme o projeto'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que encarecem a climatização'
+      },
+      {
+        type: 'list',
+        items: [
+          'Dimensionar "no olho" — aparelho maior que o necessário desperdiça energia; menor, trabalha em esforço contínuo e não refrigera',
+          'Ignorar a umidade — no litoral, o mofo e o condensamento aparecem quando o controle de umidade não é projetado',
+          'Não prever drenagem e isolamento — goteiras internas e tubulação "suando" são fruto de instalação sem projeto',
+          'Expor condensadoras à maresia — equipamento externo sem proteção corrói em poucos anos na faixa costeira',
+          'Sobrecarregar a rede elétrica — vários equipamentos sem validação elétrica provocam queda de tensão e risco de incêndio',
+          'Esconder o sistema depois — tubulação e unidades não previstas no projeto arruínam acabamento e manutenção'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O erro mais caro da climatização não está no aparelho — está no projeto que não foi feito.'
+      },
+      {
+        type: 'heading',
+        text: 'Climatização na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contrate engenheiro habilitado no CREA-SC — com experiência em edificações litorâneas',
+          'Exija ART e cálculo de carga térmica — projeto conforme a NBR 16401 desde o início',
+          'Integre ao projeto arquitetônico — caminhos, drenos e unidades definidos antes da obra',
+          'Valide a rede elétrica — engenheiro eletricista confere a capacidade do quadro e da rede',
+          'Execute conforme o projeto — instalação com isolamento, drenagem e proteção contra maresia',
+          'Faça a medição de conforto — temperatura, umidade e renovação verificadas após a entrega'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre climatização'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de engenheiro para instalar ar-condicionado? Para um aparelho residencial simples, a instalação pode ser feita por técnico habilitado. Mas o projeto de climatização de uma edificação — residencial de maior porte, comercial ou industrial — exige engenheiro com ART, conforme a NBR 16401.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre ar-condicionado e climatização? Ar-condicionado é o equipamento que resfria o ar. Climatização é o projeto que garante conforto térmico, qualidade do ar, controle de umidade e eficiência em todo o ambiente — muito além de um aparelho na parede.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Climatizar no litoral custa mais? O equipamento é similar, mas o projeto litorâneo exige especificação contra maresia e dimensionamento para calor e umidade. O custo extra do projeto se paga na durabilidade do equipamento e na conta de energia mais baixa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Como reduzir a conta de luz do ar-condicionado? Projeto dimensionado conforme a NBR 16401, equipamentos de alta eficiência (Procel A), manutenção preventiva das unidades e uso consciente. O maior vilão do consumo é o sistema mal dimensionado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A maresia estraga o ar-condicionado? Sim, se as condensadoras ficam expostas à ação direta do sal. O projeto deve prever localização, proteção e materiais resistentes à corrosão costeira.'
+      },
+      {
+        type: 'heading',
+        text: 'Engenharia de climatização com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos de climatização dimensionados conforme a NBR 16401. Cuidamos do cálculo de carga térmica por ambiente, da especificação eficiente de equipamentos, da integração com a arquitetura e da compatibilidade elétrica — sempre com ART no CREA-SC e atenção às exigências do ambiente de maresia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar ou precisa regularizar uma obra em Navegantes, fale com nossa equipe antes de começar. Garantir a adequação às normas técnicas desde o projeto é o que mantém sua obra segura, legal e valorizada por décadas — e protege você de multas, embargos e retrabalhos.'
+      }
+    ]
+  },
+  {
+    slug: 'treinamento-seguranca-do-trabalho',
+    title: 'Treinamento de Segurança do Trabalho: O que é, Obrigatório em Quais Casos e Como Implementar',
+    tag: 'SEGURANÇA',
+    image: '/images/construtora.png',
+    imageAlt: 'Treinamento de segurança do trabalho em canteiro de obras — equipe com EPIs participando de capacitação presencial sobre riscos e procedimentos de segurança em Navegantes SC.',
+    excerpt: 'Treinamento de segurança do trabalho não é optativo: é exigido por lei em praticamente toda atividade laboral. Saiba quais treinamentos são obrigatórios por NR, quem deve ministrá-los e como estruturar um programa que de fato reduz acidentes.',
+    readTime: '14 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Acidentes de trabalho no Brasil ainda vitimam milhares de pessoas por ano. Dados do Ministério do Trabalho e Emprego apontam que grande parte dos acidentes está ligada à falha humana — mas essa "falha" quase sempre tem origem na ausência de capacitação adequada. O trabalhador que não recebe treinamento periódico, que não entende os riscos da sua função ou que nunca participou de um simulado de emergência está, estatisticamente, muito mais exposto a sofrer um acidente. É justamente para fechar essa lacuna que o treinamento de segurança do trabalho existe como obrigação legal e como prática essencial de gestão.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo explica o que é o treinamento de segurança do trabalho, quais Normas Regulamentadoras exigem capacitação, quem pode ministrar os treinamentos, quais são os formatos aceitos e como uma empresa pode montar um programa eficiente — evitando multas, reduzindo acidentes e construindo uma cultura de segurança real.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é treinamento de segurança do trabalho'
+      },
+      {
+        type: 'paragraph',
+        text: 'O treinamento de segurança do trabalho é o processo de capacitação formal destinado a informar, orientar e habilitar os trabalhadores a reconhecerem os riscos de suas atividades e a adotarem práticas seguras. Ele vai além da leitura de normas: envolve instrução teórica, demonstração prática, simulados e avaliação de aprendizagem. O objetivo não é apenas "cumprir tabela" para a fiscalização, mas garantir que cada trabalhador saiba o que fazer — e o que não fazer — antes, durante e depois de cada tarefa.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Consciência sobre riscos ocupacionais presentes no posto de trabalho',
+          'Domínio dos procedimentos de segurança específicos para cada atividade',
+          'Uso correto dos Equipamentos de Proteção Individual (EPIs) e Coletivos (EPCs)',
+          'Capacidade de identificar situações de risco e acionar os canais de comunicação de segurança',
+          'Preparação para emergências — brigadas, evacuação, primeiros socorros'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Treinamento de segurança do trabalho não é um custo operacional: é um investimento que mede a diferença entre um acidente evitado e uma tragédia irrecuperável.'
+      },
+      {
+        type: 'heading',
+        text: 'Base legal: por que o treinamento é obrigatório'
+      },
+      {
+        type: 'paragraph',
+        text: 'A obrigação de treinar trabalhadores está espalhada por praticamente todas as Normas Regulamentadoras. Não existe uma "NR do Treinamento" isolada — cada norma define seus próprios requisitos de capacitação, e a NR-1 (Disposições Gerais e Gerenciamento de Riscos) estabelece o dever geral do empregador de garantir a integridade física do trabalhador, o que inclui treinamento como ferramenta fundamental de prevenção.'
+      },
+      {
+        type: 'list',
+        items: [
+          'NR-1 — estabelece o dever de treinamento periódico e sob demanda quando houver alteração de processos, introduction de novas tecnologias ou após acidentes',
+          'NR-5 — exige que os membros da CIPA recebam treinamento antes da posse e treinamento periódico durante o mandato',
+          'NR-6 — determina que o trabalhador treinado no uso correto dos EPIs antes de receber e utilizar os equipamentos',
+          'NR-12 — exige treinamento específico para operadores de máquinas e equipamentos, incluindo partidas, paradas e situações de emergência',
+          'NR-18 — obriga capacitação por etapa construtiva na construção civil, com carga horária mínima definida',
+          'NR-20 — exige treinamento para trabalhadores que lidam com inflamáveis e combustíveis, com reciclagem periódica',
+          'NR-33 — exige qualificação para entrada em espaços confinados, com treinamento teórico e prático',
+          'NR-35 — determina qualificação obrigatória para trabalhos em altura, com carga horária mínima e reciclagem periódica'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quais treinamentos são obrigatórios por NR'
+      },
+      {
+        type: 'heading',
+        text: '1. Treinamento admissional e integrativo — NR-1'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo trabalhador que ingressa em uma empresa deve receber treinamento admissional antes de iniciar suas atividades. Esse treinamento deve abordar os riscos da atividade, os procedimentos de segurança, o uso dos EPIs, os canais de comunicação com a segurança do trabalho e as normas internas da empresa. É o primeiro contato do trabalhador com a cultura de segurança e deve ser documentado com assinatura e carga horária registrada.'
+      },
+      {
+        type: 'heading',
+        text: '2. Capacitação em altura — NR-35'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NR-35 é uma das mais rígidas em termos de treinamento. Qualquer trabalhador que realize serviços acima de 2,0 metros de altura deve ser capacitado previamente. O treinamento deve ter carga horária mínima de 8 horas, abordar os riscos, os equipamentos de proteção contra quedas, os procedimentos de resgate e ser ministrado por profissional habilitado. Após o treinamento inicial, é obrigatória reciclagem periódica.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Carga horária mínima de 8 horas para capacit inicial',
+          'Conteúdo programático definido pela NR-35 (riscos, EPIs, procedimentos, resgate)',
+          'Reciclagem periódica e após afastamento superior a 90 dias',
+          'Registro documental com assinatura do instrutor e do trabalhador'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '3. Capacitação em espaços confinados — NR-33'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NR-33 define que apenas trabalhadores qualificados podem entrar em espaços confinados (tanques, silos, caixas d\'água, túneis, etc.). O treinamento deve incluir reconhecimento de riscos, uso de atmosferímetros, equipamentos de ventilação, sistemas de resgate e procedimentos de entrada. O trabalhador qualificado é aquele que recebeu treinamento com carga horária mínima de 8 horas e demonstrou compreensão dos riscos e procedimentos.'
+      },
+      {
+        type: 'heading',
+        text: '4. Operação de máquinas e equipamentos — NR-12'
+      },
+      {
+        type: 'paragraph',
+        text: 'A operação de máquinas e equipamentos perigosos — como prensas, tornos, impulsionadores, elevadores industriais e empilhadeiras — exige treinamento específico antes da habilitação. A NR-12 exige que o trabalhador receba capacitação sobre os riscos da máquina, os dispositivos de segurança, os procedimentos de partida e parada e as situações de emergência. Para equipamentos como empilhadeiras e plataformas elevatórias, a habilitação deve ser expedida por Órgão Competente (OSHC).'
+      },
+      {
+        type: 'heading',
+        text: '5. Treinamento de brigada de incêndio — NR-23'
+      },
+      {
+        type: 'paragraph',
+        text: 'Embora a NR-23 não defina carga horária mínima, a instituição de brigadas de incêndio em empresas com risco de sinistro é considerada obrigatória pela interpretação conjunta da NR-23, da ABNT NBR 14276 e da legislação municipal de proteção ao fogo. O treinamento deve incluir combate ao incêndio, evacuação, primeiros socorros e acionamento dos bombeiros. A brigada precisa ser treinada periodicamente e realizar simulados.'
+      },
+      {
+        type: 'heading',
+        text: '6. Treinamento em inflamáveis e combustíveis — NR-20'
+      },
+      {
+        type: 'paragraph',
+        text: 'Trabalhadores que manipulam, transportam ou armazenam líquidos inflamáveis e combustíveis devem receber treinamento específico. A NR-20 exige capacitação antes do início das atividades e reciclagem periódica. O conteúdo deve cobrir classificação dos produtos, riscos de incêndio e explosão, procedimentos de emergência e uso de EPIs químicos.'
+      },
+      {
+        type: 'heading',
+        text: '7. Treinamento em eletricidade — NR-10'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NR-10 — Segurança em Instalações e Serviços em Eletricidade — exige que trabalhadores em eletricidade recebam treinamento com carga horária mínima de 40 horas para quem atua diretamente com equipamentos energizados. O treinamento deve abordar riscos elétricos, normas de segurança, primeiros socorros em vítimas de choque e procedimentos de bloqueio e sinalização (LOTO).'
+      },
+      {
+        type: 'heading',
+        text: '8. Capacitação em construção civil — NR-18'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NR-18 detalha os requisitos de treinamento para a construção civil, que é o setor com maior índice de acidentes fatais no Brasil. O trabalhador deve receber capacitação antes do início das obras, com carga horária mínima de 8 horas, cobrindo riscos da atividade, EPIs, procedimentos de emergência, sinalização e GenPro (Gerenciamento de Projetos de Construção). A cada troca de etapa construtiva, deve haver novo treinamento.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode ministrar treinamentos de segurança'
+      },
+      {
+        type: 'paragraph',
+        text: 'O treinamento de segurança do trabalho deve ser ministrado por profissionais habilitados — e essa habilitação varia conforme a NR. Não basta ser "alguém da segurança": a norma exige qualificação específica para cada tipo de capacitação.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro de Segurança do Trabalho (formação em engenharia + pós em segurança do trabalho + NR-4/CREA) — habilitado para ministrar praticamente todos os treinamentos',
+          'Técnico em Segurança do Trabalho (formação em segurança do trabalho + NR-4/CREA) — habilitado para ministrar treinamentos dentro de sua competência',
+          'Médico do Trabalho — para treinamentos relacionados à saúde ocupacional e PCMSO',
+          'Instrutor externo credenciado — empresas especializadas que prestam serviço de treinamento com instrutores qualificados',
+          'Brigadistas e Socorristas — devem ser treinados por empresas especializadas em combate a incêndio e socorros, respectivamente'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O treinador precisa dominar não apenas o conteúdo normativo, mas também a prática de ensino. Um treinamento ministrado sem metodologia adequada não forma consciência — apenas gera papel.'
+      },
+      {
+        type: 'heading',
+        text: 'Como estruturar um programa de treinamento eficiente'
+      },
+      {
+        type: 'paragraph',
+        text: 'Montar um programa de treinamento de segurança não é apenas agendar palestras anuais. Um programa eficiente requer diagnóstico, planejamento, execução com qualidade e avaliação contínua. Veja as etapas essenciais:'
+      },
+      {
+        type: 'heading',
+        text: '1. Diagnóstico de riscos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de definir o que treinar, é preciso saber onde estão os maiores riscos. O diagnóstico parte do PGR (Programa de Gerenciamento de Riscos), da APR (Análise Preliminar de Risco) e do LTCAT. Esses documentos indicam quais atividades são mais perigosas, quais agentes nocivos estão presentes e quais treinamentos são prioridade.'
+      },
+      {
+        type: 'heading',
+        text: '2. Definição do público e do conteúdo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cada função exige treinamento diferente. O operador de empilhadeira não precisa do mesmo conteúdo que o eletricista ou o pedreiro. O programa deve mapear cada função, identificar as NRs aplicáveis e definir o conteúdo programático de cada treinamento com base no risco real da atividade.'
+      },
+      {
+        type: 'heading',
+        text: '3. Carga horária e periodicidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'Algumas NRs definem carga horária mínima (NR-35: 8h, NR-10: 40h, NR-18: 8h). Outras não especificam, mas exigem que o treinamento seja "adequado e suficiente". A periodicidade também varia: alguns treinamentos são anuais, outros a cada 2 anos, e outros apenas quando há mudança de processo. O programa deve contemplar um cronograma anual com todas as capacitações previstas.'
+      },
+      {
+        type: 'heading',
+        text: '4. Metodologia e materiais'
+      },
+      {
+        type: 'paragraph',
+        text: 'A capacitação deve ser presencial na maior parte dos casos, especialmente para treinamentos práticos (altura, espaços confinados, combate a incêndio). O uso de vídeo-aulas e treinamentos online pode complementar a formação teórica, mas não substitui a prática. Materiais devem ser atualizados, adaptados ao público e traduzidos quando necessário (para trabalhadores estrangeiros ou com deficiência auditiva).'
+      },
+      {
+        type: 'heading',
+        text: '5. Avaliação e registro'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo treinamento deve ser avaliado. A avaliação pode ser escrita (prova), prática (demonstração de habilidade) ou ambas. O resultado deve ser registrado em documento que inclua nome do trabalhador, data, carga horária, conteúdo ministrado, nome do instrutor e resultado da avaliação. Esse documento é a prova de que o treinamento ocorreu — e é o que a fiscalização vai pedir.'
+      },
+      {
+        type: 'heading',
+        text: '6. Reciclagem e atualização'
+      },
+      {
+        type: 'paragraph',
+        text: 'Treinamento não é evento único. A reciclagem é obrigatória em diversas NRs e deve ser realizada periódicamente ou sempre que houver mudança de processo, introdução de novas tecnologias, retorno de afastamento ou ocorrência de acidente. Um programa de treinamento vivo é aquele que se atualiza constantemente com base no que está acontecendo na empresa e no mercado.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns nos treinamentos de segurança'
+      },
+      {
+        type: 'paragraph',
+        text: 'Mesmo empresas que investem em treinamento frequentemente cometem erros que comprometem a efetividade da capacitação. Os mais comuns incluem:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Treinamento genérico — aplicar o mesmo conteúdo para todas as funções, ignorando as particularidades de cada risco',
+          'Treinamento "de papel" — realizar o treinamento apenas para gerar documento, sem compromisso real com a aprendizagem',
+          'Ausência de reciclagem — treinar apenas na admissão e nunca mais atualizar o conhecimento',
+          'Instrutores sem habilitação — designar pessoas sem qualificação para ministrar treinamentos',
+          'Falta de avaliação — não verificar se o trabalhador aprendeu de verdade o que foi ensinado',
+          'Desconsiderar a barreira do idioma — treinar trabalhadores estrangeiros em português sem tradução ou intérprete'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O maior erro é tratar treinamento como formalidade burocrática. Quando o trabalhador não entende por que precisa se proteger, nenhum EPI salva — porque ele não vai usá-lo corretamente.'
+      },
+      {
+        type: 'heading',
+        text: 'Consequências da ausência de treinamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'A falta de treinamento de segurança do trabalho gera consequências em três frentes: legal, financeira e humana.'
+      },
+      {
+        type: 'heading',
+        text: 'Consequências legais'
+      },
+      {
+        type: 'list',
+        items: [
+          'Autuação pelo Ministério do Trabalho — multas variam conforme a gravidade, podendo chegar a dezenas de milhares de reais por trabalhador não treinado',
+          'Embargo de obra — na construção civil, a ausência de treinamento é motivo para embargo pela fiscalização',
+          'Interdição de estabelecimento — em indústria e comércio, a empresa pode ser interditada',
+          'Responsabilização civil e criminal — em caso de acidente com morte ou lesão grave, a ausência de treinamento é elemento agravante na responsabilização do empregador'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Consequências financeiras'
+      },
+      {
+        type: 'list',
+        items: [
+          'Multas administrativas do MTE (variam de R$ 3.000 a R$ 81.000 por infração grave, conforme o TST)',
+          'Custos com ações trabalhistas — indenizações por acidente de trabalho podem chegar a milhões de reais',
+          'Aumento do FAP — o Fator Acidentário de Prevenção impacta diretamente a folha de pagamento da empresa',
+          'Perda de produtividade — afastamentos temporários e permanentes reduzem a capacidade operacional'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Consequências humanas'
+      },
+      {
+        type: 'list',
+        items: [
+          'Acidentes que poderiam ser evitados com informação adequada',
+          'Lesões permanentes — amputações, queimaduras, fraturas, intoxicação crônica',
+          'Doenças ocupacionais — perda auditiva, LER/DORT, silicose, câncer ocupacional',
+          'Impacto psicológico — sofrimento do trabalhador e de sua família, perda de qualidade de vida'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O papel da engenharia de segurança no treinamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'A engenharia de segurança do trabalho é a profissão que une o conhecimento técnico da engenharia com a ciência da prevenção de acidentes. O engenheiro de segurança é quem diagnóstica os riscos, elabora os programas de treinamento, define os conteúdos programáticos, ministra as capacitações e avalia os resultados. Na construção civil, a presença do engenheiro de segurança é obrigatória conforme a NR-18, e ele é o responsável técnico por todo o sistema de segurança da obra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um engenheiro de segurança bem preparado não apenas entrega treinamentos normativos: ele contextualiza os riscos com a realidade da empresa, utiliza dados de acidentes e quase-acidentes para embasar as capacitações e constrói indicadores que permitem medir a efetividade do programa ao longo do tempo.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia pode ajudar'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com serviços completos de segurança do trabalho para construção civil, indústria e comércio. Nossa equipe elabora programas de treinamento personalizados para cada atividade, ministra capacitações com carga horária e conteúdo conforme as NRs vigentes, realiza avaliações de aprendizagem e mantém a documentação atualizada para auditorias e fiscalizações.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se sua empresa precisa estruturar ou adequar o programa de treinamento de segurança do trabalho, fale com nossa equipe. Um programa bem planejado não apenas evita multas — ele protege vidas. E proteger vidas é o investimento mais importante que qualquer empresa pode fazer.'
+      }
+    ]
+  },
+  {
+    slug: 'manutencao-ar-condicionado-comercial',
+    title: 'Manutenção de Ar-Condicionado Comercial: Por que é Essencial no Litoral de SC',
+    tag: 'CLIMATIZAÇÃO',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Técnico realizando manutenção preventiva em sistema de ar-condicionado comercial em estabelecimento no litoral de Santa Catarina.',
+    excerpt: 'A manutenção de ar-condicionado comercial evita paradas, reduz a conta de energia e prolonga a vida útil do equipamento. Entenda os tipos de manutenção, os sinais de alerta e por que ela é ainda mais importante no clima litorâneo de Navegantes.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Em lojas, escritórios, restaurantes, hotéis e indústrias, o ar-condicionado comercial deixou de ser conforto para ser infraestrutura: quando ele para, a operação para, o cliente vai embora e a mercadoria sensível ao calor corre risco. Por isso, a manutenção de ar-condicionado comercial não é um custo opcional — é a rotina que mantém o equipamento ligado, eficiente e durável.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é a manutenção de ar-condicionado comercial, quais são os tipos de manutenção, o que a preventiva inclui, os sinais de que o sistema precisa de atenção e por que, no litoral de Santa Catarina, esse cuidado ganha uma urgência a mais.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a manutenção de ar-condicionado comercial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Manutenção de ar-condicionado comercial é o conjunto de inspeções, limpezas, ajustes e substituições que mantém o sistema de climatização operando com segurança e eficiência. Diferente do residencial, o equipamento comercial trabalha muitas horas por dia, muitas vezes em ambiente aberto ao público, e exige planejamento para não interromper o negócio.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Manutenção preventiva — rotina programada de inspeção e limpeza para evitar falhas antes que aconteçam',
+          'Manutenção corretiva — reparo após a quebra ou queda de desempenho do equipamento',
+          'Manutenção preditiva — acompanhamento de indicadores (temperatura, pressão, consumo) para antecipar falhas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que a manutenção preventiva inclui'
+      },
+      {
+        type: 'list',
+        items: [
+          'Limpeza de filtros e serpentinas — retira poeira e bactérias, melhora o fluxo de ar e a qualidade do ar interno',
+          'Verificação de pressão e temperatura — garante que o gás refrigerante esteja no nível correto',
+          'Inspeção elétrica — checagem de contatos, capacitores e comandos para evitar curtos e queima de placas',
+          'Limpeza da bandeja e da drenagem — evita vazamentos, mofo e goteiras no teto',
+          'Lubrificação de ventoinhas e motores — reduz ruído e desgaste mecânico',
+          'Relatório técnico — registro de tudo o que foi feito, útil para garantia e para o AVCB'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que a manutenção é ainda mais importante no litoral de SC'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral norte catarinense, o ar-condicionado enfrenta três vilões ao mesmo tempo: umidade alta, maresia e uso intenso no verão. A umidade favorece fungos e bactérias nos filtros; a maresia acelera a corrosão das serpentinas e das partes metálicas; e o pico de calor força o equipamento ao máximo por horas seguidas. Sem manutenção, o sistema perde eficiência rápido e quebra justo na alta temporada.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Corrosão acelerada — a maresia exige materiais e tratamentos específicos e inspeção mais frequente',
+          'Carga microbiana — umidade e calor criam ambiente ideal para mofo no sistema, prejudicando a saúde dos ocupantes',
+          'Consumo de ponta — equipamento sujo ou com gás baixo consome muito mais energia nos dias de maior demanda',
+          'Temporada — lojas e hotéis do litoral têm alta ocupação no verão, quando o ar-condicionado não pode falhar'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Benefícios da manutenção preventiva'
+      },
+      {
+        type: 'list',
+        items: [
+          'Menos paradas — o equipamento avaria muito menos quando inspecionado regularmente',
+          'Conta de energia menor — sistema limpo e regulado consome até 25% menos do que um negligenciado',
+          'Vida útil maior — um aparelho bem cuidado dura o dobro do que um sem manutenção',
+          'Ar mais saudável — filtros limpos reduzem alergia, mofo e transmissão de doenças respiratórias',
+          'Garantia e AVCB — manutenção documentada sustenta a garantia do fabricante e a renovação do Auto de Vistoria do Corpo de Bombeiros',
+          'Conforto do cliente — temperatura estável protege a experiência de quem compra, come ou se hospeda'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'No comércio, ar-condicionado parado é faturamento parado. A manutenção preventiva custa uma fração do prejuízo de um dia de loja fechada ou de um cliente que não volta por causa do calor.'
+      },
+      {
+        type: 'heading',
+        text: 'Sinais de que o ar-condicionado precisa de manutenção'
+      },
+      {
+        type: 'list',
+        items: [
+          'Queda de refrigeração — o ambiente demora a esfriar ou não chega à temperatura desejada',
+          'Aumento na conta de luz — consumo sobe sem explicação no medidor',
+          'Ruídos e vibração — compressor ou ventoinha com desgaste',
+          'Mau cheiro — indício de mofo ou acúmulo de água na bandeja',
+          'Vazamento de água — drenagem entupida ou bandeja danificada',
+          'Liga e desliga constantemente — sintoma de pressão ou comando irregular'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O papel do engenheiro na climatização'
+      },
+      {
+        type: 'paragraph',
+        text: 'A manutenção corrige o que existe; o projeto de climatização evita que o problema nasça. O engenheiro é quem dimensiona o equipamento certo para o ambiente, especifica materiais resistentes à maresia e garante que a instalação elétrica e a drenagem sejam seguras. Um sistema mal dimensionado consome mais, resfria menos e quebra cedo — e nenhum plano de manutenção recupera um projeto errado. Por isso, manutenção e projeto andam juntos.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'Com que frequência fazer a manutenção preventiva?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para uso comercial, a recomendação é a cada 3 a 4 meses, ou trimestralmente. Ambientes de alta carga — cozinhas, restaurantes, indústrias — podem exigir visitas mensais. No litoral, onde a maresia agride o equipamento, a frequência maior é a regra, não a exceção.'
+      },
+      {
+        type: 'subheading',
+        text: 'A manutenção ajuda na renovação do AVCB?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. O Auto de Vistoria do Corpo de Bombeiros (AVCB) exige que os sistemas de climatização e de exaustão estejam regulares e documentados. A manutenção preventiva com relatório técnico é a evidência que o bombeiro pede na renovação do certificado.'
+      },
+      {
+        type: 'subheading',
+        text: 'Qual o custo da manutenção de ar-condicionado comercial?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O valor varia com a quantidade de equipamentos, a capacidade (BTUs) e a frequência do contrato. Contratos de manutenção preventiva saem mais barato por visita do que chamados corretivos de emergência — e evitam o custo muito maior de um compressor queimado.'
+      },
+      {
+        type: 'subheading',
+        text: 'Posso fazer a manutenção sem engenheiro?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Técnicos habilitados realizam a manutenção rotineira. Mas o dimensionamento, a adequação elétrica, a especificação de materiais para o ambiente marinho e a ART são atribuições do engenheiro. Para instalação, troca de equipamento ou projetos novos, o engenheiro é obrigatório.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'A manutenção de ar-condicionado comercial é a rotina que mantém o negócio funcionando, a conta de energia sob controle e o ar saudável para clientes e colaboradores. No litoral de Santa Catarina, onde umidade, maresia e alta temporada pressionam o equipamento, ela deixa de ser recomendação e vira necessidade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você tem um comércio, escritório, hotel ou indústria em Navegantes e no litoral norte catarinense, fale com a equipe técnica da Regê Engenharia. Fazemos o projeto de climatização, a manutenção preventiva e a adequação do sistema com ART e documentação para o AVCB — para que seu ar-condicionado ligue todo dia, consuma menos e dure mais.'
+      }
+    ]
+  },
+  {
+    slug: 'laudo-de-estabilidade-navegantes',
+    title: 'Laudo de Estabilidade: Quando Exigir e O Que Ele Garante na Sua Obra em Navegantes',
+    tag: 'PERÍCIA',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Engenheiro emitindo laudo de estabilidade estrutural em edificação de Navegantes SC, com ensaios e ART no CREA-SC.',
+    excerpt: 'O laudo de estabilidade é o documento que atesta que a estrutura está segura e apta para uso. Saiba o que é, quando bancos e seguradoras exigem, quem pode emitir e o que exigir do engenheiro para proteger seu imóvel e liberar financiamento em Navegantes.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando o banco pede um laudo de estabilidade para liberar o financiamento, quando a seguradora exige o documento para emitir a apólice ou quando um imóvel antigo vai a venda, surge a mesma dúvida: o que é isso e por que dele depende a decisão? O laudo de estabilidade é a palavra técnica final de que a estrutura está segura, sem risco de colapso e apta para o uso a que se destina. Sem ele, a obra pode ser travada, o seguro recusado e a venda impedida.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que é o laudo de estabilidade, quando ele é exigido em Navegantes e no litoral catarinense, quem pode emitir (e quem não pode) e o que você deve exigir do engenheiro civil para ter um documento válido, defendável e aceito por bancos, seguradoras e cartório.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o laudo de estabilidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo de estabilidade é um documento técnico emitido por engenheiro civil que atesta a segurança da estrutura de uma edificação — fundações, pilares, vigas e lajes — em relação à sua capacidade de suportar as cargas previstas sem risco de colapso ou deformação excessiva. É a tradução técnica da pergunta "esse imóvel vai cair?": a resposta documentada e assinada por profissional habilitado.'
+      },
+      {
+        type: 'list',
+        items: [
+          'É uma atestação de segurança estrutural — a edificação suporta seu uso com margem de segurança',
+          'É emitido por engenheiro civil com registro no CREA-SC e ART vinculada à obra',
+          'É aceito por bancos, seguradoras, cartórios e órgãos públicos como prova técnica',
+          'É distinto de projeto e de laudo de vistoria — ele foca na capacidade estrutural da edificação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Laudo de estabilidade não é opinião de engenheiro — é a responsabilidade técnica de que a estrutura não vai falhar.'
+      },
+      {
+        type: 'heading',
+        text: 'Para que serve o laudo de estabilidade'
+      },
+      {
+        type: 'list',
+        items: [
+          'Financiamento bancário — Caixa, bancos privados e financiadoras exigem o laudo para liberar crédito de construção ou aquisição',
+          'Seguro da edificação — seguradoras pedem o documento para emitir apólice estrutural e de responsabilidade',
+          'Venda e transferência — comprovante de que o imóvel é seguro, especialmente em edificações antigas',
+          'Regularização — obra concluída ou alterada que precisa comprovar segurança para o habite-se',
+          'Obras vizinhas — atesta que a edificação não foi comprometida por escavações ou estaqueamentos do terreno ao lado',
+          'Segurança de ocupantes — documento de gestão predial para condomínios e edifícios de uso coletivo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando o laudo de estabilidade é exigido'
+      },
+      {
+        type: 'paragraph',
+        text: 'As situações mais comuns em que o documento é requisitado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Imóvel com mais de 5 anos ou sem documentação estrutural — bancos e cartórios exigem comprovação de segurança',
+          'Edificações antigas ou reformadas — qualquer alteração de uso, demolição parcial ou ampliação',
+          'Vizinhança com obra — para atestar que a edificação não foi afetada por obras do terreno ao lado',
+          'Sinistro ou desastre — após ventos fortes, inundação ou incêndio que possam ter comprometido a estrutura',
+          'Abertura de aviso ao público ou uso coletivo — restaurantes, comércios e edifícios com grande circulação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Laudo de estabilidade x laudo de vistoria x inspeção predial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os termos são usados de forma parecida, mas têm escopos distintos. Confundir um com o outro gera documento inútil para quem pediu:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Laudo de estabilidade — foca na capacidade estrutural e na segurança contra colapso (engenheiro civil, ART)',
+          'Laudo de vistoria — registra o estado de conservação e os vícios construtivos, amplamente usado em entrega de imóvel e conflitos',
+          'Inspeção predial (NBR 16747) — avaliação periódica das condições de uso, segurança e manutenção de edificações',
+          'Laudo estrutural — análise técnica aprofundada com ensaios, base do laudo de estabilidade quando há dúvida sobre a estrutura'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode emitir o laudo de estabilidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'A responsabilidade é exclusiva do engenheiro civil registrado no CREA-SC. O documento deve trazer a ART (Anotação de Responsabilidade Técnica) que vincula o profissional à emissão do laudo. Arquiteto, técnico e "engenheiro de outra área" não têm atribuição para atestar estabilidade estrutural — e um laudo sem ART ou fora da atribuição é recusado por bancos e seguradoras.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro civil com registro ativo no CREA-SC',
+          'ART de emissão de laudo técnico de estabilidade registrada no conselho',
+          'Acompanhamento ou anuência técnica do responsável pela estrutura original, quando identificável',
+          'Laudo assinado e com identificação completa do profissional e da edificação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Laudo de estabilidade sem ART no CREA-SC não é laudo — é um papel que banco e seguradora vão devolver.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o laudo de estabilidade atesta'
+      },
+      {
+        type: 'list',
+        items: [
+          'Adequação às cargas — a estrutura suporta as sobrecargas de uso, móveis, pessoas e clima conforme a NBR 6118 e a NBR 8681',
+          'Ausência de patologias estruturais — sem trincas ativas, corrosão de armaduras ou recalques que comprometam a segurança',
+          'Reserva de segurança — a edificação opera com margem além do mínimo exigido',
+          'Condição de uso — o imóvel está apto para ocupação ou para a finalidade informada',
+          'Restrições, se houver — o laudo aponta o que deve ser reparado ou monitorado, com prazo e responsável'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do engenheiro ao contratar o laudo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — confirme o número de registro no site do conselho',
+          'ART emitida para o laudo — a Anotação de Responsabilidade Técnica deve ser registrada antes da emissão',
+          'Vistoria presencial — o laudo exige visita técnica, mapeamento e, quando necessário, ensaios na estrutura',
+          'Ensaios complementares — esclerometria, pacometria, cloretos, carbonatação e prova de carga quando a estrutura assim exigir',
+          'Parecer fundamentado — o documento deve citar normas (NBR 6118, NBR 8681) e justificar a conclusão',
+          'Prazo e validade — laudos têm validade; exija a data e a janela de aceitação para banco e seguradora'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que invalidam o laudo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Laudo "de mesa" — emitido sem visita ou ensaio; bancos e seguradoras solicitam comprovação de vistoria',
+          'Profissional sem atribuição — engenheiro de outra área ou sem registro no CREA invalida o documento',
+          'Falta de ART — sem a Anotação de Responsabilidade Técnica, o laudo não tem respaldo legal',
+          'Não citar normas — parecer sem base na NBR 6118/NBR 8681 é fragilizado em caso de contestação',
+          'Ignorar a agressividade do litoral — em Navegantes, a maresia e o lençol freático alteram a estrutura e devem ser considerados',
+          'Não apontar restrições — laudo que omite patologias para "facilitar" é mentiroso e responsabiliza criminalmente o emissor'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O laudo de estabilidade que omite risco para agradar o cliente é o que mais caro sai — para o proprietário e para o engenheiro.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo de estabilidade na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Identifique quem exige o laudo — banco, seguradora ou cartório definem o escopo e a validade',
+          'Contrate engenheiro civil habilitado no CREA-SC — com experiência em estruturas litorâneas',
+          'Autorize a vistoria e os ensaios — realize a visita técnica e os testes necessários',
+          'Exija ART e parecer fundamentado — documento assinado, datado e citando as normas aplicáveis',
+          'Entregue ao órgão solicitante — acompanhe a aceitação e providencie complementos se pedirem',
+          'Conserve o laudo — ele integra o prontuário da edificação e serve para futuras transações'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre laudo de estabilidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo imóvel precisa de laudo de estabilidade? Não. Imóveis novos, com projeto e habite-se recentes, em geral não exigem. O documento é requisitado para edificações antigas, reformadas, sinistradas ou quando banco/seguradota solicitam.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo o laudo é válido? Depende do solicitante. Bancos costumam aceitar laudos de até 6 a 12 meses; seguradoras definem a própria janela. O laudo deve informar sua validade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O arquiteto pode emitir laudo de estabilidade? Não. A atestação de segurança estrutural é atribuição do engenheiro civil, com ART. O arquiteto participa do laudo predial e de conservação, mas não da estabilidade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Laudo de estabilidade tem custo alto? O valor varia com a edificação, a necessidade de ensaios e a distância. Em Navegantes, um laudo residencial simples custa menos que um laudo de edifício com ensaios — mas o custo é ínfimo frente ao financiamento ou seguro que ele libera.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A maresia interfere no laudo? Sim. No litoral, a corrosão de armaduras e o lençol freático elevado são variáveis centrais. O laudo deve contemplar a agressividade ambiental (classes III e IV da NBR 6118) na análise.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo de estabilidade com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com emissão de laudo de estabilidade, laudo estrutural e inspeção predial. Realizamos a vistoria, os ensaios quando necessários e a emissão do parecer fundamentado conforme a NBR 6118 e a NBR 8681 — sempre com ART no CREA-SC e considerando as exigências do ambiente de maresia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o banco, a seguradora ou a venda do seu imóvel exigem um laudo de estabilidade em Navegantes, fale com nossa equipe. Entregamos o documento técnico que libera seu financiamento, protege seu patrimônio e atesta, com responsabilidade, que a sua estrutura está segura.'
+      }
+    ]
+  },
+  {
+    slug: 'consultoria-ambiental-navegantes-sc',
+    title: 'Consultoria Ambiental em Navegantes SC: Quando Contratar, O Que Resolver e Como Evitar Multas',
+    tag: 'AMBIENTAL',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Consultoria ambiental em Navegantes SC — engenheiro realizando vistoria e planejamento ambiental para obra residencial e comercial no litoral catarinense.',
+    excerpt: 'Consultoria ambiental não é exclusividade de indústria. Construtoras, imobiliárias, comércios e residências também precisam de adequação ambiental. Saiba quando contratar, o que envolve e como evitar multas e embargo no litoral de Santa Catarina.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando se fala em consultoria ambiental, a maioria das pessoas pensa em fábricas e grandes empreendimentos. Mas a verdade é que residências em construção, comércios, condomínios e pequenos negócios também estão sujeitos a exigências ambientais — e a ignorância dessas regras pode gerar multas, paralisação de obra e responsabilização civil e criminal do proprietário. No litoral de Santa Catarina, onde a proximidade com manguezais, bacias hidrográficas e áreas de proteção ambiental amplia a fiscalização, a consultoria ambiental torna-se ainda mais relevante para quem quer construir, reformar ou operar sem surpresas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é a consultoria ambiental, quem precisa dela, quais serviços ela abrange e como ela se aplica a diferentes tipos de empreendimento — do residencial ao comercial, passando por obras públicas e projetos de infraestrutura. Também mostra como a Regê Engenharia apoia seus clientes no litoral catarinense com diagnóstico técnico, licenciamento e acompanhamento junto aos órgãos ambientais.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é consultoria ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'A consultoria ambiental é o serviço técnico especializado que identifica, avalia e resolve questões ambientais ligadas a um empreendimento ou atividade. Ela reúne conhecimentos de engenharia ambiental, legislação, gestão de resíduos, controle de efluentes e monitoramento de impactos para garantir que a operação esteja em conformidade com as leis federais, estaduais e municipais. Diferente do que muitos imaginam, ela não se limita a emitir laudos: acompanha o empreendimento desde o planejamento até a operação, atuando junto aos órgãos fiscalizadores (IBAMA, IMA/SC, prefeituras) em todas as etapas do processo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na prática, a consultoria ambiental resolve três perguntas centrais: o que a lei exige para este tipo de atividade neste local? A empresa ou o proprietário está em conformidade? E, se não estiver, qual o caminho técnico e jurídico para regularizar sem parar a operação?'
+      },
+      {
+        type: 'quote',
+        text: 'Consultoria ambiental não é custo — é a diferença entre construir com segurança jurídica e descobrir o passivo ambiental só quando o fiscal chega.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem precisa de consultoria ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'A legislação ambiental brasileira não faz distinção por porte quando se trata de impacto. Atividades que poluem, geram resíduos, consomem água, alteram cobertura vegetal ou topografia, ou que se localizam em áreas sensíveis estão sujeitas a fiscalização. Veja os principais casos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construtoras e incorporadoras — obras residenciais e comerciais que removem vegetação, geram resíduos de construção (entulho) ou operam próximas a corpos d\'água',
+          'Comércios e serviços — postos de combustível, lava-rápidos, restaurantes, clínicas, oficinas e lavanderias que geram efluentes, resíduos perigosos ou emissões',
+          'Condomínios residenciais e comerciais — gestão de esgoto, resíduos sólidos, áreas verdes e impermeabilização do terreno',
+          'Proprietários rurais — atividades agropecuárias, silvicultura e manejo de recursos hídricos em área de preservação ou de uso restrito',
+          'Empreendimentos de infraestrutura — rodovias, linhas de transmissão, saneamento e obras públicas que geram impacto ambiental significativo',
+          'Indústrias de qualquer porte — desde a microempresa até o grande complexo industrial, com ou sem processo produtivo intensivo'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A regra prática é: se a sua atividade consome recursos naturais, gera resíduo ou tem potencial de causar impacto ambiental, a consultoria ambiental deve ser consultada antes do início da obra ou operação — não depois da multa.'
+      },
+      {
+        type: 'heading',
+        text: 'Principais serviços de consultoria ambiental'
+      },
+      {
+        type: 'heading',
+        text: '1. Diagnóstico ambiental do terreno'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de construir, reformar ou instalar um negócio, é fundamental entender o passivo e o potencial ambiental do terreno. A consultoria realiza o levantamento de restrições legais (Área de Preservação Permanente — APP, zona de proteção de mananciais, manguezal, faixa de domínio), conflitos de uso do solo e necessidade de autorizações específicas. Esse diagnóstico é o primeiro filtro para evitar investimentos em terrenos com restrições que inviabilizam a obra ou exigem compensações dispendiosas.'
+      },
+      {
+        type: 'heading',
+        text: '2. Licenciamento ambiental (LP, LI e LO)'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental é o processo administrativo que autoriza a localização, instalação e operação de empreendimentos com potencial impacto. Em Santa Catarina, o órgão competente é o IMA/SC (antiga FATMA), com articulação junto à prefeitura municipal. A consultoria prepara o dossiê técnico, elabora os estudos necessários e acompanha todo o processo até a emissão da licença, garantindo que a documentação esteja completa e dentro dos parâmetros exigidos.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Licença Prévia (LP) — aprova a viabilidade ambiental do empreendimento antes da compra do terreno ou início da obra',
+          'Licença de Instalação (LI) — autoriza o início das obras e a execução do projeto aprovado',
+          'Licença de Operação (LO) — libera o funcionamento após comprovação do cumprimento das condicionantes',
+          'Renovação e alteração — manutenção da validade diante de mudanças de atividade, ampliação ou transferência'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '3. Gestão e destinação de resíduos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda atividade gera resíduos — entulho de obra, efluentes domésticos, óleos usados, resíduos hospitalares, embalagens e dejetos. A consultoria ambiental elabora Planos de Gerenciamento de Resíduos Sólidos (PGRS), define a segregação, o armazenamento, o transporte e a destinação final adequada, garantindo rastreabilidade documental e evitando que o destinador gere responsabilidade solidária para o gerador.'
+      },
+      {
+        type: 'heading',
+        text: '4. Estudos de impacto ambiental (EIA/RIMA)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Empreendimentos de grande porte ou localizados em áreas sensíveis exigem o Estudo de Impacto Ambiental e seu respectivo Relatório de Impacto ao Meio Ambiente (EIA/RIMA). Esse estudo identifica os impactos significativos do projeto, propõe medidas de mitigação, compensação e monitoramento, e é submetido a processo de consulta pública. A consultoria ambiental coordena todo o processo, da coleta de dados de campo à apresentação ao órgão ambiental.'
+      },
+      {
+        type: 'heading',
+        text: '5. Monitoramento e controle ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Depois de licenciada, a operação precisa comprovar o cumprimento das condicionantes. A consultoria ambiental mantém programas de monitoramento de qualidade do ar, água, solo e ruído, elabora relatórios periódicos e realiza auditorias internas que antecipam não conformidades antes que se convertam em autos de infração.'
+      },
+      {
+        type: 'heading',
+        text: '6. Regularização de passivo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Muitos empreendimentos já estão em operação quando percebem que a licença ambiental não existe, está vencida ou não cobre toda a atividade. A consultoria ambiental atua na regularização desses passivos: identifica as irregularidades, prepara a documentação necessária, articula com o órgão ambiental e conduz o processo de adequação retroativa — minimizando multas e riscos de embargo.'
+      },
+      {
+        type: 'heading',
+        text: '7. Adequação normativa e certificações'
+      },
+      {
+        type: 'paragraph',
+        text: 'Grandes compradores, cadeias de suprimentos e órgãos públicos exigem certificações ambientais como pré-requisito. A consultoria estrutura a implementação de Sistemas de Gestão Ambiental (ISO 14001), prepara o empreendimento para auditorias de conformidade e reduz o atrito comercial com parceiros que adotam critérios ESG.'
+      },
+      {
+        type: 'heading',
+        text: 'Consultoria ambiental para obras residenciais e comerciais'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral de Santa Catarina, construtoras e incorporadoras enfrentam restrições ambientais que impactam diretamente o cronograma, o custo e a viabilidade do projeto. A consultoria ambiental para obras residenciais e comerciais envolve:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Análise de APP e restrições de uso do solo antes da aquisição do terreno',
+          'Elaboração de projeto de supressão de vegetação com compensação ambiental quando necessário',
+          'Gestão de resíduos da obra (entulho, madeira, metais, resíduos perigosos) com destinação rastreável',
+          'Controle de efluentes e lançamento de águas pluviais durante a construção',
+          'Adequação ao código ambiental municipal e condicionantes da licença de construção',
+          'Acompanhamento de vistorias do órgão ambiental durante a obra'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Uma obra residencial em área de APP, sem autorização prévia, pode gerar multa que supera o valor do terreno. A consultoria ambiental evita esse risco antes do primeiro tijolo.'
+      },
+      {
+        type: 'heading',
+        text: 'Consultoria ambiental no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha e toda a região do Vale do Itajaí compartilham características ambientais que tornam a consultoria especialmente relevante:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Manguezais e áreas de proteção ambiental — restrições de ocupação, lançamento de efluentes e supressão de vegetação muito próximas das zonas urbanas em expansão',
+          'Bacias hidrográficas sensíveis — o IMA/SC controla rigorosamente captação e lançamento de águas, exigindo outorga e monitoramento periódico',
+          'Pressão imobiliária — a alta demanda por terrenos costeiros leva à construção em áreas com restrições ambientais que, sem diagnóstico prévio, geram passivo e multa',
+          'Resoluções estaduais próprias — normas do IMA/SC sobre emissões, ruído e resíduos diferem das médias nacionais e exigem conhecimento atualizado',
+          'Fiscalização ativa — órgãos ambientais catarinenses mantêm fiscalização regular com vistorias in loco e autuação eficiente'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a consultoria ambiental protege o seu investimento'
+      },
+      {
+        type: 'paragraph',
+        text: 'A consultoria ambiental não é apenas uma exigência legal — é uma ferramenta de proteção financeira e jurídica. Os benefícios concretos incluem:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Redução de multas — o diagnóstico prévio identifica riscos antes que virem auto de infração, quando o valor da penalidade já está consolidado',
+          'Continuidade da operação — empresa licenciada e em conformidade não sofre embargo, não perde prazos contratuais e não tem interrompida a receita',
+          'Acesso a mercados — certificações e compliance ambiental são exigências cada vez mais comuns em licitações, contratos públicos e cadeias de suprimentos',
+          'Valorização patrimonial — imóveis com regularização ambiental completa valorizam e são mais fáceis de vender ou financiar',
+          'Segurança jurídica — responsabilidade civil e criminal por dano ambiental pode alcançar sócios, diretores e proprietários pessoalmente',
+          'Eficiência operacional — gestão adequada de resíduos, água e energia reduz custos diretos e melhora a margem do negócio'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando contratar a consultoria ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O momento ideal é sempre antes do problema aparecer. Na prática, estes são os sinais de que é hora de buscar uma consultoria:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Antes de comprar terreno — o diagnóstico ambiental define se o lote comporta o projeto pretendido',
+          'Ao iniciar projeto de construção — restrições de APP, vegetação e lançamento de efluentes precisam ser resolvidas antes do alvará',
+          'Ao receber notificação ou auto de infração — a defesa técnica dentro do prazo evita multa consolidada e embargo',
+          'Na renovação de licença de operação — evitar que a licença vence e a operação fique irregular',
+          'Na entrada em cadeias de suprimentos — compliance ambiental virou pré-requisito contratual',
+          'Ao expandir ou alterar a atividade — mudança de uso, aumento de capacidade ou inclusão de novo processo produtivo exigem atualização da licença'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia atua em consultoria ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense integrando engenharia civil, consultoria técnica e adequação ambiental. Não entregamos apenas laudos: estruturamos o caminho completo entre a sua operação e a conformidade legal, com emissão de ART no CREA-SC em todos os serviços técnicos.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico ambiental e análise de restrições do terreno',
+          'Elaboração e acompanhamento de licenciamento ambiental junto ao IMA/SC',
+          'Planos de gerenciamento de resíduos e articulação com destinadores licenciados',
+          'Projetos de tratamento de efluentes e controle de emissões',
+          'Acompanhamento de monitoramento, auditorias e vistorias do órgão ambiental',
+          'Defesa técnica em autos de infração e Termos de Ajustamento de Conduta (TAC)',
+          'ART no CREA-SC e documentação técnica para todas as etapas'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o seu empreendimento precisa de licença ambiental, está recebendo exigências do órgão fiscalizador ou quer antecipar não conformidades antes que virem multa, fale com a equipe da Regê Engenharia. Vamos estruturar o plano de conformidade correto para o seu caso — porque ambiental não se resolve no improviso, se resolve com projeto.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre consultoria ambiental'
+      },
+      {
+        type: 'subheading',
+        text: 'Toda obra precisa de licença ambiental?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Depende da localização e do impacto. Obras em APP, próxima a corpos d\'água, com supressão de vegetação significativa ou que geram efluentes e resíduos em volume relevante precisam de licenciamento. A consultoria ambiental avalia caso a caso e define se a licença é exigida.'
+      },
+      {
+        type: 'subheading',
+        text: 'Posso construir primeiro e licenciar depois?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. A Lei de Crimes Ambientais prevê sanções para quem inicia atividade sem licença. A consultoria ambiental existe justamente para conduzir o licenciamento antes do primeiro tijolo — evitando multas, embargo e responsabilização criminal.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa um licenciamento ambiental em SC?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O custo varia com a complexidade do empreendimento, o porte do estudo exigido e o órgão competente. Processos simples de Licença Prévia podem ter valor acessível; EIA/RIMAs de grande porte envolvem investimento significativo. A consultoria apresenta orçamento transparente antes do início dos trabalhos.'
+      },
+      {
+        type: 'subheading',
+        text: 'A consultoria ambiental substitui o engenheiro de obras?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. A consultoria ambiental cuida da conformidade ambiental do empreendimento. O projeto arquitetônico, estrutural e de aprovação na prefeitura continuam sob responsabilidade do engenheiro civil e do arquiteto. O ideal é integrar os dois serviços desde o início para evitar conflitos e retrabalho.'
+      },
+      {
+        type: 'subheading',
+        text: 'Empresas pequenas também precisam de consultoria ambiental?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. A legislação ambiental não distingue porte quando o impacto é significativo. Um lava-rápido, uma oficina mecânica ou um restaurante geram efluentes e resíduos que exigem gestão e destinação adequadas. A consultoria adapta o serviço ao porte e ao orçamento do empreendimento.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-ar-condicionado-navegantes',
+    title: 'Projeto de Ar-Condicionado: Por que Comprar o Aparelho Não é Suficiente',
+    tag: 'CLIMATIZAÇÃO',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Projeto de ar-condicionado residencial e comercial em Navegantes SC — dimensionamento de carga térmica, seleção de equipamentos e integração com a obra.',
+    excerpt: 'Instalar ar-condicionado sem projeto é receita para conta alta, ambiente desconfortável e equipamento que quebra cedo. Entenda o que envolve um projeto de ar-condicionado, por que ele é obrigatório em edificações maiores e como ele economiza dinheiro a longo prazo.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Comprar um ar-condicionado pelo tamanho da sala e mandar instalar parece simples. Mas quem já enfrentou ambiente gelado de um lado e abafado do outro, conta de luz que dobrou sem motivo aparente ou equipamento que quebrou antes da garantia sabe que a simplicidade é apenas superficial. Na prática, colocar ar-condicionado sem projeto técnico é como construir uma casa sem planta: pode até ficar de pé, mas o conforto, a eficiência e a durabilidade ficam por acaso. O projeto de ar-condicionado é o que transforma a decisão de climatizar em um sistema que funciona de verdade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é um projeto de ar-condicionado, quais etapas envolve, quando ele é obrigatório, como é calculada a carga térmica, quais equipamentos existem e por que, no litoral de Santa Catarina, o projeto ganha um peso ainda maior — devido ao calor, à umidade e à maresia.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é um projeto de ar-condicionado'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto de ar-condicionado é o conjunto de cálculos, especificações e desenhos técnicos que definem qual sistema de climatização é adequado para uma edificação, quantos equipamentos são necessários, onde eles devem ser instalados e como a rede elétrica, a drenagem e os caminhos de tubulação devem ser executados. Não se trata apenas de escolher a marca e o BTU: envolve análise térmica do ambiente, seleção de equipamentos, dimensionamento elétrico e integração com a arquitetura.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Análise do ambiente — medição de área, orientação solar, isolamento, vidros, ocupação e equipamentos internos',
+          'Cálculo de carga térmica — quantidade exata de energia necessária para resfriar ou aquecer o ambiente conforme a NBR 16401',
+          'Seleção de equipamentos — tipo (split, multi-split, VRF, central), marca, capacidade e eficiência energética',
+          'Dimensionamento elétrica — circuito, disjuntor, fiação e quadro de distribuição compatíveis com a carga dos equipamentos',
+          'Projeto de drenagem — condensado, limpeza e água de rejeição com declive correto e materiais adequados',
+          'Integração com arquitetura — positionamento de unidades, caminhos de tubulação e impacto visual e estético'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Projeto de ar-condicionado não é luxo: é o documento que garante que o aparelho certo vai estar no lugar certo, ligado ao circuito certo, consumindo o mínimo necessário.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que não basta comprar um aparelho e instalar'
+      },
+      {
+        type: 'paragraph',
+        text: 'O mercado de ar-condicionado cresceu tanto que hoje é fácil comprar um aparelho online e chamar um técnico para instalar. Mas essa abordagem ignora fatores que só o projeto resolve:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Sobredimensionamento — aparelho maior que o necessário liga e desliga constantemente (ciclagem), gasta energia à toa e encurta a vida útil do compressor',
+          'Subdimensionamento — aparelho menor que o necessário trabalha no esforço máximo sem nunca alcançar a temperatura desejada, consumindo mais e quebrando mais cedo',
+          'Má distribuição — um aparelho no canto errado deixa metade da sala gelada e a outra metade abafada, sem que o equipamento "defeituoso" seja o culpado',
+          'Sobrecarga elétrica — vários aparelhos ligados ao mesmo circuito doméstico provocam queda de tensão, desarmamento e risco de incêndio',
+          'Drenagem inadequada — tubulação sem declive ou sem saída adequada gera goteiramento, mofo e danos ao forro e à pintura',
+          'Sem integração com a obra — tubulação exposta, unidades na fachada sem autorização e acabamento comprometido são frutos da ausência de projeto'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto de ar-condicionado resolve tudo isso antes da instalação, não depois. É mais barato fazer certo na primeira vez do que retrabalhar.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando o projeto de ar-condicionado é obrigatório'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem toda instalação de ar-condicionado exige projeto formal. Mas a maioria das situações relevantes para construções novas, reformas e comércios sim:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Edificações novas — o projeto de climatização faz parte do conjunto de projetos exigidos para aprovação na prefeitura e para o habite-se',
+          'Reformas que alteram a infraestrutura — quando a obra envolve forros, fachadas ou rede elétrica, o projeto de ar-condicionado deve ser compatibilizado',
+          'Comércios e indústrias — a NBR 16401 define as condições de conforto e renovação de ar para ambientes de ocupação coletiva',
+          'Condomínios e prédios — a instalação de unidades externas e os caminhos de tubulação afetam a fachada e a infraestrutura comum, exigindo projeto aprovado',
+          'Equipamentos de grande porte — sistemas VRF, chiller e centrais sempre exigem projeto dimensionado e ART do engenheiro responsável'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Mesmo em residências, quando se pretende instalar mais de um aparelho ou um sistema de maior capacidade, o projeto evita erros caros. A ART (Anotação de Responsabilidade Técnica) registrada no CREA-SC é a garantia de que o projeto atende às normas.'
+      },
+      {
+        type: 'heading',
+        text: 'As etapas de um projeto de ar-condicionado'
+      },
+      {
+        type: 'heading',
+        text: '1. Levantamento de dados do ambiente'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro começa medindo a área de cada ambiente, a orientação solar (norte, sul, leste, oeste), o tipo de vidro (simples, duplo, laminado), o isolamento térmico das paredes e do teto, a quantidade de pessoas que ocupam o ambiente e os equipamentos internos (computadores, iluminação, máquinas). No litoral de SC, a exposição ao mar e a umidade do ar são variáveis adicionais.'
+      },
+      {
+        type: 'heading',
+        text: '2. Cálculo de carga térmica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com os dados do ambiente, o engenheiro aplica a NBR 16401 para calcular a carga térmica — a quantidade de energia (em BTU/h ou kW) necessária para manter a temperatura e a umidade desejadas. O cálculo considera:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Ganho solar pelas janelas e pelas paredes externas',
+          'Ganho interno por pessoas, iluminação e equipamentos',
+          'Condução de calor pelas paredes, teto e piso',
+          'Infiltração de ar externo e renovação do ar',
+          'Umidade relativa do ar — especialmente elevada no litoral'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Um cálculo preciso evita tanto o sobredimensionamento quanto o subdimensionamento. É o coração do projeto.'
+      },
+      {
+        type: 'heading',
+        text: '3. Seleção do tipo de sistema'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com a carga térmica definida, o engenheiro escolhe o tipo de sistema mais adequado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Split simple — ideal para ambientes individuais (quartos, salas pequenas)',
+          'Split multi-split — uma unidade externa servindo várias internas, bom para apartamentos e salas comerciais',
+          'VRF (Variable Refrigerant Flow) — sistema de grande porte com controle preciso por ambiente, ideal para escritórios, hoteis e condomínios',
+          'Sistema central com chiller — para grandes edificações comerciais e industriais',
+          'Cassete de teto — para ambientes com forro falso e necessidade de distribuição uniforme do ar'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A escolha depende da carga térmica, do orçamento, da estética e da infraestrutura disponível. O projeto documenta a justificativa técnica para cada opção.'
+      },
+      {
+        type: 'heading',
+        text: '4. Dimensionamento elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cada equipamento de ar-condicionado exige um circuito elétrico dedicado, com fiação, disjuntor e quadro de distribuição dimensionados para a carga. O projeto elétrico do ar-condicionado deve ser validado por engenheiro eletricista, especialmente em edificações existentes onde a rede pode não suportar a carga adicional.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Circuito dedicado — cada aparelho com seu próprio disjuntor e fiação',
+          'Fiação dimensionada — seção do cabo compatível com a distância e a carga',
+          'Proteção diferencial — disjuntor DR para proteção contra choques e curtos',
+          'Aterramento — conformidade com a NBR 5410 para segurança elétrica'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '5. Projeto de drenagem de condensado'
+      },
+      {
+        type: 'paragraph',
+        text: 'O ar-condicionado gera água de condensação que precisa ser drenada corretamente. O projeto define o caminho da tubulação de drenagem, o declive mínimo (geralmente 1% a 3%), o ponto de coleta ou saída e os materiais resistentes à corrosão — fundamental no litoral, onde a maresia ataca tubulações metálicas.'
+      },
+      {
+        type: 'heading',
+        text: '6. Integração com a arquitetura e a obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto define onde as unidades internas e externas vão ficar, quais caminhos de tubulação vão percorrer (dentro de paredes, forros ou eletroductos) e como tudo isso impacta o acabamento, a fachada e a estética do espaço. Em condomínios, a aprovação da administração para instalação na fachada é obrigatória.'
+      },
+      {
+        type: 'heading',
+        text: 'A norma que rege o projeto de ar-condicionado'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NBR 16401 (Instalações de Ar Condicionado — Sistemas Centrais e Unitários) é a norma brasileira que regulamenta os projetos de climatização. Ela define:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Faixas de conforto térmico — temperatura e umidade relativa do ar para cada tipo de ambiente',
+          'Taxas de renovação do ar — volume mínimo de ar externo por pessoa para qualidade do ar interior',
+          'Método de cálculo de carga térmica — procedimento padronizado para dimensionamento',
+          'Requisitos de instalação — posicionamento, isolamento e proteção dos equipamentos'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto fora da NBR 16401 não é apenas técnica abaixo do padrão: é irregular perante o CREA e os órgãos municipais.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o projeto de ar-condicionado entrega na prática'
+      },
+      {
+        type: 'list',
+        items: [
+          'Memorial de cálculo — documento com todos os dados e fórmulas usadas no dimensionamento',
+          'Projeto em planta — desenho técnico com posição dos equipamentos, caminhos de tubulação e pontos elétricos',
+          'Especificação de materiais — marca, modelo e capacidade de cada equipamento, tipo de tubulação e isolamento',
+          'Compatibilização com outros projetos — integração com o projeto elétrico, hidráulico e arquitetônico',
+          'ART registrada — o documento que atesta a responsabilidade técnica perante o CREA-SC',
+          'Orçamento atualizado — estimativa de custo de materiais e mão de obra para instalação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O projeto de ar-condicionado entrega clareza: você sabe exatamente o que vai instalar, onde vai ficar, quanto vai consumir e quanto vai custar — antes de comprar qualquer coisa.'
+      },
+      {
+        type: 'heading',
+        text: 'Ar-condicionado no litoral de SC: cuidados extras'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral norte catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — o projeto de ar-condicionado precisa considerar fatores que em outras regiões podem ser ignorados:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Maresia — o sal em suspensão acelera a corrosão de serpentinas, compressores e partes metálicas. O projeto deve especificar equipamentos com proteção anticorrosiva e posicionar as condensadoras longe da ação direta do vento marinho',
+          'Umidade elevada — a umidade relativa do ar no litoral frequentemente ultrapassa 80%. O projeto deve contemplar controle de umidade, com equipamentos que realizam desumidificação além da refrigeração',
+          'Calor intenso e prolongado — o verão litorâneo dura meses e a carga térmica é alta. O dimensionamento deve considerar o pico de demanda, não a média anual',
+          'Instalação em prédios à beira-mar — fachadas expostas ao sal e ao vento exigemfixações anticorrosivas e selantes adequados ao ambiente marinho',
+          'Eficiência energética — a Celesc tem tarifas regionais; um sistema bem dimensionado com equipamentos Procel A reduz a conta de luz significativamente ao longo dos anos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns que o projeto evita'
+      },
+      {
+        type: 'list',
+        items: [
+          'Instalar o aparelho no maior cômodo e esperar que o ar circule para os outros — cada ambiente precisa de seu dimensionamento',
+          'Usar a mesma capacidade de BTU para todas as salas sem considerar orientação solar, vidro e ocupação',
+          'Ignorar a rede elétrica existente — vários aparelhos novos ligados ao circuito antigo causam desarmamento e quedas de tensão',
+          'Não prever a drenagem antes da obra — a tubulação de condensado precisa de caminho definido antes do acabamento',
+          'Deixar a condensadora exposta ao sol da tarde — reduz a eficiência e aumenta o consumo em até 15%',
+          'Instalar sem isolar a tubulação — tubulação sem isolamento térmico gera condensamento, goteiramento e mofo dentro das paredes',
+          'Esquecer a manutenção — o projeto deve prever acesso fácil às unidades para limpeza e revisão periódica'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa um projeto de ar-condicionado'
+      },
+      {
+        type: 'paragraph',
+        text: 'O custo do projeto varia com o porte da edificação, a complexidade do sistema e a região. Em Navegantes e no litoral catarinense, os fatores que influenciam o valor incluem:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Número de ambientes a climatizar — cada ambiente adicional exige cálculo individual',
+          'Tipo de sistema — um split simples tem projeto mais simples que um VRF ou sistema central',
+          'Integração com a obra — projetos novos permitem integração completa; reformas exigem compatibilização',
+          'Necessidade de estudos adicionais — auditoria energética, laudo de eficiência ou laudo para AVCB'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O investimento no projeto é uma fração do custo total da instalação — e evita retrabalhos que podem custar o dobro.'
+      },
+      {
+        type: 'heading',
+        text: 'Checklist: o que exigir do profissional que vai projetar seu ar-condicionado'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — confirme o número de registro antes de contratar',
+          'ART emitida antes do início dos serviços — a Anotação de Responsabilidade Técnica deve ser registrada antes da instalação',
+          'Cálculo de carga térmica documentado — não aceite "regra de 600 BTU por metro quadrado" sem análise do ambiente',
+          'Projeto conforme a NBR 16401 — com renovação de ar, controle de umidade e faixas de conforto documentadas',
+          'Dimensionamento elétrico validado — engenheiro eletricista confere a capacidade do quadro e da rede',
+          'Especificação de equipamentos eficientes — selo Procel A, capacidade adequada e compatibilidade com a rede local',
+          'Detalhamento de drenagem e isolamento — tubulação com declive correto, isolamento térmico e proteção contra maresia',
+          'ART de execução ao final — o engenheiro atesta que a instalação foi feita conforme o projeto'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O profissional certo para projetar seu ar-condicionado não é o vendedor de aparelho nem o "técnico de ar": é o engenheiro habilitado com ART, que responde pelo conforto e pela conta de luz dos próximos anos.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre projeto de ar-condicionado'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de projeto para instalar um split em casa? Para um único aparelho residencial simples, o projeto formal não é obrigatório. Mas se você vai instalar mais de um aparelho, reformar a parte elétrica ou construir uma casa nova, o projeto evita erros que saem caros.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre projeto e instalação? O projeto é o plano técnico — cálculos, especificações e desenhos. A instalação é a execução desse plano. Um sem o outro não funciona: instalação sem projeto é improviso; projeto sem instalação é papel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva para fazer o projeto? Para uma residência de médio porte, o projeto leva de 5 a 10 dias úteis. Para edificações comerciais ou condomínios, o prazo pode chegar a 30 dias, dependendo da complexidade e da necessidade de compatibilização com outros projetos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso fazer o projeto eu mesmo com calculadoras online? Calculadoras de BTU são úteis para estimativas grosseiras, mas não substituem o projeto técnico. Elas não consideram umidade relativa, renovação de ar, isolamento, orientação solar e outros fatores que definem o conforto real. O projeto com ART é o documento que prefeitura, CREA e seguradoras aceitam.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto de ar-condicionado serve para o habite-se? Sim. Em edificações novas, o projeto de climatização (que inclui o ar-condicionado) é um dos documentos exigidos para o habite-se na maioria dos municípios catarinenses.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de projeto para ar-condicionado portátil? Equipamentos portátil e de janela de baixa capacidade geralmente não exigem projeto formal. Mas se o uso for contíguo, em ambiente comercial ou com mais de unidade, o projeto garante eficiência e segurança.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto de ar-condicionado com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos de ar-condicionado e climatização dimensionados conforme a NBR 16401. Cuidamos do levantamento de dados, do cálculo de carga térmica por ambiente, da seleção de equipamentos eficientes, do dimensionamento elétrico e da integração com a arquitetura — sempre com ART no CREA-SC e atenção aos desafios do ambiente de maresia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar ou instalar ar-condicionado em Navegantes, fale com nossa equipe antes de comprar o aparelho. Um projeto bem feito economiza dinheiro, evita retrabalhos e garante conforto e eficiência por anos — protegendo sua obra, sua saúde e seu bolso.'
+      }
+    ]
+  },
+  {
+    slug: 'comprar-imovel-irregular-navegantes',
+    title: 'Comprar Imóvel Irregular em Navegantes SC: Riscos, Regularização e Como se Proteger',
+    tag: 'REGULARIZAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Imóvel residencial em Navegantes SC com pendências de regularização — comprador analisando documentação e riscos de aquisição de imóvel irregular no litoral catarinense.',
+    excerpt: 'Imóvel irregular pode parecer barato, mas o custo oculto da regularização surpreende quem não faz due diligence. Saiba identificar riscos, calcular o custo real e como proteger sua compra de um imóvel sem habite-se, sem averbação ou com pendências de documentação em Navegantes.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A cena se repete toda semana em Navegantes: o comprador encontra um imóvel com preço abaixo do mercado, uma vista privilegiada ou uma localização perfeita — e só descobre depois que a construção nunca foi aprovada pela Prefeitura, que o habite-se não existe ou que as ampliações foram feitas sem projeto. O que parecia um bom negócio vira um passivo que trava o financiamento, impede a venda futura e pode gerar multas. Comprar um imóvel irregular não é proibido, mas exige um nível de atenção que poucos compradores estão preparados para ter.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra como identificar um imóvel irregular, quais são os riscos reais de adquiri-lo sem due diligence, como calcular o custo oculto da regularização e quais estratégias protegem o comprador — com foco na realidade de Navegantes e do litoral catarinense, onde o crescimento imobiliário acelerado multiplicou o estoque de imóveis com pendências documentais.'
+      },
+      {
+        type: 'heading',
+        text: 'O que torna um imóvel "irregular"'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um imóvel é considerado irregular quando sua situação documental ou construtiva não está em conformidade com a legislação municipal e cartorária. As irregularidades mais comuns incluem:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construção sem habite-se — a obra foi concluída, mas a Prefeitura nunca emitiu o Certificado de Conclusão, o que significa que o imóvel não pode ser ocupado legalmente',
+          'Ampliações sem aprovação — áreas construídas além do projeto original, como segundo pavimento, varanda fechada,.deck ou galpão, sem projeto aprovado',
+          'Imóvel sem averbação — a construção existe, mas não consta na matrícula do imóvel no cartório de registro de imóveis',
+          'Compra por contrato de gaveta — posse sem escritura registrada, comum em imóveis de herança ouentre familiares',
+          'Obra em área de APP — construção em Área de Preservação Permanente (manguezal, entorno de nascente, faixa de domínio) sem autorização do órgão ambiental',
+          'Imóvel com débitos de IPTU ou taxas municipais — pendências que impedem a regularização e geram multas crescentes'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A irregularidade pode ser parcial (uma ampliação não aprovada em meio a uma construção regular) ou total (a obra inteira sem nenhum documento). Em ambos os casos, o risco para o comprador é real — e o custo da regularização quase sempre supera o que o vendedor antecipa.'
+      },
+      {
+        type: 'quote',
+        text: 'Imóvel irregular não é "imóvel com problema": é imóvel com custo oculto. A diferença entre um bom negócio e um passivo está na análise técnica antes da compra.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que imóveis irregulares aparecem com frequência em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes vive um ciclo de crescimento imobiliário intenso nos últimos 20 anos. A combinação de valorização da orla, proximidade com a Portonave e demanda por moradia proxima ao trabalho gerou uma corrida por terrenos que, muitas vezes, ultrapassou a capacidade de acompanhamento da Prefeitura. Os fatores que alimentam a irregularidade na cidade:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Crescimento acelerado — a população cresceu rápido e a construção informal seguiu o mesmo ritmo, muitas vezes sem projeto aprovado',
+          'Terrenos em APP — a topografia de manguezais e entorno de rios levou à construção em áreas com restrição ambiental que, sem autorização, tornam a regularização inviável',
+          'Verticalização sem planejamento — edifícios e sobrados erguidos antes da atualização do Código de Obras podem ter desconformidades com a legislação vigente',
+          'Mercado informal — imóveis vendidos por particulares, sem intermediação de imobiliária, sem due diligence e com documentos incompletos',
+          'Herança e inventário — imóveis passados de geração em geração sem regularização cartorária, acumulando pendências'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Riscos de comprar um imóvel irregular'
+      },
+      {
+        type: 'paragraph',
+        text: 'O principal risco não é a irregularidade em si — é a surpresa. Um comprador que descobre a irregularidade depois de fechar o negócio enfrenta consequências que vão além do custo financeiro:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Impossibilidade de financiamento — bancos exigem habite-se e averbação para aprovar crédito. Sem esses documentos, o comprador precisa de capital próprio',
+          'Impossibilidade de venda futura — o imóvel irregular não pode ser vendido com financiamento, o que reduz drasticamente o pool de compradores e o valor de mercado',
+          'Multas e embargo — a Prefeitura pode notificar o proprietário e aplicar multas por construção irregular, que crescem com o tempo',
+          'Risco estrutural — ampliações sem projeto podem ter problemas de fundação, estrutura e impermeabilização que só um laudo técnico identifica',
+          'Perda do investimento — se a irregularidade for grave (construção em APP total, por exemplo), a regularização pode ser impossível, e o imóvel perde valor drasticamente',
+          'Problemas em inventário — herdeiros que recebem imóvel irregular herdam também o passivo, e a regularização pode ser mais cara que o próprio imóvel'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como identificar um imóvel irregular antes de comprar'
+      },
+      {
+        type: 'paragraph',
+        text: 'A due diligence imobiliária é o processo de verificação documental e técnica que antecede a compra. Para imóveis em Navegantes, ela deve incluir:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Certidão de matrícula atualizada — verifica se a construção consta na matrícula do imóvel no cartório de registro de imóveis',
+          'Certidão negativa de débitos de IPTU — confirma se não há pendências fiscais que impeçam a regularização',
+          'Consulta à Prefeitura — verifica se existe projeto aprovado, alvará de construção e habite-se para a edificação',
+          'Levantamento técnico — engenheiro mede e documenta a construção real, comparando com o projeto aprovado (quando existe)',
+          'Análise de APP — verifica se o imóvel está em Área de Preservação Permanente ou em zona de restrição ambiental',
+          'Certidão de ônus reais — confirma se não há penhoras, hipotecas ou restrições que impeçam a transferência'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A due diligence imobiliária custa uma fração do preço do imóvel — e pode economizar décadas de dor de cabeça com regularização, multas e processos.'
+      },
+      {
+        type: 'heading',
+        text: 'Custo oculto da regularização: o que o vendedor não conta'
+      },
+      {
+        type: 'paragraph',
+        text: 'Muitos vendedores de imóveis irregulares oferecem desconto, argumentando que "a regularização é simples". Na prática, o custo da regularização depende da complexidade do caso — e pode surpreender:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento as-built — o engenheiro mede a construção real e elabora o projeto de regularização, com custo variável conforme o porte',
+          'Taxas municipais — a Prefeitura cobra taxas de análise, emissão de alvará e habite-se, que variam conforme o município',
+          'SERO e CND — o recolhimento das contribuições previdenciárias da mão de obra gera a Certidão Negativa de Débitos, condição para a averbação',
+          'Regularização ambiental — se o imóvel estiver em APP, o processo pode envolver estudos ambientais, compensação e autorização do órgão competente',
+          'Adequações construtivas — a Prefeitura pode exigir ajustes (recuos, instalações, acessibilidade) antes de emitir o habite-se',
+          'Advogado — em casos complexos, a assessoria jurídica é necessária para negociar com a Prefeitura e com o vendedor'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O erro mais comum é subestimar o custo: um imóvel com desconto de 15% pode facilmente gerar uma regularização de 20% a 30% do valor, transformando o "bom negócio" em prejuízo. A regra de ouro: antes de fechar, faça a análise de viabilidade da regularização — é o único modo de saber o custo real.'
+      },
+      {
+        type: 'heading',
+        text: 'Estratégias para proteger a compra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Comprar um imóvel irregular não é necessariamente uma má decisão — desde que o comprador esteja plenamente informado e tome as providências corretas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Exija análise de viabilidade antes da compra — um engenheiro deve avaliar se a regularização é possível e qual o custo estimado',
+          'Negocie com base no custo real — o desconto deve cobrir o custo da regularização, não ser apenas uma "redução simbólica"',
+          'Use cláusula contratual — insira no contrato de compra e venda uma cláusula que condicione a conclusão à regularização, com prazo e penalidades',
+          'Segure o pagamento — não libere o valor total antes de obter ao menos o habite-se ou a confirmação de que a regularização é viável',
+          'Inclua garantia do vendedor — exija que o vendedor responda por eventuais irregularidades que surgirem após a compra',
+          'Consulte advogado imobiliário — o jurista identifica riscos contratuais que o comprador leigo não percebe'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Regularização después da compra: é possível?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. Na maioria dos casos, a regularização pode ser feita depois da compra, desde que o imóvel esteja dentro dos parâmetros dozoneamento e do Código de Obras. O processo é o mesmo da regularização de obra existente:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento as-built — o engenheiro mede a construção como ela realmente está e elabora o projeto de regularização',
+          'Protocolo na Prefeitura — o projeto é submetido com a documentação do terreno e a ART do responsável técnico',
+          'Análise e adequações — a Prefeitura analisa e, se necessário, emite exigências que o engenheiro acompanha',
+          'Emissão do habite-se — a Prefeitura vistoria e emite o Certificado de Conclusão',
+          'Baixa na Receita Federal — o recolhimento do SERO gera a CND para a averbação',
+          'Averbação no cartório — a construção é registrada na matrícula do imóvel'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O prazo varia conforme a complexidade: imóveis simples podem ser regularizados em poucas semanas; casos com ampliações, APP ou adequações exigidas podem levar meses. O importante é que o processo existe — e que um engenheiro conduza cada etapa com ART e documentação técnica.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a regularização não é possível'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem todo imóvel irregular pode ser regularizado. Existem situações onde a regularização é inviável ou proibida:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construção total em APP — se a edificação ocupa integralmente Área de Preservação Permanente, a regularização ambiental pode ser impossível',
+          'Desconformidade grave com ozoneamento — construção muito acima do gabarito, da taxa de ocupação ou do coeficiente de aproveitamento',
+          'Risco estrutural comprovado — edificação com problemas estruturais que exigem demolição parcial ou total',
+          'Área de domínio público — construção em faixa de domínio de rodovia ou de ferrovia',
+          'Débitos ambientais pendentes — passivos ambientais que impedem a autorização do órgão competente'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Nesses casos, o comprador pode acabar com um imóvel que não pode ser regularizado e que, portanto, perde valor drasticamente. Por isso, a análise de viabilidade antes da compra é absolutamente essencial — é ela que define se o imóvel é um investimento ou um passivo.'
+      },
+      {
+        type: 'heading',
+        text: 'A regularização na legislação de Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes possui o Código de Obras (LC 416/2023) e a Lei de Regularização de Obras Irregulares (LC 452/2024), que estabelecem as regras para a regularização de construções existentes. Esses diplomas definem:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Parâmetros de regularização — quais desconformidades podem ser regularizadas e quais exigem demolição',
+          'Taxas e procedimentos — valores das taxas municipais e fluxo de análise na Prefeitura',
+          'Prazos — prazo de análise, de adequação e de emissão do habite-se',
+          'Áreas sensíveis — restrições específicas para imóveis em entorno de APP, zona portuária e centro histórico',
+          'Anistia e programas especiais — janelas de regularização com condições facilitadas, quando disponíveis'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O conhecimento dessas normas é fundamental para quem vai comprar ou regularizar. Um engenheiro que domina a legislação local consegue antecipar exigências, evitar surpresas e conduzir o processo de forma mais rápida e eficiente.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre compra de imóvel irregular'
+      },
+      {
+        type: 'subheading',
+        text: 'Posso comprar um imóvel sem habite-se?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim, a compra é juridicamente possível. Mas o comprador assume o risco de não conseguir financiamento, de receber multas da Prefeitura e de enfrentar um processo de regularização que pode ser custoso e demorado. A análise de viabilidade técnica antes da compra é indispensável.'
+      },
+      {
+        type: 'subheading',
+        text: 'O desconto compensa a irregularidade?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Depende. Se o desconto é maior que o custo estimado da regularização, sim. Se é menor, o comprador está pagando mais caro do que imaginava. O cálculo deve ser feito com base em orçamento técnico, não em impressão subjetiva de "preço baixo".'
+      },
+      {
+        type: 'subheading',
+        text: 'Posso financiar um imóvel irregular?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. Bancos exigem habite-se e averbação para aprovar financiamento imobiliário. O comprador de imóvel irregular precisa de capital próprio até que a regularização seja concluída — o que pode levar semanas ou meses.'
+      },
+      {
+        type: 'subheading',
+        text: 'E se eu comprar e depois descobrir que não pode ser regularizado?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Esse é o pior cenário. O imóvel perde valor drasticamente e o comprador fica com um passivo. Por isso, a análise de viabilidade deve ser feita antes da compra, não depois. Um engenheiro experiente em Navegantes consegue antecipar os principais riscos.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa regularizar um imóvel irregular em Navegantes?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O custo varia com o porte da edificação, a complexidade das irregularidades e as taxas municipais. Casos simples podem custar relativamente pouco; casos com ampliações, APP ou adequações estruturais envolvem investimento significativo. O orçamento técnico é o único modo de ter certeza.'
+      },
+      {
+        type: 'subheading',
+        text: 'A Regê Engenharia faz a análise de viabilidade antes da compra?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com análise de viabilidade de regularização, levantamento técnico e assessoria para compradores de imóveis com pendências. Fale com nossa equipe antes de fechar o negócio — a análise inicial pode evitar anos de dor de cabeça.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia apoia o comprador'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com serviços de due diligence imobiliária, regularização de imóveis e assessoria técnica para compradores. Nossa equipe:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Analisa a viabilidade da regularização antes da compra — identifica riscos, custos e prazos reais',
+          'Realiza o levantamento técnico do imóvel — mede a construção e compara com a documentação existente',
+          'Conduz o processo de regularização junto à Prefeitura — projeto as-built, aprovação, habite-se e averbação',
+          'Emite ART no CREA-SC em todas as etapas técnicas — responsabilidade formal documentada',
+          'Assiste o comprador na negociação — base técnica para discutir preço e cláusulas contratuais',
+          'Identifica irregularidades que tornam a regularização inviável — evitando compra de imóvel com passivo sem solução'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você está pensando em comprar um imóvel em Navegantes e desconfia que pode haver pendências, fale com a equipe da Regê Engenharia antes de fechar. A análise técnica inicial é rápida, objetiva e pode economizar muito mais do que o custo do serviço — protegendo seu investimento e sua tranquilidade.'
+      }
+    ]
+  },
+  {
+    slug: 'regularizacao-de-imovel-navegantes',
+    title: 'Regularização de Imóvel em Navegantes: O Que É, Quando Fazer e O Que Exigir do Engenheiro',
+    tag: 'LEGISLAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Engenheiro e arquiteto conduzindo regularização de imóvel em Navegantes SC, com projeto aprovado, ART, RRT e averbação no cartório.',
+    excerpt: 'Imóvel irregular trava venda, financiamento e herança. Entenda o que é a regularização de imóvel, em quais situações ela é obrigatória em Navegantes e o que exigir do engenheiro e do arquiteto para deixar sua edificação legal, segura e valorizada.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Muita gente descobre que o imóvel é irregular na pior hora: ao tentar vender, ao abrir o inventário, ao pedir um financiamento ou quando a Prefeitura bate à porta por conta de uma denúncia. Ter uma casa ou comércio "fora da lei" não é apenas um detalhe burocrático — é um passivo que trava o patrimônio e expõe o proprietário a multa, embargo e até responsabilidade criminal. A regularização de imóvel é o caminho para transformar essa pendência em um bem documentado, seguro e valorizado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que é a regularização de imóvel, quais as situações que a exigem em Navegantes e no litoral catarinense, quem pode conduzi-la e o que você deve exigir do engenheiro civil e do arquiteto para resolver a pendência com respaldo técnico e legal.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a regularização de imóvel'
+      },
+      {
+        type: 'paragraph',
+        text: 'Regularizar o imóvel é colocá-lo em conformidade com a legislação — urbana, ambiental, cartorial e técnica. Na prática, significa fazer com que a edificação construída bata com o que foi (ou deveria ter sido) aprovado pela Prefeitura, que a matrícula do cartório reflita a área real e que os responsáveis técnicos estejam devidamente registrados. O resultado é um imóvel que pode ser usado, vendido, financiado e herdado sem sobressaltos.'
+      },
+      {
+        type: 'list',
+        items: [
+          'É adequar a obra à legislação urbanística do município',
+          'É registrar a construção na matrícula do imóvel (averbação)',
+          'É emitir os documentos técnicos (ART, RRT) e o habite-se quando exigido',
+          'É resolver pendências ambientais e de órgãos (CREA, CAU, INSS, bombeiros)',
+          'É transformar passivo em patrimônio documentado e valorizado'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Imóvel irregular não é só burocracia pendente — é dinheiro parado que você não consegue vender nem financiar.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a regularização é obrigatória'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obra sem alvará — construção ou reforma iniciada sem aprovação da Prefeitura',
+          'Obra diferente do projeto — ampliação, alteração ou fechamento feitos fora do aprovado',
+          'Imóvel sem habite-se — edificação concluída que nunca teve o certificado de conclusão',
+          'Divergência de área — a metragem construída na matríula não bate com a realidade',
+          'Desmembramento ou unificação — divisão ou junção de lotes sem averbação',
+          'Terreno de marinha ou APP — imóvel em faixa costeira ou área de preservação, com restrições específicas',
+          'Herança e inventário — imóvel irregular dificulta a partilha e a transferência'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Os tipos de regularização'
+      },
+      {
+        type: 'paragraph',
+        text: 'A depender da pendência, a regularização pode envolver frentes diferentes, muitas vezes simultâneas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Urbanística e municipal — aprovação do projeto (ou do "projeto de regularização") e emissão do habite-se na Prefeitura de Navegantes',
+          'Cartorial — averbação da construção na matrícula do Registro de Imóveis, reconhecendo a área no papel',
+          'Técnica — emissão das ARTs (engenheiro, CREA-SC) e RRTs (arquiteto, CAU/BR) que vinculam os responsáveis',
+          'Ambiental — regularidade com o IMA/SC e demais órgãos quando há APP, área verde ou faixa de marinha',
+          'Fiscal/trabalhista — regularidade do INSS da obra quando aplicável',
+          'Prevenção a incêndio — AVCB do Corpo de Bombeiros de SC quando a edificação exige'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem conduz a regularização'
+      },
+      {
+        type: 'paragraph',
+        text: 'A regularização é um serviço de engenharia e arquitetura, conduzido por profissionais habilitados e com responsabilidade técnica registrada:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro civil (CREA-SC) — projeta a regularização, emite ART e atesta a segurança estrutural',
+          'Arquiteto e urbanista (CAU/BR) — desenha o projeto de regularização e emite RRT',
+          'Responsável técnico original — quando identificável, deve anuir ou complementar a documentação',
+          'Cartório e registro de imóveis — formalizam a averbação após a documentação municipal e técnica',
+          'Órgãos públicos — Prefeitura, CREA, CAU, IMA, INSS e Corpo de Bombeiros conferem e liberam suas partes'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Regularizar sem ART e RRT é apenas adiar o problema: o cartório e a Prefeitura vão exigir a responsabilidade técnica antes de liberar.'
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do engenheiro e do arquiteto'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC (engenheiro) e no CAU/BR (arquiteto)',
+          'ART e RRT registrados — emitidos antes do início e na conclusão do serviço',
+          'Levantamento da edificação — planta de situação, cortes e quadro de áreas da obra como ela está',
+          'Projeto de regularização — desenho que atende ao código de obras e ao zoneamento de Navegantes',
+          'Cálculo estrutural quando necessário — para atestar segurança quando a edificação foge do padrão',
+          'Condução junto aos órgãos — protocolo, acompanhamento e resposta a exigências na Prefeitura e demais órgãos',
+          'Entrega da documentação completa — prontuário para averbação e habite-se'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que complicam (e encarecem) a regularização'
+      },
+      {
+        type: 'list',
+        items: [
+          'Esperar a denúncia ou a venda — quanto mais tempo, maior o risco de multa e mais cara a regularização',
+          'Contratar "por fora" — sem ART e RRT, nenhum órgão aceita o processo',
+          'Omitir áreas ou alterações — o levantamento tem que retratar a obra real; esconder só gera exigência',
+          'Ignorar APP e marinha — no litoral, restrições ambientais tornam a regularização inviável se não tratadas',
+          'Achar que só a prefeitura basta — sem cartório e responsabilidade técnica, o imóvel segue irregular no papel',
+          'Fazer "no jeito" — reforços e fechamentos sem projeto criam novas divergências e risco estrutural'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O erro mais caro da regularização é deixar para fazer quando o comprador ou o banco pedem. Faça antes — e venda com o imóvel pronto.'
+      },
+      {
+        type: 'heading',
+        text: 'Regularização na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico — vistoria técnica e levantamento da edificação e da documentação existente',
+          'Estudo de viabilidade — verificação do zoneamento, restrições e o que falta para regularizar',
+          'Projeto de regularização — plantas e memoriais assinados por engenheiro e arquiteto com ART e RRT',
+          'Protocolo na Prefeitura — aprovação do projeto e, se for o caso, do "projeto de adequação"',
+          'Execução dos ajustes — obras necessárias para que a edificação atenda ao aprovado',
+          'Habite-se e averbação — certificado de conclusão e registro da área na matrícula do imóvel'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre regularização de imóvel'
+      },
+      {
+        type: 'paragraph',
+        text: 'Regularizar é muito caro? Depende da pendência. O custo do projeto e dos honorários é pequeno frente ao valor que se recupera ao tornar o imóvel vendável e financiável — e muito menor que a multa e o retrabalho de regularizar às pressas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso regularizar imóvel construído há muitos anos? Sim. Mesmo obras antigas podem ser regularizadas, com projeto de adequação e responsabilidade técnica atual. O tempo não impede — só aumenta o risco de autuação enquanto pendente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro e o arquiteto são obrigatórios? Para a maioria das regularizações, sim. A Prefeitura e o cartório exigem responsabilidade técnica (ART e RRT). Sem eles, o processo não avança.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Imóvel em terreno de marinha pode ser regularizado? Sim, mas segue regras próprias da União (SPU/Marinha) e do IMA/SC. A regularização exige tratar essas restrições junto aos órgãos competentes.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva? Varia com a complexidade e o volume de processos. Projetos bem documentados e com responsabilidade técnica ativa costumam ser aceitos mais rápido; o atraso vem de documento faltando.'
+      },
+      {
+        type: 'heading',
+        text: 'Regularização de imóvel com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com diagnóstico, projeto e condução de regularização de imóveis. Cuidamos do levantamento, do projeto de regularização, das ARTs no CREA-SC e dos RRTs no CAU/BR, e acompanhamos o processo junto à Prefeitura até a emissão do habite-se e a averbação na matrícula do imóvel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o seu imóvel em Navegantes está irregular — ou se você quer comprar ou vender sem surpresas — fale com nossa equipe. Colocamos sua edificação dentro da lei com responsabilidade técnica, para que seu patrimônio volte a ser líquido, seguro e valorizado.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-eletrico-industrial',
+    title: 'Projeto Elétrico Industrial: O que é, o que inclui e por que sua Indústria em SC Precisa',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Engenheiro eletricista analisando o projeto elétrico de um galpão industrial no litoral de Santa Catarina, com quadros de distribuição e alimentadores.',
+    excerpt: 'O projeto elétrico industrial dimensiona e organiza toda a instalação elétrica da sua indústria, do quadro à carga. Entenda o que ele inclui, quem aprova, por que evita multas e retrabalho e como ele reduz a conta de energia no litoral.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Uma indústria, um galpão ou um grande comércio não funciona com "luz passada por cima". Por trás de cada máquina, do ar-condicionado, do sistema de exaustão e da iluminação existe um desenho que decide quanto de energia entra, por onde ela passa e como ela é protegida: o projeto elétrico industrial. Mais do que um papel para a concessionária, ele é o documento que garante segurança, eficiência e continuidade de operação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é o projeto elétrico industrial, o que ele inclui, quem aprova, por que ele é obrigatório e como um projeto bem feito reduz custos e evita paradas no litoral de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o projeto elétrico industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto elétrico industrial é o conjunto de memoriais, plantas e cálculos que define a instalação elétrica de um estabelecimento de uso coletivo ou industrial. Ele levanta todas as cargas (máquinas, motores, climatização, iluminação), dimensiona os cabos, disjuntores e quadros, e estabelece as proteções contra sobrecarga, curto-circuito, descarga atmosférica e falta de energia. Sem ele, a instalação é feita "no olho" — e a conta vem depois, em multa, incêndio ou equipamento queimado.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o projeto elétrico industrial inclui'
+      },
+      {
+        type: 'list',
+        items: [
+          'Memorial descritivo e de cálculo — descrição dos equipamentos e dos cálculos de carga, queda de tensão e curto-circuito',
+          'Diagrama unifilar — o "mapa" da distribuição da energia, da entrada à última carga',
+          'Quadros de distribuição — dimensionamento de quadros, disjuntores, DR e barramentos',
+          'Dimensionamento de cabos e eletrodutos — seção dos condutores conforme a corrente e a distância',
+          'Aterramento e equipotencialização — proteção contra choque e descarga',
+          'SPDA (para-raios) — proteção da edificação contra descarga atmosférica',
+          'Iluminação e tomadas — pontos, níveis de luminância e circuitos',
+          'Automação e comando — partidas de motores, CLP e integração de máquinas',
+          'Grupo gerador e transferência — reserva de energia para processos críticos',
+          'Conformidade NR-10 — exigências de segurança em instalações elétricas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que o projeto é obrigatório e quem aprova'
+      },
+      {
+        type: 'list',
+        items: [
+          'ART do engenheiro eletricista — a Anotação de Responsabilidade Técnica é obrigatória e vincula o profissional à obra',
+          'Celesc — a concessionaria exige o projeto para ligação, ampliação ou adequação da rede',
+          'Corpo de Bombeiros (CBMSC) — o AVCB exige instalação elétrica regular e compatível com a prevenção de incêndio',
+          'Vigilância Sanitária e órgãos específicos — indústrias de alimento, saúde e outras têm exigências próprias de energia'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Benefícios de um projeto elétrico bem feito'
+      },
+      {
+        type: 'list',
+        items: [
+          'Segurança — reduz risco de incêndio, choque e queima de equipamentos',
+          'Eficiência energética — cargas bem dimensionadas e fator de potência corrigido reduzem a conta',
+          'Continuidade — quadros e proteções bem projetados evitam paradas por falta de energia',
+          'Aprovação rápida — projeto completo é aprovado pela Celesc e pelos bombeiros sem volta e meia',
+          'Expansão facilitada — o desenho pronto mostra onde e como crescer a instalação',
+          'Valorização — indústria regular tem valor maior na venda, no financiamento e no seguro'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Projeto elétrico não é despesa de aprovação: é o seguro da sua operação. A instalação feita sem projeto é a que para na primeira sobrecarga — e a que queima o que não deveria.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico e eficiência no litoral de SC'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral norte catarinense, o projeto elétrico industrial ganha variáveis locais. A maresia acelera a corrosão de quadros e conectores, exigindo materiais e grau de proteção adequados. O verão força ar-condicionado e exaustão ao máximo, disparando a demanda. E a tarifa da Celesc premia quem corrige o fator de potência e gere bem a carga. Um projeto feito para o litoral especifica materiais que resistem ao ambiente e dimensiona a demanda para não pagar por energia ociosa.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Materiais para maresia — quadros e conectores com proteção anticorrosiva',
+          'Gestão de demanda — dimensionamento para o pico de verão sem excesso contratado',
+          'Fator de potência — correção para evitar multa da concessionária',
+          'Gerador integrado — transferência automática para processos que não podem parar'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'O projeto elétrico industrial precisa de ART?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. A ART do engenheiro eletricista é obrigatória para a elaboração e para a execução do projeto elétrico. Sem ART, a Celesc não libera a ligação e o Corpo de Bombeiros não emite o AVCB.'
+      },
+      {
+        type: 'subheading',
+        text: 'Qual a diferença entre projeto elétrico residencial e industrial?'
+      },
+      {
+        type: 'paragraph',
+        text: 'A lógica é a mesma, mas a escala muda. O industrial lida com cargas muito maiores, motores, automação, grupo gerador, SPDA e exigências de órgãos como Celesc, bombeiros e vigilância sanitária. Por isso exige cálculo de curto-circuito, coordenação de proteções e estudo de demanda, ausentes na residência comum.'
+      },
+      {
+        type: 'subheading',
+        text: 'O projeto evita multa da Celesc?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Ele reduz drasticamente o risco. A concessionária autua instalações irregulares, com fator de potência baixo ou ligação clandestina. O projeto regular, com ART e medição correta, é a base para uma ligação sem autuação.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa um projeto elétrico industrial?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O valor varia com a área, o número de cargas e a complexidade da automação. Pequenos galpões têm projeto acessível; indústrias com automação e gerador exigem estudo mais detalhado. Em qualquer escala, o custo do projeto é uma fração do custo de uma parada, de um incêndio ou de uma multa.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto elétrico industrial é o documento que transforma energia em operação segura, eficiente e legal. Ele dimensiona cargas, protege a instalação, aprova a ligação e sustenta o AVCB — e, no litoral de Santa Catarina, ainda protege os equipamentos da maresia e da demanda de verão.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai abrir, ampliar ou regularizar uma indústria, galpão ou comércio em Navegantes e no litoral norte catarinense, fale com a equipe técnica da Regê Engenharia. Elaboramos o projeto elétrico industrial completo — com ART, conformidade NR-10, integração com Celesc e Corpo de Bombeiros — para que sua operação ligue com segurança, eficiência e tranquilidade.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-eletrico-comercial-navegantes',
+    title: 'Projeto Elétrico Comercial: O Que Exigir do Engenheiro para Sua Loja ou Empreendimento em Navegantes',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Projeto elétrico comercial em empreendimento de Navegantes SC, com quadro de distribuição, cargas e ART do engenheiro eletricista no CREA-SC.',
+    excerpt: 'Projeto elétrico comercial não é residencial com mais tomadas. Entenda o que ele exige, por que a NBR 5410 e a concessionária definem o dimensionamento e o que cobrar do engenheiro eletricista para abrir sua loja ou galpão em Navegantes com segurança e sem retrabalho.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quem abre um comércio em Navegantes costuma focar em ponto, estoque e divulgação — e deixa a parte elétrica para o eletricista "dar um jeito". O resultado é conhecido: quadro sobrecarregado, queda de tensão na hora de pico, equipamento queima, laudo do Corpo de Bombeiros negado e obra parada na véspera da inauguração. O projeto elétrico comercial não é residencial com mais tomadas: tem carga, norma e concessionária diferentes, e exige engenheiro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que é o projeto elétrico comercial, por que ele segue regras próprias (NBR 5410 e Celesc), quando é obrigatório em Navegantes e o que você deve exigir do engenheiro eletricista para ligar seu empreendimento com segurança, dentro da lei e sem surpresa na conta.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o projeto elétrico comercial'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto elétrico comercial é o conjunto de memoriais, cálculos e desenhos que define toda a instalação elétrica de um estabelecimento de uso não residencial — loja, escritório, restaurante, galpão, hotel, indústria. Ele dimensiona a demanda, as cargas, a proteção, a distribuição e o centro de medição, garantindo que a rede suporte o uso sem risco e sem desperdício.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Memorial descritivo e de cálculo — justificativa técnica de todas as escolhas',
+          'Quadro de distribuição — disjuntores, DR, barramento e proteção por circuito',
+          'Cargas e pontos — tomadas, iluminação, equipamentos e maquinário com potência definida',
+          'Centro de medição — padrão de entrada conforme a concessionária (Celesc)',
+          'SPDA e aterramento — proteção contra descargas e segurança de pessoas e equipamentos',
+          'Compatibilização — com o projeto arquitetônico, o de climatização e o de incêndio'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Projeto elétrico comercial não é "passar fio": é dimensionar carga, proteger circuito e atender concessionária e bombeiros — tudo antes de quebrar a parede.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que comercial é diferente de residencial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um comércio tem perfis de uso que a casa não tem. Ignorar isso é o que gera o "tomou luz e apagou tudo":'
+      },
+      {
+        type: 'list',
+        items: [
+          'Maior demanda — equipamentos de refrigeração, cozinha, autosserviço e maquinário elevam a carga simultânea',
+          'Uso contínuo — ar-condicionado, balcões e iluminação ligados o dia todo exigem dimensionamento de regime permanente',
+          'Segurança coletiva — o risco não é só do proprietário: clientes e funcionários estão no ambiente',
+          'Concessionária — a Celesc exige padrão de entrada e medição conforme a carga contratada',
+          'Bombeiros — SPDA e adequação às normas de segurança são exigidos para o alvará'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'A norma: NBR 5410'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NBR 5410 (Instalações elétricas de baixa tensão) é a norma brasileira que rege projetos elétricos comerciais e residenciais. Ela define o dimensionamento de condutores, a proteção contra sobrecorrente e sobrecarga, o aterramento, o divisor de cargas e as faixas de tensão. Um projeto fora da NBR 5410 não é apenas técnico: é irregular e reprovado pela concessionária e pelos órgãos fiscalizadores.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem assina a responsabilidade técnica'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro eletricista (CREA-SC) — profissional habilitado a projetar instalações elétricas comerciais, com ART registrada',
+          'Engenheiro de segurança do trabalho — quando a instalação integra programa de prevenção e laudo de segurança',
+          'Arquiteto (CAU/BR) — integra o projeto elétrico ao partido arquitetônico, com RRT quando altera forros e fachadas',
+          'Instalador e eletricista — executam conforme o projeto; a execução segue a responsabilidade do projetista'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Quem assina a ART da instalação elétrica responde pela segurança do seu comércio e das pessoas que nele entram. Escolha o engenheiro, não o eletricista de ocasião.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando o projeto elétrico comercial é obrigatório'
+      },
+      {
+        type: 'list',
+        items: [
+          'Abertura de comércio — a Celesc exige projeto para ligar o padrão de medição e liberar a energia',
+          'Alvará de funcionamento — a Prefeitura e o Corpo de Bombeiros exigem a instalação regular para o alvará',
+          'Mudança de atividade — trocar o uso do imóvel altera a carga e exige readequação do projeto',
+          'Ampliação ou reforma — qualquer acréscimo de área ou equipamento redefine a demanda',
+          'Adequação a norma — imóvel antigo fora da NBR 5410 precisa de projeto de atualização'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do engenheiro eletricista'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — confirme o número de registro no conselho',
+          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada antes da execução',
+          'Cálculo de demanda conforme a NBR 5410 — com fator de simultaneidade e carga do equipamento',
+          'Projeto do centro de medição — padrão de entrada conforme as exigências da Celesc',
+          'SPDA e aterramento — proteção contra descarga atmosférica e segurança de equipamentos',
+          'Compatibilização — com arquitetura, climatização e prevenção a incêndio, sem conflito de rotas',
+          'ART de execução — ao final, o engenheiro atesta a instalação conforme o projeto'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que param a obra e queimam equipamento'
+      },
+      {
+        type: 'list',
+        items: [
+          'Dimensionar "no olho" — condutor menor que a carga aquece e causa incêndio; maior, é desperdício',
+          'Não prever a carga do equipamento — balcão, cozinha e autosserviço estouram a rede no dia a dia',
+          'Centro de medição fora da Celesc — a concessionária não libera a ligação e a obra fica sem energia',
+          'Omitir SPDA — no litoral, descargas atmosféricas são frequentes; a falta de para-raio é risco e exigência',
+          'Não aterrar — equipamentos sensíveis queimam e há risco à vida dos ocupantes',
+          'Esconder o quadro depois — projeto elétrico sem roteiro vira emaranhado inacessível para manutenção'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O erro mais caro da instalação comercial não está no fio — está no projeto que não dimensionou a carga.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico comercial na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contrate engenheiro eletricista habilitado no CREA-SC — com experiência em edificações comerciais',
+          'Levante as cargas — relação de todos os equipamentos, iluminação e uso previsto do comércio',
+          'Exija ART e cálculo conforme a NBR 5410 — projeto fundamentado e registrado',
+          'Adeque o padrão à Celesc — projeto do centro de medição conforme a concessionária',
+          'Integre SPDA e aterramento — proteção e segurança previstas desde o projeto',
+          'Execute e ateste — instalação conforme o projeto, com ART de execução para liberação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre projeto elétrico comercial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de engenheiro para instalação comercial? Sim. Diferente da residência simples, a instalação comercial exige projeto e ART de engenheiro eletricista, conforme a NBR 5410 e as exigências da Celesc e dos bombeiros.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença para o projeto residencial? A carga. O comercial concentra equipamentos de maior potência e uso contínuo, exigindo dimensionamento de demanda, centro de medição e SPDA que a residência comum dispensa ou simplifica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Celesc libera sem projeto? Não. A concessionária exige o padrão de medição conforme o projeto aprovado; sem ele, não há ligação definitiva de energia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'SPDA é obrigatório no litoral? Em Navegantes, a incidência de descargas atmosféricas torna o sistema de proteção contra raios exigência recorrente em edificações comerciais e de uso coletivo. O projeto define a necessidade caso a caso.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa o projeto elétrico comercial? Varia com a área, a carga e a complexidade. O custo do projeto é pequeno frente ao retrofit emergencial, à queima de equipamentos e à multa por obra irregular.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico comercial com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos elétricos comerciais dimensionados conforme a NBR 5410. Cuidamos do cálculo de demanda, do centro de medição conforme a Celesc, do SPDA e do aterramento, e da compatibilização com arquitetura e climatização — sempre com ART no CREA-SC e foco na segurança do seu empreendimento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai abrir, reformar ou ampliar um comércio em Navegantes, fale com nossa equipe antes de fechar a parede. Um projeto elétrico feito por engenheiro é o que garante energia estável, alvará liberado e cliente seguro desde o primeiro dia de funcionamento.'
+      }
+    ]
+  },
+{
+    slug: 'levantamento-arquitetonico-navegantes',
+    title: 'Levantamento Arquitetônico (As-Built) em Navegantes SC: Guia Completo para Medir, Documentar e Regularizar',
+    tag: 'ARQUITETURA',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Levantamento arquitetônico as-built em Navegantes SC — engenheiro medindo edificação existente com trena laser para planta de reforma e regularização.',
+    excerpt: 'Vai reformar, ampliar ou regularizar em Navegantes? Tudo começa no levantamento arquitetônico (as-built): a medição fiel do que foi construído. Veja o que mede, como é feito, entregáveis, custos, prazos e por que sem as-built não há projeto nem Habite-se.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Antes de desenhar qualquer reforma, ampliação ou projeto de regularização, existe uma etapa que decide se o resto vai dar certo ou vai virar retrabalho: o levantamento arquitetônico. Também chamado de levantamento físico ou as-built (como construído), ele é a medição fiel da edificação como ela realmente existe — paredes, portas, janelas, pé-direito, níveis, fachadas, cobertura e implantação no lote — transformada em planta técnica pronta para projetar.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e no Litoral Norte de Santa Catarina — onde grande parte dos imóveis foi construída sem projeto aprovado, sofreu puxadinhos e ampliações informais ou tem divergência entre matrícula, IPTU e realidade — o levantamento arquitetônico não é detalhe: é a base que a Prefeitura (LC 416/2023 e LC 452/2024), o cartório, os Bombeiros (CBMSC) e o banco exigem para aprovar, averbar, vistoriar e financiar. Sem o as-built, o projetista chuta medidas e a obra paga a conta.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é levantamento arquitetônico (as-built)'
+      },
+      {
+        type: 'paragraph',
+        text: 'O levantamento arquitetônico é o processo técnico de medir in loco uma edificação existente e convertê-la em desenho técnico fiel: plantas baixas de todos os pavimentos, cortes, fachadas, planta de cobertura e planta de implantação/situação, com cotas, áreas e níveis conforme a ABNT NBR 6492. O produto é o projeto as-built — o retrato do que foi efetivamente construído, não do que estava no projeto original (quando existia).'
+      },
+      {
+        type: 'list',
+        items: [
+          'Planta baixa as-built — perímetro interno e externo, espessura de paredes, posição e dimensão de portas, janelas, portões e guarda-corpos',
+          'Cortes — pé-direito por ambiente, altura de vergas e peitoris, forro, cobertura, escadas e desníveis',
+          'Fachadas — revestimentos, esquadrias, muros, platibandas, marquises e elementos aparentes',
+          'Cobertura — tipo de telha, inclinação, beirais, calhas, rufos e reservatório',
+          'Implantação — posição da edificação no lote, recuos, área permeável, acessos e vagas',
+          'Quadro de áreas — área por ambiente, por pavimento e total, taxa de ocupação e coeficiente'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Projeto sem as-built é ficção. Com as-built, é engenharia: a reforma nasce sobre medidas reais, não sobre suposições.'
+      },
+      {
+        type: 'heading',
+        text: 'Levantamento arquitetônico x topográfico x projeto novo'
+      },
+      {
+        type: 'paragraph',
+        text: 'A confusão mais comum — e que mais gera retrabalho — é tratar esses levantamentos como se fossem a mesma coisa:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento arquitetônico (as-built) — mede A EDIFICAÇÃO: paredes, esquadrias, pé-direito, níveis internos e fachadas. Base para reforma, ampliação, retrofit, regularização, perícia, AVCB e compra de imóvel usado',
+          'Levantamento topográfico / planialtimétrico — mede O TERRENO: limites, cotas, curvas de nível, relevo, redes e APPs. Base para obra nova, terraplanagem, drenagem e loteamento',
+          'Projeto arquitetônico novo — desenha O QUE SERÁ CONSTRUÍDO. Parte do zero. Precisa dos dois levantamentos anteriores como base',
+          'As-built de instalações — registra como foram executadas a elétrica, hidrossanitária, climatização e incêndio. Essencial para manutenção e Habite-se'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, para regularização na Prefeitura, a exigência padrão é planta as-built da edificação + planta de situação/implantação georreferenciada (SIRGAS 2000 / UTM 22S) do terreno. Um sem o outro não fecha o processo.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando o levantamento arquitetônico é obrigatório'
+      },
+      {
+        type: 'list',
+        items: [
+          'Reforma com alteração de área, fachada ou estrutura — LC 416/2023 (Código de Obras de Navegantes) exige planta do existente + proposta',
+          'Regularização de obra sem projeto aprovado ou sem Habite-se — LC 452/2024 exige planta as-built completa para análise de conformidade',
+          'Averbação de construção na matrícula — Lei 6.015/1973: cartório exige planta as-built com ART/RRT',
+          'Alvará de ampliação ou demolição — levantamento do existente + projeto da ampliação',
+          'AVCB / PPCI no CBMSC — IN 1 e IN 5 exigem planta as-built para dimensionar saídas, extintores e hidrantes',
+          'Reforma em condomínio — NBR 16280 exige laudo + planta as-built + ART antes da obra',
+          'Perícia judicial ou vistoria cautelar — CPC + NBR 13752: documentação do estado atual com validade técnica'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando é altamente recomendado (mesmo sem obrigação legal)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Compra de imóvel usado — confere área real vs. matrícula vs. IPTU e evita pagar por metragem fantasma',
+          'Orçamento de reforma — sem medidas reais, o quantitativo de piso, gesso, esquadria e tinta erra 15% a 30%',
+          'Troca de cobertura ou telhado — vãos, inclinação e estrutura só são confirmados no local',
+          'Projeto de interiores e marcenaria — móvel planejado com 2 cm de erro não encaixa',
+          'Compatibilização de complementares — hidrossanitário, elétrico, climatização e estrutural precisam da base fiel',
+          'Retrofit de fachada ou prédio antigo — sem as-built não há como dimensionar reforço ou nova pele',
+          'Financiamento e avaliação bancária — banco exige planta compatível com a realidade para liberar crédito'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que é medido no levantamento arquitetônico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um levantamento completo vai muito além de medir parede. O checklist padrão da Regê Engenharia cobre:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Arquitetura — perímetro externo e interno com diagonais de conferência, espessura de paredes, portas, janelas, pé-direito, vergas, peitoris, soleiras, degraus e rampas com nível a laser',
+          'Cobertura e fachadas — tipo de telha, inclinação, beirais, calhas, rufos, platibandas, reservatório, revestimentos e esquadrias',
+          'Implantação — posição da edificação no lote, recuos frontais/laterais/fundos, área permeável, muros, acessos e vagas',
+          'Estrutura aparente — vigas, pilares e lajes aparentes, com mapeamento fotográfico de trincas, manchas e desplacamentos',
+          'Instalações visíveis — quadros, tomadas, interruptores, pontos de luz, registros, pontos de água/esgoto, caixas de inspeção, splits e condensadoras',
+          'Esquadrias e acabamentos — material, sistema de abertura, piso, rodapé, forro e revestimento por ambiente'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como é feito: 5 etapas do padrão Regê'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda medição é feita em dupla — um mede, outro confere e fotografa. O erro de fechamento é verificado ainda em campo, não no escritório quando já é tarde para voltar.'
+      },
+      {
+        type: 'list',
+        items: [
+          '1. Briefing documental — coleta de matrícula, IPTU, projeto antigo (se houver), fotos e histórico de reformas; checklist de divergências',
+          '2. Vistoria e medição in loco — todos os ambientes, fachadas, cobertura e implantação com trena laser, trena de fibra, nível a laser, estação total (quando há desnível) ou scanner 3D (retrofit/BIM) + fotos 360°',
+          '3. Processamento e desenho — transcrição para CAD/BIM, conferência de diagonais, fechamento de perímetro e cotagem ABNT NBR 6492',
+          '4. Conferência e compatibilização — cruzamento com matrícula, IPTU, Código de Obras (recuos, taxa de ocupação, gabarito) e com levantamento topográfico quando contratado',
+          '5. Emissão e entrega — PDF + DWG/RVT + relatório fotográfico + memorial descritivo + ART/RRT registrada'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Tecnologias e precisão'
+      },
+      {
+        type: 'list',
+        items: [
+          'Trena laser (Leica Disto / Bosch) — ± 1 a 1,5 mm: padrão para 90% dos as-builts residenciais e comerciais',
+          'Trena de fibra + nível a laser — ± 1 a 3 mm: conferência de diagonais, níveis e esquadro',
+          'Estação Total Robótica — ± 2 a 3 mm: terrenos em desnível, implantação e fachadas altas, integrada à topografia',
+          'Scanner Laser 3D (LiDAR terrestre) — ± 2 a 5 mm em nuvem densa: retrofit complexo, patrimônio, indústria e as-built BIM (gera nuvem LAS/LAZ + modelo Revit)',
+          'Drone RTK/PPK — ± 1 a 3 cm: coberturas inacessíveis, implantação e grandes áreas (ortomosaico + MDT)',
+          'Fotografia 360° / Matterport — registro navegável para cliente e projetista (complemento, não substitui medição)'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Celular, Google Earth e drone amador sem pontos de controle não servem para levantamento com validade técnica. Precisão de metros não aprova projeto nem sustenta ART.'
+      },
+      {
+        type: 'heading',
+        text: 'Entregáveis padrão Regê Engenharia'
+      },
+      {
+        type: 'list',
+        items: [
+          'Planta baixa as-built de todos os pavimentos — DWG em camadas NBR 6492 + PDF A1/A0, com cotas, esquadrias, níveis e áreas',
+          '2 cortes (longitudinal e transversal) + corte extra de escada/área molhada — DWG + PDF',
+          '4 fachadas — DWG + PDF, com revestimentos, esquadrias, muros e cotas de altura',
+          'Planta de cobertura — perímetro, inclinação, cumeeiras, calhas e reservatório',
+          'Planta de implantação/situação — edificação no lote, recuos, área permeável e confrontantes',
+          'Quadro de áreas — por ambiente, por pavimento e total + taxa de ocupação',
+          'Relatório fotográfico numerado e legendado por ambiente/fachada',
+          'Memorial descritivo do levantamento — metodologia, equipamentos, precisão, data e responsável',
+          'Arquivos BIM (quando contratado) — RVT/IFC e nuvem de pontos LAS/LAZ',
+          'ART (CREA-SC) / RRT (CAU) digital registrada antes da entrega'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades de Navegantes e do Litoral Norte'
+      },
+      {
+        type: 'list',
+        items: [
+          'Imóveis sem projeto aprovado e puxadinhos — divergência certa entre IPTU/matrícula e realidade; o as-built gera o quadro comparativo existente x registrado',
+          'LC 416/2023 e LC 452/2024 — planta do existente no padrão da Secretaria de Urbanismo (escala, carimbo, ART, quadro de áreas)',
+          'Recuos, taxa de ocupação e gabarito — implantação com recuos cotados e relatório de conformidade evita reprovação',
+          'Terrenos de Marinha (SPU) e APP de restinga/dunas/mangue — integração com topografia georreferenciada SIRGAS 2000 / UTM 22S',
+          'Maresia e patologias — mapeamento fotográfico de infiltrações, bolhas e armadura exposta antes da reforma',
+          'Condomínios na orla (Meia Praia, Gravatá, Centro) — NBR 16280: laudo + as-built + ART para plano de reforma',
+          'Venda e financiamento — as-built com ART para avaliação bancária e averbação cartorial'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa e quanto tempo leva (2025/2026 — Navegantes)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Casa/comércio até 150 m² — 4 a 8h em campo + 2 a 4 dias em escritório (3 a 6 dias úteis) — R$ 1.500 a R$ 3.500',
+          'Casa 150 a 350 m² / sobrado — 8 a 16h (1 a 2 visitas) + 4 a 7 dias (7 a 12 dias úteis) — R$ 3.000 a R$ 7.000',
+          'Casa acima de 350 m² / alto padrão — 16 a 24h + 7 a 10 dias (12 a 18 dias úteis) — R$ 6.000 a R$ 12.000',
+          'Apartamento 2 a 3 quartos — 3 a 6h + 2 a 3 dias (3 a 5 dias úteis) — R$ 1.200 a R$ 2.800',
+          'Galpão 500 a 1.500 m² — 8 a 16h + 5 a 8 dias (7 a 14 dias úteis) — R$ 4.000 a R$ 10.000',
+          'Prédio/condomínio — 4 a 8h por pavimento — R$ 1.500 a R$ 3.500 por pavimento',
+          'Scanner 3D / BIM as-built até 1.000 m² — 8 a 16h + 7 a 12 dias (12 a 20 dias úteis) — R$ 6.000 a R$ 15.000',
+          'Pacote regularização (as-built + topografia) — 8 a 16h + 5 a 10 dias (10 a 15 dias úteis) — R$ 3.500 a R$ 8.000'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Valores incluem campo, escritório, ART/RRT, DWG, PDF, fotos e memorial. Não incluem taxas de Prefeitura, Cartório ou Bombeiros.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros que invalidam um levantamento'
+      },
+      {
+        type: 'list',
+        items: [
+          'Medir só um lado da parede — erro de 10 a 15 cm por ambiente que se acumula na área total',
+          'Não conferir diagonais e esquadro — planta fecha no CAD mas não existe no real',
+          'Ignorar desníveis e soleiras — piso novo com degrau imprevisto e porta que não abre',
+          'Não fotografar ou não numerar fotos — impossível auditar ou defender em perícia',
+          'Entregar só PDF sem DWG — projetista não consegue usar como base',
+          'Sem ART/RRT — nulo para Prefeitura, Cartório, Bombeiros e banco',
+          'Usar planta de corretor, Google Earth ou projeto antigo — erro de metros que reprova na Prefeitura'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que contratar a Regê Engenharia'
+      },
+      {
+        type: 'list',
+        items: [
+          'Equipe própria de engenheiros, arquitetos e cadistas BIM — do campo ao CAD sem terceirização',
+          'Fluxo as-built + topografia integrados no mesmo referencial — base única para reforma e regularização',
+          'Padrão Prefeitura de Navegantes (LC 416/452) — planta já no formato que a Secretaria de Urbanismo aprova',
+          'Tecnologia sob demanda — trena laser, estação total, scanner 3D e drone RTK conforme o porte',
+          'Experiência local — centenas de as-builts em Navegantes, Itajaí, BC, Penha e Piçarras; conhecemos fiscais, recuos, APPs e cartórios',
+          'ART no CREA-SC / RRT no CAU com validade legal',
+          'Prazo garantido e suporte direto ao seu projetista',
+          'Pacote completo até a averbação — do levantamento ao Habite-se'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre levantamento arquitetônico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de levantamento para reformar só um banheiro? Se não há alteração de área, fachada ou estrutura, pode ser parcial (só o banheiro + entorno). Com ampliação, troca de esquadria na fachada ou intervenção estrutural, a Prefeitura e o condomínio exigem o as-built completo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso usar a planta do corretor? Não como base técnica. Plantas de corretor são ilustrativas, sem escala e sem ART. Para orçamento, reforma e regularização só vale o as-built medido in loco com ART/RRT.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre levantamento e vistoria? Levantamento mede e desenha (gera planta). Vistoria/laudo avalia e diagnostica (gera parecer sobre patologia e risco). Em reforma e regularização você normalmente precisa dos dois.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O levantamento serve para regularizar na Prefeitura de Navegantes? Sim — é a base obrigatória. A LC 452/2024 exige planta da situação existente (as-built) + proposta de adequação + ART/RRT. Sem o as-built fiel o processo nem é protocolado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo o as-built vale? Não expira, mas desatualiza se houver nova intervenção. Após 12 meses entre levantamento e projeto, recomenda-se conferência rápida de 1 a 2 horas nas medidas críticas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Serve para financiamento bancário? Sim. Entregamos planta as-built com ART/RRT, quadro de áreas e implantação no padrão exigido por Caixa, BB e bancos privados para avaliação e liberação de crédito.'
+      },
+      {
+        type: 'heading',
+        text: 'Pronto para medir seu imóvel com precisão'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai reformar, ampliar, regularizar ou comprar um imóvel em Navegantes e no Litoral Norte, comece pelo levantamento arquitetônico. A Regê Engenharia entrega base fiel, prazo cumprido, DWG/BIM pronto para projetar e suporte até a aprovação na Prefeitura. Fale com nossa equipe e transforme medidas em projeto — e projeto em obra aprovada, sem sustos.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-hidraulico-navegantes',
+    title: 'Projeto Hidráulico: Por Que Sua Obra em Navegantes Precisa de Rede, Esgoto e Pluvial Projetados',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Projeto hidráulico de edificação em Navegantes SC, com rede de água, esgoto e pluvial dimensionados e ART do engenheiro no CREA-SC.',
+    excerpt: 'Vazamento, mau cheiro e refluxo de esgoto começam no projeto que não foi feito. Entenda o que é o projeto hidráulico, quais as normas ABNT (NBR 5626, 8160, 7198), quando ele é obrigatório em Navegantes e o que exigir do engenheiro para uma instalação que não dá problema.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A primeira infiltração aparece meses depois de entregar a obra. O esgoto volta no ralo no dia de chuva forte. A caixa de água não supre o pavimento superior. Quase sempre, o problema não foi a execução — foi a ausência de projeto hidráulico. Água e esgoto são as instalações que mais causam dor de cabeça e custo de retrabalho quando dimensionadas no olho, e no litoral de Navegantes o lençol freático e a maresia tornam o erro ainda mais caro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que é o projeto hidráulico, quais as normas que ele deve seguir (NBR 5626, NBR 8160 e NBR 7198), quando ele é obrigatório em Navegantes e o que você deve exigir do engenheiro civil para entregar uma instalação sem vazamento, sem mau cheiro e dentro da lei.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o projeto hidráulico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto hidráulico é o conjunto de memoriais e desenhos que define toda a instalação de águas de uma edificação: a rede de água potável (fria), a rede de esgoto sanitário, a rede de águas pluviais (chuva) e os reservatórios e bombas. Ele dimensiona diâmetros, quedas, pressões e ligações para que tudo funcione sem vazamento, refluxo ou alagamento.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Rede de água fria — alimentação, reservatório, bomba e distribuição aos pontos de uso',
+          'Rede de esgoto sanitário — coleta e condução dos efluentes até a ligação da CASAN',
+          'Rede pluvial — captação e escoamento da água da chuva, evitando alagamento',
+          'Reservatório e bomba — dimensionados para a demanda e para a pressão de cada pavimento',
+          'Ligações com a concessionária — padrão de entrada de água e de esgoto conforme a CASAN'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Hidráulica mal projetada é a obra que funciona mal em silêncio — até o primeiro ralo entupir.'
+      },
+      {
+        type: 'heading',
+        text: 'As normas que regem a hidráulica'
+      },
+      {
+        type: 'paragraph',
+        text: 'No Brasil, as instalações prediais hidráulicas seguem normas da ABNT que o projeto deve respeitar:'
+      },
+      {
+        type: 'list',
+        items: [
+          'NBR 5626 — Instalações prediais de água fria: dimensionamento de reservatório, pressão e distribuição',
+          'NBR 8160 — Instalações prediais de esgoto sanitário: diâmetros, declividades e ventilação da rede',
+          'NBR 7198 — Instalações prediais de águas pluviais: captação e escoamento da chuva',
+          'NBR 12218 — Sistemas de reservação de água: reservatório de concreto ou reservatório de polietileno',
+          'Código de obras de Navegantes — recuos, passeio e padrão de ligação conforme o município e a CASAN'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que no litoral de SC a hidráulica é sensível'
+      },
+      {
+        type: 'list',
+        items: [
+          'Lençol freático elevado — a rede de esgoto e as fundações convivem com a água subterrânea, exigindo projeto de nível e estanqueidade',
+          'Maresia — tubulações e conexões expostas sofrem corrosão; o material deve ser especificado para o ambiente',
+          'Chuva intensa — a rede pluvial precisa comportar picos de tempestade sem alagar o terreno',
+          'Solo arenoso — drenagem e assentamento das tubulações exigem critério para evitar assentamento diferencial',
+          'Saneamento local — a ligação com a CASAN segue padrão próprio que o projeto deve atender'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem assina a responsabilidade técnica'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro civil (CREA-SC) — profissional habilitado a projetar instalações hidráulicas, com ART registrada',
+          'Engenheiro sanitário — quando a obra exige dimensionamento de reservatório ou estação de tratamento',
+          'Arquiteto (CAU/BR) — integra o hidráulico ao partido arquitetônico, com RRT quando altera o desenho',
+          'Instalador hidráulico — executa conforme o projeto; a execução segue a responsabilidade do projetista'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Quem assina a ART da hidráulica responde por cada gota que vaza e por cada ralo que reflui. Exija o engenheiro.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando o projeto hidráulico é obrigatório'
+      },
+      {
+        type: 'list',
+        items: [
+          'Aprovação de obra — a Prefeitura e a CASAN exigem o projeto hidráulico para liberar o alvará e a ligação',
+          'Habite-se — a rede concluída e ligada é exigência para o certificado de conclusão',
+          'Reforma com mudança de banheiro ou cozinha — alterar pontos altera diâmetros e declividade',
+          'Ampliação ou segundo pavimento — a demanda cresce e a rede existente pode ser insuficiente',
+          'Imóvel antigo — regularização hidráulica para adequar a instalação à norma atual'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do engenheiro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — confirme o número de registro no conselho',
+          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada antes da execução',
+          'Cálculo conforme a NBR 5626, 8160 e 7198 — diâmetros, declividades e pressões justificados',
+          'Reservatório e bomba dimensionados — capacidade e pressão para o maior pavimento',
+          'Ligação conforme a CASAN — padrão de entrada de água e esgoto atendendo à concessionária',
+          'Rede pluvial separada — chuva não deve misturar com esgoto, evitando sobrecarga e poluição',
+          'ART de execução — ao final, o engenheiro atesta a instalação conforme o projeto'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que viram infiltração e mau cheiro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Dimensionar no olho — tubulação menor que a demanda gera pressão insuficiente e refluxo',
+          'Declividade errada — esgoto sem queda adequada entope; sem ventilação, solta mau cheiro',
+          'Pluvial misturada com esgoto — sobrecarrega a rede e polui; a separação é exigência',
+          'Reservatório subdimensionado — o pavimento superior fica sem água nos horários de pico',
+          'Ligação fora da CASAN — a concessionária não libera e a obra fica sem esgoto regular',
+          'Omitir estanqueidade no litoral — lençol freático e maresia exigem material e vedação adequados'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O erro mais caro da hidráulica não aparece na entrega — aparece na primeira conta de retrabalho.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto hidráulico na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contrate engenheiro civil habilitado no CREA-SC — com experiência em instalações litorâneas',
+          'Levante a demanda — número de pontos, pavimentos e uso previsto da edificação',
+          'Exija ART e cálculo conforme as NBR — projeto fundamentado e registrado',
+          'Adeque à CASAN — padrão de ligação de água e esgoto conforme a concessionária',
+          'Separe redes — água, esgoto e pluvial projetados de forma independente',
+          'Execute e ateste — instalação conforme o projeto, com ART de execução para o habite-se'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre projeto hidráulico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda obra precisa de projeto hidráulico? Sim. Mesmo residências exigem dimensionamento de reservatório, pressão e esgoto conforme a NBR 5626 e a NBR 8160. A escala muda o porte, não a obrigatoriedade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro e o instalador são a mesma pessoa? Não necessariamente. O engenheiro projeta e assume a ART; o instalador executa. Contratar o projetista e o executor separados é comum, desde que o projeto venha antes da obra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A CASAN libera sem projeto? Não. A concessionária exige o padrão de ligação conforme o projeto aprovado; sem ele, não há ligação regular de água e esgoto.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Por que separar pluvial de esgoto? Porque a rede de esgoto tem capacidade para o efluente sanitário. Jogar chuva nela sobrecarrega e causa refluxo e poluição. A separação é norma e boa prática.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa o projeto hidráulico? Varia com a área e a complexidade. O custo do projeto é ínfimo frente ao retrabalho de quebrar parede para consertar vazamento ou entupimento.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto hidráulico com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos hidráulicos dimensionados conforme a NBR 5626, a NBR 8160 e a NBR 7198. Cuidamos da rede de água, do esgoto, da pluvial, do reservatório e da bomba, e da adequação à CASAN — sempre com ART no CREA-SC e atenção às exigências do lençol freático e da maresia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar ou ampliar em Navegantes, fale com nossa equipe antes de fechar a parede. Um projeto hidráulico feito por engenheiro é o que mantém sua obra sem vazamento, sem mau cheiro e com a rede regular desde o primeiro dia.'
+      }
+    ]
+  },
+  {
+    slug: 'planta-de-imovel-compradores-e-vendedores',
+    title: 'Planta de Imóvel: O Que Compradores e Vendedores Precisam Saber Antes de Fechar o Negócio',
+    tag: 'ENGENHARIA',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Planta de imóvel residencial sendo analisada por comprador e vendedor durante negociação imobiliária em Navegantes SC, com projeto arquitetônico sobre a mesa.',
+    excerpt: 'A planta de imóvel não serve só para construir: é a ferramenta que define valor, revela problemas e protege compradores e vendedores. Entenda como ler, interpretar e usar a planta na compra, venda e regularização de imóveis em Navegantes.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando alguém compra ou vende um imóvel, a conversa costuma girar em torno de preço, localização e documentação. Mas há um documento que raramente recebe a atenção que merece — e que pode mudar completamente o valor de um negócio: a planta de imóvel. Uma planta bem feita revela o que o olho não vê — metros quadrados reais, áreas de circulação desperdiçadas, cômodos sem ventilação e ampliações que não constam da matrícula. Já uma planta ausente ou incorreta esconde problemas que só aparecem depois da compra, quando o custo de corrigi-los já é do comprador.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é a planta de imóvel, por que ela é decisiva em transações imobiliárias, como compradores e vendedores devem interpretá-la e o que verificar antes de fechar o negócio — com foco na realidade de Navegantes e do litoral catarinense, onde o mercado imobiliário acelerado gera transações com pressa e, muitas vezes, sem a devida atenção técnica.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a planta de imóvel'
+      },
+      {
+        type: 'paragraph',
+        text: 'A planta de imóvel é a representação técnica da edificação vista de cima, como se um corte horizontal imaginário passasse pela edificação na altura dos olhos. Ela mostra a distribuição dos ambientes, as dimensões, as paredes, as esquadrias (portas e janelas), a circulação e, quando executada por profissional habilitado, as áreas de cada cômodo e a área total construída. Não se trata de um desenho artístico: é um documento técnico que serve de base para aprovação, construção, regularização e, fundamentalmente, para definir o valor de um imóvel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'No contexto de compra e venda, a planta de imóvel ganha um papel duplo: para o vendedor, é a ferramenta que documenta exatamente o que está sendo vendido; para o comprador, é o filtro que revela se o que está sendo oferecido corresponde ao que foi contratado.'
+      },
+      {
+        type: 'quote',
+        text: 'Uma planta de imóvel não é "desenho bonito para a parede": é o documento que define se o preço faz sentido — e se o comprador está levando exatamente o que pagou.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a planta importa em uma transação imobiliária'
+      },
+      {
+        type: 'paragraph',
+        text: 'Muitas negociações imobiliárias são conduzidas com base em "medidas aproximadas", "área do terreno" e "sensação de espaço". A planta de imóvel substitui a impressão por dados concretos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Área real versus área anunciada — a planta com cotas permite verificar se os metros quadrados anunciados correspondem ao que efetivamente existe',
+          'Distribuição dos ambientes — a planta revela se o layout é funcional, se há cômodos sem ventilação ou iluminação natural, e se a circulação é eficiente',
+          'Ampliações não documentadas — a planta pode indicar áreas construídas que não constam do projeto original, sinalizando irregularidade',
+          'Potencial de reforma — a planta mostra o que pode ser modificado, ampliado ou otimizado sem comprometer a estrutura',
+          'Comparação entre imóveis — ter plantas de dois imóveis permite comparar dimensões reais, áreas úteis e custo por metro quadrado de forma objetiva',
+          'Negociação embasada — a planta oferece dados técnicos que sustentam a proposta de compra ou venda, eliminando subjetividade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Os diferentes tipos de planta e quando cada um importa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem toda planta serve para o mesmo propósito. Na compra e venda, os tipos mais relevantes são:'
+      },
+      {
+        type: 'heading',
+        text: 'Planta de projeto (aprovada pela Prefeitura)'
+      },
+      {
+        type: 'paragraph',
+        text: 'É a planta que foi submetida e aprovada pela Prefeitura de Navegantes. Ela representa o que foi autorizado para construção — e, teoricamente, o que deveria existir. Para o comprador, ela é o ponto de partida: qualquer divergência entre o que a planta mostra e o que o imóvel realmente tem pode indicar irregularidade.'
+      },
+      {
+        type: 'heading',
+        text: 'Planta as-built (de situação)'
+      },
+      {
+        type: 'paragraph',
+        text: 'É a planta que mede a edificação como ela realmente está, independentemente do que foi aprovado. Essa é a planta mais importante para o comprador: ela revela a realidade do imóvel. Se o as-built diverge da planta aprovada, há irregularidade que precisa ser regularizada antes — ou durante — a transação.'
+      },
+      {
+        type: 'heading',
+        text: 'Planta de situação do terreno'
+      },
+      {
+        type: 'paragraph',
+        text: 'Mostra a posição da edificação no terreno, os recuos, as áreas de preservação e a relação com as vias e limites do lote. É essencial para verificar se a construção respeita as normas de zoneamento e se não há invasão de APP ou de faixa de domínio.'
+      },
+      {
+        type: 'heading',
+        text: 'Planta para financiamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'Bancos exigem projeto aprovado e planta baixa para liberar crédito imobiliário. Sem esses documentos, o comprador não consegue financiar — e o vendedor perde potenciais compradores.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o comprador deve verificar na planta'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de fechar a compra, o comprador deve fazer uma análise técnica da planta. Os pontos de atenção:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Cotas e dimensões — verifique se as medidas são consistentes e se a soma dos ambientes bate com a área total declarada',
+          'Área útil versus área total — a área útil (o que realmente pode ser mobiliado) costuma ser menor que a área total (que inclui paredes e circulação). Imóvel com área útil pequena em relação à total é menos valioso',
+          'Ventilação e iluminação — cômodo sem janela (banheiro, despensa, circulação) pode gerar problemas de umidade e mofo, especialmente no litoral',
+          'Orientação solar — a planta deve indicar a orientação norte. Ambientes que recebem sol da manhã (norte/nordeste) são mais valorizados',
+          'Circulação desperdiçada — corredores longos e escadas que ocupam área sem função reduzem o aproveitamento do imóvel',
+          'Pontos de instalação — a planta deve indicar onde ficam banheiros, cozinha e área de serviço, pois a mudança desses pontos é cara e, muitas vezes, inviável'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Um cômodo de 12 m² com corredor de 3 m² e banheiro de 2 m² não tem 12 m² úteis. A planta é o único documento que revela isso antes da compra.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o vendedor deve ter pronto'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um vendedor que apresenta a planta do imóvel transmite credibilidade e agiliza a negociação. Os documentos que devem estar disponíveis:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Planta aprovada pela Prefeitura — comdata de aprovação e protocolo, se disponível',
+          'Habite-se — o Certificado de Conclusão que atesta que a obra está regular perante o município',
+          'Matrícula atualizada — que inclua a averbação da construção',
+          'Planta as-built (se houver divergências) — documento que mostra a situação real da edificação',
+          'ART do projeto — a Anotação de Responsabilidade Técnica que vincula o profissional ao projeto',
+          'Quadro de áreas — detalhamento da área de cada ambiente e da área total construída'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Imóvel sem esses documentos gera desconfiança no comprador, trava o financiamento e reduz o preço de venda. Regularizar antes de vender é sempre mais vantajoso que negociar com desconto por irregularidade.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns que a planta revela'
+      },
+      {
+        type: 'paragraph',
+        text: 'Analisar a planta antes da compra pode evitar problemas que só apareceriam depois. Os erros mais comuns que uma leitura técnica identifica:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Ampliação sem aprovação — área construída que não consta da planta aprovada, indicando irregularidade',
+          'Área total incompatível — soma dos ambientes que não bate com a área declarada, sugerindo erro de medição ou fraude',
+          'Cômodos sem ventilação natural — banheiros e circulações sem janela, comum em projetos mal elaborados',
+          'Circulação excessiva — mais de 15% da área total ocupada por corredores e escadas, desperdiçando espaço',
+          'Banheiro encostado na parede da cozinha — configuração que gera risco de contaminação e é desvalorizada pelo mercado',
+          'Varanda com área irregular — varandas fechadas que ampliam a área útil mas podem não estar averbadas',
+          'Falta de closet ou depósito — imóvel de alto padrão sem espaços de armazenamento planejados'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a planta afeta o valor do imóvel'
+      },
+      {
+        type: 'paragraph',
+        text: 'O valor de um imóvel não é determinado apenas por localização e metragem. A planta influencia diretamente o preço de mercado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Área útil alta — imóvel com boa distribuição (pouca circulação, cômodos bem dimensionados) vale mais por metro quadrado',
+          'Layout funcional — cozinha proxima à sala, suíte com closet, lavanderia com áreas de sol e sombra são diferenciais que valorizam',
+          'Potencial de ampliação — planta que mostra possibilidade de expansão (terreno com área ociosa, estrutura preparada) atrai compradores',
+          'Regularização completa — imóvel com planta aprovada, habite-se e averbação vale de 20% a 35% mais que o equivalente irregular',
+          'Custo de adequação — se a planta revela problemas que exigem reforma, o comprador deve descontar o custo da adequação na proposta',
+          'Comparação objetiva — ter plantas de imóveis semelhantes permite comparar valor real por metro quadrado, eliminando a subjetividade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Planta de imóvel no litoral de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — a planta de imóvel ganha variáveis regionais que compradores e vendedores devem considerar:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Maresia e durabilidade — a planta deve indicar especificações de materiais resistentes à corrosão costeira, o que afeta o custo de construção e manutenção',
+          'Áreas de preservação — imóveis próximos a manguezais e rios podem ter restrições de APP que a planta de situação deve evidenciar',
+          'Verticalização — imóveis em edifícios de maior porte exigem planta que demonstre conformidade com gabarito e taxa de ocupação',
+          'Mercado de temporada — imóveis para aluguel por temporada valorizam quando a planta mostra funcionabilidade (cozinha completa, área de lazer, vagas)',
+          'Pressão por espaço — em áreas valorizadas como a orla, a planta revela se o imóvel aproveita bem cada metro ou se há desperdício de área'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando contratar um profissional para analisar a planta'
+      },
+      {
+        type: 'paragraph',
+        text: 'A análise técnica da planta não é obrigatoriedade legal, mas é altamente recomendável nos seguintes casos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Compra de imóvel alto valor — a análise identifica problemas que podem custar mais que o próprio serviço técnico',
+          'Imóvel com ampliações — verificar se as ampliações são regulares e se a estrutura suporta o acréscimo',
+          'Imóvel antigo — construções de décadas atrás podem ter desconformidades com a legislação atual',
+          'Financiamento pendente — o banco pode exigir planta técnica atualizada para liberar o crédito',
+          'Negociação entre herdeiros — a planta define áreas exatas para divisão justa de patrimônio',
+          'Investimento imobiliário — compradores de imóveis para locação precisam saber a área útil real para calcular retorno'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre planta de imóvel'
+      },
+      {
+        type: 'subheading',
+        text: 'A planta de imóvel é obrigatória para venda?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não legalmente, mas na prática sim. Imóvel sem planta técnica dificilmente consegue financiamento, e o comprador desconfia da falta de documentação. Ter a planta agiliza e valoriza a transação.'
+      },
+      {
+        type: 'subheading',
+        text: 'Posso confiar na planta que o vendedor me mostra?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cautela. A planta pode estar desatualizada, omitir ampliações ou conter medições incorretas. O ideal é solicitar a planta aprovada pela Prefeitura e comparar com o as-built — ou contratar um profissional para fazer a verificação.'
+      },
+      {
+        type: 'subheading',
+        text: 'O que fazer se a planta não bate com o imóvel?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o as-built diverge da planta aprovada, há irregularidade. O comprador deve avaliar se a regularização é viável e qual o custo, antes de fechar o negócio. A divergência pode ser usada comoargumento para redução de preço.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa uma planta técnica de imóvel?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O valor varia com o porte do imóvel, a complexidade do levantamento e se há necessidade de regularização. Para imóveis residenciais simples, o custo é acessível e se paga na negociação — seja na economia de problemas ou na valorização do patrimônio.'
+      },
+      {
+        type: 'subheading',
+        text: 'A Regê Engenharia pode analisar a planta antes da minha compra?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com análise técnica de plantas, levantamento as-built e assessoria para compradores e vendedores. Fale com nossa equipe antes de fechar o negócio — a análise inicial pode evitar anos de dor de cabeça.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia apoia compradores e vendedores'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com serviços de análise técnica de imóveis, levantamento as-built e assessoria em transações imobiliárias. Nossa equipe:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Analisa a planta técnica do imóvel — verifica dimensões, áreas e conformidade com a legislação',
+          'Realiza o levantamento as-built — mede a construção real e compara com a documentação existente',
+          'Identifica irregularidades antes da compra — ampliações não aprovadas, áreas divergentes e pendências documentais',
+          'Emite laudo técnico para negociação — documento que embasa a proposta de compra ou venda com dados concretos',
+          'Assiste na regularização — se a planta revela irregularidades, conduzimos o processo de adequação junto à Prefeitura',
+          'Emite ART no CREA-SC em todas as etapas — responsabilidade formal documentada'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você está comprando ou vendendo um imóvel em Navegantes, fale com a equipe da Regê Engenharia antes de fechar. Uma análise técnica da planta pode economizar muito mais do que o custo do serviço — e garantir que o negócio seja justo, seguro e regular.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-hidraulico',
+    title: 'Projeto Hidráulico: O que é, o que inclui e por que sua Obra em Navegantes Precisa',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Projeto hidráulico com rede de água fria, esgoto e reservatório detalhado em planta de obra residencial no litoral de Santa Catarina.',
+    excerpt: 'O projeto hidráulico define toda a rede de água, esgoto e chuva da sua obra. Entenda o que ele inclui, por que é obrigatório, como evita infiltração e entupimento e por que no litoral de Navegantes ele exige cuidado extra.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Toda obra que pretende ter água encanada, banheiro e escoamento precisa de um desenho que decida por onde a água entra, como ela circula e para onde o esgoto vai: o projeto hidráulico. Feito no olho, ele vira infiltração no vizinho, esgoto a céu aberto, reservatório que não atende e obra embargada. Feito por engenheiro, ele é a base da casa ou do prédio que funciona sem sustos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é o projeto hidráulico, o que ele inclui, por que é obrigatório na aprovação e no AVCB, como ele evita os problemas mais caros da construção e por que, em Navegantes, o solo e o lençol freático pedem atenção redobrada.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o projeto hidráulico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto hidráulico é o conjunto de plantas, memoriais e cálculos que define as instalações prediais de água fria, esgoto sanitário e águas pluviais. Ele dimensiona diâmetros de tubulação, pressões, reservatórios, bombas e pontos de consumo, garantindo que a água chegue onde deve e que os dejetos saiam sem retorno. É o oposto da tubulação "encaixada onde couber": cada curva é calculada.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o projeto hidráulico inclui'
+      },
+      {
+        type: 'list',
+        items: [
+          'Rede de água fria — alimentação, ramais, registros e pontos de consumo',
+          'Reserva de incêndio — cisterna e bomba de incêndio, exigidas pelo Corpo de Bombeiros (AVCB)',
+          'Reservatório de água potável — caixa dágua dimensionada conforme o consumo',
+          'Rede de esgoto sanitário — coleta, ventilação e ligação à rede pública ou fossa',
+          'Águas pluviais — captação e escoamento da chuva, com calhas e tubulação',
+          'Bombas e pressurização — recalque e equilíbrio de pressão entre pavimentos',
+          'Caixas de inspeção e acesso — pontos de manutenção da rede',
+          'Memorial de cálculo e especificação — diâmetros, materiais e vazões'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que o projeto hidráulico é obrigatório'
+      },
+      {
+        type: 'list',
+        items: [
+          'ART do engenheiro — a Anotação de Responsabilidade Técnica é obrigatória para projetar e executar a hidráulica',
+          'Aprovação na Prefeitura — o projeto hidráulico integra o projeto legal e o alvará de construção',
+          'SAMAE de Navegantes — a autarquia de água e esgoto exige o projeto para ligação e para o correto dimensionamento da rede',
+          'Corpo de Bombeiros (CBMSC) — o AVCB exige reserva de incêndio dimensionada e acessível',
+          'Vizinhança e meio ambiente — esgoto irregular gera poluição, doença e responsabilização civil'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Benefícios de um projeto hidráulico bem feito'
+      },
+      {
+        type: 'list',
+        items: [
+          'Sem infiltração — traçado calculado evita vazamentos nas paredes e no vizinho',
+          'Sem entupimento — diâmetros e pendentes corretas mantêm a rede livre',
+          'Economia de água — dimensão adequada reduz perdas e o uso da rede',
+          'Aprovação sem volta — projeto completo é aprovado de primeira pela Prefeitura e pelo SAMAE',
+          'Reserva para incêndio — o AVCB sai com a segurança comprovada',
+          'Manutenção fácil — caixas de inspeção e planta atualizada mostram onde intervenir'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A infiltração não escolhe parede: ela aparece meses depois da obra, no imóvel do vizinho, com cara de briga e de processo. O projeto hidráulico é o que mantém a água onde ela deve estar.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto hidráulico no litoral de Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e no litoral norte, o projeto hidráulico enfrenta particularidades do terreno. O solo arenoso e o lençol freático alto dificultam a escavação e a fundação de reservatórios e fossas. A proximidade do mar eleva a umidade e exige tubulações e conexões resistentes à corrosão. E a chuva forte de verão sobrecarrega a rede pluvial, exigindo dimensionamento generoso para não alagar o lote. O engenheiro local conhece essas variáveis e projeta para elas.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Lençol freático alto — reservatórios e fossas precisam de fundação e vedação adequadas',
+          'Solo arenoso — escoramento e assentamento das tubulações exigem cuidado',
+          'Maresia e umidade — tubos e conexões com proteção anticorrosiva',
+          'Pluvial de verão — calhas e tubulação dimensionadas para o pico de chuva'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'O projeto hidráulico precisa de ART?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. A ART do engenheiro civil é obrigatória para a elaboração e a execução do projeto hidráulico. Sem ART, a Prefeitura não aprova o alvará e o SAMAE não libera a ligação de água e esgoto.'
+      },
+      {
+        type: 'subheading',
+        text: 'Qual a diferença entre projeto hidráulico residencial e comercial?'
+      },
+      {
+        type: 'paragraph',
+        text: 'A residência tem redes menores e um único reservatório. Comércio, indústria e prédio somam maior consumo, reserva de incêndio obrigatória, rede pluvial de grande vazão e, muitas vezes, bombas de recalque e estações de tratamento. A complexidade cresce, mas a lógica de cálculo é a mesma.'
+      },
+      {
+        type: 'subheading',
+        text: 'O projeto hidráulico evita infiltração?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Evita na origem. Infiltrações costumam nascer de tubulação mal dimensionada, sem pressurização correta ou sem caixa de inspeção. O projeto calculado e executado com ART é a principal defesa contra esse problema caro e litigioso.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa um projeto hidráulico?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O valor varia com a área construída, o número de pavimentos e a complexidade da rede. Residências têm projeto acessível; comércio e indústria demandam reserva de incêndio e redes maiores. Em qualquer escala, o projeto custa muito menos do que consertar uma infiltração ou refazer uma rede enterrada.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto hidráulico é o desenho que mantém a água no lugar certo e o esgoto longe de onde não deve estar. Ele integra a aprovação na Prefeitura, a ligação no SAMAE e o AVCB dos bombeiros — e, em Navegantes, ainda protege a obra contra lençol freático, solo arenoso e maresia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar ou regularizar em Navegantes e no litoral norte catarinense, fale com a equipe técnica da Regê Engenharia. Elaboramos o projeto hidráulico completo — com ART, integração ao projeto legal, ao SAMAE e ao Corpo de Bombeiros — para que sua obra tenha água, esgoto e segurança do jeito certo, sem infiltração e sem surpresa.'
+      }
+    ]
+  },
+  {
+    slug: 'empresa-de-engenharia-hidraulica-navegantes',
+    title: 'Empresa de Engenharia Hidráulica em Navegantes: O Que Avaliar Antes de Contratar',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Empresa de engenharia hidráulica atuando em obra em Navegantes SC, com projeto de água, esgoto e pluvial e ART do engenheiro no CREA-SC.',
+    excerpt: 'Contratar empresa de engenharia hidráulica evita vazamento, refluxo e obra parada. Saiba o que ela faz, como difere do autônomo, o que exigir (CREA-SC, ART, CASAN) e por que escolher quem conhece o litoral de Navegantes para sua água e esgoto.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando aparece o primeiro ralo entupido ou a infiltração no teto, a dúvida é a mesma: chama o encanador ou a empresa de engenharia hidráulica? Para obra nova, reforma estruturada ou regularização, a resposta é a empresa. O encanador resolve o sintoma; a engenharia projeta a causa e assume a responsabilidade técnica. Em Navegantes, com lençol freático alto e maresia, essa diferença decide se sua instalação dura anos ou meses.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que faz uma empresa de engenharia hidráulica, quando contratá-la, como ela difere do profissional autônomo, o que exigir na contratação e por que a Regê Engenharia é a escolha para água, esgoto e pluvial no litoral catarinense.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é uma empresa de engenharia hidráulica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Empresa de engenharia hidráulica é a pessoa jurídica composta por engenheiros civis e sanitários habilitados no CREA-SC que projeta, acompanha e atesta instalações de água, esgoto e pluvial. Ela não apenas desenha: emite ART, responde por cálculos e assume a responsabilidade técnica perante o conselho e a concessionária.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto hidráulico — rede de água fria, esgoto sanitário e pluvial dimensionados conforme a ABNT',
+          'Regularização — adequação de imóvel antigo ou irregular junto à Prefeitura e à CASAN',
+          'Execução e acompanhamento — obra feita conforme o projeto, com ART de execução',
+          'Perícia e laudo — diagnóstico de infiltração, vazamento e falha de instalação',
+          'Adequação à CASAN — padrão de ligação de água e esgoto conforme a concessionária'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Autônomo conserta o vazamento; empresa de engenharia hidráulica projeta para que ele nunca aconteça.'
+      },
+      {
+        type: 'heading',
+        text: 'Empresa de engenharia hidráulica x autônomo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Responsabilidade técnica — a empresa emite ART no CREA-SC; o autônomo, na maioria das vezes, não projeta',
+          'Cálculo normativo — engenheiro dimensiona conforme a NBR 5626, 8160 e 7198; o autônomo executa o que vê',
+          'Aprovação e ligação — concessionária e Prefeitura exigem projeto com ART; autônomo sozinho não libera',
+          'Garantia documentada — o projeto da empresa sustenta habite-se, financiamento e futura venda',
+          'Visão de conjunto — a empresa integra hidráulica, arquitetura e estrutura; o autônomo atua no ponto isolado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando contratar a empresa de engenharia hidráulica'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obra nova — residência, comércio ou galpão precisam de projeto hidráulico antes da fundação',
+          'Reforma com banheiro ou cozinha — mudar pontos altera diâmetro e declividade da rede',
+          'Ampliação ou segundo pavimento — a demanda cresce e a rede existente pode ser insuficiente',
+          'Imóvel irregular — unificar, regularizar ou adequar a instalação exige projeto e ART',
+          'Infiltração ou refluxo — perícia e laudo para identificar a causa e o responsável',
+          'Venda ou financiamento — planta e ART/RRT são exigidos por bancos e cartório'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir na contratação'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro no CREA-SC — confirme o número de registro da empresa e do responsável técnico',
+          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada antes da execução',
+          'Projeto conforme as NBR — NBR 5626 (água), NBR 8160 (esgoto) e NBR 7198 (pluvial) justificadas',
+          'Adequação à CASAN — padrão de ligação de água e esgoto conforme a concessionária local',
+          'Rede pluvial separada — chuva não deve misturar com esgoto, evitando sobrecarga e poluição',
+          'ART de execução — ao final, a empresa atesta a instalação conforme o projeto aprovado',
+          'Prazo e escopo por escrito — memorial descritivo com o que será entregue e quando'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que no litoral de Navegantes a escolha pesa'
+      },
+      {
+        type: 'list',
+        items: [
+          'Lençol freático elevado — exige estanqueidade e nível de projeto que o autônomo raramente domina',
+          'Maresia — o material especificado pela empresa resiste à corrosão do ambiente costeiro',
+          'Chuva intensa — a rede pluvial dimensionada evita alagamento no terreno',
+          'Solo arenoso — assentamento das tubulações exige critério para evitar assentamento diferencial',
+          'Saneamento local — a empresa conhece o padrão da CASAN e o código de obras de Navegantes'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'No litoral, economizar no projeto hidráulico custa caro: lençol freático e maresia cobram o erro rápido.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros que contratar a empresa evita'
+      },
+      {
+        type: 'list',
+        items: [
+          'Dimensionar no olho — tubulação menor que a demanda gera pressão insuficiente e refluxo',
+          'Declividade errada — esgoto sem queda adequada entope; sem ventilação, solta mau cheiro',
+          'Pluvial misturada com esgoto — sobrecarrega a rede e polui; a separação é exigência',
+          'Reservatório subdimensionado — o pavimento superior fica sem água nos horários de pico',
+          'Ligação fora da CASAN — a concessionária não libera e a obra fica sem esgoto regular',
+          'Omitir estanqueidade — lençol freático e maresia exigem material e vedação adequados'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como escolher a empresa de engenharia hidráulica'
+      },
+      {
+        type: 'list',
+        items: [
+          'Verifique o CREA-SC — registro ativo e responsável técnico habilitado',
+          'Peça ART e projeto anterior — comprovação de que a empresa projeta, não só executa',
+          'Confirme atuação em litoral — experiência com lençol freático, maresia e CASAN',
+          'Exija escopo por escrito — o que será entregue, prazo e valor fechado',
+          'Busque referência local — obras em Navegantes e Litoral Norte são prova de conhecimento da região'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre empresa de engenharia hidráulica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Empresa de engenharia hidráulica faz execução ou só projeto? Pode fazer ambos. A empresa projeta com ART e pode acompanhar ou executar a obra, desde que a ART de execução seja registrada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Autônomo não serve para obra nova? Para conserto pontual, serve. Para projeto, aprovação na CASAN e habite-se, é necessária a empresa com ART no CREA-SC.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual o custo de contratar a empresa? Varia com a área e a complexidade. O custo do projeto é ínfimo frente ao retrabalho de quebrar parede para consertar vazamento ou entupimento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A CASAN aceita projeto de autônomo? Não. A concessionária exige o padrão de ligação conforme projeto com ART; sem empresa de engenharia, não há ligação regular de água e esgoto.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A empresa resolve infiltração existente? Sim. Por meio de perícia e laudo, identifica a causa da infiltração e propõe o projeto de correção com responsabilidade técnica.'
+      },
+      {
+        type: 'heading',
+        text: 'Engenharia hidráulica com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia é empresa de engenharia atuante em Navegantes e em todo o litoral catarinense, com projetos hidráulicos dimensionados conforme a NBR 5626, a NBR 8160 e a NBR 7198. Cuidamos da rede de água, do esgoto, da pluvial, do reservatório e da bomba, da adequação à CASAN e da execução com ART — sempre com atenção ao lençol freático e à maresia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar, ampliar ou regularizar em Navegantes, fale com nossa equipe antes de fechar a parede. Uma empresa de engenharia hidráulica feita por engenheiro é o que mantém sua obra sem vazamento, sem mau cheiro e com a rede regular desde o primeiro dia.'
+      }
+    ]
+  },
+  {
+    slug: 'avaliacao-imovel-inventario-heranca-navegantes',
+    title: 'Avaliação de Imóvel para Inventário e Herança em Navegantes SC: Guia Completo',
+    tag: 'LAUDOS',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Documentos de inventário e laudo de avaliação de imóvel sobre mesa de advogado em Navegantes SC, com matrícula e certidão de óbito visíveis.',
+    excerpt: 'Inventário, partilha de herança e divórcio exigem avaliação técnica de imóvel. Entenda por que o laudo é obrigatório, como funciona o processo em Navegantes e quanto tempo e custa para resolver.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Perder alguém querido é difícil. Lidar com inventário, partilha de bens e burocracia logo em seguida, sem saber por onde começar, é ainda pior. E no meio de certidões, prazos e conversas familiares que nem sempre são fáceis, aparece uma questão que resolve dinheiro de verdade: quanto valem os imóveis que ficaram? Essa pergunta não se resolve com palppite de parente, com preço de site ou com valor antigo do IPTU. Ela se resolve com laudo de avaliação de imóvel — e em Navegantes, onde o mercado valoriza rápido, a resposta técnica é o que separa uma partilha justa de uma briga familiar que custa anos e dinheiro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica tudo o que você precisa saber sobre avaliação de imóvel para inventário e herança em Navegantes: por que o laudo é exigido, como funciona o processo, quais documentos preparar, quanto custa, quanto tempo demora e como escolher o profissional certo para essa fase delicada.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a avaliação de imóvel é obrigatória no inventário?'
+      },
+      {
+        type: 'paragraph',
+        text: 'No Código de Processo Civil brasileiro (arts. 610 e 655), a partilha de bens imóveis em inventário exige que o valor dosbens seja apurado com base em laudo técnico, independentemente de o inventário ser judicial ou extrajudicial. Isso não é opção — é exigência legal. O juiz, o cartório e os herdeiros precisam de um valor técnico para:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Dividir o patrimônio de forma igualitária entre os herdeiros — sem avaliação, não há como partilhar justamente',
+          'Calcular o imposto sobre transmissão causal (ITBI) — a Prefeitura cobra ITBI com base no valor venal ou no valor de avaliação, e a diferença pode ser significativa',
+          'Definir a base de cálculo do inventário — custas judiciais, honorários advocatícios e custos cartorários são proporcionais ao valor dos bens',
+          'Documentar a transmissão para fins de registro — o Cartório de Registro de Imóveis exige o valor para averbar a nova propriedade',
+          'Evitar disputas entre herdeiros — o laudo técnico elimina subjetividades e dá base comum para negociação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Em inventário, o valor do imóvel não é o que um herdeiro acha que vale: é o que o laudo técnico prova que vale — e é isso que o juiz, o cartório e a Receita exigem.'
+      },
+      {
+        type: 'heading',
+        text: 'Inventário judicial x extrajudicial: o laudo é exigido nos dois?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. Tanto no inventário judicial (com tramitação em juízo) quanto no extrajudicial (feito em cartório, sem juiz), a avaliação de imóvel é necessária. A diferença está no momento em que o laudo é apresentado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Inventário judicial — o laudo é juntado aos autos do processo, geralmente a pedido do juiz ou do Ministério Público, antes da partilha',
+          'Inventário extrajudicial — o laudo é apresentado ao cartório de notas como documento complementar para formalizar a partilha',
+          'Ambos exigem ART — a Anotação de Responsabilidade Técnica é obrigatória independentemente do tipo de inventário'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'No inventário extrajudicial, que é mais rápido e menos custoso (quando há acordo entre herdeiros), o laudo de avaliação acelera o processo porque elimina a necessidade de o juiz determinar avaliação posterior. O cartório aceita o laudo do engenheiro como prova do valor, e a partilha segue sem travas.'
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona a avaliação de imóvel para inventário em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'O processo segue a mesma metodologia da ABNT NBR 14653, mas com foco específico na finalidade de inventário e partilha. Cada etapa é planejada para entregar o valor de mercado que será usado na divisão do patrimônio:'
+      },
+      {
+        type: 'subheading',
+        text: '1. Levantamento documental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro coleta todos os documentos do imóvel: matrícula atualizada, certidão de ônus reais, planta aprovada, habite-se (se houver), IPTU em dia e certidão negativa de débitos. Esses documentos servem de base para a avaliação e garantem que o imóvel está regular para fins de transmissão.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Vistoria técnica'
+      },
+      {
+        type: 'paragraph',
+        text: 'O avaliador visita o imóvel, registra suas características construtivas, estado de conservação, dimensões reais, acabamentos, mobiliário fixo e condições do terreno. Em Navegantes, a vistoria também verifica itens que afetam o valor na região: proximidade da praia, exposição à maresia, qualidade da fundação em solo arenoso e infraestrutura do bairro.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Pesquisa de mercado'
+      },
+      {
+        type: 'paragraph',
+        text: 'O avaliador coleta dados de imóveis semelhantes vendidos ou anunciados na mesma região de Navegantes. Cada dado é ajustado para compensar diferenças de área, localização, padrão construtivo e conservação. O resultado é um painel comparativo que demonstra o valor de mercado com base em transações reais.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Tratamento estatístico e cálculo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os dados são submetidos a tratamento estatístico para eliminar discrepâncias e validar o modelo. O método comparativo direto — o mais usado para imóveis urbanos em Navegantes — aplica ajustes e chega ao valor de mercado do imóvel avaliado. O grau de fundamentação (I, II ou III) é definido conforme a qualidade e a quantidade dos dados disponíveis.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Emissão do laudo'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo final contém toda a fundamentação: metodologia aplicada, dados pesquisados, cálculo detalhado, valor concluído e ART registrada no CREA. O documento é assinado pelo engenheiro avaliador e tem validade legal para inventário, partilha e todos os fins pertinentes.'
+      },
+      {
+        type: 'quote',
+        text: 'O laudo de avaliação para inventário não é um formulário preenchido: é um documento técnico que pode ser apresentado em juízo, em cartório e na Receita — e que precisa resistir a contestações.'
+      },
+      {
+        type: 'heading',
+        text: 'Quais imóveis em Navegantes precisam de avaliação no inventário?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todos os imóveis que fazem parte do patrimônio do falecido devem ser avaliados individualmente. Em Navegantes, os cenários mais comuns são:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Casa residencial — imóvel mais comum em inventários na cidade; o valor depende de localização, área, conservação e padrão',
+          'Apartamento — especialmente na orla e em bairros valorizados como Meia Praia, Vila Real e Centro',
+          'Terreno — lotes urbanos com potencial construtivo; o valor é influenciado pelo zoneamento e pelas dimensões do lote',
+          'Imóvel comercial — imóveis alugados ou utilizados para atividade empresarial; o valor considera a renda gerada',
+          'Imóvel em condomínio — apartamentos e salas com áreas comuns que influenciam o valor',
+          'Mais de um imóvel — quando o falecido tinha carteira imobiliária, cada unidade precisa de laudo próprio'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'É importante lembrar que imóveis irregulares (sem habite-se, com construção não averbada ou com pendências documentais) também precisam de avaliação — mas o laudo deve registrar essas irregularidades, porque elas afetam o valor de mercado.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa e quanto tempo demora?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O custo da avaliação para inventário depende do porte do imóvel, da quantidade de bens e da complexidade da pesquisa de mercado. Imóveis residenciais padrão costumam ter valores acessíveis — especialmente quando comparados ao impacto que um valor incorreto pode causar na partilha.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Prazo da vistoria — uma visita ao imóvel, com duração de 30 minutos a 1 hora',
+          'Prazo do laudo — geralmente 3 a 5 dias úteis após a vistoria',
+          'Inventário complexo — quando há muitos imóveis ou documentação pendente, o prazo pode ser maior',
+          'Inventário judicial — o prazo é definido pelo juiz conforme o andamento do processo'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Um ponto importante: quanto antes o laudo for feito, mais rápido o inventário avança. Esperar a conclusão do laudo para apresentar o valor é um dos gargalos mais comuns de processos judiciais em Navegantes.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns que deformam a avaliação em inventário'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em inventários, alguns erros aparecem com frequência e comprometem a partilha:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Usar o valor do IPTU como referência — o valor venal é base fiscal e costuma ficar muito abaixo do mercado',
+          'Usar o preço de anúncio como valor — o preço pedido não é o preço efetivamente negociado',
+          'Avaliar sem vistoria — o laudo sem visita técnica é impreciso e pode ser contestado',
+          'Esquecer de considerar irregularidades — construção sem habite-se, área não averbada e pendências afetam o valor',
+          'Não atualizar a avaliação — imóvel avaliado há anos não reflete o mercado atual de Navegantes',
+          'Contratar avaliador sem conhecimento local — quem não conhece a cidade subestima ou superestima valores'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Cada um desses erros pode gerar disputa entre herdeiros, questionamento judicial e custos adicionais. Um laudo técnico bem feito evita todos eles.'
+      },
+      {
+        type: 'heading',
+        text: 'O que fazer antes de contratar a avaliação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de solicitar o laudo, reúna os seguintes documentos e informações:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Matrícula atualizada do imóvel (obtida no Cartório de Registro de Imóveis)',
+          'Certidão de óbito do proprietário',
+          'Documentos que comprovem a propriedade (escritura, contrato de compra e venda)',
+          'IPTU do ano corrente',
+          'Planta aprovada e habite-se (se houver)',
+          'Informações sobre reformas, ampliações ou obras realizadas',
+          'Dados dos herdeiros e suas qualidades (nome, CPF, parentesco)'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Ter esses documentos prontos agiliza o trabalho do engenheiro e reduz o prazo de entrega do laudo. Se algum documento estiver faltando, o avaliador pode orientar sobre como obtê-lo antes de iniciar a vistoria.'
+      },
+      {
+        type: 'heading',
+        text: 'Como escolher o avaliador certo para inventário em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Experiência com inventários — o avaliador deve conhecer as exigências de cartórios e juízes de Navegantes',
+          'Domínio da NBR 14653 — o laudo precisa seguir a metodologia normatizada para ter validade',
+          'Conhecimento do mercado local — imóveis em Navegantes têm particularidades que um avaliador de fora desconhece',
+          'ART no CREA-SC — a anotação de responsabilidade técnica é obrigatória para o laudo ter validade',
+          'Imparcialidade — o avaliador não defende herdeiro nenhum: ele apura o valor real do mercado',
+          'Capacidade de explicar — o laudo deve ser claro o suficiente para ser entendido por advogados, juízes e leigos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre avaliação de imóvel para inventário'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo de avaliação é obrigatório em todo inventário? Sim, para imóveis. O Código de Processo Civil exige avaliação técnica para bens imóveis em inventário, independentemente de ser judicial ou extrajudicial. Para veículos e outros bens, a exigência varia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso fazer a avaliação depois de feita a partilha? Tecnicamente sim, mas o ideal é fazer antes. Avaliação posterior pode gerar discordância entre herdeiros e necessidade de redesdobramento do inventário, com custos adicionais.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo serve para o ITBI? Sim. O laudo técnico é aceito pela Prefeitura de Navegantes como base de cálculo do ITBI, e frequentemente resulta em valor mais justo que o valor venal de referência.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo serve para contestar o ITBI? Sim. Se o valor cobrado pela Prefeitura estiver acima do valor de mercado apurado no laudo, o documento pode ser usado como prova em recurso administrativo ou ação judicial.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo o laudo tem validade? Não existe prazo legal de validade, mas é recomendável que a avaliação seja recente (preferencialmente do mesmo ano do inventário). Avaliações antigas podem ser contestadas por não refletirem o mercado atual.'
+      },
+      {
+        type: 'heading',
+        text: 'Avaliação de imóvel para inventário com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia tem sede em Navegantes e atende todo o litoral catarinense com laudos de avaliação de imóveis para inventário, partilha e divórcio. Trabalhamos com a ABNT NBR 14653, emitimos ART em todos os laudos e conhecemos o mercado imobiliário da cidade — bairros, valorizações, particularidades e tendências. Sabemos que o momento é sensível, e por isso entregamos laudos claros, fundamentados e dentro do prazo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você está lidando com inventário, herança ou partilha em Navegantes e precisa de avaliação de imóvel, entre em contato com a nossa equipe. Um laudo técnico bem feito é o que separa uma partilha justa de uma disputa prolongada.'
+      }
+    ]
   }
+,
+  {
+    slug: 'licenciamento-ambiental-guia-completo',
+    title: 'Licenciamento Ambiental: O Guia Completo Do Processo, Da Solicitação à Aprovação',
+    tag: 'AMBIENTAL',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Processo de licenciamento ambiental em escritório de engenharia com estudo ambiental, planta de localização e documentação técnica para aprovação de obra em Navegantes SC.',
+    excerpt: 'Licenciamento ambiental é o processo que impede obra de ser embargada e empresa de ser fechada. Entenda as três licenças (LP, LI, LO), quem exige, quanto custa, quanto demora e como não errar na única tentativa que você tem.',
+    readTime: '13 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Um terreno na beira-mar parece perfeito para construir — até a prefeitura ou o IMA perguntarem se você tem licença ambiental. Uma fábrica quer expandir — e o órgão ambiental exige que a operação atual esteja regularizada antes de qualquer nova etapa. O licenciamento ambiental não é paperwork opcional: é o documento que prova que a sua atividade ou obra respeita o meio ambiente. Sem ele, a obra para, a empresa embarga e a multa diária cresce enquanto você resolve o que poderia ter sido resolvido antes.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra, de forma prática e direta, o que é o licenciamento ambiental, quais as três licenças que compõem o processo (LP, LI e LO), quem é obrigado a ter, quais órgãos envolvidos, como é o passo a passo do processo, documentos necessários, prazos, custos e o que acontece com quem ignora a exigência.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o licenciamento ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental é o procedimento administrativo pelo qual o órgão ambiental competente autoriza a instalação, operação, ampliação ou encerramento de atividade que possa causar impacto ambiental. Não se trata de um documento único — é um processo que avalia o potencial de dano e impõe condições para que a ativação ocorra dentro do que a legislação considera aceitável.'
+      },
+      {
+        type: 'paragraph',
+        text: 'No Brasil, o licenciamento ambiental é obrigatório para empresas, obras e atividades que utilizam recursos naturais, geram resíduos, emitem poluentes, constroem em áreas sensíveis ou qualquer ação que altere as condições originais do meio ambiente. A base legal vem da Lei 6.938/81 (Política Nacional do Meio Ambiente), do CONAMA e das legislações estaduais e municipais.'
+      },
+      {
+        type: 'quote',
+        text: 'Licenciamento ambiental não é algo que você faz depois que o problema aparece. É a proteção que você garante antes do problema existir.'
+      },
+      {
+        type: 'heading',
+        text: 'As três licenças ambientais'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental brasileiro funciona em etapas. Cada etapa gera um tipo de licença, com objetivo e validade distintos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Licença Prévia (LP) — aprova a localização e concepção do projeto, atestando que a ativação, no local e da forma planejada, é viável ambientalmente. Validade mínima de 5 anos, prorrogável. É a porta de entrada: sem a LP, nada avança.',
+          'Licença de Instalação (LI) — autoriza a instalação da atividade conforme o projeto, as condições e as normas aprovadas na LP. Validade mínima de 6 anos, prorrogável. Etapa em que a obra ou a montagem da operação acontece.',
+          'Licença de Operação (LO) — autoriza a operação da atividade, após a verificação de que todas as condições impostas nas licenças anteriores foram cumpridas. Validade mínima de 4 anos, prorrogável. É o documento que mantém a empresa ou a obra funcionando legalmente.'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem toda ativação exige as três licenças. Dependendo do porte e do impacto, o órgão ambiental pode simplificar o processo, emitindo apenas a LO ou concedendo LI e LO em um único ato. Mas quando o impacto é significativo, as três etapas são obrigatórias e sequenciais.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem é obrigado a ter licença ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'A obrigatoriedade abrange um amplo espectro de atividades. Na prática, se a sua atividade ou obra:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Constrói, reforma ou demole em área de preservação permanente (APP) — veredas, mangues, restingas, dunas, margens de rios, encostas',
+          'Gera resíduos sólidos, líquidos ou gasosos que precisam de tratamento antes de descarte',
+          'Utiliza ou despeja água em corpos hídricos',
+          'Consome combustíveis, solventes ou químicos em volume significativo',
+          'Extrai recursos naturais — areia, cascalho, madeira',
+          'Alterou o uso do solo ou a cobertura vegetal',
+          'Funciona em área urbana com restrições ambientais ou próxima à área de proteção'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Isso inclui construção civil, indústria, comércio de grande porte, serviços, mineração, energia, turismo, agronegócio e praticamente qualquer atividade que não seja residencial unifamiliar em área já urbanizada e sem sensibilidade ambiental.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem licencia: os órgãos envolvidos'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental envolve mais de um ente governamental. A competência depende do tipo de impacto e da localização da atividade:'
+      },
+      {
+        type: 'list',
+        items: [
+          'IBAMA — licencia atividades de impacto nacional ou transfronteiriço (mineração em grande escala, usinas, portos, óleo e gás)',
+          'Órgão ambiental estadual — em Santa Catarina, a Fundação do Meio Ambiente (FUMAN, antiga FATMA) licencia a maior parte das atividades industriais, comerciais e de serviços de médio e grande porte',
+          'Prefeitura Municipal — licencia obras residenciais, comerciais e de serviços de pequeno porte, conforme a legislação local e o Plano Diretor',
+          'ICMBio — licencia atividades em áreas de conservação federal (Unidades de Conservação, TICOR, Reservas da Biosfera)',
+          'Órgão ambiental municipal com competência delegada — em alguns municípios, a prefeitura assume o licenciamento de atividades de baixo impacto por delegação estadual'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, a maioria das obras residenciais e comerciais de pequeno e médio porte é licenciada pela Prefeitura, com acompanhamento da FUMAN para atividades que envolvem APP, área de preservação ou resíduos especiais. Ocorrências em área de proteção federal (como fragmentos de Mata Atlântica sob jurisdição do ICMBio) exigem aval do órgão federal.'
+      },
+      {
+        type: 'heading',
+        text: 'O passo a passo do licenciamento ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O processo segue uma sequência previsível. Conhecer cada etapa evita surpresas, atrasos e retrabalho:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Consulta prévia — o interessado entra em contato com o órgão competente (IBAMA, FUMAN ou Prefeitura) para saber se a atividade exige licenciamento e qual o enquadramento',
+          'Estudo ambiental — elaboração do documento técnico que descreve o empreendimento, identifica os impactos ambientais e propõe medidas de mitigação. O tipo de estudo varia: Relatório Ambiental Simplificado (RAS) para baixo impacto, Estudo Ambiental (EAS) para impacto intermediário, ou EIA-RIMA para impacto significativo',
+          'Abertura do processo — protocolo da documentação no órgão competente, com pagamento da taxa de análise',
+          'Análise técnica — equipe do órgão analisa o estudo, solicita informações complementares e emite parecer técnico',
+          'Vistoria — visita técnica ao local para verificar as condições descritas no estudo e a veracidade das informações apresentadas',
+          'Parecer e condições — emissão do parecer com as condições ambientais que devem ser cumpridas durante a obra ou operação',
+          'Emissão da licença — publicação no Diário Oficial e entrega do documento ao interessado',
+          'Acompanhamento e monitoramento — o órgão fiscaliza o cumprimento das condições durante a validade da licença'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Cada etapa do licenciamento tem seu prazo e sua exigência. Pular uma etapa significa recomeçar do zero — ou pior, receber embargo.'
+      },
+      {
+        type: 'heading',
+        text: 'Documentos necessários para o licenciamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'O conjunto de documentos varia conforme o tipo de licença e o órgão competente, mas a documentação básica inclui:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Requerimento formal de licenciamento — formulário padrão do órgão',
+          'CNPJ e certidões da empresa — inscrição estadual, municipal e certidão negativa de débitos ambientais',
+          'Projeto arquitetônico e de localização — planta de situação, croqui de implantação, memória descritiva',
+          'Estudo ambiental — RAS, EAS ou EIA-RIMA conforme o enquadramento de impacto',
+          'Plano de Gerenciamento de Resíduos Sólidos (PGRS) — quando a atividade gera resíduos',
+          'Plano de Controle Ambiental (PCA) — para obras com impacto intermediário',
+          'Relatório de Impacto Ambiental ao Meio Humano (RIMA) — para EIA-RIMA',
+          'ART ou RRT — anotação de Responsabilidade Técnica do profissional que assina o estudo',
+          'Certidão de matrícula do terreno — comprovação da propriedade e situação fundiária',
+          'Autorização do proprietário — quando o licenciado não é o proprietário do imóvel'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A falta de qualquer documento gera devolução do processo. E a documentação incompleta é a causa mais comum de atraso no licenciamento — muitas vezes, mais do que a própria análise do órgão.'
+      },
+      {
+        type: 'heading',
+        text: 'Prazos: quanto tempo demora o licenciamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os prazos variam enormemente conforme o órgão, o tipo de estudo e a complexidade do empreendimento. Na prática:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Licenciamento simplificado (prefeitura, obras residenciais) — 30 a 90 dias, quando a documentação é apresentada corretamente',
+          'Licenciamento intermediário (FUMAN, indústria ou comércio de médio porte) — 3 a 12 meses, dependendo da necessidade de vistoria e complementação de documentos',
+          'EIA-RIMA (IBAMA, atividades de grande impacto) — 12 a 36 meses, incluindo fase de participação pública',
+          'Licenciamento com APP ou área de preservação — prazo adicional de 2 a 6 meses para análise específica do órgão ambiental'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O prazo mais longo não é necessariamente o da análise do órgão. Grande parte do tempo é gasto pelo requerente na elaboração do estudo ambiental e na reunião dos documentos. Quem chega com documentação completa reduz drasticamente o tempo de espera.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa o licenciamento ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O custo total do licenciamento tem duas partes: a taxa de análise do órgão e o custo de elaboração dos estudos e documentação técnica:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Taxa de análise — varia de R\\$ 200 a R\\$ 10.000, conforme o porte e o órgão. Prefeitura cobra menos; IBAMA e FUMAN cobram conforme a Tabela de Custas de Serviços Ambientais',
+          'Elaboração de estudo ambiental — R\\$ 3.000 a R\\$ 50.000, dependendo do tipo (RAS, EAS ou EIA-RIMA) e da complexidade do empreendimento',
+          'ART do profissional — R\\$ 150 a R\\$ 2.000, conforme o tipo de serviço e a tabela do CREA',
+          'Consultoria técnica — R\\$ 2.000 a R\\$ 30.000, quando o empreendedor contrata empresa especializada para conduzir todo o processo'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O custo do licenciamento é uma fração do custo de uma obra embargada. Quem pensa que está economizando não licenciando está, na verdade, acumulando risco multiplicado.'
+      },
+      {
+        type: 'heading',
+        text: 'O que acontece sem licença ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'As consequências de operar ou construir sem licenciamento ambiental são severas e progressivas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Multa administrativa — valor que varia conforme a gravidade, podendo chegar a milhões de reais para atividades de grande porte',
+          'Embargo da atividade — paralisação imediata da obra ou operação, sem direito à conclusão',
+          'Demolição — quando a construção é considerada irregular e causa dano ambiental comprovado',
+          'Criminalização — o responsável pela atividade pode responder penalmente por crime ambiental (Lei 9.605/98), com pena de reclusão de 1 a 5 anos',
+          'Responsabilidade civil — o responsável pode ser condenado a indenizar danos ambientais, mesmo que a atividade já tenha sido desativada',
+          'Impossibilidade de financiamento — bancos e investidores exigem licenças ambientais em dia para liberar crédito',
+          'Perda de mercado — empresas sem licenciamento perdem clientes, certificações e oportunidades de licitação'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A fiscalização ambiental tornou-se mais rigorosa nos últimos anos. Com o aumento da pressão social, das ferramentas de monitoramento e da integração entre órgãos, a chance de ser identificado operando sem licença é maior do que nunca.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros que atrasam ou inviabilizam o licenciamento'
+      },
+      {
+        type: 'list',
+        items: [
+          'Iniciar a obra antes da licença — o erro mais grave e mais comum. A licença prévia não autoriza construção; autoriza apenas a concepção do projeto',
+          'Documentação incompleta — a causa número um de devolução de processo. Cada exigência do órgão deve ser atendida integralmente',
+          'Estudo ambiental genérico — o estudo precisa descrever o empreendimento real, no local real, com os impactos reais. Modelos copiados de outros processos são rejeitados',
+          'Mudança de escopo durante o processo — alterar o projeto sem comunicar o órgão gera nulidade da licença',
+          'Desconsiderar APP — áreas de preservação permanente exigem autorização específica e condições rigorosas. Ignorar uma APP é caminho certo para embargo',
+          'Falta de ART — o estudo técnico sem anotação de responsabilidade técnica não é aceito pelo órgão',
+          'Prazo da licença expirada — a licença ambiental tem validade. Operar com licença vencida é o mesmo que operar sem licença'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O papel da engenharia no licenciamento ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental não é apenas um processo burocrático — é um processo técnico que exige conhecimento de engenharia. O engenheiro ambiental, o engenheiro civil e o engenheiro de segurança do trabalho participam diretamente em cada etapa:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico ambiental — o engenheiro identifica os impactos potenciais do empreendimento com base em dados técnicos, não em suposições',
+          'Projeto de mitigação — as medidas de compensação e mitigação precisam ser tecnicamente viáveis e economicamente sustentáveis',
+          'Plano de gerenciamento — o PGRS, o PCA e o plano de monitoramento são documentos de engenharia, não de assessoria',
+          'Acompanhamento de obra — o engenheiro garante que as condições impostas na licença são cumpridas durante a construção',
+          'Monitoramento pós-operação — a medição de indicadores ambientais e o relatório de monitoramento são atribuições do engenheiro',
+          'ART — toda documentação técnica do processo exige responsável técnico com ART registrada no CREA'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O engenheiro não é apenas quem assina o documento. É quem garante que o documento reflete a realidade do terreno, da obra e do impacto.'
+      },
+      {
+        type: 'heading',
+        text: 'Licenciamento ambiental em Navegantes e no litoral de SC'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes e toda a faixa litorânea do norte de Santa Catarina tem características ambientais que tornam o licenciamento ainda mais relevante. A proximidade com o Atlântico, a presença de restingas, dunas, mangues e veredas, e a pressão do mercado imobiliário criam um cenário onde o licenciamento é mais exigido e mais rigoroso:'
+      },
+      {
+        type: 'list',
+        items: [
+          'APP costeira — a faixa de proteção costeira (Lei 12.651/12) exige licenciamento específico para qualquer intervenção em dunas, restingas e praias',
+          'Manguezal — áreas de mangue são de preservação permanente e exigem licença federal (IBAMA ou ICMBio) em muitos casos',
+          'Solo arenoso — a proximidade com o lençol freático e a mobilidade do solo exigem estudo geotécnico e ambiental integrados',
+          'Pressão imobiliária — o crescimento acelerado de Navegantes, Balneário Camboriú e Itajaí gera demanda constante de novos licenciamentos',
+          'Fiscalização ativa — a FUMAN e a Prefeitura de Navegantes mantêm fiscalização regular de obras e atividades na zona costeira'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Empreendimentos em Navegantes que envolvem intervenção em APP, terrenos próximos ao mar ou atividade que gere resíduos e contaminantes precisam de um estudo ambiental detalhado, com profissional habilitado e ART registrada. A tolerância para irregularidades é menor do que em áreas interioranas.'
+      },
+      {
+        type: 'heading',
+        text: 'Como escolher o profissional para conduzir o licenciamento'
+      },
+      {
+        type: 'list',
+        items: [
+          'Experiência comprovada — peça exemplos de processos de licenciamento conduzidos e aprovados no mesmo órgão competente',
+          'Habilitação técnica — engenheiro ambiental ou civil com ART registrada no CREA e experiência em estudos ambientais',
+          'Conhecimento local — o profissional precisa conhecer a legislação ambiental de Santa Catarina, a atuação da FUMAN e as exigências da Prefeitura de Navegantes',
+          'Capacidade de estudo técnico — o profissional deve ser capaz de elaborar ou supervisionar o estudo ambiental (RAS, EAS ou EIA-RIMA), não apenas assinar',
+          'Transparência — o processo de licenciamento deve ser conduzido de forma documentada, com etapas claras e prazos realistas',
+          'Acompanhamento pós-licença — o profissional deve oferecer suporte durante a validade da licença, incluindo monitoramento e renovação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'Toda obra precisa de licenciamento ambiental?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não necessariamente. Obras residenciais unifamiliar de pequeno porte em área já urbanizada e sem sensibilidade ambiental podem estar dispensadas de licenciamento ambiental específico, embora exijam alvará de construção. Já obras comerciais, industriais, de grande porte ou em áreas sensíveis (APP, restinga, proximidade com corpos d\'água) exigem licenciamento obrigatório.'
+      },
+      {
+        type: 'subheading',
+        text: 'A licença ambiental substitui o alvará de construção?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. São documentos distintos e complementares. O alvará de construção é emitido pela Prefeitura e autoriza a obra conforme o código de obras e o zoneamento. A licença ambiental é emitida pelo órgão ambiental e autoriza a ativação quanto ao impacto ambiental. A obra pode ter alvará sem licença ambiental (se o órgão não exigir) ou vice-versa — mas quando ambos são exigidos, os dois são obrigatórios.'
+      },
+      {
+        type: 'subheading',
+        text: 'Posso pedir a licença de operação direto?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em regra, não. O processo é sequencial: primeiro a LP, depois a LI e por fim a LO. Porém, em casos simplificados, o órgão pode autorizar a emissão da LO diretamente, quando a atividade tem impacto baixo e não justifica as três etapas. Isso varia de órgão para órgão e de atividade para atividade.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa a consultoria para licenciamento?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O custo da consultoria varia conforme o porte da atividade, o tipo de estudo exigido e a complexidade do processo. Pequenas obras residenciais podem ter custo a partir de R\\$ 3.000; indústria e comércio de médio porte, entre R\\$ 10.000 e R\\$ 30.000; grandes empreendimentos com EIA-RIMA, acima de R\\$ 50.000. O investimento é sempre menor do que o custo de uma obra embargada.'
+      },
+      {
+        type: 'subheading',
+        text: 'O que é a renovação da licença ambiental?'
+      },
+      {
+        type: 'paragraph',
+        text: 'A licença ambiental tem validade limitada (5 anos para LP, 6 para LI e 4 para LO). Antes do vencimento, o titular deve solicitar a renovação, apresentando documentação que comprove o cumprimento das condições impostas. A renovação não é automática — o órgão analisa se a atividade continua em conformidade antes de emitir nova licença.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'O licenciamento ambiental não é obstáculo para quem quer construir ou operar. É a garantia de que a atividade pode funcionar sem risco de embargo, multa ou responsabilidade criminal. Cada etapa do processo — da consulta prévia ao monitoramento pós-operação — tem um objetivo claro: proteger o meio ambiente, proteger o empreendedor e proteger a comunidade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar, expandir ou regularizar uma atividade em Navegantes e no litoral de Santa Catarina, fale com a equipe técnica da Regê Engenharia. Conduzimos o licenciamento ambiental completo — estudo ambiental, documentação técnica, acompanhamento do processo e monitoramento pós-licença — para que sua obra ou operação comece com a licença em mão e termine com a conformidade garantida.'
+      }
+    ]
+  },
+  {
+    slug: 'engenharia-contra-incendio-navegantes',
+    title: 'Engenharia Contra Incêndio: Como Garantir o AVCB do Seu Imóvel em Navegantes',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Engenharia contra incêndio em Navegantes SC, com projeto de prevenção, extintores, rotas de fuga e licenciamento junto ao Corpo de Bombeiros.',
+    excerpt: 'Sem a aprovação do Corpo de Bombeiros não há alvará de funcionamento. Entenda o que é engenharia contra incêndio, quais normas ABNT se aplicam, como funciona o licenciamento em Santa Catarina e o que exigir do profissional para seu imóvel ficar seguro e regular.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A obra está pronta, a loja mobiliada, a inauguração agendada — e a Prefeitura informa: sem o atestado do Corpo de Bombeiros, nenhum alvará de funcionamento é emitido. É nesse momento que muita gente descobre que a segurança contra incêndio não é um detalhe burocrático, mas uma engenharia própria, com projeto, norma e responsabilidade técnica. E que improvisar nela custa prazo, dinheiro e, no pior cenário, vidas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é engenharia contra incêndio, quais normas ela segue, como funciona o licenciamento do Corpo de Bombeiros Militar de Santa Catarina (CBMSC), quando o projeto é obrigatório em Navegantes e o que exigir do responsável técnico para obter a regularização sem retrabalho.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é engenharia contra incêndio'
+      },
+      {
+        type: 'paragraph',
+        text: 'Engenharia contra incêndio é a especialidade que projeta as medidas de prevenção e combate a incêndio e pânico de uma edificação. Ela dimensiona saídas de emergência, sinalização, extintores, hidrantes, detecção e alarme, iluminação de emergência e sistemas fixos conforme o risco da edificação — e traduz tudo isso em projeto aprovado pelo CBMSC, condição para alvará e habite-se.'
+      },
+      {
+        type: 'list',
+        items: [
+          'PPCI — Projeto de Prevenção e Proteção Contra Incêndio, documento central da regularização',
+          'Rotas de fuga — larguras, distâncias e escadas dimensionadas pela ocupação e altura',
+          'Sinalização e iluminação de emergência — orientação visível mesmo sem energia',
+          'Combate portátil e fixo — extintores, mangotinhos, hidrantes e chuveiros automáticos',
+          'Detecção e alarme — aviso precoce para evacuação e resposta rápida'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Segurança contra incêndio se projeta na planta, não se improvisa na vistoria.'
+      },
+      {
+        type: 'heading',
+        text: 'As principais normas ABNT'
+      },
+      {
+        type: 'paragraph',
+        text: 'Além das instruções técnicas do próprio CBMSC, o projeto deve atender às normas brasileiras aplicáveis a cada sistema:'
+      },
+      {
+        type: 'list',
+        items: [
+          'NBR 9077 — Saídas de emergência: dimensionamento de rotas, portas e escadas',
+          'NBR 13435 — Sinalização de segurança contra incêndio e pânico',
+          'NBR 12693 — Sistema de extintores: escolha, quantidade e distribuição',
+          'NBR 10897 — Hidrantes e mangotinhos: reserva de água e pressão',
+          'NBR 13714 — Chuveiros automáticos (sprinklers) para controle do fogo',
+          'NBR 17240 — Sistemas de detecção e alarme de incêndio'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona o licenciamento no CBMSC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Classificação de risco — a edificação recebe carga de incêndio e categoria conforme uso, área e altura',
+          'Projeto técnico — o profissional habilitado elabora o PPCI conforme as instruções técnicas do CBMSC',
+          'Aprovação — o Corpo de Bombeiros analisa o projeto antes ou após a execução, conforme o caso',
+          'Vistoria — conferência in loco dos sistemas projetados e instalados',
+          'Certificação — emissão do Atestado/Licenciamento do Sistema de Prevenção e Proteção Contra Incêndio, renovável periodicamente'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode assinar o projeto'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro civil ou engenheiro de segurança do trabalho — habilitado no CREA-SC, com ART registrada',
+          'Profissional habilitado junto ao CBMSC — credenciamento específico para assinar PPCI em Santa Catarina',
+          'Arquiteto (CAU/BR) — integra rotas de fuga e compartimentação ao partido arquitetônico, com RRT quando couber',
+          'Empresa especializada em manutenção — recarga de extintores e inspeção periódica dos sistemas'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Quem assina a ART do PPCI responde pela vida de todos que entram no imóvel. Exija habilitação e registro no CREA-SC.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando o projeto é obrigatório'
+      },
+      {
+        type: 'list',
+        items: [
+          'Abertura ou renovação de alvará — comércios, indústrias, hotéis e prestadores de serviço',
+          'Obra nova ou ampliação — aprovação do PPCI integra o processo de habite-se',
+          'Mudança de ocupação — trocar loja por restaurante muda o risco e exige readequação',
+          'Edificações residenciais coletivas — condomínios com área e altura acima dos limites isentos',
+          'Regularização de imóvel antigo — adequação às instruções técnicas vigentes'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir do responsável técnico'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — confirme o número de registro e a habilitação junto ao CBMSC',
+          'ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada antes da execução',
+          'Cálculo de risco correto — classificação da edificação conforme uso, área e carga de incêndio',
+          'Compatibilização — rotas de fuga coerentes com arquitetura, elétrica e climatização',
+          'Memorial e plantas completos — tudo o que o CBMSC vai analisar, sem pendências',
+          'Acompanhamento da vistoria — suporte até a emissão da certificação',
+          'Plano de manutenção — recargas, inspeções e validade documentadas para renovar o atestado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que travam a vistoria'
+      },
+      {
+        type: 'list',
+        items: [
+          'Extintores insuficientes ou errados — classe inadequada ao risco ou distância além do permitido',
+          'Porta de emergência trancada ou invertida — rota de fuga bloqueada reprova na hora',
+          'Iluminação de emergência inexistente — ausência de autonomia mínima nas rotas',
+          'Reserva de água subdimensionada — hidrante sem pressão e volume necessários',
+          'Sinalização incompleta — placas fora da altura padrão ou apontando caminho errado',
+          'Atesto vencido — deixar o licenciamento expirar gera multa e interdição'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Reprovação na vistoria do bombeiro quase nunca é azar — é projeto que não olhou a norma desde o início.'
+      },
+      {
+        type: 'heading',
+        text: 'Engenharia contra incêndio na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contrate profissional habilitado — engenheiro no CREA-SC com credenciamento no CBMSC',
+          'Classifique a edificação — uso, área, altura e carga de incêndio definem as exigências',
+          'Projete os sistemas — saídas, combate, detecção e sinalização conforme as ITs e NBRs',
+          'Aprove o PPCI — submissão ao CBMSC antes de executar evita demolir depois',
+          'Execute e viste — instalação conforme projeto, com suporte técnico na vistoria',
+          'Mantenha válido — plano de manutenção e renovação da certificação dentro do prazo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre engenharia contra incêndio'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo imóvel precisa do atestado do Corpo de Bombeiros? Não. Edificações de pequeno porte podem ser isentas, conforme a categoria de risco do CBMSC. Mas comércio, hotel, indústria e condomínios acima dos limites precisam do licenciamento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre PPCI e AVCB? O PPCI é o projeto; o atestado (AVCB/licenciamento) é o documento que comprova que a edificação foi construída e mantida conforme o projeto aprovado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo dura o atestado? Depende da categoria de risco da edificação — geralmente entre 1 e 3 anos. Após esse prazo, é preciso renovar por meio de nova verificação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Imóvel antigo pode ser regularizado? Sim, por meio de processo de regularização junto ao CBMSC, com projeto de adequação assinado por profissional habilitado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa o projeto contra incêndio? Varia com área, altura e risco da edificação. O custo do projeto é sempre menor que a multa, a interdição ou o prejuízo humano de um sinistro.'
+      },
+      {
+        type: 'heading',
+        text: 'Segurança contra incêndio com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos de prevenção e proteção contra incêndio dimensionados conforme as instruções técnicas do CBMSC e as normas ABNT. Cuidamos da classificação de risco, das rotas de fuga, dos sistemas de combate e detecção e do acompanhamento até a emissão do atestado — sempre com ART no CREA-SC.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai abrir um negócio, construir ou regularizar um imóvel em Navegantes, fale com nossa equipe antes da vistoria. Engenharia contra incêndio feita desde o projeto é o que garante alvará liberado, patrimônio protegido e pessoas seguras.'
+      }
+    ]
+  },
+  {
+    slug: 'adequacao-normas-incendio',
+    title: 'Adequação às Normas de Incêndio: Como Regularizar seu Imóvel no Litoral de SC',
+    tag: 'SEGURANÇA CONTRA INCÊNDIO',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Engenheiro realizando adequação às normas de incêndio em edificação comercial no litoral de Santa Catarina, com extintores, sinalização e rotas de fuga.',
+    excerpt: 'A adequação às normas de incêndio é o caminho para regularizar imóveis que não foram projetados conforme as exigências do Corpo de Bombeiros. Entenda o que ela envolve, quando é exigida e como conduzir sem parar sua operação.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Muitos imóveis comerciais e industriais do litoral catarinense funcionam há anos sem a regularização contra incêndio — seja porque foram construídos antes das regras atuais, seja porque mudaram de uso sem nova análise. Na hora de renovar o alvará, financiar, segurar ou vender, aparece a exigência: o AVCB. E, sem adequação às normas de incêndio, ele não sai.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é a adequação às normas de incêndio, quando ela é exigida, o que costuma precisar de ajuste em uma edificação existente e como conduzir o processo junto ao Corpo de Bombeiros de Santa Catarina sem interromper a operação.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a adequação às normas de incêndio'
+      },
+      {
+        type: 'paragraph',
+        text: 'Adequação às normas de incêndio é o conjunto de intervenções técnicas que coloca uma edificação existente em conformidade com as exigências de segurança contra incêndio e pânico do Corpo de Bombeiros Militar de Santa Catarina (CBMSC). Diferente do projeto novo, a adequação parte do que existe — planta, estrutura, instalações — e ajusta o que falta ou está fora de norma, com responsabilidade técnica e ART.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a adequação é exigida'
+      },
+      {
+        type: 'list',
+        items: [
+          'Emissão ou renovação do AVCB — o certificado só é emitido para edificação conforme',
+          'Mudança de uso ou ocupação — loja que vira restaurante, galpão que vira comércio: a carga de incêndio muda e a análise também',
+          'Ampliação ou reforma — área maior pode elevar a exigência de sistemas',
+          'Autuação do Corpo de Bombeiros — notificação com prazo para regularizar',
+          'Exigência de seguradora, banco ou cliente — contrato, financiamento ou auditoria que pede o certificado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que normalmente precisa ser ajustado'
+      },
+      {
+        type: 'list',
+        items: [
+          'Extintores — tipo, capacidade, quantidade, posicionamento e recarga em dia',
+          'Sinalização de emergência — rotas de fuga, saídas e equipamentos sinalizados conforme norma',
+          'Iluminação de emergência — blocos autônomos cobrindo rotas de fuga e escadas',
+          'Rotas de fuga e saídas — larguras, travas e desobstrução dos caminhos de escape',
+          'Hidrantes e mangueiras — reserva técnica de incêndio, pressão e acessibilidade',
+          'Sprinklers e detecção — sistemas automáticos exigidos conforme carga incêndio e área',
+          'SPDA (para-raios) — proteção contra descargas atmosféricas quando aplicável',
+          'Plano de prevenção e brigada — documentação e treinamento de equipe nos casos exigidos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona o processo de adequação'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico técnico — vistoria na edificação comparando o existente com as exigências do CBMSC para a sua ocupação e área',
+          'Projeto de adequação (PPCI) — memorial, plantas e especificação das intervenções necessárias',
+          'Execução das medidas — instalação dos sistemas, sinalização e correções construtivas',
+          'Protocolo no CBMSC — entrega do projeto com ART e solicitação da vistoria',
+          'Vistoria e emissão do AVCB — verificação final e certificado válido pelo período definido'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Adequar antes da notificação é planejamento; adequar depois dela é correria com prazo curto, obra carregada de urgência e operação parada. O AVCB sempre chega — a diferença é se você escolhe quando.'
+      },
+      {
+        type: 'heading',
+        text: 'Adequar sem parar a operação'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral norte de SC, onde comércio, hotelaria e indústria vivem de temporada, parar para regularizar é o pior cenário. A boa notícia: a maioria das medidas de adequação é executada por etapas, fora do horário de funcionamento, com cronograma compatível com a operação. O diagnóstico inicial define prioridades — o que bloqueia o certificado e o que pode entrar em fase posterior — e permite negociar prazos realistas com o Corpo de Bombeiros.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Priorize o crítico — saídas de emergência, iluminação e sinalização vêm primeiro',
+          'Trabalhe por setores — adapte um ambiente por vez, mantendo o restante funcionando',
+          'Documente tudo — relatórios e fotos das etapas aceleram a vistoria final',
+          'Planeje antes da temporada — execute a adequação na baixa estação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'Todo imóvel precisa de AVCB?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Praticamente todas as edificações não residenciais — comércios, indústrias, hotéis, escolas, prestadores de serviço — estão sujeitas ao certificado do Corpo de Bombeiros, conforme a carga de incêndio e a área. Residências unifamiliares em geral dispensam, mas a classificação exata depende da análise da ocupação.'
+      },
+      {
+        type: 'subheading',
+        text: 'Meu imóvel é antigo. Preciso atender as normas novas?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Edificações antigas não ficam isentas: ao renovar o certificado, mudar o uso ou reformar, as exigências vigentes se aplicam. Existem critérios técnicos que consideram o que já existe, mas a decisão cabe ao Corpo de Bombeiros a partir do projeto apresentado — nunca ao proprietário.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa uma adequação às normas de incêndio?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Depende do tamanho do desvio: um imóvel com sinalização e extintores em dia pode precisar apenas de iluminação de emergência e projeto; outro pode exigir hidrantes, reserva de água e detecção. O diagnóstico técnico define o escopo real — e evita pagar por sistemas desnecessários.'
+      },
+      {
+        type: 'subheading',
+        text: 'Posso obter o Certificado Digital de Conformidade (CDC)?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em ocupações de menor risco e carga incêndio, o CBMSC permite o CDC, obtido de forma simplificada e online. Edificações maiores ou com mais risco exigem projeto técnico e vistoria presencial. A análise correta da sua ocupação define o caminho mais rápido — e mais barato.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'A adequação às normas de incêndio transforma um passivo escondido em certificado na parede: protege pessoas, libera alvarás, seguros e financiamentos e tira o risco de autuação do caminho da sua operação. Feita com engenharia e planejamento, ela acontece sem parar o negócio.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o seu imóvel comercial, industrial ou de serviços em Navegantes e no litoral norte catarinense precisa de adequação às normas de incêndio, fale com a equipe técnica da Regê Engenharia. Fazemos o diagnóstico completo, o projeto de adequação com ART, a execução das medidas e a condução até o AVCB junto ao CBMSC — sem parar sua operação.'
+      }
+    ]
+  },
+  {
+    slug: 'consultoria-engenharia-industrial',
+    title: 'Consultoria de Engenharia Industrial: Como Reduzir Custos, Riscos e Paradas na sua Operação',
+    tag: 'CONSULTORIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Engenheiro consultor acompanhando operação industrial em galpão no litoral de Santa Catarina, com análise técnica de processos e estruturas.',
+    excerpt: 'A consultoria de engenharia industrial une visão técnica e gestão para reduzir custos, evitar paradas e garantir conformidade. Entenda quando contratar, o que ela analisa e como ela paga o próprio investimento.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Indústria é margem apertada e decisão técnica constante: expandir ou reformar? Trocar equipamento ou reforçar estrutura? Regularizar agora ou esperar a fiscalização? Cada resposta errada custa caro — em parada, multa ou obra mal feita. É nesse ponto que a consultoria de engenharia industrial muda o jogo: ela traz olhar técnico independente sobre a operação, antes que os problemas virem custo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é a consultoria de engenharia industrial, o que ela analisa, quando contratar e como esse serviço se paga — com exemplos da realidade de Navegantes e do litoral norte catarinense.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é a consultoria de engenharia industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consultoria de engenharia industrial é o serviço técnico prestado por engenheiro habilitado que avalia, orienta e acompanha decisões de uma operação industrial — da estrutura física aos processos produtivos, das instalações elétricas e hidráulicas à regularização legal. Diferente da execução, o foco da consultoria é a recomendação fundamentada: diagnóstico, plano de ação e acompanhamento da implementação, tudo com ART e respaldo técnico formal.'
+      },
+      {
+        type: 'heading',
+        text: 'O que a consultoria analisa'
+      },
+      {
+        type: 'list',
+        items: [
+          'Estrutura e edificações — estado de pilares, lajes, telhados, pavimentos e contenções, com laudo e plano de manutenção',
+          'Instalações prediais — elétrica, hidráulica, drenagem e climatização, com apontamento de riscos e desperdícios',
+          'Viabilidade de expansão — análise do imóvel e dos projetos antes de investir em ampliação ou máquina nova',
+          'Conformidade legal — alvará, licenças ambientais, AVCB, NRs e exigências da prefeitura e dos órgãos estaduais',
+          'Processos e layout — fluxo produtivo, movimentação interna e aproveitamento da área construída',
+          'Custos e orçamentos — leitura crítica de propostas, orçamentos executivos e cronogramas de fornecedores'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando contratar uma consultoria industrial'
+      },
+      {
+        type: 'list',
+        items: [
+          'Antes de comprar ou alugar galpão — avaliação técnica evita herdar problema estrutural ou irregularidade cara',
+          'Antes de ampliar ou instalar equipamento pesado — verificação de capacidade da estrutura e das instalações',
+          'Quando aparecem patologias — trincas, infiltrações, recalque, corrosão: diagnóstico antes do remédio',
+          'Na preparação para fiscalização ou auditoria — regularização organizada, sem susto',
+          'Na negociação com fornecedores — segunda opinião técnica sobre propostas e projetos',
+          'Na gestão de obras próprias — acompanhamento independente da execução'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a consultoria se paga'
+      },
+      {
+        type: 'list',
+        items: [
+          'Evita retrabalho — correção na fase de projeto custa uma fração da correção na obra pronta',
+          'Reduz paradas — manutenção planejada substitui quebra inesperada e linha parada',
+          'Afasta multas — conformidade com licenças e normas elimina autuações e embargos',
+          'Fortalece a negociação — laudos e pareceres técnicos dão poder real na mesa com fornecedores e seguradoras',
+          'Protege o seguro — edificação regularizada e bem mantida tem sinistro aceito e prêmio melhor'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Consultoria não é custo de engenharia: é o filtro que impede o erro caro. O parecer que custa milhares hoje é o que impede a obra de meio milhão errada amanhã.'
+      },
+      {
+        type: 'heading',
+        text: 'Consultoria industrial no litoral de SC'
+      },
+      {
+        type: 'paragraph',
+        text: 'Operar indústria no litoral norte catarinense tem variáveis próprias: maresia que acelera a corrosão de estruturas e equipamentos, solo arenoso com lençol freático alto, chuva forte sobrecarregando a drenagem e crescimento acelerado puxado pelo porto de Navegantes. Um consultor local conhece esses fatores e os inclui no diagnóstico — especificando materiais, prazos e soluções que funcionam na prática da região, não apenas na teoria da norma.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes'
+      },
+      {
+        type: 'subheading',
+        text: 'Qual a diferença entre consultoria e projeto?'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto é o desenho técnico de algo que vai ser construído ou instalado. A consultoria é a orientação estratégica: ela decide se vale a pena, o que fazer primeiro, quem fazer e quanto deve custar — e pode incluir ou contratar os projetos depois. Muitas vezes os dois andam juntos.'
+      },
+      {
+        type: 'subheading',
+        text: 'Preciso ter uma empresa grande para contratar consultoria?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. Pequenas e médias indústrias são justamente as que mais se beneficiam, porque não têm corpo técnico interno. Um diagnóstico pontual ou um acompanhamento mensal encaixa em operações de qualquer porte — e o custo é proporcional ao risco evitado.'
+      },
+      {
+        type: 'subheading',
+        text: 'A consultoria emite documentos oficiais?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. Laudos, pareceres, diagnósticos e planos de ação emitidos por engenheiro registrado saem com ART e têm validade perante prefeitura, órgãos ambientais, Corpo de Bombeiros, seguradoras e Justiça.'
+      },
+      {
+        type: 'subheading',
+        text: 'Quanto custa uma consultoria de engenharia industrial?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Varia com o escopo: um diagnóstico pontual custa menos que um acompanhamento mensal contínuo. A referência correta é o retorno — uma única parada evitada, multa afastada ou negociação melhorada costuma pagar a consultoria várias vezes.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão'
+      },
+      {
+        type: 'paragraph',
+        text: 'A consultoria de engenharia industrial é o olhar técnico independente que sua operação precisa para crescer sem herdar problemas: ela avalia estruturas, instalações, processos e conformidade, e transforma risco em plano de ação com respaldo formal.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você busca consultoria de engenharia industrial em Navegantes e no litoral norte catarinense, fale com a equipe da Regê Engenharia. Unimos conhecimento local, registro no CREA-SC e experiência em obras industriais para diagnosticar, planejar e acompanhar a sua operação — com ART em todos os serviços e foco em reduzir custo, risco e parada.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-de-instalacoes-industriais-navegantes',
+    title: 'Projeto de Instalações Industriais: O Que Envolve e Como Não Errar no Seu Galpão em Navegantes',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Projeto de instalações industriais em galpão em Navegantes SC, com elétrica, hidráulica, incêndio e utilidades dimensionadas por engenheiros.',
+    excerpt: 'Instalação industrial não é obra comum: envolve energia, utilidades, normas de segurança do trabalho e licenciamento. Entenda o que compõe um projeto de instalações industriais, quais NRs e normas ABNT se aplicam e o que exigir dos engenheiros antes de montar sua operação.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'O galpão foi alugado, os equipamentos chegaram — e aí vêm as surpresas: a rede elétrica não suporta o maquinário, falta ar comprimido na linha, o Corpo de Bombeiros reprova a planta e a fiscalização do trabalho cobra documentos que ninguém preparou. Em indústria, quase todo esse problema tem uma origem: projeto de instalações incompleto ou inexistente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é um projeto de instalações industriais, quais disciplinas ele abrange, quais normas (NBRs e NRs) se aplicam, quando é obrigatório em Navegantes e o que exigir da equipe de engenharia para instalar ou ampliar sua operação sem retrabalho.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o projeto de instalações industriais'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto de instalações industriais é o conjunto de projetos complementares que integra todas as redes e sistemas necessários ao funcionamento de uma planta industrial — do ponto de energia até o exaustor da linha de produção. Diferente da edificação comercial, aqui cada sistema é dimensionado para carga contínua, ambiente agressivo e exigências regulatórias próprias.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Layout industrial — posicionamento de máquinas, fluxo de produção e logística interna',
+          'Elétrica de força — média e baixa tensão, subestação, quadros e aterramento',
+          'Utilidades — ar comprimido, vapor, gás industrial e água de processo',
+          'Hidráulica e efluentes — água industrial, esgoto e tratamento conforme o licenciamento',
+          'Prevenção contra incêndio — PPCI dimensionado pelo risco real da atividade',
+          'HVAC e ventilação — exaustão, renovação de ar e conforto térmico das áreas'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Na indústria, o projeto não termina na parede: termina onde a produção começa.'
+      },
+      {
+        type: 'heading',
+        text: 'As normas que regem a instalação industrial'
+      },
+      {
+        type: 'list',
+        items: [
+          'NBR 5410 — Instalações elétricas de baixa tensão: base da distribuição em 220/380 V',
+          'NBR 14039 — Instalações elétricas de média tensão: subestação e alimentadores',
+          'NR-10 — Segurança em instalações e serviços em eletricidade: prontuário elétrico obrigatório',
+          'NR-12 — Segurança no trabalho em máquinas e equipamentos: proteções e parada de emergência',
+          'NR-13 — Caldeiras e vasos de pressão: registro e inspeção de equipamentos sob pressão',
+          'NBR 9077 e ITs do CBMSC — saídas de emergência e prevenção contra incêndio'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que a indústria exige engenharia dedicada'
+      },
+      {
+        type: 'list',
+        items: [
+          'Carga contínua — equipamentos operando horas seguidas exigem dimensionamento de regime diferente do comercial',
+          'Ambiente agressivo — no litoral de Navegantes, maresia e umidade aceleram corrosão de estruturas e painéis',
+          'Normas de trabalho — NRs exigem documentação técnica assinada; fiscalização pode embargar a operação',
+          'Licenciamento ambiental — atividades poluidoras dependem de projeto aprovado junto ao órgão estadual',
+          'Expansão futura — layout e infraestrutura devem prever crescimento sem demolir tudo depois'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem assina os projetos'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro eletricista (CREA-SC) — força, iluminação, subestação e prontuário NR-10, com ART',
+          'Engenheiro mecânico (CREA-SC) — utilidades, HVAC, vapor e vasos de pressão NR-13, com ART',
+          'Engenheiro civil (CREA-SC) — estrutura, fundação, hidráulica e pavimentação industrial, com ART',
+          'Engenheiro de segurança do trabalho — PPCI, PGR e adequação às NRs, com ART',
+          'Arquiteto (CAU/BR) — layout, compartimentação e conformidade urbanística, com RRT'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Cada disciplina industrial tem norma e responsável próprio. Projeto único e genérico não atende nem o bombeiro nem a fiscalização do trabalho.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando o projeto é obrigatório'
+      },
+      {
+        type: 'list',
+        items: [
+          'Implantação de nova unidade — qualquer atividade industrial exige projetos aprovados para funcionar',
+          'Troca de maquinário relevante — nova potência redefine elétrica, utilidades e ventilação',
+          'Ampliação de área construída — novo pavilhão repete todo o ciclo de aprovação',
+          'Regularização de operação existente — adequação às NRs e ao corpo de bombeiros',
+          'Mudança de atividade — outro ramo produtivo altera risco, licenças e exigências'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir da equipe de engenharia'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registros ativos no CREA-SC — confirme o registro de cada responsável pela especialidade',
+          'ARTs emitidas antes do início — cada disciplina com sua Anotação de Responsabilidade Técnica',
+          'Levantamento de cargas completo — elétrica, térmica e pneumática baseadas nos equipamentos reais',
+          'Prontuário elétrico NR-10 — documento obrigatório para operação e fiscalização',
+          'PPCI compatível com o risco real — classe de incêndio da atividade, não estimativa genérica',
+          'Compatibilização entre disciplinas — elétrica, hidráulica, estrutura e HVAC sem conflito de rotas',
+          'Previsão de expansão — reserva de capacidade definida desde o primeiro cálculo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que custam caro na planta industrial'
+      },
+      {
+        type: 'list',
+        items: [
+          'Dimensionar elétrica pelo galpão e não pela produção — transformador subdimensionado trava a operação',
+          'Ignorar a NR-12 — máquina sem proteção gera embargo, multa e acidente',
+          'Ar comprimido como detalhe — rede mal dimensionada derruba pressão na ponta da linha',
+          'Não prever efluentes — licenciamento travado impede o início da produção',
+          'Layout sem fluxo — deslocamento desnecessário vira custo permanente de produção',
+          'Deixar a maresia fora do projeto — materiais errados corroem em meses no litoral'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O erro mais comum da instalação industrial é projetar o galpão como se fosse uma loja grande — e descobrir na primeira parada de linha.'
+      },
+      {
+        type: 'heading',
+        text: 'Instalação industrial na prática: o passo a passo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contrate equipe multidisciplinar — engenheiros das especialidades com registro no CREA-SC',
+          'Mapeie a produção — equipamentos, cargas, turnos e plano de expansão',
+          'Desenvolva o layout — fluxo de material e pessoa validado antes das redes',
+          'Projete as disciplinas — elétrica, utilidades, hidráulica, incêndio e HVAC compatibilizados',
+          'Aprove e execute — licenças, ARTs e obras conduzidas conforme projeto',
+          'Entregue a documentação — prontuário NR-10, manuais e planos de manutenção para operar regular'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre instalações industriais'
+      },
+      {
+        type: 'paragraph',
+        text: 'Galpão comercial serve para atividade industrial? Depende. A mudança de ocupação precisa ser analisada: carga de incêndio, ventilação, elétrica e licenciamento mudam de categoria e podem exigir adequação completa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de prontuário elétrico? Sim. A NR-10 exige prontuário atualizado para toda instalação elétrica industrial, elaborado por profissional legalmente habilitado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem assina o projeto industrial? Cada disciplina tem seu responsável: eletricista, mecânico, civil e engenheiro de segurança, todos com ART no CREA-SC. Um único profissional raramente cobre tudo com habilitação plena.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vale projetar pensando em expansão? Sempre. A reserva de capacidade em quadros, reservatórios e área útil custa pouco no projeto e evita obras de reforma dispendiosas no futuro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa o projeto de instalações industriais? Varia com porte, número de disciplinas e complexidade da atividade. O custo do projeto é pequeno frente a parada de linha, multa ou embargo.'
+      },
+      {
+        type: 'heading',
+        text: 'Instalações industriais com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos de instalações industriais multidisciplinares: elétrica de força, utilidades, hidráulica, prevenção contra incêndio e HVAC, compatibilizados entre si e adequados às NRs aplicáveis. Cuidamos do levantamento de cargas, das aprovações e das ARTs no CREA-SC — sempre considerando o ambiente litorâneo no dimensionamento de materiais.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai instalar, ampliar ou regularizar uma operação industrial em Navegantes, fale com nossa equipe antes da primeira compra de equipamento. Projeto de instalações feito por engenharia é o que mantém sua produção rodando sem surpresa regulatória.'
+      }
+    ]
+  },
+{
+    slug: 'problema-pressao-agua-navegantes',
+    title: 'Problema de Pressão da Água em Navegantes SC: Causas, Diagnóstico e Soluções Definitivas',
+    tag: 'HIDRÁULICA',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Engenheiro medindo pressão da água com manômetro em instalação hidráulica residencial em Navegantes SC para diagnóstico de baixa e alta pressão.',
+    excerpt: 'Chuveiro fraco, torneira que jorra ou cano estourando? Problema de pressão da água tem causa técnica — não se resolve no chute. Veja as 12 causas mais comuns, como diagnosticar com manômetro, quando usar pressurizador, booster ou VRP, custos e a NBR 5626.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Chuveiro que vira fio, torneira que demora para encher balde, vaso que não aciona, aquecedor a gás que não liga e barulho de martelada na parede na madrugada. O problema de pressão da água é o defeito hidrossanitário que mais gera chamado técnico no litoral — e também o que mais recebe solução errada: pressurizador onde precisava redutor de pressão, bomba onde precisava caixa d\u0027água mais alta, cano mais grosso onde o problema era registro entupido.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e no Litoral Norte de Santa Catarina, a pressão sofre dois extremos: baixa pressão em casas térreas com caixa d\u0027água baixa e nas pontas de rede da CASAN, e alta pressão em prédios com reservatório alto sem válvula redutora. A NBR 5626 exige entre 10 e 400 kPa (1 a 40 m.c.a.) nos pontos de utilização — fora dessa faixa, é patologia hidráulica com risco real de prejuízo.'
+      },
+      {
+        type: 'heading',
+        text: 'Qual é a pressão correta segundo a norma'
+      },
+      {
+        type: 'list',
+        items: [
+          'Pressão mínima dinâmica — 10 kPa (1 m.c.a.): mínimo para qualquer ponto funcionar',
+          'Chuveiro e válvula de descarga — 15 a 20 kPa (1,5 a 2 m.c.a.): abaixo disso, não acionam',
+          'Pressão máxima estática — 400 kPa (40 m.c.a.): acima disso, estoura flexível, registro e aquecedor',
+          'Pressão ideal de conforto — 120 a 250 kPa (12 a 25 m.c.a.): chuveiro forte sem desperdício nem ruído',
+          'Regra prática — cada 1 metro de altura da caixa d\u0027água até o ponto equivale a 10 kPa; caixa a 3 m do chuveiro entrega 30 kPa, suficiente para chuveiro comum mas insuficiente para aquecedor a gás'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Sete em cada dez chamados de falta de pressão em Navegantes se resolvem sem bomba: limpeza, regulagem de registro ou correção de diâmetro.'
+      },
+      {
+        type: 'heading',
+        text: 'Sintomas: seu problema é baixa ou alta pressão?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sinais de baixa pressão: chuveiro fraco mesmo sem economia, pior no pavimento superior; aquecedor a gás que não acende por vazão insuficiente; caixa acoplada demorando mais de 3 minutos para encher; misturador que não mistura (só sai frio ou só quente); máquina de lavar acusando erro de abastecimento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sinais de alta pressão: golpe de aríete (martelada na parede ao fechar a torneira), flexível estourando, registro pingando mesmo fechado, torneira que jorra forte e fecha com estalo, aquecedor desarmado por sobrepressão e conta alta sem vazamento visível.'
+      },
+      {
+        type: 'heading',
+        text: 'As 12 causas mais comuns de problema de pressão'
+      },
+      {
+        type: 'list',
+        items: [
+          'Caixa d\u0027água baixa — desnível menor que 1,5 m até o chuveiro; típico de casas térreas',
+          'Tubulação subdimensionada — tubo de 1/2 polegada servindo a casa toda, queda brusca ao abrir dois pontos',
+          'Registro entupido ou semi-fechado — registro geral oxidado ou de gaveta travado pela corrosão',
+          'Filtro, arejador ou chuveiro entupidos — calcário e areia fina, comuns em água de poço e captações regionais',
+          'Estrangulamentos — excesso de joelhos 90 graus, mangueira dobrada, flexível longo na reforma',
+          'Vazamento oculto — hidrômetro girando com tudo fechado; laje, jardim ou muro infiltrando',
+          'Ar na tubulação — bolhas, ruído e vazão intermitente após falta d\u0027água da concessionária',
+          'Pressão da rua insuficiente — cai no horário de pico (6h-9h e 19h-22h) e no verão',
+          'Pressurizador mal especificado — sem fluxostato ou sem automação, ligando e desligando errático',
+          'Coluna sem setorização em prédio — térreo forte, último andar fraco, sem booster nem VRP',
+          'VRP desregulada ou ausente — prédio alto entregando 35 a 50 m.c.a. no térreo',
+          'Perda de carga do aquecedor/filtro central — medir antes e depois do aparelho revela a queda'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como diagnosticar com método (roteiro de 15 minutos)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Meça no cavalete — manômetro com tudo fechado (pressão estática) e com uma torneira aberta (dinâmica); abaixo de 150 kPa na rua em horário normal, o problema é da rede',
+          'Meça no ponto reclamado — se cai mais de 50% entre cavalete e ponto, há perda na rede interna',
+          'Teste do balde — 1 minuto de vazão no ponto: chuveiro confortável entrega 8 a 12 L/min; abaixo de 6 L/min há entupimento ou subdimensionamento',
+          'Retire arejador e chuveirinho — se a vazão normaliza, era entupimento localizado',
+          'Cheque os registros — geral e do ponto, verificando se abrem 100%',
+          'Abra dois pontos simultâneos — se a pressão despenca, suspeite de tubulação fina ou vazamento',
+          'Observe o hidrômetro parado — tudo fechado e girando significa vazamento oculto'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Soluções definitivas para baixa pressão'
+      },
+      {
+        type: 'list',
+        items: [
+          'Limpeza ou troca de arejador, chuveiro e registro — custo de R$ 50 a R$ 300, resolve cerca de 30% dos casos',
+          'Correção de trecho estrangulado ou fino — trocar o trecho crítico para DN 25/32 conforme NBR 5626',
+          'Elevar a caixa d\u0027água ou construir torre — ganhar 1,5 a 3 m soma 15 a 30 kPa de forma permanente',
+          'Pressurizador de linha com fluxostato — indicado para um banheiro fraco, silencioso e com by-pass',
+          'Booster com pressostato e reservatório hidropneumático — mantém 150 a 250 kPa estáveis em casas grandes',
+          'Cisterna + bomba de recalque + caixa superior — solução definitiva para rede fraca e faltas d\u0027água no verão',
+          'Prédio: booster no subsolo + VRP por zona — colunas setorizadas entregam pressão igual em todos os pavimentos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Soluções definitivas para alta pressão'
+      },
+      {
+        type: 'list',
+        items: [
+          'Válvula Redutora de Pressão (VRP) — obrigatória acima de 400 kPa no ponto; ajuste para 200–250 kPa com manômetros antes e depois',
+          'Setorização por zonas — prédios altos divididos em faixas de 8 a 10 pavimentos com VRP própria',
+          'Vaso de expansão + válvula de alívio — absorve o golpe de aríete em sistemas com aquecedor',
+          'Fixação e ancoragem da tubulação — abraçadeiras a cada 1,5 m eliminam ruído e movimento'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O golpe de aríete nunca é normal: é falha de projeto, com velocidade acima de 2 m/s ou fechamento brusco. VRP, ancoragem e registros de fechamento lento resolvem definitivamente.'
+      },
+      {
+        type: 'heading',
+        text: 'Pressurizador x bomba x booster: qual escolher'
+      },
+      {
+        type: 'list',
+        items: [
+          'Pressurizador de passagem (20–35 L/min) — resolve um chuveiro ou uma suíte; só funciona com rede já pressurizada',
+          'Bomba periférica com pressostato (35–60 L/min) — casa com 2 a 3 banheiros; exige reservatório próprio e respiro',
+          'Booster com inversor de frequência (60–150 L/min) — pressão constante em casa grande ou prédio pequeno; conforto total, custo maior',
+          'Erro comum em Navegantes — instalar pressurizador direto na rede da CASAN: além de proibido, queima a bomba na primeira falta d\u0027água e prejudica os vizinhos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Dimensionamento que evita o problema (NBR 5626)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Velocidade máxima na tubulação — 2,0 m/s (ideal entre 1,0 e 1,5 m/s); acima disso surgem ruído e golpe de aríete',
+          'Perda de carga total — limitada a 10% da pressão disponível',
+          'Chuveiro e aquecedor a gás — DN 25 dedicado desde a caixa, com registro próprio; vazão de projeto 0,20 L/s',
+          'Torneiras e vasos sanitários — DN 20 com arejador economizador',
+          'Reserva técnica — caixa dimensionada para 24 horas de consumo conforme NBR 5626'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades de Navegantes e do Litoral Norte'
+      },
+      {
+        type: 'list',
+        items: [
+          'Rede CASAN variável por horário e estação — medição no cavalete em dois horários + cisterna com recalque para autonomia',
+          'Pontas de rede em expansão (Gravatá, São Domingos, Meia Praia) — pressão de rua já chega baixa; reservatório maior e laudo técnico para solicitar reforço à CASAN',
+          'Casas térreas com caixa baixa — torre de caixa ou pressurizador com by-pass e revisão dos diâmetros',
+          'Prédios na orla com reservatório alto — VRP por zona é item de Habite-se e segurança patrimonial',
+          'Maresia corroe registros e flexíveis — registros de esfera em inox ou latão cromado e flexível trançado inox evitam registro travado semi-aberto',
+          'Água com areia fina — filtro na entrada + limpeza programada dos pontos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa resolver (2025/2026 — Navegantes)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico técnico com manômetro e teste de vazão — R$ 300 a R$ 700',
+          'Limpeza/troca de registros, arejadores e chuveiro — R$ 150 a R$ 600',
+          'Correção de trecho subdimensionado (5 a 10 m) — R$ 800 a R$ 2.500',
+          'Pressurizador de passagem instalado — R$ 900 a R$ 2.200',
+          'Booster com pressostato + hidropneumático — R$ 3.500 a R$ 8.000',
+          'Torre ou elevação de caixa d\u0027água (1,5 a 3 m) — R$ 2.500 a R$ 6.000',
+          'Cisterna de 1.000 a 3.000 L + recalque — R$ 4.500 a R$ 10.000',
+          'VRP com manômetros instalada — R$ 600 a R$ 1.500',
+          'Projeto hidrossanitário completo (casa de 150 a 300 m²) — R$ 1.800 a R$ 4.500 com ART'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que agravam o problema'
+      },
+      {
+        type: 'list',
+        items: [
+          'Instalar pressurizador direto na rede da concessionária — puxa a rede, queima a bomba e pode gerar multa',
+          'Trocar o cano e manter o registro velho entupido — a pressão não volta',
+          'Instalar VRP sem manômetro — impossível regular e conferir',
+          'Bombas superdimensionadas — ruído, golpe de aríete e conta de energia alta',
+          'Ignorar vazamento oculto — a bomba liga sem parar e a conta dispara'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre pressão da água'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso instalar pressurizador direto na rede da CASAN? Não. É proibido e danifica a rede e a bomba. Todo pressurizador deve puxar de reservatório próprio (caixa d\u0027água ou cisterna).'
+      },
+      {
+        type: 'paragraph',
+        text: 'Pressurizador resolve a casa toda? Só o booster setorizado. O pressurizador de passagem resolve um ponto; para casa com dois ou mais banheiros o correto é booster com pressostato e hidropneumático ou elevar a caixa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A VRP é sempre necessária? Se a pressão estática no ponto passa de 400 kPa, sim — é exigência da NBR 5626 e item recorrente de Habite-se em prédios.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Por que a pressão cai só à noite? Horário de pico da rede somado a reservatório vazio. A solução é cisterna com recalque garantindo a reserva técnica de 24 horas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva para resolver? Diagnóstico em uma visita; limpezas e trocas de registro no mesmo dia; pressurizador ou VRP em 1 a 2 dias; torre, cisterna ou booster em 3 a 7 dias.'
+      },
+      {
+        type: 'heading',
+        text: 'Resolva a pressão da sua casa com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte com diagnóstico instrumentado (manômetro e vazão), projeto conforme a NBR 5626, instalação de pressurizadores, boosters, VRPs, cisternas e torres, sempre com materiais preparados para a maresia e ART no CREA-SC. Medimos, projetamos, instalamos e regulamos — até o último ponto ficar com a pressão certa. Fale com nossa equipe e agende o diagnóstico da sua instalação.'
+      }
+    ]
+  },
+  {
+    slug: 'laudo-nr-12-navegantes',
+    title: 'Laudo NR-12 em Navegantes SC: Guia Completo para Máquinas e Equipamentos Conformes',
+    tag: 'SEGURANÇA',
+    image: '/images/construtora.png',
+    imageAlt: 'Laudo NR-12 em Navegantes SC — engenheiro vistoriando proteções e dispositivos de segurança de máquinas e equipamentos industriais com checklist técnico.',
+    excerpt: 'Máquina lacrada, multa por item e risco de amputação: a NR-12 não perdoa improviso. Entenda o que é o laudo NR-12, o que é verificado máquina a máquina, quem pode emitir, quanto custa, quando renovar e como colocar seu parque em conformidade sem parar a produção.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A NR-12 — Segurança no Trabalho em Máquinas e Equipamentos — é a norma que mais lacra máquinas e embarga setores industriais no Brasil. Quando o Auditor Fiscal do Trabalho encontra prensa sem proteção, serra circular sem coifa, comando bimanual improvisado ou botão de emergência que não funciona, o resultado é interdição imediata do equipamento, multa por item não conforme e responsabilidade civil e criminal da direção.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O instrumento que comprova conformidade — ou revela o problema antes da fiscalização — é o laudo NR-12: vistoria técnica documentada, com checklist item a item, medições, evidências fotográficas e ART. Em Navegantes e no Litoral Norte de Santa Catarina — com o polo industrial de Machados, as indústrias do entorno do Porto, marcenarias, serralherias e metalúrgicas de Itajaí a Penha — a NR-12 é exigência diária de fiscalização, auditoria de clientes, seguro e prevenção de acidentes graves.'
+      },
+      {
+        type: 'heading',
+        text: 'O que a NR-12 exige'
+      },
+      {
+        type: 'paragraph',
+        text: 'A NR-12 regulamenta todas as fases da vida de máquinas e equipamentos: projeto, fabricação, importação, comercialização, locação, cessão, uso e descarte. Vale para máquinas novas e usadas, nacionais e importadas, fixas e móveis — incluindo ferramentas portáteis, acessórios de içamento e veículos industriais. Os pilares:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Segurança intrínseca — proteções fixas e móveis, distâncias de segurança, intertravamentos e comandos seguros',
+          'Componentes certificados INMETRO — relés de segurança, sensores, comandos bimanuais e tapetes sensíveis com certificação obrigatória',
+          'ARR (Análise de Riscos) — obrigatória por máquina, identificando perigos mecânicos, elétricos e térmicos',
+          'Inventário de máquinas — cadastro completo do parque com localização e estado',
+          'Manual do fabricante em português — operar sem manual é não conformidade',
+          'Instalações elétricas da máquina — conformes à NR-10, com esquema disponível e sem gambiarras',
+          'Procedimentos escritos e treinamento dos operadores registrados',
+          'Inspeção periódica de acessórios de içamento — cintas, ganchos, correntes e talhas'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Minha máquina é antiga, a NR-12 não vale — é mito. A norma alcança qualquer máquina em uso; o que muda é apenas a estratégia de adequação definida pela análise de riscos.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o laudo NR-12'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo NR-12 é o documento técnico emitido por profissional habilitado, após vistoria in loco, que avalia cada máquina frente aos requisitos da norma e conclui formalmente: CONFORME, CONFORME COM RESSALVAS ou NÃO CONFORME — neste último caso, com plano de correção, prazo e solução indicada por item.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Não é PGR — o PGR (NR-01) gerencia os riscos da empresa inteira; o laudo é específico das máquinas',
+          'Não é ficha de EPI — a hierarquia da NR-12 prioriza eliminação do risco e proteção física',
+          'Não é carimbo de aprovado — um bom laudo pode reprovar, e é justamente isso que protege a empresa',
+          'Não substitui treinamento — capacitação e laudo são exigências paralelas e complementares'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quem precisa de laudo NR-12'
+      },
+      {
+        type: 'list',
+        items: [
+          'Metalúrgicas e serralherias (Machados e entorno do Porto) — tornos, prensas, dobradeiras, guilhotinas e solda',
+          'Marcenarias e fábricas de móveis — serra circular, desengrossadeira, tupia, lixadeiras e seccionadoras',
+          'Indústrias alimentícias e frigoríficos — moedores, fatiadoras, empacotadeiras e esteiras',
+          'Plásticos e recicladoras — injetoras, sopradoras e picadores (risco crítico de amputação)',
+          'Porto e logística — empilhadeiras, talhas, pontes rolantes e acessórios de içamento',
+          'Construção civil — betoneiras, vibradores, serras de bancada e compactadores',
+          'Oficinas mecânicas — elevadores veiculares, tornos e balanceadoras'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Gatilhos que tornam o laudo urgente: notificação ou auto de infração do MTE, auditoria de cliente grande, compra ou locação de máquina usada ou importada, quase-acidente, renovação de seguro ou ISO 45001 e qualquer modificação na máquina — que invalida o laudo anterior imediatamente.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é verificado máquina a máquina'
+      },
+      {
+        type: 'list',
+        items: [
+          'Proteções físicas — fixas bem fixadas, móveis intertravadas (máquina não opera com proteção aberta), distâncias de segurança e resguardo completo de transmissões',
+          'Comandos e dispositivos — botão de emergência testável e categoria adequada, comando bimanual com tempo/distância corretos, componentes certificados INMETRO',
+          'Elétrica da máquina — esquema compatível com a instalação real, aterramento contínuo, painel identificado e fechado, interface conforme NR-10',
+          'Documentação — manual em português no posto, ARR atualizada, inventário, procedimentos de operação e manutenção e treinamento registrado',
+          'Ambiente — sinalização NR-26, iluminação, piso adequado e ergonomia do posto'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Resultado típico em campo: uma marcenaria com 8 máquinas gera de 20 a 40 não conformidades na primeira vistoria — quase todas resolvíveis entre R$ 100 e R$ 3.000 por máquina, com coifa nova, intertravamento certificado, botão de emergência e sinalização.'
+      },
+      {
+        type: 'heading',
+        text: 'Como é feito o laudo: etapas do padrão Regê'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento documental — inventário, ARR existente, manuais, esquemas elétricos e histórico de manutenção',
+          'Vistoria in loco — máquina a máquina com fotos numeradas, medições de distâncias e tempos de parada e testes funcionais dos dispositivos',
+          'Classificação das não conformidades — cada item por nível de risco (crítico/médio/baixo) com custo estimado de correção',
+          'Plano de correção — solução técnica por item com orçamento orientativo e cronograma que não para a produção',
+          'Emissão do laudo — relatório final com metodologia, evidências, conclusão por máquina e ART',
+          'Reinspeção pós-correção — nova vistoria e emissão do laudo de CONFORMIDADE por máquina corrigida'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Diferencial Regê: o pré-diagnóstico é entregue verbalmente no dia da vistoria — você sai sabendo no mesmo dia o que trava a produção hoje e o que pode entrar no cronograma do mês.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode emitir o laudo NR-12'
+      },
+      {
+        type: 'list',
+        items: [
+          'Profissional habilitado — Engenheiro Mecânico, de Segurança do Trabalho ou Eletricista (para aspectos elétricos) com registro ativo no CREA-SC',
+          'ART específica emitida antes da emissão — sem ART, o laudo é nulo perante fiscalização e Justiça',
+          'Competência declarada no documento — itens verificados, normas citadas e versão vigente da NR-12',
+          'Independência recomendada — laudo emitido por terceiro independente tem muito mais peso em auditoria e litígio'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Laudo sem CREA e sem ART válido não protege — agrava. Falsa sensação de conformidade é a pior herança que uma consultoria amadora deixa numa empresa.'
+      },
+      {
+        type: 'heading',
+        text: 'Validade e quando renovar'
+      },
+      {
+        type: 'list',
+        items: [
+          'Regra geral — validade de 1 ano, alinhada à revisão do inventário e do PGR',
+          'Modificação na máquina — invalida o laudo imediatamente (proteção removida, troca de comando, reforma elétrica)',
+          'Nova máquina — laudo específico antes de liberar para operação',
+          'Após acidente ou quase-acidente — reavaliação da máquina envolvida e das similares',
+          'Dica de gestão — cadastre a validade junto às datas de manutenção preventiva em um único cronograma'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa o laudo NR-12 (2025/2026 — Navegantes)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Laudo por máquina — R$ 400 a R$ 1.200/unidade, com desconto progressivo por volume do parque',
+          'Parque até 10 máquinas — R$ 2.500 a R$ 6.000 incluindo inventário e ARR básica',
+          'Parque de 10 a 40 máquinas — R$ 5.000 a R$ 14.000 (perfil típico de metalúrgica ou marcenaria média de Machados)',
+          'ARR completa por máquina complexa — R$ 600 a R$ 2.500 (injetoras, prensas, centros de usinagem)',
+          'Reinspeção pós-correção — R$ 150 a R$ 400 por máquina (emissão do laudo de conformidade)',
+          'Diagnóstico preliminar — R$ 300 a R$ 700, valor abatido do laudo contratado'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Comparativo que fecha a conta: laudo + adequação típica de uma serralheria pequena custa R$ 4.000 a R$ 9.000. Uma única multa gravíssima da NR-28 parte de R$ 6.700 por item — multiplicado pelo número de trabalhadores expostos — sem contar interdição, produção parada, ação trabalhista e criminalização da direção em caso de acidente.'
+      },
+      {
+        type: 'heading',
+        text: 'Riscos de operar sem laudo NR-12'
+      },
+      {
+        type: 'list',
+        items: [
+          'Interdição e lacre da máquina na hora (arts. 158 e 159 da CLT) — produção parada por dias ou semanas',
+          'Multas acumuladas por item, por gravidade e por número de expostos (NR-28)',
+          'Responsabilidade civil e criminal da direção em caso de acidente (Lei 8.213/91, art. 19)',
+          'Perda de contratos B2B — grandes compradores e o Porto exigem evidência de conformidade',
+          'Recusa de indenização pelo seguro em sinistro com máquina irregular',
+          'Passivo trabalhista permanente — a ausência de laudo vira prova contra a empresa'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'NR-12 x PGR x demais documentos: quem faz o quê'
+      },
+      {
+        type: 'list',
+        items: [
+          'Laudo NR-12 — evidência física de conformidade, máquina a máquina, com ART',
+          'ARR — análise de riscos de cada máquina, alimenta o laudo e o PGR',
+          'Inventário de máquinas — base do escopo dos laudos',
+          'PGR (NR-01) — gestão de riscos da empresa inteira; incorpora os riscos das máquinas',
+          'Treinamento NR-12/NR-18 — capacitação dos operadores; exigência paralela que não substitui o laudo',
+          'AVCB (CBMSC) — segurança contra incêndio; complementar, não cobre NR-12'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Ter PGR em dia não significa estar conforme com a NR-12. São documentos com finalidades diferentes — e a fiscalização cobra cada um separadamente.'
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades do Litoral Norte de SC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Polo industrial de Machados e entorno portuário — pacotes por parque completo com cronograma que não para a produção',
+          'Maresia e corrosão — a degradação salina compromete proteções, suportes e componentes elétricos; especificação de inox e galvanizado nas correções',
+          'Marcenarias e serralherias de bairro — máquinas antigas sem proteção, sem manual e sem ARR: prioriza-se primeiro o que mata (coifa, intertravamento, emergência)',
+          'Terceirizadas do Porto — pasta digital pronta para auditoria: inventário + ARR + laudos + ARTs',
+          'Canteiros litorâneos — laudo NR-12 integrado à NR-18 do canteiro'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre laudo NR-12'
+      },
+      {
+        type: 'paragraph',
+        text: 'Tenho só 3 máquinas, preciso de laudo? Sim. A NR-12 não tem porte mínimo: três máquinas sem proteção geram três autos de infração — e um acidente em oficina pequena é tão grave quanto em indústria grande.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Comprei máquina usada em leilão, preciso de laudo? Precisa — e com mais razão. Ao adquirir, o detentor assume integralmente a responsabilidade pela conformidade. Peça o laudo antes de fechar negócio.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso emitir o laudo eu mesmo, como dono da empresa? Não. Exige profissional habilitado com registro ativo no CREA-SC e ART. Laudo autodeclarado não tem valor legal nenhum.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A máquina foi adequada, preciso refazer o laudo? Sim — e essa é a etapa mais importante. A reinspeção documenta a correção e emite o laudo de conformidade, que é o documento que você mostra ao fiscal e ao cliente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva? Parque até 10 máquinas: vistoria em 1 dia e laudo em 5 a 10 dias úteis. Parques maiores seguem cronograma por setor, sem parar a produção. Há fluxo expresso para urgência de fiscalização.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo NR-12 com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com laudos NR-12, NR-10, NR-13, NR-18 e NR-35, análise de riscos, projetos de adequação e treinamentos — sempre com vistoria in loco, evidências fotográficas, medições e ART registrada no CREA-SC. Vistoriamos, diagnosticamos, projetamos a correção e acompanhamos até a última máquina ficar conforme. Fale com nossa equipe e coloque seu parque de máquinas em conformidade sem parar a produção.'
+      }
+    ]
+  },
+  {
+    slug: 'estudo-ambiental-o-que-e-tipos-e-como-elaborar',
+    title: 'Estudo Ambiental: O Que É, Tipos (EIA/RIMA, RAS, BAS) e Como Elaborar Sem Erro',
+    tag: 'AMBIENTAL',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Estudo ambiental para empreendimentos em Navegantes SC - engenheiro realizando diagnóstico ambiental em área litorânea com vegetação de restinga e análise técnica documentada.',
+    excerpt: 'O estudo ambiental é o documento que decide se seu empreendimento recebe ou não a licença ambiental. Entenda o que é, os tipos (EIA/RIMA, RAS, ETA, BAS), quando cada um é exigido, quem pode elaborar, quanto custa e como evitar que o processo volte indeferido.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Todo licenciamento ambiental nasce de um documento técnico: o estudo ambiental. É ele que traduz, em dados e mapas, o que o empreendimento é, onde está inserido, quais impactos causa e como esses impactos serão evitados, minimizados ou compensados. Quando o estudo é bem feito, a licença sai. Quando é genérico, incompleto ou inconsistente com a realidade da obra, o processo volta indeferido — e cada devolução significa meses perdidos e dinheiro parado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é um estudo ambiental, quais são os tipos existentes (do EIA/RIMA ao BAS), quando cada um é exigido, quem pode elaborar, quanto custa, quanto demora e quais são os erros que mais derrubam um processo. Também mostra como a Regê Engenharia conduz estudos ambientais em Navegantes e no Litoral Norte de Santa Catarina — região onde manguezais, restingas e áreas de preservação permanente elevam o nível de exigência.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é estudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Estudo ambiental é o conjunto de documentos técnicos que instrui o processo de licenciamento ambiental de um empreendimento ou obra. Ele reúne a caracterização completa do projeto (porte, potencial poluidor, processos produtivos), o diagnóstico das condições ambientais da área de influência (solo, água, ar, flora, fauna e comunidade), a previsão dos impactos positivos e negativos e as medidas de controle, mitigação e compensação propostas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na prática, o estudo ambiental responde às três perguntas que o órgão ambiental faz antes de emitir qualquer licença:'
+      },
+      {
+        type: 'list',
+        items: [
+          'O quê? — exatamente o que será construído ou operado, com qual porte e qual potencial poluidor',
+          'Onde? — em qual ambiente a atividade se insere e qual sua sensibilidade (APP, manguezal, manancial, área urbana)',
+          'Como? — como os impactos serão controlados durante a instalação e a operação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Sem estudo ambiental consistente não existe licença ambiental. O documento é a espinha dorsal de todo o processo — da LP à LO.'
+      },
+      {
+        type: 'heading',
+        text: 'Tipos de estudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não existe "um" estudo ambiental: existe uma escada de complexidade. Quanto maior o porte e o impacto do empreendimento, mais profundo deve ser o estudo. Os principais tipos são:'
+      },
+      {
+        type: 'list',
+        items: [
+          'EIA/RIMA — Estudo e Relatório de Impacto Ambiental, exigido para atividades de significativo impacto (artigo 225 da Constituição Federal e Resolução CONAMA 001/86)',
+          'RAS/EAS — Relatório ou Estudo Ambiental Simplificado, para empreendimentos de médio impacto',
+          'ETA — Estudo Técnico Ambiental, modalidade usada em Santa Catarina para empreendimentos de médio porte',
+          'BAS — Boletim de Avaliação de Sustentabilidade, para atividades de pequeno porte e baixo impacto (Lei Complementar 140/2011)',
+          'BAp — Boletim de Adequação Ambiental, voltado à regularização de atividades já instaladas sem licença',
+          'PCA/RCA — Plano ou Relatório de Controle Ambiental, focado na operação (ruído, efluentes, emissões, resíduos)'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '1. EIA/RIMA — o estudo completo'
+      },
+      {
+        type: 'paragraph',
+        text: 'O EIA é o estudo ambiental mais abrangente que existe: diagnóstico regional completo, análise de alternativas locacionais e tecnológicas, identificação e quantificação dos impactos diretos e indiretos, programas ambientais e audiência pública quando há demanda. O RIMA é sua versão acessível ao público, apresentada em linguagem clara. É obrigatório para grandes empreendedores — indústrias de grande porte, portos, aterros sanitários, mineração, termelétricas, loteamentos em áreas sensíveis — e exige equipe multidisciplinar.'
+      },
+      {
+        type: 'heading',
+        text: '2. RAS/EAS e ETA — o meio da escada'
+      },
+      {
+        type: 'paragraph',
+        text: 'Empreendimentos de médio impacto — galpões, marinas, condomínios extensos, indústrias médias, obras próximas a áreas sensíveis — normalmente ficam entre o simplificado e o completo. O RAS/EAS concentra-se nos impactos localizados e nas medidas de controle. Em Santa Catarina, o ETA cumpre papel equivalente: mantém rigor técnico (diagnóstico, impactos e mitigação), mas com escopo proporcional ao empreendimento.'
+      },
+      {
+        type: 'heading',
+        text: '3. BAS e BAp — o fluxo simplificado'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para atividades de pequeno porte e baixo impacto — comércios, oficinas, residenciais em áreas já consolidadas — o BAS substitui os estudos longos por formulário técnico com plantas, caracterização da atividade e compromissos de controle. Já o BAp atende quem precisa regularizar uma atividade existente que nunca foi licenciada. São os fluxos mais comuns para pequenos negócios no Litoral Norte.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando cada tipo é exigido'
+      },
+      {
+        type: 'paragraph',
+        text: 'A definição depende de dois critérios combinados pelo órgão ambiental: porte (área construída, capacidade produtiva) e potencial poluidor (natureza da atividade e sua interação com o meio). Alguns exemplos práticos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Casa unifamiliar em lote urbano consolidado — geralmente dispensada de estudo, tratada no licenciamento municipal',
+          'Oficina mecânica ou lavajato — BAS ou PCA/RCA, pelo risco de contaminação de solo e água',
+          'Galpão industrial de médio porte — RAS/EAS ou ETA, conforme o enquadramento estadual',
+          'Loteamento próximo a manguezal ou restinga — EIA/RIMA ou estudo intermediário, conforme escala e sensibilidade',
+          'Atividade já operando sem licença — BAp para regularização, com possíveis ajustes corretivos'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Importante: quem define o tipo de estudo é o órgão ambiental — em Santa Catarina, o IMA (Instituto do Meio Ambiente, resultado da união da antiga FATMA com o IFC) — com base no cadastro do empreendimento. Enquadrar errado a atividade no formulário inicial é um dos erros mais caros do processo, porque desencadeia exigências incompatíveis ou subdimensiona o estudo necessário.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode elaborar o estudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O estudo ambiental só tem validade legal quando elaborado por profissionais legalmente habilitados e registrados em seus conselhos — engenheiros civis, florestais e ambientais, biólogos, geólogos, arquitetos — com anotação de responsabilidade técnica (ART no CREA-SC ou RRT). Para o EIA, a lei exige equipe multidisciplinar: engenheiro, biólogo, geólogo e outros especialistas conforme o caso.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Documento preparado por leigo, copiado de outro empreendimento ou assinado sem responsável técnico registrado é indeferido de imediato — e pode caracterizar falsidade ideológica. Além disso, o contratante responde solidariamente pelas informações prestadas: dados falsos ou omitidos no estudo geram multa, cancelamento da licença e responsabilização civil e criminal.'
+      },
+      {
+        type: 'heading',
+        text: 'Etapas da elaboração de um estudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um estudo bem conduzido segue sequência estruturada:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Enquadramento — classificação da atividade por porte e potencial poluidor junto ao órgão competente',
+          'Caracterização do empreendimento — plantas, processos, insumos, resíduos, efluentes e emissões previstos',
+          'Diagnóstico ambiental — vistoria in loco, levantamento da vegetação, hidrografia, solo, fauna e entorno urbano',
+          'Análise de impactos — identificação, previsão e valoração dos impactos positivos e negativos',
+          'Medidas mitigadoras e compensatórias — planos de controle de erosão, efluentes, ruído, poeira e resíduos',
+          'Montagem e protocolo — organização do documento conforme o roteiro do órgão, formulários e taxas',
+          'Parecerias e complementações — resposta rápida às exigências técnicas até a emissão da licença'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa e quanto demora'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os valores variam conforme o tipo de estudo e a complexidade do empreendimento. Um BAS para atividade de baixo impacto fica em ordem de poucos milhares de reais, incluindo taxas. Um ETA ou RAS parte de valores intermediários. Um EIA/RIMA completo envolve meses de trabalho de equipe multidisciplinar e orçamento significativamente maior. O prazo de análise também escala: semanas no fluxo simplificado, meses nos estudos completos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O detalhe que mais surpreende o empreendedor: boa parte do tempo total não é gasto pelo órgão analisando, mas sim em idas e vindas de complementação. Estudo completo, consistente e aderente ao roteiro oficial reduz o ciclo em meses — é aí que mora a economia real de contratar quem sabe fazer.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros que derrubam um estudo ambiental'
+      },
+      {
+        type: 'list',
+        items: [
+          'Texto genérico — diagnóstico copiado que não corresponde à área real do empreendimento',
+          'Enquadramento errado — porte ou potencial poluidor declarado abaixo do real, descoberto na fiscalização',
+          'Ignorar a área de influência — não considerar vizinhos, cursos d\u0027água, APPs e vias de acesso',
+          'Mitigação desconectada — medidas propostas sem relação com os impactos identificados',
+          'Documentação incompleta — plantas desatualizadas, ART ausente ou outorga de água ignorada',
+          'Subestimar o litoral — tratar área de restinga, manguezal ou faixa de maré como terreno comum'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Estudo ambiental em Navegantes e no Litoral Norte de SC'
+      },
+      {
+        type: 'paragraph',
+        text: 'No Litoral Norte catarinense, a sensibilidade ambiental é regra, não exceção. Navegantes convive com o estuário do rio Itajaí-Açu, manguezais, restingas e faixas de maré — ambientes protegidos por legislação específica e fiscalizados de perto pelo IMA-SC e pela Prefeitura. Itajaí, Balneário Camboriú, Penha e Porto Belo somam encostas, nascentes e zonas costeiras igualmente sensíveis. Um estudo ambiental nessa região precisa dominar três temas de cabeça: delimitação correta de APP, interferência hídrica (drenagem e outorga) e compatibilidade com o zoneamento costeiro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'É comum o empreendedor comprar um terreno, descobrir tarde que metade dele é APP ou que o bairro exige estudo específico — e ter o projeto engavetado. Por isso, a avaliação ambiental prévia à compra ou ao projeto vale mais do que qualquer correção posterior.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre estudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda obra precisa de estudo ambiental? Não. Atividades de baixo impacto podem ser dispensadas ou enquadradas em fluxo simplificado (BAS), e muitas residências ficam apenas no licenciamento municipal. A definição depende do porte, do potencial poluidor e da localização.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Estudo ambiental é o mesmo que licença ambiental? Não. O estudo é o documento técnico que você apresenta; a licença é o ato administrativo que o órgão emite após analisar esse documento. Sem estudo consistente, não há licença.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso começar a construir enquanto o estudo tramita? Em regra, não. Obra iniciada sem licença sofre embargo, multa e embargos de obra — e a regularização posterior custa muito mais caro que o prazo ganho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo vale o estudo? O estudo integra o processo de licenciamento e acompanha o ciclo das licenças (LP, LI, LO). Se o empreendimento muda de projeto ou a licença expira, o estudo precisa ser atualizado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Meu terreno é perto de manguezal, ainda dá para construir? Depende do zoneamento, das distâncias mínimas e da solução projetiva. Com estudo bem feito e projeto adaptado — recuos corretos, contenção adequada, drenagem tratada — muitos empreendimentos conseguem aprovação. Improviso, não.'
+      },
+      {
+        type: 'heading',
+        text: 'Estudo ambiental com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia conduz estudos ambientais completos em Navegantes e em todo o Litoral Norte catarinense — do enquadramento da atividade ao protocolo junto ao IMA-SC e às secretarias municipais, passando por diagnóstico in loco, análise de impactos e plano de mitigação, sempre com ART registrada no CREA-SC. Avaliamos o terreno, dimensionamos o estudo certo (nem mais, nem menos) e acompanhamos as parecerias até a licença sair. Fale com nossa equipe e destrave seu empreendimento com segurança técnica e ambiental.'
+      }
+    ]
+  },
+  {
+    slug: 'gerenciamento-de-residuos',
+    title: 'Gerenciamento de Resíduos Sólidos: O Guia Completo para Empresas e Obras',
+    tag: 'AMBIENTAL',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Gerenciamento de resíduos sólidos em Navegantes e Litoral Norte de SC — engenheiro ambiental orienta segregação, transporte com MTR e destinação final de resíduos de empresa e obra.',
+    excerpt: 'Resíduo mal destinado gera multa, embargo e responsabilidade solidária para quem gerou - mesmo depois do descarte. O gerenciamento de resíduos organiza classificação, coleta seletiva, armazenamento, MTR e destinação final. Veja como fazer na sua empresa ou obra.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Toda empresa gera resíduo - a indústria gera borra e embalagem contaminada, o comércio gera papelão, a obra gera entulho, o escritório gera papel e eletrônicos. E, desde a Lei 12.305/2010, quem gera responde pelo resíduo desde o ponto de geração até a destinação final ambientalmente adequada. Isso significa que jogar tudo junto numa caçamba e confiar no destino não é gerenciar - é transferir risco para o CNPJ: multa diária, embargo, passivo ambiental de área contaminada e responsabilidade solidária quando o destinador irregular desaparece.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica, na prática, o que é gerenciamento de resíduos sólidos, qual é a base legal, como classificar os resíduos do seu empreendimento, quais são as etapas do ciclo (diagnóstico, plano, segregação, armazenamento, transporte com MTR, destinação final e documentação), as particularidades da construção civil e da indústria, os erros mais comuns que geram autuação e como a Regê Engenharia estrutura todo esse processo em Navegantes e no Litoral Norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é gerenciamento de resíduos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Gerenciamento de resíduos é o conjunto integrado de ações de prevenção, redução, segregação na origem, coleta, armazenamento, transporte, tratamento e destinação final dos resíduos, conduzido com rastreabilidade documental do início ao fim da cadeia. Não é apenas "contratar caminhão para levar o lixo": é um sistema de gestão que garante que cada tipo de resíduo siga para o destino correto, por transportador licenciado, com registro comprobatório que proteja juridicamente o gerador.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Prevenção e minimização - reduzir a geração na fonte, antes de pensar no descarte',
+          'Segregação na origem - separar os resíduos por classe no ponto onde nascem',
+          'Rastreabilidade documental - MTR, notas de destinação e cadastros que provam o destino correto',
+          'Destinação ambientalmente adequada - reciclagem, coprocessamento ou aterro licenciado conforme cada classe',
+          'Responsabilidade compartilhada - fabricantes, importadores, distribuidores e geradores respondem pelo ciclo completo'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Na cadeia de resíduos não existe terceirização de responsabilidade: contratar o carroça não transfere a obrigação - quem gera responde até a última etapa da destinação.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que o gerenciamento de resíduos virou prioridade'
+      },
+      {
+        type: 'list',
+        items: [
+          'Exigência legal - a Política Nacional de Resíduos Sólidos obriga o plano de gerenciamento para quase toda atividade geradora',
+          'Fiscalização ativa - IMA/SC, prefeituras e Ministério Público intensificaram autuações, inclusive por denúncia de vizinhos e concorrentes',
+          'Licenciamento ambiental - PGRS bem implantado é condição para obter e renovar LP, LI e LO sem exigências',
+          'Cadeia de suprimentos - grandes compradores auditam fornecedores e cobram comprovante de destinação como critério comercial',
+          'Financiamento - bancos condicionam crédito a conformidade ambiental, e resíduo irregular aparece no primeiro filtro',
+          'Economia real - recicláveis segregados viram receita, e destinação correta reduz volume enviado ao aterro, que é a opção mais cara'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Base legal do gerenciamento de resíduos'
+      },
+      {
+        type: 'paragraph',
+        text: 'O arcabouço combina lei federal, regulamentos, normas técnicas e regras estaduais - e é justamente essa sobreposição que confunde o empresário:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Lei 12.305/2010 - institui a Política Nacional de Resíduos Sólidos, define responsabilidade compartilhada e logística reversa',
+          'Decreto 10.936/2022 - regulamenta a PNRS e detalha obrigações de geradores e planos de gerenciamento',
+          'Resolução CONAMA 307/2002 - disciplina especificamente os resíduos da construção civil (RCD) e responsabiliza o gerador pela destinação',
+          'ABNT NBR 10004, 10005 e 10006 - critérios técnicos para classificar resíduos quanto a periculosidade e inertez',
+          'Legislação catarinense - resoluções CONSEMA e instruções do IMA/SC definem cadastro, planos e destinação permitida no estado',
+          'SINIR e MTR - Sistema Nacional de Informações sobre Gestão de Resíduos e Manifesto de Transporte de Resíduos, base da rastreabilidade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como classificar os resíduos do seu empreendimento'
+      },
+      {
+        type: 'paragraph',
+        text: 'Classificar é o primeiro passo operacional: o destino, o transportador e o custo dependem da classe. Em linhas gerais:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Classe I (perigosos) - óleo usado, solventes, lâmpadas fluorescentes, pilhas e baterias, embalagens contaminadas com químicos: exigem armazenamento específico, empresa especializada e coprocessamento ou tratamento',
+          'Classe II-A (não perigosos não inertes) - papelão, plásticos, madeira, podas e restos alimentares: vão para triagem, compostagem ou reciclagem',
+          'Classe II-B (inertes) - concreto, tijolo, areia e entulho mineral: podem ser reciclados como agregado ou destinados a aterro de inertes',
+          'Resíduos de saúde (RSS) - clínicas e laboratórios seguem fluxo próprio com acondicionamento e incineração controlada',
+          'Efluentes líquidos - óleos e águas oleosas têm regime próprio de coleta e tratamento, fora do fluxo de sólidos'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Na dúvida entre classes, prevalece a mais restritiva até que laudo ou caracterização técnica prove o contrário. Subclassificar mal é um dos erros que mais geram auto de infração.'
+      },
+      {
+        type: 'heading',
+        text: 'As etapas do gerenciamento de resíduos na prática'
+      },
+      {
+        type: 'heading',
+        text: '1. Diagnóstico e inventário'
+      },
+      {
+        type: 'paragraph',
+        text: 'Começa medindo: quais resíduos são gerados, em que quantidade, em quais setores e com que frequência. O inventário cruza processos produtivos com fichas de produtos para identificar perigosidade. Sem esse raio-x, o plano vira documento genérico que desaba na primeira fiscalização.'
+      },
+      {
+        type: 'heading',
+        text: '2. Elaboração e implantação do PGRS'
+      },
+      {
+        type: 'paragraph',
+        text: 'O Plano de Gerenciamento de Resíduos Sólidos documenta classes, procedimentos de segregação, cronograma, responsáveis, formas de armazenamento, transportadores e destinadores contratados. É peça obrigatória do licenciamento ambiental e precisa sair do papel: treinamento, sinalização e rotina operacional fazem parte da implantação, não só o PDF arquivado.'
+      },
+      {
+        type: 'heading',
+        text: '3. Coleta seletiva interna'
+      },
+      {
+        type: 'paragraph',
+        text: 'Contenedores identificados por classe em cada setor, pontos centrais de concentração e equipe treinada para não misturar fluxos. A segregação na origem é o fator que mais reduz custo: misturado, o reciclável contamina e passa a pagar tarifa de resíduo perigoso.'
+      },
+      {
+        type: 'heading',
+        text: '4. Armazenamento temporário adequado'
+      },
+      {
+        type: 'paragraph',
+        text: 'Área coberta, impermeável, ventilada, com contenção de vazamentos, sinalização e acesso controlado. Resíduos perigosos têm prazo máximo de armazenamento e exigem compatibilidade entre materiais estocados. Área improvisada atrás do galpão é convite à autuação - e a chuva carregando chorume transforma infração administrativa em passivo de solo.'
+      },
+      {
+        type: 'heading',
+        text: '5. Transporte licenciado com MTR'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cada retirada deve ter transportador cadastrado no órgão ambiental e Manifesto de Transporte de Resíduos emitido no SINIR, vinculado ao CNPJ gerador. O MTR é a prova documental de que o material saiu para destino autorizado - sem ele, a carga interceptada volta com seu nome.'
+      },
+      {
+        type: 'heading',
+        text: '6. Destinação final ambientalmente adequada'
+      },
+      {
+        type: 'paragraph',
+        text: 'Recicladoras, cooperativas, coprocessadores e aterros licenciados emitem certificado de destinação. A verificação é simples e indispensável: conferir a licença vigente do destinador antes de contratar, porque a responsabilidade solidária alcança o gerador quando o receptor opera irregular.'
+      },
+      {
+        type: 'heading',
+        text: '7. Documentação, auditoria e melhoria contínua'
+      },
+      {
+        type: 'paragraph',
+        text: 'MTRs, certificados, fotos das áreas, treinamentos e indicadores de massa por fluxo organizados em pasta única - física ou digital - pronta para fiscalização ou auditoria de cliente. Revisão anual do plano fecha o ciclo, ajustando metas de redução e novos fluxos de resíduo.'
+      },
+      {
+        type: 'heading',
+        text: 'Gerenciamento de resíduos na construção civil'
+      },
+      {
+        type: 'paragraph',
+        text: 'A construção civil é o maior gerador de resíduos sólidos urbanos do país, e a CONAMA 307/2002 trata o tema com regras próprias. No canteiro, o projeto gerenciador define segregação em Classes A, B, C e D, áreas de armazenamento e cronograma de remoção - evitando que demolições e sobras misturem material reciclável com resíduo perigoso.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Classe A - concreto, argamassa, alvenaria: recicláveis como agregado em base pavimentação',
+          'Classe B - plásticos, papel, metal, vidro, embalagens: encaminhados a recicladoras',
+          'Classe C - sem tecnologia de reciclagem consagrada: aterro licenciado',
+          'Classe D - tintas, solventes, amianto e outros perigosos: destinação especializada obrigatória'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Para obras em Navegantes e região, o ganho prático é duplo: conformidade com a prefeitura e economia direta - canteiro organizado paga menos remoções porque separa reciclável do rejeito, e o histórico de MTRs sustenta o licenciamento do empreendimento e futuras regularizações.'
+      },
+      {
+        type: 'heading',
+        text: 'Gerenciamento de resíduos na indústria'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na indústria, o gerenciamento de resíduos integra o licenciamento ambiental: o PGRS compõe o processo de Licença Prévia, é cobrado na Instalação e verificado na Operação. Além disso, fluxos como logística reversa de embalagens de agrotóxicos, óleo lubrificante usado, borras e sucatas contaminadas têm cadeias específicas - e auditorias de clientes industriais grandes já incluem amostragem de MTRs e visita ao destinador.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Óleo hidráulico e lubrificante usado - rerrefinadora licenciada com certificado por carga',
+          'Embalagens contaminadas - lavagem/tratamento ou coprocessamento conforme produto acondicionado',
+          'Borra de usinagem e lodo de tratamento - caracterização laboratorial define rota',
+          'Sucata metálica limpa - venda gera receita que compensa parte do custo total do sistema',
+          'Papelão, plástico e pallets - triagem interna transforma fluxo de custo em fluxo de receita'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros mais comuns que levam à autuação'
+      },
+      {
+        type: 'list',
+        items: [
+          'Misturar classes - reciclável junto com perigoso contamina todo o lote e eleva tarifas',
+          'Operar sem MTR - retiradas informais por carroça ou caçamba sem manifesto deixam o gerador sem prova alguma',
+          'Contratar destinador irregular - preço abaixo do mercado costuma indicar licença vencida ou descarte clandestino',
+          'Armazenamento improvisado - área aberta, sem cobertura nem contenção, exposta a chuva e prazo legal excedido',
+          'Plano engavetado - PGRS assinado mas sem treinamento, sinalização ou rotina real no chão de fábrica',
+          'Documentação dispersa - na fiscalização, quem procura nota e certificado por e-mail enquanto o fiscal espera acaba autuado por impossibilidade de comprovação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades do Litoral Norte de SC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Polos de Machados e entorno portuário - indústria e terminais concentram fluxos complexos e exigem sistema documental pronto para auditoria de grandes clientes',
+          'Malha urbana adensada em Navegantes e Balneário Camboriú - espaço físico escasso pede projeto inteligente de central de resíduos dentro do próprio lote',
+          'Clima chuvoso do litoral - cobertura e drenagem de pátio não são opcionais: chuva sobre resíduo gera chorume e agrava a infração',
+          'Sensibilidade ambiental regional - manguezais, estuary do Itajaí-Açu e unidades de conservação ampliam o alcance de denúncias e ações do MP',
+          'Rede regional de destinadores - Itajaí, Blumenau e Joinville oferecem recicladoras, coprocessadores e aterros licenciados; o desafio é selecionar e auditar parceiros'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre gerenciamento de resíduos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Empresa pequena também precisa de gerenciamento? Sim. A PNRS não tem porte mínimo: escritório, comércio e oficina geram resíduos e respondem por eles. O que muda é a escala do plano - um PGRS simplificado resolve, mas ausência completa de controle não tem justificativa aceita na fiscalização.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso colocar entulho de obra em caçamba comum? Somente com transportador cadastrado na prefeitura e destinação em área licenciada - a caçamba não autoriza mistura de classes nem descarte em terreno alheio. O gerador responde pelo entulho mesmo após o pagamento da caçamba.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem emite o MTR? O gerador emite o manifesto no SINIR vinculando origem, transportador e destinador. Na prática, a consultoria estrutura o cadastro e a rotina de emissão para que cada retirada nasça documentada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa implantar? Depende do número de fluxos e do volume. O diagnóstico inicial costuma revelar economia imediata - receita de recicláveis, redução de volume no aterro e eliminação de multas - que financia boa parte do sistema.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Já fui multado por destinação irregular, e agora? A regularização segue o mesmo caminho: diagnóstico, plano, contratação de cadeia licenciada e defesa técnica comprovando correção. Resposta rápida com documentação consistente costuma reduzir penalidades e evita reincidência, que multiplica valores.'
+      },
+      {
+        type: 'heading',
+        text: 'Gerenciamento de resíduos com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense estruturando gerenciamento de resíduos de ponta a ponta: inventário e classificação, elaboração e implantação do PGRS, projeto de central de resíduos, cadastro e emissão rotineira de MTR no SINIR, seleção e auditoria de transportadores e destinadores licenciados, treinamento de equipes e dossiê documental sempre pronto para fiscalização do IMA/SC ou auditoria de cliente - tudo conduzido por engenheiros habilitados com ART registrada no CREA-SC. Fale com nossa equipe e transforme o gerenciamento de resíduos de risco jurídico em vantagem competitiva para a sua empresa ou obra.'
+      }
+    ]
+  },
+  {
+    slug: 'empresa-de-engenharia-de-seguranca-do-trabalho',
+    title: 'Empresa de Engenharia de Segurança do Trabalho: O Que Faz e Quando Contratar',
+    tag: 'SEGURANÇA',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Empresa de engenharia de segurança do trabalho em Navegantes SC - engenheiro com capacete realiza vistoria técnica de conformidade com NRs em planta industrial, com EPIs e sinalização de segurança.',
+    excerpt: 'Toda empresa com funcionários precisa gerenciar riscos - e a fiscalização cobra documentos assinados com ART. A empresa de engenharia de segurança do trabalho diagnostica conformidade, elabora PGR, LTCAT e laudos, treina equipes e sustenta sua operação numa auditoria ou fiscalização. Entenda quando contratar e o que exigir.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Toda empresa com funcionários - da marcenaria de bairro à indústria do Porto - tem, por lei, a obrigação de proteger a saúde e a integridade da sua equipe. Quando o Auditor Fiscal do Trabalho chega, o que está em jogo não é apenas uma multa: é a interdição da atividade, a responsabilização civil e criminal da direção e, no pior cenário, a vida de um trabalhador. É exatamente para evitar esse cenário que existe a empresa de engenharia de segurança do trabalho: a pessoa jurídica que reúne profissionais habilitados para identificar riscos, estruturar programas obrigatórios, emitir laudos com ART e manter a operação conforme as Normas Regulamentadoras.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia mostra o que faz uma empresa de engenharia de segurança do trabalho, quando contratá-la, como ela se diferencia do profissional avulso, o que exigir na contratação e por que essa decisão pesa ainda mais no litoral de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é uma empresa de engenharia de segurança do trabalho'
+      },
+      {
+        type: 'paragraph',
+        text: 'É a pessoa jurídica composta por engenheiros de segurança e técnicos de segurança do trabalho registrados no CREA-SC que assume, com responsabilidade técnica formal (ART), a gestão de riscos ocupacionais de empresas e obras. Não é consultoria de papel: o trabalho envolve vistoria in loco, medições, análise de riscos, elaboração dos documentos exigidos por lei, treinamentos e acompanhamento contínuo - tudo documentado para resistir à fiscalização, à auditoria de clientes e até a uma ação judicial.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Registro ativo no CREA-SC — só profissional habilitado pode assinar laudos, projetos e programas',
+          'ART por serviço — a Anotação de Responsabilidade Técnica é o que dá valor legal ao documento',
+          'Equipe multidisciplinar — engenheiro projeta e assina; técnico cuida da rotina do dia a dia',
+          'Vistoria in loco — documento sem visita técnica não reflete a realidade e não protege ninguém'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Documento de segurança sem ART não vale nada perante a fiscalização. E ART sem vistoria é responsabilidade assumida sobre algo que ninguém viu.'
+      },
+      {
+        type: 'heading',
+        text: 'O que a empresa faz na prática'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico de conformidade — raio-X da empresa frente às NRs aplicáveis, com pendências priorizadas por risco',
+          'PGR/GRO (NR-01) — inventário de riscos e plano de ação; obrigatório para praticamente toda empresa com empregados',
+          'PCMAT (NR-18) — programa obrigatório para obras de construção civil com mais de 20 trabalhadores',
+          'LTCAT e PPP — base da aposentadoria especial e do perfil profissiográfico do empregado',
+          'Laudos NR-12, NR-10, NR-13 e NR-35 — conformidade de máquinas, elétrica, vasos de pressão e altura',
+          'Ficha de EPI (NR-06) — especificação, registro de fornecimento e treinamento de uso',
+          'Treinamentos obrigatórios — integração, altura, elétrica, máquinas e brigada, com registro de carga horária',
+          'Dimensionamento de SESMT (NR-04) e apoio à CIPA (NR-05)',
+          'Suporte em fiscalização — resposta a notificações, plano de correção com prazo e evidências'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Empresa de engenharia x profissional avulso x improviso'
+      },
+      {
+        type: 'list',
+        items: [
+          'Responsabilidade técnica — a empresa emite ART no CREA-SC para cada documento; o avulso frequentemente não cobre o ciclo completo',
+          'Continuidade — programa vivo e atualizado anualmente, não papel pontual que envelhece',
+          'Cobertura documental — PGR, LTCAT, laudos e treinamentos integrados e coerentes entre si',
+          'Auditoria e seguro — pasta digital pronta para cliente grande, seguradora e fiscalização',
+          'Acidente judicial — documentação assinada antes do evento é o que protege a empresa em juízo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando contratar'
+      },
+      {
+        type: 'list',
+        items: [
+          'Sempre que há empregados — desde a NR-01, praticamente todo empregador precisa de gerenciamento de riscos',
+          'Notificação ou auto de infração do MTE — prazo curto exige resposta técnica imediata',
+          'Auditoria de cliente ou renovação de seguro/ISO 45001 — conformidade vira critério comercial',
+          'Obra nova ou reforma — canteiro exige PCMAT, PGR e proteções coletivas desde o primeiro dia',
+          'Compra de máquinas usadas ou importadas — a responsabilidade da NR-12 transfere-se ao novo detentor',
+          'Quase-acidente ou acidente — investigação de causa raiz e correção documentada',
+          'Crescimento do quadro — muda o enquadramento de SESMT e CIPA pela NR-04'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Um único auto de infração costuma superar o custo de um ano inteiro de programa preventivo — e nenhum valor recupera um acidente evitável.'
+      },
+      {
+        type: 'heading',
+        text: 'O que exigir na contratação'
+      },
+      {
+        type: 'list',
+        items: [
+          'CREA-SC ativo — confira o registro da empresa e do responsável técnico no portal do conselho',
+          'ART antes do início — cada serviço (laudo, PGR, PCMAT) com sua anotação registrada',
+          'Vistoria agendada — quem entrega documento sem conhecer a planta está assinando às cegas',
+          'Escopo por escrito — entregáveis, prazos e critérios de aceitação definidos antes de assinar',
+          'Priorização pelo risco — primeiro o que mata (máquina, elétrico, altura), depois a burocracia',
+          'Treinamento incluso ou orçado — documento sem capacitação não muda comportamento',
+          'Plano de correção com custos — não basta apontar o problema; precisa dizer como resolver'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades do Litoral Norte de SC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Porto de Navegantes e terminais logísticos — içamento e circulação de cargas exigem rigor extra em NR-11 e NR-12; terceirizadas vivem sob auditoria permanente',
+          'Polo industrial de Machados — metalúrgicas, marcenarias e serralherias concentram máquinas sem proteção e ARR ausente',
+          'Frigoríficos e indústria alimentícia — câmaras frias, esteiras e cortadores pedem foco em NR-36 e ergonomia',
+          'Construção civil em alta — canteiros litorâneos somam NR-18 aos desafios de solo arenoso, vento e maresia',
+          'Maresia e corrosão — degradam proteções, andaimes e componentes elétricos mais rápido que no interior; inspeções precisam ser mais frequentes'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre empresa de engenharia de segurança do trabalho'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha empresa é pequena, preciso mesmo disso? Sim. A NR-01 exige gerenciamento de riscos de praticamente todo empregador. O que muda nas empresas pequenas é a dimensão do programa — não a obrigatoriedade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre engenheiro e técnico de segurança? O engenheiro projeta, assina laudos e responde pela engenharia de segurança; o técnico executa a rotina (inspeções, EPIs, treinamentos). O dimensionamento do SESMT pela NR-04 define quais perfis sua empresa deve manter internamente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso manter alguém dentro da empresa? Depende do grau de risco e do número de empregados (NR-04). Mesmo quando o SESMT não é obrigatório, o PGR continua sendo — e pode ser conduzido por empresa externa com ART.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com que frequência os documentos devem ser atualizados? O PGR, no mínimo, anualmente ou quando muda o processo; LTCAT quando muda a exposição; laudos de máquina quando a máquina muda; treinamentos conforme a periodicidade de cada NR.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês atendem em caso de fiscalização já em andamento? Sim. Há fluxo expresso: diagnóstico prioritário, apresentação dos documentos existentes e plano de correção negociável com prazo — sempre com evidência técnica e ART.'
+      },
+      {
+        type: 'heading',
+        text: 'Segurança do trabalho com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia une engenharia civil e segurança do trabalho para atender empresas, indústrias, hotéis e canteiros de obra em Navegantes e em todo o Litoral Norte catarinense — Itajaí, Balneário Camboriú, Penha e região. Conduzimos diagnóstico de conformidade, elaboramos PGR, LTCAT, PCMAT e laudos NR-12, NR-10, NR-13 e NR-35 com ART registrada no CREA-SC, executamos treinamentos com registro e acompanhamos sua empresa até a última pendência resolvida — inclusive durante fiscalizações.'
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral — onde o Porto move a economia, Machados industrializa e a construção não para — operar sem conformidade é apostar contra a estatística. Fale com nossa equipe e transforme a segurança do trabalho de risco jurídico em vantagem competitiva para a sua empresa.'
+      }
+    ]
+  },
+  {
+    slug: 'laudo-ambiental',
+    title: 'Laudo Ambiental: O Que É, Tipos, Quando É Exigido e Como Emitir em SC',
+    tag: 'AMBIENTAL',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Laudo ambiental em Navegantes SC — engenheiro realizando vistoria técnica em área verde com vegetação nativa, caracterizando APP e recursos hídricos para emissão do documento técnico com ART.',
+    excerpt: 'Obra notificada pelo IMA, exigência da prefeitura ou dúvida antes de comprar um terreno? Entenda o que é laudo ambiental, os principais tipos, quando ele é obrigatório, quem pode emitir com ART, quanto custa e qual é a validade.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A obra parou porque o IMA ou a prefeitura exigiu um laudo ambiental. O banco travou o financiamento até apresentar o documento. O comprador do imóvel pediu comprovação de que aquela área de restinga está regular. Em todas essas situações, a resposta é a mesma peça técnica: o laudo ambiental — documento que traduz as condições reais de um imóvel ou empreendimento em conclusão objetiva, assinada por profissional habilitado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica o que é o laudo ambiental, como ele se diferencia da licença ambiental, quais são os principais tipos, em que situações ele se torna obrigatório, quem pode emitir, como funciona o processo passo a passo, quanto custa e qual é sua validade — com foco nas particularidades de Navegantes e do litoral norte de Santa Catarina, onde restinga, duna, mangue e cursos de água atravessam boa parte dos lotes urbanos.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é um laudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo ambiental é um documento técnico elaborado por profissional legalmente habilitado, após vistoria in loco, medições e eventualmente análises laboratoriais, que caracteriza as condições ambientais de um imóvel, obra ou atividade e compara essas condições à legislação vigente. A conclusão é sempre objetiva: conforme, conforme com ressalvas ou não conforme — neste último caso acompanhada das medidas necessárias para regularizar a situação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um laudo bem elaborado contém, no mínimo:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Identificação completa do imóvel ou empreendimento — matrícula, endereço, coordenadas georreferenciadas e responsável legal',
+          'Objeto e finalidade do laudo — supressão de vegetação, outorga, monitoramento, defesa técnica ou regularização',
+          'Metodologia declarada — normas técnicas aplicadas (NBRs), resoluções CONAMA, legislação municipal e estadual incidente',
+          'Vistoria documentada — data, horário, condições climáticas e evidências fotográficas geolocalizadas',
+          'Medições e análises — decibelímetro calibrado, coleta de água ou efluente em laboratório acreditado, levantamento de vegetação',
+          'Diagnóstico técnico — descrição da situação encontrada comparada aos parâmetros legais',
+          'Conclusão e recomendações — parecer objetivo com medidas corretivas, prazos e prioridades',
+          'Assinatura, registro no conselho de classe (CREA-SC ou CAU) e ART/RRT específica do serviço'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Laudo ambiental sem vistoria presencial, metodologia declarada e ART não é laudo — é papel que não sobrevive à primeira pergunta do fiscal, do gerente do banco ou do promotor.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo ambiental e licença ambiental não são a mesma coisa'
+      },
+      {
+        type: 'paragraph',
+        text: 'É comum confundir os dois documentos, mas eles têm naturezas diferentes. A licença ambiental (LP, LI ou LO) é um ato administrativo concedido pelo órgão ambiental — hoje o IMA em Santa Catarina, que sucedeu a FATMA, ou a própria prefeitura nos casos de competência municipal. O laudo ambiental é uma peça técnica privada, emitida pelo consultor contratado, que descreve e conclui sobre uma situação concreta. Na prática, o laudo alimenta o licenciamento: instrui requerimentos, responde diligências e comprova condicionantes — mas nunca substitui a licença.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os usos mais frequentes do laudo ambiental são:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Instruir processos de licenciamento (LP, LI, LO) e licenças simplificadas no IMA ou na prefeitura',
+          'Responder notificações, autos de infração e ações civis públicas com base técnica sólida',
+          'Comprovar regularidade ambiental para alvará, Habite-se, financiamento bancário e seguro',
+          'Dar segurança jurídica na compra e venda de imóveis com potencial passivo ambiental',
+          'Cumprir monitoramentos periódicos exigidos como condicionante da Licença de Operação',
+          'Atender auditorias de clientes, certificações e licitações públicas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando o laudo ambiental é exigido'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não existe uma regra única: a exigência aparece quando a localização, a atividade ou o histórico do imóvel toca algum ponto sensível da legislação ambiental. As situações mais comuns no dia a dia da engenharia são:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obra em Área de Preservação Permanente — beira de rio, mangue, restinga, duna frontal, encosta íngreme ou topos de morro',
+          'Supressão de vegetação nativa, mesmo que isolada ou fora de APP',
+          'Captação de água em poço artesiano, rio ou nascente, e lançamento de efluente tratado — temas ligados à outorga de uso da água',
+          'Exigência da prefeitura para emissão de alvará ou Habite-se em lotes com características ambientais especiais',
+          'Notificação do órgão ambiental, denúncia de vizinho ou embargo de obra em andamento',
+          'Compra ou venda de áreas com histórico de posto de combustível, oficina, indústria ou depósito de resíduos',
+          'Operações licenciadas que precisam comprovar periodicamente qualidade de efluente, ruído ou ar'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Regra prática: se o terreno está próximo de água, vegetação nativa, dunas ou encostas, ou se a atividade gera resíduo, efluente ou ruído acima do padrão residencial, algum tipo de laudo ambiental estará em cena mais cedo ou mais tarde. Levantar essa necessidade antes da compra ou do projeto custa horas; descobrir depois da notificação custa meses.'
+      },
+      {
+        type: 'heading',
+        text: 'Principais tipos de laudo ambiental'
+      },
+      {
+        type: 'subheading',
+        text: '1. Laudo de vegetação e caracterização de APP'
+      },
+      {
+        type: 'paragraph',
+        text: 'Delimita Áreas de Preservação Permanente segundo o Código Florestal (Lei Federal 12.651/2012), classifica a vegetação existente, identifica áreas degradadas ou em recuperação e quantifica eventuais intervenções. É a base para requerer autorização de supressão, propor compensação ambiental ou comprovar que o projeto respeita as distâncias mínimas de rios, mangues e restingas. No litoral catarinense exige atenção redobrada com restinga arbórea e manguezal, ecossistemas protegidos com critérios próprios.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Laudo de recursos hídricos: captação e lançamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'Caracteriza o corpo hídrico (classe de enquadramento pela Resolução CONAMA 357/2005), dimensiona vazões de captação e avalia condições de lançamento de efluentes segundo a Resolução CONAMA 430/2011. Fundamenta pedidos de outorga de direito de uso da água para poços, captações superficiais e lançamentos — documentos sem os quais poço artesiano e sistemas de tratamento próprios operam na irregularidade.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Laudo de ruído'
+      },
+      {
+        type: 'paragraph',
+        text: 'Mede níveis sonoros com decibelímetro calibrado, em pontos e períodos definidos pela NBR 10.151, e confronta os resultados com os limites da NBR 10.152 para o entorno. É o laudo típico de indústrias, bares, academias, eventos e obras próximas a residências — e costuma ser decisivo tanto para defender uma operação questionada quanto para comprovar incômodo de vizinhança.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Laudo de efluentes e qualidade da água'
+      },
+      {
+        type: 'paragraph',
+        text: 'Documenta coleta representativa de efluente sanitário ou industrial, análise em laboratório acreditado (REBLAS/INMETRO) e comparação dos parâmetros físico-químicos com os padrões legais de lançamento. Alimenta monitoramentos exigidos na Licença de Operação e serve como prova técnica em fiscalizações — desde que cadeia de custódia das amostras e metodologia estejam bem documentadas.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Laudo de passivo ambiental e avaliação de área contaminada'
+      },
+      {
+        type: 'paragraph',
+        text: 'Avalia o risco de contaminação de solo e água subterrânea em áreas com histórico de uso potencialmente poluidor: postos de combustível, oficinas, galpões antigos, áreas de descarte. Segue a lógica da investigação gerenciada prevista nos procedimentos técnicos de gerenciamento de áreas contaminadas e pode evoluir para investigação confirmatória com sondagens e análises. Para quem vai comprar uma área assim, esse laudo é a diferença entre negócio seguro e herdar um passivo de milhões — com responsabilidade solidária.'
+      },
+      {
+        type: 'subheading',
+        text: '6. Laudo para regularização de obra em área ambientalmente sensível'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quando a construção já aconteceu — em restinga, APP ou área de duna — o laudo caracteriza a situação atual, avalia os impactos residuais e propõe medidas compensatórias ou recuperatórias. Ele instrui os processos de regularização no IMA e junto à prefeitura, caminho realista para transformar uma irregularidade em propriedade regular, ainda que com contrapartidas.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode emitir um laudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Somente profissionais legalmente habilitados, com registro ativo no respectivo conselho e responsabilidade técnica formalizada via ART (CREA-SC) ou RRT (CAU). Conforme o objeto, assinam engenheiros civis, ambientais, florestais e sanitaristas, biólogos, geólogos, químicos e agrônomos. A habilitação correta importa: um laudo de vegetação assinado por quem não tem atribuição florestal ou biológica pode ser invalidado em diligência, jogando semanas de processo fora.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Corretor de imóveis, construtor ou empreiteiro não pode assinar laudo ambiental',
+          'Modelo pronto baixado da internet, mesmo adaptado, não tem valor técnico nem legal',
+          'Declaração autodeclarada pelo proprietário não substitui laudo em nenhum procedimento oficial',
+          'ART ausente, vencida ou com atribuição errada invalida o documento perante o órgão ambiental'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como é feito um laudo ambiental na prática'
+      },
+      {
+        type: 'paragraph',
+        text: 'Embora cada tipo tenha suas particularidades, o fluxo de trabalho segue estrutura parecida em todos os casos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Briefing e documentos — matrícula atualizada, planta do imóvel, CNAE da atividade, histórico de licenças e autuações',
+          'Análise normativa preliminar — definição do que incide: Código Florestal, legislação estadual, código municipal de obras e plano diretor',
+          'Vistoria in loco — inspeção presencial com registro fotográfico, marcação GPS, medições de campo e identificação de pontos críticos',
+          'Coletas e análises laboratoriais — quando o objeto exige: água, efluente, solo ou ruído com equipamento calibrado',
+          'Redação técnica — metodologia, diagnóstico comparativo, conclusão e recomendações priorizadas',
+          'Emissão com ART — revisão cruzada, assinatura digital e responsabilidade técnica registrada',
+          'Protocolo e acompanhamento — entrega ao órgão, resposta a diligências e suporte até a aprovação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Prazo, custo e validade do laudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Prazo depende da complexidade. Laudos pontuais — ruído, efluente único, declaração de vegetação simples — ficam prontos entre 5 e 15 dias úteis. Laudos que envolvem levantamento de vegetação, delimitação de APP ou investigação preliminar de passivo levam de 20 a 60 dias, incluindo coletas, laboratório e consolidação. Urgência de fiscalização tem fluxo expresso, mas sempre dentro do limite técnico do que dá para fazer bem feito.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em valores referenciais de mercado para Santa Catarina, laudos pontuais partem da faixa de R$ 1.500 a R$ 5.000; estudos mais complexos — caracterização completa de área, passivo investigativo, pacotes com múltiplas medições — variam de R$ 5.000 a R$ 25.000 ou mais. Desconfie de orçamentos muito abaixo disso: quase sempre significam template sem vistoria real, exatamente o tipo de documento que desaba na primeira diligência.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto à validade, não existe prazo único fixado em lei: vale o que o órgão destinatário exigir. Órgãos ambientais costumam aceitar apenas laudos recentes — em geral emitidos há menos de 90 dias a 6 meses para protocolo. Monitoramentos condicionados na Licença de Operação seguem periodicidade própria (mensal, trimestral ou anual). E qualquer alteração relevante na área ou na operação — ampliação, reforma, nova atividade — compromete as conclusões do laudo anterior, que deve ser revisado.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros que derrubam um laudo ambiental'
+      },
+      {
+        type: 'list',
+        items: [
+          'Template genérico sem dados concretos do imóvel — coordenadas erradas, matrícula desatualizada, fotos de outra área',
+          'Vistoria feita por foto enviada pelo cliente, sem presença técnica no local',
+          'Normativa citada errada ou desatualizada — resolução revogada, NBR versão antiga, legislação municipal ignorada',
+          'Conclusão vaga, do tipo tudo está certo, sem critérios, parâmetros ou comparação numérica',
+          'Laboratório sem acreditação REBLAS/INMETRO produzindo análises que o órgão rejeita',
+          'ART com atribuição incompatível com o serviço executado',
+          'Ignorar a camada municipal — plano diretor, zoneamento e código de obras mudam a resposta final'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Laudo ambiental no litoral norte de Santa Catarina'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes, Penha, Balneário Camboriú e todo o litoral norte concentram uma combinação que poucas regiões do país têm: zona costeira com restinga, dunas e manguezais, bacias com rios de maré, lençol freático alto e pressão imobiliária intensa. O resultado prático é que uma parcela expressiva dos lotes urbanos toca algum elemento ambientalmente protegido — e muita casa foi construída antes dessa consciência, sem outorga de poço, com efluente ligado de forma irregular ou avançando sobre vegetação nativa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nesse cenário, o laudo ambiental é porta de entrada para resolver três frentes frequentes na região: viabilizar obras novas em lotes com restrição, regularizar construções antigas diante do IMA e da prefeitura de Navegantes, e dar segurança a transações imobiliárias em áreas sensíveis. Conhecer o posicionamento dos órgãos regionais, os critérios adotados em diligência e a rede de laboratórios disponíveis faz diferença de semanas no cronograma.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre laudo ambiental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo laudo ambiental precisa ser protocolado no IMA? Não. Depende da finalidade: laudos de monitoramento vão ao órgão conforme condicionante da licença; laudos de due diligence e defesa técnica podem ficar apenas entre as partes; já supressão de vegetação, outorga e regularização dependem de protocolo no órgão competente, estadual ou municipal.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de laudo ambiental para construir uma casa em lote urbano comum? Em regra, não — se o lote está fora de APP, sem vegetação nativa significativa e ligado à rede pública de água e esgoto. Mas em Navegantes muitos lotes aparentemente comuns tocam restinga, duna, rio ou canal: a verificação prévia, com uma vistoria rápida, evita descobrir a exigência com o alvará travado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha obra foi notificada. O laudo resolve sozinho? O laudo é a espinha dorsal da resposta, mas não anda sozinho: ele precisa vir acompanhado do requerimento correto, dos projetos de correção quando cabíveis e da estratégia adequada ao tipo de auto de infração. Laudo bom sem processo bem conduzido também trava — a combinação dos dois é que destrava.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso usar o mesmo laudo para prefeitura, banco e comprador? Se o escopo for amplo e o laudo recente, sim — desde que a finalidade esteja clara no documento. Na prática, muitas vezes compensa definir logo no briefing todos os destinatários possíveis para que um único laudo atenda a vários usos sem retrabalho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Arquiteto pode assinar laudo ambiental? Via de regra, não. Temas de vegetação, recursos hídricos, ruído, efluentes e contaminação pertencem às engenharias, biologia, geologia e química, com ART específica. O arquiteto participa do projeto e do urbanismo, mas o laudo ambiental exige habilitação própria — pedir a assinatura errada é perder tempo e arriscar indeferimento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo dura um laudo ambiental? O documento em si não expira, mas a prática dos órgãos é valorizar laudos recentes: protocolos geralmente pedem emissão há menos de 6 meses. Mudanças na área, na obra ou na operação também tornam o laudo anterior superado tecnicamente, exigindo atualização.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo ambiental com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia realiza laudos ambientais em Navegantes e em todo o litoral norte catarinense — caracterização de vegetação e APP, apoio a outorgas, laudos de ruído e efluentes, avaliação de passivo e laudos para regularização de obras — sempre com vistoria in loco, evidências documentadas, laboratórios parceiros acreditados e ART registrada no CREA-SC. Nossa equipe multidisciplinar analisa o caso, define o laudo certo para o seu objetivo e conduz o protocolo junto ao IMA e à prefeitura até a aprovação. Fale com nossa equipe e resolva sua exigência ambiental com segurança técnica.'
+      }
+    ]
+  },
+  {
+    slug: 'laudo-de-insalubridade-navegantes',
+    title: 'Laudo de Insalubridade em Navegantes SC: Guia Completo da NR-15 para Caracterizar, Prevenir e Evitar Passivos',
+    tag: 'SEGURANÇA',
+    image: '/images/construtora.png',
+    imageAlt: 'Laudo de insalubridade NR-15 em Navegantes SC — engenheiro de segurança do trabalho realizando medições instrumentadas de ruído, calor e agentes químicos no ambiente industrial.',
+    excerpt: 'Sem laudo, quem decide o adicional de insalubridade é o juiz. Entenda como a NR-15 caracteriza a exposição a ruído, calor, químicos e biológicos, quem pode emitir o laudo, quanto custa, quando refazer e como usar medição técnica para pagar apenas o que é devido.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'O laudo de insalubridade é o documento técnico que diz, com medição e norma na mão, se um trabalhador está exposto a agentes nocivos acima dos limites de tolerância — ruído, calor, poeiras, fumos metálicos, solventes, agentes biológicos — e, por consequência, se a empresa deve pagar o adicional de insalubridade (10%, 20% ou 40% do salário mínimo, conforme o grau). Quando ele não existe, quem decide a exposição é o juiz da reclamatória trabalhista: prevalece o relato do empregado, e o adicional é concedido com retroativos, reflexos e juros.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e no Litoral Norte de Santa Catarina — com as operações do Porto, as metalúrgicas e galpões de Machados, marcenarias, frigoríficos de pescado, postos de combustível, clínicas e canteiros espalhados de Itajaí a Penha — a exposição a agentes insalubres é rotina em centenas de empresas. E quase nenhuma tem o laudo pronto quando ele é pedido.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o laudo de insalubridade'
+      },
+      {
+        type: 'paragraph',
+        text: 'É uma avaliação técnica documentada das condições ambientais de trabalho, realizada in loco por profissional legalmente habilitado, que mede a exposição dos trabalhadores e conclui formalmente: INSALUBRE (exposição acima do limite de tolerância, com enquadramento em grau), DENTRO DOS LIMITES (dados que blindam a empresa) ou ELIMINADA/NEUTRALIZADA (risco corrigido, mediante novo laudo — art. 190 da CLT).'
+      },
+      {
+        type: 'list',
+        items: [
+          'Não é LTCAT — o LTCAT avalia risco previdenciário (aposentadoria especial); o laudo avalia direito ao adicional trabalhista',
+          'Não é PGR — o PGR gerencia os riscos da empresa inteira; o laudo é a avaliação quantitativa focada no adicional',
+          'Não é carimbo para folha — documento sem medição, instrumento calibrado e ART não vale nada perante auditoria e Justiça',
+          'Não é perícia judicial — o laudo particular é a prova que a empresa apresenta (ou contesta) no processo'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'RH pergunta sobre adicional → laudo de insalubridade. Contador pergunta sobre eSocial → LTCAT + S-2240. Advogado trabalhista pergunta → os dois, assinados, datados e vigentes.'
+      },
+      {
+        type: 'heading',
+        text: 'Base legal: CLT, NR-15 e NR-09'
+      },
+      {
+        type: 'paragraph',
+        text: 'A CLT define o quadro nos artigos 189 a 193: art. 189 caracteriza o trabalho insalubre; art. 190 permite eliminar a insalubridade por medida de proteção comprovada em laudo; art. 191 fixa os três graus; art. 192 determina o adicional de 10%, 20% ou 40% sobre o salário mínimo (salvo norma coletiva mais favorável); art. 193 §2º proíbe acúmulo com a periculosidade — opta-se pelo mais vantajoso.'
+      },
+      {
+        type: 'list',
+        items: [
+          'NR-15 — lista os agentes nocivos e os limites de tolerância em seus anexos; a caracterização é feita mediante perícia por médico do trabalho ou engenheiro de segurança do trabalho',
+          'NR-09 — exige avaliação quantitativa sempre que o agente tiver limite estabelecido: medição instrumentada, não estimativa visual',
+          'Norma coletiva — convenções podem fixar base maior que o salário mínimo; metalúrgicos, químicos e saúde têm acordos assim',
+          'Reflexos — o adicional integra férias (+1/3), 13º, FGTS, aviso prévio e horas extras; retroativos alcançam até 5 anos na reclamatória'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Agentes medidos e anexos da NR-15'
+      },
+      {
+        type: 'list',
+        items: [
+          'Ruído contínuo e de impacto (Anexos 1 e 2) — limite de tolerância de 85 dB(A) para 8 h/dia, com dose dobrada a cada +3 dB(A)',
+          'Calor (Anexo 3) — IBUTG limitado a 30 °C (trabalho leve), 26,7 °C (moderado) e 25 °C (pesado), medido no horário de maior carga térmica',
+          'Radiações não ionizantes e ionizantes (Anexos 5 e 7) — limites específicos por tipo e frequência',
+          'Vibração de corpo inteiro e membros superiores (Anexo 8)',
+          'Agentes cancerígenos (Anexo 9) e poeiras minerais como sílice e amianto (Anexo 10)',
+          'Agentes químicos em geral — solventes, gases e vapores (Anexo 11), incluindo benzeno com regra própria',
+          'Poeiras vegetais como algodão e madeira (Anexos 12 e 11) — poeira de madeira é cancerígena nasal',
+          'Agentes biológicos (Anexo 13) — clínicas, hospitais, saneamento e frigoríficos',
+          'Agrotóxicos (Anexo 14) e hidrocarbonetos/compostos de carbono (Anexo 15)'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Atenção ao ruído: a medição correta é a dosimetria pessoal — medidor no trabalhador durante o turno real —, não o decibelímetro apontado de longe. É a diferença entre um laudo que resiste a perícia contrária e um papel que vira prova contra a empresa.'
+      },
+      {
+        type: 'heading',
+        text: 'Valores do adicional em 2026'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com o salário mínimo de R$ 1.621,00 em 2026, o adicional incide sobre essa base (art. 192 da CLT; Súmula Vinculante 4 do STF veda que o juiz troque o índice): grau mínimo R$ 162,10/mês, grau médio R$ 324,20/mês e grau máximo R$ 648,40/mês — sempre verificando se a norma coletiva da categoria fixa base maior.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem pode emitir o laudo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro de Segurança do Trabalho ou Médico do Trabalho, com registro ativo no CREA-SC ou CRM',
+          'ART específica emitida antes do documento — sem ela, o laudo é nulo em fiscalização e Justiça',
+          'Instrumentação calibrada: dosímetro, termômetro de globo negro, bombas de amostragem, com certificados',
+          'Metodologia declarada: NR-15, NR-09 e NHOs da Fundacentro citadas, com condições e tempo de amostragem descritos'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Cuidado com laudos de gaveta: documento genérico, sem medição real e com valores copiados não protege — configura prova falsa e agrava a condenação.'
+      },
+      {
+        type: 'heading',
+        text: 'Como é feito o laudo: etapas do padrão Regê'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento documental — funções e turnos, layout, FDS/FISPQ dos produtos químicos, PGR existente, histórico de afastamentos',
+          'Vistoria in loco — identificação das fontes, ciclos de operação, número de expostos e uso atual de EPC/EPI',
+          'Medições instrumentadas — dosimetria de ruído pessoal, IBUTG com termômetro de globo, amostragem de químicos com bomba',
+          'Enquadramento — comparação com os limites de tolerância da NR-15 e classificação por grau ou dentro do limite',
+          'Plano de controle — hierarquia: eliminação, engenharia (exaustão, anteparo, enclausuramento), administrativas e por último EPI',
+          'Emissão do laudo — relatório com metodologia, evidências, conclusão por função/setor e ART, pronto para RH, auditoria e defesa judicial'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Diferencial Regê: o pré-diagnóstico é entregue verbalmente no dia da vistoria — você já sabe qual setor paga adicional indevidamente hoje e onde a correção elimina o custo em vez de eternizá-lo.'
+      },
+      {
+        type: 'heading',
+        text: 'EPI elimina a insalubridade? A regra que engana empresas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Súmula 337 do TST: a simples utilização de EPI não descaracteriza a insalubridade sem laudo técnico conclusivo, por profissional habilitado, quanto à sua eficácia na neutralização do agente. Ou seja: protetor auricular, máscara e luva não encerram o pagamento do adicional por si só. O caminho correto é medir com o EPI em uso, comprovar a neutralização técnica e registrar isso em laudo específico — mantendo o fornecimento do EPI como obrigação permanente (art. 190 da CLT).'
+      },
+      {
+        type: 'quote',
+        text: 'Empresa que reduz ruído na fonte para de pagar adicional com segurança jurídica. Empresa que só entrega protetor auricular paga adicional para sempre — ou discute isso em juízo.'
+      },
+      {
+        type: 'heading',
+        text: 'Validade e quando refazer'
+      },
+      {
+        type: 'list',
+        items: [
+          'Regra geral — revisão anual, alinhada ao ciclo do PGR/LTCAT',
+          'Mudança de processo, máquina ou produto químico — laudo invalidado imediatamente',
+          'Reforma ou mudança de layout — reavaliação das áreas atingidas',
+          'Reclamatória trabalhista — o laudo vigente coberto por ART é a principal peça de defesa',
+          'Após correções — novo laudo documentando a eliminação, base legal para cessar o pagamento'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Insalubridade x demais documentos: quem faz o quê'
+      },
+      {
+        type: 'list',
+        items: [
+          'Laudo de insalubridade — adicional trabalhista (NR-15), usado na folha e na defesa judicial',
+          'LTCAT — risco previdenciário (Lei 10.666/2003), alimenta PPP, eSocial e aposentadoria especial',
+          'PGR (NR-01) — gestão de riscos da empresa; organiza, mas não substitui a medição quantitativa',
+          'PCMSO (NR-07) — saúde ocupacional e exames dos expostos, sob responsabilidade médica',
+          'PPP e eSocial S-2240 — consolidação das informações ambientais por funcionário, batendo com o laudo',
+          'Perícia judicial — feita por perito nomeado; o laudo particular alimenta a discussão dos dois lados'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa (2025/2026 — Navegantes)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico preliminar — R$ 300 a R$ 700, valor abatido do laudo contratado',
+          'Laudo por setor/função — R$ 600 a R$ 1.500, com vistoria, medições e enquadramento',
+          'Dosimetria de ruído individual — R$ 250 a R$ 600 por trabalhador, com relatório analítico',
+          'Medição de agente químico — R$ 400 a R$ 900 por ponto, incluindo análise laboratorial',
+          'Laudo completo de PME (até 3 setores) — R$ 2.000 a R$ 4.500, com ART e pasta digital',
+          'LTCAT na mesma visita — R$ 900 a R$ 2.500; pacote combinado reduz custo'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Comparativo que fecha a conta: a diferença retroativa de adicional de um único funcionário em grau médio por 5 anos passa de R$ 20 mil com reflexos. O laudo completo custa menos que três meses de adicional pago sem precisar — e infinitamente menos que uma reclamatória perdida.'
+      },
+      {
+        type: 'heading',
+        text: 'Riscos de operar sem laudo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Condenação na Justiça do Trabalho — apresentar o laudo ambiental é ônus do empregador; sem ele, prevalece o depoimento do trabalhador',
+          'Passivo previdenciário — ausência de LTCAT/PPP consistente trava aposentadoria especial e gera autuação do INSS',
+          'Autuação do MTE — a NR-09 exige avaliação quantitativa; estimativa no olho é infração',
+          'Pagamento indevido permanente — sem medição, empresas pagam adicional onde não deveriam e deixam de pagar onde devem, criando dívida',
+          'Auditorias B2B — grandes contratantes do Porto exigem evidência de gestão de exposição ocupacional',
+          'Desgaste com sindicato — negociação coletiva sem dado técnico é sempre negociada para pior'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades do Litoral Norte de SC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Porto de Navegantes — ruído de equipamentos, gases de escape e poeira de grãos; dosimetria por turno real de operação',
+          'Metalúrgicas de Machados — ruído, fumos metálicos de solda e calor de fornos; amostragem no posto mais quente do turno',
+          'Marcenarias — poeira de madeira cancerígena e colas com formaldeído; coleta em serra e lixadeira com plano de exaustão',
+          'Frigoríficos de pescado — frio, umidade e agentes biológicos avaliados por etapa do processo',
+          'Postos de combustível — benzeno com regra própria e cálculo comparativo insalubridade x periculosidade',
+          'Construção civil litorânea — sílice, ruído e cimento integrados ao PGR/NR-18 do canteiro',
+          'Clima quente litorâneo — IBUTG medido no horário de maior carga térmica, não no melhor horário'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre laudo de insalubridade'
+      },
+      {
+        type: 'paragraph',
+        text: 'Empresa pequena também precisa? Precisa. Um único funcionário exposto acima de 85 dB(A) gera direito ao adicional — e a condenação retroativa é igualmente válida. Porte pequeno não é porte protegido.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o funcionário usa EPI, ainda preciso pagar? Em regra, sim. A Súmula 337 do TST exige laudo técnico conclusivo comprovando a eficácia do EPI na neutralização do agente. Protetor entregue e assinado não encerra o adicional sozinho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso emitir eu mesmo, como dono da empresa? Não. A caracterização é privativa de médico do trabalho ou engenheiro de segurança do trabalho, com registro ativo e ART. Laudo autodeclarado vale zero em qualquer mesa de julgamento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Eliminei o risco, posso parar de pagar? Sim, com novo laudo. As medidas de proteção eliminam a insalubridade quando comprovadas tecnicamente (art. 190 da CLT). Parar sem o laudo transforma economia em dívida trabalhista.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva? Empresa de até 3 setores: vistoria com medições em 1 a 2 dias e laudo em 7 a 10 dias úteis. Há fluxo expresso com prioridade de agenda para audiência ou notificação pendente.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo de insalubridade com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com laudos de insalubridade, LTCAT, PGR e consultoria de segurança do trabalho — medições instrumentadas calibradas, enquadramento técnico pela NR-15, plano de controle priorizado e ART registrada no CREA-SC. Medimos, enquadramos, projetamos a correção e acompanhamos auditoria, sindicato e perícia judicial. Fale com nossa equipe e transforme risco trabalhista aberto em decisão técnica documentada.'
+      }
+    ]
+  },
+  {
+    slug: 'plano-gerenciamento-residuos-pratica',
+    title: 'Plano de Gerenciamento de Resíduos na Prática: Como Implantar o Gerenciamento no Canteiro da Sua Obra',
+    tag: 'AMBIENTAL',
+    image: '/images/construtora.png',
+    imageAlt: 'Implantação prática do plano de gerenciamento de resíduos no canteiro de obra — caçambas segregadas e identificadas por classe de resíduo, equipe treinada na triagem e engenheiro conferindo a destinação do entulho.',
+    excerpt: 'Plano engavetado não protege ninguém — o que vale é o gerenciamento rodando no canteiro. Veja como implantar na prática: triagem na fonte, layout de caçambas, rotação programada, transporte e destinação comprovada, custos reais e os erros de campo que anulam o plano. Guia voltado a obras pequenas, reformas e canteiros no litoral de Santa Catarina.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Existe uma distância enorme entre o plano de gerenciamento de resíduos impresso e o gerenciamento acontecendo de verdade no canteiro. O primeiro fica numa pasta esperando fiscalização; o segundo organiza caçambas, treina pedreiro, programa remoção e transforma entulho em economia. E há um detalhe que muita obra pequena ignora: mesmo quando a legislação não exige o plano formal — reservado aos grandes geradores —, a responsabilidade pela destinação correta do resíduo alcança qualquer obra, da reforma de um banheiro à demolição de um galpão.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia é o lado prático do tema: mostra como o gerenciamento funciona no dia a dia do canteiro, quais são as quatro classes de resíduo e seus destinos, como montar o layout de segregação, como contratar transportador e receptor sem cair em golpe, quanto custa na prática, quais erros de campo anulam o plano e o que muda em obras no litoral de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'Plano é documento, gerenciamento é rotina'
+      },
+      {
+        type: 'paragraph',
+        text: 'O plano de gerenciamento de resíduos é o documento técnico que descreve quanto resíduo a obra vai gerar e como cada fração será segregada, armazenada, transportada e destinada. O gerenciamento é esse documento vivo na rotina: a caçamba certa no lugar certo, a equipe separando sem precisar de ordem repetida, o caminhão chegando no dia combinado e o certificado de destinação arquivado. Um sem o outro não funciona — documento sem rotina é fachada, rotina sem documento é risco jurídico.'
+      },
+      {
+        type: 'quote',
+        text: 'Fiscalização não pergunta se você tem plano: pergunta onde está o resíduo de ontem — e pede o papel que prove.'
+      },
+      {
+        type: 'heading',
+        text: 'As quatro classes de resíduo em dois minutos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo o gerenciamento gira em torno da classificação da Resolução CONAMA 307/2002 — porque é a classe que define o destino:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Classe A — concreto, argamassa, tijolo, bloco, telha e solo: recicláveis como agregado em usina ou reúso controlado no próprio terreno',
+          'Classe B — plástico, papelão, metal, vidro e madeira: recicláveis vendáveis para cooperativas e recicladores licenciados',
+          'Classe C — gesso e afins: sem reciclagem viável consolidada; segregar sempre e destinar conforme orientação do órgão ambiental',
+          'Classe D — tintas, solventes, óleos, mantas e amianto: perigosos; exigem embalagem fechada e identificada, transportador licenciado e receptor autorizado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Passo a passo: o gerenciamento rodando no canteiro'
+      },
+      {
+        type: 'subheading',
+        text: '1. Dimensione compras e proteja materiais'
+      },
+      {
+        type: 'paragraph',
+        text: 'A gestão começa antes do primeiro resíduo existir. Compra dimensionada evita sobra; estocagem protegida de chuva e sol evita perda de argamassa, cimento e madeira. Cada saco de cimento endurecido é resíduo pago duas vezes: na compra e no descarte.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Monte o layout de segregação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Defina desde o início onde ficam as caçambas ou baias: alvenaria num container, madeira noutra, metais e embalagens em baias separadas, perigosos em espaço coberto e fechado. Identifique tudo com placas simples e coloridas — quem trabalha no canteiro precisa decidir em dois segundos onde jogar cada sobra. Baias pequenas e numerosas funcionam melhor que uma caçamba única: mistura fica visível na hora.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Treine a equipe de forma curta e constante'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não precisa de palestra: precisa de dez minutos no início da obra explicando as cores, um cartaz na entrada e reforço semanal no diálogo da equipe. A triagem falha quando o operário tem pressa e dúvida ao mesmo tempo — rotina clara resolve os dois.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Programe a rotação das caçambas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Caçamba cheia parada vira convite ao descarte errado: alguém joga o que não devia em cima e contamina o lote inteiro. Alinhe a rotação com as etapas — demolição gera Classe A em volume, instalação gera sobras de tubo e fio, pintura gera Classe D — e mantenha o intervalo entre coletas curto o bastante para nada transbordar.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Contrate transporte e destinação com verificação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de fechar com qualquer empresa, confira três coisas: cadastro do transportador na prefeitura (para caçamba estacionária), licença ambiental vigente do receptor de cada classe e endereço real do destino. Preço muito abaixo do mercado é sinal clássico de bota-fora clandestino — e a responsabilidade solidária chega no gerador, não no intermediário que desaparece.'
+      },
+      {
+        type: 'subheading',
+        text: '6. Arquive cada comprovação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nota da coleta, pesagem do receptor, certificado de destinação, MTR quando exigido, fotos das caçambas segregadas e do material carregado. Uma pasta física ou digital organizada por data resolve qualquer fiscalização em cinco minutos — e é exatamente essa pasta que falta quando a autuação acontece.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa na prática'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os valores variam por município, volume e classe, mas as relações econômicas se repetem em quase todo canteiro bem administrado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Caçamba estacionária — contratada por viagem, com preço ligado ao volume e à distância do receptor; rotação planejada reduz o número de viagens',
+          'Usina de reciclagem versus aterro — destinar Classe A para reciclagem costuma sair mais barato que aterro, além de ser o destino ambientalmente correto',
+          'Classe B como receita — metal limpo, papelão e madeira recuperada podem ser vendidos, compensando parte das remoções',
+          'Mistura como multiplicador de custo — reciclável contaminado com perigoso deixa de ter valor e passa a pagar tarifa de destinação especial, a mais cara da tabela',
+          'Multas e TACs — o descarte irregular é, de longe, o cenário mais caro possível: multa, remoção emergencial do passivo e obra parada'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Segregação custa atenção. Mistura custa dinheiro — todos os meses, em todas as viagens de caçamba.'
+      },
+      {
+        type: 'heading',
+        text: 'Checklist rápido do responsável pela obra'
+      },
+      {
+        type: 'list',
+        items: [
+          'Caçambas e baias identificadas por classe, com acesso livre para carregamento',
+          'Perigosos em local coberto, fechado e fora do alcance de crianças e chuva',
+          'Gesso separado desde a demolição ou reforma — nunca misturado ao entulho bruto',
+          'Transportador com cadastro municipal ativo e receptor com licença vigente conferida',
+          'Rotação de coletas alinhada ao cronograma físico da obra',
+          'Equipe orientada sobre onde descartar cada sobra — e reforço semanal na rotina',
+          'Pasta de destinação atualizada: notas, pesos, certificados e fotos por remessa',
+          'Relatório final pronto para apresentar à prefeitura quando solicitado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros de campo que anulam qualquer plano'
+      },
+      {
+        type: 'paragraph',
+        text: 'O plano cai por terra nos detalhes operacionais. Os deslizes mais frequentes:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Caçamba mista — latinha de tinta jogada junto com alvenaria contamina o lote inteiro e inviabiliza a reciclagem',
+          'Embalagem vazia tratada como inofensiva — restos de tinta, resina e solvente são Classe D mesmo vazios, por resíduo aderido',
+          'Gesso no meio do entulho — poucos quilos bastam para comprometer uma carga inteira de reciclagem',
+          'Queimar sobra de madeira e embalagem — além da infração ambiental, gera fumaça tóxica e risco real de incêndio no canteiro',
+          'Bota-fora no lote vizinho ou na beira do canal — o crime ambiental é do dono do resíduo, mesmo que o carroça tenha feito o serviço',
+          'Caçamba esquecida na rua além do prazo permitido — infração de posturas e alvo fácil de descarte clandestino de terceiros'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Litoral Norte de SC: ajustes práticos no gerenciamento'
+      },
+      {
+        type: 'list',
+        items: [
+          'Chuva frequente — cobertura sobre perigosos e sobre baias finas não é luxo: água de chuva lavando resíduo arrasta contaminante para o solo e para o canal',
+          'Ruas estreitas de balneário — caçamba grande não cabe; o layout prevê containers menores com rotação mais frequente',
+          'Temporada de verão — janelas de coleta mais curtas e ruas movimentadas pedem horários alternativos de remoção',
+          'Solo arenoso e lençol alto — reúso de Classe A como aterro no próprio lote exige critério geotécnico, senão compromete fundação e drenagem',
+          'Fiscalização ativa de posturas — manguezal, canal e orla tornam denúncia de bota-fora rápida e autuação imediata'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre a implantação na prática'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha obra é pequena, preciso disso tudo? Da estrutura completa com plano formal, não necessariamente — a exigência documental mira grandes geradores. Mas da destinação correta, sim: toda obra responde pelo resíduo que gera. Um mini-gerenciamento — três caçambas identificadas, transportador cadastrado e pasta de notas — resolve a maior parte dos casos residenciais.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo a caçamba pode ficar na rua? Depende do código de posturas de cada município — geralmente poucos dias úteis, mediante cadastro e taxa. Prazo vencido dá multa, e caçamba abandonada vira ponto de descarte irregular de terceiros, cujo prejuízo chega a quem a contratou.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso reaproveitar a sobra de concreto e tijolo como aterro no quintal? Classe A permite reúso controlado no próprio terreno, mas em solo arenoso com lençol alto — padrão do litoral — isso mexe com drenagem e fundações. Avaliação técnica define altura, compactação e limites antes de virar aterro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O que fazer com porta, azulejo e móvel velho em bom estado? Doação e reúso são o primeiro degrau da hierarquia: cooperativas, ferramentas sociais e até vizinhos absorvem material aproveitável — reduz volume destinado e tem impacto social positivo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o motorista sumir com meu entulho, quem paga a multa? O gerador. A responsabilidade é solidária até a destinação final — por isso a verificação de cadastro, licença e destino antes de contratar, e o arquivo dos comprovantes, são a defesa real do dono da obra.'
+      },
+      {
+        type: 'heading',
+        text: 'Gerenciamento de resíduos na prática com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia coloca o gerenciamento de resíduos para funcionar no chão do canteiro em Navegantes e em todo o Litoral Norte catarinense: desenho do layout de segregação, definição de caçambas e baias por etapa, treinamento da equipe, seleção e verificação de transportadores e destinadores licenciados, rotina de comprovação documental e ART registrada no CREA-SC. Atendemos desde reformas residenciais até canteiros industriais — sempre com foco em conformidade comprovável e custo sob controle. Fale com nossa equipe e transforme o entulho da sua obra em processo organizado, barato e sem risco de fiscalização.'
+      }
+    ]
+  },
+  {
+    slug: 'diferenca-projeto-laudo-consultoria-engenharia',
+    title: 'Projeto, Laudo ou Consultoria de Engenharia? Entenda a Diferença e Quando Contratar Cada Um',
+    tag: 'ENGENHARIA',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Diferença entre projeto, laudo e consultoria de engenharia — engenheiro civil em Navegantes analisa plantas, cadernos de cálculo e documentos técnicos sobre a mesa de trabalho.',
+    excerpt: 'Projeto define como construir, laudo atesta como está e consultoria orienta o que decidir. Muita gente confunde os três serviços - e paga caro por isso. Entenda a diferença, veja exemplos práticos e saiba quando contratar cada um.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Projeto, laudo e consultoria estão entre os serviços mais procurados - e mais confundidos - da engenharia civil. Não é para menos: os nomes circulam juntos em orçamentos, anúncios e conversas com a prefeitura, mas cada um responde a uma pergunta completamente diferente. O projeto diz como construir. O laudo atesta como algo está. A consultoria orienta o que decidir. Contratar o serviço errado para o problema certo custa tempo, dinheiro e, no limite, compromete a própria segurança da edificação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica, sem juridiquês, o que é cada serviço, o que ele entrega, qual é a base técnica e legal, em que momento do ciclo da obra ele entra e como escolher o certo para o seu caso - seja construir do zero, resolver uma trinca suspeita ou tomar uma decisão de investimento em Navegantes e no Litoral Norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é projeto de engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto é o conjunto de documentos que define, antes da obra, como a edificação será concebida, calculada e executada: plantas, cortes e elevações, desenhos técnicos, memorial descritivo, especificações de materiais, cadernos de cálculo e detalhamentos. Ele antecipa a construção no papel, permitindo testar decisões, estimar custos, obter alvará da prefeitura e orientar cada equipe em canteiro. Sem projeto, a obra vira improviso: cada parede levantada é uma decisão tomada sem critério técnico.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto arquitetônico - define formas, ambientes, circulação e a relação da construção com o lote',
+          'Projeto estrutural - dimensiona fundações, pilares, vigas e lajes com base em normas como a NBR 6118',
+          'Projetos complementares - instalações elétricas, hidrossanitárias, drenagem, climatização e prevenção contra incêndio',
+          'Memorial e especificações - descrevem materiais, acabamentos e padrões executivos de cada etapa',
+          'Orçamento e cronograma - traduzem o projeto em custo, prazo e sequência de execução'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Projeto é o lugar mais barato para errar: no papel, uma parede sai com borracha; na obra, ela sai com marreta, remoção e custo dobrado.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é laudo de engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Laudo é o documento técnico em que um engenheiro habilitado examina, descreve e atesta as condições de algo que já existe: um imóvel, uma estrutura, uma instalação ou uma situação específica. Ele segue metodologia reconhecida - como a ABNT NBR 16747, que padroniza laudos de engenharia e arquitetura - e se sustenta em inspeção, medições, ensaios e análise documental. O laudo não inventa solução nem desenha nada novo: ele constata com rigor, classifica a gravidade e recomenda encaminhamentos, valendo como prova técnica para prefeituras, cartórios, seguradoras e juízos.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Laudo de vistoria - registra o estado de conservação do imóvel em compras, vendas, locações e entregas de obra',
+          'Laudo estrutural - investiga patologias como trincas, fissuras, recalques e corrosão de armadura',
+          'Laudo de conformidade - verifica adequação a normas regulamentadoras, como a NR-12 em máquinas e equipamentos',
+          'Laudo para regularização - comprova características da construção em processos junto à prefeitura',
+          'Laudo de vizinhança - documenta o estado de imóveis vizinhos antes de obras com vibração e escavação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que é consultoria de engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consultoria é a assessoria técnica que traduz conhecimento de engenharia em decisão. Em vez de entregar uma planta ou atestar uma condição, o consultor diagnostica o cenário do cliente, apresenta alternativas, aponta riscos e custos e recomenda o melhor caminho - antes que dinheiro seja gasto na direção errada. É o serviço que mais economiza porque atua na ponta da decisão: escolha do terreno, comparação de propostas, definição de escopo, encaminhamento de regularização e resolução de impasses.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Antes de comprar um terreno - avaliação de viabilidade: restrições, gabarito, recuos, solo, acesso e custos indiretos',
+          'Antes de fechar contrato - análise técnica de orçamentos e propostas de construtoras para evitar sobrepreço e escopo incompleto',
+          'Durante a obra - apoio a dúvidas executivas, compatibilização de projetos e avaliação de mudanças de escopo',
+          'Em conflitos - orientação técnica em disputas com vizinhos, fornecedores ou poder público, inclusive subsidiando eventual perícia',
+          'Na regularização - definição da rota mais curta e segura para aprovar, retificar ou regularizar um imóvel'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Projeto, laudo e consultoria: comparação direta'
+      },
+      {
+        type: 'paragraph',
+        text: 'A forma mais simples de separar os três serviços é olhar quatro dimensões: a pergunta que cada um responde, o que entrega, quando entra e em que se apoia.'
+      },
+      {
+        type: 'list',
+        items: [
+          'A pergunta central - projeto: como fazer? Laudo: como está? Consultoria: o que fazer e o que evitar?',
+          'O entregável - projeto: plantas, cálculos, memoriais e orçamento; laudo: documento técnico assinado com ART; consultoria: diagnóstico, parecer e plano de ação',
+          'O momento - projeto: antes e durante a obra; laudo: sobre o que já existe; consultoria: em qualquer etapa, de preferência antes das decisões irreversíveis',
+          'A base técnica - projeto: normas de dimensionamento e representação, como NBR 6118 e NBR 6492; laudo: normas de inspeção e de elaboração de laudos, como NBR 16747; consultoria: legislação, normas e experiência aplicadas ao caso concreto'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando contratar cada um: cenários práticos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na prática, o serviço correto depende do momento e do problema. Alguns cenários comuns no dia a dia de quem constrói, compra ou investe:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vai construir do zero - consultoria para validar viabilidade e orçamento, seguida do projeto completo para aprovação e execução',
+          'Casa apresenta trincas ou fissuras - laudo estrutural primeiro, para diagnosticar causa e gravidade; só depois, projeto da intervenção correta',
+          'Vai comprar um imóvel usado - laudo de vistoria antes da assinatura, para conhecer o real estado de conservação',
+          'Recebeu notificação da prefeitura - consultoria para definir a rota (regularizar, retificar ou demolir) e, conforme o caso, projeto ou laudo para instruir o processo',
+          'Propostas de construtoras muito divergentes - consultoria de análise de preços e escopo para revelar o que está embutido em cada número',
+          'Quer ampliar ou reformar - projeto para a nova situação e, em muitos casos, laudo do existente para confirmar que a base suporta a intervenção'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como os três serviços se complementam'
+      },
+      {
+        type: 'paragraph',
+        text: 'Mais do que serviços concorrentes, projeto, laudo e consultoria são etapas da mesma linha de raciocínio. A consultoria enquadra o problema e orienta a decisão. O projeto transforma essa decisão em instruções executáveis. A obra executa. E o laudo fecha o ciclo, atestando o resultado - seja no habite-se, na vistoria de entrega ou anos mais tarde, na avaliação patrimonial.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um exemplo típico do litoral: um terreno em Navegantes com solo arenoso e atmosfera salina. A consultoria avalia viabilidade, restrições urbanísticas e riscos regionais. O projeto define fundações compatíveis e proteção das armaduras contra corrosão. Anos mais tarde, um laudo periódico atesta que a estrutura segue íntegra - ou aponta o momento exato de agir, antes que o problema cresça. Cada serviço fez a sua parte, no seu momento.'
+      },
+      {
+        type: 'quote',
+        text: 'Decidir bem, desenhar certo e comprovar que deu certo: consultoria, projeto e laudo são a mesma conversa acontecendo em três momentos diferentes.'
+      },
+      {
+        type: 'heading',
+        text: 'Responsabilidade técnica: quem pode assinar o quê'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os três serviços têm algo em comum: só podem ser assinados por profissionais legalmente habilitados, nos termos da Lei 5.194/1966, com Registro de Responsabilidade Técnica (ART) conforme a Lei 12.378/2010. A ART é o que vincula aquele serviço específico àquele engenheiro - e é ela que garante validade jurídica, rastreabilidade e amparo em caso de falha. Desenho sem ART pode até virar imagem, mas não vira projeto; relatório sem registro não vale laudo; opinião sem habilitação não é consultoria.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Documentos sem valor legal - prefeitura, cartório, financiador e juízo exigem ART vinculada ao serviço',
+          'Sem garantia em caso de erro - sem registro, não há a quem reclamar nem cobertura profissional',
+          'Obra travada - sem ART de projeto não há aprovação, habite-se nem averbação da construção',
+          'Risco concentrado no proprietário - sem responsabilidade técnica formal, qualquer falha recai integralmente sobre quem contratou'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns ao contratar esses serviços'
+      },
+      {
+        type: 'list',
+        items: [
+          'Pedir laudo quando o problema exige projeto - diagnosticar a trinca não conserta a estrutura: laudo e projeto da intervenção são serviços distintos e complementares',
+          'Comprar projeto genérico de internet - planta sem adaptação ao terreno, ao clima e às regras do município trava na aprovação e encarece a obra',
+          'Contratar consultoria depois da decisão - quando o contrato já foi assinado, resta administrar o prejuízo em vez de evitá-lo',
+          'Escolher só pelo menor preço - honorário muito abaixo do mercado costuma significar escopo rasurado ou ausência de ART',
+          'Confundir papéis em disputas - em conflitos técnicos, laudo emitido por parte interessada no próprio objeto tem peso reduzido; independência importa'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre projeto, laudo e consultoria'
+      },
+      {
+        type: 'paragraph',
+        text: 'Laudo substitui projeto? Não. O laudo constata e recomenda; o projeto resolve. Depois de um laudo apontar, por exemplo, uma fundação insuficiente, será necessário um projeto estrutural de reforço para executar a correção com segurança.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso aprovar e construir só com o projeto arquitetônico? A aprovação costuma exigir também projetos complementares e o estrutural, conforme o município. E, para executar com segurança e orçamento confiável, o conjunto completo é indispensável.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consultoria faz sentido para obra pequena? Faz - e proporcionalmente é onde mais evita prejuízo: uma hora de análise de proposta em uma reforma pequena pode evitar um sobrepreço maior do que toda a honorária da consultoria.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa cada serviço? Depende do escopo. Projeto costuma ser precificado por metro quadrado ou percentual da obra; laudo, pela complexidade da inspeção e dos ensaios; consultoria, por hora ou pacote de acompanhamento. O denominador comum é que os três custam uma fração do prejuízo que evitam.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso sempre dos três? Não. O necessário depende da fase: para construir, projeto é obrigatório e consultoria recomendada; para comprar ou litigar, laudo; para decidir qualquer coisa antes de gastar, consultoria. Um bom escritório indica exatamente o mínimo necessário para o seu caso - nem menos, nem mais.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto, laudo e consultoria com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia oferece os três serviços sob o mesmo teto, conduzidos por engenheiros habilitados e com ART registrada no CREA-SC: projetos arquitetônicos, estruturais e complementares completos, laudos técnicos de vistoria, estrutura e conformidade, e consultoria de engenharia para viabilidade, análise de propostas, regularização e apoio à decisão em todas as fases. Atuamos em Navegantes e em todo o Litoral Norte de Santa Catarina, conhecendo de perto as regras municipais e as particularidades do solo e do clima da região. Fale com nossa equipe e descubra qual serviço - ou qual combinação - resolve o seu caso com menor custo e maior segurança.'
+      }
+    ]
+  },
+  {
+    slug: 'como-saber-se-uma-rachadura-compromete-a-estrutura',
+    title: 'Como Saber se uma Rachadura Compromete a Estrutura: 7 Sinais de Alerta',
+    tag: 'PATOLOGIA',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Como saber se uma rachadura compromete a estrutura - engenheiro civil mede abertura de rachadura em parede com fissurômetro durante avaliação técnica de patologia em imóvel no litoral de Santa Catarina.',
+    excerpt: 'Rachadura na parede: tapar e pintar ou chamar engenheiro? Descubra os 7 sinais de que a rachadura pode comprometer a estrutura, o que cada padrão indica, como fazer o teste do gesso e quando a avaliação técnica é urgente.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Pouca coisa assusta tanto um proprietário quanto descobrir uma rachadura na parede. Do outro lado, muita gente tapeia o problema com massa corrida e tinta — e descobre anos depois que o custo da correção multiplicou. Entre os dois extremos existe uma pergunta técnica que precisa ser respondida com critério: como saber se uma rachadura compromete a estrutura ou se é apenas um defeito estético? A resposta está em quatro fatores que qualquer pessoa consegue observar: largura da abertura, padrão da trinca, localização e comportamento ao longo do tempo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Neste guia, a Regê Engenharia explica os 7 sinais de que a rachadura pode ser estrutural, o que cada padrão de abertura indica sobre a causa, como monitorar a evolução com o teste do gesso, quando a rachadura é inofensiva e por que no litoral catarinense a avaliação profissional deve vir antes de qualquer reparo.'
+      },
+      {
+        type: 'heading',
+        text: 'Rachadura na parede é sempre problema estrutural?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. A primeira distinção que o engenheiro faz é entre a pele e o esqueleto da edificação. Revestimentos (reboco, massa, pintura) e até a própria alvenaria podem apresentar aberturas sem que os elementos portantes — fundação, pilares, vigas e lajes — estejam comprometidos. Por outro lado, a rachadura quase nunca surge sozinha: ela é o sintoma visível de algum movimento, esforço ou deterioração. Por isso, a pergunta correta não é "a rachadura é feia?", mas sim "onde ela está, como ela se apresenta e o que ela está tentando avisar".'
+      },
+      {
+        type: 'heading',
+        text: 'Os 7 sinais de que a rachadura pode comprometer a estrutura'
+      },
+      {
+        type: 'list',
+        items: [
+          'Abertura acima de 1,5 mm — se a abertura é visível de longe ou passa uma folha de papel dobrada, saiu da faixa das fissuras superficiais e entrou no território das rachaduras, que exigem investigação',
+          'Padrão diagonal a 45° partindo dos cantos de portas e janelas — é a assinatura clássica do recalque diferencial de fundação: um ponto da casa afundou mais que o outro e a alvenaria está sendo cisalhada',
+          'Atravessa a parede — quando a mesma abertura aparece dos dois lados, no mesmo ponto, o elemento construtivo se separou por inteiro; não é mais questão de revestimento',
+          'Está em elemento de concreto armado — qualquer abertura em pilar, viga ou laje merece avaliação imediata, mesmo que fina: no concreto armado, trinca é caminho livre para umidade e corrosão da armadura',
+          'Continua crescendo — rachadura "viva", que alonga ou alarga semana após semana, indica movimento em andamento; a causa ainda está ativa',
+          'Vem acompanhada de outros sintomas — portas e janelas que passam a emperrar, piso desnivelado, rodapé descolando, vergas trincadas e telhado com ondulação apontam movimentação global, não defeito localizado',
+          'Perda de contato entre alvenaria e estrutura — quando a rachadura corre no encontro entre parede e pilar com desplacamento de revestimento, ou há deformação visível no prumo do pilar, o grau de alerta sobe para urgente'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A rachadura não é o problema — é o recado. O trabalho do engenheiro é decodificar esse recado e tratar a causa, não apenas esconder o sintoma.'
+      },
+      {
+        type: 'heading',
+        text: 'O que cada padrão de rachadura indica'
+      },
+      {
+        type: 'paragraph',
+        text: 'A geometria da abertura conta a história da causa. Estes são os padrões mais frequentes nas vistorias técnicas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagonal a 45° nos cantos de portas e janelas — recalque ou movimentação da fundação, o caso mais crítico',
+          'Horizontal na base ou no topo da parede — flexão por empuxo, sobrecarga no pavimento superior ou falha de amarração',
+          'Vertical no encontro entre pilar e alvenaria — geralmente junta de trabalho mal executada; benigna quando superficial e estabilizada',
+          'Em degrau, seguindo as fiadas de bloco ou tijolo — movimentação da base de apoio da alvenaria, típica de recalque incipiente',
+          'Longitudinal acompanhando a linha da armadura em pilar ou viga — corrosão de ferragem que expande e estoura o cobrimento de concreto; padrão clássico da maresia no litoral',
+          'Rendilhado em teia de aranha — retração do reboco ou da pintura; caráter estético na grande maioria dos casos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como monitorar: o teste do gesso e o registro fotográfico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para saber se a rachadura está ativa, o método caseiro mais conhecido é o teste do gesso: aplica-se uma pequena ponte de gesso ou argamassa sobre a abertura, perpendicular a ela, e observa-se por 30 dias. Se o marcador trincar ou partir, a movimentação continua — sinal claro de causa ativa. Complemente com medição simples: registre a largura usando uma moeda ou régua como referência de escala, fotografe sempre do mesmo ângulo e anote a data. Em nível profissional, o engenheiro utiliza fissurômetro, relógio comparador e marcos de monitoramento para quantificar milímetros e velocidade de abertura. Importante: o teste do gesso confirma movimento, mas não dispensa a análise técnica — até uma rachadura estável pode exigir reforço, dependendo de onde está.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a rachadura NÃO compromete a estrutura'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem toda abertura pede obra estrutural. Os casos tipicamente benignos compartilham características:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Fissuras finas, abaixo de 0,5 mm, rasas e restritas ao reboco',
+          'Rendilhado superficial causado por retração de argamassa ou massa corrida',
+          'Microaberturas em juntas de pintura e no encontro entre materiais diferentes',
+          'Trincas antigas e estabilizadas, sem mudança de tamanho há anos',
+          'Aberturas que não atravessam a parede e estão longe de pilares, vigas e lajes'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Mesmo nesses casos, a recomendação é registrar e acompanhar: uma fissura estética hoje pode evoluir se a causa que a originou continuar atuando — e só a avaliação técnica elimina a dúvida.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que no litoral a avaliação é ainda mais urgente'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e em todo o Litoral Norte catarinense, três fatores aceleram a evolução de qualquer patologia. Primeiro, o solo arenoso com lençol freático elevado: fundações subdimensionadas recalcam com facilidade e as rachaduras diagonais aparecem já nos primeiros anos da casa. Segundo, a maresia: os cloretos corroem a armadura dentro do concreto, que ao enferrujar expande de volume e abre rachaduras longitudinais nos pilares — muitas vezes escondidas sob pintura aparentemente nova. Terceiro, os ciclos de umidade e secagem, que fadigam revestimentos e transformam microfissuras em aberturas visíveis. No litoral, o intervalo entre "sinal estético" e "problema estrutural" é menor que no interior — e o reparo adiado custa múltiplos do valor da intervenção feita no momento certo.'
+      },
+      {
+        type: 'heading',
+        text: 'O que fazer ao encontrar uma rachadura suspeita'
+      },
+      {
+        type: 'list',
+        items: [
+          'Não tape nem pinte por cima — o reparo cosmético esconde o termômetro que mediria a gravidade e permite que o problema evolua escondido',
+          'Documente — fotografias com régua e data, além da anotação da largura, criam a linha do tempo que o engenheiro precisará analisar',
+          'Monitore — instale o marcador de gesso e verifique após 30 dias; qualquer rompimento antecipa a visita técnica',
+          'Chame um engenheiro civil — a vistoria identifica o padrão, a causa provável e o nível de risco da manifestação',
+          'Exija laudo com ART — o documento técnico formaliza o diagnóstico, define a solução e protege juridicamente o proprietário',
+          'Corrija a causa, não só a aparência — reforço de fundação, tratamento de armadura ou recomposição projetada; depois disso, sim, o acabamento final'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre rachaduras e estrutura'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual o tamanho de rachadura que é perigoso? Como referência, aberturas acima de 1,5 mm já são classificadas como rachaduras e merecem avaliação profissional. Mas a largura sozinha não decide: uma trinca fina e crescente em um pilar é mais preocupante que uma rachadura antiga e estável em reboco.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda rachadura em pilar é grave? Qualquer abertura em concreto armado pede investigação, porque expõe a armadura à corrosão. Nem todas indicam falha estrutural — algumas decorrem da própria retração do concreto — mas a classificação segura só vem da inspeção técnica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso simplesmente rejuntar e pintar? Somente depois que um engenheiro confirmar que a causa foi eliminada e a abertura está estável. Pintar sobre rachadura ativa é cronometrar o retorno do defeito — agora mais caro de resolver.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Casa recém-construída pode rachar sem ser problema? Sim, nos primeiros meses é comum surgirem fissuras de retração dos materiais e acomodação da obra. O que não é normal: aberturas largas, diagonais partindo dos vãos ou que crescem continuamente — esses padrões pedem vistoria imediata, ainda que a obra esteja na garantia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa um laudo de rachadura? Depende do tamanho do imóvel, da quantidade de manifestações e dos ensaios necessários. O valor do laudo costuma ser pequeno diante do custo de reformar por conta própria com a solução errada — ou de perder valor de revenda por falta de documentação técnica.'
+      },
+      {
+        type: 'heading',
+        text: 'Sua rachadura compromete a estrutura? Conte com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você identificou rachaduras diagonais, aberturas que atravessam a parede ou trincas em pilares e vigas — ou simplesmente não sabe classificar aquele sinal que apareceu na sua parede —, a Regê Engenharia realiza vistoria técnica, monitoramento e laudo de patologias em Navegantes e em todo o litoral de Santa Catarina, com diagnóstico da causa, definição do nível de risco e projeto de recuperação executado pela nossa equipe, sempre com ART registrada no CREA-SC. Quanto antes a rachadura for avaliada, menor o custo da solução — e maior a tranquilidade sobre a segurança do seu patrimônio.'
+      }
+    ]
+  },
+  {
+    slug: 'servicos-engenharia-condominio',
+    title: 'Serviços de Engenharia para Condomínios: O que o Síndico Precisa Contratar',
+    tag: 'GESTÃO',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Serviços de engenharia para condomínios em Navegantes e Litoral Norte de SC — vistoria predial, laudos técnicos, manutenção preventiva e projetos conduzidos pela Regê Engenharia.',
+    excerpt: 'O síndico responde civil e criminalmente pela segurança do edifício - e boa parte das obrigações exige profissional de engenharia. Veja quais serviços um condomínio precisa contratar, com que frequência e como escolher o fornecedor certo.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Um edifício é um conjunto de sistemas operando 24 horas por dia: estrutura, impermeabilização, hidráulica, elétrica, incêndio, climatização, elevadores e áreas de lazer. Quando qualquer um deles falha, quem responde primeiro é o síndico - civilmente pelo Código Civil e, em caso de acidente com vítima, até criminalmente. E aqui está o ponto que muitos conselhos descobrem tarde demais: quase nenhuma dessas responsabilidades se cumpre sem serviço de engenharia documentado, com ART e responsável técnico.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia organiza, na prática, quais serviços de engenharia um condomínio precisa contratar, o que cada um entrega, com que frequência devem ser feitos, os erros mais comuns das administrações e como escolher fornecedores confiáveis - com foco nas particularidades dos edifícios do Litoral Norte de Santa Catarina, onde maresia e umidade aceleram a degradação das construções.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a contratação de engenharia não é opcional'
+      },
+      {
+        type: 'list',
+        items: [
+          'Dever legal do síndico - o Código Civil obriga o síndico a zelar pela conservação e guarda das partes comuns, e a jurisprudência cobra prova de manutenção regular',
+          'Seguro facultativo x realidade - apólices negam cobertura quando não há comprovação de manutenção preventiva',
+          'Normas técnicas vigentes - NBRs de vistoria, manutenção predial, SPDA e instalações definem periodicidades que viram argumento em processo judicial',
+          'Valorização do imóvel - edifício com pasta técnica organizada vende e aluga mais rápido, e facilita financiamento dos compradores',
+          'Custo da emergência - manutenção corretiva custa múltiplos do preventivo, além do transtorno de obra emergencial em condomínio ocupado'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Em condomínio, o barato sai caro duas vezes: na obra mal executada e no processo que ela origina.'
+      },
+      {
+        type: 'heading',
+        text: 'Os principais serviços de engenharia para condomínios'
+      },
+      {
+        type: 'heading',
+        text: '1. Vistoria predial e plano de manutenção'
+      },
+      {
+        type: 'paragraph',
+        text: 'A vistoria predial (NBR 16747) é o raio-x completo do edifício: estrutura, fachadas, coberturas, instalações, áreas comuns e sistemas de segurança. Ela classifica o estado de cada item, aponta patologias em evolução e prioriza intervenções. A partir dela nasce o plano de manutenção predial (NBR 5674), documento que define o que manter, quando e como - a base jurídica da gestão do síndico.'
+      },
+      {
+        type: 'heading',
+        text: '2. Laudo estrutural e recuperação de concreto'
+      },
+      {
+        type: 'paragraph',
+        text: 'Trincas, fissuras, armadura exposta e manchas de umidade em pilares e vigas são sinais de patologia estrutural que precisam de avaliação profissional. No litoral, cloretos da maresia corroem armaduras silenciosamente - em edifícios próximos ao mar, manifestações visíveis costumam indicar dano interno já avançado. O laudo estrutural diagnostica, dimensiona a intervenção e dá lastro técnico para rateio em assembleia ou acionamento de seguro.'
+      },
+      {
+        type: 'heading',
+        text: '3. Impermeabilização e fachadas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Infiltrações são a reclamação número um dos moradores e a maior fonte de conflito entre unidades. O serviço correto começa com diagnóstico da origem (cobertura, fachada, juntas, tubulação embutida), segue com projeto de impermeabilização conforme NBR 9575 e termina com execução qualificada e garantia formal. Fachadas exigem ainda anuência e controle - qualquer intervenção externa passa por critérios de segurança de trabalho em altura.'
+      },
+      {
+        type: 'heading',
+        text: '4. Instalações hidráulicas: reservatórios, bombas e redes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Limpeza e desinfecção de reservatórios com laudo laboratorial da água, manutenção de conjuntos pressurizadores e recalque, verificação de vazamentos e avaliação da rede de esgoto completam o ciclo. Quando o condomínio enfrenta pressão irregular ou entupimentos recorrentes, entra o projeto hidráulico de readequação - remendo sem projeto só adia o problema e multiplica custo.'
+      },
+      {
+        type: 'heading',
+        text: '5. Laudo elétrico e SPDA'
+      },
+      {
+        type: 'paragraph',
+        text: 'A inspeção elétrica avalia quadros, aterramento, proteções e sobrecarga - crítico em edifícios antigos projetados para bem menos cargas do que suportam hoje. Em paralelo, o sistema de para-raios (SPDA, NBR 5419) precisa de inspeção periódica documentada: além de proteger vidas, é requisito de seguradoras e de renovação do AVCB em muitos casos.'
+      },
+      {
+        type: 'heading',
+        text: '6. Segurança contra incêndio'
+      },
+      {
+        type: 'paragraph',
+        text: 'O condomínio precisa manter extintores, mangueiras, iluminação de emergência, sinalização, alarme e centrais em manutenção periódica com empresas habilitadas, além de renovar o AVCB junto ao Corpo de Bombeiros Militar de SC dentro da validade. Um projeto de adequação resolve pendências acumuladas de forma planejada - muito mais barato que regularizar sob notificação.'
+      },
+      {
+        type: 'heading',
+        text: '7. Climatização (PMOC)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Edifícios com sistema central de ar-condicionado são obrigados por lei federal (Lei 13.589/2018) a manter o Plano de Manutenção, Operação e Controle atualizado, com limpeza, tratamento antimicrobiano e registro assinado por responsável técnico - exigência sanitária que evita proliferação de Legionella e multas da vigilância.'
+      },
+      {
+        type: 'heading',
+        text: '8. Elevadores, gás central e áreas de lazer'
+      },
+      {
+        type: 'paragraph',
+        text: 'Elevadores exigem manutenção por empresa habilitada com responsável técnico registrado - cabe à administração auditar o contrato e cobrar registros. Redes de gás central (NBR 13523) pedem inspeção periódica e adequação quando há reformas. Playground (conforme norma ABNT específica), piscina e churrasqueiras coletivas entram no ciclo de inspeções do plano de manutenção - são as áreas onde acontecem os acidentes mais sensíveis.'
+      },
+      {
+        type: 'heading',
+        text: 'Com que frequência cada serviço deve ocorrer'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vistoria predial completa - idealmente anual; no mínimo bienal em edifícios novos e anuais em edificações com mais de 15 anos',
+          'Limpeza de reservatórios - semestral, com laudo bacteriológico da água',
+          'Manutenção de incêndio - mensal/trimestral conforme item, com testes registrados e AVCB renovado antes do vencimento',
+          'Inspeção de SPDA - anual para edifícios comuns, semestral em locais de grande circulação',
+          'Laudo elétrico completo - a cada 3 a 5 anos, ou após reforma relevante e eventos como raios e incêndios',
+          'Elevadores - manutenção mensal pela empresa contratada, com auditoria técnica do condomínio periódica',
+          'PMOC - visitas conforme plano, no mínimo trimestrais na maioria dos sistemas, com relatório assinado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como contratar: critérios que evitam dor de cabeça'
+      },
+      {
+        type: 'list',
+        items: [
+          'Responsável técnico identificado - todo serviço deve ter engenheiro com registro no CREA e ART emitida; sem ART, o laudo não vale nada juridicamente',
+          'Escopo escrito antes do preço - comparar propostas sem escopo igual é comparar coisas diferentes; peça descrição do que será inspecionado e entregue',
+          'Experiência comprovada em condomínios e na região - edifício litorâneo tem patologias próprias; fornecedor de outra realidade erra o diagnóstico',
+          'Relatório com evidências - fotos, medições e classificação de criticidade, não apenas texto genérico',
+          'Garantias formais - execução de serviços com termo de garantia e prazo definido por contrato',
+          'Pasta técnica contínua - exija que cada entrega se junte ao histórico do prédio; essa pasta é a defesa do síndico'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros mais comuns dos condomínios'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contratar apenas quando algo quebra - a manutenção corretiva sempre chega acompanhada de urgência, custo alto e obra em cima do morador',
+          'Aceitar laudo sem ART ou copiado de outro prédio - documento sem responsável técnico não protege ninguém em juízo',
+          'Escolher por menor preço isoladamente - proposta baixa geralmente esconde escopo reduzido, sem itens que serão cobrados depois',
+          'Deixar o AVCB vencer - a renovação sob pressão de notificação custa mais e pode interditar áreas',
+          'Não registrar nada - manutenção feita e não documentada equivale, perante terceiros, a manutenção não feita',
+          'Misturar reforma de unidade privada com área comum sem avaliação - intervenções que mexem em paredes e pisos podem comprometer estrutura e impermeabilização do bloco'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades dos condomínios do Litoral Norte de SC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Maresia e corrosão - edifícios de Navegantes, Balneário Camboriú e Itajaí exigem ciclos de inspeção mais curtos e especificação de materiais resistentes à salinidade',
+          'Umidade constante - impermeabilização e ventilação de áreas técnicas merecem atenção redobrada; mofo em shafts e box de elevador é sintoma frequente',
+          'Ocupação sazonal - prédios de veraneio passam meses subutilizados e depois recebem pico de uso; sistemas hidráulicos e de gás precisam de checklist de reativação',
+          'Parque construído antigo - boa parte dos edifícios foi erguida entre 1980 e 2000, antes de exigências atuais; laudos estrutural e elétrico são prioritários',
+          'Fiscalização municipal e do CBMSC - prefeituras litorâneas intensificaram vistorias de alvarás e bombeiros endureceram renovações; condomínio organizado navega esse cenário sem sustos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre serviços de engenharia em condomínios'
+      },
+      {
+        type: 'paragraph',
+        text: 'Condomínio pequeno precisa de tudo isso? Sim, em escala proporcional. A responsabilidade do síndico não diminui com o tamanho do prédio - o que muda é o porte dos serviços. Um plano de manutenção enxuto, com vistoria anual e rotinas básicas documentadas, resolve a maior parte do risco.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre vistoria predial e laudo estrutural? A vistoria predial é ampla e abrange todos os sistemas do edifício. O laudo estrutural é profundo e focado na parte de concreto armado, solicitado quando há indícios de patologia ou necessidade de avaliação de capacidade. Em prédios litorâneos antigos, os dois acabam se complementando.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem deve contratar: síndico, conselho ou administradora? Formalmente, quem representa o condomínio - normalmente o síndico, mediante autorização da convenção ou assembleia para valores acima dos limites previstos. Administradoras organizam o processo, mas a escolha técnica e a cobrança de qualidade continuam sendo dever de quem administra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Obra emergencial pode ser aprovada sem assembleia? Sim - medidas de urgência para preservar segurança podem ser executadas pelo síndico e ratificadas depois. Mas urgência não dispensa ART, escopo mínimo e registro fotográfico: é justamente nesse tipo de obra que a documentação salva a gestão de questionamentos futuros.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem paga: taxa ordinária ou fundo de reserva? Manutenções programadas entram na taxa ordinária; reparos estruturais relevantes costumam usar fundo de reserva ou rateio extraordinário aprovado em assembleia. O laudo técnico é o documento que fundamenta a decisão e convence os condôminos resistentes.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudo de insalubridade com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com laudos de insalubridade, LTCAT, PGR e consultoria de segurança do trabalho — medições instrumentadas calibradas, enquadramento técnico pela NR-15, plano de controle priorizado e ART registrada no CREA-SC. Medimos, enquadramos, projetamos a correção e acompanhamos auditoria, sindicato e perícia judicial. Fale com nossa equipe e transforme risco trabalhista aberto em decisão técnica documentada.'
+      }
+    ]
+  },
+  {
+    slug: 'preparar-industria-inspecao-navegantes',
+    title: 'Como Preparar sua Indústria para uma Inspeção do Trabalho: Checklist Prático para Passar sem Multa nem Interdição',
+    tag: 'SEGURANÇA',
+    image: '/images/construtora.png',
+    imageAlt: 'Preparação de indústria para inspeção do trabalho em Navegantes SC — engenheiro de segurança revisando documentos de SST, laudos e checklist antes da fiscalização do MTE.',
+    excerpt: 'A fiscalização do MTE chega sem avisar e pode lacrar máquinas na hora. Veja por que ela chega, o que o auditor pede, as não conformidades mais autuadas, um plano de preparação em 30 dias, como se portar no dia da visita e quanto custa preparar versus ser autuado.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A fiscalização do Ministério do Trabalho e Emprego (MTE) chega sem avisar — e, quando chega, audita documentos, vistoria máquinas, entrevista trabalhadores e pode interditar equipamento ou embargar o setor na hora. Com a Portaria MTE nº 104/2026, que atualizou a NR-28, os códigos de infração ficaram mais cirúrgicos e os valores de multa passaram a ser reajustados anualmente. A boa notícia: quase toda autuação é previsível — as mesmas falhas aparecem em praticamente todas as indústrias fiscalizadas, e todas podem ser corrigidas antes da visita.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e no Litoral Norte de Santa Catarina — onde o polo industrial de Machados, as operações do Porto e centenas de marcenarias, serralherias e frigoríficos entre Itajaí e Penha concentram mão de obra exposta — a presença dos auditores fiscais do trabalho é rotina ativa.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a fiscalização chega'
+      },
+      {
+        type: 'list',
+        items: [
+          'Denúncia — ex-empregado, sindicato ou funcionário acionou o canal do MTE; o auditor vem verificar exatamente aquela denúncia',
+          'Cronograma nacional/estadual (CFIT) — operações planejadas por setor atingem indústrias sorteadas',
+          'Acidente grave ou fatalidade — após CAT ou notificação de hospital, a revisita é quase certa',
+          'Operação regional integrada — regiões portuárias recebem mutirões coordenados com MPT',
+          'Reincidência — empresa já autuada entra no radar de revisitas'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Mito perigoso: empresa pequena ninguém olha. O porte não protege — denúncia contra empresa de 8 funcionários gera visita igualmente.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o auditor pode fazer'
+      },
+      {
+        type: 'paragraph',
+        text: 'Conforme o Decreto nº 4.552/2002 e o Título VII da CLT, o Auditor-Fiscal do Trabalho tem acesso irrestrito aos estabelecimentos, pode exigir documentos na hora, ouvir trabalhadores individualmente, notificar com prazo, autuar por item descumprido — cada item gera auto próprio — e interditar máquina ou embargar setor diante de risco grave e iminente (arts. 157 a 159 da CLT).'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para infrações menos graves vale a dupla visita (orientação e prazo primeiro), mas ela não se aplica quando há grave e iminente risco, reincidência ou obstrução à fiscalização. Com a Portaria 104/2026, o MTE reforçou ainda que empresas devem comprovar trilha documentada de correção: evidências rastreáveis de execução do plano de ação do PGR. Documento parado na pasta não vale mais; execução registrada vale.'
+      },
+      {
+        type: 'heading',
+        text: 'Os documentos que serão pedidos'
+      },
+      {
+        type: 'list',
+        items: [
+          'PGR com inventário de riscos e plano de ação executado e evidenciado (NR-01)',
+          'PCMSO vigente e ASOs de 100% do quadro dentro da validade (NR-07)',
+          'LTCAT, PPP e eventos S-2240 coerentes entre si e com a realidade da fábrica',
+          'Inventário de máquinas, ARR e laudo NR-12 por equipamento, com proteções e emergências testadas',
+          'Laudo NR-13 vigente para vasos e caldeiras; laudo NR-10 para instalações elétricas',
+          'Medições ambientais de ruído, calor e agentes químicos com calibrações e ART (NR-09/NR-15)',
+          'Treinamentos válidos de todos os funcionários presentes: listas, conteúdo programático e carga horária',
+          'Ordem de Serviço de SST entregue e assinada por cada empregado (NR-01, item 1.5.3)',
+          'Fichas de EPI completas, com CAs válidos e EPI compatível com a função (NR-06)',
+          'Dimensionamento SESMT (NR-04) e CIPA (NR-05) conforme grau de risco e efetivo',
+          'CATs corretamente emitidas e AVCB/CLCB dentro da vigência'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Teste rápido: peça hoje para alguém pegar qualquer desses documentos em menos de 5 minutos. Se demorar ou não existir, é exatamente ali que a fiscalização vai acertar.'
+      },
+      {
+        type: 'heading',
+        text: 'As não conformidades mais autuadas'
+      },
+      {
+        type: 'list',
+        items: [
+          'NR-12 incompleta — proteções improvisadas com fita e arame, botão de emergência inexistente, sem ARR nem manual em português',
+          'PGR desatualizado ou de gaveta — plano de ação sem evidência de execução, agora alvo direto da Portaria 104/2026',
+          'Treinamentos vencidos ou sem registro válido (NR-12, NR-35, NR-10, NR-33)',
+          'Ficha de EPI genérica — mesmo EPI para funções diferentes, CA vencido, sem entrega assinada',
+          'Ordem de Serviço ausente ou sem assinatura individual',
+          'Medições ambientais inexistentes — exposição presumida vira passivo de adicional de insalubridade',
+          'SESMT/CIPA fora do dimensionamento obrigatório',
+          'Instalações elétricas improvisadas — quadros abertos, fiação emendada, falta de aterramento',
+          'Sinalização de segurança inexistente (NR-26) e registros de jornada inconsistentes'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Plano de preparação em 30 dias'
+      },
+      {
+        type: 'list',
+        items: [
+          'Semana 1 — gap analysis completa: checklist documento a documento e vistoria física de máquinas e instalações, com lista priorizada por risco',
+          'Semana 2 — correções físicas críticas: proteções NR-12, intertravamentos, emergências, quadros elétricos e sinalização',
+          'Semana 3 — documentos e treinamentos: PGR/PCMSO/LTCAT atualizados, laudos pendentes, treinamentos refeitos com registro correto',
+          'Semana 4 — simulação (mock inspection) com checklist de auditor, organização da pasta digital e treinamento da equipe sobre conduta'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Priorize pelo que interdita: primeiro elimine o risco grave e iminente — proteção de prensa, energia elétrica, trabalho em altura sem ancoragem. Multa se paga; interdição para a produção.'
+      },
+      {
+        type: 'heading',
+        text: 'No dia da visita: conduta certa'
+      },
+      {
+        type: 'list',
+        items: [
+          'Peça a identificação funcional do auditor e registre nome e matrícula',
+          'Designie um único porta-voz, acompanhado do responsável técnico de segurança',
+          'Entregue o que for pedido de forma organizada — postura cooperativa influencia orientação versus autuação',
+          'Corrija na hora o que for possível: risco corrigido durante a visita raramente vira auto',
+          'Anote tudo: horários, itens apontados, máquinas visitadas e falas do auditor',
+          'Assine ciência de autos e notificações — assinar é receber formalmente, não concordar; a defesa existe'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Nunca obstrua a fiscalização, esconda máquinas ou apresente documento falso: além de autuação imediata por resistência, perde-se a dupla visita e configura-se ilícito próprio. A discussão de multa não se faz na porta — se faz na defesa administrativa, dentro do prazo, item por item, com prova técnica.'
+      },
+      {
+        type: 'heading',
+        text: 'Depois da visita: defesa e trilha de correção'
+      },
+      {
+        type: 'list',
+        items: [
+          'Analise o auto com apoio técnico — cada item tem código NR-28, gradação e valor próprios',
+          'Protocole a defesa administrativa dentro do prazo, impugnando item por item com fotos, laudos e ARTs',
+          'Cumpra notificações com evidência: foto antes/depois, nota fiscal da proteção instalada, ART do serviço, novo laudo',
+          'Guarde tudo no mesmo dossiê — na revisita, histórico estruturado transforma multa potencial em orientação'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa preparar versus ser autuado (2025/2026)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Gap analysis completa de indústria média — R$ 1.500 a R$ 3.500',
+          'Laudos pendentes típicos (parque NR-12 pequeno, NR-10, insalubridade) — R$ 4.000 a R$ 9.000',
+          'Treinamentos em atraso — R$ 600 a R$ 2.500 por turma de até 20 pessoas',
+          'Auto de infração gravíssimo — R$ 670 a R$ 6.708 por item, multiplicado pelo número de expostos',
+          'Teto por infração em casos extremos (LTCAT/PPP/eSocial) — acima de R$ 300 mil',
+          'Interdição ou embargo — produção parada por dias a semanas, além das demais consequências'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Uma única fiscalização pode gerar múltiplos autos — um por item não conforme. Preparar em 30 dias custa uma fração do primeiro auto evitado.'
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades do Litoral Norte de SC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Polos Machados e entorno do Porto — alta densidade industrial atrai operações setoriais frequentes do MTE',
+          'Terceirizadas portuárias — auditorias de contratantes somam-se às fiscais oficiais; a mesma pasta serve para ambas',
+          'Marcenarias e serralherias de bairro — perfil de maior risco: máquinas antigas sem proteção, manual e treinamento',
+          'Frigoríficos de pescado — frio e agentes biológicos exigem atenção redobrada à NR-36 e aos exames periódicos',
+          'Maresia — corrosão degrada proteções, guarda-corpos e aterramentos mais rápido que no interior; ciclos curtos de verificação',
+          'Mercado aquecido — admissões rápidas sem exame admissional e OS são falha clássica encontrada em fiscalização'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre preparação para inspeção'
+      },
+      {
+        type: 'paragraph',
+        text: 'A fiscalização avisa antes? Não. A visita é surpresa por regra. Prepare-se como se ela fosse amanhã.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sou obrigado a deixar o auditor entrar? Sim. Acesso irrestrito é garantido por lei; recusar entrada configura obstrução e mata a chance da dupla visita.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Assinar o auto significa concordar com a multa? Não. Assinar é tomar ciência formal. A discordância se manifesta na defesa administrativa, dentro do prazo, com provas técnicas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso corrigir depois que chegarem? Pode, mas sai muito mais caro: o item constatado vira auto mesmo corrigido na hora. Correção prévia custa o serviço; posterior custa o serviço mais a multa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vale contratar consultoria externa para o preparativo? Vale — olho interno se acostuma com a própria não conformidade. Diagnóstico independente, com ART e metodologia de auditoria, encontra em uma semana o que anos de rotina normalizaram.'
+      },
+      {
+        type: 'heading',
+        text: 'Preparação para inspeção com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com gap analysis documental e física, adequações NR-12 e NR-10, emissão de laudos, treinamentos, pasta digital de SST e acompanhamento junto à fiscalização — sempre com ART registrada no CREA-SC. Auditamos, corrigimos, documentamos e acompanhamos sua empresa antes, durante e depois da inspeção. Fale com nossa equipe e deixe sua indústria pronta para quando vierem.'
+      }
+    ]
+  },
+  {
+    slug: 'consultoria-de-engenharia-navegantes-rege-solucao',
+    title: 'Consultoria de Engenharia em Navegantes: Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/rege-engenharia.png',
+    imageAlt: 'Consultoria de engenharia em Navegantes — equipe da Regê Engenharia analisa plantas, documentos técnicos e viabilidade de obra com cliente na região do Litoral Norte de Santa Catarina.',
+    excerpt: 'Navegantes cresce rápido - e as decisões técnicas ficaram mais complexas. Descubra quando a consultoria de engenharia é a resposta certa e como a Regê Engenharia transforma diagnóstico técnico em solução completa para seu imóvel, obra ou indústria.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Navegantes vive um ciclo raro de transformação: o porto expande, a orla valoriza, bairros como Meia Praia, Gravatá e São Domingos ganham obras todos os meses e o parque industrial do Machados atrai empresas. Junto com esse crescimento vem uma sequência de decisões técnicas com consequências financeiras grandes - comprar o terreno certo, construir dentro das regras, reformar com segurança, regularizar o imóvel, manter a indústria conforme. Nesse cenário, a consultoria de engenharia deixou de ser um luxo de grandes empresas: virou ferramenta de proteção patrimonial para qualquer proprietário, investidor ou negócio da região.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo mostra por que o contexto de Navegantes exige suporte técnico especializado, quais problemas a consultoria resolve na prática, como funciona o método de trabalho da Regê Engenharia e por que ela se consolidou como solução completa de engenharia no Litoral Norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que Navegantes é um caso à parte'
+      },
+      {
+        type: 'paragraph',
+        text: 'Construir ou investir em Navegantes não é igual a construir em qualquer cidade do interior. A combinação de cidade costeira, portuária e turística cria condições técnicas e burocráticas específicas - e é exatamente onde moram os erros mais caros:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Solo arenoso e lençol freático alto - fundações pedem dimensionamento específico; decisão errada aparece depois como recalque, trinca e porta que não fecha',
+          'Maresia - a atmosfera salina acelera a corrosão de armaduras e envelhece estruturas antes do previsto, exigindo detalhamento de proteção desde o projeto',
+          'Ventos fortes - coberturas, esquadrias e estruturas leves sofrem esforços que projetos genéricos simplesmente ignoram',
+          'Regras municipais dinâmicas - gabarito, recuos e zoneamento variam por bairro e mudam com o tempo; planta copiada de outra cidade trava na aprovação',
+          'Crescimento acelerado - a pressa para comprar e construir multiplica decisões tomadas sem critério técnico, de escolha de terreno a assinatura de contrato',
+          'Parque industrial do Machados - empresas convivem com exigências de normas regulamentadoras, laudos e licenças que precisam estar sempre atualizados'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'No litoral, quase todo prejuízo grande de obra nasce de uma decisão pequena tomada sem informação técnica.'
+      },
+      {
+        type: 'heading',
+        text: 'Sinais de que chegou a hora de contratar uma consultoria'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem toda situação exige a mesma solução, mas todas têm algo em comum: quanto antes o engenheiro entra, menor o custo da correção. Alguns sinais claros de que a consultoria é o próximo passo:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vai comprar terreno ou imóvel e teme surpresas estruturais, fundiárias ou legais descobertas depois da assinatura',
+          'Recebeu orçamentos de construtoras com valores muito divergentes e não sabe qual proposta confiar',
+          'A casa ou o prédio apresenta trincas, fissuras, infiltrações ou desníveis que ninguém soube explicar',
+          'Chegou notificação da prefeitura, do vizinho ou de órgão ambiental e você não sabe qual rota seguir',
+          'O imóvel não tem documentos, foi comprado por escritura antiga ou construído sem aprovação e precisa ser regularizado',
+          'A empresa precisa atender normas regulamentadoras, emitir laudos ou passar por fiscalização nos próximos meses',
+          'A obra do vizinho começou a escavar e há receio de danos à sua propriedade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que uma consultoria séria entrega (além de opinião)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consultoria de engenharia não é dar palpite: é aplicar método técnico sobre o seu problema até ele virar uma decisão segura. Uma consultoria bem conduzida entrega cinco coisas concretas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico real - análise documental completa somada a vistoria técnica, revelando a situação verdadeira e não a presumida',
+          'Viabilidade técnica e legal - o que pode ser feito, o que não pode e sob quais condições e obrigações',
+          'Comparativo de alternativas - cada caminho com custo estimado, prazo e riscos associados, para decidir com números na mesa',
+          'Plano de ação priorizado - o que fazer primeiro, o que pode esperar e o que jamais deve ser feito',
+          'Encaminhamento executivo - projetos, laudos, aprovações e processos conduzidos por quem faz isso todos os dias'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia resolve: o método em 5 etapas'
+      },
+      {
+        type: 'paragraph',
+        text: 'O que transforma consultoria em solução é processo. A Regê Engenharia trabalha com um fluxo claro, do primeiro contato até o problema resolvido:'
+      },
+      {
+        type: 'heading',
+        text: '1. Escuta e diagnóstico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Tudo começa entendendo o objetivo real do cliente - construir, comprar, reformar, regularizar, adequar. Em seguida vem a análise dos documentos disponíveis e, quando necessário, vistoria técnica no local. Nessa etapa, muitos clientes descobrem que o problema verdadeiro não era o que imaginavam.'
+      },
+      {
+        type: 'heading',
+        text: '2. Parecer técnico em linguagem clara'
+      },
+      {
+        type: 'paragraph',
+        text: 'O cliente recebe um diagnóstico objetivo do cenário: o que existe, o que falta, o que é risco e o que é oportunidade. Sem juridiquês e sem enrolação - a meta é que qualquer pessoa entenda exatamente onde está pisando.'
+      },
+      {
+        type: 'heading',
+        text: '3. Plano de ação com custo e prazo'
+      },
+      {
+        type: 'paragraph',
+        text: 'As alternativas viáveis são apresentadas com estimativa de investimento, tempo envolvido e riscos de cada rota. O cliente decide com visão completa, comparando caminhos em vez de apostar em um só.'
+      },
+      {
+        type: 'heading',
+        text: '4. Execução integrada'
+      },
+      {
+        type: 'paragraph',
+        text: 'Aqui está a grande diferença da Regê: a mesma equipe que diagnosticou também projeta, emite laudos, elabora orçamentos, conduz aprovações na prefeitura e acompanha obras. O cliente não precisa caçar um profissional novo para cada etapa - nem arcar com os vazios de responsabilidade entre eles.'
+      },
+      {
+        type: 'heading',
+        text: '5. Acompanhamento até resolver'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consultoria na Regê não termina no relatório. O acompanhamento segue até a solução estar implantada - alvará emitido, estrutura reforçada, empresa adequada, imóvel regularizado - com responsabilidade técnica formal em cada etapa.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a Regê e não um profissional avulso'
+      },
+      {
+        type: 'list',
+        items: [
+          'Equipe multidisciplinar própria - engenharia civil, estrutural, elétrica, hidráulica, ambiental e segurança do trabalho sob o mesmo teto',
+          'Vivência local - rotina diária com a prefeitura de Navegantes, órgãos ambientais e as particularidades dos bairros costeiros',
+          'Consultoria que executa - diferente de quem apenas aponta o problema, a Regê projeta, lauda e acompanha a correção de ponta a ponta',
+          'Responsabilidade formal - ART registrada no CREA-SC em todos os serviços, garantindo validade jurídica e amparo ao cliente',
+          'Cobertura regional - atendimento no Centro, Meia Praia, São Domingos, Gravatá e em todo o Litoral Norte de Santa Catarina',
+          'Linguagem acessível - parecer técnico traduzido em decisão de negócio, com clareza sobre custo, prazo e risco'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Problemas reais de Navegantes e como a Regê resolve'
+      },
+      {
+        type: 'list',
+        items: [
+          'Terreno alagadiço ou arenoso na Meia Praia - estudo de viabilidade antes da compra e projeto de fundações compatível com o solo local',
+          'Trincas que surgiram depois da reforma - laudo estrutural identifica a causa real e o projeto corrige na raiz, sem remendo cosmético',
+          'Notificação de irregularidade da prefeitura - diagnóstico documental completo e rota de regularização conduzida junto aos setores técnicos',
+          'Indústria no Machados aguardando fiscalização - gap analysis, adequação às normas regulamentadoras e emissão dos laudos exigidos',
+          'Orçamentos de construtoras divergentes demais - análise técnica de escopo e preços que revela sobrepreço, item faltante e condição abusiva',
+          'Imóvel antigo sem documentos - levantamento, projeto de situação atual e processo de regularização até a escritura e o registro'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa a consultoria (e quanto ela economiza)'
+      },
+      {
+        type: 'paragraph',
+        text: 'A pergunta certa não é quanto custa a consultoria, mas quanto custa decidir sem ela. Uma aprovação feita certo na primeira tentativa poupa meses de retrabalho com a prefeitura. Uma análise de proposta contratada antes da assinatura pode eliminar um sobrepreço maior que toda a honorária. Um laudo precoce numa trinca suspeita separa um selante barato de uma intervenção estrutural de dezenas de milhares de reais. A consultoria é o único serviço de engenharia cujo retorno aparece justamente nas contas que você deixa de pagar.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre consultoria de engenharia em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Serve para obra pequena, como reforma de casa? Serve - e proporcionalmente é onde mais evita prejuízo. Uma hora de análise antes de contratar a reforma evita erros de escopo que custariam muito mais que a consultoria inteira.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês atendem fora de Navegantes? Sim. A Regê Engenharia atende todo o Litoral Norte de Santa Catarina, incluindo Itajaí, Balneário Camboriú, Penha, Porto Belo e região, com o mesmo padrão de método e responsabilidade técnica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A consultoria substitui o projeto? Não. A consultoria orienta a decisão e encaminha a solução; o projeto materializa essa solução em plantas e cálculos executáveis. São serviços complementares - e na Regê os dois acontecem sob o mesmo teto.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em quanto tempo tenho o parecer? Depende do escopo: análises documentais e dúvidas pontuais saem em dias; diagnósticos com vistoria, ensaios ou processos junto à prefeitura levam semanas. Na primeira conversa você recebe prazo realista para o seu caso.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso ter todos os documentos organizados? Ajuda, mas não é pré-requisito. Parte do trabalho da consultoria é justamente levantar o que falta, buscar informações junto a cartórios e prefeitura e montar o dossiê completo.'
+      },
+      {
+        type: 'heading',
+        text: 'Consultoria de engenharia em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai comprar, construir, reformar, regularizar ou adequar um empreendimento em Navegantes ou no Litoral Norte de Santa Catarina, a Regê Engenharia é a solução completa: diagnóstico técnico preciso, plano de ação transparente e execução integrada de projetos, laudos, aprovações e obras - tudo com ART registrada no CREA-SC e conhecimento profundo das regras e das particularidades locais. Fale com nossa equipe e descubra, na primeira conversa, o caminho mais seguro e econômico para o seu caso.'
+      }
+    ]
+  },
+  {
+    slug: 'gerenciamento-de-obras-navegantes-rege-solucao',
+    title: 'Gerenciamento de Obras em Navegantes: Por que a Regê Engenharia é a Solução',
+    tag: 'GESTÃO',
+    image: '/images/construtora.png',
+    imageAlt: 'Gerenciamento de obras em Navegantes SC pela Regê Engenharia — engenheiro civil controlando cronograma, custo e qualidade de canteiro no Litoral Norte de Santa Catarina.',
+    excerpt: 'Projeto pronto e verba aprovada não garantem entrega no prazo - quem garante é o gerenciamento profissional. Veja como a Regê Engenharia assume o controle da sua obra em Navegantes: método, medições, relatórios e resultado sem sustos.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A história se repete em quase toda esquina de Navegantes: terreno bom, projeto aprovado, verba separada - e seis meses depois a obra parada, o orçamento estourado e o proprietário transformado em apagador de incêndios. O que faltou não foi dinheiro nem boa vontade: foi gerenciamento. Construir sem gestão profissional é dirigir de olhos fechados com passageiros dentro - e no litoral catarinense, onde maresia, chuva e sazonalidade castigam o canteiro, o risco triplica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo mostra por que o gerenciamento profissional é a solução para os problemas que mais derrubam obras em Navegantes, como funciona na prática o método da Regê Engenharia - etapa por etapa, do planejamento à entrega das chaves - e quais resultados você deve exigir de quem assumir essa função na sua construção.'
+      },
+      {
+        type: 'heading',
+        text: 'O problema: por que as obras travam mesmo com projeto e verba'
+      },
+      {
+        type: 'list',
+        items: [
+          'Cronograma de fantasia - prazos montados sem considerar chuva de verão, entrega de material e disponibilidade de equipe real',
+          'Orçamento furado - composição de custos incompleta, sem reservas para variações de preço de material e imprevistos de fundação',
+          'Retrabalho caro - serviço executado fora de sequência ou contra o projeto, demolido e refeito às custas do dono',
+          'Fornecedores errados - material de qualidade duvidosa comprado pelo menor preço, falhando antes do fim da garantia',
+          'Dono-bombeiro - o proprietário gastando noites resolvendo pendências que ninguém antecipou, sem registro técnico de nada'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Ninguém constrói pensando em parar no meio. Parar é consequência da ausência de gestão - e retomar custa sempre mais que ter gerido desde o início.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que em Navegantes o risco é ainda maior'
+      },
+      {
+        type: 'list',
+        items: [
+          'Agressividade ambiental - maresia e umidade exigem especificação correta de concreto, aço e proteções desde a fundação; erro de especificação vira patologia em poucos anos',
+          'Solo e lençol freático - terrenos arenosos próximos à baía pedem fundações pensadas caso a caso, com sondagem e acompanhamento técnico da execução',
+          'Sazonalidade da mão de obra - na alta temporada a equipe escasseia e o preço sobe; sem planejamento, a obra fica refém da agenda alheia',
+          'Logística insular - parte da cidade depende de ponte e ferry; atraso de caminhão de concreto ou telhas trava o canteiro inteiro',
+          'Fiscalização municipal ativa - desvios de projeto param obra na porta da prefeitura; quem gerencia mantém execução e projeto conversando com o órgão'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'A Regê Engenharia como solução: o que muda quando há gestão profissional'
+      },
+      {
+        type: 'paragraph',
+        text: 'Contratar a Regê para gerenciar sua obra significa transferir para uma equipe de engenheiros habilitados a responsabilidade técnica e operacional do dia a dia do canteiro - com ART registrada no CREA-SC, método consolidado em obras residenciais, comerciais e industriais no Litoral Norte e comunicação transparente com o proprietário do início ao fim. Na prática, três mudanças imediatas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Decisão técnica substitui improviso - cada dúvida de execução tem resposta baseada em projeto, norma e experiência local',
+          'Custeio vira previsível - orçamento analítico, medições e controle de suprimentos mostram exatamente onde cada real está sendo aplicado',
+          'Você volta a ser cliente, não operador de obra - recebe relatórios periódicos, aprova etapas e acompanha sem precisar estar no canteiro todos os dias'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona o gerenciamento de obras da Regê, etapa a etapa'
+      },
+      {
+        type: 'heading',
+        text: '1. Diagnóstico: projeto, orçamento e expectativa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de qualquer betonada, a equipe revisa projetos, compatibiliza disciplinas (estrutural, hidráulica, elétrica), verifica consistência do orçamento e alinha escopo, prazo e expectativas com o proprietário. É aqui que inconsistências baratas de corrigir são encontradas - no papel, não na parede.'
+      },
+      {
+        type: 'heading',
+        text: '2. Planejamento físico-financeiro'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cronograma realista com marcos verificáveis, curva de desembolso mês a mês e plano de compras por etapa. O cliente sabe de antemão quando precisará liberar cada parcela do investimento - sem surpresa de caixa no meio da estrutura.'
+      },
+      {
+        type: 'heading',
+        text: '3. Mobilização e montagem do canteiro'
+      },
+      {
+        type: 'paragraph',
+        text: 'Seleção de empresas e profissionais qualificados, contrato com responsabilidades claras, adequação do canteiro às exigências de segurança (NR-18) e logística de materiais considerada desde a primeira carga.'
+      },
+      {
+        type: 'heading',
+        text: '4. Controle semanal de execução'
+      },
+      {
+        type: 'paragraph',
+        text: 'Visitas técnicas recorrentes, relatório diário de obra, registro fotográfico de todas as etapas críticas, conferência de serviços contra projeto e especificação, medições formais do executado. Problema detectado na semana custa centavos; descoberto na entrega, custa fortuna.'
+      },
+      {
+        type: 'heading',
+        text: '5. Gestão de suprimentos e qualidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'Compras planejadas por cronograma evitam estoque parado e compra emergencial cara. Materiais estruturais recebem conferência de nota, marca e conformidade; ensaios necessários (concreto, solo) são contratados e arquivados na pasta técnica.'
+      },
+      {
+        type: 'heading',
+        text: '6. Comunicação transparente com o cliente'
+      },
+      {
+        type: 'paragraph',
+        text: 'Relatório periódico com percentual executado, fotos, finanças atualizadas e decisões pendentes. Você acompanha a obra do celular, aprova alterações formalmente e nunca é surpreendido por aditivo que não discutiu.'
+      },
+      {
+        type: 'heading',
+        text: '7. Encerramento com documentação completa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Checklist de entrega, correção de pendências antes da vistoria final, as-built atualizado e apoio na regularização junto à prefeitura - incluindo habite-se e averbação. A obra só termina quando está entregue de fato, com papel assinado.'
+      },
+      {
+        type: 'heading',
+        text: 'Os resultados que o proprietário percebe'
+      },
+      {
+        type: 'list',
+        items: [
+          'Prazo cumprido com margem realista, não promessa otimista',
+          'Orçamento sob controle, com desvio justificado e documentado quando existe',
+          'Zero retrabalho por erro de execução - o que sai certo uma vez não precisa ser feito duas vezes',
+          'Pasta técnica completa - proteção jurídica, facilita seguro, venda futura e garantias com fornecedores',
+          'Obra acompanhável à distância - essencial para quem constrói em Navegantes morando em outra cidade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Para quem faz sentido contratar o gerenciamento da Regê'
+      },
+      {
+        type: 'list',
+        items: [
+          'Residências novas - do terreno bruto às chaves, para famílias que querem construir sem virar mestre de obras',
+          'Obras comerciais - lojas, galpões e empreendimentos onde tempo parado é faturamento perdido',
+          'Reformas complexas - intervenções com estrutura, instalações e fachada, onde o risco de erro é proporcionalmente maior',
+          'Investidores à distância - quem aplica no litoral catarinense e precisa de olhos técnicos confiáveis no canteiro',
+          'Quem já teve obra problemática - segunda obra merece método, não esperança'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre gerenciamento de obras com a Regê'
+      },
+      {
+        type: 'paragraph',
+        text: 'Já tenho empreiteira contratada. Ainda preciso de gerenciamento? Precisa - e é justamente nesse cenário que ele agrega mais. A empreiteira executa; a Regê fiscaliza e gerencia em nome seu, conferindo medida, qualidade e aderência ao contrato. Quem executa não pode ser a única fonte de informação sobre a própria execução.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha obra é pequena, vale a pena? Vale na mesma proporção: quanto menor a reserva financeira do proprietário, mais caro fica qualquer estouro. O gerenciamento escala o nível de detalhamento ao porte da obra, mantendo os controles essenciais em qualquer tamanho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Como funciona a cobrança? Depende do escopo: percentual sobre o custo da obra ou valor fixo por etapa, definido após o diagnóstico inicial. Em ambas as modalidades, o custo do gerenciamento costuma ser recuperado em economia de retrabalho, compras bem negociadas e prazo cumprido.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Moro fora de Navegantes. Consigo acompanhar? Esse é um dos cenários mais atendidos pela Regê: relatórios com fotos, reuniões on-line e aprovações formais por escrito mantêm você no comando sem precisar viajar a cada decisão.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê também executa a obra? Sim - a empresa atua tanto gerenciando obra de terceiros quanto construindo por empreitada com equipe própria, sempre com engenheiro responsável e ART. No diagnóstico, indicamos o modelo mais vantajoso para o seu caso.'
+      },
+      {
+        type: 'heading',
+        text: 'Gerencie sua obra em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Construir em Navegantes exige mais que projeto aprovado e dinheiro no banco: exige gestão técnica que domine as particularidades do litoral e coloque ordem no canteiro todos os dias. A Regê Engenharia oferece gerenciamento completo de obras residenciais, comerciais e industriais em Navegantes, Itajaí, Balneário Camboriú e todo o Litoral Norte catarinense - com engenheiros habilitados, ART no CREA-SC, relatórios transparentes e compromisso com prazo e orçamento. Fale com nossa equipe, apresente seu projeto e descubra quanto custa construir com tranquilidade - provavelmente menos que improvisar.'
+      }
+    ]
+  },
+  {
+    slug: 'servicos-de-engenharia-navegantes-solucao-rege',
+    title: 'Serviços de Engenharia em Navegantes: Como a Regê Engenharia Resolve Cada Etapa da Sua Obra',
+    tag: 'SERVIÇOS',
+    image: '/images/construtora.png',
+    imageAlt: 'Serviços de engenharia em Navegantes SC — engenheiros da Regê Engenharia em canteiro de obra no litoral catarinense com capacete, prancheta técnica e acompanhamento completo da construção.',
+    excerpt: 'Terreno que não se sabe se constrói, projeto travado na prefeitura, rachadura que ninguém explica, obra sem responsável técnico: cada problema pede um serviço de engenharia certo. Veja quais serviços existem em Navegantes, quando cada um entra e como a Regê Engenharia resolve tudo em um só lugar.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Navegantes cresce rápido demais para a improvisação. O porto puxa emprego, a orla valoriza lote a cada temporada e bairros inteiros mudam de perfil em poucos anos. Nesse cenário, todo mundo precisa — mais cedo ou mais tarde — de serviços de engenharia: para projetar, aprovar, construir, regularizar ou diagnosticar. O problema é que a maioria das pessoas descobre qual serviço precisa apenas depois que o problema já custou caro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia faz o caminho contrário: parte dos problemas reais de quem constrói, reforma ou opera em Navegantes e mostra, para cada um, o serviço de engenharia que resolve — e como a Regê Engenharia executa esse serviço com ART registrada no CREA-SC e experiência de quem trabalha no litoral todos os dias.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que engenharia em Navegantes exige mais que o básico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes dos serviços, o contexto. Construir em Navegantes reúne desafios que não existem — ou pesam menos — no interior:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Solo arenoso de origem litorânea — fundação mal dimensionada aqui não é hipótese distante: é fissura garantida em poucos anos',
+          'Maresia — corrosão acelerada atinge armaduras, estruturas metálicas e instalações elétricas muito antes da vida útil prevista',
+          'Sensibilidade ambiental — estuário do Itajaí-Açu, manguezais, restingas e faixas de maré atravessam lotes urbanos e elevam o nível de exigência do licenciamento',
+          'Legislação municipal própria — Código de Obras, Código de Posturas e a Lei Complementar 416 disciplinam recuos, alturas e usos com regras locais específicas',
+          'Crescimento acelerado — fiscalização municipal, IMA-SC e Corpo de Bombeiros acompanham o ritmo, e obra irregular fica cara rápido'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Em Navegantes, o serviço de engenharia barato costuma ser o mais caro: o que economiza no projeto, cobra na fundação; o que economiza na aprovação, paga em embargo.'
+      },
+      {
+        type: 'heading',
+        text: 'Problema 1 — Comprei um terreno e não sei se dá para construir'
+      },
+      {
+        type: 'paragraph',
+        text: 'É a dúvida que antecede tudo — e a que mais gera prejuízo quando ignorada. A resposta vem de três serviços combinados:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento topográfico — mede o lote real: dimensões, declividade, cotas e confrontações. Planta de rua enganosa é clássico da região',
+          'Análise de solo e sondagem — define o tipo de fundação e evita surpresa de custo depois do projeto estrutural',
+          'Estudo de viabilidade legal — cruza zoneamento, Lc 416, APP e restrições de loteamento para dizer o que pode ser construído ali, com que área e que altura'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Como a Regê resolve: executamos o pacote completo de viabilidade antes de você fechar negócio ou desenhar planta nenhuma. O resultado é simples e objetivo: dá para construir o quê, onde e por quanto. Muitos clientes descobrem nesse estudo que negociaram melhor o preço do lote — outros evitaram comprar um problema.'
+      },
+      {
+        type: 'heading',
+        text: 'Problema 2 — Preciso de projeto e aprovação na prefeitura'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto arquitetônico bonito não passa sozinho: a prefeitura analisa recuos, taxas, altura, garagem, ventilação, acessibilidade e compatibilidade com o lote — e devolve exigência atrás de exigência quando algo foge da legislação. Os serviços envolvidos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projetos complementares — estrutural, hidrossanitário, elétrico e prevenção contra incêndio, compatibilizados entre si (o erro mais comum é entregar plantas que se contradizem)',
+          'Aprovação na prefeitura — protocolo, formulários, taxas e resposta às parecerias',
+          'Aprovação no Corpo de Bombeiros — PPCI para os usos que exigem, processo separado do municipal'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Como a Regê resolve: desenvolvemos projetos que nascem prontos para aprovar — porque consultamos o código local antes de desenhar, não depois da primeira exigência — e conduzimos todo o processo até o alvará sair. Você acompanha pelo número de protocolo, sem pisar no balcão da prefeitura.'
+      },
+      {
+        type: 'heading',
+        text: 'Problema 3 — Quero construir e preciso de alguém responsável do início ao fim'
+      },
+      {
+        type: 'paragraph',
+        text: 'Aprovado o projeto, começa a fase que consome o orçamento: a execução. Aqui os serviços são:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Execução de obras residenciais, comerciais e industriais — construção completa com equipe própria e fornecedores homologados',
+          'Gerenciamento e fiscalização de obras — quando você já tem empreiteira, mas precisa de alguém tecnicamente responsável conferindo serviço por serviço, medição por medição',
+          'Orçamento executivo detalhado — planilha por insumo que transforma "quanto vai custar?" de chute em número',
+          'Acompanhamento tecnológico — controle de concretagem, ensaios e registros que protegem o padrão de qualidade'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Como a Regê resolve: atuamos nos dois formatos — construímos a sua obra como construtora ou gerenciamos a obra do seu empreiteiro como engenharia responsável. Nos dois casos, o cliente recebe o mesmo: cronograma cumprido, medições justificadas e obra que termina igual à planta aprovada.'
+      },
+      {
+        type: 'heading',
+        text: 'Problema 4 — Minha casa ou prédio apresenta rachadura, infiltração ou outro sintoma'
+      },
+      {
+        type: 'paragraph',
+        text: 'Trinca na parede, mancha de umidade, piso ondulando, porta que não fecha: sintomas assim assustam — e merecem diagnóstico técnico, não palpite de pedreiro. Serviços de engenharia diagnóstica:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Laudo de vistoria e inspeção predial — avalia o estado real do imóvel sistema por sistema, com evidências fotográficas',
+          'Laudo estrutural — investiga fundação, pilares, vigas e lajes quando há suspeita de comprometimento',
+          'Perícia e avaliação — para disputas com vizinho, construtora ou seguradora; também usado em compra e venda',
+          'Projeto de recuperação estrutural — o laudo aponta; o projeto corrige com solução dimensionada'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Como a Regê resolve: vistoriamos com instrumentos, fotografamos, medimos e concluímos por escrito — com ART no CREA-SC. No litoral, boa parte dos diagnósticos envolve corrosão por maresia e recalque em solo arenoso: problemas que conhecemos de repetição e sabemos corrigir na causa, não no sintoma.'
+      },
+      {
+        type: 'heading',
+        text: 'Problema 5 — Construí sem aprovação e agora?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Obra sem alvará, ampliação fora do projeto, imóvel sem habite-se: irregularidade trava financiamento, escritura e venda — e vira multa quando a fiscalização chega. O caminho de volta é a regularização:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Regularização de obras e imóveis — enquadramento da construção existente junto à prefeitura, com plantas de "como construído"',
+          'Habite-se — emissão da certidão de conclusão para liberar cartório, banco e concessionárias',
+          'Regularização ambiental — quando a irregularidade toca área de preservação, vegetação ou recursos hídricos'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Como a Regê resolve: avaliamos o caso, dizemos honestamente o que dá e o que não dá para regularizar, montamos a documentação e negociamos com os órgãos. Quanto antes começar, menor a penalidade — regularização preventiva custa fração da autuação.'
+      },
+      {
+        type: 'heading',
+        text: 'Problema 6 — Tenho empresa ou indústria e preciso estar conforme'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes industrial — Machados, entorno portuário, frigoríficos — vive sob fiscalização dupla: ambiental e trabalhista. Os serviços de rotina empresarial:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Licenciamento ambiental — LP, LI e LO junto ao IMA-SC ou município, com estudos e renovações',
+          'Laudos de segurança do trabalho — NR-12 (máquinas), NR-10 (elétrica), NR-13 (vasos), NR-35 (altura)',
+          'PMOC e manutenção predial — obrigações contínuas de climatização e conservação',
+          'Projetos industriais — galpões, layouts e ampliações com estrutura preparada para maresia'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Como a Regê resolve: operamos como parceiro técnico recorrente de empresas da região — pasta documental sempre pronta para auditoria de cliente, seguro ou fiscalização, com calendário de renovações controlado por nós, não pela multa.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que juntar tudo em um só lugar muda o jogo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Responsabilidade única — quando projeto, aprovação e obra têm o mesmo responsável técnico, não existe "culpa do outro" na frente do problema',
+          'Compatibilização de verdade — estrutural, hidráulica e elétrica desenhadas conversando entre si, não somadas no final',
+          'Continuidade — quem aprovou seu projeto conhece cada detalhe dele na hora de executar e de emitir o habite-se',
+          'Economia real — retrabalho, replantilha e exigência repetida desaparecem quando o fluxo é integrado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre serviços de engenharia em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Pequena reforma precisa de engenheiro? Depende do escopo — mas em geral qualquer intervenção que mexa com estrutura, instalações ou configuração do imóvel exige responsável técnico. E mesmo reformas simples ganham muito com orientação profissional sobre impermeabilização e instalações, especialmente no litoral.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês atendem só em Navegantes? Nossa sede é em Navegantes e atendemos todo o Litoral Norte catarinense: Itajaí, Balneário Camboriú, Penha, Porto Belo e região.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consigo orçar antes de decidir? Sim. Todo serviço começa por uma conversa sobre o problema e uma proposta clara de escopo, prazo e custo — sem surpresa no meio do caminho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo serviço sai com ART? Sim. Laudo, projeto, aprovação e obra: cada entrega sai com Anotação de Responsabilidade Técnica registrada no CREA-SC. É isso que dá validade legal ao que entregamos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Meu problema não está nessa lista, vocês resolvem? Provavelmente sim — engenharia civil cobre muito mais do que cabe num artigo. Descreva o seu caso: respondemos com o caminho técnico adequado ou dizemos com honestidade se não for a nossa praia.'
+      },
+      {
+        type: 'heading',
+        text: 'Consultoria de engenharia em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai comprar, construir, reformar, regularizar ou adequar um empreendimento em Navegantes ou no Litoral Norte de Santa Catarina, a Regê Engenharia é a solução completa: diagnóstico técnico preciso, plano de ação transparente e execução integrada de projetos, laudos, aprovações e obras - tudo com ART registrada no CREA-SC e conhecimento profundo das regras e das particularidades locais. Fale com nossa equipe e descubra, na primeira conversa, o caminho mais seguro e econômico para o seu caso.'
+      }
+    ]
+  },
+  {
+    slug: 'quando-e-necessaria-inspecao-predial-navegantes',
+    title: 'Quando é Necessário Fazer uma Inspeção Predial? 7 Situações que Exigem Avaliação Técnica Imediata',
+    tag: 'LAUDOS',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Inspeção predial em Navegantes SC - engenheiro civil avalia trincas, fissuras e patologias em edificação do litoral de Santa Catarina.',
+    excerpt: 'Trinca nova, infiltração recorrente, imóvel envelhecendo ou obra começando na casa ao lado: saiba em quais situações a inspeção predial deixa de ser opcional e se torna necessidade urgente.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Uma trinca surge na parede da sala. O morador pinta por cima, achando que resolveu. Dois anos depois, aquela mesma trinca atravessou o canto da janela, a porta começou a raspar no piso e o orçamento saltou de um selante para uma intervenção estrutural de dezenas de milhares de reais. Essa história se repete todos os meses em Navegantes e em todo o litoral catarinense - não por falta de cuidado dos proprietários, mas por falta de uma pergunta simples respondida na hora certa: quando é necessário fazer uma inspeção predial?'
+      },
+      {
+        type: 'paragraph',
+        text: 'A inspeção predial é o exame técnico completo do estado de conservação e desempenho de uma edificação. Ela responde três perguntas: o imóvel está seguro, quais problemas existem hoje e o que precisa ser feito agora, em seguida e mais adiante. Este artigo explica em quais situações a inspeção deixa de ser um item opcional do planejamento e passa a ser indispensável - e por que, no litoral de Santa Catarina, esperar o problema aparecer à vista é sempre a decisão mais cara.'
+      },
+      {
+        type: 'heading',
+        text: 'O que uma inspeção predial avalia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Conduzida por engenheiro habilitado e seguindo os critérios da norma NBR 16747, a inspeção predial percorre a edificação de fundação a cobertura em busca de patologias, riscos e pontos de atenção. Não é uma vistoria superficial de aparência: é uma análise sistemática dos sistemas que mantêm o prédio de pé, funcionando e seguro.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Estrutura: fundações, pilares, vigas e lajes, procurando fissuras estruturais, corrosão de armaduras, recalques e deformações',
+          'Vedações e revestimentos: alvenarias, reboco, pisos e telhados, identificando trincas, destacamentos e desgaste prematuro',
+          'Instalações hidráulicas, elétricas e de gás: vazamentos, sobrecarga, fuga de corrente e condições de risco',
+          'Impermeabilização: coberturas, baldrames, lajes de garagem e áreas molhadas, onde nascem as infiltrações silenciosas',
+          'Fachadas e esquadrias: fixações, vedação, vidros e elementos suspensos que representam risco de queda',
+          'Segurança de uso: guarda-corpos, corrimãos, escadas e acessos, avaliados contra normas de acessibilidade e proteção'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Inspeção predial é o check-up do imóvel: encontra hoje, por pouco dinheiro, o problema que amanhã exigiria uma intervenção estrutural inteira.'
+      },
+      {
+        type: 'heading',
+        text: 'A inspeção predial é obrigatória?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em boa parte das situações, sim - ou acaba sendo, na prática. A NBR 16747 estabelece as diretrizes da inspeção predial e diversos municípios brasileiros já exigem inspeções periódicas para edificações acima de determinada altura ou de uso coletivo, com apresentação de laudo à prefeitura ou ao corpo de bombeiros. No campo civil, o Código Civil obriga o síndico a manter a edificação em boas condições de conservação e segurança, o que torna a inspeção periódica a prova documental de que o condomínio cumpriu esse dever. Somem-se a isso seguradoras, bancos financiadores e convenções de condomínio, cada vez mais exigentes quanto à apresentação de laudos atualizados.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Edificações de uso coletivo e condomínios: dever legal de conservação e, em muitos municípios, exigência de inspeção periódica documentada',
+          'Prédios altos e obras com fachadas complexas: controle obrigatório de segurança de fachadas e elementos suspensos em diversas cidades',
+          'Processos de seguro e sinistro: seguradoras pedem laudos para aceitar renovação ou indenizar danos',
+          'Financiamento e alienação fiduciária: bancos podem condicionar crédito à apresentação de avaliação técnica'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '7 situações em que fazer inspeção predial é necessário'
+      },
+      {
+        type: 'subheading',
+        text: '1. Quando aparecem sinais visíveis de patologia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Trincas novas ou que crescem, fissuras em pilares e vigas, manchas de umidade que voltam depois da pintura, portas e janelas que passaram a emperrar, pisos desnivelados, barulhos e movimentação em coberturas. Cada um desses sinais tem uma causa - e apenas o olhar técnico distingue um acomodamento banal de alvenaria de uma fissura estrutural em progressão. A regra é simples: sinal visível é inspeção imediata, nunca pintura por cima.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Quando a edificação completa ciclos de uso sem avaliação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Edifícios não envelhecem de repente: eles envelhecem em silêncio. Por isso, práticas modernas de gestão patrimonial recomendam inspeção inicial como linha de base e revisões periódicas - anuais nas verificações de rotina e mais completas a cada ciclo plurianual, conforme o tipo, a idade e as condições de exposição da edificação. Condomínio sem histórico de inspeções está, tecnicamente, administrando às cegas um patrimônio de milhões.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Antes de comprar ou vender um imóvel'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na compra, a inspeção revela o que a vistoria de fachada esconde: infiltrações antigas, reparos mal executados, sobrecarga em reformas anteriores, instalações irregulares. É o insumo que negocia preço, condiciona a compra a reparos ou evita um mau negócio. Na venda, um laudo atualizado acelera a negociação e protege o proprietário de alegações futuras de vícios ocultos.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Depois de eventos extremos: enchente, temporal e vendaval'
+      },
+      {
+        type: 'paragraph',
+        text: 'Enchente não molha só o piso: compromete alicerces, embute umidade em alvenarias e deteriora instalações elétricas. Vendavais arrancam telhas, flexionam estruturas leves e testam fixações de fachadas. Mesmo sem dano aparente, eventos dessa magnitude justificam inspeção técnica - porque o pior dos danos é justamente o que fica escondido e só aparece anos depois.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Quando a obra começa na casa ao lado'
+      },
+      {
+        type: 'paragraph',
+        text: 'Escavações profundas, vibrações de martelo pneumático, caminhões pesados em ruas estreitas e tapumes encostando no muro vizinho: toda obra grande no limite do lote transfere esforços para quem mora ao lado. Fazer uma inspeção predial antes do início da obra vizinha cria o registro fotográfico e técnico do estado atual do seu imóvel - a única prova objetiva caso surjam danos durante a construção. É a famosa vistoria cautelar, e em Navegantes ela evita discussões que duram anos na Justiça.'
+      },
+      {
+        type: 'subheading',
+        text: '6. Antes de reformar, ampliar ou mudar o uso do espaço'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda reforma altera algo: carga, vedação, instalações ou uso. Transformar residencial em comercial, instalar academia no salão de festas, remover parede aparentemente simples, subir mais um pavimento - qualquer uma dessas decisões sem avaliação prévia da estrutura é roleta-russa. A inspeção anterior à reforma dimensiona reservas estruturais, identifica pontos frágeis e orienta o projeto para que a melhoria não vire o início de uma patologia.'
+      },
+      {
+        type: 'subheading',
+        text: '7. Por exigência de seguradora, banco ou convenção'
+      },
+      {
+        type: 'paragraph',
+        text: 'Renovação de apólice com laudo técnico, liberação de financiamento, assembleia aprovando plano de manutenção obrigatório, fiscalização municipal notificando edificações - são gatilhos formais cada vez mais frequentes. Ter a inspeção em dia transforma essas exigências em formalidade rápida; não ter significa correr contra o prazo com um imóvel cujo estado ninguém conhece.'
+      },
+      {
+        type: 'heading',
+        text: 'O que custa adiar a inspeção predial'
+      },
+      {
+        type: 'list',
+        items: [
+          'Progressão do problema: fissura que seria tratada com selante evolui para corrosão de armadura e reforço estrutural',
+          'Custo multiplicado: intervenção emergencial custa ordens de grandeza mais que manutenção planejada',
+          'Responsabilidade civil e criminal: queda de elemento de fachada ou acidente com vítima responsabiliza síndicos e proprietários que não agiram',
+          'Desvalorização do imóvel: sem laudo, toda negociação assume o pior cenário - e precifica por isso',
+          'Sanções administrativas: multas e interdições alcançam edificações irregulares onde há exigência municipal vigente'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Inspeção predial no litoral de Santa Catarina: por que aqui o prazo é menor'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes, Itajaí, Balneário Camboriú, Penha e Porto Belo compartilham o mesmo cenário de agressividade ambiental. A maresia classifica o ambiente como fortemente agressivo ao concreto armado segundo a NBR 6118, acelerando a corrosão das armaduras muito antes da vida útil projetada. O solo arenoso típico da região favorece recalques diferenciais quando as fundações não foram adequadamente dimensionadas. A alta umidade e as chuvas intensas alimentam infiltrações persistentes e lixiviação. Na prática, isso significa que edificações do litoral envelhecem mais rápido que edificações idênticas no planalto - e que intervalos de inspeção pensados para outras realidades são simplesmente longos demais aqui. Prédios de frente para o mar, em especial, pedem atenção redobrada em fachadas, coberturas e esquadrias.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia conduz sua inspeção predial'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia executa inspeções prediais completas em Navegantes e em todo o Litoral Norte catarinense, com método claro e entrega documental robusta:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vistoria técnica sistemática, com registro fotográfico completo, medição e mapeamento de fissuras e anomalias',
+          'Análise documental do imóvel: projetos originais, ARTs, histórico de reformas e de manutenção',
+          'Ensaios complementares quando necessário: esclerometria, pacometria, verificação de armaduras e termografia',
+          'Laudo técnico conforme NBR 16747, com classificação de gravidade, causas prováveis e prognóstico de evolução',
+          'Plano de manutenção predial priorizado por criticidade e custo, pronto para aprovação em assembleia',
+          'Acompanhamento das intervenções corretivas indicadas, do orçamento à fiscalização da execução',
+          'ART registrada no CREA-SC, dando respaldo jurídico e técnico ao documento'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se seu imóvel apresenta qualquer um dos sinais descritos neste artigo, se já passou por enchente ou temporal, se a obra do vizinho vai começar ou se o condomínio simplesmente nunca fez sua primeira inspeção: fale com a equipe da Regê Engenharia. O diagnóstico de hoje é o melhor investimento contra a obra emergencial de amanhã.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre inspeção predial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre inspeção predial e vistoria cautelar? A inspeção predial avalia o estado geral e o desempenho da edificação para orientar manutenção e segurança. A vistoria cautelar documenta o estado atual do imóvel antes de um evento específico - normalmente a obra do vizinho - para proteger juridicamente as partes caso surjam danos. São documentos diferentes, com objetivos diferentes, e em muitos casos os dois fazem sentido.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com que frequência devo inspecionar meu prédio no litoral? Em regiões de atmosfera agressiva como o litoral norte catarinense, o recomendado é verificação técnica anual de rotina, com inspeção completa a ciclos curtos - mais frequente do que o padrão de regiões menos agressivas. Fachadas voltadas para o mar merecem atenção especializada em todos os ciclos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Inspeção predial serve para casa térrea também? Serve. Patologias de fundação, infiltração, telhado e instalações atingem casas tanto quanto prédios - e em solo arenoso como o de Navegantes, problemas de recalque em residências são mais comuns do que se imagina. O escopo da inspeção se adapta ao porte do imóvel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva uma inspeção predial? A vistoria em campo costuma levar de algumas horas a um dia para imóveis residenciais e pequenos condomínios. O prazo total até a entrega do laudo depende do tamanho, da disponibilidade de áreas e da eventual necessidade de ensaios - na primeira conversa você recebe o cronograma realista do seu caso.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo de inspeção serve para acionar a construtora dentro da garantia? Sim. O laudo técnico identifica a causa provável da patologia e o momento em que ela se manifestou, sendo peça central para exigir reparo dentro do prazo legal de garantia construtiva. Quanto antes a inspeção for feita, mais forte é a documentação.'
+      },
+      {
+        type: 'heading',
+        text: 'Inspeção predial em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não espere a trinca atravessar a sala. A Regê Engenharia realiza inspeções prediais com laudo técnico completo, plano de manutenção e ART no CREA-SC, atendendo Navegantes, Itajaí, Balneário Camboriú, Penha, Porto Belo e região. Entre em contato e proteja seu patrimônio antes que o problema escolha a data.'
+      }
+    ]
+  },
+  {
+    slug: 'construcao-civil-navegantes-sc-solucao',
+    title: 'Construção Civil em Navegantes SC: Desafios do Litoral e Como a Regê Engenharia é a Solução',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/construtora.png',
+    imageAlt: 'Construção civil em Navegantes SC com gestão da Regê Engenharia — engenheiro acompanhando obra residencial no litoral norte de Santa Catarina com planejamento e controle técnico.',
+    excerpt: 'Navegantes cresce acelerado, mas construir no litoral exige mais que uma boa planta: solo arenoso, maresia, licenças ambientais e prazos apertados. Veja os desafios reais da construção civil local e como a Regê Engenharia resolve cada um deles.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Navegantes vive um ciclo que poucas cidades do Brasil experimentam ao mesmo tempo: porto movimentado, aeroporto regional operante, turismo aquecido pela vizinhança com Balneário Camboriú e um mercado imobiliário em escalada. Todo mundo quer construir, reformar ou investir na cidade. O problema é que o litoral cobra um pedágio técnico de quem chega despreparado — e esse pedágio aparece em forma de fundação errada, ferrugem precoce, obra embargada e orçamento estourado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo faz o raio-x da construção civil em Navegantes SC: por que o mercado segue aquecido, quais são os sete desafios que mais travam obras na região e, principalmente, como a Regê Engenharia transforma cada um desses pontos de risco em vantagem competitiva para quem constrói com ela.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a construção civil em Navegantes SC segue aquecida'
+      },
+      {
+        type: 'paragraph',
+        text: 'O crescimento de Navegantes não é acaso: é o efeito combinado de fatores estruturais que sustentam a demanda por construções ano após ano.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Logística pesada — o Porto de Navegantes movimenta carga e atrai indústria, galpões e serviços de apoio ao redor dele',
+          'Conectividade — aeroporto regional e acesso direto às principais rodovias do litoral norte encurtam distância entre obra, fornecedor e cliente',
+          'Turismo em cadeia — o efeito Balneário Camboriú e Penha transborda para Navegantes, puxando casas de temporada e serviços',
+          'Valorização imobiliária — bairros como Meia Praia, Gravatá e São Domingos vivem ciclos de valorização com lançamentos constantes',
+          'Novo perfil de morador — a casa de praia deixou de ser refúgio de fim de semana e virou moradia permanente para quem trabalha remoto'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'O resultado prático: a procura por projetos, aprovações e execução de obras supera a oferta de empresas tecnicamente preparadas. Nesse cenário, quem contrata rápido demais e critério de menos demais paga caro depois — e quem constrói com engenharia estruturada sai na frente em valor, prazo e tranquilidade.'
+      },
+      {
+        type: 'heading',
+        text: 'Construir no litoral exige mais que uma boa planta'
+      },
+      {
+        type: 'paragraph',
+        text: 'A planta bonita que passou na tela do computador não sobrevive sozinha à realidade física e regulatória de Navegantes. Entre o projeto e as chaves na mão existe uma sequência de armadilhas específicas do litoral — algumas visíveis, outras silenciosas — que separam construções bem-sucedidas de processos judiciais e patrimônio desvalorizado. A lista abaixo vem de obra feita aqui, não de teoria.'
+      },
+      {
+        type: 'heading',
+        text: 'Os 7 desafios reais de construir em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Solo arenoso e lençol freático alto — fundação mal dimensionada em areia única vira trinca, piso ondulado e porta que não fecha; a sondagem de solo não é opcional',
+          'Maresia e corrosão acelerada — armaduras, esquadrias, fixações e instalações elétricas degradam anos mais rápido sem especificação anticorrosiva correta',
+          'Vento e exposição costeira — telhados, platibandas e fechamentos exigem dimensionamento para cargas de vento que o interior nem imagina',
+          'Restrições ambientais — restinga, duna, manguezal e faixa de rio atravessam lotes urbanos aparentemente comuns; o IMA e a prefeitura fiscalizam de verdade',
+          'Burocracia em camadas — alvará na prefeitura, licenciamento ambiental quando cabível, AVCB no Corpo de Bombeiros e vinculação junto a concessionárias: cada etapa com prazo e exigência próprios',
+          'Sazonalidade e mão de obra — no verão as equipes disputam serviço e a chuva trava concretagem; cronograma mal feito vira atraso em cascata',
+          'Custo em movimento — insumos reajustam mês a mês; sem orçamento executivo detalhado, o estouro de custo é questão de tempo'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'No litoral, o barato sai caro duas vezes: primeiro na fundação improvisada, depois na regularização esquecida.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia resolve cada um desses desafios'
+      },
+      {
+        type: 'subheading',
+        text: 'Fundações seguras para solo de praia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda obra da Regê começa pelo que ninguém vê: investigação geotécnica com sondagem, cálculo estrutural próprio e definição do tipo de fundação adequado ao terreno real — não ao terreno ideal do catálogo. Em solo arenoso com lençol alto, a diferença entre acertar e errar a fundação é a diferença entre uma casa tranquila por décadas e rachaduras no segundo verão.'
+      },
+      {
+        type: 'subheading',
+        text: 'Especificação anticorrosão desde o projeto'
+      },
+      {
+        type: 'paragraph',
+        text: 'A maresia não perdoa improviso, então a resposta começa no desenho: cobrimentos de armadura e dosagens de concreto compatíveis com ambiente agressivo conforme a NBR 6118, esquadrias e fixações galvanizadas ou em inox onde o ambiente exige, detalhes construtivos que impedem acúmulo de umidade e um plano de manutenção preventiva entregue junto com as chaves.'
+      },
+      {
+        type: 'subheading',
+        text: 'Projetos compatibilizados, sem quebra-quebra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Arquitetônico, estrutural, hidrossanitário e elétrico conversando entre si antes da obra começar. A compatibilização de projetos elimina o clássico parede que precisa quebrar porque a tubulação passou por cima da viga — retrabalho que custa dinheiro e atrasa entrega. Menos surpresa no canteiro, mais previsibilidade no cronograma.'
+      },
+      {
+        type: 'subheading',
+        text: 'Aprovação completa sem sufoco'
+      },
+      {
+        type: 'paragraph',
+        text: 'Alvará de construção na prefeitura, licenciamento ambiental nos casos que exigem, AVCB junto ao Corpo de Bombeiros, averbação e Habite-se no fim da linha: a Regê conduz o processo inteiro, responde exigências dentro do prazo e mantém o cliente informado em cada protocolo. Quem já perdeu meses esperando documento sabe quanto vale essa gestão.'
+      },
+      {
+        type: 'subheading',
+        text: 'Obra gerida por engenheiro, não por sorte'
+      },
+      {
+        type: 'paragraph',
+        text: 'Execução com responsável técnico presente, diário de obra, checklists de qualidade por etapa, segurança do trabalho conforme as normas aplicáveis e relatórios periódicos com registro fotográfico. Cada fase só avança quando a anterior passa no controle de qualidade — e tudo fica documentado com ART registrada no CREA-SC.'
+      },
+      {
+        type: 'subheading',
+        text: 'Orçamento executivo que se sustenta até o fim'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de qualquer martelo, o cliente recebe orçamento executivo com quantitativos reais e composição de preços aberta — nada de número de estimativa que desaba na primeira compra de material. Durante a obra, compras estratégicas, medição por etapa e controle de desvios mantêm o investimento sob vigilância constante.'
+      },
+      {
+        type: 'heading',
+        text: 'Soluções para cada perfil de cliente'
+      },
+      {
+        type: 'paragraph',
+        text: 'A construção civil em Navegantes SC atende públicos muito diferentes — e cada um deles precisa de um pacote distinto de engenharia:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Quem vai morar — casa nova do zero, ampliação ou reforma completa, com entrega chave na mão e acompanhamento de ponta a ponta',
+          'Quem investe — reforma e regularização estratégica para valorizar o imóvel, reduzir vacância e proteger o retorno da locação',
+          'Comércio e serviços — adaptação e reforma comercial com alvará em dia, acessibilidade e instalações seguras para abrir as portas rápido',
+          'Indústria e logística — galpões, mezaninos, estruturas e conformidade normativa para operações no entorno do Porto e no polo de Machados',
+          'Quem herdou um problema — obra parada, construção sem Habite-se, notificação de fiscalização: diagnóstico técnico, plano de retomada e regularização completa'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'A metodologia Regê, do terreno à chave'
+      },
+      {
+        type: 'paragraph',
+        text: 'Por trás das obras entregues existe um método simples de explicar e rigoroso de executar:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Diagnóstico — visita ao terreno ou imóvel, análise da documentação e estudo de viabilidade técnica antes de qualquer compromisso',
+          'Projeto — arquitetônico e complementares desenvolvidos e compatibilizados pela mesma equipe',
+          'Aprovação — prefeitura, órgãos ambientais e bombeiros conduzidos com acompanhamento de exigências',
+          'Planejamento — cronograma físico-financeiro realista, com orçamento executivo detalhado e compras programadas',
+          'Execução — gestão diária de canteiro, qualidade por etapa, segurança do trabalho e comunicação transparente com o cliente',
+          'Entrega e pós-obra — vistoria assistida, documentação completa, Habite-se e orientação de manutenção preventiva'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que a Regê e não qualquer empreiteira'
+      },
+      {
+        type: 'list',
+        items: [
+          'Equipe técnica própria e multidisciplinar, com responsabilidade técnica formalizada via ART no CREA-SC',
+          'Vivência local de verdade: conhece o comportamento do solo, a agressividade do clima e a prática dos órgãos fiscalizadores da região',
+          'Transparência radical: orçamento aberto, relatórios periódicos e pasta digital da obra acessível ao cliente',
+          'Compromisso com prazo: cronograma conservador no papel e agressivo na gestão, com fornecedores homologados',
+          'Portfólio completo no litoral norte: residencial, comercial, industrial, laudos e regularização — um único parceiro para todo o ciclo do imóvel'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre construção civil em Navegantes SC'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa construir uma casa em Navegantes? Depende do padrão de acabamento, do terreno e do tipo de fundação que o solo pedir — em área litorânea, ignorar a fundação no orçamento é o erro clássico. A referência honesta sempre vem de um orçamento executivo sobre projeto definido; estimativa genérica de metro quadrado, sem análise do terreno, serve pouco além de ilusão inicial.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de engenheiro mesmo numa reforma pequena? Sempre que a reforma mexe com estrutura, instalações, fachada ou impermeabilização, a resposta é sim — e a ART emitida é justamente o que protege o proprietário em caso de problema. Reforma sem responsabilidade técnica transfere todo o risco para quem paga a conta.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso comprar terreno na beira do rio ou com restinga? Pode, desde que com análise prévia de viabilidade ambiental e urbanística antes de assinar o contrato. Muito lote bonito em anúncio esconde restrição séria de construção. Uma consulta técnica antes da compra custa fração do prejuízo de descobrir depois.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vale a pena começar obra no verão? Depende do planejamento. A temporada encarece mão de obra e a chuva de verão trava etapas críticas como concretagem. Com cronograma bem montado, o verão entra como fator previsto; sem ele, vira justificativa de atraso.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê constrói ou só projeta? Os dois — e também tudo o que fica no meio: projetos, aprovações, execução gerida, laudos e regularização. O cliente contrata o ciclo completo ou apenas a etapa de que precisa, com o mesmo padrão técnico.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha obra ficou parada na metade. Tem solução? Tem — e começa com diagnóstico técnico do que está de pé: estrutura, instalações, documentação. A partir dali, monta-se o plano de retomada ou reconversão e, quando necessário, a regularização junto aos órgãos. Paralisada não significa perdida.'
+      },
+      {
+        type: 'heading',
+        text: 'Construção civil em Navegantes SC com quem domina o terreno'
+      },
+      {
+        type: 'paragraph',
+        text: 'O mercado de Navegantes vai continuar crescendo — porto, turismo e valorização cuidam disso. A dúvida não é se vale construir na cidade, é com quem construir para que a obra vire patrimônio e não dor de cabeça. A Regê Engenharia une conhecimento profundo do litoral norte catarinense, equipe técnica própria e metodologia comprovada para entregar obras que respeitam solo, clima, legislação e orçamento. Se você tem um terreno em vista, um projeto engavetado ou uma situação irregular, fale com nossa equipe e descubra o caminho mais curto entre a sua ideia e as chaves na mão.'
+      }
+    ]
+  },
+  {
+    slug: 'laudos-de-engenharia-navegantes-rege-solucao',
+    title: 'Laudos de Engenharia em Navegantes: Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'LAUDOS',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Laudos de engenharia em Navegantes SC - engenheiro da Regê Engenharia realiza vistoria técnica com instrumentos e registro fotográfico datado para laudo com ART no CREA-SC.',
+    excerpt: 'Infiltração, trinca, obra do vizinho, venda travada ou notificação fiscal: o laudo de engenharia é a prova técnica que resolve. Veja quais situações pedem laudo em Navegantes, o que separa um documento que resolve de um papel inútil e como o método em 5 etapas da Regê Engenharia entrega solução com ART no CREA-SC.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Mancha de infiltração que aparece no teto, trinca que cresce na parede da sala, briga com o vizinho por causa da obra ao lado, imóvel para vender e ninguém sabe o valor real, notificação da prefeitura, exigência do banco, processo judicial. Em Navegantes, cidade que mais cresce no litoral catarinense, essas situações aparecem todos os dias — e todas têm uma resposta em comum: o laudo de engenharia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema é que a maioria das pessoas descobre o valor de um laudo tarde demais — quando a disputa já começou, a seguradora negou o pedido ou a venda travou. E, nesse momento de urgência, acaba contratando quem aparecer, recebendo muitas vezes um "laudo" sem vistoria, sem método e sem validade. Este guia mostra quais situações pedem laudo, o que separa um documento que resolve de um papel inútil e como a Regê Engenharia transforma seu problema técnico em solução documentada.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que Navegantes é um caso à parte'
+      },
+      {
+        type: 'list',
+        items: [
+          'Maresia e salinidade — corroem armaduras e provocam manchas, desplacamentos e eflorescência: pedem laudo de patologia e inspeção predial',
+          'Solo arenoso e lençol freático alto — geram recalques e trincas em pilares e alvenarias: pedem laudo estrutural',
+          'Crescimento imobiliário acelerado — obras coladinass, vibrações e danos entre vizinhos: pedem vistoria cautelar e laudo de danos',
+          'Condomínios em expansão — vazamentos entre pavimentos e responsabilidade sobre áreas comuns: pedem laudo de infiltração',
+          'Mercado aquecido de compra e venda — financiamento, inventário e avaliação: pedem laudo pela NBR 14653',
+          'Porto e indústria — conformidade exigida em máquinas, elétrica e altura: pedem laudos NR-12, NR-10 e NR-35'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Em Navegantes, laudo não é eventualidade — é ferramenta recorrente de proteção patrimonial. Quem tem o engenheiro certo antes do problema economiza tempo, dinheiro e tribunal.'
+      },
+      {
+        type: 'heading',
+        text: 'Situações que pedem um laudo de engenharia'
+      },
+      {
+        type: 'list',
+        items: [
+          'Infiltração ou vazamento — identificar a origem da água e quem deve pagar a reparação',
+          'Trincas e rachaduras — saber se são estéticas ou sinal de problema estrutural',
+          'Obra do vizinho — registrar o estado antes (vistoria cautelar) e provar danos depois',
+          'Compra, venda ou financiamento — determinar valor de mercado com metodologia reconhecida',
+          'Inventário, herança ou divórcio — partilhar com base em valor técnico, não em palpite',
+          'Notificação fiscal ou embargo — comprovar conformidade ou plano de correção',
+          'Auditoria de cliente ou seguro empresarial — laudos NR-12, NR-10 e NR-35 vigentes',
+          'Dúvida antes de investir — avaliar terreno ou imóvel antes de assinar contrato'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que separa um laudo que resolve de um papel inútil'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vistoria in loco documentada — fotos datadas, medições e registro das condições reais; nada de conclusão escrita de escritório',
+          'Metodologia declarada — qual norma foi seguida e como a análise foi conduzida',
+          'Fundamentação — cada conclusão amarrada a norma, cálculo ou evidência, não a impressão',
+          'Conclusão objetiva — resposta direta à pergunta do caso, com causa e recomendação',
+          'ART registrada no CREA-SC — sem anotação de responsabilidade técnica, o documento não vale nada',
+          'Linguagem clara — entendível pelo síndico, comprador, advogado e juiz',
+          'Estrutura para resistir a contestação — laudo bom é o que sobrevive à parte contrária'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Laudo barato feito sem vistoria custa caro duas vezes — quando for contestado e quando tiver que ser refeito com prazo curto.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia resolve: o método em 5 etapas'
+      },
+      {
+        type: 'subheading',
+        text: '1. Escuta do caso e definição do objetivo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo laudo nasce de uma pergunta. Antes da visita, definimos qual decisão o documento vai sustentar: provar dano? Fixar preço? Atender fiscalização? O objetivo define o tipo de laudo, a profundidade da análise e as evidências necessárias — evitando pagar por escopo errado.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Vistoria técnica com evidências'
+      },
+      {
+        type: 'paragraph',
+        text: 'Visita agendada com exame in loco: registro fotográfico datado, medições instrumentais (fissurômetro, umidade, nível), ensaios quando necessário e entrevista com quem convive com o problema.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Diagnóstico com fundamento normativo'
+      },
+      {
+        type: 'paragraph',
+        text: 'As evidências são analisadas contra as normas aplicáveis — ABNT, NRs e código de obras municipal. É aqui que a causa raiz aparece, e não apenas o sintoma: infiltração raramente é "do teto" e pode vir de fachada, laje, tubulação ou condensação, mudando completamente o responsável e a solução.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Laudo claro, com conclusão e recomendações'
+      },
+      {
+        type: 'paragraph',
+        text: 'Documento estruturado com objetivo, metodologia, descrição fotográfica, análise técnica, conclusão respondendo diretamente à pergunta e recomendações priorizadas — linguagem acessível para o leigo, rigor suficiente para o juiz.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Entrega com ART e suporte posterior'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo chega com ART registrada no CREA-SC, pronto para banco, cartório, seguradora, prefeitura, MTE ou juízo. E não entregamos e desaparecemos: questionamento da parte contrária, esclarecimento de fiscal ou complementação têm resposta da nossa equipe.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a Regê e não um laudo genérico'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vistoria sempre in loco — com evidências datadas, não fotos enviadas por mensagem',
+          'ART no CREA-SC em cada serviço — responsabilidade técnica registrada',
+          'Método declarado — normas citadas, não opinião disfarçada de parecer',
+          'Conhecimento local — solo arenoso, maresia, código de obras e prática da Prefeitura de Navegantes',
+          'Equipe multidisciplinar — estrutura, instalações, segurança do trabalho e meio ambiente na mesma casa',
+          'Fluxo expresso para urgência — fiscalização, audiência ou negociação com prazo curto',
+          'Suporte pós-entrega — resposta a contestações e esclarecimentos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Problemas reais que viram laudo resolvido'
+      },
+      {
+        type: 'paragraph',
+        text: 'Mancha no teto do apartamento térreo: o laudo de infiltração apontou tubulação entupida no pavimento superior e o síndico cobrou do responsável certo. Trinca diagonal em casa a três quadras da praia: o laudo identificou corrosão por maresia e a intervenção preventiva evitou dano progressivo. Venda travada no Meia Praia: o laudo de avaliação pela NBR 14653 destravou o negócio. Escavação do vizinho colada no muro: a vistoria cautelar anterior provou o nexo quando a rachadura surgiu. Máquina sem proteção encontrada pela fiscalização: laudo NR-12 com plano por prioridade regularizou sem interdição. Inventário familiar parado: o laudo de avaliação liberou a partilha no cartório.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre laudos de engenharia em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de laudo mesmo para problema pequeno? Se a dúvida envolve dinheiro, responsabilidade ou segurança, sim. Mancha pequena hoje é disputa de milhares amanhã — e sem registro técnico inicial fica impossível provar causa e época.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem pode emitir laudo de engenharia? Somente profissional habilitado e registrado (CREA/CAU), com ART. Relatório de corretor, parecer de mestre de obras ou laudo autodeclarado não têm valor técnico nem legal.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O laudo vale em juízo? Um laudo particular bem fundamentado serve como prova documental e orienta acordos; em processo judicial, embasa ou antecipa a perícia. Para ações específicas, atuamos também como assistente técnico do seu advogado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva a vistoria? Casas e apartamentos: 1 a 2 horas em geral. Empresas e galpões: meia jornada a dia inteiro conforme escopo. Existe fluxo expresso para urgência de fiscalização ou audiência.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Atendem Itajaí, Balneário Camboriú e Penha? Sim. A Regê Engenharia atende Navegantes e todo o Litoral Norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'Inspeção predial em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não espere a trinca atravessar a sala. A Regê Engenharia realiza inspeções prediais com laudo técnico completo, plano de manutenção e ART no CREA-SC, atendendo Navegantes, Itajaí, Balneário Camboriú, Penha, Porto Belo e região. Entre em contato e proteja seu patrimônio antes que o problema escolha a data.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-indeferido-prefeitura-navegantes',
+    title: 'Por Que Projetos São Indeferidos na Prefeitura? Entenda a Análise Técnica e Como Aprovar na Primeira Tentativa',
+    tag: 'PROJETOS',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Análise técnica de projeto de construção na prefeitura - plantas, pareceres com exigências e documentação para aprovação em Navegantes SC.',
+    excerpt: 'Projeto devolvido com lista de exigências é o maior causador de atraso em obras. Descubra o que o analista verifica nos bastidores da prefeitura de Navegantes, os motivos mais comuns de indeferimento e como aprovar sem ciclos de pendências.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'O protocolo foi aberto, as plantas foram entregues, e a expectativa era uma só: começar a construir. Semanas depois, volta o resultado - deferido com exigências, ou pior, indeferido. Uma lista de apontamentos técnicos que ninguém sabe exatamente como resolver, um projeto que precisa voltar para a prancheta e um cronograma de obra que desanda. Em Navegantes, esse ciclo de idas e vindas com a prefeitura é o maior causador individual de atraso em obras residenciais e comerciais. E quase sempre tem a mesma origem: alguém submeteu o projeto sem entender como funciona, de verdade, a análise técnica por trás da aprovação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo abre os bastidores desse processo. Você vai entender o que o analista da prefeitura verifica linha por linha, por que projetos são devolvidos, quanto tempo cada erro custa e o checklist que separa quem aprova na primeira tentativa de quem passa meses preso no ciclo de pendências.'
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona a análise técnica na prática'
+      },
+      {
+        type: 'paragraph',
+        text: 'Do outro lado do balcão digital, o processo é muito mais estruturado do que parece. Ao receber o protocolo, a equipe técnica da prefeitura não olha o projeto como um todo bonito: ela executa uma sequência de verificações objetivas, cada uma amparada em lei municipal, código de obras e normas técnicas. É uma auditoria - completa, documentada e impessoal.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Conferência documental: matrícula ou certidão atualizada do imóvel, documentos do proprietário e do responsável técnico, ART ou RRT válida e compatível com o projeto apresentado',
+          'Verificação urbanística: zoneamento e parâmetros do Plano Diretor para aquele lote específico - uso permitido, taxa de ocupação, taxa de permeabilidade, recuos, gabarito e afastamentos',
+          'Análise do código de obras: dimensionamento de ambientes, pé-direito, ventilação e iluminação naturais, estacionamentos, acessibilidade e segurança',
+          'Compatibilização entre plantas: arquitetônico, estrutural, hidrossanitário e elétrico precisam contar exatamente a mesma história - mesma geometria, mesmas cotas, mesmos ambientes',
+          'Cálculo de áreas computáveis e não computáveis: garagens, varandas e sacadas entram na conta conforme regras municipais específicas, e erro aqui derruba toda a análise',
+          'Projetos complementares obrigatórios: drenagem pluvial, proteção contra incêndio quando aplicável e adequações exigidas pela localização do lote'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se qualquer uma dessas verificações falha, o projeto volta. Não é má vontade nem rigor excessivo: é consequência mecânica de regras publicadas que o projeto descumpriu - ou de informação incompleta para comprovar que cumpriu.'
+      },
+      {
+        type: 'quote',
+        text: 'A prefeitura não rejeita projetos por rigor: rejeita informação incompleta, conflito entre plantas e descumprimento de regras que já eram públicas antes da primeira folha ser desenhada.'
+      },
+      {
+        type: 'heading',
+        text: 'Os motivos mais comuns de indeferimento'
+      },
+      {
+        type: 'subheading',
+        text: '1. Descumprimento dos parâmetros urbanísticos do lote'
+      },
+      {
+        type: 'paragraph',
+        text: 'É o campeão absoluto. Projeto desenhado antes de consultar o zoneamento: taxa de ocupação estourada, recuo frontal ignorado, área impermeável acima do permitido, gabarito além do previsto para a quadra, uso não admitido naquela zona. Cada parâmetro vem do Plano Diretor e do código de obras de Navegantes - e nenhum deles se negocia no balcão. A solução nunca é insistir: é redesenhar dentro das regras ou, quando possível, buscar instrumentos legais adequados, o que custa tempo e dinheiro.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Incompatibilidade entre os projetos complementares'
+      },
+      {
+        type: 'paragraph',
+        text: 'A planta arquitetônica mostra um pilar; a estrutural coloca ele meio metro adiante. O hidráulico prevê um banheiro; o elétrico esqueceu os pontos dele. O analista compara planta por planta, e qualquer divergência vira exigência. Projetos feitos por profissionais diferentes que não conversam entre si são a segunda maior causa de devolução - e a mais frustrante, porque o erro não está em nenhuma planta isoladamente, mas na falta de integração entre elas.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Documentação incompleta, vencida ou inconsistente'
+      },
+      {
+        type: 'paragraph',
+        text: 'Matrícula antiga que não reflete a última averbação, certidão de IPTU desatualizada com área divergente do projeto, ART emitida com atribuição errada ou valor divergente, procuração sem firma reconhecida, nome grafido diferente entre documentos. Parece burocracia menor, mas cada item faltante trava a análise inteira - e alguns, como divergência de área entre matrícula e projeto, abrem questões que levam semanas para resolver.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Erros formais nas peças gráficas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Escalas ausentes ou incorretas, cotas incompletas, carimbos sem assinatura do responsável técnico, memoriais descritivos genéricos copiados de outro projeto, cortes que não passam pelos ambientes-chave, legendas inconsistentes. O analista precisa conseguir medir e conferir tudo o que vê - quando a representação falha, a exigência volta, mesmo que a solução construtiva esteja correta.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Cálculo de áreas computáveis feito errado'
+      },
+      {
+        type: 'paragraph',
+        text: 'Varanda coberta computa? Garagem entra na taxa de ocupação? A resposta depende da regra municipal vigente, muda por tipo de edificação e é conferida número por número. Projetos que chegam com área total divergente da soma verificada pelo próprio analista geram exigência imediata - e, quando o erro compromete os índices urbanísticos, obrigam ao redesenho completo.'
+      },
+      {
+        type: 'subheading',
+        text: '6. Falta de projetos complementares obrigatórios'
+      },
+      {
+        type: 'paragraph',
+        text: 'Dependendo do porte, do uso e da localização, Navegantes pode exigir projeto de drenagem pluvial, soluções de acessibilidade detalhadas, proteção contra incêndio articulada com o Corpo de Bombeiros ou estudos complementares para lotes em áreas sensíveis. Protocolar só o projeto arquitetônico onde o pacote completo é exigido garante a devolução na primeira análise.'
+      },
+      {
+        type: 'heading',
+        text: 'O ciclo de pendências: quanto cada erro custa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Entender o custo real do indeferimento exige olhar o calendário. Atendidas as exigências, o processo retorna à fila e aguarda nova análise como qualquer protocolo - ou seja, o prazo de análise começa praticamente de novo. Um único ciclo de pendências consome semanas; três ou quatro ciclos, situação comum quando o responsável técnico atende as exigências parcialmente, transformam um mês de tramitação em seis. Some o retrabalho dos profissionais envolvidos, o aluguel pago enquanto a obra não começa e o preço da construção que sobe todos os meses, e o projeto mal preparado fica mais caro do que qualquer economia feita na contratação.'
+      },
+      {
+        type: 'heading',
+        text: 'Checklist para aprovar na primeira tentativa'
+      },
+      {
+        type: 'list',
+        items: [
+          'Antes de desenhar: levantar zoneamento, parâmetros urbanísticos e restrições do lote específico junto à prefeitura - nunca partir de planta de outra cidade ou de vizinho',
+          'Emitir certidão atualizada de matrícula e de IPTU e conferir se as áreas batem com o que será projetado',
+          'Contratar todos os projetos de um mesmo time, com compatibilização interna garantida antes do protocolo',
+          'Conferir ART/RRT com atribuição e valores corretos para cada disciplina envolvida',
+          'Rodizar um checklist interno de peças: plantas, cortes, fachadas, situação, memorial descritivo, escalas, cotas, assinaturas e carimbos',
+          'Calcular áreas computáveis segundo a regra municipal vigente, não segundo hábito de outros municípios',
+          'Incluir desde o início os projetos complementares exigidos para o porte e o uso da edificação',
+          'Responder exigências de forma completa na primeira devolutiva - resposta parcial reinicia a fila com novas pendências'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que isso pesa mais ainda em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes vive expansão imobiliária acelerada - orla valorizada, Meia Praia e Gravatá em pleno crescimento, porto em ampliação. Volume alto de protocolos significa filas de análise mais longas, o que torna cada ciclo de pendências proporcionalmente mais caro. Somam-se particularidades locais que pedem atenção extra: regras específicas para faixas junto à orla, lotes em áreas sujeitas a inundação com cotas e cuidados próprios, presença de áreas de preservação e manguezais que condicionam o que se pode construir, e um código de obras municipal que evolui junto com o crescimento da cidade. Quem protocola em Navegantes com experiência de outra cidade costuma descobrir, na forma de exigências, tudo aquilo que era diferente aqui.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia aprova projetos sem sustos'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia conduz aprovações de projetos na Prefeitura de Navegantes e na região com método pensado exatamente para eliminar o ciclo de pendências:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Estudo de viabilidade prévio: antes de projetar, levantamos zoneamento, parâmetros e restrições do lote para definir o que dá para construir - e o melhor caminho legal para isso',
+          'Equipe multidisciplinar interna: arquitetura, estrutura, hidráulica e elétrica compatibilizados antes do protocolo, não depois da primeira exigência',
+          'Protocolo completo de primeira vez: documentação, peças gráficas e projetos complementares reunidos conforme o checklist municipal',
+          'Monitoramento do processo: acompanhamento do andamento na prefeitura e resposta rápida e completa a qualquer exigência',
+          'Integração com bombeiros e cartório: quando o fluxo exige aprovação de incêndio e averbação, tudo acontece em paralelo planejado, não em fila separada',
+          'ART registrada no CREA-SC e responsabilidade técnica assumida de ponta a ponta'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Vai construir ou reformar em Navegantes? Fale com a equipe da Regê Engenharia antes de protocolar. Um estudo de viabilidade bem feito transforma meses de incerteza em um cronograma com data marcada para o alvará.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre indeferimento de projetos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto indeferido pode ser reapresentado? Sim. Na maioria dos casos o mesmo protocolo segue com atendimento das exigências; em indeferimentos definitivos, é preciso verificar os prazos e eventuais recursos administrativos previstos na legislação municipal. O importante é atender todas as pendências de uma vez - respostas parciais prolongam o ciclo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Dá para construir enquanto o projeto está em análise? Não. Construir sem alvará expõe o proprietário a multa, embargo da obra e até demolição do que foi erguido irregularmente. Existe a possibilidade de aprovação prévia em algumas situações, mas ela depende de análise formal - nunca de decisão própria.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem responde pelas exigências: o dono da obra ou o engenheiro? A correção técnica é responsabilidade do profissional habilitado que assina o projeto, com sua ART. Por isso a escolha do responsável técnico define se as exigências voltam completas e corretas ou em gotejamento, cada uma custando uma nova fila de espera.'
+      },
+      {
+        type: 'heading',
+        text: 'Laudos de engenharia em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você chegou até aqui com um problema em mãos — mancha, trinca, disputa, notificação, venda travada ou exigência normativa — o próximo passo é definir a pergunta certa e produzir o documento que responde a ela com força legal. A Regê Engenharia une equipe multidisciplinar de engenharia civil, conhecimento profundo das condições do litoral catarinense e rigor documental com ART em todos os serviços, de Navegantes a Balneário Camboriú. Fale com nossa equipe e transforme seu problema técnico em solução documentada.'
+      }
+    ]
+  },
+  {
+    slug: 'projetos-residenciais-navegantes-rege-engenharia',
+    title: 'Projetos Residenciais em Navegantes: Como a Regê Engenharia Transforma seu Terreno em Casa Entregue',
+    tag: 'PROJETOS',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Projetos residenciais em Navegantes SC — engenheiros da Regê Engenharia analisando plantas, projeto 3D e maquete de casa unifamiliar para aprovação e construção no litoral catarinense.',
+    excerpt: 'Terreno comprado é só o começo. Veja por que construir em Navegantes exige projeto à altura do litoral (solo arenoso, maresia, vento, LC 416), o que compõe um pacote completo de projetos, quanto custa e como a Regê Engenharia conduz tudo — do briefing ao Habite-se.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Construir a casa própria em Navegantes — com praias como Meia Praia, Gravatá e São Domingos, aeroporto internacional e valorização imobiliária contínua — é o projeto de vida de milhares de famílias e veranistas. Mas entre o terreno comprado e as chaves na mão existe uma sequência técnica que decide tudo: o projeto residencial. Projeto bem feito economiza mais do que custa; projeto ausente gera reprovação na prefeitura, retrabalho, trincas por fundação inadequada e um imóvel que vale menos na venda.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que construir em Navegantes é diferente'
+      },
+      {
+        type: 'list',
+        items: [
+          'Solo arenoso e argilas moles perto de mangues — exigem sondagem SPT e fundação dimensionada; recalque diferencial racha parede',
+          'Maresia até 2 km da orla — concreto de alta resistência com cobrimento de armadura reforçado (NBR 6118) e metais inox/alumínio',
+          'Vento litorâneo com velocidade básica de 30 a 35 m/s — coberturas e envidraçados calculados para pressão e sucção (NBR 6123)',
+          'Chuvas intensas sobre solo arenoso — drenagem pluvial completa conforme NBR 10844',
+          'Pressão variável da rede CASAN — reservatório adequado e pressurização quando necessário (NBR 5626)',
+          'Legislação municipal própria (LC 416/2021 + código de obras) — recuos, taxa de ocupação e gabarito exatos para aprovar'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Construir igualzinho ao interior é o erro número um de quem chega ao litoral: a casa que funcionaria no planalto precisa de outro concreto, outra fundação e outra drenagem em Navegantes.'
+      },
+      {
+        type: 'heading',
+        text: 'O preço real de construir sem projeto profissional'
+      },
+      {
+        type: 'list',
+        items: [
+          'Reprovação na prefeitura por planta fora da lei — meses parado, projeto refeito e multa por obra sem alvará',
+          'Fundação sem sondagem em solo arenoso — trincas e reforço estrutural caro depois de pronto',
+          'Sem projeto elétrico e hidráulico — gambiarras no olho, pontos trocados e parede quebrada duas vezes',
+          'Orçamento sem memória de cálculo — estimativa baixa vira obra parada no meio, com custo final 20% a 40% acima',
+          'Casa desconfortável — calor, umidade e barulho que derrubam o valor de revenda',
+          'Sem ART e responsável técnico — sem seguro, sem financiamento liberado e passivo na regularização'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Regra simples: o pacote completo de projetos custa de R$ 80 a R$ 200 por m² construído — corrigir erro de execução custa de 3 a 10 vezes mais.'
+      },
+      {
+        type: 'heading',
+        text: 'O que compõe um projeto residencial completo (padrão Regê)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto arquitetônico — estudo do terreno, plantas, cortes, fachadas e perspectiva 3D fotorrealista para ver a casa antes de construir',
+          'Projeto estrutural (NBR 6118) — fundações, pilares, lajes, vigas e escadas calculadas',
+          'Hidrossanitário (NBR 5626) — água fria e quente, esgoto e reservatórios dimensionados',
+          'Elétrico e telecomunicações (NBR 5410) — quadros, circuitos, iluminação, tomadas e infraestrutura de fibra',
+          'Drenagem pluvial (NBR 10844) — captação, condutores e destino final',
+          'Documentação de aprovação — planta aprovável conforme LC 416/2021, protocolo na prefeitura e acompanhamento até o alvará',
+          'Orçamento executivo e cronograma — quantitativos reais item a item e físico-financeiro fase a fase'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Compatibilização é a palavra-chave: os cinco projetos conversam entre si antes da obra começar — viga não atravessa shaft hidráulico, tomada não nasce atrás do armário embutido e caixa de água tem base estrutural calculada.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê conduz: do sonho às chaves'
+      },
+      {
+        type: 'list',
+        items: [
+          'Briefing e visita ao terreno — família, rotina, orçamento e análise presencial do lote; escopo fechado e realista',
+          'Concepção arquitetônica — layout funcional com 3D fotorrealista para você aprovar antes de gastar',
+          'Projetos complementares compatibilizados em equipe — estrutural, hidráulico, elétrico e drenagem num pacote único, sem conflito',
+          'Aprovação na prefeitura — montagem processual conforme legislação de Navegantes, protocolo e resposta a exigências até o alvará',
+          'Execução com acompanhamento — fiscalização periódica, conferência de serviços, medições e relatórios fotográficos',
+          'Habite-se e entrega — regularização final e pasta completa da casa junto com as chaves'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Diferencial decisivo: quem projeta também acompanha a execução. Quando o mesmo time desenha e fiscaliza, o desenho sai do papel exatamente como foi pensado — sem interpretações arriscadas no canteiro.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a Regê é a solução em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Equipe multidisciplinar local — engenharia civil, projetos complementares e gestão de obra sob um contrato só, com um interlocutor',
+          'Conhecimento normativo da cidade — LC 416/2021, código de obras e prática real do setor de aprovação local',
+          'Projetos pensados para o litoral — concreto, cobrimentos, drenagem e esquadrias especificados contra a maresia desde a primeira prancha',
+          'Transparência de custos — orçamento analítico que você entende linha a linha, sem surpresa no meio da obra',
+          'ART em todos os serviços — registro no CREA-SC que garante seguro, financiamento bancário e valorização do imóvel',
+          'Atendimento regional completo — Navegantes, Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras e Barra Velha'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quanto investir (referências 2025/2026)'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto arquitetônico residencial — R$ 50 a R$ 150/m² construído',
+          'Projeto estrutural — R$ 20 a R$ 60/m²',
+          'Projetos elétrico e hidrossanitário — R$ 5 a R$ 15/m² cada',
+          'Pacote completo de projetos — R$ 80 a R$ 200/m²',
+          'Construção residencial padrão litoral — R$ 2.200 a R$ 4.000/m² executado',
+          'Aprovação e acompanhamento de obra — orçados após briefing e visita ao terreno'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Começar os projetos agora é o que garante alvará na mão na janela certa para construir — especialmente se o plano é morar ou alugar na próxima temporada de alta. Da concepção à aprovação somam-se tipicamente 2 a 3 meses; a execução de uma casa padrão de 150 a 250 m² leva de 10 a 18 meses.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre projetos residenciais'
+      },
+      {
+        type: 'paragraph',
+        text: 'Já tenho a planta de um desenhista, serve? Depende: planta bonita sem projetos complementares não aprova, não orça e não constrói com segurança. Avaliamos o que você tem e completamos o que falta.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de arquiteto e engenheiro? O arquiteto define forma e função; o engenheiro estrutura, instala e legaliza. Na Regê, a coordenação integrada resolve isso num contrato só.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quando devo começar? Idealmente 6 a 12 meses antes da data desejada para morar, somando concepção, aprovação e construção. Quem começa tarde constrói apressado — e obra apressada é obra cara.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto serve para financiar a construção? Sim. Bancos exigem projeto aprovado, orçamento analítico e ART do responsável — entregamos a pasta completa para o financiamento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Meu terreno é em Itajaí, Penha ou Balneário Camboriú. Atendem? Sim — atendemos todo o Litoral Norte de Santa Catarina, com conhecimento das legislações municipais de cada cidade.'
+      },
+      {
+        type: 'heading',
+        text: 'Seu projeto residencial com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia une concepção arquitetônica, projetos complementares compatibilizados, aprovação na prefeitura, orçamento executivo transparente e acompanhamento de obra num serviço só — sempre com ART registrada no CREA-SC e soluções especificadas contra maresia, vento e solo do litoral. Do sonho às chaves, com um time, um contrato e um responsável técnico do início ao fim. Fale com nossa equipe e agende a visita ao seu terreno.'
+      }
+    ]
+  },
+  {
+    slug: 'projetos-comerciais-navegantes-solucao-rege',
+    title: 'Projetos Comerciais em Navegantes: Como Tirar Seu Empreendimento do Papel com a Regê Engenharia',
+    tag: 'PROJETOS',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Projetos comerciais em Navegantes SC — engenheiros da Regê Engenharia desenvolvem projeto de empreendimento comercial no litoral catarinense, com plantas técnicas e acompanhamento de obra.',
+    excerpt: 'Loja, restaurante, escritório, galpão ou pousada: projeto comercial em Navegantes envolve acessibilidade, PPCI, vigilância sanitária e aprovação municipal — e cada etapa atrasada é faturamento perdido. Entenda o que muda em um projeto comercial, as etapas até abrir as portas e como a Regê Engenharia conduz tudo em um só lugar.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, cada mês sem abrir as portas é faturamento que não volta. O comércio acompanha o crescimento da cidade — o movimento do Porto, o turismo de Meia Praia e da orla, os bairros que ganham população a cada ano — mas quem já tentou montar um ponto comercial aqui sabe: entre a ideia e a chave na fechadura existe um caminho técnico que trava negócios inteiros quando é mal conduzido.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A diferença entre um empreendimento comercial que abre no prazo e um que fica meses parado quase nunca é sorte: é projeto bem feito e processo bem gerenciado. Este guia explica o que torna um projeto comercial diferente, quais etapas levam o empreendimento do papel à operação em Navegantes, onde estão as armadilhas que atrasam a abertura e como a Regê Engenharia resolve cada uma delas.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é um projeto comercial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto comercial é o conjunto técnico que transforma um imóvel ou terreno em um espaço apto a operar uma atividade econômica: loja, restaurante, cafeteria, escritório, clínica, farmácia, supermercado, galpão logístico, posto, hotel ou pousada. Ele vai muito além da planta bonita da fachada — reúne arquitetura, estrutura, instalações, segurança, acessibilidade e adequação legal para aquele uso específico.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto arquitetônico — layout funcional, fachada, fluxo de clientes, estacionamento e conformidade urbanística',
+          'Projeto estrutural — fundação e superestrutura dimensionadas para as cargas do uso (estoque, mezanino, equipamentos)',
+          'Instalações — elétrica com carga compatível, hidrossanitária, gás e climatização',
+          'Prevenção contra incêndio — projeto de PPCI dimensionado pela carga incêndio do uso comercial',
+          'Acessibilidade — rotas, sanitários e vagas conforme a NBR 9050, obrigatória em estabelecimentos abertos ao público',
+          'Adequação sanitária — para alimentos e saúde: cozinha, câmara fria, fluxo sujo/limpo e acabamentos exigidos pela vigilância'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que projeto comercial não é projeto residencial maior'
+      },
+      {
+        type: 'list',
+        items: [
+          'Uso determina tudo — carga de incêndio, vazão de esgoto, demanda elétrica e vagas de estacionamento são calculadas pela atividade, não pela metragem',
+          'Acessibilidade é lei — estabelecimento público sem rota acessível fica impedido de funcionar e responde a multas',
+          'Fluxo operacional — cozinha, recebimento de mercadoria e atendimento precisam conversar; layout errado vira custo permanente de produtividade',
+          'Licenças em cascata — além do alvará de construção, muitos usos dependem de alvará sanitário, licença ambiental e autorização dos bombeiros para operar',
+          'Padrão construtivo — piso, revestimento e ventilação de área comercial ou alimentar seguem especificações próprias que residência não exige'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Obra comercial parada custa duas vezes: a obra parada em si e o faturamento que deveria estar entrando. Projeto mal feito cobra juros todos os dias até a abertura.'
+      },
+      {
+        type: 'heading',
+        text: 'As etapas de um projeto comercial em Navegantes'
+      },
+      {
+        type: 'heading',
+        text: '1. Viabilidade: antes de assinar contrato de locação ou compra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Primeira pergunta técnica: aquela atividade pode funcionar naquele endereço? Zoneamento, Lc 416 e código de posturas respondem isso — e a resposta muda de rua para rua em Navegantes. A viabilidade cruza uso pretendido, lote, estacionamento exigido e restrições ambientais (o litoral cobra atenção extra com APP e faixa de maré). Feita antes do contrato, evita alugar um imóvel onde o negócio simplesmente não pode existir.'
+      },
+      {
+        type: 'heading',
+        text: '2. Projetos: arquitetura + complementares compatibilizados'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com a viabilidade confirmada, desenham-se arquitetura, estrutural, elétrica, hidráulica e segurança contra incêndio. O ponto crítico aqui é a compatibilização: a exaustão da cozinha precisa de lugar na fachada, o quadro de energia precisa de espaço previsto, a câmara fria precisa de estrutura e dreno. Projetos desenhados separadamente se contradizem — e a prefeitura percebe.'
+      },
+      {
+        type: 'heading',
+        text: '3. Aprovações: prefeitura, bombeiros e vigilância sanitária'
+      },
+      {
+        type: 'list',
+        items: [
+          'Prefeitura de Navegantes — protocolo, análise do setor de planejamento/obras, parecerias e alvará de construção',
+          'Corpo de Bombeiros (CBMSC) — aprovação do PPCI, etapa separada e obrigatória para uso comercial',
+          'Vigilância sanitária — para alimentação, saúde e beleza: plantas e fluxos operacionais específicos',
+          'Licenciamento ambiental — quando porte ou atividade exigirem, junto ao IMA-SC ou município'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '4. Execução: obra com controle técnico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Obra comercial tem prazo contratual, lojista esperando data e às vezes franquia padronizando acabamento. Execução profissional significa cronograma cumprido, medições justificadas, fornecedores homologados e ART de execução registrada — sem improviso que comprometa a vistoria final.'
+      },
+      {
+        type: 'heading',
+        text: '5. Encerramento: habite-se e alvará de funcionamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'Terminada a obra, vistoria municipal, habite-se (ou certidão de conclusão) e, por fim, o alvará de funcionamento do estabelecimento. É a etapa mais esquecida no planejamento — e a que depende de todas as anteriores terem sido feitas certo.'
+      },
+      {
+        type: 'heading',
+        text: 'Os erros que mais atrasam aberturas comerciais em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Assinar locação antes da viabilidade — descobrir depois que o zoneamento não permite aquela atividade',
+          'Subestimar a acessibilidade — reforma de rota acessível depois da obra pronta custa múltiplos do valor de fazer certa no projeto',
+          'PPCI deixado para o final — projeto de incêndio remendado em obra pronta gera demolição e retrabalho',
+          'Cozinha sem fluxo sanitário — vigilância reprova e obriga reconstruir acabamentos e instalações',
+          'Carga elétrica subdimensionada — climatização e equipamentos profissionais pedem projeto real, não "um quadro a mais"',
+          'Estacionamento insuficiente — exigência municipal que inviabiliza o alvará mesmo com obra pronta'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia conduz seu projeto comercial'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia assume o ciclo completo do empreendimento comercial em Navegantes e no Litoral Norte:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Viabilidade prévia — análise de zoneamento, lote e exigências antes de você assumir compromisso com o imóvel',
+          'Projeto completo — arquitetônico, estrutural, elétrico, hidrossanitário e PPCI desenvolvidos e compatibilizados pelo mesmo time',
+          'Processo inteiro aprovado — protocolo, resposta às parecerias e acompanhamento junto a prefeitura, CBMSC, vigilância e IMA-SC até a última licença',
+          'Execução com prazo sério — obra administrada por nossa equipe, com cronograma, medições e padrão de acabamento comercial',
+          'Abertura documentada — habite-se e alvará de funcionamento conquistados com a mesma responsabilidade técnica do primeiro dia, sempre com ART no CREA-SC'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre projetos comerciais em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vou alugar uma sala pronta, ainda preciso de projeto? Na maioria dos casos sim: mudança de uso, adaptação de layout, acessibilidade e PPCI são necessários para obter o alvará de funcionamento — mesmo que a obra física seja pequena.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva do projeto à abertura? Depende do porte e do uso: pontos comerciais adaptados em imóvel regular costumam levar semanas; construções novas com licenciamento completo levam meses. O cronograma real sai da viabilidade — e o principal fator de atraso é sempre refazer o que saiu errado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês projetam para franquia com manual próprio? Sim. Adaptamos o manual de padronização da franquia à legislação local e ao imóvel — conciliação que exige experiência técnica das duas partes.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Meu imóvel é antigo, dá para adaptar? Na maioria dos casos, com soluções projetivas adequadas. A viabilidade técnica aponta o que precisa ser ajustado em estrutura, acessibilidade e instalações antes de assumir o investimento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa um projeto comercial? Depende da área, do uso e das licenças envolvidas. A proposta da Regê detalha escopo, etapas e valores antes de começar — orçamento fechado é parte do serviço.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Reformas também precisam passar pela análise da prefeitura? Depende do porte e do tipo de intervenção. Reformas internas sem alteração de estrutura, fachada ou área costumam ter fluxo simplificado, mas ampliações, mudanças de uso e intervenções estruturais exigem aprovação como qualquer obra nova. A avaliação correta do enquadramento já faz parte do projeto bem feito.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva a aprovação quando o projeto vem certo? Com protocolo completo e sem pendências, a tramitação segue os prazos oficiais de análise da prefeitura - e é neles que termina. Os ciclos de exigência são justamente o que fica fora desse prazo, motivo pelo qual aprovar na primeira tentativa é o único caminho previsível.'
+      }
+    ]
+  },
+  {
+    slug: 'engenharia-civil-navegantes-sc-problemas-e-solucoes',
+    title: 'Engenharia Civil em Navegantes SC: Os Problemas que Derrubam Obras no Litoral - e Como a Regê Engenharia Resolve Cada Um',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Obra residencial conduzida com gestão de engenharia civil completa pela Regê Engenharia em Navegantes SC, do projeto à entrega das chaves.',
+    excerpt: 'Solo arenoso, maresia, chuva intensa, burocracia municipal e custo fora de controle: conheça os sete problemas que mais fazem obras darem errado em Navegantes e descubra como a engenharia certa transforma cada um deles em risco controlado.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Pergunte a quem já construiu ou reformou em Navegantes e as histórias se repetem: obra que estourou o orçamento antes da laje, trinca que apareceu no primeiro ano, alvará que nunca chegava, empreiteiro que sumiu no meio do serviço, infiltração que voltou três vezes na mesma parede. Ninguém começa uma obra esperando esse final - e quase nenhum desses casos nasceu de má sorte. Nasceram de decisões técnicas tomadas sem engenharia: fundação escolhida por preço, projeto dispensado por pressa, aprovação improvisada, execução sem responsável técnico presente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A boa notícia é que cada um desses problemas tem solução conhecida, testada e documentada. Este artigo mapeia os sete problemas que mais derrubam obras em Navegantes e mostra, para cada um deles, como a engenharia civil bem feita - a que a Regê Engenharia pratica todos os dias nesta cidade - transforma risco aberto em risco controlado.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que construir em Navegantes é diferente'
+      },
+      {
+        type: 'paragraph',
+        text: 'Navegantes concentra, num só território, condições que poucas cidades brasileiras juntam: é costeira, portuária, turística e está em plena expansão imobiliária. Solo arenoso com lençol freático alto, atmosfera de maresia agressiva ao concreto, chuvas intensas concentradas, regras municipais evoluindo rápido e demanda aquecida pressionando prazos e preços. Cada uma dessas variáveis, sozinha, já exige projeto específico; juntas, elas explicam por que planta genérica de catálogo funciona no planalto e fracassa aqui.'
+      },
+      {
+        type: 'quote',
+        text: 'Obra barata no litoral é a mais cara de todas: ela cobra na forma de trinca, infiltração, multa e reforma antecipada - sempre com juros compostos.'
+      },
+      {
+        type: 'heading',
+        text: 'Os 7 problemas - e a solução de engenharia para cada um'
+      },
+      {
+        type: 'subheading',
+        text: '1. Solo arenoso e lençol freático alto'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema: fundações dimensionadas no improviso sobre solo arenoso são a receita clássica do recalque diferencial - a casa assenta de forma desigual, surgem trincas diagonais em portas e janelas, pisos desnivelam e, nos casos graves, a segurança estrutural entra em discussão. Em Navegantes isso não é exceção: é a geotecnia local.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A solução: sondagem de reconhecimento do solo antes do projeto estrutural, definição da fundação conforme os resultados - estacas, tubulões, sapatas associadas ou soluções mistas -, detalhamento correto dos baldrames e impermeabilização pensada para o lençol alto. Fundação dimensionada para o solo real custa uma fração do que custa recuperar uma casa recalçada.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Maresia e corrosão das armaduras'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema: a atmosfera salina do litoral classifica o ambiente como fortemente agressivo ao concreto armado segundo a NBR 6118. Concreto fraco, cobrimento insuficiente e detalhamento descuidado permitem que cloretos alcancem a armadura, que corrói, expande e estoura o concreto - aquelas manchas ferrugem e pedaços desplacados em pilares de prédios de frente para o mar.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A solução: especificação técnica desde o projeto - classe de concreto compatível com a agressividade ambiental, cobrimentos aumentados, controle rigoroso de adensamento e cura, proteção superficial onde indicado e inspeções periódicas programadas. Estrutura projetada para maresia envelhece no ritmo certo; estrutura genérica envelhece em câmera rápida.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Chuva intensa e drenagem subdimensionada'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema: veranicos curtos e chuvas volumosas colocam à prova calhas, condutores, águas pluviais e a drenagem urbana. Calha pequena, queda de chuva mal posicionada, laje sem caimento adequado e terreno sem plano de escoamento produzem o combo típico: goteira na sala, água acumulada no quintal, umidade subindo pelo rodapé e fundação trabalhando molhada o ano inteiro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A solução: projeto hidráulico pluvial calculado para a intensidade de chuva da região, com dimensionamento de calhas e condutores, caimentos corretos, respiros e ventilação de esgoto, reservação e infiltração quando o lote permite - além de atender às exigências municipais de drenagem que pesam na aprovação. Água controlada é obra duradoura; água improvisada é reforma garantida.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Aprovação municipal travada ou improvisada'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema: protocolar projeto sem conhecer zoneamento, parâmetros urbanísticos e exigências locais gera ciclos de pendências que consomem meses. Muita gente resolve construir sem alvará - e herda multa, embargo e um processo caro de regularização. Em cidade crescendo como Navegantes, cada ciclo de exigência custa mais caro que no anterior.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A solução: estudo de viabilidade antes do projeto, equipe multidisciplinar compatibilizando arquitetura, estrutura, hidráulica e elétrica antes do protocolo, documentação completa na primeira entrega e acompanhamento ativo do processo na prefeitura. Aprovar na primeira tentativa não é sorte: é método.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Orçamento fora de controle'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema: obra começada sem orçamento analítico vira uma conta aberta. Compras emergenciais custam mais, material sobra ou falta, etapas encadeiam atrasos e o famoso "vai dando" termina muito acima de qualquer estimativa inicial - frequentemente no momento exato em que falta dinheiro para o acabamento, a parte que define o valor do imóvel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A solução: orçamento analítico por etapa e insumo, cronograma físico-financeiro com marcos de medição, planejamento de compras por curva de entrega e gestão de contratos com fornecedores. Orçamento de engenharia não é papel para banco: é o painel de comando que mostra, todo mês, se a obra está no rumo - e onde corrigir enquanto a correção é barata.'
+      },
+      {
+        type: 'subheading',
+        text: '6. Execução sem responsável técnico presente'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema: entre o projeto bonito e o prédio entregue existe um abismo que só a execução qualificada atravessa. Sem engenheiro acompanhando, vira rotina: armadura montada diferente do detalhado, concreto lançado sem controle, impermeabilização aplicada por cima de superfície errada, instalações embutidas fora de posição. Nada disso aparece na entrega - tudo aparece depois, na conta da patologia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A solução: responsável técnico presente com ART registrada no CREA-SC, conferência de serviços críticos antes do concreto subir, registro fotográfico sistemático das etapas ocultas e comunicação direta entre obra e escritório de projetos. É essa ponte que garante que o que foi aprovado no papel é o que fica dentro da parede.'
+      },
+      {
+        type: 'subheading',
+        text: '7. Reformas e ampliações feitas sem projeto'
+      },
+      {
+        type: 'paragraph',
+        text: 'O problema: parede removida que era estrutural, laje de área gourmet carregando churrasqueira e cobertura sem verificação de carga, ampliação "empatada" na construção original com ligação improvisada. Reformas sem projeto geram patologias precoces, inviabilizam regularização futura e desvalorizam o imóvel na hora da venda - quando o comprador pede a documentação que não existe.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A solução: avaliação técnica antes da demolição, projeto mesmo para reforma, ART para cada etapa e, quando a reforma já aconteceu sem nada disso, processo de regularização com laudos que comprovem segurança. Na Regê, tanto faz se a obra ainda vai começar ou já terminou errada: existe caminho técnico para os dois cenários - mas o primeiro custa sempre menos.'
+      },
+      {
+        type: 'heading',
+        text: 'O custo real de construir sem engenharia'
+      },
+      {
+        type: 'list',
+        items: [
+          'Patologias precoces: trincas, recalques, infiltrações e corrosão que aparecem nos primeiros anos e custam múltiplos do economizado',
+          'Sanções administrativas: multas, embargo e demolição para obras irregulares, além da impossibilidade de obter habite-se',
+          'Imóvel desvalorizado: sem projetos, ARTs e habite-se, toda negociação perde força e preço',
+          'Risco à segurança: estrutura sem cálculo e execução sem controle colocam famílias em risco real - o único custo que não tem preço',
+          'Vida útil reduzida: edificação que deveria durar décadas pedindo reparo estrutural em poucos anos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Engenharia civil em Navegantes e em todo o Litoral Norte'
+      },
+      {
+        type: 'paragraph',
+        text: 'As mesmas condições que desafiam obras em Navegantes se estendem por Itajaí, Balneário Camboriú, Penha e Porto Belo - maresia, solo arenoso, chuva intensa e mercados imobiliários aquecidos. Por isso a experiência local vale ouro: quem constrói há anos no litoral norte catarinense já conhece o comportamento dos bairros, as particularidades das regras municipais, os erros que o mercado repete e as soluções que funcionam na prática, não só na norma. Essa bagagem não se improvisa nem se copia de outra região.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia atua como solução completa'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia foi estruturada justamente para cobrir toda a cadeia que os sete problemas expõem - do primeiro desenho à chave entregue:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projetos completos e compatibilizados: arquitetônico, estrutural, hidrossanitário, elétrico e complementares, integrados por uma única equipe',
+          'Estudos e laudos técnicos: sondagem, geotecnia, inspeção predial, laudos estruturais e vistorias cautelares com metodologia e respaldo normativo',
+          'Regularização completa: aprovação na prefeitura, articulação com bombeiros, habite-se e regularização de obras já executadas',
+          'Execução de obras residenciais e comerciais: planejamento, orçamento analítico, cronograma físico-financeiro e responsável técnico presente',
+          'Gestão e consultoria: controle de custos, gestão de fornecedores, consultoria técnica para investidores, condomínios e indústrias',
+          'ART registrada no CREA-SC em todos os serviços, com responsabilidade técnica assumida de ponta a ponta'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir, reformar, comprar ou regularizar um imóvel em Navegantes ou na região, fale com a equipe da Regê Engenharia. Na primeira conversa você descobre quais desses sete problemas rondam o seu projeto - e o caminho técnico, transparente e previsível para neutralizá-los.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre engenharia civil em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso mesmo de sondagem de solo para construir uma casa simples? Sim - e principalmente quando a casa parece simples. O solo arenoso com lençol alto de Navegantes não avisa onde recalca: a sondagem é o único modo de dimensionar fundação com segurança e evitar trincas que custariam muito mais que o estudo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Concreto comum não serve perto do mar? Serve, desde que especificado para a agressividade ambiental do litoral: classe de resistência maior, cobrimento de armadura aumentado e controle de qualidade na aplicação. O erro não é usar concreto armado - é usar especificação de interior em ambiente de maresia.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha obra já foi construída sem projeto. Ainda dá para resolver? Dá. Existe processo de regularização que envolve levantamento do estado atual, projetos as-built, laudos de segurança e tramitação junto à prefeitura. O caminho é mais longo que fazer certo desde o início, mas evita multa, embargo e imóvel impossível de vender.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Contratar empresa de engenharia sai muito mais caro que contratar empreiteiro direto? No preço final da obra, geralmente sai mais barato. Projeto evita desperdício de material, orçamento evita compras emergenciais, gestão evita retrabalho e responsabilidade técnica evita patologia. O que a empreiteira mais barata economiza na diária, ela devolve multiplicado na reforma antecipada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês atendem fora de Navegantes? Atendemos todo o Litoral Norte de Santa Catarina, incluindo Itajaí, Balneário Camboriú, Penha, Porto Belo e região, com o mesmo padrão de projeto, execução e responsabilidade técnica.'
+      }
+    ]
+  },
+  {
+    slug: 'engenheiro-na-obra-investimento-em-tranquilidade',
+    title: 'Por Que Ter um Engenheiro na Obra é Investir em Tranquilidade',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Engenheiro civil acompanhando obra residencial em Navegantes — profissional com capacete e prancheta conferindo execução de alvenaria e estrutura no canteiro de obras.',
+    excerpt: 'Obra sem engenheiro é aposta: erro executivo, custo escondido e risco jurídico. Ter um engenheiro na obra transforma o imprevisível em controlado - entenda por que acompanhamento técnico é investimento em tranquilidade.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A obra é um dos investimentos mais caros da vida de uma família - e, muitas vezes, também um dos mais estressantes. Prazos que estouram sem explicação, orçamento que foge em silêncio, dúvidas executivas surgindo todo dia, aquele medo constante de que algo importante esteja sendo feito errado atrás da parede. Quem já construiu ou reformou sem acompanhamento técnico conhece esse desgaste. E quem construiu com um engenheiro presente no canteiro conhece a diferença: o processo deixa de ser fonte de ansiedade e vira rotina previsível. É exatamente por isso que ter um engenheiro na obra não é despesa - é investimento em tranquilidade.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo mostra o que o engenheiro faz no dia a dia do canteiro, como ele protege seu dinheiro, seu prazo e sua segurança jurídica, quais riscos desaparecem com acompanhamento técnico e como a Regê Engenharia entrega essa tranquilidade em obras em Navegantes e em todo o Litoral Norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O preço invisível da obra sem engenheiro'
+      },
+      {
+        type: 'paragraph',
+        text: 'Uma obra é tomada de decisões técnicas diárias: onde passa o tubo, como amarrar a armadura, qual argamassa usar, se aquela viga pode ser furada ou não. Sem um engenheiro presente para responder com critério, quem decide é o improviso - o mestre sob pressão do prazo, o pedreiro pela força do hábito ou o proprietário pelo medo. Cada decisão improvisada que passa despercebida vira custo futuro: às vezes pequeno, às vezes estrutural. O problema é que esses custos não aparecem no orçamento inicial - aparecem depois, quando já não há como baratear a correção.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Erro executivo descoberto tarde - parede fora de esquadro, instalação embutida no lugar errado, caixa de passagem esquecida: tudo isso exige quebrar o que está pronto',
+          'Sobrecusto silencioso - material comprado duas vezes, serviço executado e refeito, equipe parada esperando decisão',
+          'Cronograma arrastado - cada retrabalho empurra a etapa seguinte, e obra atrasada custa aluguel, financiamento e paciência',
+          'Risco jurídico - obra sem responsabilidade técnica não gera habite-se, não averba no cartório e pode travar venda ou financiamento no futuro',
+          'Desgaste pessoal - obra sem controle vira insônia, briga em casa e desconfiança permanente de todos os envolvidos'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Obra barata demais geralmente significa custo escondido: alguém vai pagar a diferença - a questão é quando e quanto.'
+      },
+      {
+        type: 'heading',
+        text: 'O que o engenheiro faz todos os dias na sua obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'O valor do engenheiro presente não está em cerimônias: está na soma de centenas de pequenas verificações que impedem os grandes erros. No dia a dia do canteiro, ele:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Compatibiliza projetos - garante que estrutura, hidráulica, elétrica e arquitetura conversam entre si antes de virarem parede pronta',
+          'Resolve dúvidas executivas na hora - a pergunta que levaria três dias para chegar ao profissional chega ao responsável em minutos, dentro do canteiro',
+          'Confere qualidade antes de cobrir - armadura, forma, impermeabilização e embutidos são verificados e registrados antes do concreto e da alvenaria taparem tudo',
+          'Controla material e desperdício - conferência de entrega, armazenamento correto e consumo acompanhado evitam compra em dobro e perda por mau acondicionamento',
+          'Atualiza cronograma e antecipa gargalos - a etapa seguinte é preparada antes de a atual terminar, eliminando paradas forçadas',
+          'Garante segurança do trabalho - proteções coletivas, equipamentos e rotinas conforme a NR-18, protegendo trabalhadores e contratante',
+          'Registra tudo - diário de obra, fotos, medições e ocorrências documentadas que protegem o proprietário em qualquer discussão futura'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Tranquilidade financeira: quanto o engenheiro economiza'
+      },
+      {
+        type: 'paragraph',
+        text: 'O honorário do acompanhamento técnico costuma representar uma fração pequena do custo da obra - e se paga nas contas que ele impede de existir. Uma concretagem conferida antes evita demolição de laje. Um embutido conferido antes da parede fechar evita quebrar obra nova. Uma medição auditada impede pagamento por serviço não executado. Somando retrabalho evitado, material economizado e sobrepreço barrado, o acompanhamento técnico frequentemente retorna mais do que custa - antes mesmo de contar o valor do que ninguém consegue precificar: dormir tranquilo durante a obra.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Conferência prévia à concretagem - o erro de armadura corrigido na véspera custa horas; descoberto depois, custa demolição',
+          'Compatibilização de instalações - nenhuma parede nova é quebrada para encaixar tubo que deveria estar lá',
+          'Auditoria de medições - a empreiteira recebe pelo que executou, não pelo que declarou',
+          'Planejamento de compras - material certo, na quantidade certa, no momento certo, sem capital parado nem falta em obra'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Tranquilidade jurídica: ART, segurança e habite-se'
+      },
+      {
+        type: 'paragraph',
+        text: 'Existe uma camada da tranquilidade que não aparece no canteiro, mas aparece quando ela falta. A Lei 12.378/2010 exige o Registro de Responsabilidade Técnica (ART) para serviços de engenharia - é ele que dá validade legal à obra, permite o habite-se, a averbação da construção no cartório e sustenta qualquer garantia futura. O Código Civil, no artigo 618, responsabiliza o construtor pela solidez e segurança da edificação por cinco anos - responsabilidade que só fica bem definida quando existe acompanhamento técnico formal. E acidente com trabalhador em obra sem gestão de segurança pode recair sobre o proprietário. Com engenheiro presente, cada uma dessas frentes está coberta e documentada.'
+      },
+      {
+        type: 'list',
+        items: [
+          'ART vinculada à obra - validade jurídica junto à prefeitura, cartório, banco e seguradora',
+          'Segurança do trabalho conforme NR-18 - proteção do trabalhador e blindagem do contratante contra processos',
+          'Habite-se e averbação garantidos - execução conforme projeto aprovado, sem surpresa na hora de regularizar',
+          'Garantia legal bem definida - art. 618 do Código Civil com responsabilidade técnica clara e documentada',
+          'Obra segurável e financiable - bancos e seguradoras exigem responsabilidade técnica para liberar recursos e cobertura'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Tranquilidade emocional: a obra que você acompanha sem ansiedade'
+      },
+      {
+        type: 'paragraph',
+        text: 'Há ainda uma dimensão que nenhum orçamento lista, mas todo proprietário sente: a paz de saber que alguém competente está olhando por você. Com acompanhamento técnico, as decisões chegam até você com contexto - foto do problema, alternativas, custo e recomendação - em vez de chegar como novidade quando o serviço já está pronto e errado. Relatórios periódicos mostram percentual executado, fotos do avanço e próximos passos. Você acompanha de onde estiver, decide com informação e para de temer cada visita ao canteiro. A obra continua cansativa - toda obra é - mas deixa de ser assustadora.'
+      },
+      {
+        type: 'quote',
+        text: 'Tranquilidade na obra não é ausência de problemas: é certeza de que cada problema será visto, medido e resolvido por quem entende - antes de virar prejuízo.'
+      },
+      {
+        type: 'heading',
+        text: 'Engenheiro presente na obra x visita eventual'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem todo acompanhamento é igual, e a diferença aparece justamente nos momentos que definem a obra:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro presente todo dia - corrige o erro na hora em que ele acontece, quando a correção custa minutos',
+          'Visita esporádica - registra o problema semanas depois, quando a correção já custa demolição',
+          'Mestre de obras experiente - vale muito no ofício da execução, mas não substitui cálculo, projeto, responsabilidade técnica nem assinatura de ART; os dois papéis se complementam, um não elimina o outro'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia entrega essa tranquilidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na Regê Engenharia, o acompanhamento de obra é estruturado para que o cliente sinta exatamente isso: controle. Cada obra recebe um engenheiro responsável dedicado, que conduz o canteiro com método e mantém o proprietário informado do começo ao fim.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Engenheiro responsável dedicado - presença rotineira no canteiro e um único ponto de contato para todas as decisões técnicas',
+          'Relatórios periódicos com fotos - percentual físico executado, ocorrências da semana e próximas etapas, direto no seu celular',
+          'Controle de qualidade etapa a etapa - conferência documentada de cada fase antes de liberar a seguinte',
+          'Gestão de equipe e fornecedores - cronograma, medições auditadas e compras planejadas sob responsabilidade da Regê',
+          'Comunicação direta e transparente - dúvida respondida no mesmo dia, sem intermediários e sem juridiquês',
+          'Atuação local - Navegantes, Meia Praia, São Domingos, Gravatá e todo o Litoral Norte de Santa Catarina, com ART no CREA-SC'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre ter engenheiro na obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda obra precisa de engenheiro? Legalmente, todo serviço de execução exige responsabilidade técnica com ART. Na prática, quanto maior e mais complexa a obra, mais indispensável se torna a presença rotineira do engenheiro no canteiro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre o engenheiro e o mestre de obras? O mestre domina o ofício da execução e é peça valiosa no canteiro. O engenheiro traz cálculo, projeto, compatibilização, responsabilidade legal e controle de qualidade. Obra boa tem os dois - cada um no papel certo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa o acompanhamento técnico? Depende do porte e do regime - percentual sobre a obra ou mensalidade. Em qualquer cenário, o custo é fração do retrabalho, do material desperdiçado e do sobrepreço que ele evita.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Morando longe, consigo acompanhar a obra? Sim. Relatórios com fotos, reuniões on-line e comunicação direta pelo WhatsApp permitem acompanhar cada etapa de qualquer lugar do mundo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quando contratar o engenheiro? Antes da obra começar. Metade dos problemas de canteiro nasce de planejamento inexistente - fundação, compras e cronograma definidos com engenharia desde o primeiro dia poupam meses de dor de cabeça.'
+      },
+      {
+        type: 'heading',
+        text: 'Obra com tranquilidade começa aqui'
+      },
+      {
+        type: 'paragraph',
+        text: 'Construir deve ser motivo de realização, não de preocupação. A Regê Engenharia conduz obras residenciais, comerciais e industriais em Navegantes e em todo o Litoral Norte de Santa Catarina com engenheiro presente, controle de qualidade etapa a etapa, relatórios transparentes e ART registrada no CREA-SC em todos os serviços - para você ver sua obra avançar sem abrir mão da paz. Fale com nossa equipe e descubra como é construir com tranquilidade de quem tem engenharia ao lado do início ao fim.'
+      }
+    ]
+  },
+  {
+    slug: 'engenheiro-valorizacao-imovel-navegantes',
+    title: 'O Engenheiro e a Valorização do Seu Imóvel no Mercado de Navegantes',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Engenheiro avaliando imóvel residencial em Navegantes SC para valorização no mercado imobiliário - projeto aprovado, laudo técnico e documentação regularizada com ART.',
+    excerpt: 'Dois imóveis iguais na mesma quadra podem valer 20% de diferença - e a explicação quase sempre é engenharia. Veja como projeto, execução, regularização, laudos e retrofit orientado por engenheiro elevam o preço do seu imóvel no mercado de Navegantes, quanto vale cada decisão e quais erros silenciosos estão derrubando seu valor.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Dois apartamentos na mesma quadra do Meia Praia, mesma metragem, mesmo ano de construção. Um vende rápido, pelo preço pedido, com financiamento aprovado sem sustos. O outro fica meses anunciado, recebe apenas propostas baixas e, quando finalmente negocia, o comprador desconta cada mancha, cada trinca e cada documento faltando. A diferença entre os dois raramente é sorte: é engenharia — a que foi feita e a que deixou de ser feita.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, onde o mercado corre puxado pelo Porto e pela migração para o litoral, o comprador ficou mais exigente: pergunta pelo habite-se, pede laudo, desconfia de reforma amadora e sabe que a maresia cobra seu preço de quem não cuidou da estrutura. Este guia mostra como as decisões de engenharia influenciam o valor do seu imóvel — e quanto vale cada uma delas.'
+      },
+      {
+        type: 'heading',
+        text: 'O comprador não compra paredes: compra certeza'
+      },
+      {
+        type: 'list',
+        items: [
+          '"A estrutura está boa?" — responde-se com laudo estrutural ou inspeção predial',
+          '"Passa no financiamento?" — responde-se com habite-se e averbação na matrícula',
+          '"A reforma foi feita direito?" — responde-se com projeto e ART',
+          '"Vai dar infiltração no primeiro inverno?" — responde-se com execução técnica e impermeabilização',
+          '"Aguenta o clima do litoral?" — responde-se com materiais especificados contra maresia'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Entre dois imóveis equivalentes, o comprador paga o prêmio por aquele em que consegue confiar sem precisar virar engenheiro.'
+      },
+      {
+        type: 'heading',
+        text: 'O que desvaloriza um imóvel em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Sem habite-se ou averbação — banco nega financiamento; comprador desconta 10–20% ou descarta o anúncio',
+          'Trincas e infiltrações sem laudo — o desconto imaginado é sempre maior que o custo real da reparação',
+          'Ampliação sem projeto — vira passivo de regularização que o comprador prefere abater do preço',
+          'Reforma amadora visível — sinaliza "tem mais problema escondido" e derruba a oferta na primeira visita',
+          'Corrosão por maresia aparente — primeiro item questionado em imóveis próximos ao mar',
+          'Planta divergente do real — trava averbação, refinanciamento e inventário futuro'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como o engenheiro agrega valor em cada fase'
+      },
+      {
+        type: 'subheading',
+        text: 'Antes da compra: o terreno certo vale mais que o negócio certo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Avaliação técnica prévia — solo, drenagem, zoneamento e potencial construtivo pelo código de obras — transforma chute em decisão calculada. Dois terrenos pelo mesmo preço podem valer muito diferente depois: um aceita sobrado com vista; o outro esconde lençol freático alto e custo extra de fundação.'
+      },
+      {
+        type: 'subheading',
+        text: 'No projeto: extrair o máximo dentro da regra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto bem resolvido aprova rápido na Prefeitura, evita indeferimento e entrega a metragem útil que o mercado paga — taxa de ocupação, recuos, ventilação cruzada e posicionamento inteligente contra maresia e calor.'
+      },
+      {
+        type: 'subheading',
+        text: 'Na execução: qualidade invisível que aparece na venda'
+      },
+      {
+        type: 'paragraph',
+        text: 'Estrutura dimensionada para o solo arenoso, concreto especificado para ambiente salino, impermeabilização nos pontos críticos. Dez anos depois, o imóvel "que nunca deu problema" é o que recebe proposta cheia.'
+      },
+      {
+        type: 'subheading',
+        text: 'Na regularização: papel que vale dinheiro'
+      },
+      {
+        type: 'paragraph',
+        text: 'Imóvel com habite-se emitido e obra averbada aceita financiamento bancário — multiplicando os compradores potenciais —, passa em due diligence sem descontos especulativos e permite inventário sem travas. A diferença de preço entre regularizado e irregular costuma ser de dois dígitos percentuais, muito além do custo da regularização.'
+      },
+      {
+        type: 'subheading',
+        text: 'Na manutenção: laudo preventivo em vez de desconto corretivo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Inspeção periódica e correção precoce mantêm o imóvel na faixa de conservação que o mercado remunera. E o laudo atualizado vira argumento de venda: anunciar "imóvel com laudo técnico" muda o clima da visita.'
+      },
+      {
+        type: 'subheading',
+        text: 'No retrofit pré-venda: reformar onde o retorno é maior'
+      },
+      {
+        type: 'paragraph',
+        text: 'Engenharia também decide onde não gastar. Cozinha e banheiro fecham negócio; fachada e entrada fazem a primeira impressão; pintura nova sobre trinca ativa é dinheiro queimado. O diagnóstico antes da reforma define o investimento certo.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto vale cada decisão de engenharia'
+      },
+      {
+        type: 'list',
+        items: [
+          'Imóvel regularizado e averbado versus irregular: +10–20% de preço viável e acesso a financiamento',
+          'Laudo técnico apresentado na negociação: elimina desconto especulativo e acelera o fechamento',
+          'Projeto aprovado pronto no lote: comprador paga pelo prazo ganho',
+          'Execução com ART e histórico documentado: argumento premium na revenda',
+          'Retrofit de cozinha e banheiro com projeto: retorno frequentemente superior ao investido',
+          'Energia solar homologada: diferencial competitivo crescente no litoral'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros que parecem economia e custam valor de venda'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construir sem engenheiro para poupar honorários — sem ART e projeto, trava financiamento e gera desconto maior que qualquer economia',
+          'Reformar por conta própria antes de vender — melhoria amadora não soma valor e às vezes precisa ser refeita',
+          'Esconder defeito com pintura — o comprador descobre na vistoria e o desconto vem dobrado, com desconfiança',
+          'Deixar a regularização para depois — na pressa da venda, sai mais cara e atrasa o contrato',
+          'Trocar laudo de avaliação por opinião de corretor — só engenheiro emite laudo com valor técnico perante banco e cartório'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre engenheiro e valorização do imóvel'
+      },
+      {
+        type: 'paragraph',
+        text: 'Meu imóvel já está construído, ainda dá para agregar valor? Sim — é o cenário mais comum: regularização documental, laudo de estabilidade, correção de patologias e retrofit direcionado. Valorização não depende de obra nova.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Regularizar compensa mesmo sem pretender vender? Compensa duas vezes: protege sua família (inventário, partilha, seguro) e garante negociação de posição forte quando decidir vender — sem urgência nem desconto.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Laudo de avaliação substitui o corretor? Não substitui — complementa. O corretor conhece o ritmo do mercado; o laudo fixa o valor técnico pela NBR 14653, aceito por bancos, cartórios e juízo. Juntos fortalecem a negociação.'
+      },
+      {
+        type: 'heading',
+        text: 'Valorize seu imóvel com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'No mercado de Navegantes, o imóvel valorizado é o que oferece menos risco e mais certeza: estrutura sã, documentos completos, execução assinada e manutenção registrada — tudo origem em decisões técnicas tomadas nas horas certas. A Regê Engenharia cuida do ciclo completo: avaliação de terreno, projeto, execução com ART, laudos e regularização, em Navegantes e em todo o Litoral Norte de Santa Catarina. Fale com nossa equipe e transforme engenharia em valor de mercado para o seu imóvel.'
+      }
+    ]
+  },
+  {
+    slug: 'como-engenheiro-previne-infiltracoes-casa',
+    title: 'Como um Engenheiro Previne Infiltrações na Sua Casa',
+    tag: 'PATÓLOGIA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Como um engenheiro civil previne infiltrações em casas no litoral de SC — análise técnica de cobertura, fachada, fundação e instalações hidráulicas pela Regê Engenharia.',
+    excerpt: 'Mancha no teto, reboco estufado, cheiro de mofo: a infiltração é o defeito mais comum - e mais mal resolvido - das casas. Veja como um engenheiro previne o problema na origem: projeto, execução controlada e manutenção orientada.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Toda casa do litoral vai conviver com água - a questão é definir de quem é a iniciativa. Quando a água dita as regras, aparecem a mancha no teto, o reboco estufado, o rodapé apodrecendo e o cheiro de mofo que nenhum aromatizador disfarça. Quando o engenheiro dita as regras, a mesma água entra, escorre e sai da casa sem nunca ser notada. A diferença entre os dois cenários tem nome: prevenção técnica - feita antes, durante e depois da obra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo mostra, etapa por etapa, como um engenheiro civil previne infiltrações em uma casa: onde a água costuma invadir, o que precisa estar certo no projeto, o que deve ser controlado durante a execução, quais cuidados mantêm a casa seca ao longo dos anos - e os sinais de que já é hora de parar de pintar por cima do problema e chamar um profissional.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que as casas do litoral sofrem tanto com infiltração'
+      },
+      {
+        type: 'list',
+        items: [
+          'Chuva volumosa e vento - o litoral norte de SC concentra pancadas fortes que empurram água horizontalmente contra fachadas e sob telhados',
+          'Maresia - sal degrada selantes, telhas, esquadrias e metais muito antes do prazo normal, abrindo passagens para a água',
+          'Umidade relativa alta - condensação constante em paredes frias confunde-se com infiltração e agrava mofo quando há entrada real de água',
+          'Solo arenoso e lençol próximo - terrenos de Navegantes drenam rápido na superfície, mas retém umidade junto a pisos térreos e fundações mal isoladas',
+          'Construção improvisada - boa parte das casas foi ampliada ou reformada sem projeto, criando encontros de materiais e caimentos errados, justamente onde a infiltração nasce'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Onde as infiltrações nascem: os pontos críticos da casa'
+      },
+      {
+        type: 'list',
+        items: [
+          'Cobertura - telhas trincadas ou desalinhadas, calhas entupidas, rufos e peças complementares mal instalados: a porta de entrada número um',
+          'Encontros de parede com laje e platibandas - detalhes executados sem impermeabilização adequada falham nos primeiros anos',
+          'Fachadas expostas à chuva batida - fissuras, juntas abertas e reboco sem proteção absorvem água que migra para dentro',
+          'Áreas molhadas internas - banheiros, cozinha e lavanderia com tubulação embutida, rejunte cansado e impermeabilização inexistente ou mal executada',
+          'Piso térreo e fundações - umidade ascendente por capilaridade quando falta barreira entre solo e estrutura',
+          'Esquadrias e vãos - peitorís sem caimento, selante ressecado e instalação fora de esquadro deixam a chuva do vento entrar'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Prevenção começa no projeto, não na obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'A maior parte das infiltrações que aparecem depois dos dois anos de uso não é azar - é projeto incompleto. O engenheiro previne ainda na prancheta, decidindo questões que o proprietário nem percebe:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Sistema de impermeabilização especificado - cada área exige solução própria conforme a NBR 9575: mantas, argamassas poliméricas ou membraneiras líquidas, com espessuras e camadas definidas',
+          'Drenagem pluvial dimensionada - calhas, condutores e reservação calculados para a chuva local, evitando transbordo que volta para dentro',
+          'Caimentos e detalhes construtivos - peitoris, soleiras, juntas de dilatação e encontros desenhados para conduzir água para longe, não deixá-la decidir o caminho',
+          'Isolação de piso térreo - barreira contra umidade ascendente e afastamento correto do terreno',
+          'Especificação de materiais compatíveis com maresia - aço adequado, fixadores inox ou galvanizados, selantes resistentes a UV e sal'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Impermeabilização barata demais sempre existe um motivo: ela está esperando a primeira chuva forte para apresentar o verdadeiro custo.'
+      },
+      {
+        type: 'heading',
+        text: 'Na obra: o que o engenheiro controla para a água ficar do lado de fora'
+      },
+      {
+        type: 'paragraph',
+        text: 'Projeto bem especificado morre na execução mal acompanhada. Durante a obra, o papel do engenheiro é garantir que o sistema antiágua saia exatamente como projetado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Conferência de materiais - marca, modelo e conformidade do que chega no canteiro; substituir manta especificada por equivalente mais barato é prática comum que anula a garantia',
+          'Execução correta do sistema - superfície preparada, cantos arredondados, quantidade de camadas e sobreposições respeitadas, cura adequada',
+          'Teste de estanqueidade - áreas molhadas e lajes impermeabilizadas ficam submersas por período definido antes de receber revestimento: falha detectada aqui custa pouco; descoberta depois do porcelanato assentado, custa tudo de novo',
+          'Verificação de caimentos - nível e declividade conferidos com instrumento, não a olho',
+          'Proteção do sistema pronto - impermeabilização pisada, furada por andaime ou perfurada por instalação posterior é causa frequente de infiltração precoce'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Casa pronta: a prevenção continua na manutenção'
+      },
+      {
+        type: 'paragraph',
+        text: 'Mesmo uma casa bem construída envelhece exposta ao clima. O engenheiro transforma a manutenção em rotina planejada - e não em resposta a emergência:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vistoria periódica dos pontos críticos - cobertura, calhas, rufos, juntas e selantes inspecionados em ciclo anual, antes da estação chuvosa',
+          'Limpeza de calhas e grelhas - entupimento é a causa mais simples e mais frequente de água invadindo onde nunca deveria chegar',
+          'Renovação programada de rejintes e selantes - silicone e rejunte têm vida útil finita; trocar preventivamente custa fração do reparo de infiltração instalada',
+          'Atenção a modificações - ampliação, nova laje de cobertura ou troca de esquadria precisam manter os detalhes antiágua do conjunto original',
+          'Registro fotográfico comparativo - fotos anuais dos mesmos pontos revelam evolução de manchas e fissuras antes que virem estrago visível a olho nu'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Sinais de alerta: quando chamar um engenheiro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Mancha que cresce ou muda de formato após cada chuva',
+          'Reboco oco, estufado ou descascando em faixa junto ao piso ou ao teto',
+          'Eflorescência - aquele pó branco sobre alvenaria indica água atravessando a parede',
+          'Mofo que volta sempre no mesmo canto, mesmo após limpeza e pintura',
+          'Pintura nova que borbulha em semanas',
+          'Conta de água subindo sem consumo correspondente - pode ser vazamento enterrado ou na parede'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Nesses casos, o laudo técnico identifica a origem real - que frequentemente está distante da mancha, porque a água percorre caminhos internos antes de aparecer - e define a intervenção certa, com responsável técnico e ART.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros que transformam pingo em reforma'
+      },
+      {
+        type: 'list',
+        items: [
+          'Pintar por cima da mancha - esconde o sintoma, alimenta o mofo e adia o diagnóstico',
+          'Trocar só o rejinte - se a origem está na impermeabilização ausente, o rejunte novo é placebo caríssimo',
+          'Resolver por dentro sem achar a causa - reparo interno sem corrigir a entrada trava a água dentro da parede, espalhando o problema',
+          'Usar produto errado - argamassa polimérica onde a solução pede manta (ou o contrário) falha antes do primeiro inverno',
+          'Contratar conserto sem ART - sem responsável técnico, não há garantia formal, nem lastro caso o problema volte ou alcance vizinhos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades das casas em Navegantes e no Litoral Norte'
+      },
+      {
+        type: 'list',
+        items: [
+          'Casas de praia com uso sazonal - meses fechadas escondem infiltrações que avançam silenciosas; vale agendar vistoria no início de cada temporada',
+          'Ampliações sucessivas - muito comum no litoral, criam encontros entre coberturas antigas e novas que concentram infiltrações',
+          'Terreno arenoso - umidade lateral e ascendente exige atenção redobrada em pisos térreos e paredes de contato com o solo',
+          'Vento de mar - fachadas voltadas para a orla recebem chuva quase horizontal e precisam de proteção e manutenção mais frequentes',
+          'Rede elétrica e hidráulica antigas - reformar sem atualizar tubulações embutidas é plantar vazamentos futuros dentro das paredes'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre prevenção de infiltrações'
+      },
+      {
+        type: 'paragraph',
+        text: 'A mancha sumiu depois que pintei. Resolveu? Não - apenas secou naquele período menos chuvoso. Mancha de infiltração tratada com tinta retorna na próxima temporada de chuva, normalmente maior. O único tratamento duradouro corrige a origem da entrada de água.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Chamo encanador ou engenheiro? Encanador resolve vazamento pontual identificado. Quando a origem é desconhecida, envolve estrutura, cobertura, fachada ou impermeabilização, o caminho é o engenheiro: ele diagnostica a causa raiz, coordena os ofícios necessários e responde tecnicamente pelo serviço.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa prevenir comparado a reparar? A ordem de grandeza é clara: impermeabilizar direito na obra custa uma pequena fração do valor de refazer revestimento, móvel e acabamento atingidos poucos anos depois - sem contar o transtorno de obra corretiva em casa habitada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Seguro residencial cobre infiltração? Em geral, coberturas excluem dano causado por falta de manutenção ou desgaste gradual - justamente o cenário da maioria das infiltrações. Pasta de manutenção organizada e laudos técnicos fortalecem qualquer discussão com a seguradora.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda mancha de umidade vem de fora? Não. Condensação, vazamento de tubulação embutida e infiltração externa produzem sintomas parecidos e tratamentos totalmente diferentes. Diferenciar as causas é exatamente o trabalho do diagnóstico profissional - chutar e reformar é a forma mais cara de acertar por tentativa.'
+      },
+      {
+        type: 'heading',
+        text: 'Mantenha sua casa seca com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com projetos, acompanhamento de obras, laudos de infiltração e planos de manutenção para casas de moradia e de veraneio - sempre com vistoria in loco, diagnóstico da causa raiz, especificação correta de materiais e ART registrada no CREA-SC. Se você está construindo, reformando ou convive com manchas que insistem em voltar, fale com nossa equipe: prevenir infiltração custa menos hoje do que reformar amanhã.'
+      }
+    ]
+  },
+  {
+    slug: 'papel-do-engenheiro-instalacao-eletrica-segura',
+    title: 'O Papel do Engenheiro na Instalação Elétrica Segura',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Engenheiro inspecionando quadro de distribuição e instalação elétrica segura em obra em Navegantes SC, com medições técnicas e verificação conforme a NBR 5410.',
+    excerpt: 'Incêndio de origem elétrica, choque, seguro que recusa indenização: instalar sem engenheiro é risco disfarçado de economia. Entenda o papel do engenheiro em cada etapa da instalação elétrica segura — projeto, dimensionamento, execução, verificação e ART.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quando um incêndio começa atrás de uma parede, a investigação quase sempre chega ao mesmo ponto de origem: conexão mal feita, cabo subdimensionado, proteção inexistente ou aterramento improvisado. São falhas que ninguém vê durante anos — até o dia em que cobram a conta na forma mais caro possível. E quase todas têm algo em comum: foram construídas sem um engenheiro definindo parâmetros e assumindo responsabilidade técnica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo explica o papel do engenheiro na instalação elétrica segura: o que exatamente esse profissional faz, em quais normas se apoia, quando sua atuação é obrigatória, quais riscos correm quem instala no improviso e como funciona a verificação que comprova que a instalação está protegida — com foco na realidade de imóveis residenciais, comerciais e industriais no litoral norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'Segurança elétrica começa muito antes da primeira fiação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Existe uma confusão comum entre executar e projetar. O eletricista habilidoso executa bem; quem define bitola, proteção, divisão de circuitos e aterramento é o engenheiro, com base em cálculo e norma. Uma instalação pode ter emendas impecáveis e ainda assim ser perigosa — se o conjunto foi dimensionado no chute. A segurança elétrica não é um acabamento adicionado depois da obra: nasce no projeto, onde cada decisão técnica elimina riscos antes de eles existirem fisicamente.'
+      },
+      {
+        type: 'heading',
+        text: 'O que faz o engenheiro numa instalação elétrica'
+      },
+      {
+        type: 'paragraph',
+        text: 'O trabalho do engenheiro atravessa toda a vida da instalação — do papel à verificação final:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Levantamento de cargas — inventaria tudo o que vai consumir energia hoje e no futuro previsível, evitando instalação nascida obsoleta',
+          'Dimensionamento — calcula condutores, disjuntores, dispositivos DR e DPS para que cada elo suporte e proteja o anterior',
+          'Divisão de circuitos — separa usos (cozinha, chuveiro, iluminação, tomadas) para que uma falha não derrube a casa inteira nem sobrecarregue um único cabo',
+          'Aterramento e equipotencialização — cria o caminho seguro para correntes de falha, a proteção silenciosa que salva vidas',
+          'Especificação de materiais — indica componentes certificados pelo INMETRO, adequados ao ambiente e à aplicação',
+          'Documentação técnica — memorial de cálculo, plantas e diagramas que registram como a instalação deve ser construída',
+          'Acompanhamento e verificação — supervisiona a execução e testa o resultado com instrumentos antes de liberar o uso'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Disjuntor não é enfeite de parede: é a peça que decide se um defeito vira um desligamento de cinco segundos ou uma tragédia.'
+      },
+      {
+        type: 'heading',
+        text: 'As normas que sustentam cada decisão técnica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nenhuma escolha do engenheiro é opinião pessoal: cada parâmetro vem de norma técnica brasileira, revisada por comitês e exigida por concessionárias, seguradoras e fiscalização:'
+      },
+      {
+        type: 'list',
+        items: [
+          'NBR 5410 — a norma-mãe das instalações elétricas de baixa tensão em edificações residenciais e comerciais',
+          'NBR 14039 — regras para instalações de média tensão e aplicações industriais mais complexas',
+          'NR-10 — segurança dos trabalhadores em serviços com eletricidade, obrigatória em empresas e obras',
+          'NBR 5419 — proteção estrutural contra descargas atmosféricas (SPDA), tema crítico em regiões de alta incidência de raios como o litoral',
+          'Certificação INMETRO — exigência de conformidade para componentes instalados, do disjuntor ao cabo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando o engenheiro é obrigatório'
+      },
+      {
+        type: 'paragraph',
+        text: 'Elaboração e modificação de instalação elétrica são atribuições privativas de profissional habilitado, formalizadas pela ART — Anotação de Responsabilidade Técnica registrada no CREA. Na prática, essas são as situações mais comuns em que o papel do engenheiro se torna indispensável:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construção nova ou reforma que altera circuitos, quadros ou cargas',
+          'Padrão de entrada novo ou reforço de ligação junto à concessionária de energia',
+          'Acréscimo de cargas pesadas: chuveiro, ar-condicionado, bombas, fornos, máquinas',
+          'Instalações comerciais e industriais, com exigência adicional de conformidade à NR-10',
+          'Laudo elétrico para seguro, financiamento, regularização ou avaliação após sinistro',
+          'Projeto e verificação de SPDA em edificações expostas a descargas atmosféricas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Padrão de entrada: onde a responsabilidade técnica começa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo fornecimento de energia começa pelo padrão de entrada — o conjunto de medidor, proteções e condutores que liga o imóvel à rede da concessionária. É ali que a responsabilidade técnica se materializa pela primeira vez: a concessionária exige projeto e ART para novas ligações, reforços de carga e mudanças de padrão, e recusa instalações que não atendem às suas normas. Um padrão mal dimensionado vira gargalo permanente: disjuntor geral desarmando quando a casa opera em pleno carga, tensão caindo nos horários de pico, impossibilidade de ampliar consumo depois. O engenheiro dimensiona esse ponto de partida para o presente e para o crescimento previsível do imóvel.'
+      },
+      {
+        type: 'heading',
+        text: 'Os riscos reais de instalar sem engenheiro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Choques e fatalidades — ausência ou mau dimensionamento de DR e aterramento elimina justamente as proteções que salvam vidas',
+          'Incêndio de origem elétrica — cabos finos para carga alta e conexões precárias esquentam por anos até encontrar material inflamável',
+          'Equipamentos queimados — sem DPS e qualidade de energia adequada, picos e surtos queimam geladeira, ar-condicionado e eletrônicos caros',
+          'Seguro que recusa cobertura — sinistros elétricos sem projeto ou ART enfrentam negativa de indenização por falta de responsabilidade técnica',
+          'Problemas com fiscalização e concessionária — irregularidades impedem ligações, geram notificações e travam regularizações futuras',
+          'Patrimônio desvalorizado — na venda do imóvel, due diligence elétrica mal resolvida derruba oferta ou mata o negócio'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Verificação e laudo: a prova de que a instalação está segura'
+      },
+      {
+        type: 'paragraph',
+        text: 'Instalação pronta não significa instalação segura — significa apenas terminada. O que transforma entrega em segurança é a verificação técnica: medição da resistência de aterramento, teste de tempo de disparo dos DR, ensaio de isolamento, conferência de apertos e torque nas conexões e inspeção do quadro contra o projeto. O resultado desse trabalho é documentado no laudo elétrico, assinado com ART — o documento que comprova perante seguradora, comprador, fiscalização e tribunal que a instalação foi construída e verificada por quem tem competência legal para responder por ela.'
+      },
+      {
+        type: 'heading',
+        text: 'Segurança elétrica envelhece: o papel da manutenção preventiva'
+      },
+      {
+        type: 'paragraph',
+        text: 'Uma instalação aprovada hoje pode se degradar silenciosamente nos anos seguintes: conexões afrouxam com ciclos térmicos, proteções envelhecem, reformas paralelas alteram circuitos sem registro. Por isso o engenheiro não encerra seu papel na entrega — ele planeja a longevidade da segurança. Inspeções periódicas com termografia de quadros identificam pontos aquecendo antes do acidente; testes periódicos de DR confirmam tempo de disparo; reapertos programados eliminam resistências anormais nas conexões. Em ambientes agressivos como o litoral, essa rotina não é luxo: é a diferença entre detectar um problema numa planilha e descobri-lo num apagão — ou num princípio de incêndio.'
+      },
+      {
+        type: 'heading',
+        text: 'Litoral: onde o erro elétrico se multiplica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e em todo o litoral norte catarinense, o desafio elétrico ganha dois agravantes. Primeiro, a maresia: sal e umidade corroem conexões, trilhos de quadro e contatos em ritmo acelerado, transformando pontos que seriam estáveis em outras regiões em focos de aquecimento. Segundo, a incidência de descargas atmosféricas na faixa costeira, que exige atenção redobrada a DPS e SPDA. Nesse cenário, o papel do engenheiro vai além de aplicar norma: é especificar grau de proteção adequado, materiais resistentes à corrosão e plano de manutenção periódica que mantenha a instalação segura ao longo dos anos — não só no dia da entrega.'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre engenheiro e instalação elétrica'
+      },
+      {
+        type: 'paragraph',
+        text: 'O eletricista pode fazer a instalação sozinho, sem engenheiro? O profissional de execução é fundamental — mas quem dimensiona, define proteções, emite projeto e assume responsabilidade técnica é o engenheiro, com ART. A combinação certa é eletricista experiente executando sob projeto e acompanhamento técnico: cada um fazendo o seu papel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha casa é pequena. Preciso mesmo de projeto elétrico? Sim. O risco elétrico não mede metragem: uma casa compacta com chuveiro, ar-condicionado e bomba concentra cargas pesadas que precisam de circuitos e proteções corretos. Projeto residencial simples custa uma fração do prejuízo de um único incêndio — ou de uma geladeira queimada por falta de DPS.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa um projeto elétrico residencial? Valores variam com área e complexidade, mas em referências de mercado para Santa Catarina projetos residenciais típicos ficam na faixa de R$ 1.500 a R$ 6.000, incluindo memorial e plantas. Em reformas e obras maiores, o valor acompanha o escopo. Desconfie de orçamentos muito abaixo da faixa: geralmente significam documento genérico, sem cálculo — exatamente o que não protege ninguém.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O que é ART e por que ela importa tanto? A Anotação de Responsabilidade Técnica é o registro no CREA que vincula aquele serviço àquele profissional habilitado. É a ART que dá lastro ao laudo, habilita cobertura de seguro, comprova autoria técnica em disputa judicial e diferencia uma instalação verificada de um improviso documentado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Reformei sem projeto. O que faço agora? Comece por uma vistoria com laudo elétrico: o diagnóstico mostra o que está seguro, o que precisa correção urgente e o que pode ser adequado gradualmente. Prioridade número um sempre para proteção de pessoas — DR, aterramento e quadro — e depois para conforto e organização documental.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para que servem DR e DPS, afinal? O DR (dispositivo residual) protege pessoas: detecta fugas de corrente e desliga em frações de segundo antes do choque fatal. O DPS protege equipamentos: absorve surtos de raio e da rede antes que alcem a TV, a geladeira ou o ar-condicionado. Um bom projeto usa os dois, dimensionados e distribuídos corretamente.'
+      },
+      {
+        type: 'heading',
+        text: 'Instalação elétrica segura com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia projeta, acompanha, verifica e lauda instalações elétricas em Navegantes e em todo o litoral norte de Santa Catarina — residenciais, comerciais e industriais — com dimensionamento conforme NBR 5410 e NBR 14039, especificação anticorrosiva para o ambiente litorâneo, medições instrumentadas e ART registrada no CREA-SC em todas as etapas. Se você está construindo, reformando ou desconfia da instalação atual do seu imóvel, fale com nossa equipe: segurança elétrica se projeta, se executa e se comprova — e nós fazemos os três.'
+      }
+    ]
+  },
+  {
+    slug: 'importancia-engenharia-construcao-piscinas-areas-externas',
+    title: 'A Importância da Engenharia na Construção de Piscinas e Áreas Externas',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Engenharia na construção de piscinas e áreas externas em Navegantes SC — engenheiro da Regê Engenharia acompanha execução estrutural de piscina de concreto armado e área de lazer residencial no litoral catarinense.',
+    excerpt: 'Piscina não é "cavar e azulejar": é estrutura de concreto armado sujeita a empuxo, lençol freático, impermeabilização e instalações dimensionadas. No litoral, solo arenoso e maresia elevam o nível de exigência. Entenda por que a engenharia decide se sua área de lazer dura décadas ou vira problema em poucos anos.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'A piscina é o sonho de consumo número um de quem constrói ou reforma no litoral de Santa Catarina. Sol quase o ano inteiro, calor na temporada, valorização imobiliária: faz todo sentido querer uma. O que não faz sentido é tratar a piscina como um complemento simples — algo que "qualquer pedreiro resolve". Uma piscina é uma estrutura de engenharia completa: concreto armado calculado, impermeabilização projetada, instalações dimensionadas e drenagem resolvida. Quando qualquer um desses pontos falha, o resultado aparece rápido: trinca, vazamento, deck afundando ou, no pior cenário, uma piscina que literalmente sobe do chão.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo explica por que piscinas e áreas externas exigem projeto e responsabilidade técnica, quais são os pontos críticos que a engenharia controla, os erros mais comuns que transformam lazer em dor de cabeça e como a Regê Engenharia conduz esse tipo de obra em Navegantes e região.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que piscina é obra estrutural'
+      },
+      {
+        type: 'paragraph',
+        text: 'Uma piscina residencial de tamanho médio carrega dezenas de milhares de litros de água. Cada metro cúbico pesa cerca de uma tonelada — ou seja, a estrutura fica permanentemente submetida a esforços enormes, distribuídos de forma diferente quando cheia, vazia ou em obras. Somente um cálculo estrutural correto garante que as paredes e o fundo resistam:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Empuxo da água — pressão constante sobre paredes e fundo, em todas as direções',
+          'Empuxo do solo — quando a piscina está vazia, o terreno empurra para dentro; é a causa clássica de trincas em piscinas esvaziadas',
+          'Flutuação — em solos com lençol freático alto, piscina vazia pode literalmente subir e sair do lugar como um navio encalhado ao contrário',
+          'Recalque — assentamento diferencial do terreno gera fissuras que viram vazamentos'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, esses riscos são amplificados: solo arenoso típico do litoral, lençol freático frequentemente raso — quanto mais perto da praia, mais alto — e maresia atacando armaduras e metais. Piscina aqui sem projeto estrutural não é economia: é aposta contra a física.'
+      },
+      {
+        type: 'quote',
+        text: 'Nenhum acabamento compensa estrutura errada: azulejo bonito sobre trinca é apenas trinca decorada.'
+      },
+      {
+        type: 'heading',
+        text: 'Impermeabilização: o sistema invisível que segura a água'
+      },
+      {
+        type: 'paragraph',
+        text: 'Concreto armado resiste aos esforços, mas sozinho não é estanque. A estanqueidade vem de um sistema de impermeabilização projetado — normalmente argamassas poliméricas estruturais combinadas com mantas ou membranas flexíveis nos pontos de movimento. Os detalhes críticos são justamente onde amadores falham: recantos, passagens de tubulação, junções parede-fundo e bordas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vazamento em piscina não é incômodo estético: água infiltrada lava o solo de apoio, corrói armaduras, desestabiliza o deck vizinho e pode alcançar a fundação da própria casa. Corrigir impermeabilização depois da piscina pronta significa quebrar tudo — o custo da prevenção é fração do custo do conserto.'
+      },
+      {
+        type: 'heading',
+        text: 'Instalações hidráulicas e elétricas dimensionadas'
+      },
+      {
+        type: 'list',
+        items: [
+          'Recirculação e filtragem — posicionamento de skimmers, bocais de retorno e dreno definidos no projeto para garantir tratamento eficiente; remendo hidráulico depois de pronto significa quebrar azulejo',
+          'Dimensionamento de bombas e filtros — vazão correta evita água verde e energia desperdiçada por equipamento superdimensionado',
+          'Elétrica com proteção real — iluminação subaquática e motores exigem circuito próprio, DR e aterramento conforme a NBR 5410; eletricidade e água sem proteção adequada é risco de vida, não de manutenção',
+          'Instalação de aquecimento — painéis solares ou bomba de calor previstos no projeto desde o início'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Áreas externas: muito além do gramado'
+      },
+      {
+        type: 'paragraph',
+        text: 'O entorno da piscina — deck, pergolado, gourmet, paisagismo — também é território de engenharia. É lá que convivem pé-direito livre, chuva, sol e salinidade, condições que exigem decisão técnica:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Drenagem pluvial — deck mal nivelado manda água de volta para casa ou para debaixo da piscina; caimento e grelhas são projeto, não improviso',
+          'Estruturas de apoio — pergolados, coberturas e varandas precisam de fundação própria calculada; coluna plantada sobre laje de piscina ou piso antigo é patologia marcada',
+          'Materiais para litoral — madeira tratada, inox adequado, fixações galvanizadas ou inox: maresia destrói em meses o que foi especificado pelo preço',
+          'Antiderrapagem e acessibilidade — revestimentos molhados precisam de aderência e rotas seguras entre ambientes'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Os erros que mais aparecem em obras de piscina'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construir sem projeto estrutural — espessuras e ferros "de olho", que aguentam até o primeiro verão difícil',
+          'Ignorar o lençal freático — drenos aliviadores e lastro de concretagem ignorados custam caro quando a cava enche de água',
+          'Esvaziar a piscina errado — piscina projetada para operar cheia pode trincar ou flutuar se esvaziada sem orientação técnica',
+          'Passar tubulações pela estrutura — rompendo armadura calculada e criando pontos de infiltração permanente',
+          'Deck colado à piscina sem junta — movimentação térmica transmite tensão e racha os dois',
+          'Elétrica improvisada — tomada e luminária sem proteção DR junto à água'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Durabilidade no litoral: o que a engenharia prevê desde o início'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em ambiente marítimo, a durabilidade é decidida na especificação: cobrimento de armadura adequado, concreto dosado para exposição agressiva, metais inox, madeira tratada e inspeção periódica das instalações. A Regê Engenharia trabalha diariamente com essa realidade em Navegantes — e sabe que piscina bem projetada no litoral exige decisões diferentes de piscina de interior, começando pela fundação e terminando no parafuso do corrimão.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia constrói piscinas e áreas externas'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto completo antes da pá — estrutural, hidráulica, elétrica e drenagem compatibilizados, com ART registrada no CREA-SC',
+          'Execução com controle técnico — conferência de armação antes da concretagem, teste de estanqueidade antes do revestimento',
+          'Área externa integrada — deck, gourmet e paisagismo desenhados junto com a piscina, não remendados depois',
+          'Cronograma e medição transparentes — você sabe quanto custa, quando termina e por quê'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre construção de piscinas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de projeto mesmo para uma piscina pequena? Sim. O tamanho reduz a quantidade de água, não os esforços: empuxo, solo e lençol freático agem igualmente. Piscina pequena mal construída trinca igual à grande.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso construir piscina colada à casa? Pode, mas exige projeto: as fundações interagem, e a junta entre piscina e construção é detalhe crítico de impermeabilização. Feito certo, é ótima solução de layout; feito errado, infiltra dentro de casa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com que frequência posso esvaziar minha piscina? Só com orientação técnica. Em solo com lençol alto, piscina vazia sem procedimento correto pode flutuar ou sofrer pressões para as quais não foi projetada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vinil ou fibra dispensam engenharia? Não. Qualquer sistema — concreto, vinil ou fibra — precisa de escavação estável, base dimensionada, drenagem e instalações corretas. O material do revestimento é a menor parte da engenharia envolvida.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva uma obra de piscina com área externa? Com projeto pronto e execução profissional, o ciclo típico de piscina com deck e gourmet leva algumas semanas — menos que o retrabalho de uma obra malfeita leva só para ser diagnosticada.'
+      },
+      {
+        type: 'heading',
+        text: 'Sua piscina com engenharia de verdade: fale com a Regê'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia projeta e constrói piscinas e áreas externas completas em Navegantes e no Litoral Norte de Santa Catarina — do cálculo estrutural ao acendimento da primeira iluminação, com instalações dimensionadas, impermeabilização garantida e ART registrada no CREA-SC em todas as etapas. Fale com nossa equipe e transforme seu quintal na área de lazer que você imaginou — construída para durar, não para dar história.'
+      }
+    ]
+  },
+  {
+    slug: 'servicos-de-engenharia-navegantes',
+    title: 'Serviços de Engenharia em Navegantes: Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/hero-rege.png',
+    imageAlt: 'Serviços de engenharia em Navegantes SC - equipe da Regê Engenharia com capacetes analisa projeto em canteiro de obra no litoral de Santa Catarina, unindo construção, projetos, laudos e regularização.',
+    excerpt: 'Projetos, aprovações, obras, laudos e regularização: entenda quais serviços de engenharia Navegantes exige em cada fase e como a Regê Engenharia resolve tudo isso sob o mesmo teto, com responsabilidade técnica registrada no CREA-SC.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Navegantes vive um ciclo raro de transformação: o Porto movimenta cargas e atrai indústria, a orla da Meia Praia ganha novos empreendimentos a cada temporada, bairros como São Domingos e o Centro se adensam e o turismo puxa reformas e construções o ano inteiro. Nesse movimento, uma pergunta atravessa proprietários, investidores e empresários: onde encontrar serviços de engenharia em Navegantes que realmente resolvam — do primeiro traço do projeto à chave entregue, passando por prefeitura, bombeiros e laudos técnicos?'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica quais serviços de engenharia a cidade demanda, os desafios específicos de construir no litoral catarinense e como a Regê Engenharia se organiza para ser a solução completa para cada uma dessas necessidades — com equipe própria, responsabilidade técnica registrada no CREA-SC e conhecimento profundo das regras locais.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que Navegantes demanda tantos serviços de engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Poucas cidades de porte médio concentram tanta diversidade construtiva. Em um mesmo município convivem residências de alto padrão na beira-mar, condomínios em expansão, galpões logísticos ligados ao Porto, comércio turístico na orla e indústria no distrito de Machados. Cada tipologia exige engenharia diferente — e todas esbarram nas mesmas condições locais:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Solo arenoso com lençol freático elevado — fundações mal dimensionadas geram recalques, trincas e prejuízos anos depois da entrega',
+          'Maresia agressiva — cloretos corroem armaduras e instalações, exigindo especificação técnica adequada desde o projeto',
+          'Legislação municipal específica — código de obras, taxas de ocupação, recuos e regras de parcelamento próprios que mudam o partido de cada projeto',
+          'Licensing ambiental sensível — proximidade de manguezais, restinga e do estuário do Itajaí-Açu amplia exigências de licenciamento',
+          'Ritmo de crescimento — aprovações e executores disputados; quem demora paga mais caro ou perde a janela do empreendimento'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quais serviços de engenharia você pode precisar'
+      },
+      {
+        type: 'paragraph',
+        text: 'A vida útil de qualquer imóvel passa por quatro grandes fases — e cada uma delas tem seus serviços de engenharia:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Antes: projetos e aprovações — projeto arquitetônico, estrutural, hidrossanitário e elétrico; compatibilização entre disciplinas; aprovação na prefeitura e no Corpo de Bombeiros; licenciamento ambiental quando aplicável',
+          'Durante: execução e gestão de obra — construção nova, reforma ou ampliação com acompanhamento técnico, controle de qualidade, medição de serviços e gestão de fornecedores',
+          'Depois: laudos e vistorias — avaliação estrutural, diagnóstico de patologias (trincas, infiltrações), laudos de conformidade para empresas (NRs) e vistorias para compra e venda',
+          'A qualquer momento: regularização — habite-se, REURB, regularização de construções sem projeto aprovado e adequação de imóveis para financiamento'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O erro mais caro não é contratar engenharia — é contratá-la em pedaços, com cada prestador resolvendo só a sua etapa e ninguém respondendo pelo conjunto.'
+      },
+      {
+        type: 'heading',
+        text: 'O problema de terceirizar cada etapa com fornecedores diferentes'
+      },
+      {
+        type: 'paragraph',
+        text: 'O fluxo tradicional separa arquiteto, engenheiro estrutural, projetista hidráulico, despachante, mestre de obras e laudista. Quando esses profissionais não trabalham integrados, as consequências aparecem rápido: projeto estrutural que não confere com o arquitetônico, instalação elétrica embutida onde passaria a hidráulica, aprovação negada por incompatibilidade documental e obra parada enquanto se refaz planta. Cada retrabalho custa prazo e dinheiro — e a responsabilidade se dilui entre tantos envolvidos que ninguém responde integralmente pelo resultado.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia pode ser a solução'
+      },
+      {
+        type: 'subheading',
+        text: '1. Todos os serviços sob o mesmo teto'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia reúne projetos, aprovações, execução de obras, laudos e regularização em uma única equipe. Na prática, isso significa uma interlocutora do início ao fim: o mesmo escritório que projeta sua casa acompanha a aprovação na prefeitura de Navegantes, executa ou gerencia a obra e emite os laudos finais. A compatibilização entre disciplinas acontece internamente, antes de virar problema em campo.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Conhecimento local que faz diferença no bolso'
+      },
+      {
+        type: 'paragraph',
+        text: 'Atuar diariamente em Navegantes significa conhecer o comportamento do solo de cada bairro, saber quais especificações resistem à maresia e dominar a leitura das exigências municipais. Esse conhecimento encurta aprovações, evita fundações subdimensionadas e direciona o orçamento para onde ele realmente protege o investimento — não para soluções genéricas importadas de outra realidade.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Responsabilidade técnica e segurança jurídica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo serviço conduzido pela Regê — projeto, obra, laudo ou regularização — sai com ART registrada no CREA-SC. É essa anotação que dá validade legal ao trabalho, protege o proprietário em financiamentos, perícias e fiscalizações e garante que sempre haverá um profissional habilitado respondendo tecnicamente pelo resultado.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Orçamento transparente e comunicação próxima'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê trabalha com orçamento executivo detalhado — serviço por serviço, material por material — e cronograma físico-financeiro acompanhável. O cliente sabe o que está pagando, em que etapa a obra está e quais decisões impactam o custo. Transparência aqui não é discurso: é método de trabalho.'
+      },
+      {
+        type: 'heading',
+        text: 'Os serviços da Regê Engenharia em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projetos — arquitetônico, estrutural, hidrossanitário, elétrico e complementares, para residências, comércios, indústrias e empreendimentos',
+          'Aprovações e licenciamento — alvará de construção, aprovação na prefeitura, Corpo de Bombeiros e órgãos ambientais, com acompanhamento até a liberação',
+          'Construção e reformas — execução própria ou gestão técnica completa da obra, com controle de qualidade, prazo e custo',
+          'Laudos e vistorias — avaliação estrutural, diagnóstico de patologias, laudos de conformidade (NRs) e vistorias para transações imobiliárias',
+          'Regularização — habite-se, REURB e adequação de construções sem projeto aprovado',
+          'Consultoria técnica — apoio à decisão antes de comprar, construir, reformar ou investir, com análise viável de custos e riscos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Quando vale acionar um serviço de engenharia'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vai construir ou reformar — antes de comprar o terreno ou fechar o projeto, uma consultoria define viabilidade, custos e prazos realistas',
+          'Vai comprar um imóvel — a vistoria técnica antecipada revela problemas estruturais e de regularização antes da assinatura',
+          'Apareceram trincas, infiltrações ou recalques — o laudo identifica a causa e dimensiona a correção antes que o problema multiplique',
+          'Precisa regularizar — construções sem aprovação impedem financiamento, inventário e venda; a regularização resolve',
+          'Sua empresa precisa de conformidade — laudos de NRs, PMOC e manutenção predial mantêm a operação legal e auditável',
+          'Quer expandir — ampliação de galpão, mezanino ou mudança de uso exigem projeto, aprovação e execução coordenados'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre serviços de engenharia em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa contratar serviços de engenharia em Navegantes? Depende do escopo: um projeto residencial completo tem faixa de preço diferente de um laudo pontual ou da gestão de uma obra. O caminho certo é solicitar proposta com escopo detalhado — a Regê apresenta orçamento executivo discriminado, sem valores genéricos que viram surpresa depois.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Reforma pequena precisa de engenheiro? Toda reforma que interfere em estrutura, instalações ou fachada pede responsabilidade técnica — além de ser o que garante que a parede removida não era estrutural e que a nova carga está acomodada. Até reformas simples ganham segurança com acompanhamento profissional.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê atende apenas em Navegantes? A base é Navegantes, mas a atuação cobre todo o Litoral Norte catarinense: Itajaí, Balneário Camboriú, Penha, Porto Belo e região — inclusive obras industriais e comerciais em outros municípios.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Contratar empresa ou profissional autônomo? A empresa oferece amplitude: várias especialidades sob coordenação única, continuidade garantida mesmo com troca de profissionais e responsabilidade formal estabelecida em contrato. Para projetos que atravessam várias fases — como construir do zero —, essa integração costuma pesar mais que diferença de honorários.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Como funciona o primeiro contato? Você apresenta a necessidade (construir, reformar, regularizar, resolver um problema) e a Regê retorna com o diagnóstico preliminar, o escopo recomendado e a proposta comercial. Sem compromisso e com clareza sobre próximos passos.'
+      },
+      {
+        type: 'heading',
+        text: 'Sua piscina com engenharia de verdade: fale com a Regê'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia projeta e constrói piscinas e áreas externas completas em Navegantes e no Litoral Norte de Santa Catarina — do cálculo estrutural ao acendimento da primeira iluminação, com instalações dimensionadas, impermeabilização garantida e ART registrada no CREA-SC em todas as etapas. Fale com nossa equipe e transforme seu quintal na área de lazer que você imaginou — construída para durar, não para dar história.'
+      }
+    ]
+  },
+  {
+    slug: 'obras-comerciais-navegantes-dependem-engenheiro',
+    title: 'Por Que Obras Comerciais em Navegantes Dependem de um Engenheiro?',
+    tag: 'OBRAS',
+    image: '/images/obra-comercial.png',
+    imageAlt: 'Obras comerciais em Navegantes SC — engenheiro civil da Regê acompanhando execução de loja e galpão comercial com projetos, ART e fiscalização técnica no litoral catarinense.',
+    excerpt: 'Na obra comercial, o risco é do público: grandes vãos, mezaninos, estoque empilhado, climatização central e acessibilidade. Veja por que a lei exige engenheiro, o que ele faz nas 7 etapas da obra e quanto custa abrir sem regularização.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Navegantes vive seu melhor ciclo econômico: Porto operando em regime contínuo, aeroporto internacional em expansão, turismo forte e comércio crescendo de Meia Praia ao Centro. Todo mês um novo ponto comercial abre — ou tenta abrir — as portas na cidade. Mas há uma diferença fundamental entre a obra residencial e a comercial: na sua casa, o risco é da sua família; no comércio, o risco é do público que circula pelo imóvel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'É por isso que obra comercial em Navegantes depende de engenheiro — por exigência legal, por necessidade técnica e por sobrevivência financeira do negócio.'
+      },
+      {
+        type: 'heading',
+        text: 'Motivo legal: é exigência de lei, não preferência'
+      },
+      {
+        type: 'list',
+        items: [
+          'Lei 5.194/1966 — construção só por profissional habilitado com registro no CREA',
+          'Código de Obras de Navegantes + LC 416/2021 — alvará exige projeto assinado por responsável técnico',
+          'ART obrigatória (ATO) — sem ela, sem alvará, sem seguro e sem financiamento',
+          'CBMSC — AVCB/CLCB exige projetos técnicos de profissionais habilitados',
+          'NR-18/NR-35 — canteiro e trabalho em altura exigem gestão técnica durante a obra',
+          'Código Civil arts. 618-619 — responsável responde pela solidez e segurança do imóvel por 5 anos'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Sem engenheiro, o negócio simplesmente não se legaliza: prefeitura não emite alvará, Bombeiros não emite AVCB, banco não financia e seguradora não cobre. A porta abre irregular — ou não abre nunca.'
+      },
+      {
+        type: 'heading',
+        text: 'Motivo técnico: obra comercial é mais crítica que residencial'
+      },
+      {
+        type: 'list',
+        items: [
+          'Grandes vãos de loja e salão — vigas de vão largo não se chutam; flecha mal calculada racha piso',
+          'Mezaninos e estruturas internas — carga de uso e lotação pública dimensionadas conforme norma',
+          'Estoque empilhado em galpão — paletização pesa mais por m² que uso residencial',
+          'Equipamentos no telhado — ar-condicionado central e exaustores exigem carga concentrada e fixação antivento',
+          'Elétrica trifásica de porte — quadro subdimensionado esquenta e incendeia',
+          'Acessibilidade NBR 9050 — rampas, banheiros e rotas acessíveis obrigatórias ao público',
+          'Evacuação e incêndio CBMSC — saídas e sinalização calculados pela ocupação',
+          'Maresia e vento — concreto, cobrimentos e fixações especificados para o litoral',
+          'Prazo é faturamento — cada dia de obra atrasada é dia de portas fechadas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Os 7 papéis do engenheiro na sua obra comercial'
+      },
+      {
+        type: 'list',
+        items: [
+          'Viabilidade estrutural do ponto antes de fechar contrato: telhado aguenta climatização? Piso aguenta freezer industrial?',
+          'Projetos compatibilizados: arquitetônico, estrutural, elétrico, hidráulico e incêndio conversando entre si',
+          'Licenças gerenciadas: alvará na prefeitura, processo no Bombeiros e exigências sanitárias com prazo controlado',
+          'Gestão de custo e prazo: orçamento analítico, cronograma e medições para abrir na data marcada',
+          'Qualidade litorânea: materiais contra a maresia — menos manutenção e ponto que valoriza',
+          'Segurança do canteiro: NR-18, EPIs e ARTs de subcontratados evitam interdição no meio da reforma',
+          'Documentação final: Habite-se, AVCB e pasta técnica que protegem o negócio em seguro, venda e fiscalização'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que acontece quando se constrói sem engenheiro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Embargo ou interdição — prefeitura embarga obra sem alvará; MTE interdita canteiro irregular',
+          'AVCB negado — sem projeto de incêndio aprovado, o comércio pronto e mobiliado não pode abrir',
+          'Colapso estrutural — mezanino subdimensionado ou telhado arrancado por vento gera responsabilidade civil e criminal',
+          'Retrabalho encadeado — ponto elétrico trocado depois do forro custa de 3 a 10 vezes mais',
+          'Seguro recusado — sinistro em obra sem ART e projeto tem indenização negada',
+          'Passivo civil de 5 anos — vício construtivo cobra do dono, mesmo após vender ou alugar'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A pergunta certa não é quanto custa o engenheiro, e sim quanto custa ficar 90 dias com o comércio fechado esperando regularização.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa ter versus não ter'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto comercial completo — R$ 80 a R$ 200/m² construído',
+          'Laudo de viabilidade estrutural de ponto existente — R$ 900 a R$ 2.500',
+          'Assessoria de aprovação e acompanhamento — orçados por complexidade da obra',
+          'Dia de comércio fechado por irregularidade — faturamento diário integral perdido',
+          'Acidente com vítima — indenizações, ação penal e fim do negócio'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre obras comerciais'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha lojinha tem só 40 m², precisa mesmo? Precisa de responsável técnico para legalizar: o porte muda o volume das exigências, mas não elimina alvará, ART nem processo de incêndio.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Já tenho o imóvel alugado, o engenheiro serve pra quê? Para viabilidade: avaliar se a estrutura aguenta seu negócio, orientar a reforma dentro da lei e negociar melhorias com base técnica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro substitui o arquiteto? Não — são complementares. O arquiteto define espaço e experiência; o engenheiro garante estrutura, instalações, segurança e legalidade executável. A Regê coordena os dois num fluxo único.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vale para Itajaí, Penha e Balneário Camboriú? Sim — a Regê atende todo o Litoral Norte de SC, com conhecimento das legislações municipais e do CBMSC de cada cidade.'
+      },
+      {
+        type: 'heading',
+        text: 'Sua obra comercial com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia projeta, aprova, executa e documenta obras comerciais em Navegantes e em todo o Litoral Norte de Santa Catarina — viabilidade estrutural do ponto, projetos compatibilizados incluindo incêndio, gestão de prazo para abrir na data e entrega com alvará, AVCB e pasta técnica completa, sempre com ART registrada no CREA-SC. Fale com nossa equipe e abra seu negócio com segurança por dentro e por fora.'
+      }
+    ]
+  },
+  {
+    slug: 'como-engenheiro-faz-gestao-prazos-construcao',
+    title: 'Como um Engenheiro Faz a Gestão de Prazos na Sua Construção',
+    tag: 'GESTÃO',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Gestão de prazos na construção civil — engenheiro da Regê Engenharia em Navegantes SC analisa cronograma físico da obra com tablet e prancheta no canteiro, acompanhando o avanço de cada etapa.',
+    excerpt: 'Obra atrasada não é azar: é falha de gestão. Entenda como o engenheiro constrói um prazo realista — cronograma físico, caminho crítico, lead time de materiais, controle semanal de avanço e replanejamento — e por que esse método é o que separa obras que entregam na data de obras que se arrastam.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: '"Quando termina?" é a pergunta que todo cliente faz — e a resposta que mais gera frustração na construção civil. Não porque obra sempre atrasa (mito), mas porque a maioria dos prazos anunciados nunca foi tecnicamente construída: são estimativas de otimismo, sem cronograma, sem caminho crítico e sem controle. O resultado é conhecido: seis meses viram dez, o aluguel se estica, o orçamento estoura junto e a confiança desgasta.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A gestão de prazos profissional funciona de outro jeito: o prazo não é prometido, é calculado; não é torcido, é controlado semana a semana. Este artigo mostra exatamente como um engenheiro faz isso — do cronograma inicial ao replanejamento — e por que essa disciplina é decisiva em obras no litoral de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O que significa gerir prazos (e o que não significa)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Gerir prazo não é cobrar pedreiro nem apertar ritmo. É uma engenharia própria, com ferramentas e rotina:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Planejar — decompor a obra em etapas, sequenciar dependências e atribuir duração técnica a cada uma',
+          'Prever recursos — mão de obra, materiais e equipamentos disponíveis quando cada etapa pedir',
+          'Medir — comparar o avanço real contra o planejado, com frequência fixa',
+          'Corrigir — identificar desvio cedo e replanejar enquanto a correção ainda é barata'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Atraso grande nunca nasce de repente: nasce pequeno, na terceira semana, quando ninguém estava medindo.'
+      },
+      {
+        type: 'heading',
+        text: 'Etapa 1 — Cronograma físico realista'
+      },
+      {
+        type: 'paragraph',
+        text: 'Tudo começa com o cronograma físico da obra: a decomposição em etapas (serviços preliminares, fundação, estrutura, alvenaria, instalações, acabamentos) com início, fim e responsáveis. O ponto técnico está nos detalhes:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Sequenciamento real — alvenaria depende de estrutura; revestimento depende de instalações embutidas e testadas; pular ordem é gerar retrabalho programado',
+          'Duração produtiva — quanto metros quadrados uma equipe executa por dia, com dados reais de produtividade, não com tabela genérica',
+          'Folgas conscientes — chuva e imprevistos entram como margem calculada, não como "esperança de que não vai chover"',
+          'Integração com orçamento — no modelo ideal, cronograma físico e financeiro andam juntos: cada etapa tem custo e data'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Etapa 2 — Caminho crítico: onde o atraso realmente nasce'
+      },
+      {
+        type: 'paragraph',
+        text: 'Nem toda tarefa atrasada atrasa a obra. A fundação pode esperar dois dias sem consequência; a laje que vem depois dela, não. O conjunto de atividades encadeadas que determina a data final é o caminho crítico — e é nele que o gestor olha primeiro. Na prática:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Identificar as tarefas que não podem atrasar um dia sequer sem empurrar a entrega final',
+          'Proteger essas tarefas com prioridade absoluta de equipe, material e decisão',
+          'Saber quais atividades têm folga e podem ser remanejadas sem dano ao prazo total'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Sem essa visão, a equipe "corre" em tudo e o prazo escapa mesmo assim — porque o esforço foi gasto onde não decidia nada.'
+      },
+      {
+        type: 'heading',
+        text: 'Etapa 3 — Lead time de materiais: o atraso invisível'
+      },
+      {
+        type: 'paragraph',
+        text: 'Grande parte dos atrasos não acontece no canteiro: acontece no pedido que deveria ter sido feito três semanas antes. Esquadrias sob medida, estruturas metálicas, telhas especiais, equipamentos importados, louças e metais em falta no litoral: cada item tem um tempo de fornecimento próprio. O engenheiro gestor:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Mapeia os itens de longo lead time já no projeto, não na hora da necessidade',
+          'Dispara compras antecipadas ancoradas no cronograma, com datas de chegada confirmadas',
+          'Confere especificação antes de fechar pedido — material errado parado em obra é atraso disfarçado de estoque'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Etapa 4 — Gestão de equipes e subempreiteiros'
+      },
+      {
+        type: 'paragraph',
+        text: 'Uma obra residencial típica passa por meia dúzia de frentes especializadas: fundação, carpintaria, alvenaria, elétrica, hidráulica, gesso, pisos, pintura. Cada troca de frente é um risco de buraco no cronograma. A gestão profissional garante:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Contratação com data — subempreiteiro sabe com antecedência qual dia sua frente começa e o que precisa estar pronto',
+          'Condições de continuidade — frente seguinte só entra com a anterior liberada e conferida',
+          'Interface resolvida — quem embute caixa de elétrica sabe onde, porque recebeu o projeto e a orientação, não descobre na parede'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Etapa 5 — Controle semanal: medir para não torcer'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cronograma sem controle é decoração de pasta. A rotina de gestão inclui reunião semanal de obra curta e objetiva: o que avançou, o que travou, o que entra na próxima semana, que decisão destrava. O avanço físico é registrado e comparado ao planejado — em obras maiores, pela curva S, que mostra visualmente se a obra está adiantada ou atrasada. Desvio pequeno identificado na semana certa se corrige com ajuste fino; ignorado, vira mês perdido.'
+      },
+      {
+        type: 'heading',
+        text: 'Etapa 6 — Replanejamento: quando (não se) o atraso acontece'
+      },
+      {
+        type: 'paragraph',
+        text: 'Chuva atípica, material atrasado, imprevisto de solo: desvios acontecem até em obra bem gerida. A diferença do profissional é a reação:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Quantificar — quantos dias o evento custou de fato no caminho crítico',
+          'Recuperar com método — reforço de equipe, sobreposição de frentes compatíveis ou resequenciamento, escolhendo a alternativa de menor custo',
+          'Comunicar — cliente informado com cenário e plano novo, não com silêncio e desculpa'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O fator litoral: prazos em Navegantes exigem premissas próprias'
+      },
+      {
+        type: 'list',
+        items: [
+          'Chuva de verão e umidade — concretagens, pintura e argamassa dependem de janela climática; o cronograma local reserva dias de clima, não finge que ele não existe',
+          'Logística regional — fornecedores concentrados em Itajaí e Balneário Camboriú: distância curta, mas trânsito de temporada que precisa estar no cálculo',
+          'Mão de obra concorrida — porto e indústria disputam profissionais qualificados; equipes boas precisam ser agendadas com antecedência',
+          'Vento forte — montagem de estruturas leves e telhados respeita janelas de segurança operacional'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O que você deve exigir do responsável pela sua obra'
+      },
+      {
+        type: 'list',
+        items: [
+          'Cronograma físico escrito antes de começar — não uma frase solta de "uns seis meses"',
+          'Reunião de acompanhamento periódica com registro de avanço',
+          'Justificativa técnica para qualquer alteração de prazo, com impacto quantificado',
+          'ART registrada no CREA-SC — responsabilidade formal pelo planejamento e pela execução'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre gestão de prazos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todo atraso é culpa da gestão? Nem todo — imprevistos existem. Mas atraso mal comunicado, sem plano de recuperação e sem justificativa quantificada, sim: é falha de gestão. Obra bem administrada antecipa risco e reage com método.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso acelerar minha obra contratando mais gente? Às vezes. Construção tem limites físicos de sobreposição — vinte pessoas num banheiro não pintam mais rápido. Aceleração eficiente acontece no caminho crítico e nas frentes paralelizáveis, decisão técnica e não de volume.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre cronograma físico e cronograma financeiro? O físico organiza as etapas no tempo; o financeiro projeta os desembolsos correspondentes. Integrados, respondem às duas perguntas ao mesmo tempo: quando fica pronto e quanto falta pagar.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto adianta meu prazo com um bom projeto? Mais do que se imagina: projeto completo e compatibilizado elimina as paradas por "falta de definição" — historicamente uma das maiores causas de tempo perdido em obra residencial.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Como acompanho o prazo à distância? Com rotina de relatórios: fotos datadas, percentual de avanço por etapa e pendências abertas. Cliente bem informado toma decisão rápido — e decisão rápida é combustível de prazo.'
+      },
+      {
+        type: 'heading',
+        text: 'Gestão de prazos profissional com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na Regê Engenharia, prazo é compromisso administrado com método: cronograma físico construído com dados, caminho crítico monitorado, compras disparadas no momento certo, reuniões semanais com registro e replanejamento transparente quando necessário — em obras residenciais, comerciais e industriais em Navegantes e no Litoral Norte catarinense, sempre com ART registrada no CREA-SC. Fale com nossa equipe e descubra como a sua obra pode terminar no dia combinado.'
+      }
+    ]
+  },
+  {
+    slug: 'engenheiro-civil-seguranca-ventos-chuvas',
+    title: 'O Engenheiro Civil: Como Garantir a Segurança contra Ventos e Chuvas',
+    tag: 'ENGENHARIA',
+    image: '/images/Evitando Corrosão e Umidade em Navegantes.png',
+    imageAlt: 'Engenheiro civil inspecionando cobertura e fachada de edificação no litoral de Navegantes SC para garantir segurança estrutural contra ventos fortes, chuvas intensas e infiltrações conforme NBR 6123.',
+    excerpt: 'Telhado arrancado, infiltração recorrente e muro que cede não são azar - são projeto sem cálculo de vento e execução sem detalhe. Veja como o engenheiro civil garante a segurança contra ventos e chuvas: o que exigem a NBR 6123, 9575 e 10844, os pontos críticos de projeto e execução, o calendário de manutenção e os erros que o temporal cobra caro.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Toda semana, em algum bairro do litoral catarinense, aparece a mesma cena: telhados arrancados, calhas transbordando, muros que cederam com o encharcamento do solo, lajes manchadas depois do primeiro temporal do ano. Nenhum desses eventos é azar — quase todos têm a mesma origem: edificações projetadas ou executadas sem considerar as forças que vento e chuva exercem sobre elas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, exposta a frentes frias, ciclones extratropicais, rajadas costeiras e chuvas intensas de verão, essa não é preocupação teórica. É a diferença entre uma casa que atravessa décadas inteira e um patrimônio que se desvaloriza — ou coloca pessoas em risco. Este guia mostra como o engenheiro civil garante essa segurança em cada fase.'
+      },
+      {
+        type: 'heading',
+        text: 'Como vento e chuva atacam uma edificação'
+      },
+      {
+        type: 'list',
+        items: [
+          'Pressão e sucção — o vento empurra as fachadas expostas e suga coberturas e beirais (efeito asa): telhas arrancadas e esquadrias arrebentadas',
+          'Rajadas e turbulência — ganhos locais em quinas, cumeeiras e prédios altos concentram danos nos pontos frágeis',
+          'Vibração e fadiga — ciclos de pressão soltam fixações ao longo dos anos até a telha voar',
+          'Chuva dirigida — água lançada lateralmente por vento + chuva entra por juntas, esquadrias e fissuras',
+          'Encharcamento do solo — chuva acumulada satura terreno arenoso: recalques, trincas e muros empurrados',
+          'Sobrecarga na cobertura — calha entupida ou subdimensionada represa a água e vaza para dentro'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O dano quase nunca é do temporal mais forte da história. É do detalhe mal resolvido esperando o temporal certo.'
+      },
+      {
+        type: 'heading',
+        text: 'O que as normas técnicas exigem'
+      },
+      {
+        type: 'list',
+        items: [
+          'NBR 6123 — toda edificação deve ser dimensionada para a velocidade básica do vento da região, corrigida por rugosidade, topografia e dimensões',
+          'NBR 8681 — como combinar ações permanentes, variáveis (vento) e excepcionais no cálculo estrutural',
+          'NBR 9575 — projeto de impermeabilização específico, selecionado por agressividade e exposição do ambiente',
+          'NBR 10844 — dimensionamento de calhas, condutores e drenagem pluvial conforme área de cobertura e chuva local',
+          'NBR 15575 — estanqueidade e resistência mínimas de fachadas, coberturas e esquadrias',
+          'NR-18 / NR-35 — limita operações críticas em altura sob vento forte e exige proteção do canteiro'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'No litoral de Santa Catarina, a velocidade básica de projeto é das mais altas do país — e ainda assim é comum encontrar obra calculada no olho, sem nenhuma verificação de vento. Telhado, platibanda, toldo, marquise e painel solar precisam estar dimensionados para sucção. Não é detalhe estético: é cálculo.'
+      },
+      {
+        type: 'heading',
+        text: 'No projeto: onde a segurança nasce'
+      },
+      {
+        type: 'list',
+        items: [
+          'Cálculo de cargas de vento pela NBR 6123 aplicado a cada superfície da edificação',
+          'Geometria favorável da cobertura — inclinação adequada, beirais moderados, cumeeira orientada contra rajadas predominantes',
+          'Fixação mecânica especificada — tipo, espaçamento e material; colar nunca é sistema único',
+          'Impermeabilização projetada por ambiente, com detalhamento de rufos, juntas e encontros',
+          'Drenagem pluvial dimensionada pela NBR 10844 com folga para picos de chuva',
+          'Caimentos do terreno afastando a água das fundações',
+          'Fundações compatíveis com solo arenoso e variação do lençol freático',
+          'Esquadrias classificadas por estanqueidade e resistência ao vento compatíveis com a exposição real'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Na execução: os pontos onde tudo pode ser perdido'
+      },
+      {
+        type: 'list',
+        items: [
+          'Fixação de telhas conforme projeto, inclusive nas oitavas — região de maior sucção',
+          'Mantas e membranas com sobreposição, primer e detalhamentos corretos nos encontros parede-laje',
+          'Calhas com declive contínuo — calha nivelada represa e vaza para dentro',
+          'Condutores travados e com descida livre — tubulação solta sai do gancho na primeira rajada',
+          'Selantes aplicados em substrato seco e limpo — selante sobre poeira é gasto, não vedação',
+          'Verificação de cada etapa antes de cobrir — o que foi embutido errado só aparece quando chove'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Infiltração não se resolve com tinta por cima; vento não se resolve com parafuso aleatório. Ambos se resolvem com projeto seguido à risca — e ART assinada.'
+      },
+      {
+        type: 'heading',
+        text: 'Durante a obra: protegendo o próprio canteiro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Escoramento provisório de paredes recém-elevadas e elementos pré-moldados',
+          'Cobertura provisória de lajes antes dos períodos chuvosos — concreto novo saturado perde desempenho',
+          'Suspensão de trabalho em altura conforme NR-35 quando rajadas ultrapassam os limites de segurança',
+          'Içamentos e guinchos parados sob vento forte — carga balançando é acidente anunciado',
+          'Estocagem elevada e amarrada de materiais leves que viram projéteis com vento',
+          'Escavações protegidas contra encharcamento — solo arenoso saturado desmorona sem aviso'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Manutenção preventiva: o calendário que evita o prejuízo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Semestralmente, antes do outono: limpeza de calhas, inspeção de telhas soltas e fixações, conferência de rufos. Anualmente: inspeção das impermeabilizações visíveis, teste de escoamento e vedação de esquadrias. Após cada temporal forte: caminhada técnica verificando telhas deslocadas, fissuras novas, erosão junto às fundações e muros trincados. A cada 5 anos: inspeção predial formal com engenheiro pela NBR 16747, atualizando o mapa de patologias.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns que o temporal cobra caro'
+      },
+      {
+        type: 'list',
+        items: [
+          'Telha apoiada ou colada — a sucção arranca sem esforço; fixação mecânica é obrigatória',
+          'Calha subdimensionada ou sem declive — represa e devolve a água para dentro exatamente no pico da chuva',
+          'Terreno sem caimento para a rua — a água acumula junto à fundação e satura o solo arenoso',
+          'Platibanda alta sem contraventamento calculado — painel vertical pega toda a força do vento',
+          'Toldo, pergolado e painel solar fixados sem avaliação — todo elemento agregado à cobertura entra no cálculo',
+          'Ampliação sem rever a drenagem — nova área de cobertura sobrecarrega calhas antigas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre segurança contra ventos e chuvas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha casa é pequena e baixa, precisa de cálculo de vento? Precisa — a NBR 6123 vale para todas as edificações. Telhado leve em área aberta próxima ao mar é justamente o caso mais sensível à sucção.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Como sei se meu telhado está seguro? A comparação entre o que existe (telha, fixações, vãos, inclinação) e o que a norma exige para sua exposição só pode ser feita tecnicamente — o laudo de engenharia dá esse parecer.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Infiltração sempre significa problema grave? Não — mas só o laudo diferencia mancha estética de patologia ativa. Tratar por conta própria mascara o sintoma enquanto a causa continua trabalhando dentro da parede.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso instalar painel solar sem mexer no telhado? Os pontos de fixação e o peso adicional devem ser avaliados por engenheiro — em telhado leve ou madeira antiga, o painel bem instalado pode expor fragilidade pré-existente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês avaliam imóvel já construído? Sim. A Regê Engenharia realiza inspeção técnica completa — cobertura, fachadas, drenagem, fundações — com laudo de situação e plano de correção priorizado.'
+      },
+      {
+        type: 'heading',
+        text: 'Segurança contra intempéries com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, temporais não são hipótese — são agenda. A edificação segura é aquela cujo engenheiro calculou o vento antes de erguer a cobertura, projetou a água para fora antes de assentar a primeira parede e acompanhou cada fixação e junta na execução. A Regê Engenharia entrega esse pacote completo no Litoral Norte catarinense: projetos com cálculo normativo, execução acompanhada com ART, laudos técnicos e planos de correção. Fale com nossa equipe e proteja seu imóvel do próximo temporal — não do anterior.'
+      }
+    ]
+  },
+  {
+    slug: 'engenheiro-retificacao-limites-terreno',
+    title: 'A Importância do Engenheiro na Retificação de Limites de Terreno',
+    tag: 'REGULARIZAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Engenheiro civil realiza levantamento topográfico para retificação de limites de terreno em Navegantes e Litoral Norte de SC — planta, memorial descritivo e ART pela Regê Engenharia.',
+    excerpt: 'A cerca não define a divisa - a matrícula sim. Quando as medidas registradas não batem com o terreno real, a retificação de limites resolve o problema juridicamente. Veja por que o engenheiro é peça obrigatória desse processo e como ele conduz cada etapa.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quase todo terreno antigo guarda uma surpresa: a área que está na matrícula não bate exatamente com a área que existe no chão. Às vezes são centímetros; às vezes são metros inteiros que mudam o valor do imóvel, impedem a construção planejada ou acendem briga com o vizinho. O instrumento que corrige essa divergência de forma definitiva e legal é a retificação de limites - e ela só acontece com um engenheiro no comando, porque envolve medição oficial, planta, memorial descritivo e responsabilidade técnica.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo explica o que é a retificação de limites, quando ela é necessária, por que a lei exige profissional habilitado, como funciona o processo etapa a etapa - da análise documental ao registro no cartório - os erros que costumam travar o procedimento e como a Regê Engenharia conduz esse trabalho em Navegantes e no Litoral Norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é retificação de limites'
+      },
+      {
+        type: 'paragraph',
+        text: 'Retificar limites é adequar o registro do imóvel à realidade física comprovadamente medida no terreno. O que define a sua propriedade não é a cerca que o anterior dono levantou nem a lembrança do vendedor - é a descrição técnica registrada na matrícula do Cartório de Registro de Imóveis. Quando essa descrição diverge da ocupação real, existe um passivo documental: a área oficial e a área real são duas coisas diferentes, e isso cobra o preço na primeira venda, financiamento ou obra séria.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a retificação se torna necessária'
+      },
+      {
+        type: 'list',
+        items: [
+          'Medidas divergentes - a matrícula indica uma dimensão e o terreno tem outra, por erro de origem, medição antiga imprecisa ou descrição genérica',
+          'Lotes antigos sem levantamento técnico - parcelamentos de décadas atrás foram registrados com croquis aproximados, sem topografia profissional',
+          'Cercas históricas deslocadas - divisas definidas por quem cercou primeiro, que nunca coincidiram com os limites legais',
+          'Inventários e heranças - partilha informal entre herdeiros que nunca foi refletida nas matrículas',
+          'Compra com área incorreta - adquirente descobre depois da escritura que o imóvel tem menos (ou mais) área do que pagou',
+          'Preparação para construção ou desmembramento - a prefeitura e o cartório exigem coerência entre projeto, alvará e registro',
+          'Base para usucapião - processos extrajudiciais exigem planta georreferenciada assinada por profissional'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A cerca marca a ocupação; a matrícula marca o direito. Enquanto as duas apontarem lugares diferentes, o proprietário carrega um problema silencioso que estoura na pior hora.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a lei exige o engenheiro nesse processo'
+      },
+      {
+        type: 'list',
+        items: [
+          'Planta e memorial com validade legal - o Cartório somente aceita documentos técnicos assinados por profissional registrado no CREA ou CAU, com ART correspondente',
+          'Responsabilidade técnica - o profissional responde pela exatidão das medidas e pela veracidade das informações; documento feito por leigo é indeferido e pode configurar falsidade ideológica',
+          'Método e instrumentação corretos - levantamento executado conforme a NBR 13133, com estação total e receptores GNSS calibrados, amarrado a marcos oficiais',
+          'Georreferenciamento - coordenadas vinculadas ao sistema oficial de referência, requisito crescente em processos registrais e obrigatório em imóveis rurais pela Lei 10.267/2001',
+          'Segurança jurídica do resultado - a retificação mal feita gera anulação do processo, custas perdidas e até indenização a confrontante prejudicada'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona o processo, etapa a etapa'
+      },
+      {
+        type: 'heading',
+        text: '1. Análise documental'
+      },
+      {
+        type: 'paragraph',
+        text: 'Tudo começa no papel: matrícula atualizada, escrituras, plantas anteriores e dados dos imóveis confrontantes. O engenheiro cruza as descrições para entender onde está a divergência e qual é o caminho mais curto para resolvê-la.'
+      },
+      {
+        type: 'heading',
+        text: '2. Levantamento topográfico'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em campo, o perímetro do imóvel é medido com precisão milimétrica, incluindo marcos, cercas, benfeitorias e elementos físicos relevantes. É esse levantamento - e não a opinião de ninguém - que retrata a realidade do terreno.'
+      },
+      {
+        type: 'heading',
+        text: '3. Sobreposição e diagnóstico da divergência'
+      },
+      {
+        type: 'paragraph',
+        text: 'O polígono levantado é comparado com o registrado. O resultado quantifica a diferença de área, identifica onde os limites divergem e revela se há sobreposição com vizinhos ou faixas de terra sem dono documental.'
+      },
+      {
+        type: 'heading',
+        text: '4. Acordo com os confrontantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'A retificação consensual depende da anuência de todos os confrontantes afetados. Aqui o engenheiro é peça-chave: números técnicos objetivos transformam discussão emocional sobre onde fica a divisa em negociação baseada em fato.'
+      },
+      {
+        type: 'heading',
+        text: '5. Planta georreferenciada, memorial descritivo e ART'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com o acordo alinhado, são produzidos os documentos técnicos oficiais: planta com coordenadas, memorial descritivo narrando o perímetro ponto a ponto e a Anotação de Responsabilidade Técnica - o conjunto que o cartório vai examinar.'
+      },
+      {
+        type: 'heading',
+        text: '6. Procedimento registral ou judicial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com anuência de todos, a retificação tramita diretamente no Cartório de Registro de Imóveis, nos termos da Lei 6.015/73, com publicidade e eventual notificação de terceiros. Havendo impugnação de qualquer confrontante, o caminho passa a ser judicial, por ação retificativa ou demarcatória - e a planta com ART continua sendo a prova central do processo.'
+      },
+      {
+        type: 'heading',
+        text: '7. Registro da nova configuração'
+      },
+      {
+        type: 'paragraph',
+        text: 'Averbação concluída, a matrícula passa a descrever o imóvel tal como ele é. A partir dali, venda, financiamento, obra e inventário correm sobre bases sólidas.'
+      },
+      {
+        type: 'heading',
+        text: 'Os erros que mais travam retificações'
+      },
+      {
+        type: 'list',
+        items: [
+          'Planta elaborada por leigo ou por aplicativo - indeferimento na porta do cartório',
+          'Ignorar os confrontantes - tentar retificar sem conversar com vizinho afetado transforma procedimento simples em processo judicial longo',
+          'Usar a cerca como verdade absoluta - a cerca prova posse, não limite legal; às vezes ela própria é a irregularidade',
+          'Medir com GPS de celular - precisão insuficiente para qualquer finalidade registral',
+          'Esquecer benfeitorias e ocupações - construções sobre a linha do limite complicam o desenho da nova configuração',
+          'Matrícula desatualizada - ônus, averbações pendentes e titularidade irregular precisam estar resolvidos antes do pedido'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'O custo de não regularizar'
+      },
+      {
+        type: 'list',
+        items: [
+          'Venda travada - comprador e banco exigem coincidência entre área anunciada e registrada',
+          'Obra embargada - projeto que invade área de vizinho ou de logradouro público para na fiscalização',
+          'Risco de perder área - trecho não utilizado e não documentado pode ser objeto de usucapião de terceiro',
+          'Conflito familiar ampliado - herança com áreas indefinidas multiplica disputas a cada geração',
+          'Valorização comprometida - imóvel documentalmente limpo vale mais e negocia mais rápido em qualquer mercado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Particularidades de Navegantes e do Litoral Norte de SC'
+      },
+      {
+        type: 'list',
+        items: [
+          'Loteamentos balneários antigos - parcelamentos das décadas de 1950 a 1980 concentram descrições imprecisas e ruas que mudaram de traçado',
+          'Terrenos próximos a mar e rios - linhas de preamar e margens variáveis exigem atenção redobrada com áreas de preservação e faixas públicas',
+          'Expansão urbana acelerada - valorização recente transformou divergências antes irrelevantes em litígios de alto valor',
+          'Processos de regularização fundiária (Reurb) - retificação de limites frequentemente integra o pacote de regularização de bairros inteiros',
+          'Cartório e prefeitura locais - experiência com as exigências específicas de cada órgão encurta prazos e evita ciclos de exigência'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre retificação de limites'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso do vizinho de acordo? Para a via consensual no cartório, sim - todos os confrontantes afetados devem anuir. Sem acordo, a solução é judicial. Na prática, uma planta técnica bem feita costuma convencer: o vizinho entende que o objetivo não é tirar terra dele, e sim deixar tudo documentado corretamente.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre retificação, desmembramento e remembramento? Retificação corrige o registro de um imóvel existente. Desmembramento separa parte de um imóvel para criar outro. Remembramento junta imóveis contiguos. São procedimentos diferentes que, inclusive, podem se combinar no mesmo processo de regularização.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Meu GPS de celular mostra uma área diferente. Vale algo? Não para fins legais. A precisão de aparelhos comuns varia em vários metros, enquanto o registro exige precisão de centímetros amarrada ao sistema oficial de referências. Só levantamento com equipamento e método adequados serve de base documental.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Comprei uma casa com área menor do que dizia a escritura. E agora? A retificação ajusta o registro à realidade - mas a consequência patrimonial (diferença de preço) é questão contratual entre vendedor e comprador, muitas vezes resolvida por abatimento ou ação. O laudo técnico quantifica a divergência e sustenta qualquer negociação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva? Depende do consenso e da complexidade. Com confrontantes de acordo e documentação limpa, a via cartorial costuma ser significativamente mais rápida do que qualquer ação judicial. Divergência com impugnação segue o tempo do Judiciário - mais uma razão para investir na qualidade técnica inicial.'
+      },
+      {
+        type: 'heading',
+        text: 'Retifique os limites do seu terreno com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com levantamentos topográficos conforme NBR 13133, plantas georreferenciadas, memoriais descritivos, análise documental e articulação completa junto a cartórios e prefeitura para retificação de limites, desmembramentos e regularização fundiária - tudo com engenheiros habilitados e ART registrada no CREA-SC. Se as medidas da sua matrícula não batem com o seu terreno, fale com nossa equipe: resolver no papel custa muito menos que discutir cerca com vizinho em juízo.'
+      }
+    ]
+  },
+  {
+    slug: 'engenheiro-civil-seguranca-ventos-e-chuvas',
+    title: 'O Engenheiro Civil: Como Garantir a Segurança contra Ventos e Chuvas',
+    tag: 'ENGENHARIA',
+    image: '/images/Evitando Corrosão e Umidade em Navegantes.png',
+    imageAlt: 'Engenheiro civil garantindo segurança de edificação contra ventos e chuvas no litoral de Navegantes - inspeção de telhado, amarrações e impermeabilização após temporal.',
+    excerpt: 'No litoral catarinense, vento arranca telha e chuva encontra cada falha. O engenheiro civil calcula, detalha e inspeciona para que sua casa enfrente temporais sem sustos - entenda como essa segurança é construída.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Quem mora ou constrói no litoral de Santa Catarina conhece o roteiro: o vento sul gira de repente, a rajada apita nas esquadrias, a chuva bate na fachada de lado e, quando o temporal passa, começam os relatos - telha voando, calha estourada, mancha de infiltração no teto, trinca que não existia. Ventos e chuvas são a prova mais frequente e mais implacável que uma edificação enfrenta. E é exatamente contra eles que o engenheiro civil trabalha: calculando, detalhando e inspecionando para que a casa resista ao clima em vez de negociar com ele.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo explica como ventos e chuvas atacam uma construção, quais normas regem esse dimensionamento, o que o engenheiro faz no projeto, na obra e na vida útil do imóvel para garantir segurança - e como a Regê Engenharia aplica tudo isso em Navegantes e no Litoral Norte de Santa Catarina.'
+      },
+      {
+        type: 'heading',
+        text: 'Como ventos e chuvas atacam uma edificação'
+      },
+      {
+        type: 'paragraph',
+        text: 'O primeiro passo para se proteger é entender o mecanismo de ataque. O vento não empurra apenas: ele também suga. Na fachada exposta, gera pressão positiva; nos beirais, cumeeiras e bordas de telhado, o efeito aerodinâmico cria sucção - pressão negativa que literalmente arranca cobertura mal amarrada. É por isso que os danos de temporal quase sempre começam pelo telhado: a telha solta vira abertura, a abertura deixa o vento entrar e pressionar por dentro, e o estrago escala. A chuva, por sua vez, ataca por gravidade, capilaridade e pressão do vento combinados: encontra cada junta mal selada, cada sobreposição insuficiente, cada calha entupida - e transforma qualquer detalhe mal resolvido em infiltração.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Sucção do vento - beirais, alpendres e bordas de telhado sofrem as maiores cargas negativas; é ali que as telhas voam primeiro',
+          'Pressão interna - uma única abertura (janela estourada, telha removida) deixa o vento agir por dentro da edificação',
+          'Chuva dirigida - no litoral, a chuva bate na vertical das fachadas com força, testando juntas, esquadrias e revestimentos',
+          'Ciclo molhado-seco + maresia - umidade constante salina acelera corrosão de armaduras e degradação de fixações metálicas',
+          'Enchentes e ressacas - imóveis próximos à beira-mar e a canais somam ao vento o risco de água na base e solo saturado'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'A base técnica: normas que protegem a edificação'
+      },
+      {
+        type: 'paragraph',
+        text: 'A segurança contra ventos e chuvas não é questão de sorte nem de bom senso: é norma técnica brasileira, aplicada por profissional habilitado:'
+      },
+      {
+        type: 'list',
+        items: [
+          'NBR 6123 - define como calcular as forças do vento sobre edificações: velocidade regional, rugosidade do terreno, topografia, altura e geometria',
+          'NBR 6118 - estabelece durabilidade do concreto armado, incluindo cobrimento de armadura maior para ambientes agressivos como o marítimo',
+          'NBR 9575 - disciplina projetos e execução de impermeabilização, exigência crítica em coberturas, lajes e subsolos',
+          'NBR 15575 - define desempenho habitacional, incluindo estanqueidade e resistência de vedação a cargas de vento'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Vento e chuva não derrubam edificações de surpresa: eles encontram os detalhes que foram mal resolvidos no projeto ou na execução.'
+      },
+      {
+        type: 'heading',
+        text: 'No projeto: onde a segurança nasce'
+      },
+      {
+        type: 'paragraph',
+        text: 'A maior parte da resistência ao clima é decidida antes da primeira pá de terra ser movida. No projeto, o engenheiro civil:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Calcula as ações do vento conforme a NBR 6123 - considerando a velocidade característica da região litorânea, a exposição do terreno e a forma da edificação',
+          'Dimensiona a estrutura do telhado - tesouras, terças e contraventamentos capazes de absorver sucção e não apenas peso',
+          'Detalha as amarrações - viga de respaldo, frechais, grampos e fixadores de telha especificados para as cargas reais',
+          'Projeta impermeabilização completa - calhas, rufos, platibandas, selantes e mantas dimensionadas para chuva dirigida',
+          'Dimensiona drenagem pluvial - condutores e reservatórios para a intensidade pluviométrica local, não para média nacional',
+          'Especifica durabilidade - cobrimento de armadura ampliado e aço inox ou galvanizado pesado onde a maresia alcança'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Na obra: a execução decide se o cálculo funciona'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto perfeito executado com descuido vale menos que papel. É na obra que a teoria vira proteção real - e é aqui que a presença do engenheiro faz toda a diferença:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Conferência de amarrações - cada grampo de telha, parafuso estrutural e amarcação conferido contra o detalhamento, não contra o costume do instalador',
+          'Sobreposições e selantes corretos - telhas, mantas e juntas executados com as folgas e materiais especificados em projeto',
+          'Cobrimento de armadura real - espaçadores posicionados e conferidos, garantindo que o concreto proteja o aço por décadas',
+          'Teste de estanqueidade - impermeabilização de lajes e áreas molhadas testada com água antes do acabamento cobrir tudo',
+          'Fixação mecânica de calhas e condutores - suportes adequados para suportar rajada e peso de água, não apenas fita e boa intenção'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Na vida útil: manutenção preventiva evita o prejuízo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Edificação segura não é a que nunca é inspecionada: é a que é inspecionada antes do problema aparecer. O engenheiro civil atua também na fase de uso, com rotinas simples que preservam a segurança por décadas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Inspeção anual da cobertura - telhas, cumeeira, rufos e amarrações verificadas antes da temporada de temporais',
+          'Limpeza de calhas e grelhas - entupimento é a causa mais barata e mais comum de infiltração séria',
+          'Revisão de selantes e juntas - silicone e borrachas envelhecem; renovar a tempo custa pouco, ignorar custa forro inteiro',
+          'Avaliação pós-temporal - verificação técnica após eventos severos, captando danos invisíveis antes que evoluam'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Sinais de alerta depois de um temporal'
+      },
+      {
+        type: 'list',
+        items: [
+          'Telhas deslocadas, trincadas ou ausentes - mesmo uma única telha faltando inicia infiltração e fragiliza a vizinha',
+          'Manchas de umidade em forro ou teto - sinal de entrada de água já consolidada, nunca apenas mancha estética',
+          'Trincas novas em cantos de portas e janelas - podem indicar movimentação estrutural provocada por vento ou saturação do solo',
+          'Portas e janelas que passaram a emperrar - desalinhamento de esquadria pode revelar recalque ou deformação da estrutura',
+          'Água acumulada junto à fundação - drenagem insuficiente saturando o solo de apoio, risco silencioso e progressivo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre segurança contra ventos e chuvas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda casa precisa de cálculo de vento? Sim. A NBR 6123 se aplica às edificações em geral - e no litoral, onde as rajadas são mais intensas e frequentes, ignorar esse cálculo é apostar contra estatística. Em casas pequenas o cálculo é rápido; o que ele orienta, porém, muda detalhes de amarração que valem o telhado inteiro.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha casa foi construída há muitos anos, está segura? Depende de avaliação. Normas evoluíram, fixações envelhecem e reformas improvisadas podem ter fragilizado pontos críticos. Uma inspeção técnica avalia amarrações de cobertura, impermeabilização e drenagem, e indica reforços pontuais bem mais baratos que a troca de um telhado arrancado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O seguro da residência cobre danos de vento e chuva? As apólices residenciais normalmente cobrem eventos climáticos, mas exigem boa conservação do imóvel - dano em telhado mal mantido pode gerar discussão de cobertura. Documentação técnica de manutenção fortalece o segurado.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com que frequência devo inspecionar a casa? Ao menos uma vez por ano, preferencialmente antes do outono-inverno, e sempre após temporais severos. Imóveis à beira-mar pedem atenção redobrada por conta da maresia sobre fixações e armaduras.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Reforçar uma casa antiga sai caro? Na maioria dos casos, não: reforços costumam se concentrar em amarrações de telhado, calhas e selantes - serviços pontuais. O caro é o contrário: esperar o temporal descobrir sozinho onde estava o ponto fraco.'
+      },
+      {
+        type: 'heading',
+        text: 'Segurança contra ventos e chuvas com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia projeta, executa e inspeciona edificações preparadas para o clima do litoral: cálculo estrutural com ações de vento conforme NBR 6123, detalhamento de coberturas e impermeabilização, controle de qualidade em obra com conferência de cada amarração, laudos técnicos após temporais e planos de manutenção preventiva para imóveis em Navegantes, Meia Praia, São Domingos, Gravatá e todo o Litoral Norte de Santa Catarina - sempre com ART registrada no CREA-SC. Fale com nossa equipe e garanta que a próxima tempestade passe pela sua obra sem deixar prejuízo.'
+      }
+    ]
+  },
+  {
+    slug: 'reformas-engenharia-navegantes-solucao-rege',
+    title: 'Reformas de Engenharia em Navegantes: Cada Tipo de Obra e Como a Regê Resolve',
+    tag: 'REFORMAS',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Reformas de engenharia em Navegantes SC — engenheiros da Regê Engenharia conduzem reforma residencial no litoral catarinense com laudo técnico, projeto de intervenção e execução acompanhada.',
+    excerpt: 'Quebrar parede, ampliar, trocar instalações antigas ou recuperar fachada atacada pela maresia: cada reforma esconde um problema que só a engenharia antecipa. Veja os principais tipos de reforma em Navegantes, o que exige projeto e responsável técnico e como a Regê Engenharia conduz tudo — do diagnóstico à entrega documentada.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Reforma é o tipo de obra que mais surpreende. Diferente da construção nova — onde o terreno está limpo e tudo nasce planejado — a reforma trabalha sobre o desconhecido: ninguém sabe o que tem atrás do revestimento até quebrar, nem como estava aquela estrutura antes dos anos de maresia. É por isso que reformas são campeãs em orçamento estourado, prazo arrastado e "descoberta" no meio do caminho.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A boa notícia: quase toda surpresa de reforma é previsível por quem conhece construção. Neste guia mostramos os principais tipos de reforma de engenharia em Navegantes, o que cada uma exige de projeto e responsável técnico, os erros que transformam obra simples em bola de neve e como a Regê Engenharia conduz o processo completo — da vistoria diagnóstica à entrega documentada com ART.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que reformar em Navegantes pede atenção redobrada'
+      },
+      {
+        type: 'list',
+        items: [
+          'Parque construído envelhecido — boa parte das casas e edifícios litorâneos foi erguida entre as décadas de 1980 e 2000, quando exigências técnicas eram outras; instalações e estruturas chegam juntas ao fim do ciclo',
+          'Maresia e salinidade — corrosão de armaduras, fixações e componentes elétricos avança silenciosamente e aparece na reforma como surpresa cara',
+          'Umidade constante — infiltrações crônicas comprometem alvenaria, madeira e revestimentos muito além do ponto visível',
+          'Solo arenoso — ampliações e acréscimos exigem fundação própria calculada; herdar a fundação existente é receita para trinca nova'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Os tipos de reforma que exigem engenharia'
+      },
+      {
+        type: 'heading',
+        text: '1. Ampliação e acréscimo de área'
+      },
+      {
+        type: 'paragraph',
+        text: 'Segundo pavimento, varanda gourmet fechada, suíte extra: todo acréscimo é uma micro-construção apoiada num imóvel existente. Exige verificação estrutural da casa original, fundação própria dimensionada, compatibilização com instalações existentes e, quando muda área ou fachada, aprovação municipal. A Regê avalia o que a estrutura atual suporta, projeta o acréscimo e executa sem deixar emenda visível — técnica e esteticamente.'
+      },
+      {
+        type: 'heading',
+        text: '2. Remoção de paredes e integração de ambientes'
+      },
+      {
+        type: 'paragraph',
+        text: '"Essa parede pode cair?" é pergunta de engenheiro, não de marido de aluguel. Algumas paredes sustentam laje; outras escondem tubulações e quadros. Antes do martelo: vistoria técnica identifica função estrutural, define escoras e vigas de transição quando necessário e emite responsabilidade técnica pela intervenção. Integração bem-feita abre a sala; mal-feita racha o teto do andar de baixo.'
+      },
+      {
+        type: 'heading',
+        text: '3. Troca e modernização de instalações'
+      },
+      {
+        type: 'paragraph',
+        text: 'Casa antiga com fiação subdimensionada, encanamento galvanizado entupido de incrustação e quadro sem DR é o cenário típico da reforma litorânea — e também o maior risco oculto: incêndio elétrico e vazamento estrutural começam exatamente aí. O serviço envolve projeto elétrico e hidrossanitário novos, substituição por etapas e testes de pressão e continuidade antes de fechar parede.'
+      },
+      {
+        type: 'heading',
+        text: '4. Recuperação de patologias: trincas, infiltrações e corrosão'
+      },
+      {
+        type: 'paragraph',
+        text: 'Mancha de umidade que volta depois da pintura, trinca que reaparece, ferrugem escorrendo na fachada: sintoma tratado na superfície retorna sempre. A reforma correta começa com laudo diagnóstico — identificar a causa (fissura estrutural? falha de impermeabilização? corrosão por maresia?) — e só então aplica o projeto corretivo certo: tratamento de fissura, sistema de impermeabilização adequado, recuperação de armadura.'
+      },
+      {
+        type: 'heading',
+        text: '5. Fachada, impermeabilização e valorização'
+      },
+      {
+        type: 'paragraph',
+        text: 'Reformar fachada no litoral não é só pintar: é inspecionar reboco e emenda, tratar pontos de passagem de umidade, escolher tinta e textura resistentes ao sal e prever manutenção futura. Bem executada, a reforma de fachada protege a estrutura e devolve valor de mercado ao imóvel — o retorno aparece direto na avaliação.'
+      },
+      {
+        type: 'heading',
+        text: '6. Reformas comerciais e pontos comerciais'
+      },
+      {
+        type: 'paragraph',
+        text: 'Adaptar uma sala para loja, clínica ou escritório envolve layout, acessibilidade, carga elétrica e PPCI — com prazo contratual e alvará de funcionamento no horizonte. A diferença entre abrir na data prometida ou pagar dois aluguéis parados está, quase sempre, no planejamento prévio das interferências.'
+      },
+      {
+        type: 'quote',
+        text: 'Na reforma, o barato sai caro duas vezes: primeiro no retrabalho, depois no conserto do que o retrabalho danificou.'
+      },
+      {
+        type: 'heading',
+        text: 'O método da Regê Engenharia para reforma sem susto'
+      },
+      {
+        type: 'list',
+        items: [
+          'Vistoria diagnóstica inicial — fotos, medições e inspeção do que está escondido antes de qualquer demolição; é aqui que as surpresas deixam de ser surpresas',
+          'Escopo e orçamento executivo — planilha detalhada por serviço e insumo, com etapas claras: você sabe o que paga e quando',
+          'Projeto das intervenções — estrutural, instalações e impermeabilização projetados, não improvisados; ART registrada no CREA-SC',
+          'Execução com gestão — cronograma cumprido, medições justificadas, proteção das áreas existentes e limpeza de canteiro',
+          'Entrega documentada — registro fotográfico do "antes e depois", garantias e orientação de manutenção'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Erros clássicos que transformam reforma em bola de neve'
+      },
+      {
+        type: 'list',
+        items: [
+          'Começar quebrando sem diagnóstico — a descoberta estrutural chega sempre na pior hora possível: com a casa aberta e o dinheiro gasto',
+          'Contratar por preço sem escopo — proposta sem definição vira aditivo atrás de aditivo',
+          'Comprar material antes do projeto — azulejo comprado por impulso não volta à loja quando a planta mudar',
+          'Misturar frentes sem sequência — eletricista e gesseiro no mesmo ambiente geram retrabalho mútuo',
+          'Ignorar a aprovação necessária — ampliação sem alvará trava venda e habite-se anos depois'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre reformas de engenharia em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha reforma é pequena, precisa mesmo de engenheiro? Se mexe em estrutura, instalações, fachada ou configuração do imóvel — sim. E mesmo reformas de acabamento ganham precisão com um diagnóstico técnico antes: é ele que evita o susto de custo no meio da obra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês reformam casa de praia que fica fechada parte do ano? Sim — e esse é um perfil clássico em Meia Praia e na orla. Trabalhamos com cronograma concentrado, proteção do imóvel e relatórios periódicos para quem acompanha de longe.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consigo reformar por etapas, conforme o orçamento libera? Pode — desde que as etapas sejam sequenciadas tecnicamente: estrutura e instalações antes de acabamento, sempre. O plano por fases evita refazer o que já estava pronto.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê faz só o projeto ou também a execução? Os dois formatos: executamos a reforma completa como construtora ou acompanhamos a obra do seu empreiteiro como responsável técnico. Em ambos, a entrega sai documentada.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Como sei se minha casa precisa de reforma ou de reparo pontual? Com uma vistoria. Muitos casos que parecem "pintura nova" escondem patologia ativa — e o inverso também: nem toda trinca assusta quem sabe ler. O diagnóstico custa pouco e orienta o investimento certo.'
+      },
+      {
+        type: 'heading',
+        text: 'Sua reforma com segurança total: fale com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Da varanda gourmet à recuperação estrutural, da troca de instalações à fachada renovada: a Regê Engenharia executa reformas completas em Navegantes e no Litoral Norte catarinense com diagnóstico técnico, projeto, execução própria ou gerenciada e ART registrada no CREA-SC em todas as etapas. Fale com nossa equipe, agende a vistoria diagnóstica e descubra quanto mais barata sua reforma fica quando ela começa pela engenharia.'
+      }
+    ]
+  },
+  {
+    slug: 'projetos-industriais-navegantes-solucao',
+    title: 'Projetos Industriais em Navegantes SC: Do Terreno à Operação — Como a Regê Engenharia é a Solução',
+    tag: 'PROJETOS',
+    image: '/images/construtora.png',
+    imageAlt: 'Projeto industrial em Navegantes SC conduzido pela Regê Engenharia — engenheiros planejando galpão fabril com plantas técnicas, gestão de aprovações e execução no litoral norte catarinense.',
+    excerpt: 'Cada mês de atraso numa planta industrial é receita perdida. Veja por que projetos industriais em Navegantes falham com parceiros incompletos, o que um pacote de engenharia realmente precisa entregar e como a Regê Engenharia conduz sua fábrica do terreno à operação.',
+    readTime: '12 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'No polo de Machados, no entorno do Porto de Navegantes e ao longo do corredor logístico do Vale do Itajaí, a conta que todo empresário industrial aprende rápido é a do tempo parado: cada mês entre a decisão de instalar e a operação rodando é aluguel pago, equipe contratada e receita que não entrou. E a variável que mais define esse prazo não é a construção em si — é a qualidade do projeto e da engenharia que o conduz.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo fala direto com quem decide: dono de indústria, gestor de planta, investidor avaliando instalar uma operação em Navegantes. Aqui você vê por que projetos industriais fracassam quando o parceiro de engenharia é incompleto, o que um pacote profissional precisa entregar de verdade e como a Regê Engenharia assume esse processo ponta a ponta — do primeiro estudo no terreno até a operação aprovada pelos órgãos.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que Navegantes atrai indústria — e exige engenharia à altura'
+      },
+      {
+        type: 'list',
+        items: [
+          'Porto de contêineres em expansão — logística de importação e exportação a poucos quilômetros da planta',
+          'Aeroporto internacional — conectividade de cargas e executivos no mesmo raio de operação',
+          'Polo consolidado em Machados — ecossistema de metalurgia, plásticos, alimentos e fornecedores industriais já instalado',
+          'Corredor do Vale do Itajaí — integração com Itajaí, Blumenau e BR-470 para distribuição em Santa Catarina e além',
+          'Mão de obra e cadeia local — prestadores, transportadores e insumos disponíveis na região'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Mas o mesmo ambiente que atrai cobra caro do amadorismo: solo de várzea e lençol alto exigem fundações sérias, maresia ataca estruturas e equipamentos, a faixa costeira impõe licenciamento ambiental real, e o volume de chuva da região testa drenagem como poucos lugares. Projeto industrial em Navegantes não se copia de outro estado — se engenha para cá.'
+      },
+      {
+        type: 'heading',
+        text: 'Onde projetos industriais dão errado: os modos de falha mais comuns'
+      },
+      {
+        type: 'paragraph',
+        text: 'Depois de ver dezenas de plantas paradas, ampliadas no improviso ou embargadas, os padrões de falha se repetem:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Parceiro parcial — arquiteto fez o prédio, mas ninguém pensou no elétrico industrial, no licenciamento ou na NR-12 das máquinas: cada etapa vira um novo contrato emergencial',
+          'Projeto desconectado da operação — layout bonito que ignora fluxo de matéria-prima, manobra de caminhões ou expansão futura',
+          'Fundações estimadas — sem sondagem adequada, o solo de várzea cobra recalques e trincas depois de entregue',
+          'Licenciamento deixado para depois — obra avança e o IMA embarga; ou a LO nunca sai porque as condicionantes não foram projetadas desde o início',
+          'Orçamento de estimativa — sem quantitativo executivo, o CAPEX real aparece no meio da obra e compromete o capital de giro da operação',
+          'Responsabilidade difusa — sem ART clara em cada frente, quando o problema aparece, ninguém responde'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Projeto industrial barato não existe: existe custo combinado agora ou prejuízo cobrado com juros durante toda a vida da planta.'
+      },
+      {
+        type: 'heading',
+        text: 'O que um parceiro de engenharia completo entrega'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto industrial bem conduzido não é um desenho bonito — é um pacote integrado em que todas as frentes conversam desde o dia zero:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Viabilidade e conceito — análise do terreno (sondagem, topografia, restrições ambientais e urbanísticas) e layout orientado ao fluxo produtivo',
+          'Arquitetura industrial — galpão, mezaninos, áreas administrativas, circulação de pessoas e cargas, expansão prevista',
+          'Estruturas e fundações calculadas — concreto e metálico dimensionados para cargas reais, pontes rolantes, vento litorâneo e solo local',
+          'Instalações completas — elétrica de alta demanda conforme NBR 5410 e NBR 14039, SPDA, hidrossanitária, ar comprimido, climatização e drenagem pluvial dimensionada para o clima da região',
+          'Segurança contra incêndio — projeto PPCI alinhado ao Corpo de Bombeiros Militar de Santa Catarina até o AVCB',
+          'Licenciamento ambiental — viabilidade, LP, LI e LO junto ao IMA e à prefeitura, com condicionantes projetadas desde o início',
+          'Conformidade de operação — preparação para NR-12 nas máquinas, NR-10 nas instalações elétricas e demais normas aplicáveis à planta',
+          'Gestão de aprovações — prefeitura, concessionárias, bombeiros e órgãos ambientais protocolados e monitorados pela mesma equipe'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'A metodologia Regê: do terreno à operação em cinco fases'
+      },
+      {
+        type: 'subheading',
+        text: 'Fase 1 — Diagnóstico e viabilidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de qualquer prancha: visita técnica ao terreno, análise de matrícula e zoneamento, verificação de APP, restinga e restrições municipais, estudo preliminar de fundações e uma resposta honesta — este terreno suporta o que você quer construir, em quanto tempo e a que custo aproximado.'
+      },
+      {
+        type: 'subheading',
+        text: 'Fase 2 — Anteprojeto e layout produtivo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Desenvolvimento do conceito com o fluxo real da operação na mesa: recepção, produção, expedição, expansão. É aqui que o edifício passa a servir a indústria — e não o contrário.'
+      },
+      {
+        type: 'subheading',
+        text: 'Fase 3 — Projetos executivos compatibilizados'
+      },
+      {
+        type: 'paragraph',
+        text: 'Todas as disciplinas desenvolvidas e conferidas em conjunto — estrutura, arquitetura, instalações, incêndio, ambiental — eliminando conflitos antes que virem quebra-quebra no canteiro. Orçamento executivo com quantitativos reais fecha o CAPEX com previsibilidade.'
+      },
+      {
+        type: 'subheading',
+        text: 'Fase 4 — Aprovações e execução gerida'
+      },
+      {
+        type: 'paragraph',
+        text: 'Protocolos na prefeitura, IMA, bombeiros e concessionárias conduzidos em paralelo ao canteiro, com responsável técnico presente, controle de qualidade por etapa, segurança do trabalho e relatórios periódicos ao cliente.'
+      },
+      {
+        type: 'subheading',
+        text: 'Fase 5 — Entrega, regularização e pós-obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vistoria assistida, documentação completa, Habite-se, AVCB, licença de operação e pasta digital com tudo organizado — incluindo alertas de renovação de licenças e plano de manutenção preventiva da edificação.'
+      },
+      {
+        type: 'heading',
+        text: 'Soluções para cada momento da sua indústria'
+      },
+      {
+        type: 'list',
+        items: [
+          'Fábrica nova do zero — terreno bruto transformado em planta operante com pacote completo',
+          'Ampliação sem parar a produção — expansão física planejada com cronograma que convive com o ritmo fabril',
+          'Galpão locado que precisa se adequar — adaptação estrutural, elétrica e normativa para receber sua operação',
+          'Retrofit industrial — modernização de planta antiga com reforço estrutural e atualização de conformidade',
+          'Centro de distribuição e logística — pavimentos, docas e fluxo de veículos pesados projetados para giro alto',
+          'Regularização de planta existente — diagnóstico técnico e caminho de conformidade junto aos órgãos'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que a Regê Engenharia é a solução para seu projeto industrial'
+      },
+      {
+        type: 'list',
+        items: [
+          'Equipe multidisciplinar própria — civil, estrutural, instalações e ambiental sob o mesmo teto, com ART registrada no CREA-SC em cada frente',
+          'Vivência local comprovada — obras e laudos realizados em Navegantes, Machados e entorno do Porto, conhecendo solo, clima e fiscalização da prática',
+          'Relacionamento com os órgãos — prefeitura de Navegantes, IMA, Corpo de Bombeiros e concessionárias: protocolos conduzidos por quem conhece o fluxo',
+          'Compatibilização rigorosa — projetos conferidos entre disciplinas antes da obra, reduzindo retrabalho e ordens de mudança',
+          'Transparência de CAPEX — orçamento executivo aberto, medições claras e pasta digital acessível ao cliente',
+          'Visão de ciclo completo — a mesma equipe que projeta acompanha a execução e prepara a conformidade da operação, sem lacunas de responsabilidade'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre projetos industriais em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa um projeto industrial completo? Depende da dimensão, do uso e do nível de acabamento da planta. Em linhas gerais, o pacote de engenharia representa fração pequena do investimento total — e é justamente ele que protege o resto do orçamento. A Regê apresenta escopo e valor após o diagnóstico inicial, com proposta por fase ou pelo ciclo completo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto tempo leva do projeto à operação? Cronogramas típicos variam conforme porte e licenciamento envolvido — uma ampliação simples corre em meses; uma fábrica nova com licenciamento ambiental completo leva mais. O que define prazo na prática não é só o tamanho da obra, é a ausência de retrabalho: projetos compatibilizados e aprovações conduzidas em paralelo são o maior acelerador que existe.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consigo ampliar minha planta sem parar a produção? Sim — com planejamento específico: fases de obra segregadas, cronograma alinhado ao calendário fabril, proteções de área produtiva e horários negociados. Ampliação mal planejada para a operação; bem planejada quase nem aparece no radar da produção.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quem cuida das licenças ambientais e do corpo de bombeiros? A própria Regê: o licenciamento junto ao IMA e à prefeitura, o processo no Corpo de Bombeiros até o AVCB e as vinculações com concessionárias fazem parte do pacote — sem terceirizar responsabilidade nem deixar lacunas entre contratos.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Atendem apenas Navegantes ou a região inteira? Atendemos Navegantes e todo o litoral norte de Santa Catarina — Machados, Itajaí, Penha, Balneário Camboriú e região, incluindo operações no entorno portuário.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Posso contratar só uma parte do serviço? Pode. A metodologia funciona por fases justamente para isso: viabilidade isolada, projeto executivo, gestão de aprovações ou acompanhamento de obra — cada etapa contratável individualmente, sempre com o mesmo padrão técnico.'
+      },
+      {
+        type: 'heading',
+        text: 'Seu projeto industrial merece começar pelo fim'
+      },
+      {
+        type: 'paragraph',
+        text: 'Toda planta industrial aprovada, operando dentro do prazo e sem surpresas de órgão tem algo em comum: alguém pensou nela inteira antes de construir a primeira parede. Essa é a proposta da Regê Engenharia para projetos industriais em Navegantes — assumir a jornada do terreno à operação com equipe própria, método claro e responsabilidade técnica formal em cada assinatura. Se a sua indústria está nascendo, crescendo ou precisando de regularização, fale com nossa equipe e receba um diagnóstico inicial do seu caso.'
+      }
+    ]
+  },
+  {
+    slug: 'assessoria-tecnica-engenharia-navegantes-rege-solucao',
+    title: 'Assessoria Técnica de Engenharia em Navegantes: Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Assessoria técnica de engenharia em Navegantes SC - engenheiro da Regê analisa projetos, orçamentos e contratos de obra representando o proprietário, com relatórios técnicos e ART.',
+    excerpt: 'Três orçamentos que não batem, medição contestada, contrato com cláusulas abusivas e a sensação de que todos entendem de obra - menos quem paga. A assessoria técnica coloca um engenheiro do seu lado da mesa. Veja o que ela faz, quem precisa e como o método em 5 etapas da Regê Engenharia coloca você no controle técnico da sua obra em Navegantes.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Você recebeu três orçamentos para a sua obra e nenhum bate com o outro. A construtora pede a primeira medição e você não sabe se o executado vale o cobrado. O projeto da arquiteta conflita com o elétrico. O contrato chegou cheio de cláusulas que ninguém explicou. E fica a sensação de que todo mundo na obra entende de construção — menos você, que paga a conta.'
+      },
+      {
+        type: 'paragraph',
+        text: 'É para esse cenário que existe a assessoria técnica de engenharia: um engenheiro experiente do seu lado da mesa, defendendo os seus interesses — não os da empreiteira, não os do fornecedor. O mercado internacional chama de owner\u0027s engineering: a engenharia do proprietário. Em Navegantes, com obras de alto padrão sobre solo arenoso e maresia, essa assessoria virou ferramenta de proteção patrimonial.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é assessoria técnica (e o que não é)'
+      },
+      {
+        type: 'list',
+        items: [
+          'É: representar tecnicamente o proprietário ao longo das decisões da obra ou do negócio imobiliário',
+          'É: analisar projetos, orçamentos, planilhas e contratos antes de você assinar',
+          'É: validar medições, materiais e cronogramas durante a execução',
+          'É: mediar conflitos técnicos com construtora e fornecedores com parecer assinado',
+          'Não é: fiscalização diária de canteiro nem gerenciamento de mão de obra',
+          'Não é: substituir o arquiteto, o projetista ou o responsável técnico da executora'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O assessor técnico é o consultor de confiança que garante que o que foi contratado seja entregue — pelo preço combinado, no prazo prometido e com a qualidade exigida.'
+      },
+      {
+        type: 'heading',
+        text: 'Quem precisa de assessoria técnica'
+      },
+      {
+        type: 'list',
+        items: [
+          'Quem vai construir e quer comparar propostas de construtoras em pé de igualdade',
+          'Quem está construindo e recebe medições mensais sem saber validá-las',
+          'Quem vai reformar imóvel de praia e já ouviu três versões do mesmo problema',
+          'Quem vai comprar imóvel novo ou usado e quer análise técnica independente antes do contrato',
+          'Investidores que administram obras à distância e precisam de olhos técnicos locais',
+          'Condomínios avaliando propostas de prestadores e acompanhando serviços',
+          'Empresas contratando galpão, adequação NR ou instalações sem corpo técnico próprio',
+          'Quem vive conflito técnico com vizinho, construtora ou fornecedor e precisa de parecer imparcial'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Assessoria x consultoria x fiscalização x responsável técnico'
+      },
+      {
+        type: 'list',
+        items: [
+          'Consultoria — aconselhamento pontual sobre uma dúvida ou decisão específica',
+          'Assessoria técnica — acompanhamento contínuo e representação do contratante por todo o processo',
+          'Fiscalização — controle da execução física conforme projeto; pode integrar a assessoria, mas é mais estreita',
+          'Responsável técnico (RT) — assume a ART pela execução; normalmente é da executora. O assessor trabalha para você justamente para verificar o RT'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A consultoria responde perguntas. A assessoria cuida dos seus interesses durante todo o jogo.'
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia resolve: o método em 5 etapas'
+      },
+      {
+        type: 'subheading',
+        text: '1. Diagnóstico do momento da sua obra ou imóvel'
+      },
+      {
+        type: 'paragraph',
+        text: 'Tudo começa entendendo onde você está: antes de contratar? No meio da obra? Com problema aberto? Definimos objetivos, riscos prioritários e o nível de acompanhamento necessário — sem escopo genérico.'
+      },
+      {
+        type: 'subheading',
+        text: '2. Análise documental completa'
+      },
+      {
+        type: 'paragraph',
+        text: 'Revisamos projetos, orçamentos, planilhas (quantitativos, insumos, BDI), contratos de empreitada e documentação do imóvel. Apontamos itens omitidos, quantidades infladas e cláusulas abusivas — reajuste livre, multa unilateral, prazo elástico.'
+      },
+      {
+        type: 'subheading',
+        text: '3. Parecer técnico e plano de ação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Você recebe documento claro: o que está bom, o que está em risco, o que precisa mudar antes de assinar ou continuar, com recomendações priorizadas e impacto em custo e prazo.'
+      },
+      {
+        type: 'subheading',
+        text: '4. Acompanhamento com validações e relatórios'
+      },
+      {
+        type: 'paragraph',
+        text: 'Visitas técnicas nas fases críticas (fundações, estrutura, instalações embutidas), validação de medições antes do pagamento, homologação de materiais e relatório fotográfico por etapa — a memória técnica que protege em qualquer discussão futura.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Fechamento: entrega, regularização e valorização'
+      },
+      {
+        type: 'paragraph',
+        text: 'No fim, conferência final contra o contratado, apoio na regularização (habite-se, averbação, ARTs) e documentação completa da obra — argumento de valorização na hora de vender.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que a Regê e não um profissional avulso'
+      },
+      {
+        type: 'list',
+        items: [
+          'Equipe multidisciplinar — estrutura, instalações, segurança do trabalho e regularização na mesma casa',
+          'Conhecimento local — solo arenoso, maresia, prática da Prefeitura de Navegantes e fornecedores da região',
+          'Independência real — recomendamos o melhor para você, sem conflito de interesse',
+          'Documentação — cada etapa com relatório e ART quando aplicável, não visita sem registro',
+          'Continuidade — método estruturado e equipe disponível para urgências'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre assessoria técnica'
+      },
+      {
+        type: 'paragraph',
+        text: 'Qual a diferença entre assessoria e fiscalização? A fiscalização controla a execução física. A assessoria entra antes (contrato, orçamento, projetos), durante (validações) e depois (regularização e documentação) — sempre representando o proprietário.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Preciso de assessoria mesmo contratando boa construtora? Idoneidade não elimina assimetria de informação. Mesmo boas construtoras erram e negociam melhor que o cliente leigo — o assessor equilibra o jogo.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A assessoria substitui o arquiteto ou o engenheiro da construtora? Não — e não deve. Ela verifica, valida e articula esses profissionais em nome do proprietário.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quanto custa? Depende do porte e do nível de acompanhamento. A economia gerada na contratação (orçamentos normalizados) e nas medições validadas costuma superar o honorário — sem contar os problemas evitados.'
+      },
+      {
+        type: 'heading',
+        text: 'Assessoria técnica em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Construir, reformar ou investir sem assessoria técnica é decidir cego — confiando em quem tem interesse no resultado. Com a Regê Engenharia, você passa a ter engenharia experiente do seu lado da mesa: diagnóstico honesto, análise documental rigorosa, acompanhamento com relatórios e defesa dos seus interesses do primeiro orçamento à entrega das chaves, em Navegantes e em todo o Litoral Norte de Santa Catarina. Fale com nossa equipe e assuma o controle técnico da sua obra.'
+      }
+    ]
+  },
+  {
+    slug: 'aprovacao-projetos-navegantes-solucao-rege',
+    title: 'Aprovação de Projetos na Prefeitura de Navegantes: Como a Regê Engenharia é a Solução',
+    tag: 'APROVAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Aprovação de projetos na Prefeitura de Navegantes SC — engenheiro da Regê Engenharia analisando plantas, alvará de construção e documentação do processo municipal no litoral catarinense.',
+    excerpt: 'Projeto parado na prefeitura custa milhares por mês. Veja os 6 motivos que travam aprovações em Navegantes (LC 416, recuos, exigências sem resposta) e como a Regê Engenharia conduz tudo — do diagnóstico do lote ao alvará e Habite-se.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Você comprou o terreno, tem a ideia da casa ou do comércio — e agora descobriu que, antes do primeiro tijolo, o projeto precisa passar pela Prefeitura de Navegantes. Zoneamento, gabarito, recuos, taxa de ocupação, ART, taxas, protocolo, exigências... Para quem não vive isso todos os dias, a aprovação parece um labirinto — e cada semana parada no setor de análise é uma semana de obra que não começa.'
+      },
+      {
+        type: 'paragraph',
+        text: 'É exatamente aqui que entra a Regê Engenharia: conduzimos todo o processo de aprovação no seu lugar — do estudo de viabilidade do terreno ao alvará na mão (e, no fim da obra, o Habite-se). Você acompanha; nós resolvemos.'
+      },
+      {
+        type: 'heading',
+        text: 'Por que processos de aprovação travam em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto fora da legislação local — planta desenhada sem consultar a LC 416/2021: recuo errado, taxa de ocupação estourada, gabarito além do permitido',
+          'Terreno com restrição desconhecida — APP, faixa de praia, dunas ou lote irregular descobertos depois do projeto pronto',
+          'Documentação incompleta — matrícula desatualizada, certidão faltando ou ART ausente: o processo nem entra em análise',
+          'Planta fora do padrão gráfico — formato, carimbos e quadro de áreas incorretos geram exigência administrativa que atrasa semanas',
+          'Exigência não respondida — protocolo fica parado porque ninguém acompanhou o prazo de correção',
+          'Obra iniciada sem alvará — embargo, multa e regularização muito mais cara'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O padrão é sempre o mesmo: não é a prefeitura que demora — é o processo mal montado que volta. Cada ida e volta consome semanas.'
+      },
+      {
+        type: 'heading',
+        text: 'A solução Regê: aprovação conduzida de ponta a ponta'
+      },
+      {
+        type: 'paragraph',
+        text: 'Fase 0 — Diagnóstico gratuito de viabilidade: analisamos o terreno antes de você gastar com projeto — zoneamento, gabarito, recuos, taxa de ocupação conforme a LC 416/2021, além de restrições como APP, faixa de praia e dunas. O veredito é claro: o que dá para construir no seu lote — e o que não dá.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Fase 1 — Projeto legal pronto para aprovar: arquitetônico conforme código de obras e padrão gráfico municipal, complementares quando exigidos, ARTs emitidas e topografia coordenada',
+          'Fase 2 — Protocolo completo: formulários, plantas, documentação do proprietário e guias de taxa protocolados corretamente na primeira ida',
+          'Fase 3 — Acompanhamento ativo: monitoramento do andamento; exigência apareceu, interpretamos, corrigimos e respondemos dentro do prazo',
+          'Fase 4 — Alvará e pós-aprovação: emissão do alvará, suporte a alterações durante a obra e processo de Habite-se no fim'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Um interlocutor só: você fala com a Regê; a Regê fala com a prefeitura. Sem você perder dia de trabalho em fila de protocolo.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto custa ficar parado versus investir na solução'
+      },
+      {
+        type: 'list',
+        items: [
+          'Aluguel e prestação do terreno pagos enquanto o processo trava — milhares por mês',
+          'Obra iniciada sem alvará — multa municipal somada a meses de embargo',
+          'Projeto refeito por indeferimento — investimento integral perdido',
+          'Venda do imóvel travada sem aprovação — desconto forte na negociação',
+          'Assessoria completa Regê — proposta fechada por etapa; costuma custar uma fração de um único mês dos custos que evita'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Por que a Regê é a solução em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Conhecimento normativo local: LC 416/2021, código de obras e prática real do setor de análise — projetos entram certos de primeira',
+          'Diagnóstico antes do projeto: nada de desenhar casa inviável para o lote',
+          'Engenheiros habilitados com ART em todas as etapas',
+          'Acompanhamento ativo: exigência não fica parada esperando você descobrir',
+          'Integração total: quem aprova também projeta, executa e acompanha a obra',
+          'Atendimento regional: Navegantes, Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras e Barra Velha'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre aprovação de projetos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Minha planta já está pronta, vocês só protocolam? Sim — mas antes fazemos a conferência técnica contra a legislação vigente. É justamente essa conferência que evita indeferimento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Consigo aprovar projeto comprado pronto? Depende: planta genérica raramente respeita recuos, zona e gabarito do seu lote específico. Avaliamos e dizemos o que falta.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A prefeitura demora mesmo? O prazo de análise existe em qualquer município. O que trava de verdade é exigência sem resposta — e é isso que o acompanhamento ativo elimina.'
+      },
+      {
+        type: 'paragraph',
+        text: 'E se meu projeto for indeferido mesmo assim? Com diagnóstico prévio e projeto conforme, indeferimento é exceção — mas a resposta técnica já está inclusa no acompanhamento.'
+      },
+      {
+        type: 'heading',
+        text: 'Sua aprovação com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia transforma aprovação em processo conduzido: diagnostica seu lote, monta o projeto certo conforme a LC 416/2021, protocola, responde às exigências e entrega o alvará — até o Habite-se no fim da obra. Um time, um contrato, um responsável técnico do início ao fim, em Navegantes e em todo o Litoral Norte de Santa Catarina. Fale com nossa equipe e comece sua obra na data que você planejou.'
+      }
+    ]
+  },
+  {
+    slug: 'alvara-de-construcao-navegantes-rege-solucao',
+    title: 'Alvará de Construção em Navegantes SC: Por que a Regê Engenharia é a Solução',
+    tag: 'DOCUMENTAÇÃO',
+    image: '/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png',
+    imageAlt: 'Alvará de construção em Navegantes SC conduzido pela Regê Engenharia - análise de viabilidade, protocolo na prefeitura e aprovação sem ciclos de indeferimento.',
+    excerpt: 'Projeto pronto, obra esperando - e o alvará preso na prefeitura entrando em loop de exigências. Veja por que pedidos são indeferidos em Navegantes e como a Regê Engenharia protocola certo desde a primeira vez.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'O cenário se repete toda semana em Navegantes: projeto pago, equipe contratada, cronograma marcado - e o alvará de construção parado no gabinete da prefeitura, voltando pela terceira vez com nova exigência. Cada ciclo de indeferimento consome semanas, e cada semana parada cobra caro: aluguel pago em dobro, equipe dispersa, material com preço subindo. O problema raramente é a prefeitura ser lenta - quase sempre é o pedido ter sido montado às pressas, incompleto ou fora das regras urbanísticas.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este artigo mostra os motivos reais pelos quais alvarás são travados em Navegantes, como a Regê Engenharia resolve cada um desses gargalos - protocolando certo desde a primeira vez - e o que você ganha ao colocar a condução do processo nas mãos de quem conhece o fluxo local por dentro.'
+      },
+      {
+        type: 'heading',
+        text: 'O que um alvará travado custa de verdade'
+      },
+      {
+        type: 'list',
+        items: [
+          'Tempo - cada ciclo de exigência devolve o processo ao fim da fila; três ciclos podem consumir meses',
+          'Dinheiro - obra parada mantém custo fixo rodando sem gerar valor, além da correção de preço de material e mão de obra',
+          'Equipe - pedreiro e empreiteira remanejados para outra obra demoram a voltar',
+          'Financiamento - banco libera verba condicionada ao alvará; parcelas começam a correr mesmo sem obra iniciada',
+          'Ânimo - proprietário que planejou por anos vê o sonho virar fila de cartório'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'Alvará não é burocracia para vencer - é engenharia aplicada ao papel. Quem protocola errado paga duas vezes: na exigência e na espera.'
+      },
+      {
+        type: 'heading',
+        text: 'Os motivos reais de indeferimento em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto fora das regras urbanísticas - recuo frontal inferior ao exigido, altura acima do permitido, taxa de ocupação estourada naquele lote específico',
+          'Área computável calculada errado - varanda, garagem e mezanino tratados como áreas livres quando entram na conta (ou o contrário)',
+          'Documentação incompleta - matrícula desatualizada, certidões faltando, formulário preenchido fora do padrão municipal',
+          'ART inconsistente - responsável técnico divergente entre plantas, memorial e sistema do CREA, ou ART emitida com atribuição incorreta',
+          'Terreno com pendência prévia - imóvel sem registro adequado, com divergência de limites ou dentro de situação que exige etapa anterior de regularização',
+          'Plantas sem clareza técnica - cortes sem cotas, falta de detalhe de acessibilidade, ausência de assinatura de arquiteto onde a lei exige'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Nenhum desses motivos é fatal - todos são detectáveis antes do protocolo. É exatamente essa varredura preventiva que separa quem aprova na primeira tentativa de quem vive em loop.'
+      },
+      {
+        type: 'heading',
+        text: 'A Regê Engenharia como solução: o que muda na prática'
+      },
+      {
+        type: 'paragraph',
+        text: 'Contratar a Regê para conduzir seu alvará significa transferir o processo para uma equipe de engenheiros habilitados que conhece o código de obras, as rotinas internas dos setores da prefeitura de Navegantes e as exigências específicas de cada tipo de empreendimento - casa unifamiliar, edifício, loja, galpão ou reforma relevante. Três diferenças imediatas:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Análise de viabilidade antes de protocolar - o projeto é auditado contra as normas municipais antes de entrar no sistema, não depois do primeiro indeferimento',
+          'Protocolo completo de primeira vez - dossiê montado no padrão que o analista técnico espera receber, sem peças faltando',
+          'Resposta rápida às exigências - quando o setor pede complementação, a resposta sai em dias, não em meses, porque a pasta já está dominada pela equipe'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como funciona a condução do alvará com a Regê, etapa a etapa'
+      },
+      {
+        type: 'heading',
+        text: '1. Triagem documental e da matrícula'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de olhar qualquer planta, verifica-se a base: titularidade correta, certidões válidas, quitação de IPTU e existência de pendências registradas. Problemas de origem descobertos aqui evitam meses de tramitação perdida.'
+      },
+      {
+        type: 'heading',
+        text: '2. Auditoria do projeto contra a legislação municipal'
+      },
+      {
+        type: 'paragraph',
+        text: 'Cada folha é conferida contra o código de obras e a legislação urbanística aplicável ao lote: recuos, altura, taxa de ocupação, permeabilidade, vagas, acessibilidade e compatibilidade entre disciplinas (estrutural, hidráulica, elétrica e arquitetônico).'
+      },
+      {
+        type: 'heading',
+        text: '3. Ajustes técnicos e complementação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Detectadas as pendências, a equipe corrige o que for ajuste simples, articula com o autor do projeto o que depender dele e completa documentos faltantes - tudo antes de qualquer protocolo.'
+      },
+      {
+        type: 'heading',
+        text: '4. Protocolo completo e acompanhamento'
+      },
+      {
+        type: 'paragraph',
+        text: 'O processo entra na prefeitura inteiro, no formato aceito pelo setor responsável, com ARTs consistentes. A partir daí, o andamento é monitorado junto aos gabinetes - processo acompanhado não esfria em gaveta.'
+      },
+      {
+        type: 'heading',
+        text: '5. Resposta técnica às exigências'
+      },
+      {
+        type: 'paragraph',
+        text: 'Se o setor apontar alguma complementação, ela é respondida tecnicamente em dias, com argumentação que demonstra atendimento à norma - reduzindo a chance de novo ciclo.'
+      },
+      {
+        type: 'heading',
+        text: '6. Emissão e orientação pós-alvará'
+      },
+      {
+        type: 'paragraph',
+        text: 'Concedido o alvará, o cliente recebe orientação sobre prazo de validade, condições de início de obra, placas obrigatórias e o caminho que leva ao habite-se no futuro - porque aprovar é etapa, não destino final.'
+      },
+      {
+        type: 'heading',
+        text: 'Quanto tempo se economiza com protocolo certo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Pedido montado às pressas costuma entrar em ciclos: exigência, correção, nova fila - repetindo duas ou três vezes. Dossiê auditado previamente tende a seguir direto para análise técnica. A economia real não está em acelerar a prefeitura - está em eliminar as idas e vindas que o próprio requerente provocou. Somando os ciclos evitados, a diferença chega a meses entre dois pedidos idênticos, um bem e outro mal instruído.'
+      },
+      {
+        type: 'heading',
+        text: 'Para quem faz sentido contratar a condução'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construção nova residencial ou comercial - do terreno comprado ao alvará no bolso',
+          'Reformas relevantes - ampliações e mudanças de uso que dependem de aprovação municipal',
+          'Quem já foi indeferido - diagnóstico do motivo e recondução do processo com base técnica',
+          'Investidores à distância - processo monitorado e decisões resolvidas por escrito, sem viajar a cada exigência',
+          'Incorporadores e construtoras - volume de empreendimentos exige padronização de protocolo e previsibilidade de prazo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas frequentes sobre alvará com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Já tenho projeto de outro arquiteto. Vocês aprovam mesmo assim? Sim. A Regê audita o projeto existente, indica os ajustes necessários e articula diretamente com o autor original quando cabível - respeitando a autoria e garantindo conformidade com a norma municipal.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A prefeitura tem prazo fixo para emitir? Há prazos regulamentares de análise, mas eles contam a partir de um processo válido. Pedido incompleto suspende o relógio até a complementação - mais um motivo pelo qual a qualidade do protocolo pesa mais que qualquer pressão sobre o órgão.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Meu alvará já foi indeferido. Tem volta? Tem - na maioria dos casos, o indeferimento lista exigências objetivas que podem ser atendidas com ajuste técnico e novo protocolo. O primeiro passo é um diagnóstico do processo para identificar exatamente onde ele travou.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Reforma pequena precisa de alvará? Depende do porte e do tipo de intervenção - reformas que alteram estrutura, fachada, área ou uso geralmente exigem aprovação. A consulta prévia evita multa por obra irregular, que custa muito mais que o licenciamento.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Vocês cuidam só do papel ou também da obra? Dos dois caminhos, conforme a necessidade: apenas a condução do alvará, ou o pacote completo com projeto, aprovação e execução - sempre com engenheiro responsável e ART no CREA-SC.'
+      },
+      {
+        type: 'heading',
+        text: 'Tire seu alvará em Navegantes com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia conduz processos de alvará de construção em Navegantes, Itajaí, Balneário Camboriú e todo o Litoral Norte catarinense: análise de viabilidade, auditoria de projeto contra a legislação, protocolo completo, resposta a exigências e orientação até o habite-se - tudo com engenheiros habilitados e ART registrada no CREA-SC. Se sua obra está esperando um papel que não sai, fale com nossa equipe: protocolar certo desde a primeira vez é o atalho mais curto entre o seu projeto e a sua obra.'
+      }
+    ]
+  },
 ];
