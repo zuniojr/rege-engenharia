@@ -33680,5 +33680,588 @@ export const blogPosts = [
         text: 'Não deixe a irregularidade virar problema judicial, multa diária ou impedimento de venda. Se sua obra em Navegantes, Itajaí, Balneário Camboriú, Itapema ou região está sem alvará, sem Habite-se ou sem averbação, entre em contato com a equipe da Regê Engenharia. Solicite uma vistoria técnica gratuita e receba o plano de regularização personalizado — com custos, prazos e etapas definidos. Sua tranquilidade jurídica e a valorização do seu imóvel começam com a regularização bem feita.'
       }
     ]
+  },
+  {
+    slug: 'emitir-alvarar-construcao-navegantes-passo-a-passo',
+    title: 'Emitindo Alvará de Construção em Navegantes: Passo a Passo',
+    tag: 'ENGENHARIA',
+    image: '/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png',
+    imageAlt: 'Etapas de aprovação de alvará de construção na Prefeitura de Navegantes — projeto, vistoria dos bombeiros e registro em cartório.',
+    excerpt: 'Guia completo e atualizado sobre como emitir o alvará de construção em Navegantes, SC. Do projeto à aprovação, cada etapa explicada com prazos, documentos e dicas para evitar erros que atrasam sua obra.',
+    readTime: '12 min de leitura',
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Construir ou reformar em Navegantes exige mais do que um bom projeto e uma equipe qualificada — é preciso legalizar cada etapa. O alvará de construção é o documento que autoriza o início dos serviços na Prefeitura e que garante que sua obra esteja em conformidade com as normas urbanísticas, ambientais e de segurança da cidade. Sem ele, qualquer intervenção pode resultar em multa, embargo e até demolição.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Este guia explica, de forma clara e objetiva, o caminho completo para emitir o alvará de construção em Navegantes — do momento em que o projeto é idealizado até a aprovação final que permite dar início à obra.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é o alvará de construção e por que ele é obrigatório'
+      },
+      {
+        type: 'paragraph',
+        text: 'O alvará de construção é o documento expedido pela Prefeitura Municipal que autoriza a execução de obras de construção, reforma, ampliação ou demolição em um imóvel. No Brasil, a legislação urbanística (Lei Federal 6.766/79 e leis municipais) exige a obtenção desse alvará antes do início de qualquer serviço, independentemente do porte da obra.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, a emissão do alvará segue as diretrizes do Plano Diretor Municipal e da legislação de uso e ocupação do solo. A Prefeitura verifica se o projeto atende aos parâmetros urbanísticos — como taxa de ocupação, coeficiente de aproveitamento, recuos e gabarito — e se está alinhado à finalidade do terreno conforme a zona de uso.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Construção de residências, comércios e indústrias — qualquer construção do zero',
+          'Reformas que alterem a fachada, área construída ou estrutura do imóvel',
+          'Ampliações, acréscimos de pavimento ou mudança de uso do imóvel',
+          'Demolições de edificações existentes',
+          'Regularização de obras já iniciadas ou concluídas sem aprovação'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O alvará não é burocracia — é a garantia de que sua obra respeita as normas que protegem sua segurança e a valorização do seu patrimônio.'
+      },
+      {
+        type: 'heading',
+        text: 'Passo a Passo para Emitir o Alvará de Construção em Navegantes'
+      },
+      {
+        type: 'heading',
+        text: '1. Contratação do engenheiro ou escritório de engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'O primeiro passo — e o mais importante — é contar com um engenheiro civil registrado no CREA-SC com registro ativo e experiência em projetos na região de Navegantes. Esse profissional será o responsável técnico pela elaboração do projeto, pelo acompanhamento da obra e pela articulação com os órgãos municipais.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O engenheiro faz a análise inicial do terreno, verifica a viabilidade construtiva, levanta as restrições do terreno (inundações, encostas, área de proteção ambiental) e define os parâmetros do projeto de acordo com o Plano Diretor de Navegantes.'
+      },
+      {
+        type: 'heading',
+        text: '2. Obtenção da Certidão Negativa de Débitos e matrícula atualizada'
+      },
+      {
+        type: 'paragraph',
+        text: 'Antes de protocolar qualquer projeto, é necessário garantir que o imóvel esteja regular do ponto de vista fiscal e registral. A Prefeitura de Navegantes exige a comprovação de que não há débitos municipais (IPTU, taxas) pendentes sobre o imóvel.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Certidão Negativa de Débitos (CND) emitida pela Prefeitura — confirma quitação de IPTU e taxas municipais',
+          'Certidão de ônus reais do Cartório de Registro de Imóveis — verifica se há hipotecas ou gravames',
+          'Matrícula atualizada do imóvel — documento que identifica a propriedade, limites e confrontações'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '3. Elaboração do projeto arquitetônico e complementares'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com as certidões em mãos, o engenheiro e/ou arquiteto elabora o projeto que será submetido à aprovação da Prefeitura. O projeto deve contemplar todas as disciplinas exigidas para o tipo e porte da obra:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projeto arquitetônico — plantas baixas, cortes, fachadas e memória de cálculo',
+          'Projeto estrutural — dimensionamento de fundações, pilares, vigas e lajes',
+          'Projeto hidráulico — água fria, esgoto sanitário e águas pluviais',
+          'Projeto elétrico — distribuição de energia, quadro de força e aterramento',
+          'Projeto de combate a incêndio — quando aplicável (estabelecimentos comerciais e edifícios)',
+          'Projeto paisagístico — em alguns casos, conforme exigência da zoneamento'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Todos os projetos devem ser assinados pelo profissional responsável com ART (Anotação de Responsabilidade Técnica) registrada no CREA-SC.'
+      },
+      {
+        type: 'heading',
+        text: '4. Protocolo do projeto na Prefeitura de Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto completo, acompanhado de todos os documentos exigidos, é protocolado na Secretaria de Desenvolvimento Urbano (SEDE) ou no setor competente da Prefeitura de Navegantes. O protocolo pode ser feito presencialmente ou pelo sistema eletrônico municipal, conforme a disponibilidade da prefeitura.'
+      },
+      {
+        type: 'paragraph',
+        text: 'No momento do protocolo, o proprietário ou responsável técnico deve apresentar:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Requerimento de alvará de construção (formulário da Prefeitura)',
+          'Projeto arquitetônico e complementares (cópias e mídia digital, quando exigido)',
+          'ART registrada no CREA-SC para cada disciplina do projeto',
+          'Certidão Negativa de Débitos municipais',
+          'Matrícula atualizada do imóvel',
+          'CND Federal (certidão negativa de débitos junto à Receita Federal e INSS)',
+          'Comprovante de recolhimento da taxa de análise do projeto'
+        ]
+      },
+      {
+        type: 'heading',
+        text: '5. Análise técnica pela Prefeitura'
+      },
+      {
+        type: 'paragraph',
+        text: 'Após o protocolo, o projeto entra em análise técnica pela equipe da Prefeitura. Esse processo verifica se o projeto atende às normas urbanísticas, ambientais e técnicas vigentes em Navegantes. Os principais pontos de análise incluem:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Conformidade com a zona de uso do solo (residencial, comercial, mista, industrial)',
+          'Respeito à taxa de ocupação e coeficiente de aproveitamento máximos',
+          'Recuos laterais, frontais e de fundo conforme a testada da rua',
+          'Altura máxima permitida (gabarito) para a região',
+          'Vaga de estacionamento e acessibilidade',
+          'Área de preservação permanente (APP) e incidência sobre recursos hídricos',
+          'Conformidade com a legislação de proteção ao patrimônio histórico (quando aplicável)'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'A análise técnica pode levar de 15 a 45 dias úteis, dependendo da complexidade da obra e da demanda do setor de fiscalização.'
+      },
+      {
+        type: 'heading',
+        text: '6. Parecer do Corpo de Bombeiros (AVCB)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para obras de uso comercial, industrial, institucional e edifícios multifamiliares, é obrigatório obter o parecer do Corpo de Bombeiros Militar de Santa Catarina (CBMSC) para a emissão do Aprovação de Vistoria do Corpo de Bombeiros (AVCB). O projeto de prevenção e combate a incêndio deve ser submetido separadamente ao CBMSC.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para residências unifamiliares de pequeno porte, geralmente não é exigido AVCB — mas vale confirmar no momento do protocolo, pois a exigência pode variar conforme o tipo de ocupação e a área construída.'
+      },
+      {
+        type: 'heading',
+        text: '7. Emissão do alvará e início da obra'
+      },
+      {
+        type: 'paragraph',
+        text: 'Com todos os pareceres favoráveis (Prefeitura, quando aplicável Corpo de Bombeiros e demais órgãos), o alvará de construção é emitido. O documento deve ser fixado em local visível na obra e acompanhado dos projetos aprovados, que devem permanecer no canteiro durante toda a execução.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O alvará é válido por um período determinado — geralmente de 2 a 5 anos, conforme a legislação municipal — e pode ser prorrogado caso a obra não seja concluída dentro do prazo. É fundamental acompanhar os prazos para evitar a perda da autorização.'
+      },
+      {
+        type: 'heading',
+        text: 'Documentos exigidos — resumo rápido'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para facilitar a organização, esta é a lista completa de documentos necessários para protocolar o projeto de alvará de construção na Prefeitura de Navegantes:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Requerimento de alvará de construção (formulário da Prefeitura)',
+          'Projeto arquitetônico completo (plantas, cortes, fachadas, memorias)',
+          'Projeto estrutural assinado por engenheiro civil',
+          'Projeto hidráulico e elétrico (quando exigido pela complexidade da obra)',
+          'Projeto de prevenção e combate a incêndio (quando aplicável)',
+          'ART (Anotação de Responsabilidade Técnica) registrada no CREA-SC',
+          'Certidão Negativa de Débitos municipais (IPTU em dia)',
+          'Certidão de ônus reais do Cartório de Registro de Imóveis',
+          'Matrícula atualizada do imóvel',
+          'CND Federal (Receita Federal e INSS)',
+          'Comprovante de recolhimento da taxa de análise'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Prazos para emissão do alvará em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'O prazo total para a emissão do alvará de construção em Navegantes varia conforme a complexidade da obra e a documentação apresentada. Como referência geral:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Projetos simples (residências unifamiliares): 30 a 45 dias úteis para análise completa',
+          'Projetos intermediários (comércios e sobrados): 45 a 60 dias úteis',
+          'Projetos complexos (edifícios e uso misto): 60 a 90 dias úteis, incluindo pareceres complementares',
+          'Análise do Corpo de Bombeiros: prazo adicional de 30 a 60 dias, quando exigido'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Documentação incompleta ou erros no projeto são as principais causas de atraso. Ter um engenheiro responsável que acompanha o processo evita idas e voltas desnecessárias.'
+      },
+      {
+        type: 'heading',
+        text: 'Custos envolvidos na emissão do alvará'
+      },
+      {
+        type: 'paragraph',
+        text: 'Os custos para emitir o alvará de construção em Navegantes envolvem taxas públicas e honorários técnicos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Taxa de análise do projeto — cobrada pela Prefeitura, varia conforme a área construída',
+          'Taxa de vistoria — cobrada quando a Prefeitura realiza vistoria na obra',
+          'Taxa do Corpo de Bombeiros — quando aplicável, para emissão do AVCB',
+          'Honorários do engenheiro — variam conforme o porte do projeto e a complexidade',
+          'Honorários do arquiteto — quando o projeto arquitetônico é desenvolvido separadamente',
+          'Custos de projeto complementar — projetos hidráulico, elétrico, estrutural e de combate a incêndio'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Investir em um projeto bem elaborado desde o início reduz significativamente o risco de retrabalho, negativas e atrasos — que custam muito mais do que os honorários iniciais.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns que atrasam a aprovação do alvará'
+      },
+      {
+        type: 'paragraph',
+        text: 'Conhecer os erros mais frequentes ajuda a evitá-los e a agilizar todo o processo:'
+      },
+      {
+        type: 'list',
+        items: [
+          'IPTU em atraso — a Certidão Negativa de Débitos é exigida e o projeto não avança sem ela',
+          'Projeto sem ART válida — o CREA-SC exige que a Anotação de Responsabilidade Técnica esteja ativa e vinculada ao projeto',
+          'Erro nos recuos e afastamentos — o projeto desrespeita os parâmetros da zona de uso',
+          'Projeto incompleto — falta de memória de cálculo, cortes ou detalhamentos exigidos',
+          'Vaga de estacionamento insuficiente — exigência que varia conforme o tipo de uso do imóvel',
+          'Área de preservação permanente (APP) não considerada — terrenos próximos a rios ou encostas têm restrições específicas',
+          'Alvará expirado — a obra precisa iniciar dentro do prazo de validade do alvará, caso contrário é necessário novo protocolo'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'A Regê Engenharia cuida do alvará do seu imóvel em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia é especializada em projetos e aprovação de alvarás na região de Navegantes e litoral norte catarinense. Nossa equipe acompanha cada etapa do processo — da análise inicial do terreno até a emissão do alvará — garantindo que seu projeto seja aprovado sem surpresas e dentro do prazo.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Análise de viabilidade e restrições do terreno antes da elaboração do projeto',
+          'Elaboração de projetos arquitetônicos, estruturais e complementares com ARTs no CREA-SC',
+          'Protocolo e acompanhamento na Prefeitura de Navegantes — resposta a exigências e pareceres',
+          'Articulação com o Corpo de Bombeiros para projetos que exigem AVCB',
+          'Acompanhamento da aprovação até a emissão do alvará definitivo',
+          'Consultoria para obras já iniciadas que precisam de regularização'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Se você vai construir ou reformar em Navegantes, Itajaí, Balneário Camboriú, Itapema ou região, entre em contato com a Regê Engenharia. Solicite uma avaliação técnica e comece sua obra com a documentação em ordem — sem medo de embargo, multa ou retrabalho.'
+      }
+    ]
+  },
+  {
+    slug: 'projeto-eletrico-como-a-rege-engenharia-ajuda',
+    title: 'Projeto Elétrico: O Que É, Por Que É Essencial e Como a Regê Engenharia Pode Ajudar',
+    tag: 'ENGENHARIA',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Obra residencial em Navegantes com instalação elétrica em execução — projeto elétrico assinado por engenheiro civil registrado no CREA-SC.',
+    excerpt: 'Entenda o que é um projeto elétrico, por que ele é obrigatório em qualquer construção ou reforma, quais normas técnicas devem ser seguidas e como a Regê Engenharia garante que sua instalação elétrica seja segura, eficiente e aprovada.',
+    readTime: '11 min de leitura',
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Muita gente trata a parte elétrica de uma construção como detalhe técnico que pode ser resolvido depois. Mas a instalação elétrica é um dos sistemas que mais impactam a segurança, o conforto e a valorização de um imóvel. Um projeto elétrico mal executado pode causar curto-circuito, incêndio, queda de tensão e até a perda total do imóvel.'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto elétrico não é apenas um desenho de fios e disjuntores — é um documento técnico completo que define como a energia vai chegar ao imóvel, como será distribuída em cada ambiente e quais dispositivos de proteção serão instalados. Este artigo explica tudo o que você precisa saber sobre projetos elétricos e como a Regê Engenharia pode ajudar a tornar sua instalação segura e regular.'
+      },
+      {
+        type: 'heading',
+        text: 'O que é um projeto elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto elétrico é o conjunto de documentos técnicos que descreve toda a infraestrutura elétrica de uma construção. Ele contempla o dimensionamento dos circuitos, a escolha dos componentes, o traçado das canalizações e a especificação dos materiais que serão utilizados na instalação.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Na prática, o projeto elétrico responde a perguntas como: qual a potência total que o imóvel vai consumir? Quantos circuitos são necessários? Qual o calibre dos fios? Onde ficarão os quadros de distribuição? Como será o aterramento? Qual a proteção contra surtos e descargas atmosféricas?'
+      },
+      {
+        type: 'heading',
+        text: 'Por que o projeto elétrico é obrigatório'
+      },
+      {
+        type: 'paragraph',
+        text: 'No Brasil, a instalação elétrica em obras de construção civil é regulamentada pela norma ABNT NBR 5410, que estabelece os requisitos para instalações de baixa tensão. Essa norma é referência obrigatória para qualquer projeto elétrico que seja submetido à aprovação da Prefeitura.'
+      },
+      {
+        type: 'list',
+        items: [
+          'A norma ABNT NBR 5410 define dimensionamento, proteção, aterramento e isolação de circuitos',
+          'A ABNT NBR 14039 regulamenta instalações de média tensão para edificações e complexos',
+          'A Lei Federal 8.078/90 (CDC) exige que produtos e serviços ofereçam segurança adequada ao consumidor',
+          'A Lei Federal 14.120/2021 institui o Programa Nacional de Eficiência Energética em Edificações (Procel Edifica)',
+          'As Prefeituras exigem o projeto elétrico para a emissão do alvará de construção em praticamente todos os municípios brasileiros',
+          'O CREA-SC só registra a ART do engenheiro quando o projeto elétrico está presente entre os documentos submetidos'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Além da obrigatoriedade legal, ter um projeto elétrico bem elaborado evita sobressaltos durante a obra — como falta de pontos de tomada na posição certa, circuitos subdimensionados que desarmam constantemente e eletrodutos que precisam ser refeitos por falta de planejamento.'
+      },
+      {
+        type: 'quote',
+        text: 'O projeto elétrico não é um gasto — é a garantia de que sua instalação elétrica vai funcionar por décadas sem surpresas, sem riscos e sem retrabalho.'
+      },
+      {
+        type: 'heading',
+        text: 'Partes que compõem um projeto elétrico completo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto elétrico completo para residências, comércios ou edifícios contempla várias disciplinas e documentos técnicos:'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto de iluminação'
+      },
+      {
+        type: 'paragraph',
+        text: 'Define a disposição de pontos de luz em cada ambiente, considerando a potência ideal, o tipo de luminária, o fluxo luminoso (lúmens) e a estética do espaço. O projeto de iluminação também prevê pontos de iluminação externa, áreas de circulação e acesso.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto de força e tomadas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Dimensiona os circuitos de tomadas para cada cômodo, considerando a potência dos equipamentos que serão utilizados. Inclui pontos especiais para ar-condicionado, chuveiro elétrico, cooktop, forno, lavadora e outros eletrodomésticos de alta demanda.'
+      },
+      {
+        type: 'heading',
+        text: 'Quadro de distribuição'
+      },
+      {
+      type: 'paragraph',
+      text: 'É o centro de controle da instalação elétrica do imóvel. Cada circuito é protegido por um disjuntor específico, e o quadro pode incluir DRs (disjuntores diferenciais) e DPS (dispositivos de proteção contra surtos) para proteção contra choques e descargas atmosféricas.'
+      },
+      {
+        type: 'heading',
+        text: 'Aterramento e proteção'
+      },
+      {
+        type: 'paragraph',
+        text: 'O sistema de aterramento é fundamental para a segurança elétrica. Ele canaliza correntes de falha para o solo, evitando choques e protegendo equipamentos eletrônicos. O projeto define o tipo de aterramento (solo, haste, anel) e as conexões com o eletrodo de aterramento.'
+      },
+      {
+        type: 'heading',
+        text: 'Canalização e eletrodutos'
+      },
+      {
+        type: 'paragraph',
+        text: 'Define o traçado dos eletrodutos nas paredes, pisos e tetos, garantindo que os fios sejam protegidos e que a instalação seja acessível para manutenção futura. O projeto inclui o dimensionamento dos diâmetros dos eletrodutos e o número de fios por tubulação.'
+      },
+      {
+        type: 'heading',
+        text: 'Memorial descritivo e diagrama unifilar'
+      },
+      {
+        type: 'paragraph',
+      text: 'O memorial descritivo lista todos os materiais, equipamentos e especificações técnicas do projeto. O diagrama unifilar é o esquema completo da instalação elétrica, mostrando a origem da energia, os circuitos, os dispositivos de proteção e as cargas de cada circuito.'
+      },
+      {
+        type: 'heading',
+        text: 'Normas técnicas que regem projetos elétricos'
+      },
+      {
+        type: 'paragraph',
+        text: 'A segurança elétrica no Brasil é garantida por um conjunto de normas técnicas da ABNT (Associação Brasileira de Normas Técnicas). Conhecer essas normas é essencial para qualquer engenheiro que elabora projetos elétricos:'
+      },
+      {
+        type: 'list',
+        items: [
+          'ABNT NBR 5410 — Instalações elétricas de baixa tensão (norma principal para residências e comércios)',
+          'ABNT NBR 14039 — Instalações elétricas de média tensão (edifícios de grande porte, complexos)',
+          'ABNT NBR 5413 — Iluminância de interiores (padrões de luminosidade para cada tipo de ambiente)',
+          'ABNT NBR 5419 — Proteção contra descargas atmosféricas (para edifícios altos e áreas de risco)',
+          'ABNT NBR 14644 — Limpeza no controle de contaminação ambiental (ambientes especiais)',
+          'NBR 7190 — Projeto de estruturas de madeira (compatibilidade com instalações elétricas)',
+          'ABNT NBR 13852 — Conforto térmico em ambientes internos (integração com sistemas de ar-condicionado)'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes e em todo o litoral catarinense, o clima úmido e a proximidade com o mar exigem atenção redobrada à escolha de materiais elétricos com proteção adequada contra corrosão e umidade.'
+      },
+      {
+        type: 'heading',
+        text: 'Tipos de projeto elétrico por finalidade'
+      },
+      {
+        type: 'paragraph',
+        text: 'O projeto elétrico varia conforme o tipo de imóvel e sua finalidade. Cada tipologia tem exigências específicas:'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico residencial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Para residências unifamiliares e multifamiliares, o projeto considera o consumo típico de uma casa — iluminação, tomadas, ar-condicionado, chuveiro elétrico, cooktop e eletrodomésticos. Em condomínios residenciais, o projeto também contempla a parte comum: elevadores, iluminação de áreas de lazer, portaria e garagem.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico comercial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Comércios têm demanda elétrica mais intensa — vitrines iluminadas, equipamentos de ar-condicionado central, sistemas de segurança, sinalização e pontos de venda. O projeto comercial também pode exigir parte de média tensão, conforme o porte do estabelecimento.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico industrial'
+      },
+      {
+        type: 'paragraph',
+        text: 'Indústrias e galpões logísticos exigem projetos de média e alta tensão, com transformadores próprios, quadros de comando de motores e sistemas de proteção contra curto-circuito. O projeto industrial também prevê a distribuição de energia para máquinas específicas e sistemas de controle automático.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico para edifícios multifamiliares'
+      },
+      {
+        type: 'paragraph',
+        text: 'Edifícios com vários pavimentos exigem um projeto mais complexo, com parte de entrada de média tensão, transformador, quadro geral de distribuição (QGDE), quadros de distribuição por andar e projetos de iluminação de áreas comuns — garagem, hall de elevador, escada, lazer e varandas.'
+      },
+      {
+        type: 'heading',
+        text: 'Erros comuns em instalações elétricas sem projeto'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quando a instalação elétrica é feita sem projeto técnico, os erros mais frequentes são:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Circuitos subdimensionados — fio fino demais para a carga, causando aquecimento e risco de incêndio',
+          'Falta de aterramento — instalação sem proteção contra choques e descargas atmosféricas',
+          'Pontos de tomada insuficientes — extensores e benjamins como solução permanente',
+          'Disjuntores inadequados — DRs que desarmam constantemente ou que não desarmam em caso de falha',
+          'Canalização inadequada — eletrodutos enterrados em locais inacessíveis para manutenção',
+          'Ausência de pontos para ar-condicionado — fios improvisados expostos na parede',
+          'Eletrodutos misturados — fios de força e sinal no mesmo tubo, causando interferência',
+          'Falta de proteção contra surtos — equipamentos eletrônicos queimados por descargas atmosféricas'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia ajuda no seu projeto elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia elabora projetos elétricos completos para residências, comércios e edifícios na região de Navegantes e litoral norte catarinense. Nossa equipe garante que sua instalação elétrica seja dimensionada corretamente, segura e em conformidade com todas as normas técnicas vigentes.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Análise da demanda elétrica do imóvel — cálculo de potência, escolha do padrão de ligação e dimensionamento do quadro',
+          'Projeto de iluminação — pontos de luz, luminárias, potência e estética para cada ambiente',
+          'Projeto de força e tomadas — circuitos dimensionados para cada cômodo e equipamento',
+          'Dimensionamento do quadro de distribuição — disjuntores, DRs, DPS e proteção adequada',
+          'Projeto de aterramento — sistema de aterramento conforme a norma NBR 5410',
+          'Canalização e eletrodutos — traçado otimizado para manutenção futura',
+          'Memorial descritivo e diagrama unifilar — documentação técnica completa para aprovação',
+          'ART (Anotação de Responsabilidade Técnica) no CREA-SC — registro que vincula o engenheiro ao projeto',
+          'Acompanhamento na aprovação do projeto na Prefeitura — garantia de que o projeto elétrico seja aceito'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico integrado com outras disciplinas'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um dos diferenciais da Regê Engenharia é a integração do projeto elétrico com as outras disciplinas da obra. O projeto elétrico não pode ser feito de forma isolada — ele precisa considerar o projeto arquitetônico (posição de móveis, pontos de luz), o projeto hidráulico (posição de equipamentos que demandam energia) e o projeto estrutural (trilhas de fixação e eletrodutos embutidos).'
+      },
+      {
+        type: 'paragraph',
+        text: 'Ao elaborar o projeto elétrico junto com os demais, evitamos conflitos na obra — como eletrodutos cruzando canos de água, pontos de luz em posições inadequadas ou quadros de distribuição em locais sem acesso.'
+      },
+      {
+        type: 'heading',
+        text: 'Prazos e custos do projeto elétrico'
+      },
+      {
+        type: 'paragraph',
+        text: 'O prazo para elaboração do projeto elétrico varia conforme o porte do imóvel:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Residência unifamiliar simples: 5 a 10 dias úteis para projeto completo',
+          'Residência de médio porte ou sobrado: 10 a 15 dias úteis',
+          'Comércio ou consultório: 10 a 20 dias úteis, conforme a complexidade',
+          'Edifício multifamiliar: 20 a 40 dias úteis, incluindo parte de média tensão',
+          'Projeto para aprovação na Prefeitura: prazo adicional de 5 a 10 dias úteis para ajustes e protocolo'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Os custos do projeto elétrico são proporcionais à complexidade da obra e são muito menores do que o custo de corrigir uma instalação mal feita depois. Um projeto bem elaborado evita retrabalho, materiais desperdiçados e riscos à segurança.'
+      },
+      {
+        type: 'heading',
+        text: 'Projeto elétrico e segurança: o que está em jogo'
+      },
+      {
+        type: 'paragraph',
+        text: 'Segurança elétrica não é opcional. De acordo com dados da ABRADEE (Associação Brasileira de Distribuidoras de Energia Elétrica), uma em cada três ocorrências de incêndio em residências brasileiras tem origem elétrica. A causa quase sempre é a mesma: instalação sem projeto, com materiais inadequados ou sem proteção.'
+      },
+      {
+        type: 'paragraph',
+        text: 'Um projeto elétrico profissional elimina os riscos mais comuns:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Curto-circuito por fios subdimensionados — o dimensionamento correto evita aquecimento excessivo',
+          'Choque elétrico por falta de aterramento — o aterramento canaliza correntes de falha para o solo',
+          'Incêndio por circuito sobrecarregado — disjuntores dimensionados desarmam antes do limite do fio',
+          'Destruição de equipamentos por surtos — DPS protege contra descargas atmosféricas e transitórios',
+          'Choque acidental por falta de DR — o disjuntor diferencial detecta fuga de corrente e corta a energia'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Construa com segurança: fale com a Regê Engenharia'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia é especializada em projetos elétricos e acompanhamento de instalações na região de Navegantes, Itajaí, Balneário Camboriú, Itapema e litoral norte catarinense. Se você vai construir, reformar ou ampliar um imóvel, conte com uma equipe técnica que garante que a parte elétrica seja feita com segurança, eficiência e dentro das normas.'
+      },
+      {
+        type: 'list',
+        items: [
+          'Elaboração de projetos elétricos residenciais, comerciais e de edifícios',
+          'Dimensionamento de quadros de distribuição e sistemas de proteção',
+          'Projeto de aterramento e proteção contra descargas atmosféricas',
+          'Integração com projetos arquitetônicos, hidráulicos e estruturais',
+          'ART no CREA-SC e acompanhamento na aprovação na Prefeitura',
+          'Consultoria técnica para modernização de instalações elétricas antigas'
+        ]
+      },
+      {
+        type: 'paragraph',
+        text: 'Entre em contato com a Regê Engenharia e solicite uma avaliação técnica do seu projeto elétrico. Uma instalação bem projetada é a base de um imóvel seguro, eficiente e valorizado.'
+      }
+    ]
   }
 ];
