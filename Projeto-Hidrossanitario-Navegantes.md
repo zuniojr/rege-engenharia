@@ -113,7 +113,7 @@ Um projeto hidrossanitário bem dimensionado evita:
 Sim. Toda construção nova ou reforma que altere a rede hidráulica exige projeto aprovado pela prefeitura e ART do responsável técnico.
 
 ### Qual a diferença entre projeto hidrossanitário e projeto elétrico?
-O hidrossanitário cuida de água e esgoto; o elétrico cuida de energia. Ambos são independentes, mas devem ser compatibilizados para evitar conflitos no施工现场.
+O hidrossanitário cuida de água e esgoto; o elétrico cuida de energia. Ambos são independentes, mas devem ser compatibilizados para evitar conflitos no canteiro de obras.
 
 ### Quanto custa um projeto hidrossanitário?
 O valor depende da área e complexidade. Projetos residenciais variam de **R$ 1.200 a R$ 6.000**; a execução da instalação é orçada separadamente.

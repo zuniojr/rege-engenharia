@@ -2,6 +2,8 @@
 dist/
 # generated types
 .astro/
+# merge-posts.mjs working backup (5+ MB, regenerated on every run)
+scripts/.merge-backup.js
 
 # dependencies
 node_modules/

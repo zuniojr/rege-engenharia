@@ -4,6 +4,8 @@ import path from 'node:path';
 const ROOT = path.resolve(process.cwd());
 const OUT = 'C:/Users/OSMARJ~1/AppData/Local/Temp/opencode/new-posts.json';
 const EXCLUDE = new Set(['AGENTS.md', 'CLAUDE.md', 'README.md']);
+// Internal working documents that live at the repo root but are not blog articles.
+const EXCLUDE_RE = /^(action[-_ ]?plans?|full[-_ ]?audit[-_ ]?reports?|audit[-_ ]?reports?|todo[-_ ]?lists?|notes?)([-_ ].*)?$/i;
 
 const { blogPosts } = await import('../src/data/blogPosts.js');
 const existingSlugs = new Set(blogPosts.map((p) => String(p.slug).toLowerCase()));
@@ -202,7 +204,7 @@ function countWords(blocks) {
 
 const files = fs
   .readdirSync(ROOT)
-  .filter((f) => f.endsWith('.md') && !EXCLUDE.has(f))
+  .filter((f) => f.endsWith('.md') && !EXCLUDE.has(f) && !EXCLUDE_RE.test(path.basename(f, '.md')))
   .sort();
 
 const posts = [];

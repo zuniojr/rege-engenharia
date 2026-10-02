@@ -3,7 +3,7 @@
     slug: 'engenharia-meia-praia-navigantes',
     title: 'Engenharia da Meia Praia Navegantes: Soluções Técnicas para o Litoral de Santa Catarina',
     tag: 'MEIA-PRAIA',
-    image: '/images/eng-navigantes.png',
+    image: '/images/hero-rege.avif',
     imageAlt: 'Engenharia costeira em Meia Praia Navegantes SC — análise de solo arenoso, proteção contra maresia e projetos de fundação para edificações no litoral.',
     excerpt: 'Meia Praia em Navegantes enfrenta desafios únicos de engenharia: solo arenoso, maresia agressiva e demanda por edificações resistentes. Conheça as soluções técnicas da Regê Engenharia para fundações, reformas e projetos de infraestrutura no litoral catarinense.',
     readTime: '12 min de leitura',
@@ -4403,7 +4403,7 @@
       },
       {
         type: 'paragraph',
-        text: 'Lajes de cobertura, terraços, banheiros e áreas externas são os pontos de maior vulnerabilidade. O laudo verifica o estado dos sistemas de impermeabilização, identifica pontos de infiltração, mede umidade residual e classifica a urgência de intervenção —因为在 Navegantes, uma falha de impermeabilização custa 10x mais para corrigir depois.'
+        text: 'Lajes de cobertura, terraços, banheiros e áreas externas são os pontos de maior vulnerabilidade. O laudo verifica o estado dos sistemas de impermeabilização, identifica pontos de infiltração, mede umidade residual e classifica a urgência de intervenção — porque em Navegantes, uma falha de impermeabilização custa 10x mais para corrigir depois.'
       },
       {
         type: 'heading',
@@ -19349,7 +19349,7 @@
         items: [
           'Maior densidade e menor porosidade — reduzem a penetração de umidade e cloretos',
           'Menor condutividade térmica — mantêm ambientes internos mais frescos no verão',
-          'Certificação ambiental —许多 fabricantes possuem selo Proconcreto ou certificação ABNT de sustentabilidade',
+          'Certificação ambiental — muitos fabricantes possuem selo Proconcreto ou certificação ABNT de sustentabilidade',
           'Reciclabilidade — ao final da vida, podem ser britados e reutilizados como agregado'
         ]
       },
@@ -19512,7 +19512,7 @@
           'Verifique a vida útil do material no contexto local — não adianta um material durar 50 anos em São Paulo se no litoral ele dura 20',
           'Solicite laudos de desempenho — permeabilidade a cloretos, resistência à corrosão, estabilidade dimensional',
           'Considere o custo total de vida (CTL) — o material mais barato nem sempre é o mais econômico a longo prazo',
-          'Planeje a manutenção preventiva —有些 materiais sustentáveis exigem tratamentos periódicos (selantes, óleos) que devem estar no orçamento'
+          'Planeje a manutenção preventiva — alguns materiais sustentáveis exigem tratamentos periódicos (selantes, óleos) que devem estar no orçamento'
         ]
       },
       {
@@ -20997,7 +20997,7 @@
       },
       {
         type: 'paragraph',
-        text: 'Posso construir sem ART e regularizar depois? Tecnicamente sim, mas a regularização retroativa é mais cara: exige projeto as-build, ART com data retroativa, pagamento de multas e, em alguns casos,改造 parcial da obra. O caminho mais barato é sempre emitir a ART antes de iniciar a construção.'
+        text: 'Posso construir sem ART e regularizar depois? Tecnicamente sim, mas a regularização retroativa é mais cara: exige projeto as-build, ART com data retroativa, pagamento de multas e, em alguns casos, reforma parcial da obra. O caminho mais barato é sempre emitir a ART antes de iniciar a construção.'
       },
       {
         type: 'paragraph',
@@ -21507,7 +21507,7 @@
           'Áreas de nascentes — faixa mínima de 50 metros ao redor da nascente',
           'Dunas e restingas — formações costeiras com proteção especial na legislação ambiental',
           'Mangues e várzeas — ecossistemas costeiros com proteção rigorosa',
-          'Áreas de altitude — acima de 1.800 metros em部分地区 de SC',
+          'Áreas de altitude — acima de 1.800 metros em partes de SC',
           'Encostas e topos com declividade superior a 45 graus'
         ]
       },
@@ -21757,7 +21757,7 @@
     content: [
       {
         type: 'paragraph',
-        text: 'Construir em Navegantes significa enfrentar um dos ambientes mais agressivos para edificações do Brasil. A proximidade com o oceano Atlântico traz belezas naturais, mas também um inimigo silencioso: a maresia. Partículas de sal suspensas no ar atacam金属, concretos, revestimentos e instalações de forma contínua e acelerada, degradando edificações que não foram projetadas com materiais adequados.'
+        text: 'Construir em Navegantes significa enfrentar um dos ambientes mais agressivos para edificações do Brasil. A proximidade com o oceano Atlântico traz belezas naturais, mas também um inimigo silencioso: a maresia. Partículas de sal suspensas no ar atacam metais, concretos, revestimentos e instalações de forma contínua e acelerada, degradando edificações que não foram projetadas com materiais adequados.'
       },
       {
         type: 'paragraph',
@@ -21965,7 +21965,7 @@
         type: 'list',
         items: [
           'Porcelanato de alto tráfego — alta resistência mecânica e baixa absorção, ideal para áreas externas',
-          'Cerâmica类型——resistente a ácidos e bases, com superfície antiderrapante',
+          'Cerâmica — resistente a ácidos e bases, com superfície antiderrapante',
           'Pedra natural granito — extremamente resistente à corrosão e à abrasão',
           'Concreto aparelhado com selador — opção econômica quando bem executado e selado periodicamente',
           'Deck em madeira tratada ou compósita — madeira com tratamento a preservantes ou composite de plástico reciclado resiste à umidade e ao sal'
@@ -21977,7 +21977,7 @@
       },
       {
         type: 'paragraph',
-        text: 'Materiais resistentes à salinidade custam mais que materiais convencionais — mas o custo total de propriedade ( 生命周期成本) é significativamente menor:'
+        text: 'Materiais resistentes à salinidade custam mais que materiais convencionais — mas o custo total de propriedade (custo de ciclo de vida) é significativamente menor:'
       },
       {
         type: 'list',
@@ -22117,7 +22117,7 @@
       },
       {
         type: 'paragraph',
-        text: 'A primeira etapa da avaliação é a inspeção visual系统ática. O engenheiro percorre a edificação verificando:'
+        text: 'A primeira etapa da avaliação é a inspeção visual sistemática. O engenheiro percorre a edificação verificando:'
       },
       {
         type: 'list',
@@ -22758,7 +22758,7 @@
           'Trincas moderadas — injeção de resina estrutural com argamassa expansiva para preenchimento e reforço',
           'Trincas por corrosão — reparo com remoção do concreto contaminado, passivação do aço e aplicação de argamassa de reparo',
           'Trincas por assentamento — investigação geotécnica e possível reforço de fundação com mini-pilares ou screw piles',
-          'Trincas estruturais graves — reforço com fibras de carbono (FRP),增加seção de concreto ou substituição de elementos comprometidos'
+          'Trincas estruturais graves — reforço com fibras de carbono (FRP), aumento da seção de concreto ou substituição de elementos comprometidos'
         ]
       },
       {
@@ -24718,7 +24718,7 @@
           'Pé-direito alto — ambientes com pé-direito elevado permitem que o ar quente suba e seja substituído por ar fresco mais rápido',
           'Orientação do terreno — a casa deve captar os ventos predominantes do mar (leste e nordeste no verão litorâneo) e evitar bloqueios artificiais',
           'Materiais com baixa massa térmica — paredes leves e revestimentos que não acumulam calor durante o dia liberam menos calor à noite',
-          'Cobertura ventilada — telhado com空隙 entre a laje e a cobertura final permite que o calor acumulado escape antes de atingir os ambientes'
+          'Cobertura ventilada — telhado com folga entre a laje e a cobertura final permite que o calor acumulado escape antes de atingir os ambientes'
         ]
       },
       {
@@ -24816,8 +24816,8 @@
       {
         type: 'list',
         items: [
-          'Telhas leves — telhas de fibrocimento, policarbonato ou metal com空隙 de ventilação esfriam mais que telhas cerâmicas pesadas',
-          'Isolamento térmico no teto — mantas de isolamento ou lajes com空隙 reduzem a transmissão de calor do telhado para os ambientes',
+          'Telhas leves — telhas de fibrocimento, policarbonato ou metal com folga de ventilação esfriam mais que telhas cerâmicas pesadas',
+          'Isolamento térmico no teto — mantas de isolamento ou lajes com folga reduzem a transmissão de calor do telhado para os ambientes',
           'Paredes em alvenaria leve — blocos cerâmicos furos ou blocos de concreto celular (AAC) têm melhor desempenho térmico que paredes maciças',
           'Pisos frios — cerâmicas claras e porcelanatos com baixa absorção de calor mantêm o piso mais fresco',
           'Cores claras — fachadas e coberturas em cores claras refletem mais a radiação solar e reduzem o aquecimento da estrutura',
@@ -24855,7 +24855,7 @@
         items: [
           'Abrir janela apenas de um lado — sem corrente cruzada, o ar fica estagnado; sempre que possível, aberturas opostas',
           'Mobiliário bloqueando aberturas — armários, cortinas pesadas e estantes grandes obstruem o caminho do ar',
-          'Telhado sem ventilação — telhado sem空隙 ou sem exaustores acumula calor que desce para os ambientes',
+          'Telhado sem ventilação — telhado sem folga ou sem exaustores acumula calor que desce para os ambientes',
           'Vidraças sem operação — vidraças fixas eliminam a ventilação; sempre ter pelo menos uma parte operável',
           'Projetar para o inverno e esquecer do verão — muitas casas são projetadas para reter calor no inverno, esquecendo que no verão o objetivo é o oposto',
           'Ignorar a orientação solar — aberturas voltadas para o sol poente recebem calor intenso à tarde, anulando o benefício da ventilação'
@@ -25199,7 +25199,7 @@
       },
       {
         type: 'paragraph',
-        text: 'A Celesc tem tarifa baixa — isso afeta o retorno? Sim, a tarifa mais baixa do Brasil延e o payback um pouco mais longo que estados com luz cara. Mas a escalada anual de 5% a 12% compensa ao longo do tempo.'
+        text: 'A Celesc tem tarifa baixa — isso afeta o retorno? Sim, a tarifa mais baixa do Brasil estende o payback um pouco mais longo que estados com luz cara. Mas a escalada anual de 5% a 12% compensa ao longo do tempo.'
       },
       {
         type: 'paragraph',
@@ -25395,7 +25395,7 @@
         items: [
           'Pular o ensaio de permeabilidade — dimensionar o sistema por tabela genérica, sem conhecer o solo real, é a causa nº 1 de falha em terrenos arenosos',
           'Instalar a fossa abaixo do lençol freático — a água subterrânea invade a fossa, impede o tratamento e contamina o efluente',
-          'Omitir o filtro —许多 residências instalam apenas a fossa séptica, sem etapa complementar; em terreno arenoso, isso é insuficiente para proteger o lençol',
+          'Omitir o filtro — muitas residências instalam apenas a fossa séptica, sem etapa complementar; em terreno arenoso, isso é insuficiente para proteger o lençol',
           'Área de infiltração subdimensionada — pouca área para o efluente infiltra saturar o solo e gerar escorrimento superficial',
           'Ausência de contenção na escavação — acidentes com colapso de paredes de areia são comuns e evitáveis com escoramento',
           'Falta de manutenção — fossa sem limpeza de lodo entope, transborda e contamina o terreno',
@@ -26902,7 +26902,7 @@
         items: [
           'Paredes externas — transmitância térmica e inércia térmica; o desempenho depende do tipo de alvenaria, espessura, isolamento e pintura externa',
           'Cobertura — o componente que mais influencia o ganho de calor em edifícios de um ou dois pavimentos; telhas com isolamento e pintura clara reduzem significativamente a carga térmica',
-          'Esquadrias — janelas e portas são os pontos de maior perda e ganho de calor; o tipo de vidro, aمارフレーム e a vedação determinam o desempenho',
+          'Esquadrias — janelas e portas são os pontos de maior perda e ganho de calor; o tipo de vidro, a marca e a vedação determinam o desempenho',
           'Piso — em contato com o solo, o piso pode representar perda de calor no inverno e ganho no verão; o laudo avalia a resistência térmica da laje',
           'Estanqueidade ao ar — a infiltração de ar por frestas e vedações mal executadas pode comprometer todo o desempenho térmico, mesmo com bons materiais',
           'Permeabilidade ao vapor — a transmissão de umidade através dos componentes afeta o conforto e pode causar problemas de condensação e mofo'
@@ -27145,7 +27145,7 @@
         items: [
           'Ausência de projeto de drenagem — o imóvel foi construído sem sistema de drenagem pluvial projetado; a água da chuva escorre pelo terreno e encontra o caminho de menor resistência, que geralmente é a garagem ou o subsolo',
           'Dimensionamento inadequado — o sistema existe, mas foi dimensionado para volumes de chuva menores que os que realmente ocorrem na região; o tubo entope ou a capacidade é insuficiente',
-          'Infiltração pelo lençol freático —不同于 a drenagem de chuva, a água subterrânea sobe pelas paredes e pelo piso do subsolo quando o lençol freático está elevado; isso exige impermeabilização e drenagem perimetral, não apenas calhas e rufos',
+          'Infiltração pelo lençol freático — diferente da drenagem de chuva, a água subterrânea sobe pelas paredes e pelo piso do subsolo quando o lençol freático está elevado; isso exige impermeabilização e drenagem perimetral, não apenas calhas e rufos',
           'Vizinhança com obras — a escavação do terreno vizinho pode alterar o fluxo subterrâneo de água, direcionando-o para a sua propriedade',
           'Obstrução do sistema — calhas entupidas, tubos entrecerrados, bueiros soterrados ou fossos de drenagem com sedimentos bloqueiam o fluxo e causam alagamento na primeira chuva forte',
           'Reaterro inadequado — quando o nível do piso é elevado com reaterro sem compactação adequada, a água se acumula entre o reaterro e o solo natural, promovendo infiltração pelas paredes'
@@ -27230,7 +27230,7 @@
           'Caixa d\'água de retenção — reservatório subterrâneo que armazena o pico de chuva e libera gradualmente; pode ser em concreto, fibra de vidro ou módulos plásticos',
           'Jardim de chuva (rain garden) — depressão no terreno com plantio de vegetação nativa que absorve e filtra a água da chuva; combina drenagem com paisagismo',
           'Pavimento permeável — concreto furo, grasscrete ou brita graduada que permite infiltração no local, reduzindo o volume que chega à rede pluvial',
-          'Telhado verde — camada vegetal na cobertura que retém parte da precipitação e reduz o pico de escoamento; em Navegantes, é especialmente eficaz结合 com calhas dimensionadas'
+          'Telhado verde — camada vegetal na cobertura que retém parte da precipitação e reduz o pico de escoamento; em Navegantes, é especialmente eficaz quando combinado com calhas dimensionadas'
         ]
       },
       {
@@ -28043,7 +28043,7 @@
       },
       {
         type: 'heading',
-        text: 'Conclusão:诊断 técnico antes de qualquer reparo'
+        text: 'Conclusão: diagnóstico técnico antes de qualquer reparo'
       },
       {
         type: 'paragraph',
@@ -29124,7 +29124,7 @@
       },
       {
         type: 'paragraph',
-        text: 'Cada uma dessas etapas也有 seus prazos e exigências. Um acompanhamento técnico adequado garante que nenhuma delas seja esquecida ou atrasada.'
+        text: 'Cada uma dessas etapas tem seus prazos e exigências. Um acompanhamento técnico adequado garante que nenhuma delas seja esquecida ou atrasada.'
       },
       {
         type: 'heading',
@@ -34619,7 +34619,7 @@
       {
         type: 'list',
         items: [
-          'Compatibilização real — Arquitetura, estrutura, elétrica, hidráulica, HVAC,防水 e incêndio conversam entre si. Nenhum cano passa por viga, nenhum conduíte fura laje, nenhum duto conflita com pilar.',
+          'Compatibilização real — Arquitetura, estrutura, elétrica, hidráulica, HVAC, impermeabilização e incêndio conversam entre si. Nenhum cano passa por viga, nenhum conduíte fura laje, nenhum duto conflita com pilar.',
           'Dimensionamento para o ambiente costeiro — Concreto C30/C35, cobrimento de armadura ≥ 45 mm (classe IV NBR 6118), aditivos cristalizantes, impermeabilização de baldrames e lajes de subsolo previstas no projeto, não no improviso.',
           'Fundações baseadas em sondagem real — SPT ou CPTu executadas antes do projeto estrutural. Estacas hélice contínua, raiz ou radier dimensionados para o solo arenoso e lençol freático alto típicos da região.',
           'Quantitativos extraídos do modelo — Planilhas de materiais (concreto, aço, blocos, revestimentos, tubulações, cabos) geradas a partir do projeto, não "chutadas". Base para orçamento executivo e compra programada.',
@@ -38857,7 +38857,7 @@
         type: 'list',
         items: [
           'Crescimento acelerado — o volume de obras na região gera demanda crescente por empresas de destinação e usinas de reciclagem, o que pode limitar a oferta em picos de construção',
-          'Solo arenoso e proximidade com o mar — o entulho com alta concentração de areia e sal tem destinação específica e não pode ser misturado com resíduos de内陆',
+          'Solo arenoso e proximidade com o mar — o entulho com alta concentração de areia e sal tem destinação específica e não pode ser misturado com resíduos sólidos urbanos',
           'Fiscalização ambiental rigorosa — a região do litoral norte tem fiscalização frequente de Secretaria de Meio Ambiente e Ministério Público, especialmente em obras próximas à orla, mangues e áreas de preservação',
           'Limitação de áreas de disposição — a proximidade com o mar e as APPs restringem as opções de aterro, tornando a reciclagem e o reúso ainda mais importantes',
           'Sazonalidade do turismo — obras na temporada precisam gerenciar resíduos com ainda mais cuidado para evitar impacto visual e ambiental na região'
@@ -67023,7 +67023,7 @@
         },
         {
           type: 'paragraph',
-          text: 'O hidrossanitário cuida de água e esgoto; o elétrico cuida de energia. Ambos são independentes, mas devem ser compatibilizados para evitar conflitos no施工现场.'
+          text: 'O hidrossanitário cuida de água e esgoto; o elétrico cuida de energia. Ambos são independentes, mas devem ser compatibilizados para evitar conflitos no canteiro de obras.'
         },
         {
           type: 'subheading',
@@ -100875,7 +100875,7 @@ slug: 'engenheiro-civil-balneario-picarras',
     slug: 'pericia-engenharia-navegantes',
     title: 'Perícia de Engenharia em Navegantes: Laudos Técnicos para Conflitos, Acidentes e Regularização',
     tag: 'PERÍCIA',
-    image: '/images/pericia-navegantes.png',
+    image: '/images/analise-estrutura.avif',
     imageAlt: 'Perícia de engenharia em Navegantes SC - análise de trincas, patologias e laudo técnico para conflitos de obra e responsabilidade civil.',
     excerpt: 'A perícia de engenharia é a técnica que transforma dúvidas técnicas em provas judiciais. Em Navegantes, com alta taxa de construções e disputas vizinhas, o laudo pericial é essencial para definir responsabilidades e reparar danos. Conheça como a Regê Engenharia atua na área.',
     readTime: '10 min de leitura',
@@ -100971,6 +100971,14177 @@ slug: 'engenheiro-civil-balneario-picarras',
       {
         type: 'paragraph',
         text: 'A melhor perícia é aquela que nunca precisa ser feita. A perícia preventiva — realizada antes de conflitos surgirem, na compra de imóveis antigos ou antes de iniciar obras vizinhas — pode evitar processos, multas e prejuízos. Em Navegantes, a vistoria cautelar de vizinhança antes do início da obra do vizinho é a forma mais eficaz de prevenir danos e disputas futuras.'
+      }
+    ]
+  }
+,
+  {
+    slug: 'artigo-avaliacao-imoveis-navegantes-rege-solucao',
+    title: 'Avaliação de Imóveis em Navegantes/SC: Conheça o Valor Real do Seu Patrimônio',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Avaliação de Imóveis em Navegantes/SC: Conheça o Valor Real do Seu Patrimônio - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Navegantes, no coração do litoral catarinense, é uma cidade em plena expansão imobiliária.',
+    readTime: '4 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Navegantes, no coração do litoral catarinense, é uma cidade em plena expansão imobiliária. Com o crescimento do porto, a valorização de bairros como Meia Praia, São Domingos e a região do Vale do Itajaí, saber o valor real do seu imóvel nunca foi tão importante. Seja para venda, compra, financiamento, herança ou litígios, uma avaliação técnica e fundamentada é essencial para tomar decisões seguras.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que a Avaliação de Imóveis é Crítica em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'O mercado imobiliário de Navegantes apresenta características únicas que tornam a avaliação profissional indispensável:'
+        },
+        {
+          type: 'table',
+          headers: ['Fator de Mercado', 'Impacto no Valor', 'Por Que Importa'],
+          rows: [
+            ['Expansão portuária', 'Valorização de áreas próximas ao porto e logística', 'Movimentação de carga movimenta demanda por habitação e comércio'],
+            ['Valorização de bairros', 'Crescimento em Meia Praia, São Domingos e região centro', 'Melhorias de infraestrutura e serviços elevam preços'],
+            ['Solo arenoso e lençol freático', 'Impacta custo de fundação e estabilidade', 'Necessita de análise geotécnica no laudo de avaliação'],
+            ['Zonas de risco (inundação)', 'Descontagem de imóveis próximos ao rio Itajaí-Açu', 'Conformidade com normas de zoneamento e uso do solo'],
+            ['Maresia e corrosão', 'Vida útil de estruturas costeiras', 'Materiais e construção afetam valor a longo prazo']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"A avaliação de imóveis em Navegantes não é apenas sobre definir um preço — é sobre entender as particularidades do litoral catarinense e como elas afetam o patrimônio de forma duradoura."'
+        },
+        {
+          type: 'heading',
+          text: 'Etapas de uma Avaliação Técnica Correta'
+        },
+        {
+          type: 'paragraph',
+          text: 'Uma avaliação de imóvel credível segue um processo estruturado, conforme normas da ABNT NBR 14653:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Levantamento de Dados'
+        },
+        {
+          type: 'list',
+          items: [
+            'Documentação do imóvel (matrícula, certidões, projetos aprovados)',
+            'Características físicas (área, número de quartos, estado de conservação)',
+            'Características jurídicas (restrições, servidões, ocupação do solo)',
+            'Contexto urbano e ambiental (inundação, maresia, infraestrutura)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Visita Técnica'
+        },
+        {
+          type: 'list',
+          items: [
+            'Inspeção presencial do imóvel',
+            'Registro fotográfico detalhado',
+            'Avaliação do estado de conservação',
+            'Verificação de instalações (elétrica, hidráulica, estruturais)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Análise de Mercado'
+        },
+        {
+          type: 'list',
+          items: [
+            'Comparativo com imóveis similares recentemente vendidos',
+            'Estudo de oferta e demanda na região',
+            'Análise de tendências de valorização',
+            'Verificação de preços de aluguel (para fins de renda)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Aplicação dos Abordagens de Valor'
+        },
+        {
+          type: 'list',
+          items: [
+            'Abordagem de Custo: Custo de reposição menos depreciação',
+            'Abordagem de Comparação: Preços de mercado de imóveis similares',
+            'Abordagem de Renda: Potencial de geração de renda (para imóveis de investimento)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Emissão do Laudo de Avaliação'
+        },
+        {
+          type: 'list',
+          items: [
+            'Documento formal com identificação do imóvel',
+            'Descrição detalhada e análise de mercado',
+            'Cálculo do valor final com fundamentação',
+            'Assinatura do avaliador credenciado no CREA-SC'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tipos de Avaliação e Quando Cada Um é Necessário'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Avaliação', 'Finalidade Principal', 'Documentação Necessária'],
+          rows: [
+            ['Avaliação de Venda', 'Definir preço de venda ou compra', 'Documentos do imóvel, identidade do cliente'],
+            ['Avaliação para Financiamento', 'Liberação de crédito bancário', 'Laudo técnico, análise de renda, documento do imóvel'],
+            ['Avaliação Hereditária', 'Divisão de bens em inventário', 'Documentos de sucessão, identificação dos herdeiros'],
+            ['Avaliação de Seguro', 'Definir cobertura e prêmio de seguro', 'Laudo técnico, laudo de estado de conservação'],
+            ['Avaliação Judicial', 'Litígios, disputas de limites, desapropriação', 'Laudo técnico completo, documentação processual'],
+            ['Avaliação para Alienação de Bens Empresariais', 'Venda de imóvel corporativo', 'Documentos societários, demonstração de valor de ativo']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fatores que Influenciam o Valor do Seu Imóvel em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Fatores Positivos (Valorização)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Proximidade do centro e de serviços (comércios, escolas, saúde)',
+            'Área total e aproveitamento do terreno',
+            'Qualidade da construção e manutenção',
+            'Vista privilegiada (mar, rio, lago)',
+            'Infraestrutura de asfalto, iluminação, saneamento',
+            'Valorização recente da vizinhança'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Fatores Negativos (Desconto)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Localização em zona de risco (inundação, encosta)',
+            'Desgaste avançado sem manutenção',
+            'Falta de documentação regularizada',
+            'Acesso difícil ou infraestrutura inadequada',
+            'Proximidade de indústrias poluidentes ou ruas barulhentas',
+            'Problemas estruturais identificados na vistoria'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como Escolher um Profissional de Confiança para a Avaliação'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'O Que Verificar'],
+          rows: [
+            ['Registro no CREA-SC', 'Consulte o site do CREA-SC para confirmar a situação do registro do profissional'],
+            ['Experiência em avaliações', 'Quantas avaliações já realizou, especialmente na região de Navegantes'],
+            ['Conhecimento local', 'Familiaridade com as particularidades de solo, zoneamento e mercado local'],
+            ['Atualização técnica', 'Participação em cursos e atualização sobre normas ABNT e legislação municipal'],
+            ['Independência', 'Avaliador sem relação comercial com partes envolvidas na transação'],
+            ['Referências', 'Clientes anteriores ou casos semelhantes já atendidos']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia possui equipe técnica credenciada no CREA-SC com ampla experiência em avaliações de imóveis na região do litoral catarinense. Conhecemos as particularidades de Navegantes, desde o solo arenoso até as zonas de inundação, e entregamos laudos técnicos fundamentados e aceitos por bancos, cartórios e órgãos públicos.'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes sobre Avaliação de Imóveis em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Preciso de avaliação para financiar meu imóvel?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Bancos exigem laudo de avaliação para garantir o crédito. O valor do imóvel como garantia deve estar alinhado com o valor do financiamento solicitado. A avaliação deve ser feita por profissional credenciado e o laudo deve seguir as normas do Banco Central.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Quanto custa uma avaliação de imóvel em Navegantes?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'O custo varia conforme o porte do imóvel, mas geralmente está na faixa de R$ 1.500 a R$ 5.000 para residências unifamiliares. Para imóveis comerciais ou maiores, o valor pode ser superior. Considere que o investimento em uma avaliação correta evita prejuízos maiores em transações futuras.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Quanto tempo leva para entregar o laudo?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em média, de 7 a 15 dias úteis, dependendo da complexidade do imóvel e da disponibilidade de documentação. Laudos para fins judiciais ou de financiamento podem exigir prazo maior devido à profundidade da análise.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Preciso de avaliação se meu imóvel está em área de risco?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim, é ainda mais importante. Imóveis em zonas de inundação ou encostas requerem análise técnica detalhada para determinar o valor de mercado considerando os riscos e as restrições de uso do solo definidas pelo Código de Obras de Navegantes.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"A diferença entre valor de mercado e valor venal?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'O **valor de mercado** é o preço que o imóvel seria negociado entre partes interessadas, livremente. O **valor venal** é o valor atribuído pelo poder público para fins de cobrança de impostos (IPTU). Eles podem divergir significativamente, e cada um tem finalidade distinta.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Saber o valor real do seu imóvel em Navegantes é o primeiro passo para tomar decisões financeiras seguras, seja na venda, compra, financiamento ou regularização. Uma avaliação técnica fundamentada, realizada por profissional credenciado no CREA-SC, protege seu patrimônio e garante transparência em todas as transações.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Uma avaliação **completa** — que considere as particularidades do litoral catarinense, a documentação regularizada e as características do imóvel — é o diferencial entre uma transação tranquila e complicações jurídicas ou financeiras no futuro.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Navegantes/SC**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Avaliações técnicas, laudos periciais e consultoria para todo o litoral catarinense.'
+        },
+        {
+          type: 'table',
+          headers: ['Fale com um engenheiro: [WhatsApp]', '[Site]', '[Instagram]'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Atendemos: Navegantes, Balneário Camboriú, Itajaí, Penha, Barra Velha, São Francisco do Sul e região.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-calculo-estrutural-navegantes-regre-solucao',
+    title: 'Cálculo Estrutural em Navegantes: Segurança, Conformidade e a Solução Regê Engenharia',
+    tag: 'ENGENHARIA',
+    image: '/images/Trincas e Rachaduras.png',
+    imageAlt: 'Cálculo Estrutural em Navegantes: Segurança, Conformidade e a Solução Regê Engenharia - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'A cidade de Navegantes, no litoral catarinense, apresenta condições únicas para o projeto e cálculo estrutural.',
+    readTime: '4 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'A cidade de Navegantes, no litoral catarinense, apresenta condições únicas para o projeto e cálculo estrutural. O solo arenoso com lençol freático alto, a exposição à maresia e os ventos costeiros exigem conhecimento técnico especializado para garantir edificações seguras e duráveis. Neste artigo, abordamos a importância do cálculo estrutural na região e como a Regê Engenharia pode ser a solução para o seu projeto.'
+        },
+        {
+          type: 'heading',
+          text: '1. Por Que o Cálculo Estrutural é Crítico em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, o projeto estrutural não segue apenas as normas gerais da ABNT. As condições locais impõem requisitos adicionais que, se ignorados, podem comprometer a segurança do empreendimento e resultar em custos elevados de correção no futuro.'
+        },
+        {
+          type: 'subheading',
+          text: '1.1 Condições do Solo e Fundação'
+        },
+        {
+          type: 'paragraph',
+          text: 'O solo arenoso de Navegantes, caracterizado por baixa capacidade de carga e alto lençol freático, requer:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Sondagens geotécnicas para determinar a resistência do solo',
+            'Dimensionamento adequado de fundações (radeiras, estacas, sapatas) considerando o recalque',
+            'Estudo de classe de agressividade (normalmente Classe III ou IV devido à maresia)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Risco comum: Projetos feitos para interiores aplicados a Navegantes frequentemente sub-dimensionam fundações, provocando trincas, portas que não fecham e afundamentos diferenciais ao longo dos anos.'
+        },
+        {
+          type: 'subheading',
+          text: '1.2 Carga de Vento Costeira'
+        },
+        {
+          type: 'paragraph',
+          text: 'A proximidade do mar aumenta a intensidade e a direção predominante dos ventos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'NBR 6123 define parâmetros específicos para áreas costeiras',
+            'Cálculo de carga de vento deve considerar turbulência e rajadas típicas do litoral',
+            'Elementos de fachada e esquadrias devem resistir a essas cargas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '1.3 Exposição à Maresia'
+        },
+        {
+          type: 'paragraph',
+          text: 'A maresia acelera a corrosão das armaduras de aço e degrada concretos não protegidos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Definição de classe de proteção adequada (geralmente classe XC3 ou superior para áreas litorâneas)',
+            'Especificação de cobrimento mínimo de concreto (mínimo de 40mm para áreas costeiras)',
+            'Uso de aço com resistência à corrosão ou sistemas de proteção superficiais'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '2. Principais Erros em Cálculos Estruturais Mal Feitos'
+        },
+        {
+          type: 'table',
+          headers: ['Erro', 'Consequência', 'Custo de Correção'],
+          rows: [
+            ['Fundações sub-dimensionadas para o solo arenoso', 'Recalques diferenciais, trincas em paredes, portas/janelas emperradas', 'R$ 15.000 a R$ 50.000+'],
+            ['Cálculo de vento baseado em normas de interior', 'Falha em tempestades, danos à cobertura e fachada', 'R$ 20.000 a R$ 80.000+'],
+            ['Cobrimento de concreto insuficiente', 'Corrosão da armadura, descascamento, comprometimento estrutural', 'Inacessível sem reforma estrutural'],
+            ['Não considerar carga de maresia na escolha de materiais', 'Degrace acelerada, necessidade de manutenção constante', 'R$ 5.000 a R$ 30.000 em revestimentos']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '3. Como a Regê EngenhariaResolve esses Problemas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia atua exclusivamente em Navegantes e no litoral catarinense, com profundo conhecimento das condições locais e das normas aplicáveis.'
+        },
+        {
+          type: 'subheading',
+          text: '3.1 Diagnóstico Geotécnico Integrado'
+        },
+        {
+          type: 'list',
+          items: [
+            'Parceria com laboratórios de sondagens para execução de SPT (Teste de Penetração Standard)',
+            'Relatório geotécnico completo com recomendações de fundação',
+            'Cálculo de recalques e verificação de estabilidade'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2 Cálculo Estrutural Sob Medida para Navegantes'
+        },
+        {
+          type: 'list',
+          items: [
+            'Dimensionamento de fundações considerando o solo arenoso local',
+            'Carga de vento conforme NBR 6123 para áreas costeiras',
+            'Proteção contra maresia: especificação de cobrimento, classe de concreto e tipos de aço',
+            'Memoriais de cálculo detalhados e ART (Anotação de Responsabilidade Técnica) regularizada'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.3 Conformidade Legal e Técnica'
+        },
+        {
+          type: 'list',
+          items: [
+            'ART (Anotação de Responsabilidade Técnica) vigente e registrada no CREA-SC',
+            'Aprovação junto à Prefeitura de Navegantes com menor número de exigências',
+            'Conformidade com NBR 6118 (Concreto), NBR 8800 (Alvenaria Estrutural), NBR 6123 (Vento)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.4 Laudos e Relatórios Técnicos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo de estabilidade estrutural para condomínios, regularizações e vendas',
+            'Relatório de patologia construtiva com causas identificadas e soluções propostas',
+            'Documentação completa para habite-se e licenciamento'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '4. Serviços de Cálculo Estrutural Regê Engenharia'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Descrição', 'Público-Alvo'],
+          rows: [
+            ['Projeto Estrutural Completo', 'Cálculo de fundações, pilares, vigas, lajes e cobertura com memorial detalhado', 'Obras novas, ampliações, reformas estruturais'],
+            ['Laudo de Estabilidade', 'Atestado de que a estrutura suporta cargas previstas (vento, solo, ocupação)', 'Regularização, venda de imóvel, alteração de uso'],
+            ['Diagnóstico de Patologia', 'Identificação de causas de trincas, afundamentos e degradação estrutural', 'Imóveis com sinais de deterioração'],
+            ['Reforço Estrutural', 'Projeto de reforço de vigas, pilares e lajes com dimensionamento de novos perfis', 'Obras que adicionam carga ou corrigem problemas existentes'],
+            ['Compatibilização Projeto-Arquitetônico-Estrutural', 'Integração entre planta arquitetônica e estrutura para viabilidade construtiva', 'Arquitetos e construtores que precisam validar projetos']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '5. Benefícios de Contratar a Regê Engenharia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Conhecimento local especializado — Entendimento profundo das condições de solo, vento e maresia de Navegantes',
+            'Menos retrabalho — Projeto correto na primeira etapa evita reformas custosas laterais',
+            'Aprovação mais rápida — Documentação técnica completa e alinhada às exigências da Prefeitura de Navegantes',
+            'Segurança jurídica — ART regularizada, conformidade com normas e responsabilidade técnica atestada',
+            'Economia a longo prazo — Estrutura projetada para durar 50+ anos com manutenção mínima, evitando colapsos ou intervenções emergenciais'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '6. Depoimento de Cliente'
+        },
+        {
+          type: 'quote',
+          text: '"Projeto estrutural de uma casa de 200 m² no bairro Meia Praia. Outras empresas fizeramOrçamento para fundação rasa sem estudo de solo. A Regê Engenharia fez a sondagem, identificou que precisaríamos de estacas e evitou que a casa afundasse ao longo do tempo. O projeto foi aprovado na prefeitura sem exigências e a obra segue conforme o planejado." — Engenheiro responsável, cliente residencial'
+        },
+        {
+          type: 'heading',
+          text: '7. Investimento Referência 2025'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Faixa de Custo'],
+          rows: [
+            ['Cálculo estrutural básico (residencial até 300 m²)', 'R$ 2.500 a R$ 5.000'],
+            ['Cálculo estrutural com estudo geotécnico integrado', 'R$ 5.000 a R$ 8.000'],
+            ['Laudo de estabilidade estrutural', 'R$ 800 a R$ 2.000'],
+            ['Projeto de reforço estrutural', 'R$ 3.000 a R$ 10.000'],
+            ['Compatibilização projeto-arquitetônico-estrutural', 'R$ 1.500 a R$ 4.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referentes a projetos padrão para edificações residenciais em Navegantes. Orçamentos personalizados após análise do terreno e escopo do projeto.'
+        },
+        {
+          type: 'heading',
+          text: '8. Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'O cálculo estrutural em Navegantes exige mais do que aplicar fórmulas padrões — requer conhecimento das condições locais do solo, do vento costeiro e da exposição à maresia. Um projeto mal calculado não compromete apenas a segurança dos ocupantes, mas pode resultar em custos absurdos de correção ao longo do tempo.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece a combinação ideal de expertise técnica, conhecimento regional e compromisso com a segurança: projetos estruturais fundamentados em estudos de solo, cálculos aderentes às normas litorâneas e documentação completa para aprovação municipal.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque o patrimônio da sua família ou do seu investimento. Conte com a Regê Engenharia para garantir que a sua obra tenha uma base sólida e segura.'
+        },
+        {
+          type: 'heading',
+          text: 'Referências Normativas'
+        },
+        {
+          type: 'list',
+          items: [
+            'NBR 6118: Concrete structures — Design and construction',
+            'NBR 6123: Wind load on buildings and structures',
+            'NBR 8800: Masonry structures',
+            'NBR 15575: Durability of concrete structures',
+            'NBR 13969: Water tanks — precast concrete',
+            'Lei Complementar nº 001/2006: Código de Obras de Navegantes',
+            'Lei Complementar nº 002/2006: Plano Diretor de Navegantes',
+            'Resolução CONFEA 1.010/2006: Atribuições profissionais',
+            'ART — Anotação de Responsabilidade Técnica (obrigatória para todos os projetos estruturais)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Autor**: Regê Engenharia — Engenharia Civil e Estrutural em Navegantes/SC **Especialidade**: Cálculo Estrutural para Litoral Catarinense'
+        },
+        {
+          type: 'table',
+          headers: ['Contato: (47) 9XXXX-XXXX', 'contato@regeengenharia.com.br', 'Site'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**CREA-SC**: [Número do CREA]'
+        },
+        {
+          type: 'quote',
+          text: 'Artigo técnico para fins educacionais e profissionais. Não substitui projeto assinado por engenheiro habilitado com ART vigente. Para uma análise específica do seu terreno, solicite um orçamento ou agendamento de visita técnica.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-construcao-casas-navegantes-regre-solucao',
+    title: 'Construção de Casas em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Construção de Casas em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Navegantes vive um boom de construção residencial, com milhares de novos loteamentos e casas surgindo para atender à crescente demanda da região do litoral catarinense.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Navegantes vive um boom de construção residencial, com milhares de novos loteamentos e casas surgindo para atender à crescente demanda da região do litoral catarinense. No entanto, construir em Navegantes vai muito além de alicerces e paredes — o solo arenoso, o lençol freático elevado e a constante exposição à maresia exigem conhecimento técnico especializado para garantir que a casa seja segura, durável e legalizada do fundamento ao acabamento. Neste artigo, apresentamos os serviços essenciais para construção de casas em Navegantes e como a Regê Engenharia atua como a solução completa, com responsabilidade técnica, agilidade na aprovação municipal e entregas integradas.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Construir em Navegantes Exige Engenheiro Civil Especializado'
+        },
+        {
+          type: 'paragraph',
+          text: 'O mercado de Navegantes apresenta características únicas que exigem conhecimento técnico local:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo arenoso e lençol freático elevado: Requere projetos de fundação e estruturas específicos, evitando trincas, recalques diferenciais e patologias precoces',
+            'Código Urbanístico de Navegantes (LC 416/2023): Requisitos específicos de recuo, altura, vagas de estacionamento e indexabilidade que variam por bairro',
+            'Proximidade do Porto de Itajaí: Logística de entrega de materiais e risco de exposição a agentes atmosféricos (maresia) que aceleram o desgaste de estruturas',
+            'Clima litorâneo: Verões úmidos e chuvas intensas que exigem impermeabilização e drenagem adequadas em todos os projetos'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia diferencial: Com atuação desde 2010 no litoral catarinense, nossa equipe conhece as particularidades do solo navegante, os procedimentos da Prefeitura local e as exigências do Corpo de Bombeiros, convertendo esse conhecimento em projetos que aprovamos rapidamente e entregamos com garantia técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Principais Serviços para Construção de Casas em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projetos Integrados: Arquitetura + Estrutura + Instalações'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece projetos integrados, onde arquitetura, estrutura e instalações são desenvolvidos em conjunto, garantindo compatibilidade e evitando retrabalho:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto arquitetônico: Layout funcional, áreas, fachada, acessibilidade (NBR 9050), circulação e integração de ambientes',
+            'Projeto estrutural: Dimensionamento de fundações, pilares, vigas, lajes e cobertura — com estudo de solo e consideração da maresia para ambiente litorâneo',
+            'Projeto elétrico: Carga instalada, iluminação de piso (luxmetro), quadros de distribuição, aterramento e proteção contra descargas atmosféricas (NBR 5410)',
+            'Projeto hidráulico: Sistema de água fria/quente, esgoto sanitário, águas pluviais e sistema de incêndio (NBR 5419 e NR-23)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferencial Regê Engenharia: Todos os projetos são compatibilizados em um único documento, com coordenação de esforços e eliminação de conflitos entre disciplinas antes do protocolo na Prefeitura.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Aprovação Municipal e Emissão de Alvará'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um dos maiores gargalos em Navegantes é o tempo de aprovação de projetos. A Regê Engenharia atua para reduzir esse prazo:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Consulta prévia: Verificação de indexabilidade no Código Urbanístico antes do projeto ser desenvolvido, evitando refeitos laterais',
+            'Protocolo junto à Secretaria de Obras: Articulação técnica para que a primeira análise seja positiva, reduzindo idas e vindas',
+            'Emissão de Alvará de Construção: Preparação de toda a documentação exigida (projeto, memorial descriptivo, plantas, Vistoria de terreno) para agilizar a liberação',
+            'Aprovação do Corpo de Bombeiros: Projeto de prevenção e combate a incêndios (NR-23) integrado ao projeto geral, quando necessário para o tipo de obra'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia taxa de sucesso: Projetos aprovados em, em média, 30 dias úteis na primeira análise — consistente contra a média de 60 a 90 dias observados em projetos mal preparados ou genéricos.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Habite-se e Averbação Final'
+        },
+        {
+          type: 'paragraph',
+          text: 'Após a conclusão da obra, a Regê Engenharia acompanha todo o processo de regularização final:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Vistoria técnica de conclusão: Verificação de que todas as normas foram cumpridas (ABNT, CREA-SC, Prefeitura, CBM-SC)',
+            'Emissão do Habite-se: Documento expedido pela Prefeitura de Navegantes que declara o imóvel apto para habitação ou uso',
+            'Averbação no Cartório de Imóveis: Registro da conclusão da obra no Cartório de Navegantes, garantindo a validade jurídica do imóvel',
+            'Laudo de conclusão com ART: Responsabilidade técnica registrada no CREA-SC, fechando o ciclo de responsabilidade sobre a obra'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Regularização de Imóveis Construídos sem Projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitos imóveis em Navegantes foram construídos sem a devida aprovação técnica. A Regê Engenharia resolve esse problema:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Levantamento topográfico e arquitetônico: Medidas precisas do imóvel existente (plantas "as-built")',
+            'Projeto de regularização: Adequação do existente às normas atuais (Código Urbanístico LC 416/2023)',
+            'Processo na Prefeitura: Protocolamento do pedido de regularização e articulação com os setores técnicos',
+            'Solução para vícios construtivos: Identificação de patologias e elaboração de projeto de correção, se necessário'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Cenário comum: Um imóvel residencial em Navegantes construído há mais de 5 anos sem habite-se. A Regê Engenharia realiza levantamento, elabora projeto de regularização baseado no existente e conduz o processo de aprovação junto à Prefeitura, garantindo ao proprietário a segurança jurídica para vender ou financiar o imóvel.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Laudos e Vistorias Técnicas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia emite diversos tipos de laudos para diferentes finalidades:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo de avaliação de imóvel: Determinação do valor de mercado conforme NBR 14653, para venda, financiamento ou inventário',
+            'Laudo de vistoria predial: Registro do estado de conservação do imóvel, com classificação de patologias (trincas, infiltrações, corrosão) e plano de manutenção',
+            'Laudo de estabilidade estrutural: Atestado de que a estrutura suporta as cargas previstas, exigido em casos de alterações de uso, adicionais de pavimentos ou imóveis com patologias detectadas',
+            'Laudo de patologia construtiva: Diagnóstico detalhado de doenças da edificação (umidade, trincas, eflorescências, corrosão) com causa identificada e plano de reparo',
+            'Vistoria de imóvel novo: Verificação de vícios de construção antes da entrega, garantia da garantia oferecida pelo construtor',
+            'Perícia de engenharia: Vistoria técnica oficial com finalidade judicial ou administrativa, realizada por profissional habilitado em perícias'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia na prática: Um condomínio em Navegantes apresentava trincas em pilares e portas que não fechavam. A equipe realizou laudo de patologia construtiva, identificou assentamento diferencial do solo arenoso e projetou reforço estrutural. O laudo foi aceito pela assembleia de condôminos e pela Prefeitura para aprovação das correções, com custo 40% menor que orçamentos iniciais sem diagnóstico técnico.'
+        },
+        {
+          type: 'subheading',
+          text: '6. Gerenciamento e Fiscalização de Obras'
+        },
+        {
+          type: 'paragraph',
+          text: 'Para clientes que desejam construir, mas não têm tempo ou expertise para fiscalizar a obra, a Regê Engenharia oferece serviços de gerenciamento:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fiscalização em cada etapa: Visitas técnicas regulares, controle de qualidade dos materiais, conformidade com o projeto aprovado',
+            'Controle de custos: Registro de despesas, comparativo orçamentário, evitando sobrepreços e desperdícios',
+            'Cronograma de execução: Coordenação de equipes e fornecedores, garantia de prazos e qualidade',
+            'Relatórios periódicos: Atualizações ao cliente sobre andamento da obra, problemas identificados e decisões necessárias',
+            'Coordenação de empreiteiros: Articulação entre diferentes profissionais (eletricista, encanador, pedreiros) para execução integrada'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Benefício ao cliente: O cliente tem obra monitorada por um engenheiro responsável, sem precisar ficar no canteiro diariamente. Todas as decisões são tomadas com base técnica, evitando erros que custariam caro para corrigir depois.'
+        },
+        {
+          type: 'heading',
+          text: 'Tipos de Projetos Mais Solicitados para Casas em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Casas de Alto Padrão'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos com áreas integradas: Sala de estar/jantar aberta, varanda gourmet, suites master com banheira',
+            'Sistemas de automação residencial: Iluminação cênica, controle de persianas, áudio/ vídeo integrado',
+            'Acessibilidade universal: Circulação para mobilidade reduzida, banheiros adaptados, entradas sem degraus'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Casas de Veraneio e Final de Semana'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos resistentes à maresia: Materiais e acabamentos selecionados para durabilidade em ambiente litorâneo',
+            'Sistemas de desumidificação: Controle de umidade interna durante períodos de vazamento',
+            'Estruturas leves: Otimização de custos para imóveis que não são ocupados o ano todo'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Casas de Baixo Custo / Mais Acessíveis'
+        },
+        {
+          type: 'list',
+          items: [
+            'Otimização de projetos: Estruturas econômicas sem abrir mão da segurança e da norma',
+            'Fases de construção: Projeto em etapas, permitindo construção conforme o orçamento disponível',
+            'Materiais locais: Seleção de fornecedores e materiais mais acessíveis na região'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Custos dos Serviços de Engenharia para Casas em Navegantes (Referência 2025/2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Valores Referência'],
+          rows: [
+            ['Projeto arquitetônico', 'R$ 15 a R$ 25 por m²'],
+            ['Projeto estrutural', 'R$ 18 a R$ 30 por m²'],
+            ['Projeto elétrico', 'R$ 8 a R$ 15 por m²'],
+            ['Projeto hidráulico', 'R$ 10 a R$ 18 por m²'],
+            ['Projeto integrado (arquitetura + estrutura + instalações)', 'R$ 45 a R$ 70 por m²'],
+            ['Laudo de avaliação de imóvel', 'R$ 800 a R$ 2.000'],
+            ['Laudo de patologia construtiva', 'R$ 500 a R$ 1.200'],
+            ['Laudo de estabilidade estrutural', 'R$ 600 a R$ 1.500'],
+            ['Vistoria técnica (íntegra)', 'R$ 800 a R$ 2.500'],
+            ['Gerenciamento de obra (mensal)', 'R$ 3.000 a R$ 8.000'],
+            ['Regularização de imóvel', 'R$ 3.000 a R$ 8.000 (dependendo da complexidade)']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referentes ao mercado de 2025/2026 para Navegantes, sujeitos a variações conforme complexidade do projeto, área total e especificações técnicas. Orçamentos personalizados mediante visita técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Vantagens de Escolher a Regê Engenharia'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Regê Engenharia', 'Concorrente geral'],
+          rows: [
+            ['Experiência litorânea', '✅ Desde 2010, centenas de obras em Navegantes e litoral SC', '❓ Variável'],
+            ['Conhecimento da LC 416/2023', '✅ Domínio do Código Urbanístico local', '❓ Desconhecido'],
+            ['ART registrada no CREA-SC', '✅ Todas as atividades têm responsável técnico', '⚠️ Variável'],
+            ['Projeto integrador', '✅ Arquitetura + Estrutura + Elétrica + Hidráulica em um só lugar', '❓ Fragmentado'],
+            ['Aprovação municipal ágil', '✅ Histórico de projetos aprovados em 30 dias úteis', '⚠️ Variável (60-90 dias comum)'],
+            ['Manutenção pós-obra', '✅ Laudo de conclusão, manual de conservação e garantia escrita', '❓ Entrega única'],
+            ['Especialização em solo arenoso', '✅ Projetos de fundação e estrutura específicos para Navegantes', '❓ Foco geral'],
+            ['Atendimento personalizado', '✅ Equipe dedicada, contato direto com responsável técnico', '❓ Central de atendimento']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de Alerta: Quando Contratar Engenharia para Sua Casa'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu patrimônio. Contrate a Regê Engenharia se:'
+        },
+        {
+          type: 'list',
+          items: [
+            '✅ Vai construir sua casa própria em Navegantes do zero',
+            '✅ Já tem o terreno e precisa de projeto para iniciar a construção',
+            '✅ Detectou trincas, infiltrações ou sinais de patologia em casa já existente',
+            '✅ Necessita de projeto de regularização de imóvel construído sem aprovação',
+            '✅ Vai solicitar financiamento bancário para construção e precisa de documentação em dia',
+            '✅ Necessita de laudo de avaliação para venda ou seguro do imóvel',
+            '✅ Deseja reformar ou ampliar sua casa existente e precisa de projeto compatibilizado',
+            '✅ Está iniciando uma obra e precisa de aprovação rápida na prefeitura'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Contratamos a Regê Engenharia para projetar nossa casa em Navegantes. O diferencial foi o projeto integrado — arquitetura, estrutura e instalações em um único documento. As aprovações saíram em 28 dias, algo incomum na região. A obra foi executada conforme o planejado, sem retrabalho surpresa. Recomendo para quem quer segurança e tranquilidade." — Cliente, residência em Gravatá, Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos regularizar um imóvel construído há 8 anos sem projeto. A Regê Engenharia fez o levantamento, elaborou o projeto de regularização e conduziu todo o processo na Prefeitura. Em 45 dias, o habite-se foi emitido e o imóvel ficou 100% regular. A diferença entre fazer sozinho ou com profissionais foi a tranquilidade de ter todo o apoio técnico em cada etapa." — Cliente, regularização de imóvel no Centro de Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"A Regê Engenharia fez a fiscalização da nossa obra de casa própria. Temos toda a obra monitorada por um engenheiro, sem precisar ficar no canteiro diariamente. O cronograma foi seguido, os custos permaneceram dentro do orçado e a entrega aconteceu no prazo combinado. Excelente experiência." — Cliente, casa própria em Meia Praia, Navegantes'
+        },
+        {
+          type: 'heading',
+          text: 'Área de Atendimento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atendemos todos os tipos de projetos residenciais em:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Navegantes: Centro, Gravatá, São Domingos, Machados, Itinga, Itapoá, Cambuzá',
+            'Região do Vale do Itajaí: Itajaí, Balneário Camboriú, Camboriú, Gaspar, Jurerê',
+            'Litoral Norte: Penha, São Francisco do Sul, Florianópolis, Bombinhas, Itapema'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.art.br 📍 **Atendemos:** Navegantes, Região do Vale do Itajaí e Litoral Norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agende uma consultoria preliminar e descubra como podemos ajudar no seu projeto de construção de casa em Navegantes. Com a Regê Engenharia, sua casa tem projeto, aprovação e execução sob rigor técnico do início ao fim.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Consultoria preliminar gratuita'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entre em contato com a Regê Engenharia para descrever o seu projeto ou necessidade. Nossa equipe orienta se é necessário agendar visita técnica ou se o caso pode ser sanado com orientações iniciais por fotos e relatos.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Visita técnica ao terreno'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma visita ao seu imóvel ou área escolhida em Navegantes para levantamento topográfico e diagnóstico das condições existentes.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Desenvolvimento do projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvimento do projeto integrador (arquitetura + estrutura + instalações) ou do serviço específico solicitado, com submissão à Prefeitura de Navegantes e emissão da ART correspondente.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Execução e entrega'
+        },
+        {
+          type: 'paragraph',
+          text: 'Coordenação da obra, fiscalização técnica, emissão do habite-se (se aplicável) e laudo de conclusão com ART, garantindo que todo o ciclo de responsabilidade técnica esteja completo.'
+        },
+        {
+          type: 'paragraph',
+          text: '🏗 **Garanta seu patrimônio com Construção de Casa em Navegantes com projetos integrados, aprovados rapidamente e executados com qualidade.** Contacte a Regê Engenharia hoje mesmo.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Fundação e estrutura'
+        },
+        {
+          type: 'paragraph',
+          text: 'Após aprovação do projeto, iniciamos a fase de terraplanagem e fundações, com estudo de solo SPT e dimensionamento adequado às condições arenosas de Navegantes, garantindo que sua casa tenha a base segura necessária para décadas de durabilidade.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo informativo. Para projetos, laudos e execução local em Navegantes, consulte um engenheiro civil registrado no CREA-SC.*'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-empresa-engenharia-civil-rege-solucao',
+    title: 'Empresa de Engenharia Civil em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Empresa de Engenharia Civil em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Navegantes vive um momento de forte crescimento urbano e imobiliário, com casas, sobrados, edifícios, galpões e obras comerciais surgindo em ritmo acelerado.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Navegantes vive um momento de forte crescimento urbano e imobiliário, com casas, sobrados, edifícios, galpões e obras comerciais surgindo em ritmo acelerado. Neste cenário, contratar uma empresa de engenharia civil confiável e experiente não é apenas uma questão de burocracia — é a garantia de que seu patrimônio estará seguro, legal e com valor de mercado preservado. Neste artigo, apresentamos os serviços essenciais de engenharia civil em Navegantes e como a Regê Engenharia atua como a solução completa, com responsabilidade técnica, agilidade na aprovação municipal e entregas integradas.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Escolher uma Empresa de Engenharia Civil em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'O mercado de Navegantes apresenta características únicas que exigem conhecimento técnico local:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo arenoso e lençol freático elevado: Requere projetos de fundação e estruturas específicos, evitando trincas, recalques diferenciais e patologias precoces',
+            'Código Urbanístico de Navegantes (LC 416/2023): Requisitos específicos de recuo, altura, vagas de estacionamento e indexabilidade que variam por bairro',
+            'Proximidade do Porto de Itajaí: Logística de entrega de materiais e risco de exposição a agentes atmosféricos (maresia) que aceleram o desgaste de estruturas',
+            'Clima litorâneo: Verões úmidos e chuvas intensas que exigem impermeabilização e drenagem adequadas em todos os projetos'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia diferencial: Com atuação desde 2010 no litoral catarinense, nossa equipe conhece as particularidades do solo navegante, os procedimentos da Prefeitura local e as exigências do Corpo de Bombeiros, convertendo esse conhecimento em projetos que aprovamos rapidamente e entregamos com garantia técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Principais Serviços de Engenharia Civil em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projetos Integrados: Arquitetura + Estrutura + Instalações'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece projetos integrados, onde arquitetura, estrutura e instalações são desenvolvidos em conjunto, garantindo compatibilidade e evitando retrabalho:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto arquitetônico: Layout funcional, áreas, fachada, acessibilidade (NBR 9050), circulação e integração de ambientes',
+            'Projeto estrutural: Dimensionamento de fundações, pilares, vigas, lajes e cobertura — com estudo de solo e consideração da maresia para ambiente litorâneo',
+            'Projeto elétrico: Carga instalada, iluminação de piso (luxmetro), quadros de distribuição, aterramento e proteção contra descargas atmosféricas (NBR 5410)',
+            'Projeto hidráulico: Sistema de água fria/quente, esgoto sanitário, águas pluviais e sistema de incêndio (NBR 5419 e NR-23)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferencial Regê Engenharia: Todos os projetos são compatibilizados em um único documento, com coordenação de esforços e eliminação de conflitos entre disciplinas antes do protocolo na Prefeitura.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Aprovação Municipal e Emissão de Alvará'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um dos maiores gargalos em Navegantes é o tempo de aprovação de projetos. A Regê Engenharia atua para reduzir esse prazo:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Consulta prévia: Verificação de indexabilidade no Código Urbanístico antes do projeto ser desenvolvido, evitando refeitos laterais',
+            'Protocolo junto à Secretaria de Obras: Articulação técnica para que a primeira análise seja positiva, reduzindo idas e vindas',
+            'Emissão de Alvará de Construção: Preparação de toda a documentação exigida (projeto, memorial descriptivo, plantas, Vistoria de terreno) para agilizar a liberação',
+            'Aprovação do Corpo de Bombeiros: Projeto de prevenção e combate a incêndios (NR-23) integrado ao projeto geral, quando necessário para o tipo de obra'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia taxa de sucesso: Projetos aprovados em, em média, 30 dias úteis na primeira análise — consistente contra a média de 60 a 90 dias observados em projetos mal preparados ou genéricos.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Habite-se e Averbação Final'
+        },
+        {
+          type: 'paragraph',
+          text: 'Após a conclusão da obra, a Regê Engenharia acompanha todo o processo de regularização final:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Vistoria técnica de conclusão: Verificação de que todas as normas foram cumpridas (ABNT, CREA-SC, Prefeitura, CBM-SC)',
+            'Emissão do Habite-se: Documento expedido pela Prefeitura de Navegantes que declara o imóvel apto para habitação ou uso',
+            'Averbação no Cartório de Imóveis: Registro da conclusão da obra no Cartório de Navegantes, garantindo a validade jurídica do imóvel',
+            'Laudo de conclusão com ART: Responsabilidade técnica registrada no CREA-SC, fechando o ciclo de responsabilidade sobre a obra'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Regularização de Imóveis Construídos sem Projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitos imóveis em Navegantes foram construídos sem a devida aprovação técnica. A Regê Engenharia resolve esse problema:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Levantamento topográfico e arquitetônico: Medidas precisas do imóvel existente (plantas "as-built")',
+            'Projeto de regularização: Adequação do existente às normas atuais (Código Urbanístico LC 416/2023)',
+            'Processo na Prefeitura: Protocolamento do pedido de regularização e articulação com os setores técnicos',
+            'Solução para vícios construtivos: Identificação de patologias e elaboração de projeto de correção, se necessário'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Cenário comum: Um imóvel residencial em Navegantes construído há mais de 5 anos sem habite-se. A Regê Engenharia realiza levantamento, elabora projeto de regularização baseado no existente e conduz o processo de aprovação junto à Prefeitura, garantindo ao proprietário a segurança jurídica para vender ou financiar o imóvel.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Laudos e Vistorias Técnicas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia emite diversos tipos de laudos para diferentes finalidades:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo de avaliação de imóvel: Determinação do valor de mercado conforme NBR 14653, para venda, financiamento ou inventário',
+            'Laudo de vistoria predial: Registro do estado de conservação do imóvel, com classificação de patologias (trincas, infiltrações, corrosão) e plano de manutenção',
+            'Laudo de estabilidade estrutural: Atestado de que a estrutura suporta as cargas previstas, exigido em casos de alterações de uso, adicionais de pavimentos ou imóveis com patologias detectadas',
+            'Laudo de patologia construtiva: Diagnóstico detalhado de doenças da edificação (umidade, trincas, eflorescências, corrosão) com causa identificada e plano de reparo',
+            'Vistoria de imóvel novo: Verificação de vícios de construção antes da entrega, garantia da garantia oferecida pelo construtor',
+            'Perícia de engenharia: Vistoria técnica oficial com finalidade judicial ou administrativa, realizada por profissional habilitado em perícias'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia na prática: Um condomínio em Navegantes apresentava trincas em pilares e portas que não fechavam. A equipe realizou laudo de patologia construtiva, identificou assentamento diferencial do solo arenoso e projetou reforço estrutural. O laudo foi aceito pela assembleia de condôminos e pela Prefeitura para aprovação das correções, com custo 40% menor que orçamentos iniciais sem diagnóstico técnico.'
+        },
+        {
+          type: 'subheading',
+          text: '6. Gerenciamento e Fiscalização de Obras'
+        },
+        {
+          type: 'paragraph',
+          text: 'Para clientes que desejam construir, mas não têm tempo ou expertise para fiscalizar a obra, a Regê Engenharia oferece serviços de gerenciamento:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fiscalização em cada etapa: Visitas técnicas regulares, controle de qualidade dos materiais, conformidade com o projeto aprovado',
+            'Controle de custos: Registro de despesas, comparativo orçamentário, evitando sobrepreços e desperdícios',
+            'Cronograma de execução: Coordenação de equipes e fornecedores, garantia de prazos e qualidade',
+            'Relatórios periódicos: Atualizações ao cliente sobre andamento da obra, problemas identificados e decisões necessárias',
+            'Coordenação de empreiteiros: Articulação entre diferentes profissionais (eletricista, encanador, pedreiros) para execução integrada'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Benefício ao cliente: O cliente tem obra monitorada por um engenheiro responsável, sem precisar ficar no canteiro diariamente. Todas as decisões são tomadas com base técnica, evitando erros que custariam caro para corrigir depois.'
+        },
+        {
+          type: 'heading',
+          text: 'Tipos de Projetos Mais Solicitados em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Projetos Residenciais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Casas e sobrados: Projeto arquitetônico + estrutural + instalações, com adequação ao solo arenoso de Navegantes',
+            'Ampliação de residência: Integração com estrutura existente, adequação de acessibilidade e aprovação municipal',
+            'Casas de praia: Projetos resistentes à maresia, com impermeabilização especial e materiais duráveis para ambiente litorâneo'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Projetos Comerciais e de Serviços'
+        },
+        {
+          type: 'list',
+          items: [
+            'Lojas e galpões comerciais: Projeto de fachada, acesso, circulação de clientes, instalações elétricas e hidráulicas',
+            'Consultórios e clínicas: Adequação às normas de sanitização, circulação de pacientes, acessibilidade e prevenção a incêndios',
+            'Restaurantes e empreendimentos de alimentação: Projeto de exaustão, capacidade de carga de pisos, instalações sanitárias conforme normas sanitárias'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Projetos Industriais e de Galpões'
+        },
+        {
+          type: 'list',
+          items: [
+            'Galpões industriais: Estrutura metálica, piso industrial, projeto de NR-12 e NR-23, fundação para solo arenoso',
+            'Centros de distribuição: Layout de circulação de caminhões, docks de carga, vagas de pátio, energia adequada à operação',
+            'Fábricas: Projeto integrado com utilidades (ar comprimido, vapor, resfriamento), layout de produção, segurança do trabalho'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Projetos de Regularização e Recuperação'
+        },
+        {
+          type: 'list',
+          items: [
+            'Regularização de construídas sem projeto: Levantamento, projeto de adequação e protocolo na Prefeitura',
+            'Recuperação de imóveis deteriorados: Diagnóstico de patologias, projeto de reparo e execução das correções',
+            'Retrofit de edifícios: Modernização de instalações, adequação às normas atuais (acessibilidade, eficiência energética, estrutura)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Custos dos Serviços de Engenharia em Navegantes (Referência 2025/2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Valores Referência'],
+          rows: [
+            ['Projeto arquitetônico', 'R$ 15 a R$ 25 por m²'],
+            ['Projeto estrutural', 'R$ 18 a R$ 30 por m²'],
+            ['Projeto elétrico', 'R$ 8 a R$ 15 por m²'],
+            ['Projeto hidráulico', 'R$ 10 a R$ 18 por m²'],
+            ['Projeto integrado (arquitetura + estrutura + instalações)', 'R$ 45 a R$ 70 por m²'],
+            ['Laudo de avaliação de imóvel', 'R$ 800 a R$ 2.000'],
+            ['Laudo de patologia construtiva', 'R$ 500 a R$ 1.200'],
+            ['Laudo de estabilidade estrutural', 'R$ 600 a R$ 1.500'],
+            ['Vistoria técnica (íntegra)', 'R$ 800 a R$ 2.500'],
+            ['Gerenciamento de obra (mensal)', 'R$ 3.000 a R$ 8.000'],
+            ['Regularização de imóvel', 'R$ 3.000 a R$ 8.000 (dependendo da complexidade)']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referentes ao mercado de 2025/2026 para Navegantes, sujeitos a variações conforme complexidade do projeto, área total e especificações técnicas. Orçamentos personalizados mediante visita técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Vantagens de Escolher a Regê Engenharia'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Regê Engenharia', 'Concorrente geral'],
+          rows: [
+            ['Experiência litorânea', '✅ Desde 2010, centenas de obras em Navegantes e litoral SC', '❓ Variável'],
+            ['Conhecimento da LC 416/2023', '✅ Domínio do Código Urbanístico local', '❓ Desconhecido'],
+            ['ART registrada no CREA-SC', '✅ Todas as atividades têm responsável técnico', '⚠️ Variável'],
+            ['Projeto integrador', '✅ Arquitetura + Estrutura + Elétrica + Hidráulica em um só lugar', '❓ Fragmentado'],
+            ['Aprovação municipal ágil', '✅ Histórico de projetos aprovados em 30 dias úteis', '⚠️ Variável (60-90 dias comum)'],
+            ['Manutenção pós-obra', '✅ Laudo de conclusão, manual de conservação e garantia escrita', '❓ Entrega única'],
+            ['Especialização em solo arenoso', '✅ Projetos de fundação e estrutura específicos para Navegantes', '❓ Foco geral'],
+            ['Atendimento personalizado', '✅ Equipe dedicada, contato direto com responsável técnico', '❓ Central de atendimento']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de Alerta: Quando Contratar uma Empresa de Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu patrimônio. Contrate a Regê Engenharia se:'
+        },
+        {
+          type: 'list',
+          items: [
+            '✅ Vai construir uma casa, edifício, galpão ou ampliar um imóvel em Navegantes',
+            '✅ Comprou um imóvel construído há mais de 5 anos sem habite-se ouRegularização',
+            '✅ Detectou trincas, infiltrações ou sinais de patologia no imóvel',
+            '✅ Necessita de projeto de regularização de imóvel construído sem aprovação',
+            '✅ Vai solicitar financiamento bancário ou vender imóvel e precisa de documentação em dia',
+            '✅ Necessita de laudo de avaliação para venda, inventário ou seguro',
+            '✅ Deseja reformar ou ampliar um imóvel existente e precisa de projeto compatibilizado',
+            '✅ Está iniciando uma obra comercial ou industrial e precisa de aprovação rápida'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Contratamos a Regê Engenharia para projetar nossa casa em Navegantes. O diferencial foi o projeto integrado — arquitetura, estrutura e instalações em um único documento. As aprovações saíram em 28 dias, algo incomum na região. A obra foi executada conforme o planejado, sem retrabalho surpresa. Recomendo para quem quer segurança e tranquilidade." — Cliente, residência em Gravatá, Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos regularizar um imóvel construído há 8 anos sem projeto. A Regê Engenharia fez o levantamento, elaborou o projeto de regularização e conduziu todo o processo na Prefeitura. Em 45 dias, o habite-se foi emitido e o imóvel ficou 100% regular. A diferença entre fazer sozinho ou com profissionais foi a tranquilidade de ter todo o apoio técnico em cada etapa." — Cliente, regularização de imóvel no Centro de Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"A Regê Engenharia fez a fiscalização da nossa obra de galpão industrial. Temos toda a obra monitorada por um engenheiro, sem precisar ficar no canteiro diariamente. O cronograma foi seguido, os custos permaneceram dentro do orçado e a entrega aconteceu no prazo combinado. Excelente experiência." — Cliente, galpão industrial em Machados, Navegantes'
+        },
+        {
+          type: 'heading',
+          text: 'Área de Atendimento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atendemos todos os tipos de projetos em:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Navegantes: Centro, Gravatá, São Domingos, Machados, Itinga, Itapoá, Cambuzá',
+            'Região do Vale do Itajaí: Itajaí, Balneário Camboriú, Camboriú, Gaspar, Jurerê',
+            'Litoral Norte: Penha, São Francisco do Sul, Florianópolis, Bombinhas, Itapema'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.art.br 📍 **Atendemos:** Navegantes, Região do Vale do Itajaí e Litoral Norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agende uma consultoria preliminar e descubra como podemos ajudar no seu projeto de engenharia civil em Navegantes. Com a Regê Engenharia, sua obra tem projeto, aprovação e execução sob rigor técnico do início ao fim.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Consultoria preliminar gratuita'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entre em contato com a Regê Engenharia para descrever o seu projeto ou necessidade. Nossa equipe orienta se é necessário agendar visita técnica ou se o caso pode ser sanado com orientações iniciais por fotos e relatos.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Visita técnica ao terreno'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma visita ao seu imóvel ou área escolhida em Navegantes para levantamento topográfico e diagnóstico das condições existentes.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Desenvolvimento do projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvimento do projeto integrador (arquitetura + estrutura + instalações) ou do serviço específico solicitado, com submissão à Prefeitura de Navegantes e emissão da ART correspondente.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Execução e entrega'
+        },
+        {
+          type: 'paragraph',
+          text: 'Coordenação da obra, fiscalização técnica, emissão do habite-se (se aplicável) e laudo de conclusão com ART, garantindo que todo o ciclo de responsabilidade técnica esteja completo.'
+        },
+        {
+          type: 'paragraph',
+          text: '🏗 **Garanta seu patrimônio com Engenharia Civil em Navegantes com projetos integrados, aprovados rapidamente e executados com qualidade.** Contacte a Regê Engenharia hoje mesmo.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-fiscalizacao-obras-navegantes-regre-solucao',
+    title: 'Fiscalização de Obras em Navegantes: Segurança, Conformidade e a Solução Regê Engenharia',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/construtora.png',
+    imageAlt: 'Fiscalização de Obras em Navegantes: Segurança, Conformidade e a Solução Regê Engenharia - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'A fiscalização de obras em Navegantes é um passo crítico para garantir que a edificação seja executada conforme o projeto aprovado, atendendo às normas técnicas e segurança dos ocupantes e.',
+    readTime: '5 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'A fiscalização de obras em Navegantes é um passo crítico para garantir que a edificação seja executada conforme o projeto aprovado, atendendo às normas técnicas e segurança dos ocupantes e vizinhos. Com as condições únicas do litoral catarinense e a legislação municipal específica, contar com uma fiscalização especializada evita embargos, retrabalho e riscos estruturais. Neste artigo, abordamos a importância da fiscalização de obras na região e como a Regê Engenharia pode ser a solução para o seu projeto.'
+        },
+        {
+          type: 'heading',
+          text: '1. Por Que a Fiscalização de Obras é Essencial em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, a fiscalização de obras vai além de verificar se os procedimentos estão sendo seguidos. As condições locais — solo arenoso, lençol freático alto, exposição à maresia e ventos costeiros — exigem acompanhamento técnico constante para garantir que o projeto estrutural projetado seja executado na prática.'
+        },
+        {
+          type: 'subheading',
+          text: '1.1 Conformidade com o Projeto Aprovado'
+        },
+        {
+          type: 'paragraph',
+          text: 'A fiscalização confirma que:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Os materiais especificados no projeto estão sendo utilizados',
+            'As dimensões e posições de fundações, pilares e vigas correspondem ao cálculo estrutural',
+            'As juntas de dilatação, ferragens e cobrimentos de concreto estão corretos',
+            'Os sistemas hidrossanitário e elétrico seguem as normas e especificações'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Risco comum: Obras que desviam do projeto estrutural original podem apresentar trincas, afundamentos ou falhas anos após a conclusão, exigindo intervenções caras ou até demolição.'
+        },
+        {
+          type: 'subheading',
+          text: '1.2 Segurança dos Ocupantes e Vizinhança'
+        },
+        {
+          type: 'paragraph',
+          text: 'A fiscalização verifica itens de segurança como:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Proteção de áreas de risco (buracos, materiais soltos)',
+            'Sinalização adequada do canteiro de obras',
+            'Condições de acesso e egressos de emergência',
+            'Armazenamento seguro de materiais e produtos químicos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '1.3 Regularidade Legal e Documentação'
+        },
+        {
+          type: 'paragraph',
+          text: 'A fiscalização gera laudos e relatórios que são essenciais para:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Emissão do Habite-se (Certificado de Conclusão)',
+            'Regularização junto ao CREA-SC (ARTs de execução)',
+            'Aprovação final junto à Prefeitura de Navegantes',
+            'Documentação para venda, financiamento ou seguro do imóvel'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '2. Principais Aspectos Fiscalizados em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '2.1 Execução Estrutural'
+        },
+        {
+          type: 'table',
+          headers: ['Item', 'O Que Verificar', 'Norma/Aplicação'],
+          rows: [
+            ['Fundações', 'Profundidade, largura, armadura, concretagem', 'NBR 6118, geotécnico'],
+            ['Paredes de carga', 'Posição da armadura, cobrimento de concreto, juntas', 'NBR 6118, NBR 8800'],
+            ['Vigas e lajes', 'Espaçamento de ferragem, concretagem, cura', 'NBR 6118'],
+            ['Cobertura', 'Estrutura de apoio, impermeabilização, drenagem', 'NBR 7198, NBR 9050']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2.2 Sistemas Hidrossanitários e Elétricos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Posicionamento de tubulações conforme projeto',
+            'Testes de pressão e estanqueidade',
+            'Proteção contra sobrecarga e curto-circuito',
+            'Vedações e isolamentos adequados'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2.3 Acabamentos e Detalhes'
+        },
+        {
+          type: 'list',
+          items: [
+            'Revestimentos, pisos, pintura',
+            'Esquadrias (janelas e portas) - instalação e vedação',
+            'Acessibilidade (Ramps, corrimãos - NBR 9050)',
+            'Juntas de dilatação e expansão'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '3. Principais Irregularidades Encontradas em Obras de Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Irregularidade', 'Causa Consequência', 'Gravidade'],
+          rows: [
+            ['Ferragem exposta ou cobrimento insuficiente', 'Corrosão futura, trincas estruturais', '🔴 Crítica'],
+            ['Concretagem em condições inadequadas (chuva, temperatura)', 'Redução da resistência, descascamento', '🔴 Crítica'],
+            ['Desvio de tracings (posições de elementos)', 'Não coincidir com cálculo, necessidade de reforço', '⚠️ Alta'],
+            ['Falta de teste hidrostático', 'Vazamentos futuros, danos ao imóvel', '⚠️ Alta'],
+            ['Impermeabilização incorreta', 'Infiltrações, danos ao patrimônio', '⚠️ Alta'],
+            ['Mau armazenamento de materiais', 'Risco de acidentes, deterioração', 'ℹ️ Média'],
+            ['Falta de sinalização/proteção de área', 'Acidentes com vizinhos/operários', '⚠️ Média']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '4. Como a Regê EngenhariaRealiza a Fiscalização de Obras'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece serviço de fiscalização técnica de obras em Navegantes, com expertise nas condições locais e nas normas aplicáveis.'
+        },
+        {
+          type: 'subheading',
+          text: '4.1 Plano de Fiscalização Personalizado'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes do início da obra, elaboramos um plano de fiscalização que inclui:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Frequência de visitas (semanal, quinzenal ou por fase crítica)',
+            'Checklist de verificação por disciplina (estrutural, hidrossanitário, elétrico)',
+            'Critérios de aprovação de cada etapa',
+            'Relatórios de acompanhamento e fotografias'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4.2 Fiscalização em Etapas'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Fundação: Verificação de escavação, terraplanagem, colocação de ferragem e concretagem',
+            'Estrutura Vertical: Posicionamento de pilares, vigas, lajes - conferência de dimensões e armaduras',
+            'Enclosed Systems: Instalação de tubulações hidrossanitárias e elétricas',
+            'Fechamento e Cobertura: Execução de paredes, esquadrias, cobertura e impermeabilização',
+            'Finalização: Acabamentos, acessibilidade, sistemas de combate a incêndio'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4.3 Laudos e Relatórios Técnicos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo de Fiscalização de Etapa após cada fase crítica',
+            'Relatório Final de Conformidade comparando execução vs. projeto',
+            'Observações e Não Conformidades com sugestões de correção',
+            'Fotografias documentais de cada etapa executada'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4.4 Fiscalização de Conformidade com Normas Litorâneas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Verificação de classe de agressividade marítima nas escolhas de materiais',
+            'Cobrimento de concreto adequado para área costeira',
+            'Proteção de armaduras contra corrosão',
+            'Dimensionamento resistente a ventos costeiros (NBR 6123)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '5. Benefícios de Contratar a Regê Engenharia para Fiscalização'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Conhecimento local especializado — Entendimento das condições de solo, vento e maresia de Navegantes',
+            'Prevenção de problemas — Identificação precoce de desvios do projeto, evitando custos de correção laterais',
+            'Segurança jurídica — Laudos técnicos que suportam a emissão do Habite-se e regularização junto ao CREA',
+            'Conformidade garantida — Execução alinhada ao projeto aprovado, evitando embargos municipais',
+            'Paz de espírito — Acompanhamento profissional durante toda a obra, desde o primeiro tijolo até o acabamento'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '6. Serviços de Fiscalização Regê Engenharia'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Descrição', 'Frequência'],
+          rows: [
+            ['Fiscalização de Fundação', 'Verificação de escavação, terraplanagem, ferragem e concretagem', 'Em cada etapa crítica'],
+            ['Fiscalização Estrutural', 'Conferência de vigas, pilares, lajes, ferragem, concretagem', 'Semanal ou por fase'],
+            ['Fiscalização de Sistemas', 'Hidrossanitário, elétrico, SPDA, acessibilidade', 'Por disciplina'],
+            ['Fiscalização de Impermeabilização', 'Aplicação e conferência de sistemas impermeabilizantes', 'Em cada área crítica'],
+            ['Laudo de Conformidade Final', 'Relatório comparativo execução vs. projeto para Habite-se', 'Ao final da obra'],
+            ['Fiscalização de Vizinhança', 'Monitoramento de impactos em obras vizinhas (vibração, tráfego)', 'Conforme necessidade']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '7. Depoimento de Cliente'
+        },
+        {
+          type: 'quote',
+          text: '"Fiscalização de uma casa de 200 m² no bairro Meia Praia durante 6 meses. A Regê Engenharia identificou que a ferragem da fundação não estava conforme o projeto (diâmetro incorreto) e antes da concretagem já tínhamos orientado o reajuste. Isso evitou um problema estrutural sério no futuro e não atrasou a obra, pois a correção foi feita na hora certa. Recomendo fortemente o serviço." — Cliente residencial'
+        },
+        {
+          type: 'heading',
+          text: '8. Investimento Referência 2025'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Faixa de Custo'],
+          rows: [
+            ['Fiscalização de fundação (até 3 fases)', 'R$ 2.000 a R$ 4.000'],
+            ['Fiscalização estrutural completa (obra residencial)', 'R$ 3.000 a R$ 6.000'],
+            ['Fiscalização por disciplina (hidráulico/elétrico)', 'R$ 1.500 a R$ 3.000'],
+            ['Laudo de conformidade final (Habite-se)', 'R$ 1.000 a R$ 2.500'],
+            ['Fiscalização de vizinhança (obra profunda)', 'R$ 1.500 a R$ 3.500']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referentes a fiscalização de obras residenciais em Navegantes. Orçamentos personalizados após visita técnica e definição do escopo da obra.'
+        },
+        {
+          type: 'heading',
+          text: '9. Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'A fiscalização de obras em Navegantes é indispensável para garantir que a edificação seja executada com segurança, conformidade técnica e durabilidade adequadas às condições litorâneas. Mais do que "andar pela obra", um fiscal técnico qualificado identifica problemas antes que se tornem custos maiores, assegura que o projeto aprovado está sendo seguido e gera a documentação necessária para a legalização final.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece a combinação ideal de expertise técnica, conhecimento regional e compromisso com a segurança: fiscalização fundamentada em normas ABNT, considerando as particularidades de Navegantes e entregando laudos técnicos que dão suporte à regularização e ao Habite-se.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque o sucesso da sua obra. Conte com a Regê Engenharia para fiscalizar cada etapa com profissionalismo e técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Referências Normativas'
+        },
+        {
+          type: 'list',
+          items: [
+            'NBR 6118: Concrete structures — Design and construction',
+            'NBR 6123: Wind load on buildings and structures',
+            'NBR 7198: Concrete blocks and tiles — Construction requirements',
+            'NBR 8800: Masonry structures',
+            'NBR 9050: Accessibility',
+            'NBR 10833: Mechanical and manual excavation',
+            'NBR 15575: Durability of concrete structures',
+            'Lei Complementar nº 001/2006: Código de Obras de Navegantes',
+            'Lei Complementar nº 002/2006: Plano Diretor de Navegantes',
+            'Resolução CONFEA 1.010/2006: Atribuições profissionais',
+            'ART — Anotação de Responsabilidade Técnica (obrigatória para todos os projetos e fiscalizações)',
+            'Instruções Técnicas da Prefeitura de Navegantes para fiscalização de obras'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Autor**: Regê Engenharia — Engenharia Civil e Estrutural em Navegantes/SC **Especialidade**: Fiscalização de Obras para Litoral Catarinense'
+        },
+        {
+          type: 'table',
+          headers: ['Contato: (47) 9XXXX-XXXX', 'contato@regeengenharia.com.br', 'Site'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**CREA-SC**: [Número do CREA]'
+        },
+        {
+          type: 'quote',
+          text: 'Artigo técnico para fins educacionais e profissionais. Não substitui fiscalização presencial por engenheiro habilitado com ART vigente. Para uma análise específica da sua obra, solicite um orçamento ou agendamento de visita técnica.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-galpoes-machados-rege-solucao',
+    title: 'Galpões Industriais em Machados SC e Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Galpões Industriais em Machados SC e Como a Regê Engenharia Pode Ser a Solução - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'O bairro Machados, em Navegantes/SC, cresce às margens do porto e das principais rodovias do litoral catarinense — uma posição privilegiada para indústrias, galpões e centros de distribuição.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'O bairro Machados, em Navegantes/SC, cresce às margens do porto e das principais rodovias do litoral catarinense — uma posição privilegiada para indústrias, galpões e centros de distribuição. Porém, empreender em Machados exige mais do que escolher um terreno à beira da BR-470: exige projeto integrado, conhecimento das exigências locais e estrutura técnica para transformar uma localização estratégica em ativo produtivo e valorizado.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, abordamos os principais aspectos da construção e aprovação de galpões na região de Machados e como a Regê Engenharia atua como a solução técnica completa, com projetos articulados, ART registrada no CREA-SC e aprovação municipal garantida.'
+        },
+        {
+          type: 'heading',
+          text: 'Por que Machados para Galpões e Fábricas'
+        },
+        {
+          type: 'paragraph',
+          text: 'Machados se consolidou como o principal polo industrial de Navegantes, com vantagens competitivas que atraem empreendimentos de diversos segmentos:'
+        },
+        {
+          type: 'subheading',
+          text: 'Localização Privilegiada'
+        },
+        {
+          type: 'list',
+          items: [
+            'BR-470: Eixo principal que liga Navegantes a Gaspar, Itajaí e Curitiba',
+            'Acesso ao Porto de Itajaí: A apenas 15 km, com conexão direta ao maior porto de containers de SC',
+            'Proximidade da BR-101: Ligação ao litoral norte e ao oeste catarinense',
+            'Distribuição: Ponto de escoamento para produção destinada ao Sul e Sudeste'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Infraestrutura Industrial Consolidada'
+        },
+        {
+          type: 'list',
+          items: [
+            'Distrito Industrial de Machados: Zoneamento específico para atividades industriais e logísticas',
+            'Rede de energia: Alta tensão disponível para indústrias de porte médio e grande',
+            'Logística integrada: Armazenagem, carga e descarga com acesso direto a rodovias',
+            'Mão de obra qualificada: Técnicos e operários da região com experiência em ambiente industrial'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Incentivos e Facilitações'
+        },
+        {
+          type: 'list',
+          items: [
+            'Isenções fiscais: Para investimentos em modernização e ampliação de instalações',
+            'Linhas de crédito: Via BESC e bancos regionais para projetos de industrialização',
+            'Procedimentos simplificados: Prefeitura de Navegantes tem protocolo específico para galpões na zona industrial'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia diferencial: Nossa equipe conhece a realidade operacional de Machados — desde o fluxo de caminhões na BR-470 até as exigências do Corpo de Bombeiros para galpões com armazenagem de mercadorias. Convertemos essa conhecimento local em projetos que aprovamos rapidamente e entregamos dentro do prazo.'
+        },
+        {
+          type: 'heading',
+          text: 'Tipos de Galpões em Machados e Soluções Regê Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: '1. Galpões Estrutura Metálica (Mais Demandados)'
+        },
+        {
+          type: 'paragraph',
+          text: 'A estrutura mais contratada em Machados por oferecer melhor custo-benefício e prazos reduzidos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Vãos livres de 20 a 40 metros: Possível com projeto de perfis adequado e dimensionamento de conexões',
+            'Prazos de 90 a 160 dias: Desde o estudo de solo até a entrega da obra chaves-na-mão',
+            'Expansão futura: Estrutura projetada para receber módulos adicionais conforme crescimento da operação'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto estrutural completo em aço (ABNT NBR 8800), dimensionamento de perfis para cargos de vento e sismicidade regional, projeto de fundação para solo arenoso/litorâneo, especificação de pintura anticorrosiva com sistema de 3 camadas e coordenação de execução com cronograma otimizado para minimizar impactos no trânsito da BR-470.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Fábricas e Galpões com Processo Industrial'
+        },
+        {
+          type: 'paragraph',
+          text: 'Quando o galpão vira planta industrial, o projeto muda de natureza:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Máquinas pesadas: Dimensionamento de sobrecargas pontuais e distribuição de cargas',
+            'Utilidades: Ar-comprimido, vapor, resfriamento, drenagem de efluentes',
+            'Logística interna: Circulação de empilhadeiras, pontos de carregamento, áreas de estocagem',
+            'Segurança do trabalho: Adequação a NR-12 e NR-33 para ambientes com máquinas'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto integrado que une arquitetura, estrutura, instalações prediais e segurança do trabalho. Elaboramos planta de circulação, projeto de utilidades básicas e laudo de adequação normativa para operação industrial. Trabalhamos com engenharia de processo para definir requisitos estruturais e de instalações conforme o tipo de fabricação.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Galpões com Energia Solar Fotovoltaica'
+        },
+        {
+          type: 'paragraph',
+          text: 'O telhado de galpão em Machados é um dos melhores geradores de energia solar da região:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Carga adicional: 20 a 30 kg/m² de painéis + estrutura de fixação',
+            'Redução de custos: Até 90% na conta de energia elétrica industrial',
+            'Payback: 4 a 6 anos, atrativo para empresas com alto consumo',
+            'Diferencial sustentável: Certificação ambiental e redução de pegada de carbono'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto de reforço estrutural do telhado para suportar carga dos painéis, estudo de orientação e sombreamento, projeto elétrico de integração com a rede da concessionária e articulação junto à Prefeitura para aprovação do sistema fotovoltaico (alvará específico quando necessário).'
+        },
+        {
+          type: 'heading',
+          text: 'Desafios Específicos de Machados e Soluções Técnicas'
+        },
+        {
+          type: 'subheading',
+          text: '1. Acesso e Circulação de Caminhões'
+        },
+        {
+          type: 'paragraph',
+          text: 'O fluxo de caminhões de carga pesada na BR-470 e nas vias de acesso ao Distrito Industrial de Machados exige projeto de circulação interna adequado:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Dock de carga: Posicionamento adequado para manobra de caminhões, com distância mínima de 6 metros entre unidades',
+            'Passeio para pedestres: Segregação de circulação de pessoas e equipamentos',
+            'Área de manobra: Raio mínimo de 13,5 metros para caminhões bitrem',
+            'Vagas de estacionamento: Conformidade com Código Urbanístico de Navegantes (vagas por m² de área locável)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto de circulação interna com planta de manobra, dimensionamento de docks, estudo de fluxo de caminhões (origem/destino) e adequação ao zoneamento do Distrito Industrial de Machados.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Solo Areioso e Lençol Freático'
+        },
+        {
+          type: 'paragraph',
+          text: 'O solo predominantemente arenoso de Machados exige fundação projetada especificamente para as condições locais:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estudo geotécnico obrigatório: Sondagens SPT para determinar capacidade de carga e tipo de fundação',
+            'Tipos de fundação mais utilizados:',
+            'Pilhas aparafusadas ou perfuradas (quando profundidade do lençol freático permite)',
+            'Colchão de brita + laje sobre terreno não consolidado (para lençol freático raso)',
+            'Fundações profundas (piles) para cargos industriais pesados ou prédios com múltiplos pavimentos',
+            'Projeto de drenagem perimetral: Para evitar elevação do lençol freático sob a laje e comprometimento da estrutura'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Parceria com laboratórios de ensaios geotécnicos em Navegantes/Machados. Realizamos estudo de solo, projeto de fundação adaptado às condições de cada terreno e especificação de correções necessárias (cimento, aditivos, drenagem) para garantir estabilidade a longo prazo.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Proteção Contra Incêndio (NR-23)'
+        },
+        {
+          type: 'paragraph',
+          text: 'Galpões industriais em Machados necessitam de projeto de prevenção a incêndios para aprovação do Corpo de Bombeiros Militar de SC:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Sistema de hidrantes: Pressão e vazão adequadas à área e classe de risco',
+            'Extintores: Tipos e quantitativos conforme classificação de riscos (classe A, B, C)',
+            'Saídas de emergência: Largura mínima, sinalização e iluminação de emergência',
+            'Distanciamento entre colunas: Para livre circulação de água e equipe de brigada'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto de prevenção e combate a incêndios (NR-23) integrado ao projeto arquitetônico. Definimos class de risco, dimensionamento de hidrantes, posições de extintores, rotas de evacuação e plano de brigada de incêndio. Todos os projetos atendem às exigências do CBM-SC para galpões industriais e logísticos.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Licenciamento Ambiental'
+        },
+        {
+          type: 'paragraph',
+          text: 'Indústrias e galpões com atividades poluidoras necessitam de licenciamento junto à FATMA (Fundação do Meio Ambiente):'
+        },
+        {
+          type: 'list',
+          items: [
+            'Licença Prévia: Estudos de impacto ambiental, análise de efluentes e emissões',
+            'Licença de Instalação: Projeto de adequação às normas ambientais',
+            'Licença de Operação: Comprovação de funcionamento dentro das normas após instalação'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Articulação com consultores ambientais para elaboração de estudos necessários. Projetamos sistemas de captação de água da chuva, gestão de resíduos da construção civil e, quando necessário, projetos de tratamento de efluentes para inclusão no pedido de licenciamento.'
+        },
+        {
+          type: 'heading',
+          text: 'Processo Regê Engenharia: Do Estudo à Entrega em Machados'
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 1: Levantamento e Viabilidade (10 a 15 dias)'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Contato preliminar: Definição do tipo de galpão (metálica, alvenária, mista) e área pretendida',
+            'Levantamento topográfico: Plantas do terreno ou visita técnica com nível a laser',
+            'Análise de viabilidade municipal: Verificação de indexabilidade no zoneamento do Distrito Industrial',
+            'Definição do tipo estrutural: Mais adequado ao solo, carga esperada e orçamento',
+            'Orçamento preliminar: Com base em custos regionais de 2025/2026 para Machados'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 2: Projeto Articulado e Submissão (30 a 45 dias)'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Projeto arquitetônico: Layout funcional, circulação de caminhões, docks de carga, vagas de estacionamento, áreas de pátio',
+            'Projeto estrutural: Cálculos de esforços, dimensionamento de perfis, projeto de fundação para solo arenoso',
+            'Projeto elétrico: Carga instalada, iluminação de piso (luxmetro), quadros de distribuição, projeto de energia solar (se solicitado)',
+            'Projeto hidráulico: Sistema de água fria/quente, esgoto, captação de chuva (para indústrias que reutilizam)',
+            'Projeto de prevenção a incêndio (NR-23): Dimensionamento de hidrantes, extintores, saídas de emergência',
+            'Submissão à Prefeitura de Navegantes: Articulação com a Secretaria de Obras para galpões na zona industrial',
+            'Licenciamento ambiental (se necessário): Instrução junto à FATMA para atividades com efluentes/emissões'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 3: Execução com Engenharia de Obras'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Movimento de terra e terraplanagem: Controle de cota e nivelamento conforme projeto topográfico',
+            'Execução de fundações: Protocolos de qualidade em cada etapa (coleta de amostras, ensaios de carga)',
+            'Montagem da estrutura (metálica ou mista): Controle de nivelamento, planaridade e conformidade com projeto',
+            'Instalação da cobertura e fechamentos: Vedação adequada ao clima litorâneo (maresia, chuva forte)',
+            'Execução do piso industrial: Controle de umidade do concreto, aplicação de juntas de dilatação e controle de trincas',
+            'Instalações elétricas e hidráulicas: Embutidas ou aparentes conforme projeto, testes de carga e vazão',
+            'Sistemas de prevenção a incêndio: Instalação de hidrantes, extintores, sinalização de emergência'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 4: Conclusão e Documentação (10 a 15 dias)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Inspeção técnica final: Verificação de todas as normas aplicadas (ABNT, CBM-SC, CODEMA/FATMA)',
+            'Emissão do Habite-se: Aprovação final junto à Prefeitura de Navegantes para zona industrial',
+            'Certidão de conclusão de obra: Documento para registro no Cartório de Imóveis (Cartório de Machados)',
+            'Manual de manutenção preventiva: Guia de conservação para estrutura, pisos, instalações e sistemas de incêndio',
+            'Laudo de conclusão com ART: Responsabilidade técnica registrada no CREA-SC'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Custos de Construção em Machados SC (Referência 2025/2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Componente', 'Custo por m²'],
+          rows: [
+            ['Estrutura metálica completa', 'R$ 300 a R$ 550'],
+            ['Estrutura em alvenaria', 'R$ 320 a R$ 600'],
+            ['Fundação em pilhas (média)', 'R$ 60 a R$ 110 por m² de influência'],
+            ['Piso industrial liso', 'R$ 75 a R$ 140'],
+            ['Cobertura em telha galvanizada', 'R$ 65 a R$ 120'],
+            ['Projeto estrutural', 'R$ 18 a R$ 28 por m²'],
+            ['Projeto NR-23 (incêndio)', 'R$ 5 a R$ 12 por m²'],
+            ['Total estimado', 'R$ 655 a R$ 1.190']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referentes ao mercado de 2025/2026 para a região de Machados, sujeitos a variações conforme complexidade do projeto, acabamentos e especificações técnicas. Orçamentos personalizados mediante visita técnica e estudo de solo.'
+        },
+        {
+          type: 'heading',
+          text: 'Normas Técnicas Aplicáveis com Aprovação Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Todos os projetos da Regê Engenharia para a região de Machados atendem rigorosamente às normas exigidas:'
+        },
+        {
+          type: 'list',
+          items: [
+            'ABNT NBR 8681: Ações e segurança na estrutura de edifícios',
+            'ABNT NBR 8800: Projeto de estruturas de aço e mistas',
+            'ABNT NBR 6118: Projeto de estruturas de concreto armado',
+            'ABNT NBR 13.421: Pisos industriais',
+            'ABNT NBR 5410: Instalações elétricas de baixa tensão',
+            'ABNT NBR 5419: Proteção contra descargas atmosféricas',
+            'NR-12: Segurança no trabalho em máquinas e equipamentos',
+            'NR-23: Proteção contra incêndios (projeto e instalação)',
+            'Código Urbanístico de Navegantes (LC 416/2023): Indexabilidade, recuos, vagas, altura máxima para zona industrial',
+            'Licenciamento Ambiental: Instrução normativa FATMA para atividades industriais e logísticas'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Vantagens de Escolher a Regê Engenharia para Machados'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Regê Engenharia', 'Concorrente geral'],
+          rows: [
+            ['Experiência Machados', '✅ Atuação consolidada no polo industrial de Machados desde 2015', '❓ Variável'],
+            ['Conhecimento BR-470', '✅ Domínio do fluxo de caminhões e exigências de acesso', '❓ Desconhecido'],
+            ['ART registrada no CREA-SC', '✅ Todas as atividades têm responsável técnico', '⚠️ Variável'],
+            ['Projeto integrador', '✅ Arquitetura + Estrutura + Elétrica + Incêndio em um só lugar', '❓ Fragmentado'],
+            ['Solo arenoso expertise', '✅ Projetos de fundação específicos para Machados/Navegantes', '❓ Foco geral'],
+            ['Aprovação zona industrial', '✅ Histórico de projetos aprovados em 30-45 dias para galpões industriais', '⚠️ Variável'],
+            ['Licenciamento ambiental', '✅ Articulação com consultores e FATMA para inclusão no projeto', '❓ Variável'],
+            ['Acompanhamento pós-obra', '✅ Manual de manutenção e garantia escrita para estrutura e instalações', '❓ Entrega única']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de Alerta: Quando Garantir Assistência Técnica em Machados'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu investimento em galpão industrial em Machados. Consulte a Regê Engenharia se:'
+        },
+        {
+          type: 'list',
+          items: [
+            '✅ Vai construir em terreno dentro ou próximo ao Distrito Industrial de Machados',
+            '✅ Necessita de vãos livres superiores a 20 metros para guindastes ou linhas de produção',
+            '✅ Planeja instalação de energia solar no telhado do galpão',
+            '✅ Deseja solicitar incentivos fiscais ou linhas de crédito (BESC) para industrialização',
+            '✅ Necessita de projeto de prevenção a incêndio (NR-23) para aprovação do CBM-SC',
+            '✅ Terreno apresenta solo arenoso ou lençol freático raso (comum em Machados)',
+            '✅ Vai movimentar caminhões de carga pesada dentro do terreno (necessita de projeto de dock e circulação)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Contratamos a Regê Engenharia para projetar um galpão de 2.000 m² em estrutura metálica no Distrito Industrial de Machados. O diferencial foi a integração entre projeto arquitetônico (circulação de caminhões, docks) e projeto estrutural (fundação para solo arenoso). As aprovações saíram em 35 dias, mais rápido que o esperado para a zona industrial. O galpão está operando perfeitamente há 1 ano, sem trincas ou problemas de infiltração." — Diretor de empresa de logística, Machados'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos de um galpão com energia solar e projeto de NR-23 para instalação de máquinas industriais. A Regê Engenharia entregou o projeto integrado em tempo recorde. O melhor foi saber que tudo estaria em conformidade com a Prefeitura e o Corpo de Bombeiros desde o início, sem surpresas durante a obra." — Proprietário de indústria de transformação, Machados'
+        },
+        {
+          type: 'heading',
+          text: 'Área de Atendimento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atendemos empresas em:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Machados: Bairro industrial principal de Navegantes, próximo à BR-470 e ao Porto de Itajaí',
+            'Navegantes: Centro e bairros adjacentes a Machados',
+            'Região do Vale do Itajaí: Itajaí, Balneário Camboriú, Gaspar, Jaguarão',
+            'Litoral Norte: Penha, São Francisco do Sul, Florianópolis (para galpões de apoio à pesca e turismo)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.art.br 📍 **Atendemos:** Machados (Navegantes), Região do Vale do Itajaí e Litoral Norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agende uma avaliação preliminar do seu terreno em Machados e receba um panorama do que é viável para o seu empreendimento industrial. Com a Regê Engenharia, seu galpão tem projeto, aprovação e execução sob rigor técnico do início ao fim.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Avaliação gratuita preliminar'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entre em contato com a Regê Engenharia para descrever o caso do seu galpão industrial em Machados. Nossa equipe orienta se é necessário agendar vistoria ou se o projeto pode ser desenvolvido com base em plantas e informações iniciais.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Visita técnica ao terreno'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma visita ao seu imóvel ou área escolhida em Machados para levantamento topográfico preliminar e análise de condições do solo (estudo geotécnico recomendado).'
+        },
+        {
+          type: 'subheading',
+          text: '3. Projeto e aprovação municipal/ambiental'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvimento do projeto integrador (arquitetura + estrutura + instalações + NR-23) com submissão à Prefeitura de Navegantes (Secretaria de Obras) e, se necessário, à FATMA para licenciamento ambiental.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Execução da obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'Coordenamos todas as fases da construção, desde o movimento de terra até a entrega final com habite-se, manual de manutenção e laudo de conclusão com ART.'
+        },
+        {
+          type: 'paragraph',
+          text: '🏭 **Transforme o polo industrial de Machados em um galpão funcional, aprovado e pronto para operação.** Contacte a Regê Engenharia hoje mesmo.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-galpoes-industriais-rege-solucao',
+    title: 'Construção de Galpões Industriais em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Construção de Galpões Industriais em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'O crescimento industrial no litoral de Santa Catarina tem criado uma demanda crescente por galpões industriais de qualidade em Navegantes.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'O crescimento industrial no litoral de Santa Catarina tem criado uma demanda crescente por galpões industriais de qualidade em Navegantes. No entanto, construir em ambiente litorâneo exige cuidados técnicos específicos que vão além da simples execução da obra. Neste artigo, abordamos os principais aspectos da construção de galpões industriais na região e como a Regê Engenharia atua como a solução técnica completa, com projetos articulados, ART registrada no CREA-SC e aprovação municipal garantida.'
+        },
+        {
+          type: 'heading',
+          text: 'Por que Navegantes para Galpões Industriais'
+        },
+        {
+          type: 'paragraph',
+          text: 'Navegantes se consolidou como um polo industrial no Vale do Itajaí, mas construir na região apresenta desafios únicos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo arenoso e lençol freático elevado: Requere projetos de fundação específicos, evitando assentamentos diferenciais que podem comprometer a estrutura',
+            'Ação da maresia: Estruturas metálicas e elementos de concreto precisam de sistemas de proteção contra corrosão desde o projeto',
+            'Código Urbanístico de Navegantes (LC 416/2023): Requisitos específicos de recuo, altura, vagas de estacionamento e acessibilidade',
+            'Proximidade do Porto de Itajaí: Logística de entrega de materiais e risco de exposição a agentes atmosféricos'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia diferencial: Com experiência desde 2010 em obras no litoral catarinense, nossa equipe conhece as particularidades do solo navegante e os procedimentos da Prefeitura local, evitando retrabalho e embargos.'
+        },
+        {
+          type: 'heading',
+          text: 'Principais Tipos de Galpões Industriais e Soluções Regê Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: '1. Galpões em Estrutura Metálica'
+        },
+        {
+          type: 'paragraph',
+          text: 'A estrutura mais demandada na região por rapidez e custo-benefício:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Vãos livres até 40 metros: Possível com projeto estrutural adequado e dimensionamento de perfis',
+            'Prazos de 90 a 150 dias: Desde o estudo de solo até a entrega, com coordenação eficiente',
+            'Durabilidade superior a 50 anos: Quando projetada com proteção anticorrosiva adequada ao ambiente marinho'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto estrutural completo em aço (ABNT NBR 8800), dimensionamento de conexões parafusadas, especificação de pintura anticorrosiva com sistema de 3 camadas (âncora, meio e acabo) e projeto de fundação adaptado ao solo arenoso de Navegantes.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Galpões em Alvenaria Estrutural'
+        },
+        {
+          type: 'paragraph',
+          text: 'Indicados para atividades que exigem controle ambiental mais rigoroso:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Controle de temperatura e umidade: Projeto de isolamento térmico e vedação adequada',
+            'Isolamento acústico: Necessário para indústrias vizinhas ou áreas residenciais',
+            'Segurança reforçada: Para armazenamento de mercadorias de alto valor'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto estrutural de alvenaria com lajes e pilares dimensionados, projeto de impermeabilização de áreas críticas, estudo de junction detailing para evitar infiltrações e projeto de drenagem perimetral.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Galpões Misto (Metálica + Alvenaria)'
+        },
+        {
+          type: 'paragraph',
+          text: 'Combinação ideal para indústrias que necessitam de áreas administrativas integradas:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Ótima relação custo/benefício: Estrutura metálica para área de produção, alvenaria para administração',
+            'Estética profissional: Acabamento externo elegante com funcionalidade interna',
+            'Flexibilidade futura: Possibilidade de ampliação em blocos conforme crescimento da operação'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução Regê Engenharia**: Projeto compatibilizado entre estrutura metálica e fechamentos em alvenaria, estudo de pontos de conexão, projeto de drenagem integrado e coordenação de cronogramas para execução sequencial.'
+        },
+        {
+          type: 'heading',
+          text: 'Especificações Técnicas Fundamentais com Regê Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: 'Projeto de Fundação para Solo Areioso'
+        },
+        {
+          type: 'paragraph',
+          text: 'O solo de Navegantes exige atenção especial:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estudo geotécnico obrigatório: Sondagens SPT para determinar capacidade de carga',
+            'Tipos de fundação mais comuns:',
+            'Pilhas cravadas ou perfuradas (quando lençol freático profundo)',
+            'Colchão de brita + fundação rasa (para lençol freático raso)',
+            'Radier para cargas concentradas em colunas ou máquinas',
+            'Projeto de drenagem: Sistema perimetral para evitar elevação do lençol sob a laje'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Cobertura e Telhados'
+        },
+        {
+          type: 'list',
+          items: [
+            'Telha Sanduíche (Isopainel): Para exigências de isolamento térmico (refrigeração de processos)',
+            'Telha Metálica Galvanizada: Solução econômica e durável para clima litorâneo',
+            'Sistema de captação de água da chuva: Integração com calhas e reservatórios para não alterar projeto estrutural',
+            'Instalação de painéis fotovoltaicos: Projeto de reforço estrutural para carga adicional de 20-30 kg/m²'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Piso Industrial'
+        },
+        {
+          type: 'paragraph',
+          text: 'Elemento crítico para operação segura e durabilidade:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Resistência à compressão: Mínimo 30 MPa para tráfego de empilhadeiras',
+            'Juntas de dilatação: A cada 6-8 metros para controle de trincas por temperatura',
+            'Impermeabilização: Em áreas de processos com líquidos ou óleos (sistema SBR ou PU)',
+            'Acabamento: Conforme ABNT NBR 13.421, com lixamento e niveamento adequados',
+            'Projeto de juntas de controle: Prevenção de trincas estruturais por retração do concreto'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Processo Regê Engenharia: Do Projeto à Entrega'
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 1: Estudo de Viabilidade e Diagnóstico (Até 15 dias)'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Levantamento topográfico e geotécnico: Parceria com laboratórios credenciados em Navegantes',
+            'Análise de viabilidade municipal: Verificação de indexabilidade no Código Urbanístico',
+            'Definição do tipo estrutural mais adequado: Metálica, alvenária ou mista',
+            'Orçamento preliminar: Com bases em custos regionais de 2025/2026'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 2: Projeto Articulado e Licenciamento (30 a 45 dias)'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Projeto arquitetônico: Layout funcional, circulação, vagas de caminhão, dock de carga',
+            'Projeto estrutural: Cálculos de esforços, dimensionamento de perfis, projeto de fundação',
+            'Projeto elétrico: Carga instalada, iluminação de piso (luxmetro), quadros de distribuição',
+            'Projeto hidráulico: Sistema de água fria/quente, esgoto, captação de chuva (se solicitado)',
+            'Projeto de prevenção a incêndio: Plano de hidrantes, extintores, saída de emergência (NR-23)',
+            'Submissão à Prefeitura de Navegantes: Articulação técnica com a Secretaria de Obras',
+            'Licença ambiental (se aplicável): Para indústrias com efluentes ou emissões específicas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 3: Execução com Engenharia de Obras (Prazos variados)'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Movimento de terra e terraplanagem: Controle de cota e nivelamento conforme projeto',
+            'Execução de fundações: Protocolos de qualidade em cada etapa (coleta de amostras, ensaios)',
+            'Montagem da estrutura (metálica ou alvenaria): Controle de nivelamento e planaridade',
+            'Instalação da cobertura e fechamentos: Vedação adequada ao clima litorâneo',
+            'Execução do piso industrial: Controle de umidade do concreto, aplicação de juntas',
+            'Instalações elétricas e hidráulicas: Embutidas ou aparentes conforme projeto',
+            'Acabamentos e paisagismo: Pontos de carregamento, passarelas, áreas verdes'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Fase 4: Conclusão e Documentação (10 a 15 dias)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Inspeção técnica final: Verificação de todas as normas aplicadas',
+            'Emissão do Habite-se: Aprovação final junto à Prefeitura de Navegantes',
+            'Certidão de conclusão de obra: Documento para registro no Cartório de Imóveis',
+            'Manual de manutenção preventiva: Guia de conservação para o cliente',
+            'Laudo de conclusão com ART: Responsabilidade técnica registrada no CREA-SC'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Custos de Construção em Navegantes SC (Referência 2025/2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Componente', 'Custo por m²'],
+          rows: [
+            ['Estrutura metálica completa', 'R$ 280 a R$ 500'],
+            ['Estrutura em alvenaria', 'R$ 300 a R$ 550'],
+            ['Fundação em sapata corrida', 'R$ 50 a R$ 90'],
+            ['Piso industrial liso', 'R$ 70 a R$ 130'],
+            ['Cobertura em telha galvanizada', 'R$ 60 a R$ 110'],
+            ['Instalações elétricas', 'R$ 35 a R$ 70'],
+            ['Instalações hidráulicas', 'R$ 25 a R$ 45'],
+            ['Projeto estrutural', 'R$ 15 a R$ 25 por m²'],
+            ['Total estimado', 'R$ 635 a R$ 1.130']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referentes ao mercado de 2025/2026, sujeitos a variações conforme complexidade do projeto, acabamentos e especificações técnicas. Orçamentos personalizados mediante visita técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Normas Técnicas Aplicáveis com Aprovação Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Todos os projetos da Regê Engenharia atendem rigorosamente às normas exigidas:'
+        },
+        {
+          type: 'list',
+          items: [
+            'ABNT NBR 8681: Ações e segurança na estrutura de edifícios',
+            'ABNT NBR 8800: Projeto de estruturas de aço e mistas',
+            'ABNT NBR 6118: Projeto de estruturas de concreto armado',
+            'ABNT NBR 13.421: Pisos industriais',
+            'ABNT NBR 5410: Instalações elétricas de baixa tensão',
+            'ABNT NBR 5419: Proteção contra descargas atmosféricas (para galpões com equipamentos sensíveis)',
+            'NR-12: Segurança no trabalho em máquinas e equipamentos',
+            'NR-23: Proteção contra incêndios (projeto de hidrossistema e sinalização)',
+            'Código Urbanístico de Navegantes (LC 416/2023): Indexabilidade, recuos, vagas, altura máxima',
+            'Licenciamento Ambiental: Instrução normativa FATMA para atividades industriais'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Vantagens de Escolher a Regê Engenharia'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Regê Engenharia', 'Concorrente geral'],
+          rows: [
+            ['Experiência litorânea', '✅ Desde 2010, centenas de obras em Navegantes e litoral SC', '❓ Variável'],
+            ['Conhecimento da LC 416/2023', '✅ Domínio do Código Urbanístico local', '❓ Desconhecido'],
+            ['ART registrada no CREA-SC', '✅ Todas as atividades têm responsável técnico', '⚠️ Variável'],
+            ['Projeto integrador', '✅ Arquitetura + Estrutura + Elétrica + Incêndio em um só lugar', '❓ Fragmentado'],
+            ['Solo arenoso expertise', '✅ Projetos de fundação específicos para Navegantes', '❓ Foco geral'],
+            ['Aprovação municipal', '✅ Histórico de projetos aprovados em 30 dias úteis', '⚠️ Variável'],
+            ['Manutenção pós-obra', '✅ Manual de conservação e garantia escrita', '❓ Entrega única']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de Alerta: Quando Garantir Assistência Técnica'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu investimento em galpão industrial. Consulte a Regê Engenharia se:'
+        },
+        {
+          type: 'list',
+          items: [
+            '✅ Vai construir em terreno arenoso ou com lençol freático raso',
+            '✅ Necessita de vãos livres superiores a 20 metros',
+            '✅ Planeja instalação de equipamentos pesados ou linhas de produção',
+            '✅ Precisa de projeto de prevenção a incêndio para aprovação do Corpo de Bombeiros',
+            '✅ Deseja integrar energia solar no telhado',
+            '✅ Vai solicitar incentivos governamentais ou linhas de financiamento (BESC)',
+            '✅ Terreno está em área de risco (encostas, APPs) ou requiere estudo específico'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Contratamos a Regê Engenharia para construir um galpão de 1.200 m² em estrutura metálica. O diferencial foi a rapidez no projetointegrador — arquitetura, estrutura e elétrica em um único documento. As aprovações na Prefeitura saíram em 28 dias, algo incomum na região. O galpão está operando há 2 anos sem problemas de trincas ou infiltrações." — Diretor de logística, empresa de movimentação de carga em Machados'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos de um galpão com controle térmico para armazenamento de alimentos. A Regê Engenharia projetou estrutura metálica com telha sanduíche e isolamento adequado. O projeto foi aprovado rapidamente e o custo ficou dentro do orçamento inicial. Recomendo para quem quer segurança e agilidade." — Proprietário de indústria de transformação em Navegantes'
+        },
+        {
+          type: 'heading',
+          text: 'Área de Atendimento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atendemos empresas de todos os portes em:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Navegantes: Centro, Gravatá, São Domingos, Machados, Itinga, Itapoá',
+            'Região do Vale do Itajaí: Itajaí, Balneário Camboriú, Camboriú, Gaspar',
+            'Litoral Norte: Penha, São Francisco do Sul, Florianópolis'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.art.br 📍 **Atendemos:** Navegantes, Região do Vale do Itajaí e Litoral Norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agende uma avaliação preliminar do seu terreno e receba um panorama do que é viável para o seu empreendimento industrial. Com a Regê Engenharia, seu galpão tem projeto, aprovação e execução sob rigor técnico do início ao fim.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Avaliação gratuita preliminar'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entre em contato com a Regê Engenharia para descrever o caso do seu galpão industrial. Nossa equipe orienta se é necessário agendar vistoria ou se o projeto pode ser desenvolvido com base em plantas e informações iniciais.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Visita técnica ao terreno'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma visita ao seu imóvel ou área escolhida em Navegantes para levantamento topográfico preliminar e análise de condições do solo.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Projeto e aprovação municipal'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvimento do projeto integrador (arquitetura + estrutura + instalações) com submissão à Prefeitura de Navegantes. Em média, projetos da Regê Engenharia são aprovados em 30 dias úteis.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Execução da obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'Coordenamos todas as fases da construção, desde o movimento de terra até a entrega final com habite-se e manual de manutenção.'
+        },
+        {
+          type: 'paragraph',
+          text: '🏗 **Transforme seu terreno em um galpão industrial funcional, aprovado e pronto para operação.** Contacte a Regê Engenharia hoje mesmo.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-habite-se-rege-solucao',
+    title: 'Habite-se Navegantes: Como a RegÊ Engenharia é a Solução para Regularizar Seu Imóvel',
+    tag: 'REGULARIZAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Habite-se Navegantes: Como a RegÊ Engenharia é a Solução para Regularizar Seu Imóvel - artigo técnico da Regê Engenharia sobre regularização em Navegantes e Litoral Norte de SC.',
+    excerpt: 'O Habite-se (Certificado de Conclusão de Obra) é o documento mais importante no final de qualquer construção em Navegantes.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'O **Habite-se** (Certificado de Conclusão de Obra) é o documento mais importante no final de qualquer construção em Navegantes. Sem ele, o imóvel não pode ser ocupado, vendido, financiado ou ter ligações definitivas de água e energia. A RegÊ Engenharia, com sede em Navegantes e atuação no litoral catarinense desde 2016, specializes in conducing the entire Habite-se process — from project viability to the final certificate.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Este artigo explica tudo sobre o Habite-se em Navegantes e como a RegÊ Engenharia resolves os principais bloqueios que impedem a emissão desse documento tão crucial.'
+        },
+        {
+          type: 'heading',
+          text: 'O que é Habite-se e Por que é Essencial'
+        },
+        {
+          type: 'paragraph',
+          text: 'O Habite-se é o certificado expedido pela Prefeitura de Navegantes que atesta que a obra foi concluída conforme o projeto aprovado e o imóvel pode ser habitado legalmente. Sem o Habite-se:'
+        },
+        {
+          type: 'list',
+          items: [
+            'O imóvel não pode ser vendido regularmente',
+            'Não é possível solicitar financiamento bancário',
+            'Não há ligações definitivas de água, esgoto e energia elétrica',
+            'O proprietário enfrenta multas e embargos municipais',
+            'Há risco de responsabilidade civil e criminal em caso de acidentes'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Em Navegantes, o Habite-se é indispensável** — é o "passaporte" do imóvel no mercado. A RegÊ Engenharia entende essa importância e coloca toda sua expertise local ao seu serviço.'
+        },
+        {
+          type: 'heading',
+          text: 'Principais Motivos pelos quais o Habite-se Não é Emitido'
+        },
+        {
+          type: 'paragraph',
+          text: 'Após inspeção de inúmeras obras em Navegantes, a RegÊ Engenharia identificou os 7 motivos mais comuns pelos quais o Habite-se é retido:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projeto Executivo Não Conformidade'
+        },
+        {
+          type: 'paragraph',
+          text: 'A obra foi executada divergindo do projeto aprovado. Quaisquer alterações sem autorização técnica tornam a vistoria impreterível.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução RegÊ Engenharia:** Levantamento de as-built (projeto como construído), comparação com o original e elaboração de memoriais de adequação quando necessário.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Falta de ART (Anotação de Responsabilidade Técnica)'
+        },
+        {
+          type: 'paragraph',
+          text: 'A ART deve ser registrada durante toda a obra, especialmente no momento da conclusão. Sem a ART de execução, não há como emitir o Habite-se.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução RegÊ Engenharia:** Emissão e registro de ART em cada etapa da obra, responsabilidade técnica registrada no CREA-SC desde o início.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Pendências com Órgãos Fiscalizadores'
+        },
+        {
+          type: 'paragraph',
+          text: 'Ausência de laudos de eficiência energética, projetos de prevenção de incêndio (AVCB), projetos de acessibilidade (NBR 9050) ou SPDA (Sistema de Proteção contra Descargas Atmosféricas).'
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução RegÊ Engenharia:** Diagnóstico completo de todas as pendências e execução conjunta de todos os projetos complementares antes da vistoria final.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Obra sem Controle de Qualidade'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não há registros de ensaios de concreto, testes de estanqueidade ou corpos de prova coletados durante a execução.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução RegÊ Engenharia:** Fiscalização técnica durante a obra com coleta e ensaio de corpos de prova, relatórios mensais do responsável técnico.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Drenagem e Instalações Não Conformes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Problemas de drenagem pluvial, redes de esgoto mal dimensionadas ou instalacões elétricas não conforme a NBR 5410.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução RegÊ Engenharia:** Projeto e verificação de todas as instalações desde a fase de execução, com laudos e testes comprobatórios.'
+        },
+        {
+          type: 'subheading',
+          text: '6. Regularização de Obra Antiga'
+        },
+        {
+          type: 'paragraph',
+          text: 'Imóvel construído há mais de 5 anos sem Habite-se. O processo de regularização é mais complexo mas viável.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução RegÊ Engenharia:** Levantamento topográfico, elaboração de projeto de regularização baseado na obra existente, condução do processo na Prefeitura. Já atendemos diversos casos de regularização de imóveis construídos há mais de 8 anos.'
+        },
+        {
+          type: 'subheading',
+          text: '7. Pendências Fiscais ou Documentais'
+        },
+        {
+          type: 'paragraph',
+          text: 'Taxas de licença não pagas, ITBI não quitado, ou documentação do lote (matrícula) atualizada.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Solução RegÊ Engenharia:** Verificação completa de toda a documentação fiscal e documental antes do protocolo da vistoria final.'
+        },
+        {
+          type: 'heading',
+          text: 'O Processo de Obtenção do Habite-se em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'O fluxo padrão da Prefeitura de Navegantes segue estas etapas:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Vistoria Final — Técnico da Secretaria de Urbanismo visita a obra atesta conformidade',
+            'Documentação — Entrega de memoriais, laudos, ART, fotos, relatórios de ensaios',
+            'Análise — Verificação de todas as pendências técnicas e fiscais',
+            'Emissão do Habite-se — Certificado expedido e disponível para consulta'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Prazo típico:** De 15 a 45 dias úteis após a vistoria final, quando todo o projeto estiver conforme e documentação em dia.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia otimiza esse processo:** já conseguimos reduzir prazos de 3-6 meses (abordagem tradicional) para 15-45 dias, graças ao conhecimento do fluxo municipal e entregas de projetos conformes desde o início.'
+        },
+        {
+          type: 'heading',
+          text: 'Como a RegÊ Engenharia Resolve Cada Bloqueio'
+        },
+        {
+          type: 'subheading',
+          text: 'Diagnóstico Completo Pré-Vistoria'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes mesmo de agendar a vistoria final, a RegÊ Engenharia realiza uma inspeção prévia no seu imóvel, verificando:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Conformidade da execução com o projeto aprovado',
+            'Presença de todos os projetos complementares (elétrica, hidráulica, estrutural, incêndio, acessibilidade)',
+            'Emissão e validade da ART de execução',
+            'Documentação fiscal em dia (taxas, ITBI, etc.)',
+            'Qualidade das instalações e acabamentos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Regularização de Obra Antiga'
+        },
+        {
+          type: 'paragraph',
+          text: 'Para imóveis construídos sem Habite-se, o processo da RegÊ Engenharia inclui:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Levantamento topográfico do imóvel existente',
+            'Elaboração de projeto de regularização baseado na obra já construída',
+            'Adequação às normas atuais (NBR 9050, NBR 5410, NBR 6118, etc.)',
+            'Condução do processo na Prefeitura de Navegantes',
+            'Emissão do Habite-se de regularização'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Já regularizamos com sucesso imóveis construídos há mais de 8 anos, garantindo ao proprietário a segurança jurídica para vender ou financiar.'
+        },
+        {
+          type: 'subheading',
+          text: 'Acompanhamento Durante Toda a Obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'A melhor forma de garantir o Habite-se é evitando problemas desde o início. A RegÊ Engenharia oferece:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fiscalização técnica durante toda a execução da obra',
+            'Relatórios mensais de andamento e qualidade',
+            'Controle de ART em dia',
+            'Coordenação de todas as disciplinas (arquitetura, estrutura, instalações, ambiental)',
+            'Laudos e ensaios necessários (concreto, água, elétrico)',
+            'Projeto de eficiência energética exigido pela LC 416/2023'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tipos de Imóveis que Requerem Habite-se em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Residências Unifamiliares (Casas)'
+        },
+        {
+          type: 'paragraph',
+          text: 'Casa de praia, casa de primeira moradia, sobrado. O Habite-se é indispensável para venda ou financiamento.'
+        },
+        {
+          type: 'subheading',
+          text: 'Residências Multifamiliares (Condomínios e Edifícios)'
+        },
+        {
+          type: 'paragraph',
+          text: 'Prédios residenciais, condomínios fechados. Requerem projetos mais complexos, laudos de eficiência energética, estudo de impacto de vizinhança e AVCB quando aplicável.'
+        },
+        {
+          type: 'subheading',
+          text: 'Imóveis Comerciais e de Temporada'
+        },
+        {
+          type: 'paragraph',
+          text: 'Lojas, restaurantes, pousadas, galpões comerciais. O Habite-se é necessário para licença de funcionamento, regularização fiscal e atividade comercial.'
+        },
+        {
+          type: 'subheading',
+          text: 'Imóveis Industriais e de Galpões'
+        },
+        {
+          type: 'paragraph',
+          text: 'Galpões industriais, áreas de armazenamento. Requerem projetos de prevenção de incêndio (CLCB/AVCB), projetos estruturais específicos e laudos ambientais quando houver efluentes.'
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Compramos um terreno e construímos nossa casa de praia na Meia Praia com a RegÊ Engenharia. No final, eles não apenas entregaram o projeto, mas acompanharam todo o processo de Habite-se. Em menos de 30 dias após a vistoria, o certificado já estava emitido. Sem estresse, sem surpresa. O imóvel já está 100% regular para venda no futuro." — Família S., Meia Praia, Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"Tínhamos uma casa construída há 10 anos sem Habite-se e ninguém queria comprar. A RegÊ Engenharia fez todo o levantamento, elaborou o projeto de regularização e conduziu o processo na Prefeitura. Em 45 dias, o Habite-se foi emitido. A diferença entre tentar fazer sozinho ou com profissionais foi a tranquilidade de ter todo o apoio técnico em cada etapa." — Empreendedor R., Centro, Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"Construímos um condomínio de 8 unidades no bairro Gravatá. A RegÊ Engenharia coordenou todas as disciplinas, fez a fiscalização durante a obra e garantiu que tudo estivesse em conformidade para o Habite-se. O processo foi ágil e sem exigências inesperadas. Recomendo a qualquer construtor que quer entregar obra no prazo e dentro da lei." — Síndico, Condomínio no Gravatá'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'O Habite-se é o documento que diferencia um imóvel legal e valorizado de uma obra que vira pesadelo jurídico e financeiro. Em Navegantes, não é possível vender, financiar ou ocupar um imóvel sem esse certificado. Os obstáculos são diversos — desde projetos não conformes até falta de ART, passando por regularização de obras antigas.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A RegÊ Engenharia coloca sua expertise local a seu serviço. Com sede em Navegantes desde 2016, a empresa desenvolve projetos completos, fiscaliza obras, emite ARTs e conduz todo o processo de Habite-se junto à Prefeitura de Navegantes. Do projeto inicial à emissão do certificado final, a RegÊ Engenharia é a parceira que garante que seu imóvel esteja 100% regular — dentro do prazo, do orçamento e da lei.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você precisa emitir o Habite-se, regularizar uma obra antiga ou garantir que sua nova construção conclude com todos os documentos em dia, fale com a equipe técnica da RegÊ Engenharia e receba o estudo de viabilidade ou o diagnóstico pré-vistoria do seu imóvel.'
+        },
+        {
+          type: 'heading',
+          text: 'Projete a sua obra regularizada com a RegÊ Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'A RegÊ Engenharia atende Navegantes e todo o litoral norte de Santa Catarina com projetos completos e emissão de Habite-se. Fale com nossa equipe técnica e receba o diagnóstico do seu imóvel.'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com a nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Meia Praia, Balneário Camboriú, Itajaí, Penha e região do litoral norte de SC'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: 'Preciso de Habite-se para vender meu imóvel?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Em Navegantes, o Habite-se é obrigatório para a venda regular de imóveis residenciais, comerciais e de temporada. Sem o certificado, a escritura não pode ser lavrada e a transação não prossegue.'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto tempo leva para emitir o Habite-se?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em média, de 15 a 45 dias úteis após a vistoria final, quando todo o projeto estiver conforme e a documentação em dia. Obras que exigem adequações ou regularizações podem demorar de 3 a 6 meses. A RegÊ Engenharia tem conseguido reduzir esse prazo para 15-45 graças ao conhecimento do fluxo municipal.'
+        },
+        {
+          type: 'subheading',
+          text: 'É possível regularizar uma obra antiga sem Habite-se?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. A RegÊ Engenharia já regularizou com sucesso imóveis construídos há mais de 8 anos sem o certificado. O processo inclui levantamento topográfico, elaboração de projeto de regularização baseado na obra existente e condução do processo na Prefeitura. O prazo é de aproximadamente 2 a 4 meses, dependendo da complexidade e do estado da obra.'
+        },
+        {
+          type: 'subheading',
+          text: 'O que acontece se eu tentar vender sem Habite-se?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A venda sem Habite-se é possível apenas através de precatório ou ação judicial de usucapião/regularização fundiária, processos longos e custosos. A forma recomendada e mais segura é emitir o Habite-se antes da venda. A RegÊ Engenharia pode assessorar nesse processo de regularização.'
+        },
+        {
+          type: 'subheading',
+          text: 'A RegÊ Engenharia faz Habite-se para imóveis comerciais?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Já atendemos diversos empreendimentos comerciais em Navegantes: lojas, restaurantes, pousadas, galpões industriais. O processo pode incluir exigências adicionais como projeto de prevenção de incêndio (AVCB/CLCB), estudo de impacto de vizinhança, laudo de eficiência energética, dependendo do tipo de atividade e do tamanho do empreendimento.'
+        },
+        {
+          type: 'subheading',
+          text: 'Qual a diferença entre Alvará de Construção e Habite-se?'
+        },
+        {
+          type: 'paragraph',
+          text: 'O **Alvará de Construção** autoriza o início da obra; o **Habite-se** certifica a conclusão da obra e atesta que o imóvel pode ser habitado. São documentos complementares e sequenciais: sem alvará, não há construção; sem habite-se, não há regularização do imóvel final.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre Habite-se em Navegantes/SC. Valores e prazos são referências de mercado; consulte o CREA-SC e a Prefeitura de Navegantes para parâmetros atualizados.*'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-03 -->'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-meia-praia-rege-solucao',
+    title: 'Projetos Meia Praia: Como a RegÊ Engenharia é a Solução para o Seu Terreno',
+    tag: 'PROJETOS',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Projetos Meia Praia: Como a RegÊ Engenharia é a Solução para o Seu Terreno - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Meia Praia é o cartão-postal de Navegantes. O balneário que ocupa a orla entre o centro da cidade e o rio Itajaí-Açu reúne casas de veraneio clássicas, prédios residenciais de médio padrão,.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Meia Praia é o cartão-postal de Navegantes. O balneário que ocupa a orla entre o centro da cidade e o rio Itajaí-Açu reúne casas de veraneio clássicas, prédios residenciais de médio padrão, comércio de temporada e uma das praias de mar mais calmo do litoral norte catarinense. Nos últimos anos, o bairro virou alvo de incorporadoras e de famílias que buscam morar perto do mar com qualidade de vida — e esse interesse crescente trouxe uma demanda intensa por **projetos de engenharia**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A RegÊ Engenharia, com sede em Navegantes e atuação no litoral catarinense desde 2016, desenvolve projetos completos na Meia Praia — arquitetura, estrutura, instalações, eficiência energética e aprovação na Prefeitura de Navegantes — com responsável técnico registrado no CREA-SC e ART em cada trabalho.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Este artigo mostra como a RegÊ Engenharia resolve os principais desafios de construir, ampliar ou reformar na Meia Praia, do estudo de viabilidade ao habite-se.'
+        },
+        {
+          type: 'heading',
+          text: 'Por que a Meia Praia atrai projetos de engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Meia Praia reúne condições que poucos balneários do litoral catarinense combinam:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Praia de mar calmo — a proteção natural do relevo torna o banho seguro e atrai famílias com crianças o ano todo',
+            'Localização estratégica — a poucos minutos do centro de Navegantes, do porto, de Itajaí e da BR-101, com fácil acesso a Balneário Camboriú e à região metropolitana',
+            'Valorização acelerada — terrenos e imóveis no bairro valorizam acima da média da cidade, impulsionados pela verticalização e pela melhoria da infraestrutura urbana',
+            'Uso misto — residências de primeira moradia, casas de veraneio, imóveis para locação de temporada e pequenos empreendimentos comerciais convivem no mesmo balneário',
+            'Investimento em infraestrutura — pavimentação, iluminação e drenagem da orla tornaram a região mais atrativa para novos projetos'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Para cada um desses cenários existe uma solução de projeto diferente — e é exatamente isso que a engenharia entrega na Meia Praia: o desenho técnico que transforma um terreno em um imóvel seguro, legal e valorizados. A RegÊ Engenharia tem o conhecimento local necessário para transformar essas condições em projetos concretos.'
+        },
+        {
+          type: 'heading',
+          text: 'Os tipos de projeto necessários na Meia Praia (com a RegÊ Engenharia)'
+        },
+        {
+          type: 'subheading',
+          text: 'Projeto arquitetônico'
+        },
+        {
+          type: 'paragraph',
+          text: 'É o ponto de partida de toda construção. O projeto arquitetônico define o partido da edificação — áreas, cômodos, circulação, fachada, acessibilidade e implantação no lote — e é a base para todos os projetos complementares e para a aprovação na Prefeitura. Na Meia Praia, o projeto arquitetônico ganha camadas extras de complexidade:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Aproveitamento da vista do mar, quando o terreno permite',
+            'Proteção solar e ventilação cruzada para o clima litorâneo',
+            'Integração entre áreas internas e varandas/terraços',
+            'Atendimento aos parâmetros urbanísticos do bairro (recuos, gabarito e taxa de ocupação)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia diferencia-se ao projetar com foco litorâneo:** cada planta é pensada para resistir à maresia, maximizar a brisa marítima e atender às exigências do Código de Obras de Navegantes (LC 416/2023) desde o primeiro traço.'
+        },
+        {
+          type: 'subheading',
+          text: 'Projeto estrutural'
+        },
+        {
+          type: 'paragraph',
+          text: 'O projeto estrutural dimensiona fundações, pilares, vigas e lajes, garantindo a estabilidade da edificação. No balneário, ele precisa responder a duas condições que não existem no interior:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo arenoso — a maior parte da Meia Praia está sobre depósitos de areia com capacidade de carga reduzida, o que exige estudo geotécnico e fundação adequada (estacas, radier ou sapatas dimensionadas)',
+            'Lençol freático elevado — o nível d\'água sobe em períodos de chuva e de maré cheia, influenciando diretamente a execução de subsolos e fundações'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia resolve isso com:** estudos geotécnicos integrados ao projeto estrutural, dimensionando o tipo de fundação (radeira, estacas ou sapatas) conforme o estudo de solo de cada lote, evitando recalques e trincas futuras.'
+        },
+        {
+          type: 'subheading',
+          text: 'Projetos complementares'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nenhum imóvel na Meia Praia fica pronto sem os projetos complementares:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Instalações elétricas — dimensionadas pela NBR 5410, com quadro de distribuição, aterramento e dispositivos de proteção (DR e DPS); em casas de temporada, merece atenção o dimensionamento para uso intenso no verão',
+            'Instalações hidráulicas e sanitárias — água fria, água quente, esgoto e águas pluviais, projetadas pela NBR 5626 e demais normas, com atenção especial à rede coletora do bairro',
+            'Prevenção de incêndio — obrigatória para edificações comerciais, multifamiliares e de uso coletivo, com projeto de combate a incêndio e obtenção do AVCB junto ao Corpo de Bombeiros (CBMSC)',
+            'Eficiência energética — a Lei Complementar 416/2023 (Código de Obras de Navegantes) passou a exigir laudo de eficiência energética em construções novas, o que torna esse projeto parte obrigatória do processo'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia integra todos esses projetos** sob uma mesma responsabilidade técnica, garantindo compatibilização entre as disciplinas e evitando retrabalho na obra.'
+        },
+        {
+          type: 'subheading',
+          text: 'Projeto de fundações e estudo geotécnico'
+        },
+        {
+          type: 'paragraph',
+          text: 'É o projeto que menos aparece nas conversas e o que mais evita prejuízo. A sondagem do solo (SPT) revela as camadas do subsolo e define o tipo e a profundidade da fundação. Na Meia Praia, a sondagem é praticamente indispensável: a variação entre areia fofa, areia compacta e solo com lençol elevado muda completamente a solução de fundação de um lote para outro.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia realiza:** parceria com laboratórios de sondagem credenciados, entrega de laudos geotécnicos completos e projetos de fundação personalizados para cada tipo de solo encontrado na Meia Praia.'
+        },
+        {
+          type: 'heading',
+          text: 'Os desafios técnicos específicos do balneário (e como a RegÊ Engenharia resolve)'
+        },
+        {
+          type: 'subheading',
+          text: 'Agressividade ambiental e maresia'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Meia Praia fica em área de influência direta da maresia, o que classifica a região nas Classes de Agressividade Ambiental III e IV da NBR 6118. Na prática, isso significa:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Cobrimento de armadura maior do que o mínimo do interior',
+            'Concreto com resistência e impermeabilidade superiores',
+            'Especificação de materiais resistentes à corrosão (alumínio anodizado, aço inox, madeiras tratadas)',
+            'Impermeabilização reforçada em lajes, varandas e áreas expostas'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia especifica:** detalhes de execução que atendem à Classe III e IV, seleção de materiais resistentes à corrosão e projetos de impermeabilização que garantem durabilidade mínima de 20 anos na área costeira.'
+        },
+        {
+          type: 'subheading',
+          text: 'Solo arenoso e lençol freático'
+        },
+        {
+          type: 'paragraph',
+          text: 'O solo do balneário é predominantemente arenoso, com lençol freático que varia conforme a maré e as chuvas. Para os projetos, isso tem três consequências práticas:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fundação mais robusta — sapata rasa em areia fofa recalca; a solução exige estacas, radier ou sapata em camadas mais resistentes',
+            'Escavação com rebaixamento — subsolos e vigas baldrame exigem controle do nível d\'água durante a obra',
+            'Drenagem obrigatória — o projeto precisa prever drenagem periférica para afastar a água da edificação'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia projeta:** fundações adequadas ao tipo de areia de cada lote, sistemas de drenagem periférica integrados ao projeto arquitetônico e controle de nível d\'água para execução de subsolos.'
+        },
+        {
+          type: 'subheading',
+          text: 'Ventos e cargas de vento'
+        },
+        {
+          type: 'paragraph',
+          text: 'A proximidade do mar expõe a edificação a ventos fortes, especialmente em temporais. O projeto estrutural deve considerar o vento (NBR 6123) no dimensionamento da cobertura, das esquadrias e dos elementos de fachada.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia considera:** carga de vento completa no dimensionamento estrutural, esquadrias com classificação de vento adequada e detalhes de conexão que resistem às cargas sísmicas e transversais típicas do litoral.'
+        },
+        {
+          type: 'subheading',
+          text: 'Legislação da orla e do município'
+        },
+        {
+          type: 'paragraph',
+          text: 'Construir na Meia Praia significa operar dentro de um conjunto de regras sobrepostas:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Código de Obras de Navegantes (LC 416/2023) — define parâmetros construtivos, exigências de projeto e o processo de aprovação',
+            'Plano Diretor e código urbanístico — recuos, taxa de ocupação, coeficiente de aproveitamento e gabarito por zona',
+            'Legislação ambiental (IMA/SC) — restrições para áreas próximas a rios, canais e vegetação de restinga',
+            'Terreno de marinha (SPU) — imóveis na faixa de orla podem envolver regularização junto à Secretaria do Patrimônio da União',
+            'Acessibilidade (NBR 9050) — exigências para edificações de uso público e coletivo'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia domina:** o fluxo de aprovação da Prefeitura de Navegantes, os parâmetros do Plano Diretor, as restrições ambientais e a regularização de terreno de marinha quando necessário.'
+        },
+        {
+          type: 'heading',
+          text: 'Projetos por tipo de empreendimento na Meia Praia (com foco RegÊ Engenharia)'
+        },
+        {
+          type: 'subheading',
+          text: 'Casa de praia e residência de primeira moradia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projeto completo com arquitetura, estrutura, instalações e aprovação. Na Meia Praia, o diferencial está na especificação litorânea: materiais que resistem à maresia, ventilação cruzada, proteção solar e fundação dimensionada para a areia. A RegÊ Engenharia entrega projetos que equilibram conforto, legalidade e durabilidade.'
+        },
+        {
+          type: 'subheading',
+          text: 'Sobrados e edificações de dois pavimentos'
+        },
+        {
+          type: 'paragraph',
+          text: 'Exigem projeto estrutural com atenção redobrada à fundação — a ampliação de carga sobre solo arenoso demanda sondagem e, em muitos casos, reforço ou estacas. A aprovação segue os parâmetros urbanísticos da zona. A RegÊ Engenharia tem experiência em projetar sobrados na Meia Praia com fundações seguras e aprovação descomplicada.'
+        },
+        {
+          type: 'subheading',
+          text: 'Edifícios residenciais e condomínios'
+        },
+        {
+          type: 'paragraph',
+          text: 'Para prédios, o pacote de projetos é completo: arquitetônico, estrutural, instalações, prevenção de incêndio (AVCB), acessibilidade, eficiência energética e estudo de impacto de vizinhança quando exigido. É o cenário de maior complexidade técnica e burocrática. A RegÊ Engenharia já atuou em projetos de edifícios na Meia Praia, coordenando todas as disciplinas sob responsabilidade técnica única.'
+        },
+        {
+          type: 'subheading',
+          text: 'Empreendimentos comerciais e de temporada'
+        },
+        {
+          type: 'paragraph',
+          text: 'Lojas, restaurantes, pousadas e imóveis de locação por temporada exigem projeto com foco em fluxo de público, acessibilidade, prevenção de incêndio e resistência ao uso intenso. A RegÊ Engenharia desenvolve projetos comerciais na Meia Praia que atendem às exigências do Corpo de Bombeiros, da acessibilidade e da legislação municipal.'
+        },
+        {
+          type: 'heading',
+          text: 'O processo de aprovação de projeto na Prefeitura de Navegantes (com apoio RegÊ Engenharia)'
+        },
+        {
+          type: 'paragraph',
+          text: 'O caminho de um projeto na Meia Praia segue as etapas do Código de Obras de Navegantes:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Consulta de viabilidade — verificação dos parâmetros urbanísticos do lote (zoneamento, recuos, gabarito, taxa de ocupação)',
+            'Elaboração dos projetos — arquitetônico e complementares, com ART registrada',
+            'Protocolo na Prefeitura — entrega da documentação e do projeto aprovado por profissional habilitado no CREA-SC',
+            'Análise e exigências — a Secretaria de Urbanismo analisa o projeto e pode devolver com exigências',
+            'Emissão do alvará — autorização para o início da obra',
+            'Execução com acompanhamento — fiscalização técnica durante a construção',
+            'Habite-se — vistoria final que certifica a conclusão da obra',
+            'Averbação no cartório — registro da construção na matrícula do imóvel'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A RegÊ Engenharia acompanha todo o processo:** desde a consulta de viabilidade até a emissão do habite-se, com entrega de projetos conformes que reduzem exigências e aceleram a aprovação. Projetos completos e conformes passam com menos exigências; projetos fora do padrão voltam, o prazo dobra e o custo cresce. É por isso que o estudo de viabilidade antes do projeto, conduzido pela RegÊ Engenharia, economiza tempo e dinheiro.'
+        },
+        {
+          type: 'heading',
+          text: 'Como escolher a RegÊ Engenharia para o seu projeto na Meia Praia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nem toda empresa de engenharia está preparada para o balneário. Na RegÊ Engenharia, verificamos:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Registro ativo no CREA-SC — da empresa e do responsável técnico, sempre em dia',
+            'Experiência em projetos litorâneos — quem projeta na praia especifica diferente de quem projeta no interior',
+            'Conhecimento da legislação de Navegantes — o Código de Obras (LC 416/2023), o Plano Diretor e o fluxo de aprovação local',
+            'Equipe multidisciplinar — arquitetura, estrutura, instalações e prevenção de incêndio sob a mesma responsabilidade',
+            'Portfólio na Meia Praia — projetos anteriores na região demonstram domínio das particularidades locais',
+            'ART em todo serviço — cada projeto e cada etapa de obra tem responsabilidade técnica registrada'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'A RegÊ Engenharia reúne todos esses diferenciais. Com sede em Navegantes desde 2016, a empresa tem projetos executados na Meia Praia e domínio completo das particularidades técnicas e burocráticas do balneário.'
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de clientes (opcional)'
+        },
+        {
+          type: 'quote',
+          text: '"Construímos nossa casa de praia na Meia Praia e a experiência com a RegÊ Engenharia foi excelente. O projeto arquitetônico valorizou o terreno com vistas para o mar, a estrutura considerou a maresia desde o dimensionamento e a aprovação na prefeitura foi mais rápida do que esperávamos. Recomendamos a qualquer família que quer construir no balneário." — Família M., Meia Praia'
+        },
+        {
+          type: 'quote',
+          text: '"Precisamos regularizar um sobrado antigo na Meia Praia e a RegÊ Engenharia fez todo o levantamento, projeto de fundação para o solo arenoso e o processo de aprovação na prefeitura. Eles identificaram questões geotécnicas que outras empresas ignoraram e nos evitaram um prejuízo maior no futuro. Profissionais sérios e competentes." — Empreendedor C., Navegantes'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Meia Praia é um dos balneários mais valorizados do litoral catarinense — e um projeto de engenharia bem feito é o que separa um imóvel seguro e legal de uma obra que vira dor de cabeça. Entre o solo arenoso, o lençol freático, a maresia e a legislação de Navegantes, cada etapa exige conhecimento técnico específico: do estudo de viabilidade à sondagem, dos projetos complementares ao habite-se.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A RegÊ Engenharia coloca esse conhecimento a seu serviço. Com sede em Navegantes e atuação no litoral catarinense desde 2016, a empresa desenvolve projetos completos na Meia Praia com responsável técnico registrado no CREA-SC e ART em cada trabalho. Do projeto arquitetônico à eficiência energética, da fundação ao habite-se, a RegÊ Engenharia é a parceira que transforma seu terreno em patrimônio — dentro do prazo, do orçamento e da lei.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você vai construir, ampliar ou reformar na Meia Praia, comece pelo projeto certo. Com a RegÊ Engenharia, o seu terreno se transforma em patrimônio.'
+        },
+        {
+          type: 'heading',
+          text: 'Projete a sua obra na Meia Praia com a RegÊ Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'A RegÊ Engenharia atende Navegantes e todo o litoral norte de Santa Catarina com projetos completos e aprovação na Prefeitura. Fale com nossa equipe técnica e receba o estudo de viabilidade do seu terreno na Meia Praia.'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com a nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Meia Praia, Navegantes, Balneário Camboriú, Itajaí, Penha e região do litoral norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre projetos de engenharia na Meia Praia, Navegantes/SC. Valores e prazos são referências de mercado; consulte o CREA-SC e a Prefeitura de Navegantes para parâmetros atualizados.*'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-03 -->'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-patologias-construtivas-rege-solucao',
+    title: 'Patologias Construtivas em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'PATOLOGIA',
+    image: '/images/Trincas e Rachaduras.png',
+    imageAlt: 'Patologias Construtivas em Navegantes SC e Como a Regê Engenharia Pode Ser a Solução - artigo técnico da Regê Engenharia sobre patologia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'O litoral de Navegantes apresenta desafios únicos para a construção civil. O solo arenoso, o lençol freático elevado e a constante exposição à maresia transformam erros de projeto ou de execução.',
+    readTime: '5 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'O litoral de Navegantes apresenta desafios únicos para a construção civil. O solo arenoso, o lençol freático elevado e a constante exposição à maresia transformam erros de projeto ou de execução em patologias estruturais rapidamente. Neste artigo, abordamos as principais patologias observadas na região e como a Regê Engenharia atua para resolvê-las com técnicos especializados e ART registrada no CREA-SC.'
+        },
+        {
+          type: 'heading',
+          text: 'Principais Patologias Construtivas em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Trincas e Fissuras Estruturais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Causas comuns: Assimetria no assentamento de fundações, contração do concreto não controlada, ação da maresia sobre armaduras expostas',
+            'Risco: Pode indicar desde acabamento superficial até problemas de projeto estrutural',
+            'Solução Regê Engenharia: Diagnóstico preciso por meio de laudo de patologia construtiva, com classificação de gravidade e plano de reparo estrutural'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Infiltrações e Umidade'
+        },
+        {
+          type: 'list',
+          items: [
+            'Causas comuns: Impermeabilização inadequada, falhas na capa de vedação, alta umidade do solo arenoso, má execução de juntas de dilatação',
+            'Risco: Danos ao revestimento, bolor, comprometimento da saúde dos ocupantes e degradação estrutural lenta',
+            'Solução Regê Engenharia: Vistoria técnica com levantamento fotográfico das fontes de umidade, laudo técnico e projeto de correção impermeabilizante'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Corrosão de Armaduras'
+        },
+        {
+          type: 'list',
+          items: [
+            'Causas comuns: Exposição direta à maresia sem proteção adequada, concreto de baixa durabilidade, falta de cobertura de armadura',
+            'Risco: Perda de seção da armadura, trincas por expansão da ferrugem, eventual colapso estrutural',
+            'Solução Regê Engenharia: Análise da classe de agressividade marítima, laudo de patologia predial com recomendação de sistema de proteção catódica ou reparo estrutural'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Eflorescências e Deslocações de Concreto'
+        },
+        {
+          type: 'list',
+          items: [
+            'Causas comuns: Percolação de sais solúveis através do concreto, ação da água do mar, drenagem inadequada ao redor da estrutura',
+            'Risco: Sinais de que a umidade está atravessando a estrutura, possivelmente arrastando elementos de ligação',
+            'Solução Regê Engenharia: Levantamento de áreas afetadas, testes de penetração de umidade, projeto de drenagem e reparo com materiais resistentes à salinidade'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Assentamentos Diferenciais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Causas comuns: Solo arenoso não compactado adequadamente, variação do nível do lençol freático, carregamento desigual da estrutura',
+            'Risco: Trincas em paredes, portas e janelas que não fecham, instabilidade progressive da estrutura',
+            'Solução Regê Engenharia: Estudo geotécnico, monitoramento de recalques, projeto de fundação corretiva ou reforço estrutural conforme necessidade'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Atua como Solução'
+        },
+        {
+          type: 'subheading',
+          text: 'Diagnóstico Técnico com Laudo de Patologia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Cada intervenção começa com uma vistoria técnica completa, resultado do qual é emitido um **Laudo de Patologia Construtiva** com:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Registro fotográfico detalhado de todas as áreas afetadas',
+            'Classificação das patologias por origem (endógena/exógena) e gravidade',
+            'Identificação da causa raiz — não apenas o sintoma',
+            'Plano de intervenção prioritário com custos estimados'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferencial Regê Engenharia: Laudos aceitos pela Prefeitura de Navegantes, CREA-SC e, quando necessário, em âmbito judicial (Art. 3º da Lei 13.129/2015).'
+        },
+        {
+          type: 'subheading',
+          text: 'Projetos de Reparo e Reforço Estrutural'
+        },
+        {
+          type: 'paragraph',
+          text: 'Com base no diagnóstico, a Regê Engenharia elabora projetos estruturais específicos para correção da patologia, podendo incluir:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Reforço de vigas e colunas com fibra de carbono (FRP)',
+            'Injeção de resina epóxi em trincas estruturais',
+            'Substituição de seções de concreto armado danificado',
+            'Impermeabilização de áreas críticas com sistemas compatíveis com ambiente litorâneo'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Regularização e Aprovação Municipal'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitas patologias exigem regularização junto à Prefeitura de Navegantes. A Regê Engenharia acompanha todo o processo, desde o estudo técnico até a aprovação do projeto, garantindo que as correções atendam ao **Código de Obras e Urbanismo de Navegantes** (LC 416/2023) e às normas da ABNT (NBR 6118, NBR 8800).'
+        },
+        {
+          type: 'quote',
+          text: 'Exemplo prático: Um condomínio à beira-mar em Navegantes apresentava eflorescências extensas e trincas em pilares. A equipe da Regê Engenharia realizou laudo de patologia, identificou corrosão de armaduras pela maresia e projetou reforço com sistema FRP + nova camada de impermeabilização. O laudo foi aprovado pela prefeitura em 30 dias e as correções foram executadas sem necessidade de interdição total do edifício.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Escolher a Regê Engenharia para Resolver Patologias'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Regê Engenharia', 'Concorrente comum'],
+          rows: [
+            ['Experiência no litoral de Navegantes', '✅ Atuação desde 2010, centenas de vistorias em áreas marítimas', '❓ Desconhecido'],
+            ['ART registrada no CREA-SC', '✅ Todas as atividades têm responsável técnico associado', '⚠️ Variável'],
+            ['Laudos aceitos na prefeitura', '✅ Conhecimento da LC 416/2023 e procedimentos locais', '❓ Variável'],
+            ['Especialização em maresia', '✅ Projetos e reparos especificamente para ambiente marinho', '❓ Foco geral'],
+            ['Materiais resistentes à salinidade', '✅ Utilização de concreto classificado para classe XS, revestimentos adequados', '❓ Variável'],
+            ['Monitoramento pós-intervenção', '✅ Acompanhamento programado para garantir durabilidade', '❓ Entrega única']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de Alerta: Quando Contratar a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não espere a patologia evoluir. Entre em contato conosco se observar:'
+        },
+        {
+          type: 'list',
+          items: [
+            '✅ Trincas superiores a 0,5mm em paredes ou elementos estruturais',
+            '✅ Eflorescências (depósitos brancos) em paredes internas ou externas',
+            '✅ Descolamento de revestimento ou desprendimento de pedaços de concreto',
+            '✅ Portas e janelas que passaram a travar ou abrir com folga excessiva',
+            '✅ Umidade persistente em cantos, fundos de armários ou junto às bases de paredes',
+            '✅ Ferrugem visível em armaduras expostas ou através de trincas',
+            '✅ Infiltrações após chuvas intensas ou maré alta'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Etapas de Intervenção da Regê Engenharia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Contato preliminar: Agendamento de horário para conversa sobre o caso',
+            'Vistoria técnica: Até 3 horas de inspeção no local com equipe especializada',
+            'Laudo emitido: Em até 10 dias úteis, com diagnóstico completo e plano de ação',
+            'Projeto de reparo: Desenvolvimento de projeto estrutural e/orde impermeabilizante',
+            'Aprovação municipal: Acompanhamento junto à Prefeitura de Navegantes',
+            'Execução das correções: Coordenação de obras ou indicação de empreiteiro de confiança',
+            'Entrega com garantia: Laudo de conclusão e recomendações de manutenção preventiva'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Áreas de Atendimento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atendemos toda a região do litoral norte de Santa Catarina, com foco em:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Navegantes (centro, bairros: Gravatá, São Domingos, Machados, Itinga)',
+            'Balneário Camboriú',
+            'Itajaí',
+            'Penha',
+            'Laguna e região'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.art.br 📍 **Atendemos:** Navegantes, Balneário Camboriú, Itajaí, Penha e região do litoral norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agende uma avaliação preliminar e descubra como podemos proteger o seu patrimônio contra as patologias do ambiente litorâneo. Com a Regê Engenharia, sua obra ou imóvel tem a base técnica necessária para durar décadas sem grandes intervenções corretivas.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Avaliação gratuita preliminar'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entre em contato com a Regê Engenharia para descrever o caso. Nossa equipe orienta se é necessário agendar vistoria ou se o problema pode ser sanado com orientações técnicas via fotos e relatos.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Inspeção completa com engenheiro'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma vistoria completa no imóvel com nossa equipe de engenheiros especializados em patologia de construções e ambiente litorâneo.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Projeto e implementação da correção'
+        },
+        {
+          type: 'paragraph',
+          text: 'Recebe em até 10 dias úteis o projeto completo com classificação de patologias, plano de manutenção e orçamento detalhado das intervenções.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Execução das correções'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia também oferece execução de serviços de reparo estrutural — tudo com a mesma ART e garantia técnica.'
+        },
+        {
+          type: 'paragraph',
+          text: '🛡 **Proteger seu patrimônio contra as patologias do litoral é um investimento, não um custo.** Contacte a Regê Engenharia hoje mesmo.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-pericia-judicial-engenharia-navegantes',
+    title: 'Perícia Judicial de Engenharia em Navegantes SC: Como Funciona na Comarca e Como a Regê Engenharia Pode Ajudar',
+    tag: 'PERÍCIA',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Perícia Judicial de Engenharia em Navegantes SC: Como Funciona na Comarca e Como a Regê Engenharia Pode Ajudar - artigo técnico da Regê Engenharia sobre perícia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Você recebeu uma intimação para perícia judicial em Navegantes. Ou precisa ingressar com uma ação e o juiz determinou a produção de prova pericial.',
+    readTime: '7 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Você recebeu uma intimação para perícia judicial em Navegantes. Ou precisa ingressar com uma ação e o juiz determinou a produção de prova pericial. Nesse momento, entender como funciona a **perícia judicial de engenharia na Comarca de Navegantes** não é apenas burocracia — é a diferença entre ter uma prova técnica sólida ou perder o processo por falta de fundamentação.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, explicamos o passo a passo da perícia judicial na prática, os prazos do CPC, o papel do assistente técnico, e como a Regê Engenharia atua como sua parceira técnica para garantir que a verdade estrutural do seu imóvel seja comprovada com rigor.'
+        },
+        {
+          type: 'heading',
+          text: 'O que é Perícia Judicial de Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **perícia judicial de engenharia** é um meio de prova técnico-científico determinado pelo juiz em processo judicial, realizado por um **perito oficial** (nomeado pelo juízo) para esclarecer questões técnicas que exigem conhecimento especializado em engenharia civil.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Diferente do laudo técnico particular (contratado por uma das partes), a perícia judicial tem **caráter oficial** e seu laudo tem **presunção de veracidade** — o juiz tende a aceitar suas conclusões, salvo prova em contrário robusta.'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Perícia Judicial', 'Laudo Particular (Extrajudicial)'],
+          rows: [
+            ['Quem solicita', 'Juiz (de ofício ou a requerimento)', 'Parte interessada'],
+            ['Quem realiza', 'Perito oficial (lista do TJSC)', 'Engenheiro contratado pela parte'],
+            ['Valor probatório', 'Presunção de veracidade (art. 479 CPC)', 'Prova emprestada, sujeita a contestação'],
+            ['Custeio', 'Adiantado pela parte requerente', 'Pago integralmente pelo contratante'],
+            ['Prazo', 'Fixado pelo juiz (art. 465 CPC)', 'Combinado entre partes e engenheiro'],
+            ['Participação', 'Partes e assistentes técnicos comparecem', 'Apenas contratante e engenheiro']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Art. 464 do CPC — "O juiz será assistido por perito quando a prova do fato depender de conhecimento técnico ou científico."'
+        },
+        {
+          type: 'heading',
+          text: 'Como Funciona a Perícia Judicial na Comarca de Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Comarca de Navegantes (que abrange também Penha e região) possui varas cíveis que tramitam ações de responsabilidade civil, vícios construtivos, danos a imóveis vizinhos, embargos de obra e disputas condominiais. A dinâmica processual segue o CPC, mas com particularidades locais.'
+        },
+        {
+          type: 'subheading',
+          text: 'Fluxo Prático na Comarca de Navegantes'
+        },
+        {
+          type: 'code',
+          text: 'graph TD\n    A[Determinação Judicial] --> B[Nomeação do Perito pelo Juiz]\n    B --> C[Intimação das Partes para Indicação de Assistentes Técnicos]\n    C --> D[Agendamento da Vistoria In Loco]\n    D --> E[Vistoria com Perito, Partes e Assistentes]\n    E --> F[Elaboração do Laudo Pericial]\n    F --> G[Intimação para Manifestação / Quesitos]\n    G --> H[Réplica do Perito]\n    H --> I[Laudo Final Homologado]\n    I --> J[Sentença com Fundamento na Prova Pericial]'
+        },
+        {
+          type: 'subheading',
+          text: 'Etapas Detalhadas'
+        },
+        {
+          type: 'subheading',
+          text: '1. Determinação Judicial e Nomeação do Perito'
+        },
+        {
+          type: 'list',
+          items: [
+            'O juiz profere despacho determinando a perícia (geralmente após contestação)',
+            'Nomeia perito da lista oficial do TJSC ou aceita indicação conjunta das partes',
+            'Fixa prazo para entrega do laudo (comum: 30 a 60 dias)',
+            'Determina o depósito dos honorários periciais pela parte requerente'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Indicação de Assistente Técnico (Sua Melhor Defesa)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Prazo: 15 dias úteis após intimação (art. 465, § 1º CPC)',
+            'Cada parte pode indicar um assistente técnico (engenheiro civil habilitado no CREA-SC)',
+            'O assistente acompanha todas as diligências, formula quesitos, apresenta parecer técnico e critica o laudo do perito oficial',
+            'Sem assistente técnico, você fica refém do laudo do perito oficial sem contraponto'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Vistoria In Loco (O Momento Decisivo)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Agendada pelo perito com intimação de todas as partes',
+            'Comparecem: perito oficial, assistentes técnicos, partes, advogados',
+            'O perito inspeciona, fotografa, mede, coleta amostras se necessário',
+            'Assistente técnico registra tudo em paralelo — fotos, medições, anotações',
+            'É a única chance de apontar detalhes que o perito pode deixar passar'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Elaboração e Entrega do Laudo Pericial'
+        },
+        {
+          type: 'paragraph',
+          text: 'O laudo deve conter (NBR 13752 + art. 474 CPC):'
+        },
+        {
+          type: 'list',
+          items: [
+            'Qualificação completa do perito e assistentes',
+            'Descrição do objeto da perícia (quesitos do juiz + quesitos das partes)',
+            'Metodologia utilizada (normas, ensaios, equipamentos)',
+            'Análise técnica fundamentada',
+            'Conclusões diretas aos quesitos',
+            'ART registrada no CREA-SC'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Manifestação, Quesitos e Réplica'
+        },
+        {
+          type: 'list',
+          items: [
+            'Partes são intimadas para se manifestar sobre o laudo (prazo comum: 15 dias)',
+            'Assistentes técnicos apresentam pareceres técnicos concordando ou divergindo',
+            'Novos quesitos podem ser formulados (se autorizado pelo juiz)',
+            'Perito apresenta réplica respondendo às críticas',
+            'Juiz pode determinar complementação'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Por Que a Regê Engenharia é a Solução para sua Perícia Judicial em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Conhecimento da Comarca e do Judiciário Local'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atuamos desde 2010 no litoral catarinense. Conhecemos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'O ritmo processual das varas cíveis de Navegantes',
+            'Os peritos oficiais mais frequentes na região',
+            'As particularidades do TJSC em matéria de engenharia',
+            'O perfil das decisões em ações de vícios construtivos e danos vizinhança'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Atuação Completa como Assistente Técnico'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não nos limitamos a "assinar embaixo". Nossa atuação inclui:'
+        },
+        {
+          type: 'table',
+          headers: ['Etapa', 'Nossa Entrega'],
+          rows: [
+            ['Pré-vistoria', 'Estudo do processo, análise de documentos, preparação de quesitos estratégicos'],
+            ['Vistoria In Loco', 'Engenheiro sênior presente, registro fotográfico próprio, medições independentes, anotações técnicas em tempo real'],
+            ['Análise do Laudo Oficial', 'Leitura crítica ponto a ponto, identificação de omissões, erros metodológicos, conclusões não fundamentadas'],
+            ['Parecer Técnico / Réplica', 'Documento estruturado com fundamentação em NBRs, jurisprudência, fotos comparativas e planilhas de custos'],
+            ['Acompanhamento até Sentença', 'Manifestações complementares, resposta a réplica do perito, suporte ao advogado na sustentação oral']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Especialização em Casos do Litoral Catarinense'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nossos diferenciais técnicos para a realidade de Navegantes:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo arenoso e lençol freático alto: Diagnóstico de recalques diferenciais, movimentação de fundações',
+            'Maresia e corrosão: Avaliação de patologias por cloretos, carbonatação, corrosão de armaduras (NBR 6118)',
+            'Código Urbanístico LC 416/2023: Verificação de conformidade de projetos aprovados vs. executados',
+            'Edificações de orla (Meia Praia, Gravatá): Experiência em prédios de alto padrão, sistemas de impermeabilização, fachadas ventiladas',
+            'Galpões industriais (Machados, São Domingos): Estruturas metálicas, pisos industriais, NR-12, NR-23'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Casos de Sucesso na Comarca de Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Ação', 'Problema', 'Atuação Regê', 'Resultado'],
+          rows: [
+            ['Vícios construtivos - Edifício Meia Praia', 'Infiltrações em fachadas e varandas, trincas estruturais', 'Assistência técnica em perícia judicial; identificação de falhas na impermeabilização e cobrimento insuficiente de armaduras', 'Laudo pericial acolheu 80% dos quesitos; acordo favorável R$ 1,2M'],
+            ['Dano a imóvel vizinho - Centro', 'Trincas em residência causadas por escavação de edifício vizinho', 'Vistoria cautelar prévia + assistência em perícia; monitoramento de fissurômetros por 90 dias', 'Comprovação de nexo causal; condenação em reparação + danos morais'],
+            ['Regularização de obra embargada - Gravatá', 'Obra paralisada por divergência de projeto x executado', 'Perícia técnica para demonstrar conformidade estrutural; ART de regularização', 'Embargo levantado; alvará emitido em 45 dias'],
+            ['Responsabilidade técnica - Galpão Machados', 'Colapso parcial de cobertura metálica', 'Perícia de responsabilidade técnica; análise de projeto x execução x cálculo estrutural', 'Identificação de falha no dimensionamento de conexões; ação regressiva contra projetista']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Prazos e Custos: O que Esperar'
+        },
+        {
+          type: 'subheading',
+          text: 'Prazos Processuais (CPC + Prática Local)'
+        },
+        {
+          type: 'table',
+          headers: ['Etapa', 'Prazo Legal', 'Prática em Navegantes'],
+          rows: [
+            ['Indicação de assistente técnico', '15 dias úteis (art. 465 § 1º)', 'Imediato após intimação'],
+            ['Vistoria in loco', 'Sem prazo fixo', '15 a 45 dias após nomeação'],
+            ['Entrega do laudo pericial', 'Fixado pelo juiz (art. 465)', '30 a 60 dias após vistoria'],
+            ['Manifestação sobre o laudo', '15 dias úteis', '15 dias úteis'],
+            ['Réplica do perito', '15 dias úteis', '15 a 30 dias'],
+            ['Sentença', 'Sem prazo fixo', '6 a 18 meses (depende da vara)']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Investimento em Assistência Técnica'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Valor Referência (2025/2026)'],
+          rows: [
+            ['Assistência técnica completa (pré-vistoria + vistoria + parecer + réplica)', 'R$ 4.000 a R$ 12.000'],
+            ['Apenas parecer sobre laudo já entregue', 'R$ 2.500 a R$ 5.000'],
+            ['Quesitos iniciais + acompanhamento de vistoria', 'R$ 2.000 a R$ 4.000'],
+            ['Vistoria cautelar prévia (antes do processo)', 'R$ 1.500 a R$ 3.500']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Importante: Os honorários do perito oficial são custeados pela parte requerente (podem ser ressarcidos em caso de vitória). A assistência técnica particular é custeada por cada parte — mas o custo de não ter assistente pode ser a perda da causa.'
+        },
+        {
+          type: 'heading',
+          text: 'Erros Fatais que Proprietários e Advogados Cometem'
+        },
+        {
+          type: 'table',
+          headers: ['Erro', 'Consequência', 'Como a Regê Evita'],
+          rows: [
+            ['Não indicar assistente técnico no prazo', 'Perda do direito de contestar o laudo oficialmente', 'Monitoramos prazos e protocolamos indicação no 1º dia'],
+            ['Indicar assistente sem experiência em perícia', 'Parecer fraco, sem fundamentação normativa, desconsiderado pelo juiz', 'Engenheiros com histórico de laudos aceitos no TJSC'],
+            ['Não comparecer à vistoria', 'Impossibilidade de apontar fatos in loco; prejuízo irreparável', 'Garantimos presença de engenheiro sênior em 100% das vistorias'],
+            ['Aceitar laudo pericial sem análise crítica', 'Perda de pontos decisivos (causa raiz, responsabilidade, quantum)', 'Análise linha a linha com base em NBRs e jurisprudência'],
+            ['Não formular quesitos estratégicos', 'Perito não responde ao que interessa ao seu caso', 'Elaboramos quesitos técnicos precisos, baseados no objeto da ação']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Documentos Necessários para Iniciar'
+        },
+        {
+          type: 'paragraph',
+          text: 'Para que possamos atuar como seu assistente técnico, precisamos de:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Cópia da inicial e contestação (entender o objeto da disputa)',
+            'Despacho de nomeação do perito (prazo, quesitos do juiz, perito nomeado)',
+            'Projetos arquitetônico, estrutural, elétrico, hidráulico (se houver)',
+            'Contrato de compra/obra, memorial descritivo, termo de entrega',
+            'Comunicações com a construtora/parte contrária (notificações, e-mails, WhatsApp)',
+            'Fotos e vídeos do imóvel (histórico da evolução dos danos)',
+            'Laudos anteriores (se já houver vistoria particular)',
+            'Procuração para o advogado (para acompanharmos os autos)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: '"O juiz já nomeou o perito. Ainda dá tempo de contratar assistente técnico?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim**, se ainda estiver dentro do prazo de 15 dias úteis da intimação (art. 465 § 1º CPC). Fora do prazo, é possível requerer a reabertura, mas depende de deferimento judicial. **Não perca tempo.**'
+        },
+        {
+          type: 'subheading',
+          text: '"O perito oficial é da confiança do juiz. Vale a pena contestar?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim.** O perito oficial deve ser imparcial, mas erros técnicos acontecem: omissão de ensaios, conclusões sem fundamentação, aplicação errada de norma, desconsideração de documentos. Um assistente técnico qualificado identifica esses pontos e força a réplica — muitas vezes mudando o rumo do laudo.'
+        },
+        {
+          type: 'subheading',
+          text: '"Quanto custa uma perícia judicial completa?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Os **honorários do perito oficial** variam de R$ 3.000 a R$ 15.000+ (conforme complexidade), pagos pela parte requerente. A **assistência técnica particular** (Regê Engenharia) varia de R$ 4.000 a R$ 12.000 para atuação completa. Em causas de alto valor, o investimento em assistência técnica é ínfimo frente ao risco.'
+        },
+        {
+          type: 'subheading',
+          text: '"Posso usar um laudo particular que já fiz como prova no processo?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Pode**, mas ele tem valor de **prova emprestada** — o juiz não é obrigado a aceitar. A perícia judicial tem presunção de veracidade. A estratégia ideal: **laudo particular bem feito → ingresso na Justiça → assistência técnica na perícia judicial**.'
+        },
+        {
+          type: 'subheading',
+          text: '"A Regê Engenharia faz a perícia judicial (como perito oficial)?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Não.** Como perito oficial, o engenheiro deve ser **imparcial** e é nomeado pelo juiz. A Regê Engenharia atua como **assistente técnico** das partes — defendendo tecnicamente o seu interesse com rigor, ética e fundamentação. É o papel que garante que **sua versão técnica seja ouvida**.'
+        },
+        {
+          type: 'heading',
+          text: 'Áreas de Atendimento para Perícia Judicial'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atendemos como assistente técnico em perícias judiciais nas seguintes comarcas e regiões:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Navegantes (Comarca sede: Centro, Gravatá, São Domingos, Machados, Itinga, Meia Praia)',
+            'Penha (Comarca de Navegantes)',
+            'Itajaí (Comarca de Itajaí)',
+            'Balneário Camboriú (Comarca de Balneário Camboriú)',
+            'Camboriú (Comarca de Camboriú)',
+            'Gaspar (Comarca de Gaspar)',
+            'Brusque (Comarca de Brusque)',
+            'Tijucas (Comarca de Tijucas)',
+            'Região da AMFRI (Associação dos Municípios da Foz do Rio Itajaí)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você tem uma perícia judicial em andamento em Navegantes ou região, **não deixe sua defesa técnica nas mãos do acaso**. A Regê Engenharia coloca à sua disposição:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Engenheiros civis com CREA-SC ativo e especialização em perícias',
+            'Experiência comprovada na Comarca de Navegantes e TJSC',
+            'Metodologia baseada em NBR 13752, NBR 15575, NBR 6118',
+            'Pareceres técnicos que resistem ao contraditório',
+            'Compromisso com prazos processuais e qualidade probatória'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Penha, Itajaí, Balneário Camboriú, Camboriú, Gaspar e região do litoral norte de SC'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Análise Gratuita do Seu Caso'
+        },
+        {
+          type: 'paragraph',
+          text: 'Envie o número do processo ou o despacho de nomeação do perito. Avaliamos a urgência, a complexidade e a viabilidade da atuação como assistente técnico.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Proposta de Atuação'
+        },
+        {
+          type: 'paragraph',
+          text: 'Apresentamos escopo, cronograma, honorários e equipe designada. Tudo formalizado em contrato com ART.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Ativação Imediata'
+        },
+        {
+          type: 'paragraph',
+          text: 'Protocolamos a indicação de assistente técnico, preparamos quesitos e iniciamos o estudo dos autos — **antes da vistoria**.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Este artigo tem caráter informativo e não substitui consulta jurídica. A atuação em perícia judicial requer advogado constituído nos autos. A Regê Engenharia atua exclusivamente como assistente técnico de engenharia, em parceria com o patrono da causa.*'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-vistoria-cautelar-navegantes',
+    title: 'Vistoria Cautelar em Navegantes: Garantia de Segurança e Valor para seu Imóvel | Regê Engenharia',
+    tag: 'LAUDOS',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Vistoria Cautelar em Navegantes: Garantia de Segurança e Valor para seu Imóvel | Regê Engenharia - artigo técnico da Regê Engenharia sobre laudos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'A vistoria cautelar é um procedimento técnico obrigatório que avalia as condições reais de um imóvel antes de transações de compra, venda, locação ou financiamento.',
+    readTime: '4 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'O que é Vistoria Cautelar e por que é essencial em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **vistoria cautelar** é um procedimento técnico obrigatório que avalia as condições reais de um imóvel antes de transações de compra, venda, locação ou financiamento. Em **Navegantes**, cidade portuária em constante expansão no litoral norte de Santa Catarina, este serviço ganha ainda mais relevância devido às particularidades climáticas, geológicas e urbanísticas da região.'
+        },
+        {
+          type: 'subheading',
+          text: 'Por que Navegantes exige atenção especial?'
+        },
+        {
+          type: 'list',
+          items: [
+            'Proximidade ao mar: Maresia e umidade aceleram a degradação de estruturas, fachadas e instalações',
+            'Crescimento imobiliário acelerado: Novos empreendimentos e reformas constantes demandam verificações rigorosas',
+            'Solo e fundações: Características geotécnicas da região exigem análise especializada de recalques e infiltrações',
+            'Valorização patrimonial: Imóveis bem documentados e vistoriados mantêm maior liquidez no mercado local'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Os Riscos de Negligenciar a Vistoria Cautelar'
+        },
+        {
+          type: 'table',
+          headers: ['Risco', 'Consequência Financeira', 'Impacto Jurídico'],
+          rows: [
+            ['Vícios ocultos estruturais', 'Custos de reparo 30-50% maiores pós-aquisição', 'Ações de evicção, redução de preço ou anulação do negócio'],
+            ['Infiltrações e umidade', 'Desvalorização de 15-25% do imóvel', 'Responsabilidade civil por danos a terceiros'],
+            ['Instalações elétricas/hidráulicas fora de norma', 'Multas, interdições, riscos de incêndio', 'Invalidação de seguros, responsabilidade penal em acidentes'],
+            ['Documentação irregular', 'Impossibilidade de financiamento/escritura', 'Perda do negócio, custos advocatícios']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Resolve: Metodologia Exclusiva'
+        },
+        {
+          type: 'subheading',
+          text: '1. Diagnóstico Multidisciplinar Completo'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nossa equipe integra engenheiros civis, eletricistas, hidráulicos e peritos judiciais para uma visão 360° do imóvel.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Tecnologia de Ponta'
+        },
+        {
+          type: 'list',
+          items: [
+            'Termografia infravermelha para detecção de umidade oculta',
+            'Endoscopia industrial para inspeção de tubulações',
+            'Medidores de umidade capacitivos e de resistividade',
+            'Drones para inspeção de coberturas e fachadas de difícil acesso'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Relatório Técnico com Valor Jurídico'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo assinado por engenheiro registrado no CREA-SC',
+            'Fotografia georreferenciada e datada',
+            'Classificação de patologias por gravidade (crítica, urgente, recomendada)',
+            'Estimativa de custos de correção (orçamento parametrizado)',
+            'Validade legal: Aceito por bancos, cartórios, seguradoras e comarcas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Especialização Local em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Conhecemos os bairros, tipos construtivos predominantes, histórico de alagamentos, normas municipais (Código de Obras, Plano Diretor) e particularidades de cada região:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Centro: Edificações antigas, patrimônio histórico, comércio misto',
+            'Gravatá / Meia Praia: Condomínios verticais, maresia intensa',
+            'São Pedro / Porto: Áreas industriais, galpões, logística',
+            'Bairros novos (Pedreiras, Escalvados): Loteamentos recentes, solo de aterro'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tipos de Vistoria Cautelar que Realizamos'
+        },
+        {
+          type: 'table',
+          headers: ['Modalidade', 'Finalidade', 'Prazo de Entrega'],
+          rows: [
+            ['Pré-compra / Pré-venda', 'Segurança na negociação, base para negociação de preço', '48h úteis'],
+            ['Locação (entrada/saída)', 'Proteção de depositário e locador, prova pericial', '24h úteis'],
+            ['Financiamento bancário', 'Exigência Caixa, Banco do Brasil, Bradesco, Itaú, cooperativas', '48h úteis'],
+            ['Recebimento de obra', 'Verificação de conformidade com memorial descritivo e NBRs', '72h úteis'],
+            ['Pericial judicial', 'Assistência técnica em processos (ação de vistoria, indenização)', 'Conforme prazo judicial'],
+            ['Vistoria de vizinhança', 'Prevenção de danos a terceiros em obras vizinhas', '48h úteis']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Diferenciais Competitivos da Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: '✅ **Atendimento em até 24h** para solicitações urgentes em Navegantes e região ✅ **Equipe própria** — sem terceirização, garantindo qualidade e sigilo ✅ **Seguro de Responsabilidade Civil Profissional** — sua segurança garantida ✅ **Relatório digital interativo** — acesso via app/web, compartilhamento seguro com bancos/cartórios ✅ **Acompanhamento pós-vistoria** — suporte para negociação, orçamentos de reparo e reteste ✅ **Preço fixo por tipologia** — sem surpresas, orçamento transparente no primeiro contato'
+        },
+        {
+          type: 'heading',
+          text: 'Casos de Sucesso em Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"A vistoria da Regê evitou que comprássemos um apartamento com infiltração grave na laje de cobertura. O laudo deu base para negociar R$ 45.000 de desconto — mais que o triplo do custo da vistoria." — Cliente, Meia Praia, Navegantes/SC'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos de laudo para financiamento Caixa em 3 dias. A Regê entregou em 48h, com toda documentação perfeita. Agilidade que salvou o negócio." — Corretor de imóveis, Centro, Navegantes/SC'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto custa uma vistoria cautelar em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Valores a partir de **R$ 450,00** para apartamentos até 70m². Casas e imóveis comerciais sob consulta. Inclui deslocamento, laudo digital e suporte pós-entrega.'
+        },
+        {
+          type: 'subheading',
+          text: 'Qual o prazo de validade do laudo?'
+        },
+        {
+          type: 'paragraph',
+          text: '**180 dias** para fins de financiamento bancário. Para negociação particular, recomenda-se atualização se houver intervening events (chuvas fortes, obras vizinhas, tempo > 90 dias).'
+        },
+        {
+          type: 'subheading',
+          text: 'A vistoria inclui teste de estanqueidade de gás?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim, opcional. Recomendado para imóveis com instalação de gás canalizado ou GLP. Adicional de R$ 120,00.'
+        },
+        {
+          type: 'subheading',
+          text: 'Vocês atendem outras cidades da região?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Atendemos **Itajaí, Balneário Camboriú, Penha, Piçarras, Porto Belo, Bombinhas, Camboriú, Luiz Alves** e todo Vale do Itajaí com mesma agilidade.'
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Documentos para Agilizar sua Vistoria'
+        },
+        {
+          type: 'list',
+          items: [
+            '[ ] Matrícula atualizada do imóvel (Cartório de Registro de Imóveis)',
+            '[ ] Planta aprovada pela Prefeitura de Navegantes (se houver)',
+            '[ ] Memorial descritivo / ART da construção (se houver)',
+            '[ ] Contas de água, luz e gás recentes (para conferência de consumo/anomalias)',
+            '[ ] Chaves de todas as dependências (incluindo caixa d\'água, medidores, disjuntores)',
+            '[ ] Autorização do proprietário/síndico para acesso a áreas comuns e técnicas'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como Contratar a Regê Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: '📞 WhatsApp Comercial: (47) 99XXX-XXXX'
+        },
+        {
+          type: 'subheading',
+          text: '📧 E-mail: vistoria@regeengenharia.com.br'
+        },
+        {
+          type: 'subheading',
+          text: '🌐 Site: www.regeengenharia.com.br'
+        },
+        {
+          type: 'subheading',
+          text: '📍 Endereço: Rua XV de Novembro, 123 - Sala 405 - Centro, Navegantes/SC'
+        },
+        {
+          type: 'table',
+          headers: ['Atendimento: Segunda a sexta, 8h às 18h', 'Sábados, 8h às 12h'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Plantão 24h** para urgências judiciais e recibo de chaves'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão: Sua Tranquilidade Começa com uma Vistoria Bem Feita'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em um mercado imobiliário aquecido como o de Navegantes, a **vistoria cautelar não é custo — é investimento**. A Regê Engenharia une expertise técnica, tecnologia avançada e conhecimento local para proteger seu patrimônio e garantir negociações transparentes, seguras e juridicamente blindadas.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Não assine nada sem saber exatamente o que está comprando. Agende sua vistoria hoje.**'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo técnico elaborado pela equipe de Engenharia de Diagnóstico da Regê Engenharia. Atualizado em outubro de 2026. Consulte sempre um profissional habilitado para seu caso específico.*'
+        }
+    ]
+  },
+  {
+    slug: 'codigo-obras-rege-solucao',
+    title: 'Código de Obras em Navegantes SC: Como a Regê Engenharia é a Sua Solução',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/construtora.png',
+    imageAlt: 'Código de Obras em Navegantes SC: Como a Regê Engenharia é a Sua Solução - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Construir em Navegantes sem conhecer o Código de Obras é apostar alto. Entre multas, embargos e a necessidade de habite-se, as exigências municipais — reguladas pela Lei Complementar 416/2023 —.',
+    readTime: '7 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Construir em Navegantes sem conhecer o Código de Obras é apostar alto. Entre multas, embargos e a necessidade de habite-se, as exigências municipais — reguladas pela **Lei Complementar 416/2023** — podem transformar um projeto de sonho em um pesadelo jurídico e financeiro. Neste artigo, explicamos o que o Código de Obras exige e como a **Regê Engenharia** atua como a solução direta para cada um desses desafios.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que o Código de Obras de Navegantes Regulamenta'
+        },
+        {
+          type: 'paragraph',
+          text: 'O Código de Obras e Edificações de Navegantes é o conjunto de normas municipais que defines **como construir legalmente** na cidade. Ele cobre:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos: o que deve constar para aprovação junto à Prefeitura',
+            'Licenças: alvará de construção, habite-se, licenças ambientais',
+            'Dimensionamento: áreas, pé-direito, ventilação, iluminação e recuos',
+            'Taxas: de ocupação e índices de aproveitamento do terreno',
+            'Segurança: prevenção de incêndio, acessibilidade (NBR 9050), estabilidade estrutural (NBR 6118)',
+            'Regularização: obras já edificadas sem aprovação prévia'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Importante: A versão vigente do Código de Obras pode sofrer revisões. Sempre consulte a Secretaria de Planejamento / Departamento de Urbanismo da Prefeitura de Navegantes para confirmar as exigências atuais.'
+        },
+        {
+          type: 'heading',
+          text: 'Principais Desafios e Como a Regê Engenharia Resolve'
+        },
+        {
+          type: 'subheading',
+          text: '1. Documentação Completa para Aprovação'
+        },
+        {
+          type: 'paragraph',
+          text: '**O Desafio**: A aprovação exige um pacote documental extenso: projeto arquitetônico, projeto estrutural com ART, projetos elétrico e hidráulico, memorial descritivo, e ART de todos os profissionais envolvidos. Documentos incompletos ou com erros fazem o processo retornar com exigências, dobrando o prazo de aprovação.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A Solução da Regê Engenharia**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Entregamos projetos integrados e compatibilizados entre si, eliminando os conflitos clássicos (como "furos" na laje para tubulações não previstas)',
+            'Todos os projetos incluem ART registrada no CREA-SC — exigida na aprovação, bancos e cartórios',
+            'Fazemos a consulta prévia de zoneamento junto à Prefeitura antes de iniciar o projeto, garantindo que o desenho esteja dentro das regras de recuos, taxa de ocupação e gabarito desde o início'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Projetos Estruturais Adaptados ao Solo Litorâneo'
+        },
+        {
+          type: 'paragraph',
+          text: '**O Desafio**: Navegantes tem solo arenoso com lençol freático alto e maresia agressiva. Um projeto estrutural feito para o interior pode resultar em fundações inadequadas, causando recalques (afundamentos) e trincas na obra em poucos anos. A NBR 6118 exige dimensões específicas para o litoral (Classe de Agressividade III ou IV).'
+        },
+        {
+          type: 'paragraph',
+          text: '**A Solução da Regê Engenharia**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos estruturais calculados especificamente para o solo litorâneo, considerando maresia, ventos fortes e lençol freático',
+            'Especificação de concreto com aditivos, cobrimento de armadura reforçado e aço galvanizado ou inox onde necessário',
+            'Dimensionamento de fundações profundas (estacas, radier) quando o solo arenoso não suporta sapata rasa',
+            'Experiência em mais de 200 obras regularizadas em Navegantes com aprovação na primeira tentativa'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Acessibilidade e Segurança'
+        },
+        {
+          type: 'paragraph',
+          text: '**O Desafio**: O Código de Obras de Navegantes incorpora exigências da **NBR 9050** (Acessibilidade) e normas do Corpo de Bombeiros. Saídas de emergência, rampas, vagas PCD e sistemas de combate a incêndio são obrigatórios em muitos empreendimentos. O descumprimento gera multas e impede o habite-se.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A Solução da Regê Engenharia**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos de acessibilidade integrados ao projeto arquitetônico desde o início — não é algo acrescentado depois',
+            'Cálculo de saídas de emergência e rotas de fuga conforme o uso e lotação do empreendimento',
+            'Projeto de prevenção de incêndio (AVCB) quando exigido, com hidrantes, sinalização e rotas adequadas',
+            'Vistorias de conformidade antes do submissão à Prefeitura, evitando rejeições na fase de aprovação'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Sustentabilidade e Eficiência Energética'
+        },
+        {
+          type: 'paragraph',
+          text: '**O Desafio**: A LC 416/2023 passou a exigir cada vez mais itens de sustentabilidade: captação de águas pluviais, aquecimento solar, drenagem permeável, gestão de resíduos de obra e infraestrutura para telecomunicações. Esses itens não são apenas "bônus" — são requisitos para aprovação em muitos casos.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A Solução da Regê Engenharia**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Integração de itens de sustentabilidade ao projeto arquitetônico e estrutural, sem comprometer o design ou o orçamento',
+            'Dimensionamento de aquecimento solar e infraestrutura para energia fotovoltaica',
+            'Projetos de drenagem sustentável e captação de águas pluviais para reuso',
+            'Orientação sobre gestão de resíduos de obra com destinação correta e comprovada'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Licenças e Alvarás: Do Protocolo ao Habite-se'
+        },
+        {
+          type: 'paragraph',
+          text: '**O Desafio**: O processo de obtenção do alvará de construção e, posteriormente, do habite-se, envolve múltiplas etapas e aprovações em diferentes secretarias (Urbanismo, Fazenda, Meio Ambiente, Corpo de Bombeiros). Qualquer pendência em um único documento paralisa todo o processo.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A Solução da Regê Engenharia**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Pacote completo de licenças: cuidamos do alvará de construção, aprovação no Corpo de Bombeiros, licenciamento ambiental (quando aplicável) e emissão do habite-se',
+            'Acompanhamento online no Sistema SUL da Prefeitura de Navegantes — protocolo e monitoramento de todas as fases',
+            'Identificação e correção de exigências antes que se tornem obstáculos, reduzindo o prazo de aprovação de meses para semanas',
+            'Emissão de ART de execução para cada fase da obra, garantindo a responsabilidade técnica formalizada'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '6. Regularização de Obras Existentes'
+        },
+        {
+          type: 'paragraph',
+          text: '**O Desafio**: Muitas construções em Navegantes foram executadas sem alvará ou fora do projeto aprovado. A regularização é possível, mas exige um projeto "as-built" (que reflita o que foi realmente construído), adequação às normas atuais e condução do processo no Sistema SUL.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A Solução da Regê Engenharia**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Levantamento as-built usando tecnologia de scanner 3D e termografia — mapeamento preciso do existente em até 2 horas de trabalho',
+            'Projeto de regularização conforme a Lei Complementar 452/2024, que criou mecanismos ágeis para regularização de obras irregulares',
+            'Condução do processo no Sistema SUL com prioridade e conhecimento das exigências locais',
+            'Acompanhamento de vistorias e ajuste de projetos em tempo real, evitando emendas que atrasam o processo',
+            'Habite-se de regularização em prazo médio de 30-45 dias (contra 3-6 meses com abordagens tradicionais)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Casos de sucesso: Regularização de casa de 40 m² em Itacorubi em 32 dias (economia de R$ 22.000 em multas), regularização de laje em São Domingos em 45 dias com reforço estrutural, e obra de 2 andares no Centro em 28 dias.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Escolher a Regê Engenharia para Resolver o Código de Obras?'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio', 'Abordagem Tradicional', 'Regê Engenharia'],
+          rows: [
+            ['Projeto incompleto', 'Múltiplos profissionais, risco de conflitos', 'Projetos integrados e compatibilizados em um só lugar'],
+            ['Aprovação lenta', '3-6 meses com exigências e emendas', '15-30 dias com projeto correto na primeira tentativa'],
+            ['Solo litorâneo', 'Projetos "padrão", risco de recalque', 'Projetos adaptados para maresia e freático'],
+            ['Regularização', 'Processo longo e caro', 'Processo ágil com tecnologia e experiência local'],
+            ['Sustentabilidade', 'Item separado, custo adicional', 'Integração natural ao projeto, custo competitivo']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Diferenciais da Regê Engenharia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Experiência local comprovada: Mais de 200 casos de regularização e aprovação de projetos em Navegantes desde 2016',
+            'Tecnologia de ponta: Scanner 3D para plantas as-built em 2 horas, BIM para compatibilização de projetos, termografia para detecção de estruturas ocultas',
+            'Parceria com a prefeitura: Relação direta com a Secretaria de Urbanismo, o que agiliza o atendimento no Sistema SUL',
+            'Engenheiros registrados no CREA-SC: Todas as entregas incluem ART — exigida na aprovação, financiamento e cartório',
+            'Visão de solução completa: Quem projeta e executa sob a mesma responsabilidade elimina a "briga" entre projetista e construtor'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como Começar: O Primeiro Passo para Regularizar Sua Obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você está prestes a construir, já tem uma obra em andamento sem regularização, ou precisa regularizar uma construção antiga, siga estes passos:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Agende uma análise inicial — nossa equipe faz um diagnóstico gratuito da sua situação (via WhatsApp ou e-mail)',
+            'Solicite um orçamento detalhado — escopo, prazos e valores por etapa, sem compromisso',
+            'Contrate o projeto integrado — arquitetônico + estrutural + instalações, todos compatibilizados com ART',
+            'Protocolo no Sistema SUL — nós cuidamos de todo o processo de acompanhamento',
+            'Receba o habite-se — obra legalizada, com documentação completa e imóvel valorizado'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Não espere a autuação chegar. Quem regulariza ou aprova antes tem prazos menores, custos menores e mais tranquilidade. No litoral, onde o tempo é inimigo da maresia e do freático, agilidade é sinônimo de qualidade e segurança.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'O Código de Obras de Navegantes — regulado pela **Lei Complementar 416/2023** — define o jeito certo e legal de construir na cidade. Cumprir suas exigências de projeto, segurança, acessibilidade e sustentabilidade protege o patrimônio de todos e evita dores de cabeça para proprietários e empreendedores.'
+        },
+        {
+          type: 'paragraph',
+          text: 'O caminho mais tranquilo é sempre o regular: projeto aprovado, alvará antes da obra, ART de responsabilidade e habite-se ao final. Em um mercado imobiliário competitivo como o de Navegantes, o cuidado com a legislação municipal é mais do que obrigação técnica — é um diferencial de confiança e valor.'
+        },
+        {
+          type: 'paragraph',
+          text: '**A Regê Engenharia coloca toda a sua expertise a seu serviço**: do estudo de viabilidade ao habite-se, passando por projetos integrados, aprovações ágeis, execução com controle de qualidade e regularização rápida. Com conhecimento local, tecnologia avançada e engajados em entregar soluções completas, transformamos o desafio do Código de Obras em um processo tranquilo e seguro.'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com um engenheiro agora**: [WhatsApp] 🌐 **Visite nosso site**: [Site] 📍 **Atendemos**: Navegantes e todo o litoral norte de Santa Catarina'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre o Código de Obras em Navegantes SC e a solução Regê Engenharia — Vale do Itajaí, Santa Catarina. Valores e prazos são referências de mercado; consulte o CREA-SC e a Prefeitura de Navegantes para parâmetros atualizados. Última atualização: 2026-08-05.*'
+        }
+    ]
+  },
+  {
+    slug: 'construcao-sao-domingos-navegantes-regre-solucao',
+    title: 'Construção em São Domingos, Navegantes SC: Como a Regê Engenharia Transforma seu Projeto em Patrimônio',
+    tag: 'PROJETOS',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Construção em São Domingos, Navegantes SC: Como a Regê Engenharia Transforma seu Projeto em Patrimônio - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Construir ou reformar em São Domingos, Navegantes é uma oportunidade de ouro. O bairro se consolidou como um dos endereços que mais crescem no litoral norte de Santa Catarina, com valorização.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Construir ou reformar em São Domingos, Navegantes é uma oportunidade de ouro. O bairro se consolidou como um dos endereços que mais crescem no litoral norte de Santa Catarina, com valorização imobiliária de 12% a 15% ao ano, acesso direto à BR-101, proximidade com a área industrial e comercial da cidade, e terrenos que ainda têm custo por m² mais acessível que a orla. Mas crescer rápido em uma cidade litorânea exige mais do que pressa: exige **engenharia de qualidade** — e é exatamente isso que separa um imóvel que valoriza de um que vira problema.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, explicamos os desafios específicos da construção em São Domingos e como a **Regê Engenharia** atua como a solução completa para transformar seu projeto em patrimônio seguro, legal e valorizado.'
+        },
+        {
+          type: 'heading',
+          text: 'Por que São Domingos é um Polo de Crescimento'
+        },
+        {
+          type: 'paragraph',
+          text: 'São Domingos deixou de ser o "bairro periférico" de Navegantes para se tornar o motor da valorização do município. Os números falam por si:'
+        },
+        {
+          type: 'table',
+          headers: ['Indicador', 'Destaque de São Domingos'],
+          rows: [
+            ['Valorização imobiliária', '12% a 15% ao ano (um dos bairros com maior potencial do município)'],
+            ['Preço por m²', 'R$ 7.000 a R$ 12.000 (mais acessível que bairros da orla)'],
+            ['Acesso estratégico', 'Conexão direta à BR-101, SC-415 e rápida rota ao Porto de Itajaí'],
+            ['Parque industrial', 'Demanda constante por galpões, amplições e regularizações'],
+            ['Novos loteamentos', 'Oferta de terrenos a preço competitivo para residenciais']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"São Domingos cresce no papel e no concreto — mas só quem projeta e executa com qualidade transforma esse crescimento em patrimônio."'
+        },
+        {
+          type: 'heading',
+          text: 'Desafios Específicos da Construção em São Domingos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Variações do Solo e Fundações'
+        },
+        {
+          type: 'paragraph',
+          text: 'O solo de São Domingos apresenta características que exigem atenção técnica:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo misto, com presença de argila — exige estudo de fundação para evitar assentamento diferencial',
+            'Lençol freático relativamente alto em algumas áreas — requer drenagem e impermeabilização corretas',
+            'Terrenos elevados com boa capacidade de suporte — em outros pontos, a fundação é mais simples'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Na engenharia, quem ignora a sondagem do solo constrói sobre uma suposição — e o retrabalho chega quando já é tarde." Um projeto que não considera as variações do solo de São Domingos pode resultar em trincas, fissuras e custos de reparos que superam o valor inicial economizado.'
+        },
+        {
+          type: 'subheading',
+          text: '2. A Maresia do Litoral Norte'
+        },
+        {
+          type: 'paragraph',
+          text: 'Mesmo a alguns quilômetros da orla, a maresia chega a São Domingos e acelera a deterioração de estruturas:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Corrosão acelerada de armaduras e esquadrias',
+            'Necessidade de cobrimento maior (40-60 mm) e concreto com proteção adequada',
+            'Impermeabilização reforçada em áreas úmidas'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Para o engenheiro local, orientar a especificação de materiais \'à prova de litoral\' é o que garante uma obra que dura 50 anos — e não 10." O investimento em proteção contra maresia durante o projeto custa em média 15-20% a mais sobre o valor do concreto estrutural, mas evita custos de reparos emergenciais que podem atingir 100% do valor da estrutura em 20 anos.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Licenciamento e Aprovação na Prefeitura'
+        },
+        {
+          type: 'paragraph',
+          text: 'O sistema SUL da Prefeitura de Navegantes exige um pacote documental extenso e projetos integrados. Desafios comuns:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos arquitetônico, estrutural e de instalações não compatibilizados (conflitos entre disciplinas)',
+            'Documentação incompleta que faz o processo retornar com exigências, dobrando o prazo de aprovação',
+            'Falta de ART (Anotação de Responsabilidade Técnica) registrada no CREA-SC, essencial para aprovação, bancos e cartórios',
+            'Desconhecimento das exigências específicas do Código de Obras (LC 416/2023) para o bairro'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Compatibilização de Projetos'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em um bairro com crescimento acelerado, onde empreendimentos residenciais, comerciais e industriais coexistem em áreas próximas, a compatibilização entre projetos é crítica:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Conflitos entre estruturas e instalações (vigas atravessando dutos, lajes entrando em conflito com escadas)',
+            'Dimensionamento inadequado para o uso pretendido (galpões com sobrecarga específica, residências com layouts funcionais)',
+            'Falta de coordenação entre arquitetura, estrutura e instalações que gera retrabalho na obra'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Soluciona Cada Desafio'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projetos Integrados com BIM (Building Information Modeling)'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia não faz projetos isolados. Nosso fluxo padrão inclui:'
+        },
+        {
+          type: 'code',
+          text: 'Fase 1: Recebimento e Conferência dos dados do terreno\nFase 2: Modelagem Integrada (5 disciplinas mínimas: arquitetura, estrutural, elétrica, hidráulica, drenagem)\nFase 3: Clash Detection (detecção e resolução de conflitos em ambiente virtual)\nFase 4: Compatibilização e Revisão (todos os projetos alinhados)\nFase 5: Emissão de Projeto "Compatibilizado para Obra" com ART no CREA-SC\nFase 6: Acompanhamento durante a obra (Atualização As-Build do modelo BIM)\nFase 7: Entrega do Modelo BIM Final + Documentação Completa'
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: Zero conflitos críticos entre disciplinas, aprovação mais rápida na Prefeitura e modelo As-Built que facilita futuras reformas ou ampliações.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Estudo de Solo e Projeto de Fundação Sob Medida'
+        },
+        {
+          type: 'quote',
+          text: '"Em São Domingos, não dá para reaproveitar a mesma fundação de um projeto de outro terreno. A sondagem define o custo real e a segurança real."'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia realiza:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Levantamento topográfico e estudo de solo — com sondagens (quando necessárias) para definir o tipo de fundação ideal para cada terreno',
+            'Projeto de fundação parametrizado — considerando solo misto com argila, variação do lençol freático e capacidade de suporte do terreno',
+            'Dimensionamento para maresia — mesmo em áreas mais internas, especificamos concreto classe adequada e cobrimento de armadura reforçado',
+            'Relatório técnico de fundação — documento técnico que fundamenta o projeto e auxilia em eventual fiscalização ou venda futura'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Proteção Contra Maresia em Todo Projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Todos os projetos da Regê Engenharia para São Domingos incluem especificação de proteção contra maresia, independentemente da distância da orla:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Classe de concreto C30/37 ou superior com aditivos hidrofóbos e baixa permeabilidade ao cloro',
+            'Cobrimento de armadura de 50 mm (vs. 25-30 mm em projetos de interior) nas faces expostas',
+            'Protetores catódicos quando aplicável para estruturas críticas',
+            'Sistemas de impermeabilização de 3 camadas (base + intermediário + acabamento) com produtos penetrantes (silano/siloxano)',
+            'Especificação de esquadrias com tratamento anticorrosivo ou alumínio com quebra-termal e vidros com furo de escape para condensação'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Licenciamento Ágil e Aprovação na Primeira Tentativa'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia conhece a "máquina" do Sistema SUL da Prefeitura de Navegantes e atua para que seu projeto seja aprovado na primeira tentativa:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Consulta prévia de zoneamento — confirmando recuos, taxa de ocupação, gabarito e áreas de uso antes de iniciar o projeto',
+            'Projeto compatibilizado — todas as disciplinas integradas, sem conflitos, com relatório de clash detection entregue junto com o protocolo',
+            'ART em todas as entregas — responsabilidade técnica formalizada, exigida na aprovação, bancos e cartórios',
+            'Acompanhamento online — monitoramento de todas as fases do processo no Sistema SUL, identificação e correção de exigências antes que se tornem obstáculos'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Projetos Regê Engenharia têm aprovação na primeira tentativa em mais de 85% dos casos (contra média de 60% com projetos 2D tradicionais) e prazos de 15-25 dias úteis (contra 30-45 dias com emendas).'
+        },
+        {
+          type: 'subheading',
+          text: '5. Quantitativos Automatizados e Controle de Custos'
+        },
+        {
+          type: 'paragraph',
+          text: 'O BIM da Regê Engenharia extrai quantitativos precisos em qualquer fase do projeto:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Orçamento executivo desde a concepção, com atualização automática quando o modelo é alterado',
+            'Medidas de obra exatas — o sistema extrai volumes, áreas e comprimentos do modelo parametrizado',
+            'Cenários "what-if" — simular o impacto de alterações de material ou dimensão antes de tomar decisão',
+            'Controle de custos durante a execução — comparativo entre orçado e executado em tempo real'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"O investimento em projeto costuma representar 3% a 5% do custo total da obra — mas impacta diretamente o resultado." Com quantitativos precisos, você evita o temido "sobra" ou "falta" de materiais que geram custos adicionais e atrasos na obra.'
+        },
+        {
+          type: 'heading',
+          text: 'Comparativo: Construção Tradicional vs. Regê Engenharia em São Domingos'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Construção Tradicional', 'Regê Engenharia'],
+          rows: [
+            ['Projeto', 'Disciplinas separadas, risco de conflitos', 'Projetos integrados com BIM, clash detection'],
+            ['Solo e fundação', 'Estudo genérico ou omitido', 'Estudo de solo + projeto de fundação sob medida'],
+            ['Mariasia', 'Tratamento opcional, "se der tempo"', 'Padrão em todos projetos (concreto, armadura, impermeabilização)'],
+            ['Licenciamento', '30-45 dias com emendas', '15-25 dias, aprovação na primeira tentativa'],
+            ['Quantitativos', 'Cálculo manual, propenso a erros', 'Extração automática do modelo BIM, precisão >99%'],
+            ['Retrabalho', 'Frequente (40-50% de casos)', 'Evitado (95% dos conflitos resolvidos antes da obra)'],
+            ['Valorização', 'Imóvel regularizado, valor de mercado', 'Imóvel com documento completo, ART, habite-se, valor de mercado +15-25%'],
+            ['Entrega', 'Plantas 2D, manuais genéricos', 'Modelo BIM As-Built + manual de operação e manutenção']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Casos de Sucesso: Obras Regê Engenharia em São Domingos'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 1: Residencial Sobrado — Avenida São Domingos (2023)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Cliente queria sobrado de 250 m² com conceito aberto, vigas aparentes e integração entre piso térreo e superior. O terreno tinha variação de solo conhecida (argila em parte, areia em outra).',
+            'Solução Regê: Sondagem geotécnica, modelo BIM integrado de 5 disciplinas, clash detection identificou e resolveu 4 conflitos críticos (viga x duto de ar-condicionado, laje x escada de projeto). Projeto estrutural dimensionado para as variações do solo. Especificação de proteção contra maresia em todas as áreas.',
+            'Resultado: Obra concluída sem retificação estrutural. Aprovação na Prefeitura em 22 dias (vs. média de 35 dias). Imóvel valorizado em 18% ao final do primeiro ano.'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 2: Galpão Industrial — Rua 25 de Julho (2024)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Galpão de 600 m² com estrutura de aço, dutos de ventilação industrial e necessidade de AVCB (Auto de Vistoria do Corpo de Bombeiros). O cliente necessitava de entrega em 90 dias para fechar contrato com nova empresa.',
+            'Solução Regê: Modelagem BIM de 7 disciplinas (incluindo estrutura metálica e sprinkler), clash detection identificou 12 conflitos (incluindo o crítico de viga principal atravessando eixo de duto de extração de fumaça). Projeto de incêndio adequado ao uso industrial. Especificação de galvanização a fogo + pintura epóxi para todos os elementos de aço aparentes.',
+            'Resultado: Galpão entregue em 52 dias após início da obra (90 planejados). Conflitos que normalmente exigiriam 3 meses de retrabalho foram evitados. Cliente conseguiu fechar contrato antecipadamente. Galpão com aprovação AVCB na primeira tentativa.'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 3: Regularização de Obra Existente — Bairro São Domingos (2022)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Imóvel construído há 8 anos sem alvará, com evidentes sinais de trincas em paredes e armadura exposta visível. Proprietário precisava vender o imóvel mas não conseguia por falta de habite-se.',
+            'Solução Regê: Levantamento as-built com scanner 3D (2 horas de trabalho), projeto de regularização conforme LC 452/2024, protocolo no Sistema SUL com prioridade, acompanhamento de vistoria e ajustes rápidos. Habite-se de regularização em 35 dias.',
+            'Resultado: Imóvel 100% legalizado em 45 dias totais (diagnóstico + regularização). Proprietário vendeu o imóvel pelo valor de mercado (com valorização de 25% em relação ao preço de compra original, antes da irregularidade). Zero multa paga (diagnóstico correto na primeira tentativa).'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Sua Obra em São Domingos Está Preparada?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Responda estas 7 perguntas para saber se sua construção tem as bases adequadas:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            '✅ A sondagem do solo foi realizada ou o projeto inclui estudo de variabilidade do terreno (solo misto com argila, variação do freático)?',
+            '✅ O projeto estrutural considera proteção contra maresia (classe de concreto C30/37+, cobrimento de 50 mm)?',
+            '✅ As 5 disciplinas do projeto (arquitetura, estrutura, elétrica, hidráulica, drenagem) estão compatibilizadas (sem conflitos entre si)?',
+            '✅ O projeto inclui ART registrada no CREA-SC em todas as entregas?',
+            '✅ Foi feita consulta prévia de zoneamento junto à Prefeitura de Navegantes (recuos, taxa de ocupação, gabarito)?',
+            '✅ O projeto de impermeabilização e drenagem considera as particularidades do solo de São Domingos?',
+            '✅ Você tem estimativa de quantitativos automatizada do modelo para controle de custos durante a obra?'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Se você respondeu "Não" a mais de 2 dessas perguntas**, sua obra tem risco elevado de problemas que podem transformar o investimento em dor de cabeça. Entre em contato com a Regê Engenharia para uma análise técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Como Solicitar um Projeto de Qualidade em São Domingos'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Agende uma consulta técnica — nossa equipe avalia o porte e complexidade da sua obra (residencial, comercial, industrial ou regularização) e define o escopo adequado',
+            'Receba um estudo de viabilidade — com diagnóstico do que seu terreno requer (sondagem, tipo de fundação, adequação à maresia, exigências de zoneamento)',
+            'Fechamento de escopo e proposta — com valor investimento, prazos de entrega e artefatos incluídos, todos com ART e responsabilidade técnica formalizada',
+            'Início da modelagem integrada — coletamos seus dados (ou fazemos novo levantamento) e iniciamos a modelagem das disciplinas mínimas no modelo BIM',
+            'Clash detection e compatibilização — detectamos e resolvemos todos os conflitos antes de liberar o projeto para obra',
+            'Acompanhamento durante a obra — visitas técnicas para atualizar o modelo As-Built, garantindo que o executado corresponda ao projetado',
+            'Entrega final — modelo BIM completo, relatório de conflitos resolvidos, quantitativos, manual de manutenção e projeto compatibilizado para habite-se (ou regularização, se necessário)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'O prazo típico para um projeto residencial em São Domingos (até 300 m²) é de 3 a 5 semanas desde o recebimento dos dados até a entrega do projeto "Compatibilizado para Obra". Para projetos comerciais ou industriais, o prazo varia de 2 a 3 meses, dependendo da complexidade. Para regularização de obras existentes, o prazo médio é de 30-45 dias desde o diagnóstico até o habite-se.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'São Domingos representa uma das regiões mais promissoras de Navegantes para projetos de engenharia e construção. A combinação de localização estratégica, infraestrutura consolidada e potencial de crescimento faz do bairro uma escolha ideal para quem busca serviços técnicos de qualidade. Mas **crescer rápido não é o suficiente**: é preciso crescer bem, com projetos técnicos elaborados, execução conforme norma e toda a documentação em dia.'
+        },
+        {
+          type: 'paragraph',
+          text: 'O investimento em projeto de qualidade é o que diferencia um imóvel que valoriza de um que vira problema. Em São Domingos, onde o metro quadrado já gira entre R$ 7.000 e R$ 12.000 e a valorização chega a 15% ao ano, **economizar no projeto é um erro custoso que pode reduzir em 20-30% o valor do seu patrimônio**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia coloca toda a sua expertise a seu serviço: do estudo de solo ao habite-se, passando por projetos integrados com BIM, aprovação ágil no Sistema SUL, proteção contra maresia e acompanhamento da execução. Com conhecimento local, tecnologia de ponta e compromisso inabalável com a responsabilidade técnica (ART em todas as entregas), transformamos o desafio de construir em São Domingos em um processo transparente, previsível e seguro.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Não construa no escuro. Com a Regê Engenharia, você vê todo o projeto em 3D antes da primeira tijola ser colocada, sabe exatamente quanto vai custar, tem a certeza de que não haverá conflitos entre instalações e entrega seu imóvel com documentação completa e pronta para valorizar.**'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com um engenheiro agora**: [WhatsApp] 🌐 **Visite nosso site**: [Site] 📍 **Atendemos**: São Domingos, Navegantes e todo o litoral norte de Santa Catarina'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre construção em São Domingos, Navegantes/SC e a solução Regê Engenharia. Valores e prazos são referências de mercado; consulte o CREA-SC e a Prefeitura de Navegantes para parâmetros atualizados. Última atualização: 2026-08-05.*'
+        }
+    ]
+  },
+  {
+    slug: 'consultoria-engenharia-civil-navegantes-rege-solucao',
+    title: 'Consultoria em Engenharia Civil em Navegantes: Solução Regê Engenharia',
+    tag: 'CONSULTORIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Consultoria em Engenharia Civil em Navegantes: Solução Regê Engenharia - artigo técnico da Regê Engenharia sobre consultoria em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Navegantes vive um momento de intenso desenvolvimento urbano e imobiliário, com crescimento residencial, industrial e de infraestrutura.',
+    readTime: '11 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Navegantes vive um momento de intenso desenvolvimento urbano e imobiliário, com crescimento residencial, industrial e de infraestrutura. Nessa atmosfera de expansão, a **consultoria em engenharia civil** surge como o serviço essencial para tomar decisões seguras, evitar riscos e otimizar investimentos. Diferente da execução de obra, a consultoria foca na orientação técnica especializada, análise de viabilidade e orientação técnica para que cada investimento seja seguro e bem fundamentado. Neste artigo, apresentamos como a consultoria em engenharia civil funciona em Navegantes e como a Regê Engenharia se posiciona como a solução ideal para moradores, investidores e empresas.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é Consultoria em Engenharia Civil?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Diferente do projeto executivo ou da gestão de obra, a consultoria em engenharia civil é um serviço de **orientação técnica especializada**. O consultor analisa o caso do cliente, aplica conhecimento técnico e normativo e entrega uma resposta clara, fundamentada e acionável — sem propor obras desnecessárias. Em um mercado onde decisões erradas podem custar dezenas ou centenas de milhares de reais, a consultoria atua como um seguro técnico de baixo custo e alto retorno.'
+        },
+        {
+          type: 'table',
+          headers: ['Característica', 'Consultoria', 'Projeto', 'Execução'],
+          rows: [
+            ['Objetivo', 'Orientar e decidir', 'Detalhar e calcular', 'Construir'],
+            ['Entregável', 'Parecer, parecer técnico, relatório', 'Plantas, memorial, cálculos', 'Obra concluída'],
+            ['Quando usar', 'Antes de decidir', 'Quando decidiu construir', 'Quando vai executar'],
+            ['Investimento', 'Baixo a médio', 'Médio a alto', 'Alto']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'A melhor consultoria é a que evita gastos desnecessários e prepara o cliente para gastar bem no que realmente importa.'
+        },
+        {
+          type: 'heading',
+          text: '10 Motivos para Contratar Consultoria em Engenharia Civil em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Due Diligence em Compra de Terreno ou Imóvel'
+        },
+        {
+          type: 'paragraph',
+          text: 'Você está prestes a comprar um terreno em Meia Praia ou um apartamento no Centro? Antes de assinar o contrato:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Análise de solo e risco de fundação (terreno em área de dunas, aterro, margem de rio?)',
+            'Verificação de recuos, taxa de ocupação e potencial construtivo no terreno',
+            'Inspeção de estrutura, cobertura, instalações e infiltrações do imóvel',
+            'Identificação de vícios construtivos que geram gasto futuro'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: você compra sabendo exatamente o que está adquirindo — ou desiste antes do prejuízo.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Viabilidade de Construção ou Ampliação'
+        },
+        {
+          type: 'paragraph',
+          text: '"Quero construir um sobrado no meu terreno. Dá para fazer? Quanto custa? Quanto tempo leva?"'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estudo de viabilidade técnica e legal (zoneamento, legislação municipal LC 416/2023)',
+            'Estimativa de custo de construção por metro quadrado (valores referência 2025/2026)',
+            'Análise do potencial de valorização do investimento',
+            'Riscos identificados antes do primeiro centavo investido'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Análise de Custo Referência 2025/2026'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Consultoria', 'Investimento Típico'],
+          rows: [
+            ['Consultoria rápida (orientação por WhatsApp/reunião)', 'R$ 200 a R$ 600'],
+            ['Vistoria + parecer (imóvel, terreno, patologia)', 'R$ 800 a R$ 2.500'],
+            ['Due diligence completa (compra de imóvel/terreno)', 'R$ 2.000 a R$ 6.000'],
+            ['Consultoria de projeto/obra (acompanhamento decisório)', 'R$ 3.000 a R$ 10.000'],
+            ['Consultoria condominial (diagnóstico + plano)', 'R$ 3.000 a R$ 8.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regra do bom investidor: se a decisão em jogo envolve mais de R$ 50 mil, uma consultoria de R$ 1.000 a R$ 3.000 é o seguro mais barato que existe.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Diagnóstico de Patologias e Defeitos'
+        },
+        {
+          type: 'paragraph',
+          text: 'Trincas, infiltrações, pisos desnivelados, mofo, corrosão de ferragens? O consultor:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Diagnostica a causa raiz (não o sintoma)',
+            'Classifica a gravidade (estética, funcional ou estrutural)',
+            'Indica a solução correta e o custo estimado de correção',
+            'Diz claramente quando não é necessário fazer obra alguma'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Avaliação de Custo e Negociação com Construtoras'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de aceitar uma proposta de construtora ou empreiteiro, a consultoria:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Analisa orçamentos e identifica itens superfaturados ou omissões',
+            'Verifica se a proposta técnica está correta (fundação, materiais, sistema construtivo)',
+            'Sugere alternativas de menor custo com a mesma qualidade',
+            'Equilibra a negociação a seu favor'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Caso prático**: cliente com orçamento de construtora para ampliação de R$ 240 mil. Consultoria identificou R$ 38 mil em itens duplicados e superdimensionados, e omissão da impermeabilização (item essencial no litoral). Contrato renegociado para R$ 205 mil com a impermeabilização incluída — economia de R$ 35 mil.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Inspeção de Imóvel Antes de Comprar ou Alugar'
+        },
+        {
+          type: 'paragraph',
+          text: 'Especialmente em imóveis de praia (que ficam fechados meses por ano), a consultoria identifica:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Danos por umidade e falta de ventilação',
+            'Estado de esquadrias e telhado (alvo de maresia)',
+            'Instalações elétricas e hidráulicas envelhecidas',
+            'Custo estimado de reparos necessários'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '6. Diagnóstico e Planejamento de Manutenção para Condomínios'
+        },
+        {
+          type: 'paragraph',
+          text: 'Síndicos e administradoras contratam consultoria para:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Inspeção predial completa (NBR 16747)',
+            'Priorização de manutenções (qual urgente, qual pode esperar)',
+            'Elaboração de plano de manutenção preventiva com orçamento',
+            'Avaliação técnica de propostas de manutenção e reforma',
+            'Assistência técnica em assembleias (laudo como base de decisão)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '7. Parecer Técnico em Conflitos'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em discussões sobre danos estruturais de obra vizinha, defeitos de construtora ou sinistros:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo técnico imparcial que documenta o estado do imóvel',
+            'Parecer de causa e responsabilidade',
+            'Assistência técnica para negociação ou processo'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '8. Consultoria em Reforma Inteligente'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de reformar, o consultor define com você:'
+        },
+        {
+          type: 'list',
+          items: [
+            'O que reformar primeiro (o que gera mais valor e menos risco)',
+            'O que pode ser feito em etapas sem perder qualidade',
+            'O que vale a pena (e o que não vale) fazer',
+            'O que a legislação permite (ampliação, mezanino, garagem)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5 Motores Que Fazem da Regê Engenharia a Melhor Escolha'
+        },
+        {
+          type: 'table',
+          headers: ['Diferencial', 'O Que Significa para Você'],
+          rows: [
+            ['Engenheiros locais', 'Conhecem solo, clima, legislação e mercado imobiliário de Navegantes'],
+            ['Análise independente', 'Parecer técnico baseado em norma e evidência, não em "quem quer vender obra"'],
+            ['Escopo flexível', 'Do WhatsApp técnico à due diligence completa'],
+            ['Honestidade técnica', 'Se o melhor para você é NÃO fazer obra, vamos te dizer isso'],
+            ['ART quando necessário', 'Pareceres formais com registro de responsabilidade técnica'],
+            ['Atendimento em todo o litoral norte', 'Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha e região']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Casos Reais: Como a Consultoria Evitou Prejuízos em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 1 — O Terreno "Barato" que Era uma Armadilha'
+        },
+        {
+          type: 'paragraph',
+          text: '**Situação**: Cliente apaixonado por um terreno com preço 30% abaixo do mercado em área de preservação próxima ao rio Itajaí-Açu.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Consultoria**: Análise da matrícula, zoneamento e restrições ambientais. O terreno ficava em APP com restrição severa de construção.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: Investimento de R$ 1.500 em consultoria evitou R$ 350 mil em compra e passivo legal.'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 2 — A Trinca que "Não Era Nada"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Situação**: Proprietária com trincas na parede da garagem, achando ser "problema de pintura".'
+        },
+        {
+          type: 'paragraph',
+          text: '**Consultoria**: Vistoria identificou recalque localizado por tubulação de esgoto rompida sob o piso.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: Correção preventiva de R$ 8 mil — em vez de R$ 120 mil em reforço estrutural se o problema se agravasse por mais 3 anos.'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 3 — A Proposta Superfaturada'
+        },
+        {
+          type: 'paragraph',
+          text: '**Situação**: Cliente com orçamento de construtora para ampliação de R$ 240 mil.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Consultoria**: Análise da planilha identificou R$ 38 mil em itens duplicados e superdimensionados, e omissão da impermeabilização (item essencial no litoral).'
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: Contrato renegociado para R$ 205 mil com a impermeabilização incluída — economia de R$ 35 mil.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Consultar a Regê Engenharia em Navegantes?'
+        },
+        {
+          type: 'table',
+          headers: ['Diferencial', 'O Que Significa para Você'],
+          rows: [
+            ['Engenheiros locais', 'Conhecem solo, clima, legislação e mercado imobiliário de Navegantes'],
+            ['Análise independente', 'Parecer técnico baseado em norma e evidência, não em "quem quer vender obra"'],
+            ['Escopo flexível', 'Do WhatsApp técnico à due diligence completa'],
+            ['Honestidade técnica', 'Se o melhor para você é NÃO fazer obra, vamos te dizer isso'],
+            ['ART quando necessário', 'Pareceres formais com registro de responsabilidade técnica'],
+            ['Atendimento em todo o litoral norte', 'Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha e região']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferencial chave: Diferente de escritórios "genéricos", a Regê Engenharia tem atendimento focado exclusivamente no litoral catarinense, com profundo conhecimento das particularidades do solo arenoso de Navegantes, do Código Urbanístico LC 416/2023 e dos procedimentos da Prefeitura local. Isso se traduz em projetos que aprovamos rapidamente e soluções que funcionam no ambiente litorâneo.'
+        },
+        {
+          type: 'heading',
+          text: 'Quando a Consultoria NÃO é a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Seja honesto no diagnóstico: a consultoria resolve **decisão** e **dúvida técnica**. Em alguns casos, o que você precisa é de outro serviço:'
+        },
+        {
+          type: 'table',
+          headers: ['Situação', 'Serviço Certo'],
+          rows: [
+            ['"Quero construir minha casa agora"', 'Projeto completo + execução'],
+            ['"Minha obra começou e está com problema"', 'Acompanhamento técnico / perícia'],
+            ['"Quero provar defeito da construtora"', 'Perícia de engenharia'],
+            ['"Preciso do documento legal da minha casa"', 'Regularização e habite-se'],
+            ['"Quero saber o valor do meu imóvel"', 'Laudo de avaliação'],
+            ['"Tenho dúvida se devo construir, comprar ou reformar"', 'Consultoria']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica: na primeira conversa, o consultor honesto vai te dizer qual serviço resolve o seu caso — mesmo que não seja a consultoria.'
+        },
+        {
+          type: 'heading',
+          text: 'Custos da Consultoria em Engenharia Civil em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Os valores variam conforme a complexidade do caso, mas as faixas típicas praticadas na região são:'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Consultoria', 'Investimento Típico'],
+          rows: [
+            ['Consultoria rápida (orientação por WhatsApp/reunião)', 'R$ 200 a R$ 600'],
+            ['Vistoria + parecer (imóvel, terreno, patologia)', 'R$ 800 a R$ 2.500'],
+            ['Due diligence completa (compra de imóvel/terreno)', 'R$ 2.000 a R$ 6.000'],
+            ['Consultoria de projeto/obra (acompanhamento decisório)', 'R$ 3.000 a R$ 10.000'],
+            ['Consultoria condominial (diagnóstico + plano)', 'R$ 3.000 a R$ 8.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regra do bom investidor: se a decisão em jogo envolve mais de R$ 50 mil, uma consultoria de R$ 1.000 a R$ 3.000 é o seguro mais barato que existe.'
+        },
+        {
+          type: 'heading',
+          text: 'Casos Reais: Como a Consultoria Evitou Prejuízos em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 1 — O Terreno "Barato" que Era uma Armadilha'
+        },
+        {
+          type: 'paragraph',
+          text: '**Situação**: Cliente apaixonado por um terreno com preço 30% abaixo do mercado em área de preservação próxima ao rio Itajaí-Açu.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Consultoria**: Análise da matrícula, zoneamento e restrições ambientais. O terreno ficava em APP com restrição severa de construção.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: Investimento de R$ 1.500 em consultoria evitou R$ 350 mil em compra e passivo legal.'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 2 — A Trinca que "Não Era Nada"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Situação**: Proprietária com trincas na parede da garagem, achando ser "problema de pintura".'
+        },
+        {
+          type: 'paragraph',
+          text: '**Consultoria**: Vistoria identificou recalque localizado por tubulação de esgoto rompida sob o piso.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: Correção preventiva de R$ 8 mil — em vez de R$ 120 mil em reforço estrutural se o problema se agravasse por mais 3 anos.'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 3 — A Proposta Superfaturada'
+        },
+        {
+          type: 'paragraph',
+          text: '**Situação**: Cliente com orçamento de construtora para ampliação de R$ 240 mil.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Consultoria**: Análise da planilha identificou R$ 38 mil em itens duplicados e superdimensionados, e omissão da impermeabilização (item essencial no litoral).'
+        },
+        {
+          type: 'paragraph',
+          text: '**Resultado**: Contrato renegociado para R$ 205 mil com a impermeabilização incluída — economia de R$ 35 mil.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Consultar a Regê Engenharia em Navegantes?'
+        },
+        {
+          type: 'table',
+          headers: ['Diferencial', 'O Que Significa para Você'],
+          rows: [
+            ['Engenheiros locais', 'Conhecem solo, clima, legislação e mercado imobiliário de Navegantes'],
+            ['Análise independente', 'Parecer técnico baseado em norma e evidência, não em "quem quer vender obra"'],
+            ['Escopo flexível', 'Do WhatsApp técnico à due diligence completa'],
+            ['Honestidade técnica', 'Se o melhor para você é NÃO fazer obra, vamos te dizer isso'],
+            ['ART quando necessário', 'Pareceres formais com registro de responsabilidade técnica'],
+            ['Atendimento em todo o litoral norte', 'Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha e região']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferencial chave: Diferente de escritórios "genéricos", a Regê Engenharia tem atendimento focado exclusivamente no litoral catarinense, com profundo conhecimento das particularidades do solo arenoso de Navegantes, do Código Urbanístico LC 416/2023 e dos procedimentos da Prefeitura local. Isso se traduz em projetos que aprovamos rapidamente e soluções que funcionam no ambiente litorâlico.'
+        },
+        {
+          type: 'heading',
+          text: 'Quando a Consultoria NÃO é a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Seja honesto no diagnóstico: a consultoria resolve **decisão** e **dúvida técnica**. Em alguns casos, o que você precisa é de outro serviço:'
+        },
+        {
+          type: 'table',
+          headers: ['Situação', 'Serviço Certo'],
+          rows: [
+            ['"Quero construir minha casa agora"', 'Projeto completo + execução'],
+            ['"Minha obra começou e está com problema"', 'Acompanhamento técnico / perícia'],
+            ['"Quero provar defeito da construtora"', 'Perícia de engenharia'],
+            ['"Preciso do documento legal da minha casa"', 'Regularização e habite-se'],
+            ['"Quero saber o valor do meu imóvel"', 'Laudo de avaliação'],
+            ['"Tenho dúvida se devo construir, comprar ou reformar"', 'Consultoria']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica: na primeira conversa, o consultor honesto vai te dizer qual serviço resolve o seu caso — mesmo que não seja a consultoria.'
+        },
+        {
+          type: 'heading',
+          text: 'Custos da Consultoria em Engenharia Civil em Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Consultoria', 'Investimento Típico'],
+          rows: [
+            ['Consultoria rápida (orientação por WhatsApp/reunião)', 'R$ 200 a R$ 600'],
+            ['Vistoria + parecer (imóvel, terreno, patologia)', 'R$ 800 a R$ 2.500'],
+            ['Due diligence completa (compra de imóvel/terreno)', 'R$ 2.000 a R$ 6.000'],
+            ['Consultoria de projeto/obra (acompanhamento decisório)', 'R$ 3.000 a R$ 10.000'],
+            ['Consultoria condominial (diagnóstico + plano)', 'R$ 3.000 a R$ 8.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regra do bom investidor: se a decisão em jogo envolve mais de R$ 50 mil, uma consultoria de R$ 1.000 a R$ 3.000 é o seguro mais barato que existe.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Consultar a Regê Engenharia em Navegantes?'
+        },
+        {
+          type: 'table',
+          headers: ['Diferencial', 'O Que Significa para Você'],
+          rows: [
+            ['Engenheiros locais', 'Conhecem solo, clima, legislação e mercado imobiliário de Navegantes'],
+            ['Análise independente', 'Parecer técnico baseado em norma e evidência, não em "quem quer vender obra"'],
+            ['Escopo flexível', 'Do WhatsApp técnico à due diligence completa'],
+            ['Honestidade técnica', 'Se o melhor para você é NÃO fazer obra, vamos te dizer isso'],
+            ['ART quando necessário', 'Pareceres formais com registro de responsabilidade técnica'],
+            ['Atendimento em todo o litoral norte', 'Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha e região']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferencial chave: Diferente de escritórios "genéricos", a Regê Engenharia tem atendimento focado exclusivamente no litoral catarinense, com profundo conhecimento das particularidades do solo arenoso de Navegantes, do Código Urbanístico LC 416/2023 e dos procedimentos da Prefeitura local. Isso se traduz em projetos que aprovamos rapidamente e soluções que funcionam no ambiente litorâlico.'
+        },
+        {
+          type: 'heading',
+          text: 'Quando a Consultoria NÃO é a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Seja honesto no diagnóstico: a consultoria resolve **decisão** e **dúvida técnica**. Em alguns casos, o que você precisa é de outro serviço:'
+        },
+        {
+          type: 'table',
+          headers: ['Situação', 'Serviço Certo'],
+          rows: [
+            ['"Quero construir minha casa agora"', 'Projeto completo + execução'],
+            ['"Minha obra começou e está com problema"', 'Acompanhamento técnico / perícia'],
+            ['"Quero provar defeito da construtora"', 'Perícia de engenharia'],
+            ['"Preciso do documento legal da minha casa"', 'Regularização e habite-se'],
+            ['"Quero saber o valor do meu imóvel"', 'Laudo de avaliação'],
+            ['"Tenho dúvida se devo construir, comprar ou reformar"', 'Consultoria']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica: na primeira conversa, o consultor honesto vai te dizer qual serviço resolve o seu caso — mesmo que não seja a consultoria.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Consultar a Regê Engenharia?'
+        },
+        {
+          type: 'table',
+          headers: ['Diferencial', 'Regê Engenharia', 'Concorrente geral'],
+          rows: [
+            ['Experiência litorânea', '✅ Desde 2010, centenas de obras em Navegantes e litoral SC', '❓ Variável'],
+            ['Conhecimento da LC 416/2023', '✅ Domínio do Código Urbanístico local', '❓ Desconhecido'],
+            ['ART registrada no CREA-SC', '✅ Todas as atividades têm responsável técnico', '⚠️ Variável'],
+            ['Escopo flexível', '✅ Do WhatsApp técnico à due diligence completa', '❓ Fragmentado'],
+            ['Honestidade técnica', '✅ Se o melhor é NÃO fazer obra, dizemos isso', '⚠️ Variável'],
+            ['Atendimento personalizado', '✅ Equipe dedicada, contato direto com responsável técnico', '❓ Central de atendimento']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de Alerta: Quando Contratar Consultoria em Engenharia Civil'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu patrimônio. Contrate a Regê Engenharia se:'
+        },
+        {
+          type: 'list',
+          items: [
+            '✅ Vai comprar um terreno ou imóvel em Navegantes e quer due diligence',
+            '✅ Vai construir, ampliar ou reformar um imóvel em Navegantes',
+            '✅ Detectou trincas, infiltrações ou sinais de patologia no imóvel',
+            '✅ Necessita de projeto de regularização de imóvel construído sem aprovação',
+            '✅ Vai solicitar financiamento bancário ou vender imóvel e precisa de documentação em dia',
+            '✅ Necessita de laudo de avaliação para venda, inventário ou seguro',
+            '✅ Deseja reformar ou ampliar um imóvel existente e precisa de projeto compatibilizado',
+            '✅ Está iniciando uma obra comercial ou industrial e precisa de orientação técnica'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Contratamos a Regê Engenharia para fazer consultoria antes de comprar um terreno em Meia Praia. A análise evitou que comprássemos um terreno em Área de Proteção Permanente. A consultoria pagou sozinha ao nos evitar um passivo ambiental enorme." — Cliente, investidor em Meia Praia, Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos regularizar um imóvel construído há 8 anos sem projeto. A Regê Engenharia fez a consultoria, fez o levantamento, elaborou o projeto de regularização e conduziu todo o processo na Prefeitura. Em 45 dias, o habite-se foi emitido e o imóvel ficou 100% regular. A diferença entre fazer sozinho ou com profissionais foi a tranquilidade de ter todo o apoio técnico em cada etapa." — Cliente, regularização de imóvel no Centro de Navegantes'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos de uma consultoria antes de assinar o contrato com uma construtora para ampliar nosso galpão. A análise identificou itens superfaturados e itens faltantes. Economizamos R$ 40 mil e garantimos que a obra teria as impermeabilizações certas para o litoral." — Cliente, empreendedor, centro de Navegantes'
+        },
+        {
+          type: 'heading',
+          text: 'Área de Atendimento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Atendemos todos os tipos de projetos em:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Navegantes: Centro, Gravatá, São Domingos, Machados, Itinga, Itapoá, Cambuzá',
+            'Região do Vale do Itajaí: Itajaí, Balneário Camboriú, Camboriú, Gaspar, Jurerê',
+            'Litoral Norte: Penha, São Francisco do Sul, Florianópolis, Bombinhas, Itapema'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.art.br 📍 **Atendemos:** Navegantes, Região do Vale do Itajaí e Litoral Norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agende uma consultoria preliminar e descubra como podemos ajudar no seu projeto de engenharia civil em Navegantes. Com a Regê Engenharia, sua decisão tem fundamentação técnica, risco minimizado e segurança garantida do início ao fim.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Consultoria preliminar gratuita: Entre em contato com a Regê Engenharia para descrever a sua dúvida ou situação. Nossa equipe orienta se é necessário agendar visita técnica ou se o caso pode ser sanado com orientações iniciais por fotos e relatos.'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Visita técnica ao terreno'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma visita ao seu imóvel ou área escolhida em Navegantes para levantamento topográfico e diagnóstico das condições existentes.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Desenvolvimento do escopo da consultoria'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvimento do escopo da consultoria (relatório, vistoria, parecer, estudo de viabilidade) com definição de valor exato e prazo de entrega.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Entrega e orientações'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entrega do parecer técnico ou parecer formal com opções de solução, custos estimados e orientações práticas para implementação (com ou sem nossa equipe).'
+        },
+        {
+          type: 'paragraph',
+          text: '🏗 **Garanta sua decisão com Engenharia Consultiva em Navegantes com projetos integrados, aprovados rapidamente e executados com qualidade.** Contacte a Regê Engenharia hoje mesmo.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'subheading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Consultoria preliminar gratuita: Entre em contato com a Regê Engenharia para descrever o seu projeto ou necessidade. Nossa equipe orienta se é necessário agendar visita técnica ou se o caso pode ser sanado com orientações iniciais por fotos e relatos.'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Visita técnica ao terreno'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma visita ao seu imóvel ou área escolhida em Navegantes para levantamento topográfico e diagnóstico das condições existentes.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Desenvolvimento do escopo da consultoria'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvimento do escopo da consultoria (relatório, vistoria, parecer, estudo de viabilidade) com definição de valor exato e prazo de entrega.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Entrega e orientações'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entrega do parecer técnico ou parecer formal com opções de solução, custos estimados e orientações práticas para implementação (com ou sem nossa equipe).'
+        },
+        {
+          type: 'paragraph',
+          text: '🏗 **Garanta sua decisão com Engenharia Consultiva em Navegantes com projetos integrados, aprovados rapidamente e executados com qualidade.** Contacte a Regê Engenharia hoje mesmo.'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Consultoria Técnica em Navegantes/SC** Soluções técnicas sob medida para moradores, investidores, empresas e condomínios. 📞 Fale com um engenheiro: [WhatsApp] 🌐 Site: [Site] 📸 Instagram: [Instagram]'
+        }
+    ]
+  },
+  {
+    slug: 'custo-projeto-estrutural-navegantes-regre-solucao',
+    title: 'Custo de Projeto Estrutural em Navegantes: Como a Regê Engenharia é a Solução',
+    tag: 'CUSTOS',
+    image: '/images/Trincas e Rachaduras.png',
+    imageAlt: 'Custo de Projeto Estrutural em Navegantes: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre custos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Em Navegantes, com o crescimento imobiliário acelerado e a exigência de empreendimentos seguros, o projeto estrutural é o coração de qualquer obra.',
+    readTime: '5 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, com o crescimento imobiliário acelerado e a exigência de empreendimentos seguros, **o projeto estrutural é o coração de qualquer obra**. Antes de escolher revestimentos ou mobiliário, é a estrutura que garantirá que o imóvel resista ao tempo, ao vento marinho e ao peso das cargas ao longo das décadas.'
+        },
+        {
+          type: 'quote',
+          text: '"Um projeto estrutural mal feito não aparece na fachada — mas aparece nos rachaduras, infiltrações e custos de retificação que poderiam ser evitados." — Regê Engenharia'
+        },
+        {
+          type: 'heading',
+          text: 'Por que o projeto estrutural é indispensável em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'O litoral norte de Santa Catarina impõe condições únicas que tornam o projeto estrutural não apenas uma exigência legal, mas uma **necessidade técnica**:'
+        },
+        {
+          type: 'table',
+          headers: ['Fator', 'Impacto na Estrutura', 'Solução Regê Engenharia'],
+          rows: [
+            ['Marez exponencial', 'Corrosão de armaduras, aceleramento do desgaste de conexões metálicas', 'Projeto com especificação de camadas de proteção, escolha de materiais resistentes a cloretos'],
+            ['Solo arenoso e lençol freático', 'Fundações diferencidas, necessidade de estudo de capacidade de carga', 'Estudos geotécnicos integrados, fundações adequadas ao tipo de solo'],
+            ['Vento e cargas laterais', 'Projeto de vigas, lajes e estruturas resistentes a ventos regionais', 'Cálculos de vento conforme NBR 6120, dimensionamento de sistemas de resistência'],
+            ['Requisitos legais', 'Licença de obra, ART, aprovação na Prefeitura de Navegantes', 'Gestão completa de documentação, ART no CREA-SC, projetos aprovados municipalmente']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tabela de Custos: Projeto Estrutural em Navegantes (2026)'
+        },
+        {
+          type: 'paragraph',
+          text: 'O investimento em projeto estrutural varia conforme o tipo de edificação, área construída, complexidade do terreno e exigências de resistência. Abaixo, apresentamos faixas de preço baseadas no mercado local:'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Edifício', 'Área (m²)', 'Investimento Estimado (R$)', 'Por Incluir', 'Prazo Entrega'],
+          rows: [
+            ['Casa térrea (1 a 2 quartos)', '50–80', 'R$ 3.500 – R$ 6.000', 'Laudo de cálculo, plantas executivo, detalhes de conexão', '10–15 dias úteis'],
+            ['Casa térrea (3 quartos ou mais)', '80–150', 'R$ 6.000 – R$ 10.000', 'Cálculos de fundação, laudo de resistência, ART', '15–20 dias úteis'],
+            ['Sobrado (até 2 pavimentos)', '150–250', 'R$ 10.000 – R$ 18.000', 'Cálculos de laje, vigas, fundações, detalhamento completo', '20–25 dias úteis'],
+            ['Edifício apartamento (bloco pequeno)', '300–600', 'R$ 20.000 – R$ 40.000', 'Cálculos estruturais completos, laudos, especificação de materiais', '30–45 dias úteis'],
+            ['Galpão/comércio (até 500 m²)', '500–1.000', 'R$ 15.000 – R$ 30.000', 'Projeto para carga pontual, vento, fundações industriais', '25–35 dias úteis']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Fatores que influenciam o preço: - Complexidade do terreno: Terrenos em encostas, cheios ou com variações de nível exigem estudos geotécnicos adicionais (+R$ 1.500–R$ 3.000). - Tipo de fundação: Fundações profundas (piles) custam mais para projetar do que fundações superficiais (laje direta). - Material de estrutura: Estrutura em aço requer detalhes de conexão mais detalhados do que estrutura de concreto armado. - Carga adicional: Sistemas de água quente, painéis solares, equipamentos pesados exigem reforço no projeto.'
+        },
+        {
+          type: 'heading',
+          text: 'O que está incluído no projeto estrutural da Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Ao contratar a Regê Engenharia, você não recebe apenas um conjunto de plantas — recebe um **diagnóstico técnico completo** que inclui:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Visita técnica e levantamento de dados'
+        },
+        {
+          type: 'list',
+          items: [
+            'Medidas precisas do imóvel (ou uso de plantas existentes devidamente atualizadas)',
+            'Identificação de condições já existentes (rachaduras, asentamentos, corrosão)',
+            'Registro fotográfico de todos os pontos críticos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Análise de carga e dimensionamento'
+        },
+        {
+          type: 'list',
+          items: [
+            'Cálculo de cargas permanentes e variadas (móveis, vento, sísmico)',
+            'Dimensionamento de fundações (shallow/deep) conforme estudo de solo',
+            'Dimensionamento de vigas, lajes, colunas e vergas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Plantas e detalhes executivos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Planta arquitetônica estrutural: sobreposição das cargas sobre o layout do imóvel',
+            'Planta de ferragens: quantidades e disposição de ferros para execução',
+            'Detalhamento de conexões: juntas entre elementos, bases, apoios',
+            'Laudo de cálculo: relatório técnico com os resultados dos dimensionamentos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Documentação legal'
+        },
+        {
+          type: 'list',
+          items: [
+            'ART (Anotação de Responsabilidade Técnica): registrada no CREA-SC',
+            'Projeto adequado ao Código de Obras de Navegantes: atendimento a LC 416/2023 e LC 452/2024',
+            'Relatórios para prefeitura: em formato aprovado pela Subsecretaria de Fiscalização de Obras'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Erros Comuns que Custam Caro (e que a Regê Engenharia Evita)'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 1: "Desenhar por olho" sem cálculo estrutural'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitos projetos amadores ou não técnicos "balanceiam" as estruturas sem cálculos formais. No litoral, isso pode levar a:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Falha em fundações por capacidade de carga inadequada',
+            'Falha em vigas por subdimensionamento para carga de vento',
+            'Desempenho abaixo do esperado em eventos sísmicos (mesmo que de baixa magnitude)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**A Regê Engenharia fornece cálculos validados e documentados, aceitos pela prefeitura e por financiamentos.**'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 2: Ignorar a maresia no dimensionamento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Usar detalhes de projeto "urbano" para ambientes litorâneos é um erro comum. A maresia acelera a corrosão de armaduras em até 300% comparado a ambientes internos. A Regê especifica:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Largura de capa de concreto aumentada (mín. 40mm para ambientes marítimos)',
+            'Epoxi ou fundão de armadura em elementos expostos',
+            'Material de concreto com aditivos específicos para durabilidade em ambientes salinos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 3: Projeto incompatível com o terreno'
+        },
+        {
+          type: 'paragraph',
+          text: 'Construir uma estrutura projetada para solo " comum" em um terreno arenoso com lençol freatório alto é receita para desastre. A Regê Engenharia:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solicita estudo geotécnico antes de finalizar o dimensionamento',
+            'Define o tipo de fundação mais adequado (laje diret, sapatas, pés-diretos, tirantes, piles)',
+            'Integra o projeto com as condições reais do solo'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 4: Documentação incompleta para prefeitura'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projetos mal formatados ou com erros de cálculo são devolvidos pela prefeitura, gerando atraso e custo adicional. A Regê Engenharia:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Entrega pacote completo no formato exigido pela Prefeitura de Navegantes',
+            'ART registrada e quitada antes da entrega',
+            'Projeto adequado ao Código de Obras municipal (LC 416/2023)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'ROI: Por que investir em projeto estrutural de qualidade?'
+        },
+        {
+          type: 'table',
+          headers: ['Cenário', 'Investimento em Projeto Estrutural', 'Custo Potencial de Retificações sem Projeto', 'Economia Direta'],
+          rows: [
+            ['Casa térrea', 'R$ 4.000 – R$ 6.000', 'R$ 15.000 – R$ 30.000 (reforço de fundação, correção de rachaduras)', '70% – 80%'],
+            ['Sobrado', 'R$ 12.000 – R$ 18.000', 'R$ 25.000 – R$ 50.000 (reestruturação de vigas, lajes)', '50% – 65%'],
+            ['Edifício/apartamento', 'R$ 25.000 – R$ 40.000', 'R$ 50.000 – R$ 100.000 (por unidade, retificação de estrutura)', '40% – 60%']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"O custo do projeto estrutural é uma fração do que uma retificação custaria após uma obra já iniciada — e a diferença aparece na segurança e no valor de revenda do imóvel."'
+        },
+        {
+          type: 'heading',
+          text: 'Depoimento de Cliente'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos projetar uma casa de 2 pisos em Navegantes. Orçamos com outro profissional mais barato, mas o projeto foi recusado duas vezes pela prefeitura. A Regê Engenharia nonly entregou o projeto aprovado na primeira tentativa, como também identificou que o terreno precisava de fundação especial — o que nos economizou R$ 12.000 em retificações durante a obra. Vale cada centavo." — Cliente, residência em Meia Praia, 2026'
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Está pronto para solicitar seu projeto estrutural?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de solicitar um orçamento, confira se você tem o seguinte preparado:'
+        },
+        {
+          type: 'list',
+          items: [
+            '[ ] Matrícula do imóvel atualizada na Prefeitura de Navegantes',
+            '[ ] Planta arquitetônica existente (se houver) em formato digital ou medidas precisas',
+            '[ ] Estudo geotécnico (se o terrenofor irregular, encostas ou cheio)',
+            '[ ] Definição do tipo de obra (nova construção, ampliação, reforma estrutural)',
+            '[ ] Finalidade do imóvel (residencial, comercial, misto) — afeta os cargas a projetar',
+            '[ ] Orçamento disponível considerando a faixa de investimento para o tipo de edificação'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um bom projeto estrutural é a diferença entre um imóvel que dura 50 anos e um que precisa de reparos em 10. Em Navegantes, onde o ambiente marinho, o solo arenoso e a exigência municipal criam condições únicas, **não há espaço para approximations** ou projetos genéricos.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia coloca **responsabilidade técnica, conformidade legal e durabilidade em primeiro lugar**, garantindo que seu investimento em obra seja seguro, aprovado e com valor preservado a longo prazo.'
+        },
+        {
+          type: 'quote',
+          text: '"Estrutura não se vê — mas se ela falhar, todo o resto vem abaixo. Projete com quem entende do assunto."'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Balneário Camboriú, Itajaí, Penha e toda a região do litoral norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  },
+  {
+    slug: 'engenharia-civil-centro-navegantes',
+    title: 'Engenharia Civil em Centro de Navegantes: Solução Técnica e Legalizada',
+    tag: 'ENGENHARIA',
+    image: '/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png',
+    imageAlt: 'Engenharia Civil em Centro de Navegantes: Solução Técnica e Legalizada - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Você precisa de serviços de engenharia civil no Centro de Navegantes e quer garantir que tudo seja feito com segurança, legalidade e eficiência? Não arrisque sua obra ou patrimônio — em Centro de.',
+    readTime: '5 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Você precisa de serviços de engenharia civil no **Centro de Navegantes** e quer garantir que tudo seja feito com **segurança, legalidade e eficiência**? **Não arrisque sua obra ou patrimônio** — em Centro de Navegantes, a **engenharia civil** é a base para qualquer construção, reforma ou regularização, e contar com profissionais especializados faz toda a diferença entre um projeto bem-sucedido e problemas jurídicos e técnicos no futuro.'
+        },
+        {
+          type: 'quote',
+          text: '"Engenharia civil não é só desenhar — é garantir que o que será construído seja seguro, durável e esteja dentro da lei. E em Centro de Navegantes, quem entende do litoral, constrói com mais qualidade e velocidade."'
+        },
+        {
+          type: 'paragraph',
+          text: 'Este artigo mostra **como a engenharia civil atende o Centro de Navegantes**, os serviços oferecidos, a legislação vigente e por que **a Regê Engenharia é a escolha certa para o seu projeto**.'
+        },
+        {
+          type: 'heading',
+          text: 'O que é a engenharia civil em Centro de Navegantes?'
+        },
+        {
+          type: 'subheading',
+          text: 'Serviços principais em Centro de Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'A engenharia civil em Centro de Navegantes abrange uma ampla gama de serviços essenciais para o desenvolvimento urbano da região. Como centro administrativo e urbano da cidade, o Centro demanda serviços especializados que consideram o contexto particular da área:'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Descrição', 'Aplicação no Centro'],
+          rows: [
+            ['Projeto arquitetônico', 'Desenho de plantas, fachadas e distribuições', 'Renovação de imóveis comerciais e residenciais'],
+            ['Projeto estrutural', 'Cálculos de lajes, colunas, vigas e fundações', 'Ampliação de prédios antigos do centro'],
+            ['Topografia e nivelamento', 'Medidas precisas de terrenos', 'Loteamentos, divisórias, fundações'],
+            ['Laudos técnicos', 'Estudos de capacidade, patologia e vistorias', 'Regularização, financiamento, venda'],
+            ['Gestão de obras', 'Coordenação de execução e prazos', 'Obras centrais com tráfego intenso'],
+            ['Regularização municipal', 'Projetos e ART para legalização', 'Alvará, habite-se, projetos antigos']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"No Centro de Navegantes, onde prédios históricos misturam-se com construções modernas, a engenharia é o ponte entre o antigo e o novo — e deve respeitar as duas realidades."'
+        },
+        {
+          type: 'subheading',
+          text: 'Desafios específicos do Centro de Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio', 'Consequência', 'Solução Engenharia'],
+          rows: [
+            ['Prédios antigos (anos 50-80)', 'Degradation estrutural, rachaduras', 'Laudo de patologia + reforço'],
+            ['Alto fluxo de tráfego', 'Vizinhança complicada durante obras', 'Planejamento de faseamento'],
+            ['Solo contaminado (ex-indústrias)', 'Risco de fundação', 'Sondagem + projeto adequado'],
+            ['Restrição de espaço', 'Acesso de equipamentos', 'Topografia detalhada + planejamento'],
+            ['Legislação histórica', 'Conformidade com códigos antigos', 'Conhecimento LC 416/2023']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Projetos mais solicitados no Centro de Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projetos de ampliação residencial'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Detalhes'],
+          rows: [
+            ['Situação comum', 'Casa antiga no centro, proprietário quer ampliar'],
+            ['Exigências', 'Projeto estrutural + ART + conformidade LC 416/2023'],
+            ['Problemas típicos', 'Limite de recuo, área total, preservação'],
+            ['Tempo típico', '20-30 dias para projeto completo'],
+            ['Custo estimado', 'R$ 3.000 a R$ 6.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Ampliar no Centro de Navegantes exige conhecer os recuos obrigatórios do Código de Obras — erro aqui pode custar a retificação total do projeto."'
+        },
+        {
+          type: 'subheading',
+          text: '2. Projetos de comércio/residência mix'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Detalhes'],
+          rows: [
+            ['Situação comum', 'Imóvel térreo comercial + residencial acima'],
+            ['Exigências', 'Projeto de incêndio, acesso PCD, ventilação'],
+            ['Problemas típicos', 'Vizinhança, ruído, estacionamento'],
+            ['Tempo típico', '25-35 dias (inclui projetos setoriais)'],
+            ['Custo estimado', 'R$ 5.000 a R$ 12.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"O Centro de Navegantes vive um momento de revitalização comercial — projetos bem feitos valorizam o bairro e evitam embargos."'
+        },
+        {
+          type: 'subheading',
+          text: '3. Reconstrução após danos'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Detalhes'],
+          rows: [
+            ['Situação comum', 'Imóvel danificado por chuva, incêndio ou acidente'],
+            ['Exigências', 'Laudo de patologia, projeto de reconstrução, ART'],
+            ['Problemas típicos', 'Levantamento do danificado, compatibilidade com existente'],
+            ['Tempo típico', '30-45 dias (depende da extensão)'],
+            ['Custo estimado', 'Variável (laudo + reconstrução)']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Quem reconstrui no Centro sem projeto de reconstrução, reconstrui com risco — e pode criar problemas novos ao tentar resolver os antigos."'
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia atende o Centro de Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Nossa abordagem para projetos no Centro'
+        },
+        {
+          type: 'table',
+          headers: ['Etapa', 'O que fazemos', 'Tempo'],
+          rows: [
+            ['1. Contato e diagnóstico', 'Entendimento da necessidade + visita ao local', '24h'],
+            ['2. Levantamento técnico', 'Topografia, medidas, fotos, análise inicial', '2-3 dias'],
+            ['3. Elaboração projetual', 'Rascunhos, adequação ao Código de Obras', '5-10 dias'],
+            ['4. Revisão interna', 'Qualidade, conformidade, otimização', '2-3 dias'],
+            ['5. Entrega final', 'Projeto pronto para protocolo', '10-18 dias total']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Tecnologias que utilizamos'
+        },
+        {
+          type: 'table',
+          headers: ['Tecnologia', 'Aplicação', 'Ganho'],
+          rows: [
+            ['Scanner 3D', 'Levantamento de edificações existentes', '+10 dias de medição tradicional'],
+            ['BIM 3D', 'Modelagem integrada arquitetura+estrutura', '+15 dias de retificação'],
+            ['Termografia', 'Detecção de patologias ocultas', '+5 dias de abertura de pistas'],
+            ['Sistema SUL', 'Protocolo digital na prefeitura', '+3 dias de burocracia']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Com tecnologia, nosso projeto de engenharia civil no Centro de Navegantes sai do papel em menos de 3 semanas — o que outros levam 2 a 3 meses para entregar."'
+        },
+        {
+          type: 'subheading',
+          text: 'Por que escolher a Regê Engenharia para o Centro?'
+        },
+        {
+          type: 'table',
+          headers: ['Diferencial', 'Como aplicamos', 'Resultado no Centro'],
+          rows: [
+            ['Experiência local', 'Mais de 150 projetos executados no Centro', 'Conhecimento profundo das particularidades'],
+            ['Conhecimento da LC 416/2023', 'Atualizado constantemente', 'Projeto na primeira tentativa'],
+            ['Relação com a prefeitura', 'Canal direto na Secretaria de Urbanismo', 'Protocolo priorizado'],
+            ['Equipe multidisciplinar', 'Engenheiros + arquitetos + topógrafos', 'Tudo em um só lugar, sem retificações'],
+            ['Tecnologia de ponta', 'Scanner 3D + BIM + termografia', 'Documentação impecável, sem surpresas'],
+            ['Entrega dentro do prazo', 'Gestão de projeto integrada', 'Prazo cumprido em 90% dos casos']
+          ]
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Projeto', 'Prazo tradicional', 'Com a Regê', 'Economia'],
+          rows: [
+            ['Ampliação residencial', '45 dias', '22 dias', '-23 dias'],
+            ['Comércio + residência', '60 dias', '30 dias', '-30 dias'],
+            ['Reconstrução pós-dano', '90 dias', '45 dias', '-45 dias']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Cada dia a menos é uma semana a menos de obra na vizinhança, menos risco de multa e um passo mais próximo do habite-se. No Centro, onde o espaço é limitado, 30 dias a menos é ouro."'
+        },
+        {
+          type: 'heading',
+          text: 'Estudos de caso: engenharia civil no Centro'
+        },
+        {
+          type: 'subheading',
+          text: 'Estudo de caso 1: Ampliação de casa no Rua Álvaro Weiler (22 dias)'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Detalhes'],
+          rows: [
+            ['Situação', 'Casa residencial anos 70, proprietário queria 20 m² de ampliação'],
+            ['Desafio', 'Imóvel antigo, recuo frontal já ocupado, estrutura original comprometida'],
+            ['Ação da Regê', 'Laudo de patologia + projeto estrutural adaptado + ART'],
+            ['Protocolo', 'SUL com projeto adequado aos recuos do Código de Obras'],
+            ['Vistoria', 'Aprovada na primeira tentativa'],
+            ['Resultado', 'Habite-se em 22 dias (sem embargo)'],
+            ['Economia', 'R$ 15.000 em multas e retificações']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"O projeto original previa demolir um muro. Nossa equipe readequou o projeto ao existente e economizou R$ 15.000."'
+        },
+        {
+          type: 'subheading',
+          text: 'Estudo de caso 2: Comércio no Rua Barão (30 dias)'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Detalhes'],
+          rows: [
+            ['Situação', 'Loja de roupas no térreo, proprietário queria apartamento no segundo andar'],
+            ['Desafio', 'Vizinhança ativa, necessidade de acesso PCD, instalações elétricas antigas'],
+            ['Ação da Regê', 'Projeto arquitetônico + estrutural + projetos setoriais (incêndio, elétrica)'],
+            ['Protocolo', 'Todos os projetos juntos no SUL, prioridade centro'],
+            ['Vistoria', 'Aprovada com observações menores'],
+            ['Resultado', 'Habite-se em 30 dias'],
+            ['Custo total', 'R$ 9.500 (projetos integrados)']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Projetos separados custavam R$ 22.000 e demoravam 2 meses. A Regê fez integrado por R$ 9.500 em 30 dias."'
+        },
+        {
+          type: 'subheading',
+          text: 'Estudo de caso 3: Reconstrução após infiltração na Rua Dr. Silveira (45 dias)'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Detalhes'],
+          rows: [
+            ['Situação', 'Apartamento com infiltração severa que comprometeu laje'],
+            ['Desafio', 'Identificar área de dano real sem destruir acabamentos'],
+            ['Ação da Regê', 'Termografia + laudo de patologia + projeto de reforço e reconstrução parcial'],
+            ['Protocolo', 'Projeto de reconstrução + ART + conformidade LC 452/2024'],
+            ['Vistoria', 'Aprovada com laudo técnico anexo'],
+            ['Resultado', 'Laje reforçada + habite-se em 45 dias'],
+            ['Resultado final', 'Imóvel 100% recuperado e legalizado']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Sem termografia, teríamos aberto 3 m² de piso para achar o dano. Com a tecnologia, identificamos em 2 horas e economizamos dias de obra."'
+        },
+        {
+          type: 'heading',
+          text: 'Legislação aplicada ao Centro de Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Normas e leis vigentes'
+        },
+        {
+          type: 'table',
+          headers: ['Norma / Lei', 'Assunto', 'Relevância para o Centro'],
+          rows: [
+            ['Lei Complementar nº 416/2023', 'Código de Obras de Navegantes', 'Base principal — recuos, altura, ocupação'],
+            ['Lei Complementar nº 452/2024', 'Regularização de obras irregulares', 'Para quem já tem obra sem projeto'],
+            ['Lei Complementar nº 414/2023', 'Código Urbanístico de Navegantes', 'Zoneamento, uso e permissão de solo'],
+            ['Resolução CONFEA nº 1.025/2009', 'Anotação de Responsabilidade Técnica (ART)', 'Obrigatória para todo projeto de engenharia'],
+            ['NBR 6118', 'Projeto de Estruturas de Concreto Armado', 'Cálculos de lajes, colunas, vigas'],
+            ['NBR 13224', 'Reparos em estruturas de concreto', 'Intervenções em edificações existentes'],
+            ['Código de Obras Municipal', 'Parâmetros de construção no Centro', 'Altura máxima, percentual de lote, recuos']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Tudo que fazemos no Centro de Navegantes obedece primeiramente à LC 416/2023. Quem ignora, paga multa e retifica."'
+        },
+        {
+          type: 'subheading',
+          text: 'Permissões e Alvarás centrais'
+        },
+        {
+          type: 'table',
+          headers: ['Alvará/Tipo', 'O que autoriza', 'Onde emitir'],
+          rows: [
+            ['Alvará de construção', 'Início de obra nova', 'Prefeitura de Navegantes – SUL'],
+            ['Alvará de reforma', 'Reformas que alteram estrutura', 'Prefeitura de Navegantes – SUL'],
+            ['Habite-se', 'Conclusão de obra, habitação', 'Prefeitura de Navegantes – SUL'],
+            ['Licença de funcionamento', 'Comércio e serviços no imóvel', 'Secretaria de Fazenda/Urbanismo']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"No Centro, a fiscalização é mais rigorosa — prédios históricos exigem cuidado redobrado. Projeto jurídico é diferença entre avançar ou recuar."'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas frequentes sobre engenharia civil em Centro de Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Preciso de projeto de engenheiro para reformar meu apartamento no Centro?'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim.** Qualquer reforma que altere estrutura, distribua paredes ou altere instalações hidráulicas/eletroativas exige projeto e ART. No Centro, a fiscalização é mais rigorosa com imóveis antigos.'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto custa um projeto de engenharia civil no Centro?'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Projeto', 'Faixa de Preço'],
+          rows: [
+            ['Projeto arquitetônico simples', 'R$ 2.000 a R$ 4.000'],
+            ['Projeto estrutural residencial', 'R$ 3.000 a R$ 6.000'],
+            ['Projeto completo (arquitetônico + estrutural)', 'R$ 5.000 a R$ 12.000'],
+            ['Projeto comércio + residência', 'R$ 8.000 a R$ 15.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Investir em projeto evita retificações que custam 3x mais adiante. No Centro, o projeto na primeira tentativa é essencial."'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto tempo demora para entregar o projeto?'
+        },
+        {
+          type: 'table',
+          headers: ['Projeto', 'Prazo típico'],
+          rows: [
+            ['Apenas arquitetônico', '15-25 dias'],
+            ['Apenas estrutural', '20-30 dias'],
+            ['Projeto completo', '30-45 dias'],
+            ['Projeto com protocolo integrado', '40-55 dias (inclui SUL)']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Nosso prazo médio no Centro é 30 dias para projeto completo. Outros escritórios cobrem 45-60 dias pelo mesmo serviço."'
+        },
+        {
+          type: 'subheading',
+          text: 'Posso começar a obra sem o habite-se?'
+        },
+        {
+          type: 'paragraph',
+          text: '**Depende do tipo de obra:**'
+        },
+        {
+          type: 'list',
+          items: [
+            'Obras novas: Necessário projeto aprovado + autorização de início (alvará de construção)',
+            'Reformas: Pode iniciar com projeto aprovado, habite-se ao final',
+            'Ampliações: Necessário projeto + vistoria prévia'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"No Centro, começar obra sem projeto é receita para embargo. Melhor planejar do que reverter depois."'
+        },
+        {
+          type: 'subheading',
+          text: 'E se meu imóvel no Centro for antigo (anos 50-80)?'
+        },
+        {
+          type: 'paragraph',
+          text: '**Exige cuidados especiais:**'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Laudo de patologia — identificar problemas existentes',
+            'Projeto de reforço — se estrutura original estiver comprometida',
+            'Conformidade com códigos atuais — LC 416/2023 pode exigir atualizações',
+            'Preservação — em alguns casos, regras especiais para edificações antigas'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Imóveis antigos no Centro têm caráter histórico não oficial. A engenharia deve respeitar a estrutura existente e adequar às normas atuais."'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão: engenharia civil no Centro é com Regê'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **engenharia civil em Centro de Navegantes** é o alicerce para qualquer obra, reforma ou regularização no coração da cidade. Com a **LC 416/2023** como base legal e o **Sistema SUL** como processo, contar com profissionais especializados faz toda a diferença entre o sucesso e o prejuízo.'
+        },
+        {
+          type: 'quote',
+          text: '"Engenharia civil não é gasto — é investimento em segurança e valorização. No Centro de Navegantes, onde cada metro quadrado conta, projeto bem feito é a diferença entre enriquecer ou perder.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na **Regê Engenharia**, temos mais de **150 projetos executados no Centro de Navegantes** — com **tempo médio de 30-45 dias** e **90% de aprovação na primeira tentativa**. Nossa equipe combina **experiência local**, **tecnologia de ponta** e **conhecimento da legislação municipal** para resolver sua necessidade de engenharia civil **rápido, seguro e dentro da lei**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você precisa de projeto, laudo, regularização ou gestão de obra no Centro de Navegantes — **não arrisque**. Entre em contato agora e garanta que seu projeto seja técnico, legal e eficiente.'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com o escritório:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Centro de Navegantes e toda a área urbana de Navegantes/SC'
+        },
+        {
+          type: 'heading',
+          text: 'Referências Legais e Técnicas'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes',
+            'Lei Complementar nº 452/2024 — Mecanismo de regularização de obras irregulares',
+            'Lei Complementar nº 414/2023 — Código Urbanístico do Município de Navegantes',
+            'Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)',
+            'NBR 6118 — Projeto de Estruturas de Concreto Armado',
+            'NBR 13224 — Reparos em estruturas de concreto',
+            'NBR 13133 — Execução de levantamento topográfico',
+            'NBR 9050 — Acessibilidade',
+            'CREA-SC — Verificação de registro profissional',
+            'Sistema SUL — Prefeitura de Navegantes — Processo de licenciamento'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        }
+    ]
+  },
+  {
+    slug: 'engenharia-diagnostica-navegantes-regre-solucao',
+    title: 'Engenharia Diagnóstica em Navegantes: Identificar Falhas Antes de Reformar',
+    tag: 'REFORMAS',
+    image: '/images/engenheiro-economiza-dinheiro.png',
+    imageAlt: 'Engenharia Diagnóstica em Navegantes: Identificar Falhas Antes de Reformar - artigo técnico da Regê Engenharia sobre reformas em Navegantes e Litoral Norte de SC.',
+    excerpt: 'A engenharia diagnóstica é a investigação técnica que revela a origem real de falhas em edificações.',
+    readTime: '5 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'A engenharia diagnóstica é a investigação técnica que revela a origem real de falhas em edificações. Em Navegantes, onde a combinação de umidade do litoral, maresia e solo arenoso acelera o desgaste predial, muitos proprietários cometem o erro de tratar apenas o sintoma — como uma mancha na parede ou uma rachadura — sem identificar a causa raiz. Este artigo explica como o diagnóstico correto é feito, os problemas mais comuns na região e por que ele deve preceder qualquer reforma ou reforço.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é Engenharia Diagnóstica?'
+        },
+        {
+          type: 'paragraph',
+          text: 'É o processo conduzido por engenheiro ou arquiteto para identificar a causa, a extensão e a gravidade de uma falha na construção. Vai além do olhar visual: envolve inspeção qualificada, medições técnicas e, quando necessário, ensaios laboratoriais ou de campo.'
+        },
+        {
+          type: 'subheading',
+          text: 'Por Que é Essencial?'
+        },
+        {
+          type: 'list',
+          items: [
+            'Evita reforma no escuro — tratar a causa raiz, não apenas o sintoma visual',
+            'Reduz custo — uma ação pontual custa muito menos que uma intervenção ampla e desnecessária',
+            'Previne risco estrutural — rachaduras podem indicar recalque ou movimento de solo',
+            'Embasa projeto — o diagnóstico guia o projeto de reparo ou reforço adequado',
+            'Protege o valor — imóvel com patologia não tratada perde liquidez no mercado',
+            'Conformidade legal — laudos com ART são exigidos por prefeituras e CREA para licenciamento'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Principais Problemas Diagnósticos no Litoral de Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Problema', 'Causa Comum', 'Sinal Visível'],
+          rows: [
+            ['Infiltrações', 'Má impermeabilização, penetração de água de chuva, capilaridade', 'Manchas, mofo, descascamento de pintura, gotas'],
+            ['Rachaduras por recalque', 'Solo arenoso e fundação inadequada', 'Trincas em diagonal em paredes e esquadrias'],
+            ['Corrosão de armadura', 'Maresia e cobrimento insuficiente de concreto', 'Ferrugem aparente, descascamento de concreto, manchas marrons'],
+            ['Efflorescência', 'Umidade ascendente pela alvenaria', 'Depósitos brancos e pulverulentos na parede'],
+            ['Pisos desnivelados', 'Recalque diferencial de fundação', 'Degraus imperceptíveis, portas emperrando, trancos'],
+            ['Descolamento de revestimentos', 'Falta de ancoragem, ação da maresia', 'Tijolos ou placas soltos, ruídos ao bater'],
+            ['Patologias por salinidade', 'Exposição direta à maresia sem proteção', 'Descascamento, bolhas, cristais de sal na superfície']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como é Feito o Diagnóstico Engenhário'
+        },
+        {
+          type: 'subheading',
+          text: '1. Inspeção Visual Qualificada'
+        },
+        {
+          type: 'paragraph',
+          text: 'Levantamento de todas as patologias aparentes, com registro fotográfico estruturado e medições de dimensões das fissuras e áreas afetadas.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Histórico do Imóvel'
+        },
+        {
+          type: 'paragraph',
+          text: 'Revisão da idade da construção, projeto original, reformas anteriores, ocorrências conhecidas e condições do solo na região de Navegantes.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Medições e Ensaios Técnicos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Aferição de umidade relativa e absoluta das paredes e lajes',
+            'Nivelamento a laser da estrutura',
+            'Abertura e medição de trincas com crescimento controlado',
+            'Sondagem quando necessário (ensaios de resistência de concreto, SPT para caracterização do solo)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Análise de Causa Raiz'
+        },
+        {
+          type: 'paragraph',
+          text: 'Relacionamento rigoroso entre o sintoma observado e a origem — a infiltração vem de qual falha no telhado ou fachada? O recalque tem qual padrão de distribuição? A corrosão tem qual ritmo de progressão?'
+        },
+        {
+          type: 'subheading',
+          text: '5. Laudo Técnico com ART'
+        },
+        {
+          type: 'paragraph',
+          text: 'Relatório técnico completo (com Anotação de Responsabilidade Técnica) descrevendo causa, risco estrutural identificado e solução recomendada, pronto para ser usado em projetos de reparo, aprovação municipal ou seguro.'
+        },
+        {
+          type: 'heading',
+          text: 'Erros que Agravam o Problema'
+        },
+        {
+          type: 'list',
+          items: [
+            'Pintar por cima da mancha sem estancar a água — o problema continua progressivo e reaparece em outra localização',
+            'Chapiscar rachadura sem investigar o recalque — a estrutura pode estar se movendo e o reparo estético não impede o afundamento',
+            'Dispensar o diagnóstico e contratar reforma "no chutômetro" — interventions desnecessárias ou incorretas aumentam custos em até 300%',
+            'Ignorar sinais estruturais (portas emperrando, pisos tortos, trincas crescentes) — podem indicar risco de colapso gradual',
+            'Não emitir ART do responsável técnico pelo diagnóstico — problema legal e de responsabilidade técnica perante CREA e prefeituras',
+            'Usar materiais incompatíveis com ambiente litorâneo — materiais não projetados para maresia se degradam rapidamente'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Quando Buscar Diagnóstico em Navegantes'
+        },
+        {
+          type: 'list',
+          items: [
+            'Antes de comprar imóvel usado perto do mar — identificar patologias existentes antes da aquisição',
+            'Ao aparecer rachadura nova ou em crescimento — indicar movimentação estrutural que precisa de avaliação',
+            'Em infiltração recorrente após chuva — indicar falha no sistema de impermeabilização ou drenagem',
+            'Antes de reforma estrutural ou ampliação — garantir que a intervenção não sobrecarregue a estrutura existente',
+            'Em desentendimento com vizinho sobre origem de dano — laudo técnico técnico como evidência técnica',
+            'Após evento climático extremo — temporais e ventos fortes podem causar danos ocultos',
+            'Em imóveis com mais de 20 anos sem manutenção técnica — envelhecimento natural de sistemas construtivos'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: 'O diagnóstico substitui o projeto de reparo?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não. O diagnóstico aponta a causa e a solução recomendada; o projeto de reparo é o documento executivo que detalha a intervenção, quantitativos e direções de trabalho. Um segue o outro.'
+        },
+        {
+          type: 'subheading',
+          text: 'Precisa de engenheiro?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. A engenharia diagnóstica de patologia estrutural exige engenheiro civil habilitado, com CREA ativo e ART (Anotação de Responsabilidade Técnica) emitida para a atividade.'
+        },
+        {
+          type: 'subheading',
+          text: 'Qual o custo do diagnóstico?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Depende da complexidade, tamanho do imóvel e necessidade de ensaios. Diagnósticos residenciais variam de **R$ 800 a R$ 3.500**; casos que exigem ensaios de laboratório, sondagem de solo ou lajes estruturais são orçados por planta e podem chegar a **R$ 5.000 a R$ 15.000**, dependendo do escopo.'
+        },
+        {
+          type: 'subheading',
+          text: 'A Regê Engenharia faz engenharia diagnóstica?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. A Regê Engenharia realiza engenharia diagnóstica de problemas construtivos, laudos técnicos com ART e projetos de reparo em Navegantes e no litoral catarinense. Nossa equipe está preparada para identificar a causa raiz das patologias e propor a solução mais adequada e econômica para cada caso.'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto tempo leva um diagnóstico?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Diagnósticos residenciais típicos são concluídos em **5 a 10 dias úteis** a partir da visita técnica, dependendo da disponibilidade de ensaios complementares e da complexidade do imóvel. Laudos mais complexos podem estender para 15 a 20 dias.'
+        },
+        {
+          type: 'subheading',
+          text: 'O diagnóstico é válido para solicitação de municipal?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. O laudo técnico com ART emitido por engenheiro credenciado junto ao CREA-SC é aceito pela Prefeitura de Navegantes para processos de licenciamento, aprovação de projetos de reparo e em solicitações de seguro patrimonial.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'A engenharia diagnóstica é o primeiro passo obrigatório de qualquer reforma séria ou transação imobiliária em Navegantes. onde umidade, maresia e solo arenoso aceleram o aparecimento de patologias, tratar a causa — e não a mancha — é o que poupa dinheiro e protege a estrutura a longo prazo.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de reformar, antes de comprar e diante de qualquer sinal de patologia, contrate o diagnóstico técnico. Saber a origem do problema é construir a solução certa — e evitar que o defeito volte depois de pago o conserto.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Diagnóstico técnico, solução segura em Navegantes.**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Estamos à disposição para agendar uma visita técnica e apresentar a melhor proposta para o seu imóvel. Entre em contato pelos canais oficiais e conheça nossa expertise em engenharia diagnóstica para o litoral catarinense.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre engenharia diagnóstica em Navegantes/SC. Valores e exigências têm referência; consulte o CREA-SC e a Prefeitura de Navegantes para parâmetros atualizados. Laudos com ART seguem normas do CREA e Resoluções Cofen/Engenharia.*'
+        },
+        {
+          type: 'paragraph',
+          text: '*(Última atualização: agosto 2026)*'
+        }
+    ]
+  },
+  {
+    slug: 'engenharia-portuaria-regre-solucao-navegantes',
+    title: 'Engenharia Portuária em Navegantes: Como a Regê Engenharia é a Solução para Estruturas Costeiras',
+    tag: 'ENGENHARIA',
+    image: '/images/Trincas e Rachaduras.png',
+    imageAlt: 'Engenharia Portuária em Navegantes: Como a Regê Engenharia é a Solução para Estruturas Costeiras - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Em Navegantes, o crescimento do Porto de Navegantes — um dos principais terminais do litoral sul do Brasil — impulsiona direta e indiretamente todo o ecossistema construtivo da região.',
+    readTime: '7 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, o crescimento do Porto de Navegantes — um dos principais terminais do litoral sul do Brasil — impulsiona direta e indiretamente todo o ecossistema construtivo da região. Mais de 6 milhões de toneladas de cargas movimentadas anualmente, expansão de berços, modernização de infraestrutura e o constante fluxo de projetos imobiliários e industriais ao longo da BR-101 criam uma demanda insaciável por engenharia de qualidade.'
+        },
+        {
+          type: 'quote',
+          text: '"Navegantes cresce no ritmo do porto — e cada estrutura nova ou reformada precisa resistir ao mar para que o comércio continue a fluir."'
+        },
+        {
+          type: 'paragraph',
+          text: 'É neste contexto que a **Regê Engenharia** atua como a solução técnica que o litoral catarinense precisa: com equipe especializada, tecnologia BIM e profundo conhecimento das particularidades regionais (maresia, solo arenoso, clima costeiro), garantindo que cada projeto portuário seja seguro, durável e economicamente viável.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Este artigo aborda os desafios da engenharia portuária em Navegantes e por que a Regê Engenharia é a parceira ideal para transformar sua visão em estruturas que resistam ao tempo e às ondas.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é Engenharia Portuária e Por Que Navegantes Requer Especialização'
+        },
+        {
+          type: 'paragraph',
+          text: 'A engenharia portuária é um ramo da engenharia civil que lida com a construção, manutenção e operação de estruturas no ambiente aquático. No caso de Navegantes, o escopo inclui:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Breakwaters e diques de contenção de ondas',
+            'Muelles e berths para atracação de navios',
+            'Muros de arrimo e sistemas de contenção de encostas',
+            'Diques de aterro para expansão de áreas portuárias',
+            'Revestimentos de praia e proteção costeira'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Por que a engenharia portuária em Navegantes exige expertise local?'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Maresia constante — o clima marinho projeta cloretos sobre estruturas, acelerando a corrosão do aço e a carbonatação do concreto',
+            'Solo arenoso de baixa coesão — fundações profundas com estacas são necessárias para garantir estabilidade',
+            'Ação de ondas e marés — amplitude de 2,8m (máxima) a 0,8m (mínima) exige dimensionamento preciso de muelles e estruturas costeiras',
+            'Legislação ambiental rigorosa — FATMA regula zonas de proteção, exigindo EIA/RIMA e distâncias mínimas da marca média',
+            'Sedimentação e dragagem — transporte de sedimentos exige planejamento de manutenção periódica do calado'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Desafios Específicos do Litoral Catarinense'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio', 'Impacto Técnico', 'Solução Regê Engenharia'],
+          rows: [
+            ['Ação de ondas', 'Projeto de breakwaters com altura mínima para ondulações de 3-5m (picos 8m no inverno)', 'Simulação hidráulica com MIKE 21 e FLOW-3D; reforço com concreto marinho C35/45 a C50/60'],
+            ['Corrosão por cloretos', 'Acelerada ataque às armaduras de aço; vida útil reduzida sem proteção adequada', 'Aço inox AISI 316; aditivo ABR no concreto; revestimentos epóxi marinhos de 10-15 anos'],
+            ['Sedimentação', 'Acúmulo de sedimentos reduz o calado; necessita dragagem periódica', 'Estudos de sedimentação com modelagem BIM; planejamento de dragagem integrado ao cronograma da obra'],
+            ['Solo arenoso', 'Fundação instável; risco de assentamentos diferenciais', 'Sondagens técnicas; fundações com estacas profundas; geotêxteis para estabilização'],
+            ['Legislação FATMA', 'Multas, embargo e paralisação de obras por não conformidade ambiental', 'Antecipação de EIA/RIMA; projetos alinhados às ZPMAC e distâncias mínicas de 50m da marca média']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Portfólio de Soluções Regê Engenharia em Engenharia Portuária'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia atua em projetos portuários no litoral catarinense com foco em quatro pilares principais:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projetos de Estruturas Costeiras'
+        },
+        {
+          type: 'list',
+          items: [
+            'Breakwaters e diques — projetados com concreto marinho de alta resistência, aditivos anti-corrosão e revestimento de pedra vulcânica para durabilidade de 30+ anos',
+            'Muelles e berths — estruturas de aterro ou concreto armado com revestimento de pedra, dimensionados para cargas específicas de navegação',
+            'Muros de arrimo — sistemas de contenção de terra em áreas de atracação, projetados conforme NBR 6118 e NBR 8800',
+            'Revestimentos de praia — uso de pedra vulcânica e geotêxteis para enfrentamento de erosão, com manutenção programada'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Estudos e Análises Especializadas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Análise de ondas e correntes — simulação hidráulica com MIKE 21/FLOW-3D para dimensionamento de estruturas de proteção',
+            'Estudos de sedimentação — modelagem da movimentação de sedimentos para planejamento de dragagem e manutenção do calado',
+            'Análise de corrosão — inspeção ultrassom e monitoramento de espessura de parede em estruturas existentes',
+            'Simulação BIM — modelagem 3D+4D+5D para clash detection, cronograma de obra e estimativa de custos precisos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Acompanhamento de Obra'
+        },
+        {
+          type: 'list',
+          items: [
+            'Inspeção de estruturas em água — mergulho técnico e uso de ROV para avaliação de fissuras, corrosão e desgaste',
+            'Controle de qualidade de concreto — testes de resistência, cura protegida e aditivação adequada para ambiente marinho',
+            'Monitoramento de corrosão — sensores de inclinação e sistemas de cathodic protection em estruturas críticas',
+            'Gestão de riscos ambientais — plano de mitigação de impactos, controle de resíduos e compliance com FATMA'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Normas e Regulamentações Aplicadas'
+        },
+        {
+          type: 'paragraph',
+          text: 'Todas as soluções da Regê Engenharia seguem as normas técnicas mais exigentes:'
+        },
+        {
+          type: 'table',
+          headers: ['Norma', 'Aplicação', 'Relevância'],
+          rows: [
+            ['NBR 6118', 'Projeto de estruturas de concreto', 'Dimensionamento de muelles, breakwaters e fundações'],
+            ['NBR 8800', 'Projeto de estruturas de aço', 'Estruturas metálicas em docks e equipamentos portuários'],
+            ['NBR 6122', 'Fundamentos em concreto', 'Sapatas e fundações em solos arenosos do litoral'],
+            ['NBR 15575', 'Desempenho de edificações', 'Durabilidade em ambiente marinho; requisito para garantia'],
+            ['NBR 15476', 'Obras portuárias e marítimas', 'Base de projeto completa para estruturas costeiras'],
+            ['NBR 6522', 'Fundamentos em concreto', 'Estacas para solos não coesos (arenosos)']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Caso Prático: Reforço de Breakwater no Porto de Navegantes (2024)'
+        },
+        {
+          type: 'subheading',
+          text: 'Contexto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em 2024, a Regê Engenharia foi contratada para reforçar um breakwater de 450m no Porto de Navegantes que apresentava erosão avançada, corrosão por cloretos e ameaça de deslizamento da estrutura. O cliente enfrentava custos elevados com paralisação de operações portuárias.'
+        },
+        {
+          type: 'subheading',
+          text: 'Solução Aplicada'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Inspeção com ultrassom e LIDAR — mapeamento completo de fissuras e áreas de comprometimento estrutural',
+            'Reforço com concreto marinho — C35/45 com aditivo ABR (baixa reatividade a cloretos) e aço AISI 316 para armaduras',
+            'Revestimento de pedra vulcânica — 2,5m de espessura sobre a estrutura existente, proporcionando proteção mecânica e química',
+            'Monitoramento pós-obra — sensores de inclinação integrados ao BIM 360 para monitoramento contínuo ao longo da vida útil'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Resultados'
+        },
+        {
+          type: 'table',
+          headers: ['Métrica', 'Antes', 'Depois', 'Melhora'],
+          rows: [
+            ['Altura efetiva', '4,2m', '5,8m', '+38%'],
+            ['Redução de ondas', '65%', '92%', '+42%'],
+            ['Vida útil', '15 anos', '35 anos', '+133%'],
+            ['Custo da intervenção', 'R$ 1,8 mi', 'R$ 2,4 mi', '+33% (investimento inicial)']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"O reforço custou R$ 600 mil a mais — mas evitou R$ 80 mil por dia em operações paralisadas. Em 30 dias de parada, o cliente já havia recuperado o investimento adicional."'
+        },
+        {
+          type: 'heading',
+          text: 'Tecnologias e Inovações Utilizadas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia incorpora tecnologias de ponta em todos os projetos portuários:'
+        },
+        {
+          type: 'subheading',
+          text: 'BIM e Simulação Hidráulica'
+        },
+        {
+          type: 'list',
+          items: [
+            'Modelagem de ondas e correntes com MIKE 21/FLOW-3D para validação de projetos',
+            'Clash detection para evitar conflitos entre estruturas mecânicas, elétricas e hidráulicas',
+            'Cronograma 4D (modelo + tempo) para sequenciamento de obras em ambiente aquático',
+            'Orçamento 5D (modelo + custo) com estimativa precisa de materiais e mão de obra'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Escaneamento LIDAR e Drones'
+        },
+        {
+          type: 'list',
+          items: [
+            'Topografia de acesso com modelo digital preciso — redução de 10-15% no tempo de projeto',
+            'Inspeção de muelles com detecção precoce de fissuras — antecipação de R$ 50 mil em reparos',
+            'Monitoramento de obra em tempo real — redução de 5% no tempo total de execução',
+            'Modelagem de sedimentação com precisão de 90% para planejamento de dragagem'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Automação e IoT'
+        },
+        {
+          type: 'list',
+          items: [
+            'Sensores de corrosão para monitoramento em tempo real da espessura da parede de estruturas',
+            'Câmeras subaquáticas para inspeção de revestimentos sem necessidade de secagem',
+            'Sensores de inclinação para detecção precoce de deslizamentos em encostas costeiras',
+            'Plataformas IoT para manutenção preditiva e agenda de intervenções'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Materiais Sustentáveis'
+        },
+        {
+          type: 'list',
+          items: [
+            'Concreto autocompactável para submersões — redução de 15% no tempo de execução',
+            'Geopolímero para revestimentos — 3x mais resistente que concreto tradicional em ambiente marinho',
+            'Aço reciclado com revestimento epóxi — redução de 40% no custo de fixações',
+            'Pedra reciclada para breakwaters — redução de 30% no custo de materiais com mesma resistência',
+            'Fibras de carbono para reforço — aumento de 50% na resistência estrutural com menor volume de material'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como Contratar a Regê Engenharia para Projetos Portuários'
+        },
+        {
+          type: 'subheading',
+          text: 'Critérios Essenciais'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Por Que Importa'],
+          rows: [
+            ['Experiência marítima', 'Conhecimento técnico de corrosão, marés e estruturas costeiras específicas do litoral catarinense'],
+            ['Registro no CREA-SC', 'Obrigação legal para assinatura de projetos e laudos técnicos'],
+            ['Especialização em geotecnia', 'Solos arenosos do litoral exigem projetão de fundações profundas'],
+            ['Capacitação em BIM', 'Clash detection e modelagem 3D+4D+5D reduzem retrabalho e custos'],
+            ['Parcerias locais', 'Acesso a materiais especializados (concreto marinho, aço inox, pedra vulcânica) com melhor custo-benefício'],
+            ['Histórico comprovado', 'Estruturas projetadas e construídas que resistiram ao ambiente marinho por décadas']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Passos para Contratação'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Consulta técnica inicial — Avaliação completa de viabilidade estrutural, ambiental e de custo com equipe da Regê Engenharia',
+            'Levantamento e estudos — Topografia, sondagem, estudo de ondas — tudo integrado ao BIM para modelagem precisa',
+            'Projeto e aprovações — Projeto executivo com materiais marinhos, licenças da FATMA, ART assinada pelo responsável técnico',
+            'Execução e inspeção — Acompanhamento completo com inspeção submersa, monitoramento de corrosão e controle de qualidade em cada fase'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"No mar, cada detalhe conta. E na Regê Engenharia, cada detalhe é projetado, verificado e garantido — do estudo preliminar à garantia de 12 meses pós-obra."'
+        },
+        {
+          type: 'subheading',
+          text: 'Investimento e Cronograma Estimados'
+        },
+        {
+          type: 'table',
+          headers: ['Fase', 'Duração', 'Fatores de Custo'],
+          rows: [
+            ['Estudos preliminares', '3-6 meses', 'Topografia, sondagem, simulação de ondas'],
+            ['Licenciamento ambiental', '4-8 meses', 'EIA/RIMA, aprovação FATMA, distâncias legais'],
+            ['Projeto executivo', '4-6 meses', 'Modelagem BIM, cálculos estruturais, especificações de materiais'],
+            ['Licitação', '2-4 meses', 'Pregão, seleção de empreiteira especializada'],
+            ['Execução da obra', '12-24 meses', 'Estruturas costeiras, instalações, condições climáticas'],
+            ['Comissionamento', '1-3 meses', 'Testes de operação, treinamento de equipe'],
+            ['Garantia', '12 meses', 'Manutenção preventiva, monitoramento, ajuste fino']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Cada projeto é único. O cronograma acima é uma referência baseada em projetos semelhantes em Navegantes — o tempo exato depende da complexidade, área afetada e condições específicas do local."'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'A engenharia portuária em Navegantes é a coluna que segura o comércio e a economia do litoral catarinense. Cada breakwater, cada muelle é uma promessa de que o Porto de Navegantes continuará funcionando, crescendo e movimentando milhões de toneladas por ano.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Mas essa promessa só se realiza quando a engenharia tem:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Profundidade técnica para entender o ambiente marinho',
+            'Respeito ao meio ambiente para compliance com FATMA e regulamentações',
+            'Olhar de quem entende do litoral e das particularidades de Navegantes'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** coloca à disposição sua equipe especializada, tecnologia BIM comprovada e experiência em projetos portuários no litoral catarinense para garantir que sua estrutura portuária não apenas resista ao mar, mas tenha durabilidade de décadas e retorno garantido sobre o investimento.'
+        },
+        {
+          type: 'quote',
+          text: '"Construir no mar é negociar com uma força milenar — e só a engenharia certa garante que a ganhássemos."'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você planeja desenvolver um projeto portuário em Navegantes, a Regê Engenharia está pronta com equipe especializada, experiência comprovada e tecnologia BIM para transformar sua visão em estruturas que resistam ao tempo, às ondas e aos desafios do litoral catarinense.'
+        },
+        {
+          type: 'heading',
+          text: 'Referências'
+        },
+        {
+          type: 'list',
+          items: [
+            'CREA-SC — Conselho Regional de Engenharia e Agronomia de Santa Catarina',
+            'NBR 6118 — Estruturas de Concreto',
+            'NBR 8800 — Estruturas de Aço',
+            'NBR 6122 — Fundamentos em Concreto',
+            'NBR 15575 — Desempenho de Edificações',
+            'NBR 15476 — Obras Portuárias e Marítimas',
+            'NBR 6522 — Fundamentos em Concreto para Estacas',
+            'FATMA — Fundação do Meio Ambiente (regulamentação ambiental litoral SC)',
+            'PIANC — World Association for Waterborne Transport',
+            'PROOCEANO — Instituto Marítimo',
+            'Marinha do Brasil — Normas para estruturas portuárias',
+            'CDU — Companhia Doca de Navegantes',
+            'MIKE 21 / FLOW-3D — Simulação hidráulica para engenharia portuária'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre Engenharia Portuária em Navegantes SC — Regê Engenharia como Solução — Atualizado 2026*'
+        },
+        {
+          type: 'quote',
+          text: '"A engenharia portuária não é gasto — é investimento em segurança, durabilidade e continuidade do comércio litorâneo."'
+        }
+    ]
+  },
+  {
+    slug: 'engenharia-rege-sao-domingos-solucao',
+    title: 'Engenharia em São Domingos, Navegantes: Como a Regê Engenharia é a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Engenharia em São Domingos, Navegantes: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'São Domingos é um dos bairros mais dinâmicos de Navegantes, localizado na região central do município com acesso privilegiado às principais vias de conexão do Vale do Itajaí.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'São Domingos é um dos bairros mais dinâmicos de Navegantes, localizado na região central do município com acesso privilegiado às principais vias de conexão do Vale do Itajaí. A região concentra um polo comercial e industrial que demanda serviços de engenharia diversificados e de alta qualidade. Neste artigo, explicamos como a **Regê Engenharia** atua como a solução técnica para todos os tipos de projetos em São Domingos.'
+        },
+        {
+          type: 'heading',
+          text: '1. Por que São Domingos Requer Engenharia Especializada'
+        },
+        {
+          type: 'paragraph',
+          text: 'São Domingos deixou de ser o "bairro periférico" de Navegantes para se tornar um dos endereços que mais cresce no litoral norte de Santa Catarina. Com acesso direto à BR-101, proximidade estratégica com a área industrial e comercial da cidade e um mercado imobiliário em plena valorização — o metro quadrado médio gira entre R$ 7.000 e R$ 12.000 —, o bairro atrai famílias, investidores e empresários que querem construir, reformar ou ampliar com segurança.'
+        },
+        {
+          type: 'paragraph',
+          text: 'No entanto, crescer rápido em uma cidade litorânea exige mais do que pressa: exige **engenharia de qualidade**. E é exatamente isso que separa um imóvel que valoriza de um que vira problema — projeto executivo completo, sondagem correta, especificação adequada à maresia e aprovação na Prefeitura de Navegantes.'
+        },
+        {
+          type: 'quote',
+          text: '"Um projeto de engenharia bem feito não é custo — é o atalho mais barato para a valorização do imóvel."'
+        },
+        {
+          type: 'heading',
+          text: '2. Os Desafios Técnicos Específicos de São Domingos'
+        },
+        {
+          type: 'subheading',
+          text: '2.1. Variações do Solo Local'
+        },
+        {
+          type: 'paragraph',
+          text: 'São Domingos tem variações importantes no solo que exigem atenção técnica:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo misto, com presença de argila — exige estudo de fundação para evitar assentamento diferencial',
+            'Lençol freático relativamente alto em algumas áreas — exige drenagem e impermeabilização corretas',
+            'Terrenos elevados com boa capacidade de suporte — em outros pontos, a fundação é mais simples'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Consequência prática: não dá para reaproveitar a mesma fundação de um projeto de outro terreno. A sondagem define o custo real e a segurança real.'
+        },
+        {
+          type: 'subheading',
+          text: '2.2. A Influência da Maresia do Litoral Norte'
+        },
+        {
+          type: 'paragraph',
+          text: 'Mesmo a alguns quilômetros da orla, a maresia chega a São Domingos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Corrosão acelerada de armaduras e esquadrias',
+            'Necessidade de cobrimento maior (40-60 mm) e concreto com proteção',
+            'Impermeabilização reforçada em áreas úmidas'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Para o engenheiro local, orientar a especificação de materiais "à prova de litoral" é o que garante uma obra que dura 50 anos — e não 10.'
+        },
+        {
+          type: 'heading',
+          text: '3. Como a Regê Engenharia Resolve os Desafios de São Domingos'
+        },
+        {
+          type: 'subheading',
+          text: '3.1. Nossa Abordagem Técnica'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na Regê Engenharia, entendemos que **cada terreno em São Domingos é único**. Não trabalhamos com projetos padronizados — desenvolvemos soluções técnicas específicas para as condições do seu lote.'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio em São Domingos', 'Solução Regê Engenharia'],
+          rows: [
+            ['Solo misto com argila', 'Sondagem geotécnica completa com ensaios de Atterberg e projeto de fundação personalizado'],
+            ['Lençol freático alto', 'Projeto de drenagem perimetral + impermeabilização cristalizante em áreas críticas'],
+            ['Influência da maresia', 'Especificação de concreto com aditivo ABR e cobrimento de armadura de no mínimo 60mm'],
+            ['Aprovação na Prefeitura', 'Conhecimento da LC 416/2023 e rotina do SUL para aprovação rápida e sem devoluções'],
+            ['Regularização de obras antigas', 'Projeto de regularização (as-built) com ART e emissão de habite-se']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2. Nosso Portfólio de Serviços em São Domingos'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece o processo completo em São Domingos:'
+        },
+        {
+          type: 'subheading',
+          text: '3.2.1. Engenharia Civil'
+        },
+        {
+          type: 'list',
+          items: [
+            'Construção de residências unifamiliares e multifamiliares',
+            'Edificações comerciais e industriais (galpões, lojas, depósitos)',
+            'Reformas e ampliações de edificações existentes',
+            'Laudos técnicos e perícias judiciais (quando necessário)',
+            'Gerenciamento e acompanhamento de obras (visitas técnicas periódicas, relatórios de progresso)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2.2. Engenharia Estrutural'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto de fundações (sapatas, lajes, estacas) dimensionadas para o solo arenoso/lítico de São Domingos',
+            'Cálculo de estruturas de concreto armado (NBR 6118)',
+            'Projeto de estruturas de aço (NBR 8800) para galpões e coberturas',
+            'Reforço estrutural em edifícios já existentes',
+            'Contenção de encostas e muros de arrimo (quando o terreno exigir)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2.3. Engenharia Elétrica'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos de instalações elétricas prediais (NBR 5410)',
+            'Sistemas de energia solar fotovoltaica (dimensionamento para consumo do imóvel)',
+            'Automação residencial e comercial',
+            'Consultoria em eficiência energética e redução de custos',
+            'Projetos de iluminação pública e paisagística'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2.4. Engenharia Hidráulica e Sanitária'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto de instalações prediais de água fria e quente (NBR 5626)',
+            'Sistema de esgoto sanitário e escoamento de águas pluviais (NBR 8160)',
+            'Projeto de captação e armazenamento de água da chuva',
+            'Sistemas de tratamento de efluentes para indústrias e comércios'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2.5. Engenharia Ambiental'
+        },
+        {
+          type: 'list',
+          items: [
+            'Licenciamento ambiental junto aos órgãos competentes (IMA/SC quando aplicável)',
+            'Estudos de impacto ambiental para novos empreendimentos',
+            'Gestão de resíduos de construção e demolição',
+            'Recuperação de áreas degradadas',
+            'Conformidade com normas ambientais municipais e estaduais'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2.6. Engenharia de Segurança do Trabalho'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudos de condições ambientais do trabalho (LTCAT)',
+            'Programa de Controle Médico de Saúde Ocupacional (PCMSO)',
+            'Programa de Gerenciamento de Riscos de Químicos (PGR)',
+            'Laudos de ruído e iluminação',
+            'Orientação em NRs (Normas Regulamentadoras)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '4. Projetos Típicos em São Domingos e Como a Regê Engenharia Atua'
+        },
+        {
+          type: 'subheading',
+          text: '4.1. Projeto Residencial (Casa Térrea/Sobrado)'
+        },
+        {
+          type: 'paragraph',
+          text: 'O bairro apresenta demanda por:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Casas térreas e sobrados',
+            'Condomínios residenciais fechados',
+            'Edifícios de apartamentos',
+            'Reformas e ampliações'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**O que a Regê Engenharia entrega:**'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Levantamento topográfico do terreno com precisão milimétrica',
+            'Projeto arquitetônico com layout funcional e vistas integradas',
+            'Projeto estrutural com fundações adaptadas ao solo misto de São Domingos',
+            'Projeto elétrico com dimensão de carga e pontos de tomada',
+            'Projeto hidráulico com distribuição de água e esgoto',
+            'Memorial descritivo com lista completa de acabamentos e materiais',
+            'Protocolo, aprovação e alvará na Prefeitura de Navegantes (SUL)',
+            'ART no CREA-SC registrada para todas as disciplinas'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Prazos típicos: Projeto em 20 a 30 dias úteis. Aprovação na Prefeitura, mais 20 a 40 dias conforme complexidade. Projeto completo + aprovado em até 2 meses.'
+        },
+        {
+          type: 'subheading',
+          text: '4.2. Projeto Comercial e Industrial'
+        },
+        {
+          type: 'paragraph',
+          text: 'Demandas específicas do bairro:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Galpões industriais em estrutura metálica',
+            'Lojas e estabelecimentos comerciais',
+            'Depósitos e centros de distribuição',
+            'Escritórios e salas comerciais'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Diferenciais da Regê Engenharia:**'
+        },
+        {
+          type: 'list',
+          items: [
+            'Dimensionamento estrutural para sobrecarga de uso (peso de máquinas, estoques, etc.)',
+            'Projeto de incêndio e AVCB junto ao Corpo de Bombeiros (quando exigido)',
+            'Licenciamento ambiental quando exigido pelo IMA/SC (indústrias e comércio próximo a áreas de preservação)',
+            'Instalações elétricas em média tensão (para galpões de grande porte)',
+            'Projeto de drenagem para áreas industriais (evitando alagamentos durante chuvas intensas)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4.3. Regularização de Obras'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitos imóveis em São Domingos foram construídos sem aprovação. O projeto de regularização da Regê Engenharia resgata a legalidade do imóvel:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Levantamento as-built — Medição do que já foi construído (com scanner 3D quando não houver plantas originais)',
+            'Projeto de regularização — Adequação do existente às normas atuais (LC 416/2023)',
+            'ART de regularização — Responsabilidade técnica para a intervenção',
+            'Protocolo na Prefeitura — Projeto de regularização no SUL',
+            'Habite-se — Emissão após vistoria final e aprovação da documentação'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Benefício: O imóvel de São Domingos sem documentação vale apenas o terreno. Com engenharia e regularização, vale a construção — e pode ser vendido, financiado e herdado com segurança.'
+        },
+        {
+          type: 'heading',
+          text: '5. Custos de Referência para Projetos em São Domingos (2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de projeto', 'Custo de referência'],
+          rows: [
+            ['Projeto arquitetônico (residencial)', 'R$ 60 a R$ 120 por m²'],
+            ['Projeto estrutural', 'R$ 15 a R$ 35 por m²'],
+            ['Projeto elétrico + hidráulico', 'R$ 10 a R$ 20 por m²'],
+            ['Projeto completo (obra residencial)', 'R$ 100 a R$ 250 por m²'],
+            ['Projeto industrial + licenciamento', 'Sob consulta (escopo específico)']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'O investimento é bem menor que o impacto do retrabalho, do embargo ou da desvalorização de um imóvel irregular. Um projeto bem feito custa em média 3% a 5% do total da obra, mas evita perdas de 20% a 50% em casos de não-aprovação ou retrabalho.'
+        },
+        {
+          type: 'heading',
+          text: '6. Por que Escolher a Regê Engenharia para seu Projeto em São Domingos'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Regê Engenharia', 'Mercado geral'],
+          rows: [
+            ['Conhecimento de São Domingos', '✅ Atuação específica no bairro desde 2010', '❓ Variável'],
+            ['ART registrada no CREA-SC', '✅ Todas as atividades têm responsável técnico', '⚠️ Variável'],
+            ['Conhecimento da LC 416/2023', '✅ Rotina de aprovação no SUL', '❓ Desconhecido'],
+            ['Sondagem geotécnica', '✅ Obrigatória em todos os projetos estruturais', '⚠️ Opcional em muitos casos'],
+            ['Entrega integrada', '✅ Civil + Estrutural + Elétrica + Hidráulica em um só lugar', '❌ Muitas vezes fragmentado'],
+            ['Acompanhamento de obra', '✅ Visitas técnicas periódicas + relatórios', '⚠️ Execução entregue ao cliente'],
+            ['Prazos comprometidos', '✅ Projeto em 20-30 dias, aprovação em 20-40 dias', '❓ Variável'],
+            ['Garantia técnica', '✅ Laudo de conclusão + recomendações de manutenção', '❓ Não oferecido']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Crescer rápido é uma oportunidade; crescer bem é uma decisão técnica. Em São Domingos, projeto de qualidade é o nome da decisão."'
+        },
+        {
+          type: 'heading',
+          text: '7. Depoimentos de Clientes em São Domingos'
+        },
+        {
+          type: 'quote',
+          text: '"Tínhamos medo de fazer o projeto para nossa casa em São Domingos — ouvi dizer que a prefeitura atrasa muito. A Regê Engenharia fez todo o projeto em 25 dias e a aprovação veio em 30 dias. Nada de devolução, nada de correção. Foi fluido do início ao fim." — Cliente residencial'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos regularizar uma obra que estava parada há 2 anos em São Domingos. A Regê Engenharia fez o projeto de regularização, providenciou a ART e conseguimos o habite-se em 45 dias. O custo foi muito menor do que esperar mais tempo." — Proprietário de empreendimento'
+        },
+        {
+          type: 'quote',
+          text: '"A Regê Engenharia projetou nosso galpão industrial em São Domingos com todo o cuidado estrutural que precisávamos. O projeto foi aprovado na primeira tentativa e a execução da obra foi tranquila. Recomendo para qualquer empresário da região." — Empresário industrial'
+        },
+        {
+          type: 'heading',
+          text: '8. Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: '"Posso construir em São Domingos sem engenheiro?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Não é recomendado.** Além da ilegalidade, a obra envolve riscos de qualidade crítica. Em um bairro em crescimento, com solo misto litorâneo, o erro de projeto é o erro mais caro que existe. A regulamentação exige ART registrada no CREA-SC para emissão de alvará.'
+        },
+        {
+          type: 'subheading',
+          text: '"Quanto tempo leva um projeto em Navegantes (São Domingos)?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'O projeto em si costuma levar de 15 a 45 dias; a aprovação na Prefeitura, mais 20 a 40 dias conforme a complexidade. Projeto completo + aprovado pode levar de 2 a 4 meses no total. A Regê Engenharia costuma entregar projetos mais rápido graças ao conhecimento da rotina do SUL.'
+        },
+        {
+          type: 'subheading',
+          text: '"Preciso da sondagem do terreno?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Depende do porte. Em construções acima de dois pavimentos, e sempre que o solo for variável ou próximo do lençol freático, sim. O engenheiro decide tecnicamente. Em São Domingos, com o solo misto (argila + areia), a sondagem é altamente recomendada em quase todos os projetos residenciais acima de 150 m².'
+        },
+        {
+          type: 'subheading',
+          text: '"Qual a diferença entre arquiteto e engenheiro?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desde que qualificado, o arquiteto cuida da arquitetura e do layout do imóvel, e o engenheiro civil responde pelo estrutural (fundação, vigas, lajes), instalações elétricas e hidráulicas, e acessibilidade. O ideal é projeto completo: arquitetura + engenharia integrada. A Regê Engenharia oferece projetos integrados com parceiros arquitetos ou com equipe completa.'
+        },
+        {
+          type: 'subheading',
+          text: '"O que acontece se eu construir sem projeto aprovado?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Multa, embargo, e, no momento da venda, o imóvel pode valer menos e nem ser financiado. A regularização depois é sempre mais cara que o projeto antecipado. Em São Domingos, onde o crescimento é intenso, um imóvel irregular também tem dificuldade de locação ou revenda.'
+        },
+        {
+          type: 'subheading',
+          text: '"A Regê Engenharia faz projeto para reforma também?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim.** Reformas e ampliações em São Domingos exigem projeto técnico, principalmente quando envolvem:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Remoção ou abertura de paredes (verificação estrutural)',
+            'Ampliação de área construída',
+            'Alteração de instalações elétricas ou hidráulicas',
+            'Adequação de acessibilidade (NBR 9050)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia faz projetos de reforma desde o levantamento medido (medir o existente) até a aprovação final na prefeitura.'
+        },
+        {
+          type: 'heading',
+          text: '9. Como Começar seu Projeto com a Regê Engenharia em São Domingos'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Agende uma consulta — Fale com nossa equipe sobre o tipo de projeto (residencial, comercial, industrial ou regularização)',
+            'Avalie a viabilidade — Nós analisamos seu terreno e as exigências da prefeitura',
+            'Receba um orçamento — Projeto completo com prazos e valores claros, sem surpresas',
+            'Levantamento técnico — Visitamos o terreno para fazer topografia e/ou sondagem (quando necessária)',
+            'Desenvolvimento do projeto — Equipe técnica elabora todas as disciplinas integradas',
+            'Protocolo e aprovação — Gerenciamos todo o processo no SUL da Prefeitura de Navegantes',
+            'Acompanhamento da obra — Visitas técnicas periódicas para garantir a execução conforme o projeto',
+            'Entrega com garantia — Laudo de conclusão e recomendações de manutenção preventiva'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com a nossa equipe de engenharia:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** São Domingos, Navegantes e todo o litoral norte de SC'
+        },
+        {
+          type: 'heading',
+          text: '10. Referências Legais e Técnicas'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes',
+            'Lei Complementar nº 414/2023 — Código Urbanístico do Município de Navegantes',
+            'NBR 6118 — Projeto de estruturas de concreto armado',
+            'NBR 6122 — Projeto e execução de fundações',
+            'NBR 5410 — Instalações elétricas de baixa tensão',
+            'NBR 5626 — Instalação predial de água fria',
+            'NBR 8160 — Sistemas prediais de esgoto sanitário',
+            'NBR 9050 — Acessibilidade',
+            'Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)',
+            'Corpo de Bombeiros de SC — AVCB (Auto de Vistoria do Corpo de Bombeiros)',
+            'IMA/SC — Fundação do Meio Ambiente de Santa Catarina (licenciamento ambiental)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        }
+    ]
+  },
+  {
+    slug: 'engenharia-sustentavel-navegantes-regre-solucao',
+    title: 'Engenharia Sustentável em Navegantes: Construção Responsável para o Futuro',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/obra-residencial.png',
+    imageAlt: 'Engenharia Sustentável em Navegantes: Construção Responsável para o Futuro - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'A engenharia sustentável integra práticas ambientais, sociais e econômicas ao projeto e à execução de obras, visando minimizar impactos e maximizar a eficiência dos recursos.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'A engenharia sustentável integra práticas ambientais, sociais e econômicas ao projeto e à execução de obras, visando minimizar impactos e maximizar a eficiência dos recursos. Em Navegantes, litoral catarinense que combina crescimento urbano com a preservação da Mata Atlântica e do meio marinho, a engenharia sustentável não é apenas uma tendência — é uma necessidade técnica e regulatória. Este artigo explica como engenharia sustentável pode ser aplicada na região e por que a Regê Engenharia é a solução para construção responsável.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é Engenharia Sustentável?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Engenharia sustentável é a prática de projetar, construir e operar edificações e infraestruturas de forma a reduzir impactos ambientais, otimizar o uso de recursos naturais e promover bem-estar social ao longo de todo o ciclo de vida da obra — da concepção à desmontagem ou reutilização.'
+        },
+        {
+          type: 'subheading',
+          text: 'Princípios Fundamentais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Eficiência de Recursos — Otimizar consumo de energia, água e materiais',
+            'Redução de Impactos — Minimizar poluição, resíduos e alteração do solo',
+            'Saúde e Conforto — Garantir qualidade ambiental interna para ocupantes',
+            'Ciclo de Vida Completo — Considerar desde a extração de materiais até a desmontagem futura',
+            'Viabilidade Econômica — Soluções que tenham retorno financeiro ao longo do tempo'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Engenharia Sustentável em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Navegantes enfrenta desafios únicos que tornam a engenharia sustentável essencial:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Maresia e umidade costante — Exigem materiais e revestimentos resistentes à corrosão, reduzindo manutenção e troca prematura',
+            'Solo arenoso e freático elevado — Requerem fundações e drenagem que evitem enchentes e degradação estrutural',
+            'Preservação da Mata Atlântica — Obras próximas a áreas protegidas exigem licenciamento e minimização de intervenção',
+            'Crescimento urbano acelerado — Balanço entre desenvolvimento e preservação ambiental',
+            'Regulamentação cada vez mais rigorosa — Lei Complementar 416/2023 e normas da FATMA exigem itens sustentáveis em projetos'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Principais Práticas de Engenharia Sustentável em Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Prática', 'Benefício', 'Impacto na Região'],
+          rows: [
+            ['Captação de Água da Chuva', 'Redução de 30-50% no consumo de água tratada', 'Crítico em períodos de estiagem litorânea'],
+            ['Drenagem Permeável', 'Refiltre água da chuva, reduzir enchentes', 'Previne alagamentos em áreas baixas de Navegantes'],
+            ['Sistemas de Energia Solar', 'Redução de 40-60% na conta de eletricidade', 'Aproveitamento da alta insolação costeira'],
+            ['Materiais de Construção Sustentáveis', 'Menor pegada de carbono, maior durabilidade', 'Resistência à maresia e reduz manutenção'],
+            ['Muros e Telhados Verdes', 'Isolamento térmico, redução de ilhas de calor', 'Conforto urbano em desenvolvimentos residenciais e comerciais'],
+            ['Gestão de Resíduos de Obra', 'Até 70% dos resíduos encaminhados para reciclagem', 'Conformidade com normas FATMA e CONSES'],
+            ['Iluminação LED e Sensores', 'Redução de 50-70% no consumo de energia artificial', 'Conta de energia reduzida em comércio e condomínios'],
+            ['Projeto Solar Passivo', 'Conforto térmico natural, reduz ar condicionado', 'Aproveitamento da orientação solar em lotes de Navegantes']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Aplicações Práticas'
+        },
+        {
+          type: 'subheading',
+          text: '1. Habitação Residencial'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos com orientação solar adequada para reduzir ganho de calor',
+            'Sistemas de reuso de água de chuveiros e lavagem para irrigação',
+            'Materiais de acabamento resistentes à maresia e fácil manutenção',
+            'Instalação prévia de tubulações para energia solar fotovoltaica'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Comerciais e Condomínios'
+        },
+        {
+          type: 'list',
+          items: [
+            'Sistemes de gestão de energia com monitoramento em tempo real',
+            'Iluminação de áreas comuns com sensores de presença e luz natural',
+            'Drenagem permeável em áreas de circulação e estacionamento',
+            'Certificações ambientais (LEED, Marina Baja) como diferencial de mercado'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Infraestrutura Pública e Urbanismo'
+        },
+        {
+          type: 'list',
+          items: [
+            'Calçadas e áreas verdes com drenagem integrada',
+            'Iluminação pública LED com tecnologia de gestão inteligente',
+            'Mobiliário urbano com materiais reciclados e durabilidade para ambiente litorâneo',
+            'Preservação de áreas de APP (Áreas de Proteção Permanente) em projetos de loteamento'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Benefícios Mensuráveis'
+        },
+        {
+          type: 'subheading',
+          text: 'Financeiros'
+        },
+        {
+          type: 'list',
+          items: [
+            'Economia de energia: 30-60% redução no consumo elétrico',
+            'Economia de água: 40-50% de redução no consumo de água tratada',
+            'Valorização de imóvel: 5-15% de aumento no valor de mercado',
+            'Redução de custos de manutenção: Materiais mais duráveis em ambiente marítimo',
+            'Incentivos fiscais: Benefícios tributários para certificações sustentáveis'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Ambientais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Redução de pegada de carbono: 1 a 3 toneladas de CO₂ por ano em edifícios médios',
+            'Preservação de recursos naturais: Reutilização de água e materiais',
+            'Menor geração de resíduos: Até 70% menos entulho encaminhado ao aterro',
+            'Proteção de áreas preservativas: Intervenção mínima em áreas de risco'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Sociais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Qualidade de vida: Ambientes mais conforturais (temperatura, iluminação, ar)',
+            'Saúde pública: Redução de problemas respiratórios por melhor qualidade do ar interno',
+            'Valorização comunitária: Bairros e cidades mais sustentáveis e atraentes'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Normas e Regulamentações Aplicáveis'
+        },
+        {
+          type: 'subheading',
+          text: 'Nível Nacional'
+        },
+        {
+          type: 'list',
+          items: [
+            'NBR 15575 — Desempenho térmico de edificações residenciais',
+            'NBR 12651 — Cálculo de cargas térmicas',
+            'NBR 13577 — Ventilação natural',
+            'Lei 12.305/2009 — Política Nacional de Resíduos Sólidos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Nível Estadual e Municipal'
+        },
+        {
+          type: 'list',
+          items: [
+            'Lei Estadual 17.470/2015 — Política Estadual de Mudanças Climáticas de SC',
+            'Resolução CONAMA 430/2011 — Diretrizes nacionais sobre resíduos de construção civil',
+            'Código de Obras de Navegantes — Lei Complementar 416/2023',
+            'Normas FATMA — Licenciamento ambiental e proteção da mata atlântica'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Itens Exigidos pelo Código de Obras de Navegantes (LC 416/2023)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Captação de águas pluviais',
+            'Aquecimento solar',
+            'Drenagem permeável',
+            'Gestão de resíduos de obra',
+            'Infraestrutura para telecomunicações'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Aplica Engenharia Sustentável'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia incorpora práticas sustentáveis em todos os projetos:'
+        },
+        {
+          type: 'subheading',
+          text: 'No Projeto Inicial'
+        },
+        {
+          type: 'list',
+          items: [
+            'Orientação solar e estudo de sombreamento para cada lote em Navegantes',
+            'Seleção de materiais com baixa pegada de carbono e resistência à maresia',
+            'Projeto de drenagem permeável e sistemas de captação de água da chuva',
+            'Planejamento de gestão de resíduos desde a fase de execução'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Durante a Execução'
+        },
+        {
+          type: 'list',
+          items: [
+            'Controle rigoroso de geração de resíduos e encaminhamento para reciclagem',
+            'Acompanhamento de consumo de energia e água durante a obra',
+            'Qualidade do ar interno e ventilação natural em ambientes fechados',
+            'Integração de sistemas solares fotovoltaicos e aquecimento solar'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Na Entrega'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo de eficiência energética pronto para certificação',
+            'Manual de operação e manutenção com práticas sustentáveis',
+            'Recomendações para otimização pós-obra',
+            'Orientação sobre certificações ambientais (LEED, Marina Baja)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Estudos de Caso: Regê Engenharia em Ação'
+        },
+        {
+          type: 'subheading',
+          text: 'Habitação Residencial em Loteamento Navegantes'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto: 12 unidades residenciais em loteamento próximo ao centro',
+            'Práticas sustentáveis: Captação de água da chuva, drenagem permeável, orientação solar, materiais resistentes à maresia',
+            'Resultados: Redução estimada de 40% no consumo de água tratada, 35% no consumo elétrico, conformidade total com LC 416/2023'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Desenvolvimento Comercial com Área Verde'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto: Centro comercial com 5 lojas e 200 m² de área verde',
+            'Práticas sustentáveis: Telhado verde, iluminação LED com sensores, reuso de água cinza para irrigação',
+            'Resultados: Área de 5°C a menos nas lojas durante o dia, economia de 50% na irrigação, certificação Marina Baja nível prata'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Reforma com Práticas Sustentáveis'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto: Reforma de casa antiga no centro de Navegantes',
+            'Práticas sustentáveis: Reuso de estruturas existentes, isolamento térmico, nova impermeabilização, energia solar',
+            'Resultados: Conforto térmico melhorado, eliminação de infiltrações, retorno sobre investimento em 4 anos'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Mitos e Verdades sobre Engenharia Sustentável'
+        },
+        {
+          type: 'table',
+          headers: ['Mito', 'Verdade'],
+          rows: [
+            ['"É muito mais caro"', 'Investimento inicial pode ser 5-10% maior, mas retorno ocorre em 3-5 anos através de economia de energia e água'],
+            ['"Materiais sustentáveis são de pior qualidade"', 'Materiais certificados atendem ou superam normas técnicas e duram mais em ambiente litorâneo'],
+            ['"Só funciona em projetos novos"', 'Práticas podem ser aplicadas em reformas e ampliações com grande benefício'],
+            ['"Não faz diferença significativa"', 'Edifícios sustentáveis reduzem 30-50% do consumo de recursos ao longo da vida útil'],
+            ['"É burocracia demais"', 'Normas cada vez mais claras; certificações agregam valor e facilitam licenciamento']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Quando Buscar Engenharia Sustentável em Navegantes'
+        },
+        {
+          type: 'list',
+          items: [
+            'Novo projeto residencial ou comercial — Desde o início, as práticas são mais eficazes e econômicas',
+            'Reforma ou ampliação — Opportunity para melhorar eficiência e reduzir custos operacionais',
+            'Implantação de empresa — Sustentabilidade como diferencial competitivo e requisito de licenciamento',
+            'Transação imobiliária — Imóvel com melhorias sustentáveis tem valor de mercado mais alto',
+            'Exigência municipal — Obras que precisam atender LC 416/2023 ou licenciamento FATMA',
+            'Desejo de redução de custos — Conta de energia e água muito altas para o padrão do imóvel'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: 'Engenharia sustentável é mais cara que a convencional?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não necessariamente. Embora alguns materiais ou sistemas tenham custo inicial mais alto, a economia a longo prazo em energia, água e manutenção geralmente supera o investimento. O retorno sobre investimento costuma ocorrer em 3 a 5 anos através de contas reduzidas. Além, o valor de revenda do imóvel costuma ser 5-15% maior.'
+        },
+        {
+          type: 'subheading',
+          text: 'Quais são as exigências do Código de Obras de Navegantes (LC 416/2023)?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A lei exige itens como captação de águas pluviais, sistemas de aquecimento solar, drenagem permeável, gestão adequada de resíduos de obra e infraestrutura para telecomunicações em projetos novos. A Regê Engenharia garante que seu projeto cumpra todas essas exigências desde a fase de desenho.'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto tempo leva para ver os benefícios financeiros?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Dependendo da prática implementada:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Iluminação LED + sensores: Economia visível na primeira conta de energia (30-50% de redução)',
+            'Captação de água da chuva: Redução na conta de água a partir do primeiro mês de uso',
+            'Energia solar fotovoltaica: Payback típicde de 4 a 7 anos dependendo do tamanho do sistema',
+            'Materiais mais duráveis: Redução de custos de manutenção a partir do 2º ou 3º ano'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'A Regê Engenharia ajuda com certificações ambientais?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. A equipe da Regê Engenharia tem experiência com certificações como LEED e Marina Baja, auxiliando desde o estudo de viabilidade até a documentação para solicitação de certificação. Isso agrega valor significativo ao imóvel e demonstra compromisso com práticas sustentáveis.'
+        },
+        {
+          type: 'subheading',
+          text: 'É necessário fazer grande intervenção no solo para projetos sustentáveis?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não. Muitas práticas sustentáveis buscam minimizar intervenção no solo. Drenagem permeável, captação de água da chuva e orientação solar podem ser integradas ao projeto sem remoção significativa de vegetação ou alteração do relevo. Quando intervenção é necessária, ela é planejada para compensação ambiental.'
+        },
+        {
+          type: 'subheading',
+          text: 'Como a engenharia sustentável lida com o problema da maresia em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A engenharia sustentável em ambiente litorâneo foca em materiais e sistemas resistentes à corrosão por maresia, como:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Ligações e estruturas em aço galvanizado ou inox',
+            'Revestimentos e acabamentos com alta resistência à salinidade',
+            'Sistemas de drenagem que evitam acúmulo de água salgada',
+            'Proteção catódica para estruturas metálicas',
+            'Materiais compósitos e tratados especificamente para ambiente marinho'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'A engenharia sustentável em Navegantes é essencial para equilibrar o crescimento urbano com a preservação do litoral catarinense. Mais do que atender exigências legais, representa uma oportunidade de criar edificações mais eficientes, duráveis e valiosas — tanto financeira quanto ambientalmente.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desde captação de água da chuva até energia solar, drenagem permeável até gestão de resíduos, as práticas sustentáveis oferecem soluções concretas para os desafios únicos da região: maresia, solo arenoso, alta insolação e pressão de preservação ambiental.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia está preparada para transformar seu projeto em um modelo de construção responsável. Nossa equipe combina expertise técnica com conhecimento específico do litoral catarinense para entregar resultados que fazem a diferença no curto e longo prazo.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Engenharia sustentável, construída para durar em Navegantes.**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Estamos à disposição para agendar uma consultoria sustentável e apresentar a melhor proposta para o seu empreendimento. Entre em contato pelos canais oficiais e descubra como a engenharia responsável pode agregar valor ao seu imóvel ao mesmo tempo em que preserva o ambiente que faz de Navegantes um lugar especial.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre engenharia sustentável em Navegantes/SC. Valores e exigências têm referência; consulte o CREA-SC, a Prefeitura de Navegantes e a FATMA para parâmetros atualizados. Projetos sustentáveis seguem normas da ABNT, CONAMA e legislação municipal.*'
+        },
+        {
+          type: 'paragraph',
+          text: '*(Última atualização: agosto 2026)*'
+        }
+    ]
+  },
+  {
+    slug: 'engenheiro-civil-ilhota-regre-solucao',
+    title: 'Engenheiro Civil em Ilhota: Como a Regê Engenharia é a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Engenheiro Civil em Ilhota: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Ilhota, localizada no Vale do Itajaí a poucos quilômetros de Navegantes e Blumenau, vive um momento de expansão urbana e industrial.',
+    readTime: '6 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Ilhota, localizada no Vale do Itajaí a poucos quilômetros de Navegantes e Blumenau, vive um momento de expansão urbana e industrial. Seja para **construir a casa própria**, **regularizar um imóvel**, **ampliar uma indústria** ou **obter licenças ambientais**, a figura do **engenheiro civil com conhecimento local** é indispensável.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia**, com atuação consolidada no litoral e no vale desde 2010, leva a Ilhota a mesma expertise técnica, agilidade na aprovação municipal e compromisso com a durabilidade das obras que já atendeu centenas de clientes na região.'
+        },
+        {
+          type: 'quote',
+          text: '"Engenharia não é commodity. Em Ilhota, onde o rio encontra a cidade e o solo exige respeito, o projeto certo evita retrabalho, multas e riscos." — Regê Engenharia'
+        },
+        {
+          type: 'heading',
+          text: 'Por que contratar engenheiro civil em Ilhota exige conhecimento regional'
+        },
+        {
+          type: 'paragraph',
+          text: 'O município de Ilhota apresenta particularidades que projetos "de prancheta" ignoram:'
+        },
+        {
+          type: 'table',
+          headers: ['Particularidade Local', 'Impacto na Engenharia', 'Solução Regê Engenharia'],
+          rows: [
+            ['Solo aluvial e argiloso (várzea do Rio Itajaí)', 'Baixa capacidade de carga, recalques diferenciais, risco de liquefação', 'Sondagens SPT/SCPT dimensionadas, fundações profundas ou radier com distribuição de tensões'],
+            ['Áreas de inundação e APP', 'Restrições de uso, necessidade de elevação de cotas, licenciamento ambiental', 'Estudo de cheia, projeto compatível com Plano Diretor e legislação ambiental (FATMA/IMA)'],
+            ['Proximidade de rodovias e ferrovia', 'Vibrações, ruído, restrições de recuo, impacto em fundações', 'Análise de vibração, isolamento, projeto de contenção se necessário'],
+            ['Crescimento industrial (Distrito Industrial)', 'Galpões com cargas pesadas, pontes rolantes, pisos industriais', 'Dimensionamento para cargas dinâmicas, juntas de dilatação, especificação de concreto de alto desempenho'],
+            ['Código de Obras e Plano Diretor próprios', 'Parâmetros urbanísticos distintos de Navegantes/Blumenau', 'Projetos elaborados conforme legislação municipal vigente, aprovação em primeira tentativa']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Serviços de Engenharia Civil da Regê Engenharia em Ilhota'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projetos Estruturais e Arquitetônicos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Residencial: casas, sobrados, condomínios (estrutura em concreto armado, alvenaria estrutural, steel frame)',
+            'Comercial/Industrial: galpões, mezaninos, silos, estações de tratamento, pontes rolantes',
+            'Institucional: escolas, postos de saúde, centros comunitários',
+            'Reforma e ampliação: compatibilização com estrutura existente, laudo de viabilidade'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Fundações e Geotecnia'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estudo geotécnico (SPT, CPTu, ensaios de laboratório)',
+            'Projeto de fundações: sapatas, radier, estacas hélice contínua, estacas raiz, micropilotes',
+            'Contenção: muros de arrimo, cortinas atirantadas, solo grampeado',
+            'Monitoramento de recalques e inclinação durante execução'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Regularização de Imóveis e Obras'
+        },
+        {
+          type: 'list',
+          items: [
+            'Lei Complementar 452/2024 (Navegantes) / legislação similar em Ilhota: regularização de obras sem alvará',
+            'Laudo de vistoria (NBR 16.280) e laudo de avaliação (NBR 14.653)',
+            'ART de regularização, projeto de adequação, protocolo na prefeitura',
+            'Habite-se, termo de regularização, certidão de conclusão'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Licenciamento e Aprovação Municipal'
+        },
+        {
+          type: 'list',
+          items: [
+            'Alvará de construção, ampliação, demolição, reforma',
+            'Projetos complementares: hidrossanitário, elétrico, SPDA, combate a incêndio',
+            'Estudo de impacto de vizinhança (EIV) quando exigido',
+            'Acompanhamento do processo até aprovação final'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Laudos e Perícias Técnicas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo de patologias: trincas, infiltrações, corrosão, recalques',
+            'Laudo de vizinhança (NBR 13.752) para obras lindeiras',
+            'Laudo de avaliação imobiliária para financiamento, inventário, compra/venda',
+            'Laudo de segurança do trabalho (NR-10, NR-18, NR-35)',
+            'Perícia judicial e extrajudicial com assistente técnico'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '6. Gerenciamento e Fiscalização de Obras'
+        },
+        {
+          type: 'list',
+          items: [
+            'Planejamento (cronograma físico-financeiro, curva ABC)',
+            'Fiscalização de etapas: fundação, estrutura, vedação, instalações, acabamento',
+            'Controle de qualidade: slump test, tração de aço, integridade de estacas (PIT/PDA)',
+            'Relatórios técnicos quinzenais com fotos, pendências e prazos',
+            'Entrega com "as-built", manual de manutenção, ART de execução'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tabela de Investimento: Serviços de Engenharia em Ilhota (2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Escopo Típico', 'Investimento (R$)', 'Prazo'],
+          rows: [
+            ['Projeto estrutural residencial', 'Casa 100–200 m²', 'R$ 5.000 – R$ 12.000', '15–25 dias'],
+            ['Projeto estrutural galpão/indústria', '500–2.000 m²', 'R$ 15.000 – R$ 40.000', '30–45 dias'],
+            ['Estudo geotécnico (SPT + laudo)', '4–8 sondagens', 'R$ 3.500 – R$ 8.000', '10–15 dias'],
+            ['Projeto de fundações', 'Residencial / Industrial', 'R$ 4.000 – R$ 20.000', '15–30 dias'],
+            ['Regularização de obra (até 200 m²)', 'Laudo + projeto + ART + protocolo', 'R$ 6.000 – R$ 15.000', '30–60 dias'],
+            ['Laudo de patologia/avaliação', 'Vistoria + relatório + ART', 'R$ 2.500 – R$ 6.000', '7–15 dias'],
+            ['Fiscalização de obra (mensal)', 'Visitas semanais + relatórios', 'R$ 3.000 – R$ 8.000/mês', 'Conforme cronograma'],
+            ['Alvará de construção (projeto + protocolo)', 'Arquitetônico + complementares', 'R$ 8.000 – R$ 20.000', '20–40 dias']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referenciais. Orçamento definitivo após visita técnica ou análise de planta/levantamento.'
+        },
+        {
+          type: 'heading',
+          text: 'Diferenciais da Regê Engenharia para Ilhota'
+        },
+        {
+          type: 'table',
+          headers: ['Diferencial', 'O que significa para você'],
+          rows: [
+            ['Conhecimento do solo local', 'Já executamos dezenas de sondagens e projetos em Ilhota (Centro, Baú, Imaruí, Barra do Rio, Espinheiros). Conhecemos a variabilidade do aluvionar.'],
+            ['Relacionamento com a Prefeitura', 'Protocolamos projetos semanalmente; conhecemos o fluxo, os analistas, as exigências do setor de obras e meio ambiente.'],
+            ['Equipe própria multidisciplinar', 'Engenheiros civis, de segurança do trabalho, ambientais, técnicos em edificações — sem "terceirização invisível".'],
+            ['Software BIM e cálculo avançado', 'Projetos em Revit, CYPE, Eberick, SAP2000, Geo5 — compatibilização real, quantitativos precisos.'],
+            ['ART e responsabilidade técnica', 'Toda entrega tem ART registrada no CREA-SC. O engenheiro assina, responde e acompanha.'],
+            ['Atendimento presencial e remoto', 'Escritório de apoio em Navegantes (15 min de Ilhota) + reuniões online, WhatsApp, portal do cliente.']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Erros Comuns em Ilhota (e como a Regê Evita)'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 1: "O pedreiro faz o projeto"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitos proprietários iniciam obra com apenas "croqui do pedreiro". Em Ilhota, com solo mole e áreas de cheia, isso gera:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fundações subdimensionadas → trincas em 6–18 meses',
+            'Obra embargada por falta de alvará → multa + paralisação',
+            'Imóvel impossível de financiar ou vender (sem habite-se)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia**: Projeto completo com ART antes da primeira pá de cal.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 2: Ignorar a cota de inundação'
+        },
+        {
+          type: 'paragraph',
+          text: 'Construir no térreo na cota natural do terreno em área de várzea. **Consequência**: Alagamento recorrente, perda de bens, mofo, desvalorização. **Regê Engenharia**: Consulta mapas de cheia (CEPED/UFSC, Defesa Civil), eleva cota de piso, dimensiona drenagem e bomba de recalque.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 3: Projeto de fundação "copiado" de outra cidade'
+        },
+        {
+          type: 'paragraph',
+          text: 'Usar sapata isolada porque "funcionou em Blumenau" — mas o solo de Ilhota é aluvionar, não residual. **Consequência**: Recalque diferencial, portas travadas, estrutura comprometida. **Regê Engenharia**: Cada projeto nasce do estudo geotécnico **do seu terreno**.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 4: Regularização "por conta própria" sem laudo técnico'
+        },
+        {
+          type: 'paragraph',
+          text: 'Tentar protocolar "projeto as-built" feito por leigo na prefeitura. **Consequência**: Exigências técnicas intermináveis, processo arquivado, multa. **Regê Engenharia**: Laudo de vistoria NBR 16.280 + projeto de adequação + ART + acompanhamento até deferimento.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 5: Galpão industrial sem projeto de piso e fundação para carga dinâmica'
+        },
+        {
+          type: 'paragraph',
+          text: 'Piso de 10 cm sem junta de dilatação, fundação sem verificação de vibração de ponte rolante. **Consequência**: Trincas no piso, falha em base de coluna, parada de produção. **Regê Engenharia**: Projeto de piso industrial (NBR 15.255), fundação para equipamentos, juntas de dilatação dimensionadas.'
+        },
+        {
+          type: 'heading',
+          text: 'Casos Reais: Regê Engenharia em Ilhota'
+        },
+        {
+          type: 'quote',
+          text: 'Caso 1 — Regularização de residência no Baú (2024) Imóvel de 180 m² construído em 2012 sem alvará. Proprietário precisava vender e o banco exigiu habite-se. Regê fez laudo de vistoria, projeto de adequação (incluindo SPDA e hidrossanitário), ARTs e protocolo. Habite-se emitido em 42 dias. Venda concluída.'
+        },
+        {
+          type: 'quote',
+          text: 'Caso 2 — Galpão logístico no Distrito Industrial (2025) 1.200 m² com ponte rolante de 10 ton. Solo argiloso mole a 4m. Regê fez estudo geotécnico (8 SPTs), projeto de estacas hélice contínua + radier de distribuição, piso industrial com juntas metálicas. Obra entregue no prazo, sem patologias em 18 meses de operação.'
+        },
+        {
+          type: 'quote',
+          text: 'Caso 3 — Laudo de patologia em condomínio no Centro (2023) Trincas em paredes de 3 blocos. Regê fez inspeção, ensaios de carbonatação, mapeamento de fissuras. Diagnóstico: recalque diferencial por adensamento de camada argilosa + ausência de junta de dilatação. Solução: injeção de resina + juntas estruturais + monitoramento. Obra de correção 60% mais barata que demolição.'
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Você Precisa de Engenheiro Civil em Ilhota?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você se identifica com **qualquer** item abaixo, a Regê Engenharia pode ajudar:'
+        },
+        {
+          type: 'list',
+          items: [
+            '[ ] Vai construir, ampliar ou reformar (residencial, comercial, industrial)',
+            '[ ] Precisa de alvará de construção ou habite-se',
+            '[ ] Tem obra irregular e quer regularizar (sem multa excessiva, com segurança)',
+            '[ ] Comprou terreno e precisa de estudo de solo antes de projetar',
+            '[ ] Tem trincas, infiltração, recalque e precisa de laudo técnico',
+            '[ ] Vai comprar/vender/financiar imóvel e precisa de laudo de avaliação',
+            '[ ] É construtor/incorporador e precisa de fiscalização técnica independente',
+            '[ ] Tem indústria e precisa de projeto para galpão, piso, contenção, licenciamento ambiental',
+            '[ ] Precisa de laudo de vizinhança (NBR 13.752) para obra lindeira',
+            '[ ] Quer segurança jurídica e técnica — ART, responsabilidade, memória de cálculo'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Ilhota não é "mais uma cidade do vale". Seu solo aluvial, sua dinâmica de cheias, seu crescimento industrial e sua legislação própria exigem **engenharia que conhece o território**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia une **técnica rigorosa (normas ABNT, CREA, legislação)**, **conhecimento de campo (sondagens, obras, vistorias locais)** e **agilidade burocrática (aprovação, regularização, licenciamento)** para entregar projetos que **aprovam, funcionam e duram**.'
+        },
+        {
+          type: 'quote',
+          text: '"Em Ilhota, o rio ensina: quem não respeita o solo, a água e a norma, paga a conta depois. Nós projetamos para que a conta seja apenas o investimento inicial — justo, técnico e definitivo."'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Ilhota, Navegantes, Balneário Camboriú, Itajaí, Blumenau, Gaspar, Brusque e toda a região do Vale do Itajaí e Litoral Norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  },
+  {
+    slug: 'infiltracoes-predios-rege-solucao',
+    title: 'Infiltrações em Prédios em Navegantes: Como a Regê Engenharia é a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Infiltrações em Prédios em Navegantes: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Infiltrações em prédios são um dos problemas mais comuns e preocupantes no litoral de Santa Catarina.',
+    readTime: '10 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Infiltrações em prédios são um dos problemas mais comuns e preocupantes no litoral de Santa Catarina. Em Navegantes, onde o solo arenoso, o lençol freático elevado e a constante exposição à maresia criam as condições perfeitas para o surgimento de vazamentos e umidade em edificações residenciais, comerciais e condomínios. Neste artigo, explicamos as causas, riscos e como a **Regê Engenharia** pode atuar como sua solução definitiva para infiltrações.'
+        },
+        {
+          type: 'heading',
+          text: '1. Tipos de Infiltrações em Prédios'
+        },
+        {
+          type: 'paragraph',
+          text: 'Infiltrações podem ocorrer em diferentes áreas de um edifício, cada uma com características específicas:'
+        },
+        {
+          type: 'subheading',
+          text: '1.1. Infiltração no Telhado e Laje'
+        },
+        {
+          type: 'list',
+          items: [
+            'Principais causas: Impermeabilização inadequada, rachaduras na laje, entupimento de calhas, deterioração de membrana de impermeabilização',
+            'Sinais: Manchas na laje interna, gotas durante chuvas, umidade no céu falso'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '1.2. Infiltração em Paredes e Fachadas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Principais causas: Falhas na capa de vedação, rachaduras nas paredes, falta de manutenção de rejuntes, ação da maresia',
+            'Sinais: Eflorescências (depósitos brancos), descascamento de pintura, manchas alargadas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '1.3. Infiltração em Paredes de Fundação'
+        },
+        {
+          type: 'list',
+          items: [
+            'Principais causas: Umidade ascendente por capilaridade, drenagem inadequada ao redor do prédio, alto lençol freático',
+            'Sinais: Umidade nas bases das paredes, bolor nas partes inferiores, salpicos de água durante solo encharcado'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '1.4. Infiltração em Varandas e Sacadas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Principais causas: Impermeabilização inadequada de piso da varanda, entupimento de rufos, falhas nas juntas de dilatação',
+            'Sinais: Água escorrendo para o interior durante chuvas, mofo nos cantos da varanda'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '1.5. Infiltração entre Unidades (Condomínios)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Principais causas: Falha na separação entre unidades, inadequação no piso de separação, vazamento de unidade vizinha',
+            'Sinais: Manchas que se estendem da parede compartilhada, reclamações de vizinhos'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '2. Principais Causas das Infiltrações em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '2.1. Problemas de Impermeabilização'
+        },
+        {
+          type: 'list',
+          items: [
+            'Impermeabilização mal executada (membrana não aplicada conforme especificação)',
+            'Uso de materiais inadequados para ambiente litorâneo',
+            'Falta de segunda camada de impermeabilização em áreas críticas',
+            'Envelhecimento natural da membrana ao longo dos anos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2.2. Falhas de Projeto e Execução'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto de impermeabilização não adequado ao tipo de solo (arenoso de Navegantes)',
+            'Juntas de dilatação não vedadas corretamente',
+            'Falha em considerar a elevação do lençol freático no projeto',
+            'Execução deficiente durante a construção (ângulos de aplicação, temperatura, umidade)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2.3. Fatores Ambientais Litorâneos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Maresia: O sal acelera a deterioração de membranas e estruturas de concreto',
+            'Chuvas intensas: Eventos cada vez mais frequentes sobrecarregam sistemas de drenagem',
+            'Alto lençol freático: Solo arenoso de Navegantes eleva o risco de umidade ascendente',
+            'Variação de temperatura: Dilatação e contração de materiais criam fissuras'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2.4. Entupimento de Sistemas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Calhas e rufos entupidos com folhas e detritos',
+            'Sondos e drenos obstruídos',
+            'Sistemas de esgoto com problemas que causam refluxo'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '3. Riscos e Consequências das Infiltrações'
+        },
+        {
+          type: 'subheading',
+          text: '3.1. Danos Estruturais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Corrosão de armaduras: A água traz cloretos que corroem a ferragem de concreto armado',
+            'Degradacao do concreto: A penetração de água pode causar desprendimento (spalling) das estruturas',
+            'Assentamentos diferenciais: A ação da água sobre o solo arenoso pode causar movimentação da fundação',
+            'Risco de colapso: Em casos graves, a integridade estrutural pode ser comprometida'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2. Danos ao Patrimônio'
+        },
+        {
+          type: 'list',
+          items: [
+            'Destruição de revestimentos (pintura, azulejo, revestimento de parede)',
+            'Deterioração de esquadrias (portas e janelas)',
+            'Danos a móveis e eletrodomésticos',
+            'Redução do valor de mercado do imóvel'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.3. Riscos à Saúde'
+        },
+        {
+          type: 'list',
+          items: [
+            'Mofo e bolor: Umidade persistente cria ambiente propício para fungos',
+            'Alergias e problemas respiratórios: Esporos de mofo podem causar reações alérgicas',
+            'Contaminação: Água de infiltração pode conter sujeira e patógenos',
+            'Conforto térmico: Ambientes úmidos são mais difíceis de climatizar'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.4. Impacto no Dia a Dia'
+        },
+        {
+          type: 'list',
+          items: [
+            'Prejuízo com reparos emergenciais constantes',
+            'Interdição de áreas afetadas',
+            'Conflitos entre vizinhos/condôminos sobre responsabilidade',
+            'Dificuldade de venda ou financiamento do imóvel'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dado relevante: Em Navegantes, 73% das casas de praia construídas sem projeto técnico apresentam infiltrações graves em até 3 anos (dado do setor da construção civil para o litoral catarinense).'
+        },
+        {
+          type: 'heading',
+          text: '4. Como a Regê Engenharia Resolve Problemas de Infiltração'
+        },
+        {
+          type: 'subheading',
+          text: '4.1. Diagnóstico Técnico Completo'
+        },
+        {
+          type: 'paragraph',
+          text: 'Cada intervenção começa com uma vistoria técnica minuciosa, resultado do qual é emitido um **Laudo de Infiltração** com:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Registro fotográfico detalhado de todas as áreas afetadas',
+            'Mapeamento das fontes de umidade (interno vs. externo)',
+            'Classificação da gravidade (leve, moderada, severa)',
+            'Identificação da causa raiz (não apenas o sintoma)',
+            'Plano de intervenção prioritário com custos estimados'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferencial Regê Engenharia: Laudos técnicos com ART registrada no CREA-SC, aceitos pela Prefeitura de Navegantes e, quando necessário, em âmbito judicial.'
+        },
+        {
+          type: 'subheading',
+          text: '4.2. Projeto de Correção Impermeabilizante'
+        },
+        {
+          type: 'paragraph',
+          text: 'Com base no diagnóstico, a Regê Engenharia elabora projeto de correção considerando:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Materiais adequados ao ambiente litorâneo: Membranas de poliuretano, massa asfáltica modificada, sistemas de impermeabilização líquida de alta durabilidade',
+            'Sistemas de drenagem: Projeto de drenagem perimetral, drenos de deságua, caixas de visita para controle de água',
+            'Sistemas de barreira química: Injeção de resinas impermeabilizantes em frestas e juntas',
+            'Reforço estrutural: Quando necessário, projeto de reforço da estrutura afetada pela umidade'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4.3. Execução e Acompanhamento'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece serviço completo de execução ou fiscalização:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Aplicação de impermeabilização conforme projeto técnico',
+            'Execução de drenagens necessárias',
+            'Substituição de elementos danificados (revestimentos, etc.)',
+            'Acompanhamento da cura e secagem das áreas intervencionadas',
+            'Laudo de conclusão com garantia técnica'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4.4. Regularização Municipal'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitas correções de infiltração exigem aprovação junto à Prefeitura de Navegantes. A Regê Engenharia acompanha todo o processo, desde o estudo técnico até a aprovação do projeto, garantindo que as correções atendam ao **Código de Obras e Urbanismo de Navegantes** (LC 416/2023) e às normas da ABNT (NBR 6118, NBR 9050 - acessibilidade com consideração à umidade, NBR 15575 - conservação predial).'
+        },
+        {
+          type: 'heading',
+          text: '5. Sinais de Alerta: Quando Contratar a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não espere a infiltração evoluir. Entre em contato conosco se observar:'
+        },
+        {
+          type: 'table',
+          headers: ['Sinal', 'Gravidade', 'Ação Recomendada'],
+          rows: [
+            ['Manchas na parede ou teto após chuva', 'Moderada', 'Vistoria técnica em até 30 dias'],
+            ['Gotas dentes durante chuvas intensas', 'Severa', 'Diagnóstico urgente (até 7 dias)'],
+            ['Eflorescências em paredes internas', 'Moderada', 'Diagnóstico e plano de correção'],
+            ['Mofo ou cheiro de umidade em cômodos', 'Moderada', 'Tratamento de saúde + correção da causa'],
+            ['Descolamento de revestimento ou pedaços de concreto', 'Severa', 'Laudo estrutural + correção imediata'],
+            ['Umidade nas bases de paredes', 'Moderada/severa', 'Verificar drenagem e lençol freático'],
+            ['Infiltração que reaparece após reparo', 'Severa', 'Diagnóstico aprofundado (causa não identificada)']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '6. Etapas de Intervenção da Regê Engenharia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Contato preliminar: Agendamento de horário para conversa sobre o caso (telefone ou e-mail)',
+            'Vistoria técnica: Até 3 horas de inspeção no local com equipe especializada em patologia da construção',
+            'Laudo emitido: Em até 10 dias úteis, com diagnóstico completo e plano de ação',
+            'Projeto de correção: Desenvolvimento de projeto impermeabilizante e/or estrutural conforme necessidade',
+            'Aprovação municipal: Acompanhamento junto à Prefeitura de Navegantes (se necessário)',
+            'Execução das correções: Coordenação de obras com empreiteiros de confiança ou execução própria',
+            'Entrega com garantia: Laudo de conclusão e recomendações de manutenção preventiva'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Prazos típicos: Diagnóstico em 10 dias úteis, projeto em 15 dias úteis, execução em 15-30 dias (dependendo da gravidade e área afetada).'
+        },
+        {
+          type: 'heading',
+          text: '7. Comparativo: Fazer vs. Não Fazer a Correção'
+        },
+        {
+          type: 'subheading',
+          text: 'Correto (Com Regê Engenharia)'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Com Diagnóstico e Projeto', 'Sem Diagnóstico'],
+          rows: [
+            ['Custo total', 'Orçamento preciso, intervenção pontual', 'Reparos emergenciais repetidos, custos 3-5x maiores'],
+            ['Tempo', 'Correção em 1 única intervenção', 'Problemas reaparecem, ciclo interminável'],
+            ['Durabilidade', 'Solução com garantia de 2-5 anos', 'Problema retorna em 6-18 meses'],
+            ['Impacto estrutural', 'Risco identificado e mitigado', 'Risco de danos irreversíveis à estrutura'],
+            ['Valor do imóvel', 'Imóvel valorizado, documentação em dia', 'Imóvel com patologia, valor reduzido 15-25%'],
+            ['Saúde dos ocupantes', 'Ambiente seco e saudável', 'Risco de mofo e problemas respiratórios']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Erro Comum: "Pintar por cima da mancha"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitos proprietários tentam resolver infiltração apenas com pintura impermeabilizante ou rejunte. Isso **não resolve a causa** e a infiltração retorna em poucos meses, geralmente em área maior. A Regê Engenharia recomenda: **nunca cubra um problema de umidade sem primeiro identificar e corrigir a causa**.'
+        },
+        {
+          type: 'heading',
+          text: '8. Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Tínhamos infiltração constante na sala de nossa casa no litoral de Navegantes. Tentei várias vezes consertar sozinho, mas o problema sempre voltava após a primeira chuva forte. A Regê Engenharia fez o diagnóstico completo, identificou que a causa era a drenagem inadequada ao redor da fundação e executou o projeto de correção. Hoje, 2 anos depois, nenhuma gota. Valeu cada centavo." — Cliente residencial'
+        },
+        {
+          type: 'quote',
+          text: '"O condomínio apresentava infiltração nas áreas comuns da garagem. As paredes estavam com eflorescências e o cheiro de mofo era forte. A Regê Engenharia fez laudo técnico, identificou a causa e propôs o projeto de impermeabilização e drenagem. As correções foram feitas em menos de 1 mês e desde então não tivemos mais nenhum problema. Recomendo para qualquer condomínio que enfrente esse tipo de situação." — Síndico de condomínio'
+        },
+        {
+          type: 'quote',
+          text: '"Descobrimos infiltração na parede separando nossas unidades. Não sabíamos se era problema da nossa unidade ou do vizinho. A Regê Engenharia fez o diagnóstico preciso, identificou a falha na separação entre unidades e propôs o projeto de correção. Tudo ficou registrado em laudo e aprovado pela prefeitura. Problema resolvido definitivamente." — Proprietário de apartamento'
+        },
+        {
+          type: 'heading',
+          text: '9. Frequently Asked Questions'
+        },
+        {
+          type: 'subheading',
+          text: '"Precisa de engenheiro para infiltração?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim.** Infiltração em prédio é problema de engenharia. A causa raiz deve ser identificada por profissional qualificado, com emissão de ART (Anotação de Responsabilidade Técnica) no CREA-SC. Tentar consertar sem diagnóstico técnico costuma ser temporário e mais caro a longo prazo.'
+        },
+        {
+          type: 'subheading',
+          text: '"Quanto custa consertar uma infiltração em Navegantes?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'O custo varia amplamente dependendo da causa e da extensão:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Diagnóstico técnico: R$ 800 a R$ 5.000 (dependendo da complexidade e número de áreas)',
+            'Impermeabilização pontual (áreas pequenas): R$ 1.000 a R$ 5.000',
+            'Impermeabilização completa de laje: R$ 5.000 a R$ 15.000+ (dependendo do m² e sistema usado)',
+            'Projeto de drenagem: R$ 2.000 a R$ 10.000 (dependendo do terreno e extensão)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Orçamento personalizado: Entre em contato para avaliação preliminar e orçamento sem compromisso.'
+        },
+        {
+          type: 'subheading',
+          text: '"Infiltração é culpa do vizinho ou da prefeitura?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Pode ser qualquer uma das três partes, dependendo da causa:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Vizinho: Se o vazamento vier de sua unidade (ex: vaso sanitário entupido, tubulação quebrada)',
+            'Prefeitura/Construtora: Se for defeito de construção (impermeabilização inadequada, drenagem mal projetada)',
+            'Condomínio: Se for responsabilidade das áreas comuns (calhas, cobertura, drenagem perimetral)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia faz o diagnóstico técnico para identificar a responsabilidade exata.'
+        },
+        {
+          type: 'subheading',
+          text: '"Quanto tempo demora para resolver uma infiltração?"'
+        },
+        {
+          type: 'list',
+          items: [
+            'Diagnóstico: 7 a 10 dias úteis',
+            'Projeto de correção: 15 a 20 dias úteis (se necessário)',
+            'Execução da correção: 15 a 45 dias (dependendo da gravidade e autorizações necessárias)',
+            'Secagem completa: 15 a 30 dias (dependendo das condições climáticas e ventilação)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '"A garantia cobre infiltração futura?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece garantia de **2 a 5 anos** sobre os serviços de impermeabilização executados, desde que seja realizada manutenção preventiva periódica (limpeza de calhas, vistoria anual de áreas críticas).'
+        },
+        {
+          type: 'subheading',
+          text: '"Preciso sair do imóvel durante as obras?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Depende da gravidade e da área afetada. Em muitos casos, as correções podem ser feitas sem exigir desocupação total. A Regê Engenharia avalia cada caso e propõe a solução com menor impacto possível no dia a dia dos moradores.'
+        },
+        {
+          type: 'heading',
+          text: '10. Checklist de Prevenção: Evite Infiltrações'
+        },
+        {
+          type: 'table',
+          headers: ['✅', 'Item de Prevenção', 'Frequência'],
+          rows: [
+            ['1', 'Limpeza de calhas e rufos', '2x/ano (antes da temporada de chuvas)'],
+            ['2', 'Vistoria de membranas de impermeabilização', 'A cada 2 anos'],
+            ['3', 'Verificação de juntas de dilatação', 'A cada 2 anos'],
+            ['4', 'Limpeza de ralos e sondos', '4x/ano'],
+            ['5', 'Podas de árvores próximas ao prédio', 'Según crescimento'],
+            ['6', 'Verificação de pinturas de fachada', 'A cada 5 anos'],
+            ['7', 'Monitoramento de umidade interna', 'Contínuo (atentar manchas)'],
+            ['8', 'Verificação de vedação de esquadrias', 'A cada 2 anos']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica de ouro: Agende uma vistoria preventiva anual com a Regê Engenharia. Custo da prevenção é muito menor que custo da correção emergencial.'
+        },
+        {
+          type: 'heading',
+          text: '11. Como Começar com a Regê Engenharia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Agende uma consulta — Fale com nossa equipe sobre o caso de infiltração',
+            'Avalie a situação — Nós analisamos seu prédio e as possíveis causas',
+            'Receba um diagnóstico — Laudo técnico com identificação da causa raiz',
+            'Tenha um projeto — Projeto de correção com prazos e valores claros',
+            'Acompanhe a execução — Nossa equipe coordena todo o processo',
+            'Receba laudo de conclusão — Garantia técnica e recomendações de manutenção'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com o escritório:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Itajaí, Balneário Camboriú, Penha e todo o litoral norte de SC'
+        },
+        {
+          type: 'heading',
+          text: '12. Referências Legais e Técnicas'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes',
+            'Lei Complementar nº 414/2023 — Código Urbanístico de Navegantes',
+            'NBR 9050 — Acessibilidade (consideração à umidade em ambientes internos)',
+            'NBR 15575 — Conservação e manutenção de edificações',
+            'NBR 6118 — Projeto de estruturas de concreto (consideração à ação da umidade)',
+            'NBR 15026 — Drenagem de águas pluviais urbanas',
+            'ABNT NBR 15.421 — Impermeabilização de coberturas e paredes horizontais',
+            'Prefeitura de Navegantes — SUL — Sistema Único de Licenciamento',
+            'CONAMA 307 — Gestão de resíduos de construção e demolição',
+            'Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)',
+            'Technical Guidelines for Building Waterproofing — Technical standards for coastal environments'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Avaliação gratuita preliminar'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entre em contato com a Regê Engenharia para descrever o caso de infiltração. Nossa equipe orienta se é necessário agendar vistoria ou se o problema pode ser sanado com orientações técnicas via fotos e relatos.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Inspeção completa com engenheiro'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agendamos uma vistoria completa no imóvel com nossa equipe de engenheiros especializados em patologia de construções e ambiente litorâneo.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Projeto e implementação da correção'
+        },
+        {
+          type: 'paragraph',
+          text: 'Recebe em até 10 dias úteis o projeto completo com classificação de patologias, plano de manutenção e orçamento detalhado das intervenções.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Execução das correções'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia também oferece execução de serviços de reparo impermeabilizante — tudo com a mesma ART e garantia técnica.'
+        },
+        {
+          type: 'paragraph',
+          text: '🛡 **Proteger seu patrimônio contra as infiltrações do litoral é um investimento, não um custo.** Contacte a Regê Engenharia hoje mesmo.'
+        }
+    ]
+  },
+  {
+    slug: 'licenca-obras-rege-solucao',
+    title: 'Licença de Obras em Navegantes: Como a Regê Engenharia é a Solução',
+    tag: 'LEGISLAÇÃO',
+    image: '/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png',
+    imageAlt: 'Licença de Obras em Navegantes: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre legislação em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Obter a licença de obras (alvará de construção) em Navegantes é o primeiro e mais importante passo para qualquer construção, reforma ou ampliação.',
+    readTime: '6 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Obter a licença de obras (alvará de construção) em Navegantes é o primeiro e mais importante passo para qualquer construção, reforma ou ampliação. No entanto, o processo burocrático pode ser complexo e desafiador para quem não está familiarizado com as exigências da Prefeitura Municipal de Navegantes e do sistema SUL.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, explicamos todo o processo de licença de obras em Navegantes e como a **Regê Engenharia** pode atuar como sua parceira para garantir aprovação rápida, sem devoluções e dentro do prazo.'
+        },
+        {
+          type: 'heading',
+          text: '1. O que é a licença de obras e por que é obrigatória?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **licença de obras** (também chamada de **alvará de construção**) é o documento oficial emitido pela Prefeitura de Navegantes que autoriza a execução de uma obra em um imóvel específico. Ela é obrigatória para:'
+        },
+        {
+          type: 'table',
+          headers: ['Situação', 'Exige licença?', 'Observação'],
+          rows: [
+            ['Nova construção (casa, edifício)', '✅ Sim', 'Sempre'],
+            ['Ampliação (qualquer área adicional)', '✅ Sim', 'Novo m² exigem nova licença'],
+            ['Reforma estrutural (quebra, demolição parcial)', '✅ Sim', 'Alteração na estrutura = licença'],
+            ['Reforma de instalações (elétrica, hidráulica)', '✅ Sim', 'Qualquer alteração em instalações'],
+            ['Impermeabilização', '✅ Sim', 'Técnica específica'],
+            ['Pintura externa', '❌ Não', 'Não altera estrutura'],
+            ['Troca de torneira ou pia', '❌ Não', 'Não altera estrutura']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regra de ouro (LC 416/2023): Em Navegantes, qualquer obra acima de R$ 5.000 exige licença prévia — mesmo reformas "simples". Sem licença, não há habite-se, nem financiamento, nem venda.'
+        },
+        {
+          type: 'heading',
+          text: '2. Documentos exigidos para a licença em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'O processo exige documentação técnica e jurídica. Veja o checklist completo:'
+        },
+        {
+          type: 'subheading',
+          text: 'Documentação do imóvel (cidadão)'
+        },
+        {
+          type: 'table',
+          headers: ['Documento', 'Situação exigida', 'Onde obter'],
+          rows: [
+            ['Matrícula atualizada', 'Sem ônus, penhoras ou embargos', 'Cartório de Registro de Imóveis'],
+            ['Certidão negativa de débitos (IPTU)', 'Em dia', 'Site da Prefeitura de Navegantes / SUL'],
+            ['Escritura ou compra e venda', 'Original + cópia', 'Cartório da comarca'],
+            ['CPF do proprietário', 'Cadastrado no SUL', 'Receita Federal'],
+            ['Comprovante de endereço', 'Do imóvel', 'Conta de água/energia (máximo 90 dias)']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Documentação técnica (engenheiro)'
+        },
+        {
+          type: 'table',
+          headers: ['Documento', 'Obrigatório?', 'Observação'],
+          rows: [
+            ['Projeto executivo completo', '✅ Sim (obras acima de R$ 5.000)', '6 disciplinas: arquitetônico, estrutural, elétrico, hidráulico, acessibilidade, incêndio'],
+            ['ART de projeto', '✅ Sim', 'Emissão antes do protocolo do alvará'],
+            ['ART de execução', '✅ Sim', 'Emissão no início da obra'],
+            ['Topografia atualizada', '✅ Sim (nova construção e ampliação)', 'Levantamento do terreno + planta baixa'],
+            ['Sondagem do solo', '✅ Sim (nova construção)', 'Obrigatória para fundações'],
+            ['Planta baixa do imóvel', '✅ Sim', 'Base para calcular área existente'],
+            ['Memorial descritivo', '✅ Sim', 'Descrição dos materiais e métodos'],
+            ['Cálculo estrutural', '✅ Sim (nova construção e reformas estruturais)', 'Fundamentado na NBR 6118']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica essencial: Ter todos os documentos prontos antes de protocolar. Documentação incompleta é a causa de 60% dos atrasos na licença.'
+        },
+        {
+          type: 'heading',
+          text: '3. Passo a passo: como obter a licença no sistema SUL'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Prefeitura de Navegantes utiliza o **Sistema Único de Licenciamento (SUL)** — acesso totalmente online.'
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 1: Acesse o sistema e cadastre-se'
+        },
+        {
+          type: 'list',
+          items: [
+            'Acesse sul.navegantes.sc.gov.br',
+            'Crie uma conta com CPF e e-mail',
+            'Cadastre o imóvel com matrícula e endereço'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 2: Preencha o requerimento'
+        },
+        {
+          type: 'list',
+          items: [
+            'Selecione o tipo de obra (nova construção, ampliação, reforma)',
+            'Informe a área total e a área a ser construída',
+            'Anexe todos os documentos exigidos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 3: Aguarde a análise técnica'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de obra', 'Prazo médio de análise'],
+          rows: [
+            ['Reforma simples', '10 a 15 dias'],
+            ['Ampliação', '15 a 25 dias'],
+            ['Nova construção', '20 a 30 dias'],
+            ['Projeto com correções', '+10 a 20 dias']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 4: Receba a licença e comece a obra'
+        },
+        {
+          type: 'list',
+          items: [
+            'Imprima a licença (válida por 12 meses)',
+            'Instale a placa de obra na frente do imóvel',
+            'Inicie a obra somente com a licença em mãos'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Nunca comece a obra sem licença. Em Navegantes, o sistema SUL é conectado à fiscalização da cidade — obras sem licença são flagradas automaticamente.'
+        },
+        {
+          type: 'heading',
+          text: '4. Quanto custa a licença em Navegantes?'
+        },
+        {
+          type: 'subheading',
+          text: '4.1. Taxas e emolumentos'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de obra', 'Valor da licença', 'Observação'],
+          rows: [
+            ['Reforma simples (até R$ 10.000)', 'R$ 250 – R$ 500', 'Taxa fixa + emolumento'],
+            ['Reforma média (R$ 10.000 – R$ 30.000)', 'R$ 500 – R$ 1.200', 'Proporcional à área'],
+            ['Nova construção (até 150 m²)', 'R$ 1.200 – R$ 3.000', 'Baseado no m² construído'],
+            ['Nova construção (acima de 150 m²)', 'R$ 3.000 – R$ 6.000', 'Acréscimo para projetos grandes'],
+            ['Reforma com estrutura', 'Acréscimo de R$ 300 – R$ 800', 'Análise estrutural obrigatória'],
+            ['Taxa de vistoria final (habite-se)', 'R$ 200 – R$ 600', 'Cobrada ao final da obra']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4.2. O custo que ninguém fala — e que pode dobrar o valor'
+        },
+        {
+          type: 'table',
+          headers: ['Item', 'Custo adicional', 'Como evitar'],
+          rows: [
+            ['Correção de projeto', 'R$ 500 – R$ 5.000', 'Projeto completo desde o início'],
+            ['Reavaliação técnica', 'R$ 300 – R$ 1.000', 'Documentação completa na 1ª tentativa'],
+            ['Multa por obra irregular', '1 a 10 UFMs (até R$ 50.000)', 'Licença sempre antes de obra'],
+            ['Reimpedimento', 'R$ 500 – R$ 2.000', 'Projeto compatível com o Código de Obras']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regra de ouro: A licença custa 0,3% a 1% do valor da obra. A multa por obra irregular custa 3% a 15% do valor da obra.'
+        },
+        {
+          type: 'heading',
+          text: '5. Riscos de construir sem licença em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Construir sem licença é uma das infrações mais graves na cidade. Na orla do litoral, onde a fiscalização é rigorosa, os riscos são amplificados:'
+        },
+        {
+          type: 'subheading',
+          text: '5.1. Consequências imediatas'
+        },
+        {
+          type: 'table',
+          headers: ['Consequência', 'Impacto', 'Multa típica'],
+          rows: [
+            ['Notificação de infração', 'Paralisação da obra', 'R$ 2.000 – R$ 8.000'],
+            ['Embargo do imóvel', 'Interdição total', 'R$ 500/dia até regularização'],
+            ['Apreensão de materiais', 'Perda de materiais na obra', 'R$ 1.000 – R$ 10.000'],
+            ['Autuação do profissional', 'Suspensão do CREA', 'Multa CREA + processo ético']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5.2. Consequências no longo prazo'
+        },
+        {
+          type: 'table',
+          headers: ['Impacto', 'Descrição', 'Custo estimado'],
+          rows: [
+            ['Impedimento de venda', 'Imóvel não pode ser averbado no cartório', 'Perda total da transação'],
+            ['Negativa de financiamento', 'Bancos exigem licença + habite-se', 'Perda do crédito liberado'],
+            ['Demolição judicial', 'Obra pode ser demolida por ordem judicial', 'R$ 50.000 – R$ 500.000'],
+            ['Responsabilidade civil', 'Danos a terceiros (vizinhos)', 'Ilimitada'],
+            ['Desvalorização do imóvel', '20–40% do valor de mercado', 'Perda de valor']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Caso real: Uma família em São Francisco do Sul construiu sem licença. A prefeitura flagrou durante uma fiscalização de rua → multa de R$ 22.000 + embargo + obrigação de demolição parcial. O custo superou 10x o valor da licença.'
+        },
+        {
+          type: 'heading',
+          text: '6. Como o engenheiro acelera o processo da licença'
+        },
+        {
+          type: 'subheading',
+          text: '6.1. O que o engenheiro faz antes da licença'
+        },
+        {
+          type: 'table',
+          headers: ['Atividade', 'Prazo', 'Resultado'],
+          rows: [
+            ['Análise de zoneamento', '1 dia', 'Garante que o projeto é viável'],
+            ['Sondagem do solo', '3–5 dias', 'Projeto de fundação correto'],
+            ['Topografia a laser', '2–3 dias', 'Planta precisa = aprovação rápida'],
+            ['Projeto completo (6 disciplinas)', '15–30 dias', 'Documentação técnica completa'],
+            ['ART de projeto + execução', 'Imediato', 'Legalidade garantida'],
+            ['Protocolo no SUL', '1 dia', 'Processo iniciado']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica: O engenheiro conhece os atalhos do SUL. Ele sabe o que a prefeitura exige realmente (não no manual, mas na prática).'
+        },
+        {
+          type: 'subheading',
+          text: '6.2. Aprovação na prefeitura: como evitar devoluções'
+        },
+        {
+          type: 'table',
+          headers: ['Erro comum', 'Por que devolve', 'Como o engenheiro evita'],
+          rows: [
+            ['Recuo insuficiente', 'Não respeita a legislação', 'Projeto com recuo calculado no SUL'],
+            ['Taxa de ocupação alta', 'Excede o permitido', 'Cálculo de CO + API'],
+            ['Estrutura sem cálculo', 'NBR 6118 não atendida', 'Memória de cálculo + ART'],
+            ['Instalação elétrica sem seletividade', 'NBR 5410 não cumprida', 'Projeto com DR + curva ABC'],
+            ['Sem acessibilidade', 'NBR 9050 não atendida', 'Rampas + sinalização tátil'],
+            ['ART fora de validade', 'Licença suspensa', 'ART emitida recentemente']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"O engenheiro que conhece o SUL evita 3 a 5 idas e vindas na Prefeitura."'
+        },
+        {
+          type: 'heading',
+          text: '7. A Regê Engenharia como sua solução para a licença de obras'
+        },
+        {
+          type: 'subheading',
+          text: '7.1. Nossa proposta completa'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na Regê Engenharia, entendemos que **a licença de obras é o primeiro passo da sua obra** — e também o mais importante. Por isso, oferecemos um serviço completo que transforma um processo burocrático em algo ágil e seguro.'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'O que inclui', 'Garantia'],
+          rows: [
+            ['Análise de viabilidade', 'Zoneamento, recuos, limites', 'Aprovação na prefeitura'],
+            ['Sondagem + topografia', 'Laboratório credenciado + topógrafo', 'Dados técnicos válidos'],
+            ['Projeto executivo', '6 disciplinas + BIM', 'Planta certa = aprovação rápida'],
+            ['ART + projetos', 'Todos registrados no CREA-SC', 'Legalidade completa'],
+            ['Protocolo no SUL', 'Online + acompanhamento', 'Zero devoluções'],
+            ['Gestão de licença + habite-se', 'Do início ao fim', 'Processo ágil']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '7.2. Prazos reais da Regê'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Prazo', 'Garantia'],
+          rows: [
+            ['Sondagem + topografia', '3–5 dias', 'Laudo com imagem'],
+            ['Projeto completo', '15–30 dias', '6 disciplinas + revisão'],
+            ['Protocolo + aprovação SUL', '15–30 dias', 'Sem devolução'],
+            ['Licença emitida', '+3 dias', 'Pronto para obra'],
+            ['Acompanhamento de obra', 'Durante toda a obra', 'Visitas programadas'],
+            ['Habite-se liberado', '10–20 dias', 'Documentação completa']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Na Regê, a licença não é o fim do processo — é o começo. E garantimos que ela saia certa, rápida e sem surpresas."'
+        },
+        {
+          type: 'subheading',
+          text: '7.3. Depoimentos de clientes'
+        },
+        {
+          type: 'quote',
+          text: '"Estava com medo de fazer o alvará de obras em Navegantes — ouvi dizer que demora meses. A Regê Engenharia assumiu todo o processo, providenciou a ART, revisou o projeto e teve o alvará liberado em 12 dias. Recomendo para qualquer um que busca tranquilidade." — Cliente satisfeito'
+        },
+        {
+          type: 'quote',
+          text: '"Minha obra começou sem alvará e já estava com multa acumulando. A assessoria da Regê Engenharia legalizou tudo, negociou com a prefeitura e evitou a interdição. Hoje a obra está 100% legal e o alvará é do meu nome. Não faço ideia de como teria resolvido sozinho." — Cliente regularizado'
+        },
+        {
+          type: 'quote',
+          text: '"A Regê Engenharia oferece pacotes completos para facilitar a minha vida. Desde a sondagem até a licença emitida, tudo aconteceu em menos de um mês. Profissionais altamente competentes e comprometidos." — Cliente Regê'
+        },
+        {
+          type: 'heading',
+          text: '8. Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: '"Preciso de engenheiro para a licença de obras?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim.** O projeto exigido pelo SUL precisa de ART registrada no CREA-SC. **Escritórios sem CREA ativo não conseguem protocolar projetos no sistema.**'
+        },
+        {
+          type: 'subheading',
+          text: '"Posso fazer a licença sozinho?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim, mas com risco.** Qualquer erro na documentação ou projeto vira devolução + 15 dias de atraso. Com um engenheiro, o processo é **3x mais rápido e com 95% de aprovação na primeira tentativa**.'
+        },
+        {
+          type: 'subheading',
+          text: '"Quanto tempo dura a licença de obras?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'A licença de construção tem validade de **12 meses** para início da obra, e **24 meses** para conclusão. Após esse prazo, é necessário protocolar prorrogação.'
+        },
+        {
+          type: 'subheading',
+          text: '"A licença inclui a aprovação do Corpo de Bombeiros?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Não.** A licença de construção é **documentação separada** do AVCB (Auto de Vistoria do Corpo de Bombeiros). Em Navegantes, obras comerciais e multifamiliares exigem AVCB — o escritório de engenharia cuida de tudo.'
+        },
+        {
+          type: 'subheading',
+          text: '"Posso começar a obra antes da licença?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Nunca.** Em Navegantes, o sistema SUL é conectado à fiscalização. Obras sem licença são flagradas — e as multas são diárias (R$ 500/dia até a legalização).'
+        },
+        {
+          type: 'subheading',
+          text: '"A licença tem validade no litoral?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. A licença emitida pela Prefeitura de Navegantes é válida para **todo o município** — incluindo Navegantes, São Francisco do Sul, Itajaí e regiões do litoral norte.'
+        },
+        {
+          type: 'subheading',
+          text: '"Preciso de sondagem?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim, para nova construção.** Para reformas, a sondagem só é exigida se houver alteração estrutural. **No litoral, a sondagem é o segredo de uma fundação segura.**'
+        },
+        {
+          type: 'heading',
+          text: '9. Checklist: documentação pronta antes do protocolo'
+        },
+        {
+          type: 'table',
+          headers: ['✅', 'Documento', 'Onde conseguir', 'Status'],
+          rows: [
+            ['1', '[ ] Matrícula atualizada do imóvel', 'Cartório de Registro de Imóveis', ''],
+            ['2', '[ ] Certidão negativa de débitos (IPTU)', 'SUL / Prefeitura', ''],
+            ['3', '[ ] Escritura ou compra e venda', 'Cartório da comarca', ''],
+            ['4', '[ ] CPF do proprietário', 'Receita Federal', ''],
+            ['5', '[ ] Comprovante de endereço', 'Conta de água/energia', ''],
+            ['6', '[ ] Projeto executivo (6 disciplinas)', 'Escritório de engenharia', ''],
+            ['7', '[ ] ART de projeto (CREA-SC)', 'Escritório de engenharia', ''],
+            ['8', '[ ] Sondagem do solo', 'Laboratório credenciado', ''],
+            ['9', '[ ] Topografia atualizada', 'Topógrafo registrado', ''],
+            ['10', '[ ] Plantas baixas do imóvel', 'IPTU / Escritura', ''],
+            ['11', '[ ] Memorial descritivo', 'Escritório de engenharia', ''],
+            ['12', '[ ] Cálculo estrutural', 'Escritório de engenharia', '']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Leve tudo pronto. Na Prefeitura de Navegantes, a análise do SUL é 100% documental — documentos faltando = protocolo rejeitado.'
+        },
+        {
+          type: 'heading',
+          text: '10. Por que escolher a Regê Engenharia para sua licença de obras?'
+        },
+        {
+          type: 'table',
+          headers: ['Critério', 'Regê Engenharia', 'Mercado geral'],
+          rows: [
+            ['Experiência no litoral', '15+ anos em Navegantes e região', 'Variável'],
+            ['Conhecimento do SUL', 'Atalhos conhecidos, aprovação rápida', 'Aprendizado por tentativa'],
+            ['ART registrada no CREA-SC', '✅ Sim', '⚠️ Depende do profissional'],
+            ['6 disciplinas técnicas', '✅ Incluídas no projeto', '❌ Muitas vezes extra'],
+            ['Acompanhamento completo', 'Do projeto ao habite-se', '⚠️ Muitas vezes fragmentado'],
+            ['Garantia de aprovação', '95% na primeira tentativa', '60-70% na primeira tentativa'],
+            ['Prazos comprometidos', '15–30 dias para aprovação', '2–4 meses comuns']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '11. Como começar com a Regê Engenharia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Agende uma consulta — Fale com nossa equipe sobre seu projeto',
+            'Avalie a viabilidade — Nós analisamos seu terreno e as exigências da prefeitura',
+            'Receba um orçamento — Projeto completo com prazos e valores claros',
+            'Protocolamos seu pedido — Gerenciamos todo o processo no SUL',
+            'Acompanhamos até a aprovação — Você foco na obra, nós cuidamos da burocracia',
+            'Entregamos a licença — Pronto para iniciar sua obra com total legalidade'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com o escritório:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Itajaí, São Francisco do Sul e todo o litoral norte de SC'
+        },
+        {
+          type: 'heading',
+          text: '12. Referências Legais e Técnicas'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes',
+            'Lei Complementar nº 414/2023 — Código Urbanístico de Navegantes',
+            'Lei Complementar nº 452/2024 — Mecanismo de regularização de obras irregulares',
+            'Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)',
+            'NBR 6118 — Projeto de estruturas de concreto',
+            'NBR 5410 — Instalações elétricas',
+            'NBR 5626 — Instalações de água fria',
+            'NBR 6484 — Sondagem geotécnica',
+            'NBR 9050 — Acessibilidade',
+            'Prefeitura de Navegantes — SUL — Sistema Único de Licenciamento',
+            'CONAMA 307 — Gestão de resíduos de construção'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        }
+    ]
+  },
+  {
+    slug: 'mariaes-construcao-navegantes-regre-solucao',
+    title: 'Proteção contra Maresia em Construções em Navegantes/SC: Como a Regê Engenharia Protege seu Patrimônio',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/Evitando Corrosão e Umidade em Navegantes.png',
+    imageAlt: 'Proteção contra Maresia em Construções em Navegantes/SC: Como a Regê Engenharia Protege seu Patrimônio - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Construir ou reformar em Navegantes/SC significa lidar com um dos ambientes mais desafiadores do litoral brasileiro.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Construir ou reformar em Navegantes/SC significa lidar com um dos ambientes mais desafiadores do litoral brasileiro. A **mariaesia** — a combinação de vento marinho, sal aerosol e umidade constante — é o principal agente de deterioração de construções no litoral catarinense. Neste artigo, explicamos como a maresia afeta edificações e como a **Regê Engenharia** atua como a solução definitiva para proteger seu investimento.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é Maresia e Por Que Ela é Perigosa'
+        },
+        {
+          type: 'paragraph',
+          text: 'A maresia não é apenas "ar salgado". É um fenômeno complexo que ocorre quando gotículas de água do mar, carregadas de íons de sódio e cloro, são projetadas pelo vento e depositadas nas superfícies das construções. Em Navegantes, especialmente nas áreas próximas à orla, ao porto e aos canais (Itapema, Barra do Itapocu, etc.), esse efeito é constante e acumulativo.'
+        },
+        {
+          type: 'subheading',
+          text: 'Por que a maresia é tão destrutiva?'
+        },
+        {
+          type: 'table',
+          headers: ['fator', 'Efeito na Construção'],
+          rows: [
+            ['Cloreto (sal)', 'Penetra na capa de concreto, corroindo a armadura de aço'],
+            ['Sódio', 'Acelera a oxidação e gera expansão interna no concreto'],
+            ['Umidade relativa', 'Acima de 60%, o processo de corrosão se ativa continuamente'],
+            ['Partículas abrasivas', 'Erodem revestimentos, tintas e materiais de acabamento'],
+            ['Ciclos de umidade-seco', 'Favorecem fissuras e descascamento de camadas protetoras']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dado técnico: Em áreas de Classe de Agressividade IV (a mais alta, conforme NBR 6118), a vida útil de uma estrutura de concreto comum pode ser reduzida de 50 anos para 15-20 anos sem proteção adequada. Com as soluções da Regê Engenharia, esse prazo é ampliado para 50+ anos.'
+        },
+        {
+          type: 'heading',
+          text: 'Principais Áreas Afetadas em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Estruturas de Concreto Armado'
+        },
+        {
+          type: 'list',
+          items: [
+            'Pilares, vigas e lajes próximos ao mar desenvolvem trincas por expansão da armadura oxidada',
+            'Fundações em contato com o lençol freático alto sofrem agressão dupla (mariaesia + água subterrânea)',
+            'Passagens de tubulações atravessam paredes de concreto, criando pontos de concentração de sal'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Metais e Elementos Estruturais'
+        },
+        {
+          type: 'list',
+          items: [
+            'Esquadrias de alumínio e aço sofrem corrosão pontual, especialmente em soldas e cortes',
+            'Mecanismos de abertura/fechamento (portas, janelas) traem-se antes do prazo',
+            'Cabos de aço, grades e cercas redor de propriedades'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Revestimentos e Acabamentos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Tintas comuns descascam em 1-2 anos (durariam 10+ em ambiente interno)',
+            'Revestimentos cerâmicos podem descolar se a preparação da superfície não considerar a salinidade',
+            'Pisos externos perdem aderência e apresentam eflorescência salina'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Instalações Elétricas e Hidráulicas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Quadros de distribuição desenvolvem corrosão em terminais e conexões',
+            'Condutores elétricos expostos ou em dutos mal selados sofrem oxidação que compromete a isolamento',
+            'Torneiras, válvulas e bombas têm vida útil reduzida pela corrosão interna'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Protege Sua Construção contra a Maresia'
+        },
+        {
+          type: 'subheading',
+          text: '1. Projeto Estrutural com Proteção Contra Maresia'
+        },
+        {
+          type: 'paragraph',
+          text: '**O Diferencial**: Todos os projetos estruturais da Regê Engenharia para empregados em Navegantes consideram o ambiente litorâneo desde a concepção, não como um adendo posterior.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Nossas ações técnicas**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Especificação de concreto classe adequada: C30/37 ou C35/45 com aditivos hidrofóbos e de baixa permeabilidade ao cloro, em vez do C25 comum usado em interiores',
+            'Cobrimento de armadura reforçado: Capa de concreto sobre a armadura de 50 mm (vs. 25-30 mm em projetos de interior), conforme NBR 6118 para Classe de Agressividade III/IV',
+            'Protetores catódicos: Quando aplicável, projetos preliminares incluem sistemas de proteção catódica impressa para estruturas críticas',
+            'Selantes e impermeabilizantes: Especificação de produtos com base em silicone ou silano/siloxano que impedem a penetração de sal sem bloquear a respiração do concreto'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Proteção de Metais e Elementos de Ferro'
+        },
+        {
+          type: 'table',
+          headers: ['Elemento', 'Tratamento Regê Engenharia', 'Vida Útil Esperada'],
+          rows: [
+            ['Estruturas de aço aparentes', 'Galvanização a fogo + pintura epóxi à base de zinco', '25-30 anos'],
+            ['Esquadrias', 'Anodização ou tratamento térmico + vidros com furo de escape para condensação', '20+ anos'],
+            ['Cabos e grades', 'Imersão em primer zincado + pintura final de poliuretano', '15-20 anos'],
+            ['Parafusos e conectores', 'Aço inox (316L) ou galvanização dupla', '20+ anos']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Sistemas de Impermeabilização e Proteção de Superfície'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia especifica sistemas completos de proteção que atuam como barreira física e química contra a maresia:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Impressão de superfície: Produtos penetrantes baseados em silanos/silanos que fecham os poros do concreto sem formar filme superficial que possa descascar',
+            'Sistemas de revestimento: Camadas de acrílico ou poliuretano de alta construção com proteção UV e resistência química ao cloro',
+            'Drenagem adequada: Projeto de calhas, rufos e sistemas de drenagem que mantém a água da chuva e do mar longe das superfícies vulneráveis',
+            'Juntas de dilatação: Projetadas com materiais compatíveis com o ambiente litorâneo, evitando rachaduras que permitam a entrada de sal'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Especificação de Materiais Corretos'
+        },
+        {
+          type: 'quote',
+          text: 'Regra de ouro da Regê Engenharia: "Nunca use material \'padrão\' para ambiente litorâneo". Cada produto é selecionado baseado em ensaios de resistência à corrosão em condições simuladas de maresia.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Materiais que especificamos**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Concreto: Classes C30/37+ com aditivos microsilicos ou voo de escala, redução de w/c (água/cimento) para < 0,45',
+            'Armadura: Aço carbonato com revestimento epóxi + galvanização, ou aço inoxidável 316L em áreas críticas',
+            'Tubulações: PVC-U ou PEAD para instalações externas; aço galvanizado ou inox para estruturais aparentes',
+            'Tintas e revestimentos: Sistemas de 3 camadas (primário zinicado + intermediário + acabamento poliuretano) com espessura mínima de 150μm',
+            'Selantes: Silanos/siloxanos de penetração livre, não-formadores de filme'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Drenagem e Gestão de Água'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia projeta sistemas que evitam o acúmulo de água salgada sobre superfícies vulneráveis:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Calhas e rufos dimensionados para chuvas intensas com revestimento interno resistente a sal',
+            'Inclinação de lajes e telhados (>2%) para evitar água parada',
+            'Sistemas de captação e reuso de águas pluviais com filtros que retêm partículas de sal',
+            'Projeto de áreas permeáveis ao redor da construção para reduzir escoamento direto sobre estruturas'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Comparativo: Com vs. Sem Proteção Contra Maresia'
+        },
+        {
+          type: 'table',
+          headers: ['Item', 'Sem Proteção (Projeto Padrão)', 'Com Soluções Regê Engenharia'],
+          rows: [
+            ['Classe de concreto', 'C25 (padrão)', 'C30/37+ com aditivos'],
+            ['Cobrimento da armadura', '25-30 mm', '50 mm (reforçado)'],
+            ['Vida útil estimada', '15-20 anos', '50+ anos'],
+            ['Manutenção a cada 5 anos', 'Necessária (reparos emergenciais)', 'Inspeção visual simples'],
+            ['Custo de manutenção em 20 anos', 'R$ 50.000+ (dependendo do tamanho)', 'R$ 15.000 (inspeção e manutenção preventiva)'],
+            ['Risco de colapso estrutural', 'Alto após 20 anos em litoral', 'Baíssimo com projeto adequado'],
+            ['Valor de revenda do imóvel', 'Descontado 20-30% por patologias', 'Mantido integralmente']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Economia real: Investir em proteção contra maresia durante o projeto custa em média 15-20% a mais sobre o valor do concreto estrutural, mas evita custos de reparos emergenciais que podem atingir 100% do valor da estrutura em 20 anos. O ROI (retorno sobre investimento) é comprovado em mais de 200 obras concluídas em Navegantes desde 2016.'
+        },
+        {
+          type: 'heading',
+          text: 'Casos de Sucesso: Obras Protegidas contra Maresia pela Regê Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 1: Condomínio Residencial na Orla de Itapema (2023)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: 12 prédios de 8 andares cada, a apenas 300m do mar, com histórico de descascamento de fachada em 3 anos em empreendimentos vizinhos',
+            'Solução Regê: Projeto estrutural com concreto C40/50, cobrimento de armadura de 50 mm, sistema de impermeabilização de 3 camadas e esquadrias com tratamento anticorrosivo',
+            'Resultado: Após 2 anos de ocupação, inspeção mostra zero trincas relacionadas à maresia, facharias com aparência de nova, e sistema de drenagem funcionando dentro do projeto'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 2: Casa de Veraneio em São Domingos (2022)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Casa de 250 m² construída há 8 anos, com evidências claras de corrosão de armadura em pilares da varanda voltada para o mar, risco de embargo pela prefeitura',
+            'Solução Regê: Reforço estrutural com aplicação de primer zincado + pintura epóxi, substituição de 30% da capa de concreto com produto penetrante hidrofóbico, projeto de drenagem corretiva',
+            'Resultado: Após intervenção, inspeção estrutural aprova manutenção preventiva por mais 20 anos sem intervenções maiores. Imóvel regularizado e valorizado em 25%'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 3: Galpão Comercial no Centro de Navegantes (2024)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Galpão de 500 m² com estrutura de aço aparente, pintura original descascada após 4 anos, risco de ferrugem estrutural',
+            'Solução Regê: Desmonte seletivo, tratamento de todas as superfícies de aço com galvanização a fogo + pintura epóxi de alta resistência, substituição de parafusos por inox 316L, projeto de manutenção preventiva anual',
+            'Resultado: Estrutura totalmente reabilitada com garantia de 15 anos contra corrosão. Galpão voltado à atividade principal com interrupção mínima de 15 dias (vs. 6+ meses para reconstrução)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Sua Obra Está Preparada para a Maresia?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Responda estas 7 perguntas para saber se sua construção tem proteção adequada:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            '✅ A classe do concreto projetado é C30/37 ou superior para áreas dentro de 500m do mar?',
+            '✅ O cobrimento da armadura é de no mínimo 50 mm nas faces expostas à maresia?',
+            '✅ As esquadrias têm tratamento anticorrosivo ou são de alumínio com quebra-termal adequada?',
+            '✅ As tintas e revestimentos são específicados para "ambiente litorâneo" ou "alta resistência à intempéries"?',
+            '✅ O projeto de drenagem inclui calhas e rufos que evitam acumulação de água sobre estruturas?',
+            '✅ Os parafusos e conectores metálicos são de aço inox (316L) ou galvanizados duplamente?',
+            '✅ Já foi feita a especificação de impermeabilizantes penetrantes (silano/siloxano) e não formais de filme?'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Se você respondeu "Não" a mais de 2 dessas perguntas**, sua obra tem risco elevado de patologias relacionadas à maresia. Entre em contato com a Regê Engenharia para uma análise técnica.'
+        },
+        {
+          type: 'heading',
+          text: 'Como Solicitar uma Análise de Proteção Contra Maresia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Agende uma visita técnica — nossa equipe vai ao seu canteiro ou imóvel existente avaliar as condições ativas e apontar os principais riscos',
+            'Solicite um relatório de patologias — diagnóstico fotográfico e mapa de áreas vulneráveis com custos de intervenção',
+            'Receba um projeto de reforço ou adequação — com especificação de materiais, prazos e valores por etapa, sem compromisso',
+            'Implemente as correções — Regê Engenharia acompanha a execução para garantir que os projetos sejam seguidos corretamente',
+            'Receba o laudo de conformidade — documento técnico que comprova as melhorias para vistoria, seguro ou venda futura'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Não espere as trincas aparecerem. A proteção contra maresia deve ser considerada desde o projeto inicial. Em Navegantes, prevenir é sempre mais barato do que remediar.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'A maresia é o maior inimigo das construções em Navegantes/SC, mas com as estratégias corretas da **Regê Engenharia**, é possível garantir que sua edificação resista ao ambiente litorâneo por décadas, mantendo sua integridade estrutural, estética e valor de mercado.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nossa abordagem vai além de "passar uma tinta especial". Integramos proteção estrutural, de materiais, de instalações e de drenagem em um projeto coheso, executado com tecnologia de ponta e conhecimento específico do litoral catarinense. Desde o concreto armado até o último parafuso, cada elemento é especificado considerando a realidade da maresia.'
+        },
+        {
+          type: 'paragraph',
+          text: '**O investimento em proteção contra maresia durante o projeto é o menor custo quando comparado aos custos de manutenção corretiva ao longo das décadas**. Em um mercado onde a durabilidade do imóvel impacta diretamente seu valor de revenda e capacidade de financiamento, garantir que sua obra esteja preparada para a maresia é a decisão mais inteligente que você pode tomar.'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com um engenheiro agora**: [WhatsApp] 🌐 **Visite nosso site**: [Site] 📍 **Atendemos**: Navegantes e todo o litoral norte de Santa Catarina'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre proteção contra maresia em construções em Navegantes/SC. Valores e prazos são referências de mercado; consulte o CREA-SC e a Prefeitura de Navegantes para parâmetros atualizados. Última atualização: 2026-08-05.*'
+        }
+    ]
+  },
+  {
+    slug: 'plano-diretor-navegantes-rege-solucao',
+    title: 'Plano Diretor de Navegantes: Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Plano Diretor de Navegantes: Como a Regê Engenharia Pode Ser a Solução - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'A obra paralisada por falta de conformidade com o zoneamento. O terreno que não pode receber a construção dos sonhos por índices restrictivos. A multa pesada por recuo inadequado.',
+    readTime: '8 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'A obra paralisada por falta de conformidade com o zoneamento. O terreno que não pode receber a construção dos sonhos por índices restrictivos. A multa pesada por recuo inadequado. Esses são os pesadelos de quem ignora o **Plano Diretor Municipal de Navegantes** — o documento que define as regras de ouro para qualquer construção no município.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, a **Regê Engenharia** explica o que é o Plano Diretor, como ele impacta suas decisões de obra e por que contar com uma equipe técnica especializada é o caminho mais seguro para evitar prejuízos e garantir que seu projeto seja aprovado na primeira tentativa.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é o Plano Diretor de Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'O **Plano Diretor** é o principal instrumento de planejamento urbano do município, previsto no Estatuto da Cidade (Lei Federal nº 10.257/2001). Obrigatório para cidades com mais de 20 mil habitantes — como Navegantes —, ele funciona como a "constituição" da cidade: define as diretrizes de crescimento, o zoneamento, os parâmetros de construção e as regras de uso e ocupação do solo para todo o território municipal.'
+        },
+        {
+          type: 'subheading',
+          text: 'Três coisas essenciais que o Plano Diretor define:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'O que pode ser feito no terreno (uso) — Residencial, comercial, industrial, misto? Cada zona do município tem uma destinação específica.',
+            'Quanto pode ser construído (índices e gabaritos) — Coeficiente de aproveitamento máximo, taxa de ocupação, altura permitida, número de pavimentos.',
+            'Onde pode ser construído (zoneamento) — Cada bairro de Navegantes tem uma classificação (ZC-1, ZC-2, ZR-1, etc.) com regras particulares.'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Em resumo: nenhuma obra aprovada pela Prefeitura de Navegantes escapa do crivo do Plano Diretor. Todo projeto é medido contra ele — desde o recuo frontal até a altura máxima do edifício.'
+        },
+        {
+          type: 'heading',
+          text: 'Como o Plano Diretor Impacta sua Obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'Ignorar ou desconhecer as regras do Plano Diretor é a causa mais comum de atrasos, multas e até embargo de obras em Navegantes. Veja os principais pontos de impacto:'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'O Que o Plano Diretor Define', 'Risco de Desconhecer'],
+          rows: [
+            ['Uso do solo', 'Destinação residencial, comercial, industrial, áreas de preservação', 'Obra reprovada ou embargada; necessidade de mudança de destinação custosa'],
+            ['Gabarito/altura', 'Número máximo de pavimentos e altura em metros por zona', 'Andares a mais => projeto rejeitado; precisão a menos => retrabalho'],
+            ['Taxa de ocupação', 'Percentual máximo do terreno que pode serBuilt', 'Exceder => multa; ficar abaixo => desperdício de potencial construtivo'],
+            ['Taxa de permeabilidade', 'Percentual mínimo de solo permeável (geralmente 15% a 20%)', 'Alagamentos, habite-se negado, multa ambiental'],
+            ['Recuos', 'Distância mínima da frente, laterais e fundos', 'Vizinhos reclamando, embargo, necessidade de reestrutura'],
+            ['Estética e fachadas', 'Regras de revestimento, cor, forma em zones específicas', 'Projeto não aprovado, adequação cara depois']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Zonas do Plano Diretor de Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Navegantes possui diversas zonas de zoneamento, cada uma com parâmetros específicos. As mais comuns incluem:'
+        },
+        {
+          type: 'table',
+          headers: ['Zona', 'Características Principais', 'Exemplos de Área'],
+          rows: [
+            ['ZC-1', 'Zona Comercial com intensidade média', 'Centro de Navegantes'],
+            ['ZC-2', 'Zona Comercial com intensidade alta', 'próximo ao porto, áreas de comércio'],
+            ['ZR-1', 'Zona Residencial unifamiliar', 'bairros como Gravatá, São Domingos (partes)'],
+            ['ZR-2', 'Zona Residencial multifamiliar', 'condomínios, sobrados'],
+            ['ZR-3', 'Zona Residencial de alto padrão', 'Meia Praia, áreas de alto padrão'],
+            ['ZI', 'Zona Industrial', 'galpões, fábricas, logística'],
+            ['APP', 'Áreas de Preservação Permanente', 'mangues, restingas, encostas íngremes'],
+            ['Orla', 'Faixa costeira', 'imóveis à beira-mar, avenida do farol']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica: O zoneamento do seu terreno determina quase tudo: o que você pode construir, quanto pode investir e qual o retorno esperado. Verifique sempre a classificação antes de comprar ou projetar.'
+        },
+        {
+          type: 'heading',
+          text: 'Erros Comuns Que Geram Prejuízo'
+        },
+        {
+          type: 'paragraph',
+          text: 'Esses são os erros mais frequentes cometidos por quem não consulta o Plano Diretor antes de comprar terreno ou projetar:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Comprar terreno em zona industrial para construir casa — impossível de aprovar sem mudança de destinação.',
+            'Pretender construir 3 pavimentos em zona residencial unifamiliar (ZR-1) — projeto reprovado imediatamente.',
+            'Ignorar a taxa de permeabilidade — habite-se negado, multa ambiental, necessidade de retrofit.',
+            'Não respeitar os recuos obrigatórios — disputa com vizinhos, embargo municipal, necessidade de readequação do projeto.',
+            'Subestimar o coeficiente de aproveitamento — terreno com menos potencial construtivo do que o esperado, impacto no ROI do investimento.',
+            'Construir na orla/restrição sem licença específica — embargo, multa alta, necessidade de regularização ambiental.'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Resolve: O Método em 5 Etapas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia atua para garantir que seu projeto nasce já em conformidade com o Plano Diretor de Navegantes, evitando retrabalho, multas e atrasos. Nosso método:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Análise de Zoneamento e Viabilidade Pré-Projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes mesmo de desenhar, verificamos a classificação do seu terreno no Plano Diretor. Avaliamos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Destinação (uso permitido)',
+            'Índices máximos (gabarito, taxa de ocupação, coeficiente de aproveitamento)',
+            'Restrições específicas (APP, orla, zona costeira)',
+            'Possibilidades de mudança de zoneamento (se houver viabilidade)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Você sabe exatamente o que pode construir naquele terreno antes de assinar o contrato de compra e venda.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Projeto Arquitetônico e Estrutural Planejado'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nossos projetos são desenvolvidos desde o início já em conformidade com:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Cotações de recuos exigidas pelo zoneamento',
+            'Alturas máximas permitidas',
+            'Taxas de ocupação e permeabilidade',
+            'Normas técnicas (NBRs) aplicáveis à sua zona'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Projeto pronto para aprovação na primeira análise municipal — sem surpresas na fiscalização.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Compatibilização de Projetos (Arquitetônico + Estrutural)'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitas obras atrasam porque o projeto arquitetônico não "cas" com o estrutural dentro dos parâmetros do Plano Diretor. Na Regê Engenharia, a compatibilização é feita de forma integrada, garantindo que:'
+        },
+        {
+          type: 'list',
+          items: [
+            'As vigas e colunas não comprometam a área permeável exigida',
+            'As aberturas e fachadas respeitam as restrições estéticas da zona',
+            'O dimensionamento estrutural atende aos requisitos da zona sem desperdício'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Eliminação de conflitos de projeto antes da execução — menos retrabalho, menos custo.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Acompanhamento de Aprovação na Prefeitura'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não entregamos apenas o projeto e sumimos. Acompanhamos cada etapa do processo de aprovação na Prefeitura de Navegantes, respondendo a:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Questões de zoneamento levantadas pelos técnicos',
+            'Solicitações de complementação de documentos',
+            'Verificação de conformidade com o Código de Obras (LC 416/2023)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Interface direta com a prefeitura, resolução rápida de pendências, aprovação mais ágil.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Regularização de Obras Já em Andamento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se sua obra já foi embargada ou está com problemas de conformidade, a Regê Engenharia atua na regularização:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Diagnóstico das desvios em relação ao Plano Diretor',
+            'Projeto de adequação para atender às exigências',
+            'Mediação com a prefeitura para desbloqueio',
+            'Acompanhamento até a emissão do alvará ou habite-se'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Recuperação do andamento da obra com o mínimo de intervenção possível.'
+        },
+        {
+          type: 'heading',
+          text: 'Situações Reais Que a Regê Engenharia Resolve'
+        },
+        {
+          type: 'list',
+          items: [
+            'Terreno zoneado ZR-1 (residencial unifamiliar) comprado para construir um sobrado — reanalisamos a viabilidade, identificamos se há possibilidade de mudança de zoneamento ou se o melhor investimento é um projeto dentro das regras atuais.',
+            'Comercial querer construir três pavimentos em zona ZC-1 — verificamos o coeficiente de aproveitamento, propomos layout que maximize os índices permitidos e projetamos dentro da lei.',
+            'Terreno próximo à orla com restrições de permeabilidade — calculamos a área permeável necessária, projetamos o emprego com as soluções corretas e garantimos o habite-se sem multas ambientais.',
+            'Obra paralisada por falta de conformidade de recuo — diagnosticamos o desvio, projetamos a adequação e acompanhamos a desbloqueio na prefeitura.',
+            'Investidor quer comprar terreno e saber o retorno real — fazemos a análise de potencial construtivo baseado no Plano Diretor, calculamos o valor por metro quadrado potencial e orientamos a melhor estratégia de investimento.'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto custa consultar o Plano Diretor do meu terreno?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A consulta técnica com a Regê Engenharia inclui a verificação completa do zoneamento, índices aplicáveis e viabilidade do projeto por um honorário que se compara ao custo de um projeto retrabalhado ou de multas evitadas. Em quase todos os casos, o investimento na consulta se paga na primeira economia de retrabalho.'
+        },
+        {
+          type: 'subheading',
+          text: 'Posso construir o que quero em qualquer terreno de Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não. Cada terreno tem sua classificação no Plano Diretor, que define o uso permitido, os índices de construção e as restrições. Tentar construir fora das regras garante reprovação, multas e possíveisembargo. A consulta técnica é essencial antes de qualquer decisão.'
+        },
+        {
+          type: 'subheading',
+          text: 'E se o meu terreno tem restrição de APP ou orla?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Restrições de Áreas de Preservação Permanente (APP) ou da faixa de orla são comuns em Navegantes e exigem cuidados especiais. A Regê Engenharia tem experiência em trabalhar nesses cenários, encontrando a melhor solução técnica que atende à legislação sem comprometer seu projeto — seja através de adequação de layout, compensação ambiental ou busca de licenças específicas.'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto tempo leva para aprovar um projeto que respeita o Plano Diretor?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projetos já em conformidade com o Plano Diretor e Código de Obras de Navegantes costumam ter análise mais rápida, pois não geram questionamentos técnicos dos fiscais municipais. Em média, o processo pode variar de 30 a 90 dias dependendo da complexidade e da carga de trabalho da prefeitura, mas a conformidade elimina retrabalho e reanálises.'
+        },
+        {
+          type: 'subheading',
+          text: 'A Regê Engenharia ajuda também em terrenos fora de Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Atendemos todo o Litoral Norte de Santa Catarina: Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras e Barra Velha. Cada município tem seu próprio Plano Diretor e Código de Obras, e nossa equipe conhece as particularidades de cada cidade para orientar seus clientes da mesma forma.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'O **Plano Diretor de Navegantes** é a regra do jogo da cidade. Quem compra terreno, constrói ou investe sem conhecer essas regras está apostando — e as chances de perder são altas. Multas, embargo, retrabalho e perda de potencial construtivo são realidades caras para quem ignora a legislação urbanística.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Com a **Regê Engenharia**, você tem um parceiro técnico que conhece o Plano Diretor na prática — não apenas o teor da lei, mas como ele é aplicado na Prefeitura de Navegantes, como os técnicos fiscalizam e quais são os caminhos mais eficientes para aprovação.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu investimento. Consulte o zoneamento do seu terreno antes de comprar ou projetar. Com a Regê Engenharia, seu projeto nasce já em conformidade, com segurança, economia de tempo e valorização garantida.'
+        },
+        {
+          type: 'paragraph',
+          text: '📱 **WhatsApp**: (47) 99XXX-XXXX 📧 **E-mail**: contato@regeengenharia.com.br 🌐 **Site**: www.regeengenharia.com.br 📍 **Navegantes/SC** — Atendemos todo o Litoral Norte (Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras, Barra Velha)'
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia — Assessoria Técnica, Projetos, Laudos e Execução. Responsável Técnico: Eng. Civ. Osmar Junior.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo técnico para fins educativos. O Plano Diretor Municipal de Navegantes é um documento vivo, sujeito a alterações através de leis complementares e atualizações municipais. Consulte sempre o município e profissionais habilitados para informações atualizadas. Este artigo baseia-se nas normas vigentes e na experiência da Regê Engenharia em Navegantes/SC.*'
+        }
+    ]
+  },
+  {
+    slug: 'projeto-estrutural-regre-solucao-navegantes',
+    title: 'Projeto Estrutural em Navegantes: Como a Regê Engenharia é a Solução para Estruturas Seguras e Duráveis',
+    tag: 'PROJETOS',
+    image: '/images/Trincas e Rachaduras.png',
+    imageAlt: 'Projeto Estrutural em Navegantes: Como a Regê Engenharia é a Solução para Estruturas Seguras e Duráveis - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Em Navegantes, o crescimento acelerado do litoral catarinense — impulsionado pelo Porto de Navegantes, aeroporto internacional e expansão imobiliária ao longo da BR-101 — criou uma demanda sem.',
+    readTime: '7 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, o crescimento acelerado do litoral catarinense — impulsionado pelo Porto de Navegantes, aeroporto internacional e expansão imobiliária ao longo da BR-101 — criou uma demanda sem precedentes por estruturas seguras e bem projetadas. Edifícios residenciais, comerciais, galpões industriais e projetos de contenção costeira precisam de projetos estruturais que considerem as particularidades únicas do ambiente litorâneo: maresia, solos arenosos, variações de nível de água e carga de ventos e ondas.'
+        },
+        {
+          type: 'quote',
+          text: '"Um projeto estrutural bem concebido é o alicerce de toda edificação — e em Navegantes, o solo não perdoa erros de cálculo."'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, apresentamos como a **Regê Engenharia** se destaca como a solução técnica para projetos estruturais em Navegantes, combinando conhecimento técnico especializado, tecnologia BIM e profundo respeito às normas e condições locais.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é um Projeto Estrutural e Por Que é Crítico em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um projeto estrutural define os elementos que suportam e transmitem cargas para o solo, garantindo a segurança, funcionalidade e durabilidade da edificação. Em Navegantes, este processo exige atenção redobrada devido a:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo arenoso de baixa coesão — require fundações profundas e projeto geotécnico especializado',
+            'Maresia e umidade constante — aceleram a corrosão de armaduras e exigem concreto com aditivos específicos',
+            'Carga de vento e ondas — estruturas costeiras e próximas ao mar devem resistir a cargas horizontais adicionais',
+            'Normas ABNT aplicáveis — NBR 6118 (concreto), NBR 8800 (aço), NBR 15575 (desempenho de edificações)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Principais Tipos de Projetos Estruturais em Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Estrutura', 'Aplicação Comum', 'Desafios Específicos de Navegantes'],
+          rows: [
+            ['Fundações profundas', 'Prédios residenciais de vários andares, galpões industriais', 'Estacas em solos arenosos; prevenção de assentamentos diferenciais; sondagens técnicas precisas'],
+            ['Estruturas de concreto armado', 'Edifícios residenciais, muros de arrimo, lajes', 'Proteção contra carbonatação e corrosão por cloretos; cura adequada e espessura de cover'],
+            ['Estruturas de aço', 'Galerias, pontes pedestres, estruturas industriais', 'Sistema de pintura epóxi marinha; prevenção de corrosão por cloretos; inspeção periódica'],
+            ['Muros de arrimo e contenção', 'Estradas, áreas de encostas, praias', 'Pressão do solo arenoso; drenagem integrada; estabilidade contra deslizamentos'],
+            ['Lajes e pavimentos industriais', 'Galpões, pátios, pátios de carga', 'Resistência a cargas concentradas; espessura adequada; juntas de dilatação']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Por que Escolher a Regê Engenharia para Seu Projeto Estrutural'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia se posiciona como a solução ideal para projetos estruturais em Navegantes por cinco pilares principais:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Conhecimento Técnico Local Comprovado'
+        },
+        {
+          type: 'list',
+          items: [
+            'Experiência em solo arenoso do litoral catarinense e suas implicações de projeto',
+            'Domínio das normas NBR 6118, NBR 8800 e NBR 15575 aplicadas ao ambiente marinho',
+            'Histórico de projetos que resistiram às condições climáticas de Navegantes por décadas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Tecnologia BIM (Building Information Modeling)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Modelagem 3D completa com integração de dados estruturais',
+            'Clash detection (detecção de conflitos) entre estruturas, arquitetônica e instalações',
+            'Modelagem 4D (tempo) para sequenciamento de obra e redução de retrabalho',
+            'Orçamento 5D (custo) com estimativa precisa desde a fase de projeto'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Parceria com Engenharia Geotécnica'
+        },
+        {
+          type: 'list',
+          items: [
+            'Levantamento de sondagens e relatórios de solo integrados ao projeto estrutural',
+            'Projeto de fundações compatível com as condições reais do terreno',
+            'Controle de assentamentos e prevenção de fissuras em estruturas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Conformidade Normativa Completa'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos alinhados a todas as normas ABNT vigentes',
+            'ART (Anotação de Responsabilidade Técnica) assinada pelo responsável técnico CREA-SC',
+            'Laudos e certificações para condomínios, prefeituras e seguradoras'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Gestão de Riscos e Qualidade'
+        },
+        {
+          type: 'list',
+          items: [
+            'Controle de qualidade em cada fase do projeto e execução',
+            'Planejamento de mitigação de riscos (clima, solo, materiais)',
+            'Garantia de 12 meses pós-obra com monitoramento e ajustes finos'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Portfólio de Projetos Estruturais da Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia já atuou em diversos tipos de projetos estruturais em Navegantes e litoral catarinense:'
+        },
+        {
+          type: 'subheading',
+          text: 'Edifícios Residenciais e Condomínios'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos de fundações profundas (estacas) para prédios de 4 a 15 andares',
+            'Estruturas de concreto armado otimizadas para custo-benefício',
+            'Integração com sistemas de drenagem e contenção de encostas',
+            'ART assinada e conformidade com Código de Obras de Navegantes (LC 416/2023)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Galpões e Indústrias'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estruturas metálicas e de concreto para galpões logísticos',
+            'Projeto de mezaninos, pontes rolantes e equipamentos de elevação',
+            'Consideração de cargas operacionais e equipamentos de manuseio',
+            'Integração com normas NR-12 e NR-35 para segurança do trabalho'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Estruturas Costeiras e de Contenção'
+        },
+        {
+          type: 'list',
+          items: [
+            'Muros de arrimo para proteção de encostas e áreas de praia',
+            'Estruturas de contenção para áreas de remoção de areia',
+            'Projetos de revestimento e proteção contra erosão marinha',
+            'Integração com estudos de sedimentação e dragagem'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Reformas e Vistorias Técnicas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Avaliação de estruturas existentes para novas cargas ou andares',
+            'Laudos de patologia estrutural (raízes de trincas, fadiga de materiais)',
+            'Reforço estrutural de edificações antigas',
+            'Vistoria pós-eventos climáticos (tempestades, ventos fortes)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tecnologias e Metodologias Utilizadas'
+        },
+        {
+          type: 'subheading',
+          text: 'Modelagem BIM Estrutural'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia utiliza plataformas BIM para garantir precisão e eficiência em todos os projetos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Revit Structure — modelagem 3D inteligente de vigas, colunas, lajes e fundações',
+            'Clash detection — identificação de conflitos antes da execução da obra, reduzindo retrabalho em até 40%',
+            'Integração com cronograma 4D — visualização da evolução da obra ao longo do tempo',
+            'Orçamento 5D — estimativa de custos baseada no modelo quantificado'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Análise e Cálculo Estrutural'
+        },
+        {
+          type: 'list',
+          items: [
+            'Software ETABS — análise de estruturas altas e multidimensionais',
+            'Software SAP2000 — cálculo de estruturas complexas com cargas diversas',
+            'Aplicação de cargas de vento e sismáticas conforme normas NBR 6118 e NBR 14642',
+            'Verificação de serviços limitadores — controle de deflexões, vibrações e assentamentos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Geotecnia Integrada'
+        },
+        {
+          type: 'list',
+          items: [
+            'Parceria com laboratórios de análises de solo para sondagens e testes de resistência',
+            'Projeto de fundações (pau-a-pique, estacas cravadas, estacas perfuradas) baseado em dados reais',
+            'Monitoramento de nível de lençol freático e impacto no projeto estrutural'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como Solicitar um Projeto Estrutural com a Regê Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: 'Passo 1 — Consulta Técnica Inicial'
+        },
+        {
+          type: 'paragraph',
+          text: 'Agende uma reunião de entendimento do projeto. Nesta fase, a Regê Engenharia avalia:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Tipo de edificação (residencial, comercial, industrial)',
+            'Área do terreno e condições preliminares de solo',
+            'Número de pavimentos e cargas esperadas',
+            'Orçamento disponível e prazos estabelecidos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Passo 2 — Levantamento e Estudos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Sondagem de solo — parceria com laboratórios para determinar características do terreno',
+            'Topografia detalhada — modelo digital do terreno e entorno',
+            'Estudo de viabilidade — análise de custo-benefício e cronograma preliminar'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Passo 3 — Projeto Executivo'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvimento completo do projeto estrutural com:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Modelagem BIM 3D em Revit Structure',
+            'Cálculos estruturais detalhados (momentos, cortes, reações)',
+            'Seleção de materiais e especificação de concreto/aço',
+            'Detalhamento de ferragens e conexões',
+            'ART (Anotação de Responsabilidade Técnica) pronta para assinatura',
+            'Alvará junto à prefeitura de Navegantes'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Passo 4 — Acompanhamento da Execução'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fiscalização de serviços de fundação e estrutura',
+            'Controle de qualidade de concreto e ferragens',
+            'Ajustes finos conforme condições de campo',
+            'Laudos de conclusão e entrega de documentação'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Do estudo de solo à assinatura do ART, a Regê Engenharia acompanha cada etapa do seu projeto com transparência e técnica."'
+        },
+        {
+          type: 'subheading',
+          text: 'Investimento e Prazos Estimados'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Projeto', 'Duração Estimada', 'Fatores que Influenciam o Custo'],
+          rows: [
+            ['Casa residencial', '2-4 meses', 'Área do terreno, tipo de fundação, complexidade arquitetônica'],
+            ['Predial médio (3-6 andares)', '4-8 meses', 'Número de unidades, tipo de estrutura, especificações de acabamento'],
+            ['Galpão industrial', '3-6 meses', 'Área coberta, altura livre, equipamentos de manuseio, carga operacional'],
+            ['Estrutura costeira', '6-12 meses', 'Tipo de estrutura, condições do solo marinho, licenciamento ambiental']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Cada projeto é único. Os prazos acima são baseados em projetos similares em Navegantes — o tempo exato depende da complexidade, área e condições específicas do local."'
+        },
+        {
+          type: 'heading',
+          text: 'Depoimentos de Clientes'
+        },
+        {
+          type: 'quote',
+          text: '"A Regê Engenharia projetou a fundação do nosso prédio de 8 andares em Navegantes com precisão técnica e entregou dentro do prazo. A integração com o BIM facilitou muito a coordenação com a arquitetura e as instalações." — Síndico de condomínio residencial, Meia Praia'
+        },
+        {
+          type: 'quote',
+          text: '"Precisávamos de um galpão industrial com estrutura metálica resistente ao clima litorâneo. A Regê Engenharia entregou um projeto robusto, com especificação correta de pintura epóxi e todos os laudos em dia. Recomendo fortemente." — Proprietário de galpão logístico, bairro Machados'
+        },
+        {
+          type: 'quote',
+          text: '"A vistoria técnica que solicitamos apontou alguns pontos que poderiam se tornar graves daqui a alguns anos. A Regê Engenharia fez o reforço estrutural necessário com mínimo impacto nas atividades do nosso comércio." — Donos de loja center, Centro de Navegantes'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um projeto estrutural bem executado é o diferencial entre uma obra que durará décadas e uma que apresentará problemas nos primeiros anos. Em Navegantes, onde as condições do solo e do ambiente marinho exigem conhecimento técnico especializado, a escolha do parceiro certo faz toda a diferença.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** coloca à disposição sua equipe técnica qualificada, tecnologia BIM de ponta e profundo conhecimento das particularidades de Navegantes para garantir que sua estrutura não apenas atenda às normas, mas ofereça segurança, durabilidade e retorno garantido sobre o investimento.'
+        },
+        {
+          type: 'quote',
+          text: '"Estrutura de qualidade é o legado que você deixa para quem vem depois. Na Regê Engenharia, cada projeto é tratado como se fosse o nosso próprio."'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você planeja construir ou reformar em Navegantes, entre em contato com a Regê Engenharia para uma consulta técnica sem compromisso e descubra como podemos transformar sua visão em uma estrutura segura e duradoura.'
+        },
+        {
+          type: 'heading',
+          text: 'Referências'
+        },
+        {
+          type: 'list',
+          items: [
+            'NBR 6118 — Projeto de estruturas de concreto',
+            'NBR 8800 — Projeto de estruturas de aço',
+            'NBR 15575 — Desempenho de edificações',
+            'NBR 12727 — Fundação de edifícios',
+            'CREA-SC — Conselho Regional de Engenharia e Agronomia de Santa Catarina',
+            'Código de Obras de Navegantes — Lei Complementar nº 416/2023',
+            'FATMA — Fundação do Meio Ambiente (regulamentação ambiental litoral SC)',
+            'PICA — Associação Brasileira de Cimento Portland',
+            'ABRAA — Associação Brasileira de Alvenaria de Concreto',
+            'Revit Structure — Autodesk (modelagem BIM estrutural)',
+            'ETABS — Computers and Structures, Inc. (análise estrutural)',
+            'SAP2000 — Computers and Structures, Inc. (análise e projeto estrutural)'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre Projeto Estrutural em Navegantes SC — Regê Engenharia como Solução — Atualizado 2026*'
+        },
+        {
+          type: 'quote',
+          text: '"A estrutura é o silêncio que sustenta o ruído da vida na cidade — e um bom projeto é o segredo por trás de cada edifício seguro."'
+        }
+    ]
+  },
+  {
+    slug: 'projeto-fundacoes-navegantes-regre-solucao',
+    title: 'Projeto de Fundações em Navegantes: Como a Regê Engenharia é a Solução',
+    tag: 'GEOTECNIA',
+    image: '/images/Trincas e Rachaduras.png',
+    imageAlt: 'Projeto de Fundações em Navegantes: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre geotecnia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Em Navegantes, o projeto de fundações é a decisão mais crítica de qualquer obra. O litoral norte de Santa Catarina apresenta condições geotécnicas únicas — solo arenoso, lençol freático alto,.',
+    readTime: '5 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, **o projeto de fundações é a decisão mais crítica de qualquer obra**. O litoral norte de Santa Catarina apresenta condições geotécnicas únicas — solo arenoso, lençol freático alto, proximidade do mar e cargas de vento significativas — que tornam a escolha e o dimensionamento correto das fundações a diferença entre um empreendimento seguro e um problema estrutural futuro.'
+        },
+        {
+          type: 'quote',
+          text: '"A fundação é a única parte da obra que não se vê depois de pronta — mas é a que responde por tudo o que se vê." — Regê Engenharia'
+        },
+        {
+          type: 'heading',
+          text: 'Por que o projeto de fundações em Navegantes exige especialização'
+        },
+        {
+          type: 'paragraph',
+          text: 'O ambiente costeiro de Navegantes impõe condições que projetos "genéricos" não consideram:'
+        },
+        {
+          type: 'table',
+          headers: ['Condição Local', 'Impacto nas Fundações', 'Solução Regê Engenharia'],
+          rows: [
+            ['Solo arenoso (SPT baixo)', 'Baixa capacidade de carga, risco de liquefação em sismos', 'Ensaios SPT/SCPT, fundações profundas ou melhoramento de solo'],
+            ['Lençol freático alto (1–3m)', 'Escavações instáveis, empuxo hidrostático, corrosão', 'Rebaixamento temporário, impermeabilização, proteção catódica'],
+            ['Marez e cloretos', 'Corrosão acelerada de armaduras e estacas metálicas', 'Cobrimento aumentado, concreto com aditivos, revestimentos especiais'],
+            ['Vento costeiro (NBR 6120)', 'Cargas laterais e momentos de tombamento significativos', 'Dimensionamento para cargas combinadas, verificação de estabilidade'],
+            ['Obras vizinhas adensadas', 'Recalques diferenciais, impacto em estruturas lindeiras', 'Laudo de vizinhança (NBR 13752), monitoramento durante execução']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tipos de Fundações Mais Usados em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'A escolha do tipo de fundação depende do **estudo geotécnico**, da **carga da estrutura** e da **economia da obra**:'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Fundação', 'Indicação', 'Vantagens', 'Atenção em Navegantes'],
+          rows: [
+            ['Sapata isolada/associada', 'Cargas leves, solo com SPT > 15, lençol freático profundo', 'Baixo custo, execução rápida', 'Raro no litoral; exige estudo rigoroso'],
+            ['Sapata corrida / Viga baldrame', 'Muros, cargas lineares, solo médio', 'Distribui carga linearmente', 'Requer impermeabilização cuidadosa na base'],
+            ['Laje de fundação (radier)', 'Cargas distribuídas, solo fraco, recalques uniformes', 'Excelente para solos arenosos uniformes', 'Impermeabilização total obrigatória; atenção a recalques'],
+            ['Estacas hélice contínua', 'Edifícios, solos moles, lençol freático alto', 'Execução sem vibração, boa em areia', 'Requer revestimento para maresia; controle de concretagem submersa'],
+            ['Estacas raiz / micropilotes', 'Reforço, espaços confinados, cargas pontuais', 'Versátil, pouco vibratório', 'Custo unitário maior; exige injeção controlada'],
+            ['Tirantes / Ancoragens', 'Conteção, taludes, obras subterrâneas', 'Estabiliza escavações profundas', 'Requer projeto de contenção integrado']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Tabela de Custos: Projeto de Fundações em Navegantes (2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Obra', 'Área / Cargas', 'Investimento Projeto (R$)', 'Custo Execução Estimado (R$/m²)', 'Prazo Projeto'],
+          rows: [
+            ['Casa térrea (radier/sapatas)', '80–150 m²', 'R$ 4.000 – R$ 7.000', 'R$ 180 – R$ 300', '10–15 dias'],
+            ['Sobrado 2 pavimentos', '150–250 m²', 'R$ 6.000 – R$ 10.000', 'R$ 220 – R$ 380', '15–20 dias'],
+            ['Edifício 4–8 pavimentos', '400–800 m²', 'R$ 15.000 – R$ 30.000', 'R$ 350 – R$ 550 (estacas)', '25–35 dias'],
+            ['Galpão / Comércio', '500–1.500 m²', 'R$ 12.000 – R$ 25.000', 'R$ 280 – R$ 450', '20–30 dias'],
+            ['Muro de arrimo / Contenção', '50–200 m linear', 'R$ 5.000 – R$ 12.000', 'R$ 400 – R$ 700/m linear', '15–20 dias']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Incluído no projeto da Regê Engenharia: - Estudo geotécnico (SPT, ensaios de laboratório) ou análise de relatórios existentes - Dimensionamento completo com softwares (Geo5, SAP2000, Ftool) - Plantas de locação, cortes, detalhes construtivos - ART registrada no CREA-SC - Memorial de cálculo e relatório técnico para prefeitura'
+        },
+        {
+          type: 'heading',
+          text: 'O Processo Regê Engenharia: Do Solo à Estrutura'
+        },
+        {
+          type: 'subheading',
+          text: '1. Investigação Geotécnica (ou Análise de Dados Existentes)'
+        },
+        {
+          type: 'list',
+          items: [
+            'SPT (Standard Penetration Test) a cada 30–50 m² de área de implantação',
+            'Ensaios de laboratório: granulometria, limite de liquidez/plasticidade, cisalhamento direto',
+            'Nível do lençol freático sazonal (mínimo 2 medições em épocas diferentes)',
+            'Se já houver estudo: revisão crítica e validação dos parâmetros adotados'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Definição do Sistema de Fundações'
+        },
+        {
+          type: 'list',
+          items: [
+            'Análise de alternativas técnicas e econômicas',
+            'Verificação de capacidade de carga última e admissível',
+            'Cálculo de recalques (imediatos e de consolidação)',
+            'Estabilidade global (taludes, empuxo ativo/passivo)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Dimensionamento Estrutural das Fundações'
+        },
+        {
+          type: 'list',
+          items: [
+            'Verificação a tensões normais e tangenciais no solo',
+            'Armadura de fundações (sapatas, blocos, estacas)',
+            'Detalhamento de conexões pilar-fundação',
+            'Verificação de punção em sapatas e radier'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Projeto Executivo e Documentação'
+        },
+        {
+          type: 'list',
+          items: [
+            'Plantas: locação, cortes transversais/longitudinais, detalhes de armação',
+            'Especificações: concreto (f\'ck, slump, aditivos), aço (CA-50/CA-60), cobrimento',
+            'Procedimentos: concretagem submersa, integridade de estacas (PIT/PDA), monitoramento',
+            'ART + Memorial para protocolo na Prefeitura de Navegantes'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Erros Comuns que Comprometem a Obra (e que a Regê Evita)'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 1: "Economizar" no estudo geotécnico'
+        },
+        {
+          type: 'paragraph',
+          text: 'Fazer 1 SPT para uma casa de 200 m² ou usar parâmetros de "livro" para o solo local. **Consequência**: Fundações subdimensionadas → recalques diferenciais → trincas em alvenarias e estrutura. **Regê Engenharia**: Define malha de sondagem conforme NBR 6484 e NBR 12131; não projeta sem conhecer o solo.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 2: Ignorar o lençol freático no dimensionamento'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projetar sapatas "secas" quando o lençol está a 1,5 m da base. **Consequência**: Escavação colapsa, concretagem contaminada, empuxo não considerado → flutuação ou falha. **Regê Engenharia**: Considera nível d\'água de projeto (máximo histórico + margem); prevê rebaixamento e impermeabilização.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 3: Cobrimento de armadura "padrão" em ambiente marinho'
+        },
+        {
+          type: 'paragraph',
+          text: 'Usar 30 mm de cobrimento em estacas ou sapatas expostas à maresia. **Consequência**: Corrosão em 5–10 anos → perda de seção → colapso progressivo. **Regê Engenharia**: Especifica 50–75 mm conforme NBR 6118 para ambientes agressivos; aditivos inibidores de corrosão.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 4: Não verificar recalques diferenciais'
+        },
+        {
+          type: 'paragraph',
+          text: 'Assumir que o solo é uniforme e que todas as fundações assentam igual. **Consequência**: Pisos rachados, portas travadas, danos em acabamentos, processos judiciais. **Regê Engenharia**: Calcula recalques por ponto; limita diferenciais a L/500 (NBR 6122); propõe juntas de dilatação quando necessário.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 5: Executar sem acompanhamento técnico'
+        },
+        {
+          type: 'paragraph',
+          text: 'Confiar apenas na empreiteira para "fazer conforme o projeto". **Consequência**: Desvios de locação, concreto fora de especificação, armadura mal posicionada → retrabalho caro. **Regê Engenharia**: Oferece **fiscalização de fundações** com relatórios fotográficos, conferência de armadura, slump test, registro de concretagem.'
+        },
+        {
+          type: 'heading',
+          text: 'ROI: Investir em Projeto de Fundações vs. Custo de Patologias'
+        },
+        {
+          type: 'table',
+          headers: ['Patologia de Fundação', 'Causa Raiz Comum', 'Custo de Correção (R$)', 'Custo Projeto Preventivo (R$)'],
+          rows: [
+            ['Recalque diferencial > 3 cm', 'Solo não investigado / projeto genérico', '50.000 – 200.000 (injeção, micropilotes, demolição parcial)', '5.000 – 15.000'],
+            ['Corrosão de estacas (10 anos)', 'Cobrimento insuficiente / concreto poroso', '100.000 – 500.000 (reparo catódico, revestimento, substituição)', '8.000 – 20.000'],
+            ['Ruptura de sapata por punção', 'Dimensionamento sem verificação NBR 6118', '30.000 – 80.000 (reforço com chumbadores, novas sapatas)', '4.000 – 10.000'],
+            ['Infiltração em subsolo/radier', 'Impermeabilização mal especificada/executada', '20.000 – 60.000 (injecção, nova impermeabilização)', '3.000 – 8.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Cada real investido em projeto de fundações economiza 10 a 50 reais em retificações — e garante a vida útil do empreendimento."'
+        },
+        {
+          type: 'heading',
+          text: 'Depoimento de Cliente'
+        },
+        {
+          type: 'quote',
+          text: '"Construímos um edifício de 6 pavimentos em Meia Praia. O estudo geotécnico da Regê mostrou que o solo tinha uma camada de argila mole a 8m que ninguém tinha detectado. Mudaram o projeto de sapatas para estacas hélice contínua — custou 15% a mais na fundação, mas evitou um recalque que teria condenado o prédio. A obra saiu no prazo, sem surpresas." — Incorporador, Edifício Residencial Meia Praia, 2025'
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Seu Projeto de Fundações está Completo?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de iniciar a execução, verifique se o projeto contempla:'
+        },
+        {
+          type: 'list',
+          items: [
+            '[ ] Estudo geotécnico válido (SPT + laboratório) para a área exata da implantação',
+            '[ ] Nível d\'água de projeto definido com base em histórico, não em medição pontual',
+            '[ ] Tipo de fundação justificado tecnicamente (não apenas "mais barato")',
+            '[ ] Cargas de vento consideradas no dimensionamento (NBR 6120)',
+            '[ ] Recalques calculados (totais e diferenciais) com limites NBR 6122',
+            '[ ] Cobrimento de armadura especificado para ambiente marinho (≥ 50 mm)',
+            '[ ] Concreto especificado com f\'ck, relação a/c, aditivos para durabilidade',
+            '[ ] Procedimento de concretagem para estacas/radier submersos (tremonha, bomba)',
+            '[ ] Controle de integridade previsto (PIT, PDA, ou ensaio de carga)',
+            '[ ] Laudo de vizinhança (NBR 13752) se houver imóveis lindeiros a < 3m',
+            '[ ] ART registrada e projeto protocolado na Prefeitura de Navegantes',
+            '[ ] Plano de monitoramento durante execução (recalques, inclinação, vibração)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, **não existe "projeto de fundação padrão"**. Cada terreno tem sua geologia, cada estrutura tem suas cargas, e o ambiente marinho não perdoa erros de dimensionamento ou execução.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia entrega **projetos de fundação baseados em dados reais de solo, dimensionados para as cargas reais da estrutura e especificados para durar 50+ anos no litoral** — com ART, documentação legal completa e suporte técnico durante a execução.'
+        },
+        {
+          type: 'quote',
+          text: '"Fundações não aceitam \'jeitinho\'. Ou estão certas desde o projeto, ou a obra inteira pagará o preço."'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Balneário Camboriú, Itajaí, Penha e toda a região do litoral norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  },
+  {
+    slug: 'projeto-hidrossanitario-navegantes-norma-nova-legionela',
+    title: 'Projeto Hidrossanitário em Navegantes: Norma Nova, Legionela e Casa de Praia',
+    tag: 'PROJETOS',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Projeto Hidrossanitário em Navegantes: Norma Nova, Legionela e Casa de Praia - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'A NBR 9649 foi cancelada: quem projeta hidrossanitário em Navegantes hoje precisa da NBR 5626:2020 — e da NBR 16824, que trata de legionelose.',
+    readTime: '14 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'A NBR 9649 foi cancelada: quem projeta hidrossanitário em Navegantes hoje precisa da NBR 5626:2020 — e da NBR 16824, que trata de legionelose.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Para quem projeta ou contrata projeto hidráulico no Litoral Norte de Santa Catarina, essa é a mudança mais importante dos últimos anos — e quase ninguém comunica direito. A antiga NBR 9649 deixou de valer. A NBR 5626:2020 assumiu o comando da água fria e da água quente, trouxe exigências novas de documentação e manutenção, e passou a tratar formalmente do controle de biofilme, que é a porta de entrada da legionelose em edifício.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes isso encontra o pior cenário possível: cidade litorânea, com maresia, solo arenoso, lençol freático raso e um grande estoque de casas de praia que passam meses com a rede de água parada. É a combinação exata que produz vazamento oculto, infiltração e risco sanitário.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Este guia mostra qual norma se aplica, o que ela exige de projeto que a antiga não exigia, por que a legionelose precisa entrar na lista, e o que a Regê Engenharia entrega para tirar a ideia do papel e levar até a obra concluída.'
+        },
+        {
+          type: 'heading',
+          text: '1. O que mudou: a NBR 9649 foi cancelada'
+        },
+        {
+          type: 'paragraph',
+          text: 'A confusão entre profissionais é compreensível porque boa parte do material de escritório, dos modelos de projeto e de muitos vídeos ainda cita NBR 9649. O cenário real hoje é outro:'
+        },
+        {
+          type: 'table',
+          headers: ['Norma', 'Situação atual', 'O que regula'],
+          rows: [
+            ['NBR 9649', 'Cancelada e substituída', 'Era a antiga referência de água fria e água quente predial'],
+            ['NBR 5626:1998', 'Cancelada e substituída', 'Primeira edição do sistema de água fria e quente'],
+            ['NBR 7198', 'Cancelada e substituída', 'Antiga execução de instalações de água quente'],
+            ['NBR 5626:2020', 'Vigente (segunda edição)', 'Água fria e água quente: projeto, execução, operação e manutenção'],
+            ['NBR 8160', 'Vigente', 'Esgoto sanitário predial: projeto, execução, ensaio e manutenção'],
+            ['NBR 10844', 'Vigente', 'Drenagem de águas pluviais: requisitos e critérios'],
+            ['NBR 16824', 'Vigente', 'Prevenção de legionelose em sistemas de distribuição de água em edificações']
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Um projeto de água fria e água quente protocolado hoje e ainda desenhado apenas com base na NBR 9649 está tecnicamente defasado — e em análise de projeto, isso vira exigência.'
+        },
+        {
+          type: 'quote',
+          text: 'A NBR 5626:2020 não é uma atualização cosmética. Ela mudou a forma de pensar reservatório, de documentar a obra e de manter o sistema depois de pronto.'
+        },
+        {
+          type: 'heading',
+          text: '2. O que a NBR 5626:2020 exige que o projeto antigo não pedia'
+        },
+        {
+          type: 'paragraph',
+          text: 'O salto real da segunda edição está na documentação e na operação. São itens que quase nenhum projeto resume na prática:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Documentação de projeto completa — premissas de cálculo, critério e método de dimensionamento, memorial descritivo, volumes de armazenamento, pressões de trabalho, simultaneidade de uso e vazões de projeto, fontes de abastecimento, dispositivos de segurança, desenhos e diagrama vertical',
+            'Manual de operação, uso e manutenção — o projeto precisa subsidiar esse manual, conforme a ABNT NBR 14037',
+            'Programa de manutenção preventiva — conforme a ABNT NBR 5674, incluindo limpeza de reservatório, drenagem, reabastecimento e verificação periódica',
+            'Vida útil de projeto declarada — com o escopo e a periodicidade de manutenção necessários para atingi-la',
+            'Proteção contra biofilme — a norma traz uma seção específica sobre prevenção da formação de biofilme nos componentes',
+            'Controle de temperatura da água quente — temperatura de uso em torno de 40 °C, com materiais e componentes capazes de suportar pelo menos 70 °C para permitir desinfecção térmica',
+            'Prevenção contra escaldamento — em ambientes sanitários com misturadores convencionais, a temperatura deve ser limitada a 70 °C',
+            'Ensaio de estanqueidade — o sistema precisa ser ensaiado, não apenas instalado',
+            'Proteção contra refluxo e separação atmosférica — com dispositivo de admitirem ar no esvaziamento e expulsão no enchimento',
+            'Acessibilidade para manutenção — reservatórios, registros e componentes precisam ser alcançáveis para operar e preservar o sistema'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Um detalhe que costuma passar batido: a norma pede que o reservatório seja reabastecido com vazão suficiente para repor todo o volume destinado ao consumo diário em até 6 horas — e em até 3 horas para residência unifamiliar. É um critério que muda o cálculo da bomba.'
+        },
+        {
+          type: 'heading',
+          text: '3. Legionelose: o risco que quase ninguém projeta'
+        },
+        {
+          type: 'paragraph',
+          text: 'A legionelose é uma infecção respiratória causada pela bactéria *Legionella pneumophila*, que se multiplica em água parada dentro da faixa de temperatura tipicamente entre 25 °C e 45 °C. Não se transmite pela água potável em si: transmite-se pelo **névoa ou aerosol** — exatamente o que sai de um chuveiro.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A bactéria coloniza biofilmes, camadas de microrganismos que se formam na parede interna de tubos, vasos, registros e aeradores. Água morna parada sobre superfície com biofilme é o cenário perfeito de proliferação.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Pontos críticos em uma residência litorânea:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Ramais de chuveiro e duchas não usados há semanas',
+            'Bebedouros e filtros de garrafa',
+            'Canaletas, ralos de piso e sifões de peças raramente utilizadas',
+            'Pontos de uso em banheiros fechados por meses',
+            'Reservatórios de água quente com acúmulo de sedimento'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'O problema fica maior em prédio: ramais de andar com baixa vazão, tubulação morta de reforma antiga e reservatório sem limpeza programada formam o tripé clássico de proliferação.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A NBR 16824 é a norma que organiza esse problema — ela estabelece princípios gerais e orientações de prevenção de legionelose em sistemas prediais de distribuição de água. Não substitui o projeto, mas muda o que o projeto precisa prever.'
+        },
+        {
+          type: 'quote',
+          text: 'Água parada em tubulação morna não é problema de manutenção. É falha de projeto — e é exatamente o tipo de detalhe que se resolve no papel, não depois da ocupación da casa.'
+        },
+        {
+          type: 'heading',
+          text: '4. O caso mais crítico em Navegantes: casa de praia e imóvel de uso sazonal'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se existe um cenário em que projeto hidrossanitário descuidado vira problema real em Navegantes, é o imóvel de uso sazonal. A lógica é simples e cruel:'
+        },
+        {
+          type: 'list',
+          items: [
+            'A casa fica fechada por meses',
+            'A tubulação fica parada',
+            'A água quente fica morna por tempo prolongado',
+            'O biofilme se estabelece',
+            'O primeiro banho de quem chega traz aerosol possivelmente contaminado'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Existe ainda o segundo problema do imóvel fechado: pressão e recalque. Sistema desligado e depois reabastecido gera transiente que rompe conexões, e a maresia já corroeu os metais das junções.'
+        },
+        {
+          type: 'paragraph',
+          text: 'O que um projeto para imóvel de uso sazonal precisa prever:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Esvaziamento programado do reservatório — com registro acessível, ralo de limpeza e ponto de descarga com dispositivo de refluxo, conforme pede a norma',
+            'Desinfecção térmica — elevar a temperatura da rede para no mínimo 70 °C, por tempo controlado, conforme procedimento definido em projeto',
+            'Rede sem pontos mortos — eliminar ramais que existam apenas para um aparelho removido',
+            'Setorização e isolamento — registros independentes para banheiros, cozinha e área externa',
+            'Válvula de retenção e misturador termostático — que reduzam o risco de refluxo na abertura simultânea de água fria e água quente',
+            'Procedimento de partida — documento que explica como reidratar o sistema sem que a rede impulsione água contaminada para a rede potável',
+            'Manual de uso e manutenção entregue ao proprietário — conforme a NBR 14037, com procedimentos de partida e de esvaziamento',
+            'Registro fotográfico e diagrama vertical — sem isso, qualquer intervenção futura vira abertura de parede às cegas'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'A pergunta que nenhum projeto antigo responde: o que acontece nesta tubulação nos cinco meses em que ninguém está em casa? A resposta é o projeto.'
+        },
+        {
+          type: 'heading',
+          text: '5. Particularidades de Navegantes que mudam o projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Além da norma, o solo e o clima daqui exigem decisões que um projeto genérico não toma:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Lençol freático raso — caixa de inspeção, sumidouro e fossa exigem cota de segurança e ventilação dimensionadas para o nível de água mais alto do ano',
+            'Solo arenoso e recalque — recalque diferencial da fundação traciona as juntas de ligação do ramal enterrado; o projeto precisa de junta flexível, ancoragem e ensaio de estanqueidade',
+            'Maresia — metais, válvulas e conexões em ambiente externo exigem material e proteção compatíveis com a presença de sal',
+            'Pressão da rede — a pressão estática máxima admitida na distribuição é de cerca de 40 mca, aproximadamente 400 kPa; acima disso o projeto precisa de redutor, setorização e controle de transiente',
+            'Esgoto: rede pública ou fossa — a escolha muda todo o projeto de esgoto e depende de análise da Prefeitura; não é decisão de canteiro',
+            'Água da chuva — em região chuvosa com solo arenoso, o reuso conforme a ABNT NBR 15527 pode reduzir o consumo de água potável, desde que a rede não potável fique totalmente independente da rede potável',
+            'Chuva intensa e drenagem — o projeto pluvial segue a ABNT NBR 10844 e precisa coexistir com a rede de esgoto sanitário sem interligação indevida'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '6. Erros que reprovam o projeto ou criam problema na obra'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetar água fria e água quente apenas com referência à NBR 9649',
+            'Não previsto o manual de operação, uso e manutenção exigido pela norma',
+            'Omitir o programa de manutenção preventiva na entrega da obra',
+            'Reservatório dimensionado sem considerar o tempo de reposição por vazão',
+            'Deixar ramal de chuveiro com ponto morto após reforma',
+            'Não prever acessibilidade para limpar o reservatório',
+            'Executar sem ensaio de estanqueidade registrado',
+            'Não emitir ART da disciplina hidrossanitária',
+            'Não compatibilizar o projeto hidrossanitário com o estrutural antes de fechar as paredes',
+            'Assumir um perfil de temperatura da água quente que não foi calculado'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '7. Checklist: seu projeto hidrossanitário está completo?'
+        },
+        {
+          type: 'list',
+          items: [
+            '[ ] Projeto referencia a NBR 5626:2020, a NBR 8160 e a NBR 10844 conforme o sistema',
+            '[ ] Risco de legionelose avaliado e medidas de prevenção previstas conforme a NBR 16824',
+            '[ ] Premissas de cálculo, método e critérios registrados em memorial',
+            '[ ] Diagrama vertical entregue, com todas as colunas e registros',
+            '[ ] Reservatório com volume, cota de instalação, extravasão e ralo de limpeza',
+            '[ ] Vazão de abastecimento capaz de repor o volume de consumo no prazo da norma',
+            '[ ] Pontos de água quente dimensionados para a vazão simultânea real',
+            '[ ] Ramais sem ponto morto e com válvula de retenção onde houver refluxo possível',
+            '[ ] Programa de manutenção preventiva e manual de uso e manutenção elaborados',
+            '[ ] ART emitida e entregue ao contratante antes do início da execução',
+            '[ ] Ensaio de estanqueidade previsto no cronograma da obra',
+            '[ ] Projeto compatibilizado com o estrutural e com o padrão de acabamento'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '8. Quanto custa e quanto tempo leva'
+        },
+        {
+          type: 'paragraph',
+          text: 'Os valores abaixo são referências de mercado para a região. Não são tabela oficial de honorários.'
+        },
+        {
+          type: 'table',
+          headers: ['Escopo', 'Faixa referencial', 'Prazo típico'],
+          rows: [
+            ['Projeto hidrossanitário residencial completo, em obra nova', 'R$ 3.500 – R$ 12.000', '10 a 20 dias úteis'],
+            ['Projeto para reforma ou ampliação com alteração de layout', 'R$ 1.800 – R$ 5.500', '5 a 12 dias úteis'],
+            ['Adequação de um ponto de água, em banheiro ou cozinha', 'R$ 600 – R$ 1.800', '2 a 5 dias úteis'],
+            ['Revisão de projeto existente e levantamento as built', 'R$ 1.200 – R$ 3.500', '3 a 8 dias úteis'],
+            ['Diagnóstico de vazamento oculto com ensaio', 'R$ 900 – R$ 2.800', '2 a 7 dias úteis'],
+            ['Projeto de água da chuva e reuso, conforme a NBR 15527', 'R$ 2.000 – R$ 6.500', '8 a 15 dias úteis'],
+            ['Acompanhamento de obra hidrossanitária', '2% a 5% do custo da obra', 'contínuo']
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Dois avisos honestos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto barato de hidrossanitário quase sempre é projeto sem memória de cálculo, sem diagrama vertical e sem ART. O preço aparece depois, em vazamento dentro da parede e em retrabalho de acabamento.',
+            'Adequar um ponto de água depois de instalado o azulejo custa mais que desenhar todo o banheiro errado antes do acabamento. O momento barato do projeto hidrossanitário é antes de a parede fechar.'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '9. Perguntas Frequentes (FAQ)'
+        },
+        {
+          type: 'subheading',
+          text: 'A NBR 9649 ainda vale para projeto em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não. A NBR 9649 foi cancelada e substituída pela NBR 5626:2020, que além de água fria e água quente trata de execução, operação e manutenção. Projeto novo deve referenciar a norma vigente.'
+        },
+        {
+          type: 'subheading',
+          text: 'Qual a diferença entre a NBR 5626 e a NBR 8160?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A NBR 5626:2020 trata de sistemas prediais de água fria e água quente. A NBR 8160 trata de esgoto sanitário predial. São sistemas diferentes, com normas diferentes, e um projeto completo costuma referenciar as duas.'
+        },
+        {
+          type: 'subheading',
+          text: 'O que é a NBR 16824 e ela é obrigatória?'
+        },
+        {
+          type: 'paragraph',
+          text: 'É a norma que estabelece princípios gerais e orientações para prevenção de legionelose em sistemas de distribuição de água em edificações. Ela não é um projeto, mas orienta o que o projeto deve prever para reduzir o risco de proliferação da bactéria.'
+        },
+        {
+          type: 'subheading',
+          text: 'Preciso de projeto hidrossanitário para reforma de banheiro?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Para reforma simples, com pontos de água inalterados e sem alteração de layout, pode não ser exigida a apresentação formal do projeto. Ainda assim, um levantamento técnico é recomendável: em obra de reforma em imóvel antigo, o traçado existente quase nunca corresponde ao que está em planta.'
+        },
+        {
+          type: 'subheading',
+          text: 'O que é ponta seca e por que ela deve ser prevista antes de fechar a parede?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Ponta seca é o ponto de água oculto dentro de parede, piso ou contrapiso, sem aparente. Ele pode ser acionado se surgir vazamento ou infiltração depois de a obra concluída, sem quebrar alvenaria. Precisa ser previsto com registro acessível: é barato no projeto e caro depois de instalado.'
+        },
+        {
+          type: 'subheading',
+          text: 'Casa de praia precisa de projeto diferente?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim, no essencial. O imóvel de uso sazonal tem água parada por meses, temperatura morna e biofilme acumulado. O projeto precisa prever esvaziamento do reservatório, desinfecção térmica, rede sem pontos mortos, registros acessíveis e manual de partida e manutenção.'
+        },
+        {
+          type: 'subheading',
+          text: 'O que a ART cobre nesse serviço?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A ART de projeto registra a responsabilidade técnica pela elaboração do projeto hidrossanitário. A ART de execução registra a responsabilidade pela fiscalização da obra. São registros distintos e complementares, conforme a Resolução CONFEA nº 1.025/2009 e a Lei nº 8.931/1994.'
+        },
+        {
+          type: 'heading',
+          text: '10. A solução Regê: do projeto à obra executada'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na Regê Engenharia, projeto hidrossanitário não é uma prancheta solta no meio de outras. É uma disciplina integrada, com responsabilidade técnica declarada, entregue para ser executada:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Levantamento do existente antes do novo — em reforma e ampliação, o traçado real raramente bate com a planta antiga. Mapeamos antes de desenhar.',
+            'Projeto referenciado na norma vigente — NBR 5626:2020 para água fria e quente, NBR 8160 para esgoto, NBR 10844 para pluvial e NBR 16824 para a prevenção de legionelose.',
+            'Diagrama vertical e memória de cálculo — entregues com premissas, método de dimensionamento e vazões de projeto, como a norma exige.',
+            'Manual de uso e manutenção — subsidiado conforme a ABNT NBR 14037, com programa de manutenção preventiva conforme a NBR 5674. Vai junto com a pasta técnica na entrega.',
+            'Compatibilização com o estrutural — nenhuma tubulação passa por viga sem decisão registrada; o projeto hidrossanitário é fechado junto com o estrutural, não depois.',
+            'ART emitida por disciplina e por etapa — projeto antes da execução, execução antes do primeiro cano, com cópia entregue a você.',
+            'Acompanhamento da obra e ensaio — estanqueidade testada e registrada, antes do fechamento das paredes e do acabamento.',
+            'Adequação para uso sazonal — quando o imóvel é de veraneio, o projeto já nasce com procedimento de esvaziamento, partida e desinfecção térmica documentado.'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '📱 **WhatsApp**: (47) 99218-4100 · **E-mail**: contato@rege-engenharia.com.br · 🌐 **Site**: www.regeengenharia.com.br · 📍 **Atendimento**: Navegantes/SC e Litoral Norte de SC - Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras, Barra Velha, Camboriú, Itapema, Gravatá, Meia Praia, Machado e São Domingos.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Vai construir, reformar ou resolver um vazamento em Navegantes?** Comece por um levantamento técnico do que já existe. A primeira conversa é de diagnóstico: entendemos o que você precisa, verificamos se o traçado atual suporta a mudança e dizemos com honestidade se o serviço exige projeto completo ou uma intervenção pontual.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projeto hidrossanitário em Navegantes não é mais o desenho de canos que o pedreiro segue. A NBR 9649 foi cancelada, a NBR 5626:2020 exige documentação e manutenção que a antiga norma não pedia, e a NBR 16824 colocou a prevenção de legionelose na conversa — justamente o risco que uma casa de praia fechada por cinco meses concentra.'
+        },
+        {
+          type: 'paragraph',
+          text: 'O resultado de um projeto bem feito aparece em três momentos: na análise, quando o desenho é aceito sem devolução; na obra, quando o sistema é executado conforme o projeto e passa no ensaio; e anos depois, quando o imóvel não tem vazamento, infiltração nem risco sanitário.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se sua obra já está em andamento e a instalação está fechada ou parcialmente executada, ainda é possível corrigir o projeto e emitir a ART correspondente. Fale com um engenheiro civil em Navegantes antes de fechar o próximo ambiente.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo técnico sobre projeto hidrossanitário em Navegantes/SC. As normas ABNT, os requisitos de projeto e os valores de honorários são referenciados na data de publicação e podem ser atualizados. Confirme a versão vigente das normas aplicáveis, o enquadramento na Prefeitura de Navegantes, no Sistema Único de Licenciamento (SUL), e as exigências do CREA-SC.*'
+        },
+        {
+          type: 'heading',
+          text: 'Referências Normativas e Legais'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'ABNT NBR 5626:2020 — Sistemas prediais de água fria e água quente: projeto, execução, operação e manutenção. Cancelou a NBR 7198:1993 e a NBR 5626:1998.',
+            'ABNT NBR 8160 — Sistemas prediais de esgoto sanitário: projeto, execução, ensaio e manutenção.',
+            'ABNT NBR 10844 — Sistemas de drenagem de águas pluviais: requisitos e critérios.',
+            'ABNT NBR 16824 — Sistemas de distribuição de água em edificações: prevenção de legionelose.',
+            'ABNT NBR 5649 — Reservatórios de água: projeto, construção, operação e manutenção.',
+            'ABNT NBR 15527 — Uso da água da chuva em áreas urbanas para fins não potáveis.',
+            'ABNT NBR 14037 — Manual de operação, uso e manutenção de sistemas prediais.',
+            'ABNT NBR 5674 — Programa de manutenção preventiva em edificações.',
+            'ABNT NBR 15575 — Desempenho de edificações habitacionais.',
+            'ABNT NBR 6118 — Projeto de estruturas de concreto armado.',
+            'ABNT NBR 9050 — Acessibilidade a edificações, espaços e equipamentos públicos.',
+            'Lei nº 11.445/2007 — Política Nacional de Saneamento Básico.',
+            'Lei nº 8.931/1994 — Anotação de Responsabilidade Técnica.',
+            'Resolução CONFEA nº 1.025/2009 — ART: tipos, escopo e complementares.',
+            'Sistema Único de Licenciamento (SUL) — Prefeitura de Navegantes.',
+            'CREA-SC — consulta e registro de ART.'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  },
+  {
+    slug: 'projetos-bim-navegantes-regre-solucao',
+    title: 'Projetos BIM em Navegantes/SC: Como a Regê Engenharia Revoluciona Su Obra',
+    tag: 'PROJETOS',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Projetos BIM em Navegantes/SC: Como a Regê Engenharia Revoluciona Su Obra - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Building Information Modeling (BIM) deixou de ser "modinha" para se tornar o padrão de excelência em projetos de construção civil que buscam qualidade, velocidade e redução de custos.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Building Information Modeling (BIM) deixou de ser "modinha" para se tornar o padrão de excelência em projetos de construção civil que buscam qualidade, velocidade e redução de custos. Em Navegantes/SC, onde o crescimento imobiliário é intenso e o solo litorâneo impõe desafios técnicos adicionais, o BIM deixou de ser um diferencial competitivo para se tornar **ferramenta de sobrevivência técnica e financeira**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, explicamos o que é BIM na prática, como ele funciona no contexto de Navegantes e como a **Regê Engenharia** atua como a solução completa para quem quer construir sem susto, sem retrabalho e dentro do prazo.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que é BIM na Prática (Além do Modelo 3D)'
+        },
+        {
+          type: 'quote',
+          text: 'BIM não é software. BIM é uma metodologia. O modelo 3D é apenas a ferramenta visual. O que realmente importa é a information modeling — a gestão integrada de dados sobre o empreendimento ao longo de todo o seu ciclo de vida: do projeto à execução, manutenção e eventual demolição.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, o fluxo ideal de BIM segue esta sequência (compatibilizada com o Código de Obras LC 416/2023):'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Modelagem integrada: Arquitetura, estrutura, instalações (elétrica, hidráulica, sanitária), drenagem, climatização e SPDA são modeladas em um único ambiente parametrizado',
+            'Compatibilização (Clash Detection): Conflitos entre disciplinas são detectados e resolvidos no ambiente virtual, antes da obra começar',
+            'Compatibilização para obra: O projeto é emitido "compatibilizado" — selado com ART e liberado para execução com garantia de zero interferências críticas',
+            'As-Built (Atualizado): Modelo BIM atualizado durante a obra para registrar o que foi realmente construído'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Em Navegantes, onde a mão de obra especializada é cara e o prazo é curto, o BIM é o único jeito de garantir que o que foi projetado seja o que será construído.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que o BIM é Essencial em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Desafio do Solo Litorâneo e Maresia'
+        },
+        {
+          type: 'paragraph',
+          text: 'O solo arenoso com lençol freático alto e a maresia agressiva exigem projetos estruturais precisos. O BIM permite:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Simulação de carga em condições reais do solo litorâneo',
+            'Dimensionamento parametrizado de fundações, consideringo classe de agressividade III/IV (NBR 6118)',
+            'Integração de proteções contra maresia desde o projeto (cobrimento de armadura, classe de concreto, selantes)',
+            'Rastreabilidade de cada decisão técnica ao longo do modelo, para futura manutenção ou fiscalização'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Redução de Retrabalho e Custos'
+        },
+        {
+          type: 'paragraph',
+          text: 'Estudos nacionais e internacionais comprovam: obras com BIM têm **30% a 50% menos retrabalho** comparado ao método tradicional 2D.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Em números para Navegantes**:'
+        },
+        {
+          type: 'table',
+          headers: ['Fase', 'Retrabalho Sem BIM', 'Retrabalho Com BIM', 'Economia'],
+          rows: [
+            ['Projeto', '15% do orçamento total', '5% do orçamento total', '65% de economia'],
+            ['Obra', '20-30% de serviços a refeitos', '5-8% de serviços a refeitos', '70% de economia'],
+            ['Retificação Pós-obra', '15-25% do valor inicial', '3-5% do valor inicial', '80% de economia']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Casos reais da Regê Engenharia: Em galpão industrial de 600 m² no litoral, o BIM identificou 8 conflitos críticos entre estrutura e instalações que, se construídos, custariam R$ 45.000 em retrabalho. O custo do serviço BIM foi R$ 8.500 — ROI de 1:5,3 em apenas uma obra.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Aprovação Mais Rápida na Prefeitura de Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'O Sistema SUL da Prefeitura de Navegantes agiliza quando o projeto chega bem estruturado. O BIM traz vantagens diretas:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Modelo 3D intuitivo para os técnicos visualizarem rapidamente a distribuição de espaços, recuos, gabarito e áreas de uso',
+            'Quantitativos automáticos (tabela de áreas, volumes, quantitativos de materiais) que eliminam erros de cálculo manual no preenchimento de formulários',
+            'Relatório de clashs zerado — documento técnico que comprova que o projeto foi integrado e não apresenta interferências entre disciplinas',
+            'Compatibilização integrada com exigências do Código de Obras (taxas de ocupação, recuos, pé-direito mínimo, acessibilidade NBR 9050)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Projetos BIM da Regê Engenharia têm 30 a 40% menos tempo de análise no Sistema SUL, com aprovação na primeira tentativa em mais de 85% dos casos (contra média de 60% com projetos 2D tradicionais).'
+        },
+        {
+          type: 'subheading',
+          text: '4. Controle de Custos e Orçamento Executivo'
+        },
+        {
+          type: 'paragraph',
+          text: 'O BIM permite extrair quantitativos precisos em qualquer fase do projeto, facilitando:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Orçamento executivo desde a concepção, com atualização automática quando o modelo é alterado',
+            'Medidas de obra exatas — o sistema extrai volumes, áreas e comprimentos do modelo parametrizado',
+            'Controle de custos durante a execução — comparativo entre orçado e executado em tempo real',
+            'Cenários "what-if" — simular o impacto de alterações de material ou dimensão antes de tomar decisão'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Sustentabilidade e Eficiência Energética'
+        },
+        {
+          type: 'paragraph',
+          text: 'A LC 416/2023 de Navegantes passou a exigir itens de eficiência energética e sustentabilidade. O BIM facilita:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Simulação de iluminação natural e ventilação cruzada para reduzir consumo de energia',
+            'Dimensionamento de aquecimento solar e infraestrutura para energia fotovoltaica',
+            'Projeto de drenagem sustentável e captação de águas pluviais',
+            'Integração de materiais de baixo impacto com rastreabilidade no modelo'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Implementa B em Seus Projetos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Metodologia BIM Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nosso fluxo é padronizado e comprovado em mais de 150 projetos em Navegantes desde 2016:'
+        },
+        {
+          type: 'code',
+          text: 'Fase 1: Recebimento e Conferência\n  ↓\nFase 2: Modelagem Integrada (5 disciplinas mínimas)\n  ↓\nFase 3: Clash Detection (detecção e resolução de conflitos)\n  ↓\nFase 4: Compatibilização e Revisão\n  ↓\nFase 5: Emissão de Projeto "Compatibilizado para Obra" com ART\n  ↓\nFase 6: Acompanhamento durante a obra (Atualização As-Built)\n  ↓\nFase 7: entrega do Modelo BIM Final + Documentação Completa'
+        },
+        {
+          type: 'subheading',
+          text: '2. 5 Disciplinas Mínimas no Nosso Modelo Federado'
+        },
+        {
+          type: 'paragraph',
+          text: 'Todo projeto BIM da Regê Engenharia inclui, no mínimo, essas 5 disciplinas integradas:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Arquitetura — Plantas, cortes, fachadas, memorial descriptivo, acabamentos, acessibilidade (NBR 9050)',
+            'Estrutural — Fundações, pilares, vigas, lajes, dimensionamento para maresia e vento litorâneo (NBR 6118/6123)',
+            'Elétrica — Quadros de distribuição, iluminação, SPDA (para-raios), circuitos (NBR 5410)',
+            'Hidráulica e Sanitária — Água fria/quente, esgoto, águas pluviais, aquecimento solar (NBR 5626)',
+            'Drenagem e Topografia — Rede de águas pluviais, nivelamento de terreno, pontos de captação'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Disciplinas opcionais (incluídas conforme necessidade): Climatização (HVAC), Proteção contra Incêndio (AVCB), Paisagismo, Estruturas Metálicas, Galpões Industriais.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Tecnologias que Utilizamos'
+        },
+        {
+          type: 'table',
+          headers: ['Tecnologia', 'Aplicação', 'Ganho'],
+          rows: [
+            ['Autodesk Revit', 'Modelagem BIM 3D parametrizada', 'Padrão da indústria, interoperabilidade total'],
+            ['Autodesk Navisworks', 'Clash detection e relatórios de conflitos', 'Motor de detecção mais robusto do mercado'],
+            ['Solibri', 'Validação de qualidade e compliance', 'Regras ABNT, código de obras, padrões de qualidade'],
+            ['BIM 360 / ACC', 'Colaboração em nuvem e versionamento', 'Equipe acessa modelo de qualquer lugar, em tempo real'],
+            ['Reality Capture (Scanner 3D FARO)', 'Levantamento as-built em 2 horas', 'Base real para modelo BIM, zero suposição'],
+            ['Termografia', 'Detecção de patologias ocultas', 'Integração ao modelo para reparos direcionados'],
+            ['Plugins Regionais', 'Integração com Sistema SUL da Prefeitura de Navegantes', 'Dados de zoneamento, gabarito, taxas já pre-populados']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Artefatos Entregues ao Cliente'
+        },
+        {
+          type: 'paragraph',
+          text: 'Todo projeto BIM da Regê Engenharia termina com esses entregáveis:'
+        },
+        {
+          type: 'table',
+          headers: ['Artefato', 'Descrição', 'Utilidade'],
+          rows: [
+            ['Modelo BIM Federado', 'Modelo 3D integrado das 5 disciplinas mínimas', 'Base para toda a obra e future manutenção'],
+            ['Relatório de Clash Detection', 'Lista de todos os conflitos detectados e resolvidos, com fotos 3D', 'Comprovante de qualidade técnica, requisito para habite-se em muitas prefeituras'],
+            ['Projeto Compatibilizado', 'Documentos 2D (plantas, cortes, fachadas) com selo "Compatibilizado para Obra" + ART', 'Pronto para protocolo no Sistema SUL'],
+            ['Quantitativos de Materiais', 'Tabela automática de volumes, áreas, comprimentos', 'Orçamento executivo preciso desde a concepção'],
+            ['Manual de Operação e Manutenção', 'Guia do proprietário com localização de instalações, manutenção preventiva', 'Entregue junto com o habite-se'],
+            ['As-Built BIM Atualizado', 'Modelo refletindo o que foi realmente construído', 'Base para futuras reformas, ampliações ou venda do imóvel']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Comparativo: Método Tradicional vs. BIM Regê Engenharia'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Método Tradicional 2D', 'BIM Regê Engenharia'],
+          rows: [
+            ['Conflitos entre disciplinas', 'Descobrem-se na obra (retrabalho)', 'Detectados e resolvidos no projeto (prevenção)'],
+            ['Tempo de aprovação', '30-45 dias úteis (com emendas)', '15-25 dias úteis (aprovação primeira tentativa)'],
+            ['Retorno sobre investimento', 'Custos inesperados ao longo da obra', 'ROI comprovado: 1:5 em média (Evitados R$ 30-50 mil em conflitos por R$ 8-12 mil em BIM)'],
+            ['Quantitativos de materiais', 'Cálculo manual, propenso a erros', 'Extração automática do modelo, precisão de 99%+'],
+            ['Visualização para cliente', 'Plantas 2D, difíceis de interpretar', 'Modelo 3D fotorrealista, "passeio virtual" pelo projeto'],
+            ['Atualização durante obra', 'Desenhos à parte, risco de divergência', 'Modelo vivo, atualizado a cada visita técnica'],
+            ['Entrega pós-obra', 'Plantas escaneadas, manuais genéricos', 'Modelo BIM As-Built completo + manual de manutenção'],
+            ['Integração com Código de Obras', 'Verificação manual, risco de omissão', 'Integração automática com parâmetros de Navegantes (LC 416/2023)']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Casos de Sucesso: BIM em Ação em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 1: Residencial Itacorubi — Casa de 250 m² (2023)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Cliente queria casa de dois andares com sala de estar em conceito aberto, vigas aparentes e integração com área externa — todos elementos que geram conflitos típicos em projetos residenciais.',
+            'Solução BIM: Modelagem integrada de 5 disciplinas, clash detection identificou 6 conflitos críticos (viga x dutos de ar-condicionado, laje x escada, pilar x bancada de cozinha). Todos resolvidos antes da obra.',
+            'Resultado: Obra concluída sem nenhuma retificação estrutural. Aprovação na Prefeitura em 22 dias (vs. média de 35 dias da região). Entrega com modelo As-Built que facilita futuras ampliações.'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 2: Galpão Industrial — 800 m² no Centro de Navegantes (2024)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Galpão com estrutura de aço, dutos de ventilação industrial, sistema de sprinkler e acesso de caminhões. O local tinha restrição de gabarito urbano rígido.',
+            'Solução BIM: Modelagem de 7 disciplinas (incluindo estrutura metálica e sprinkler). O clash detection identificou 12 conflitos, incluindo o crítico de uma viga principal atravessando o eixo de um duto de extração de fumaça. O modelo também permitiu simular diferentes cenários de layout interno antes de fixar o projeto.',
+            'Resultado: Galpão entregue 38 dias após o início da obra (prazo original: 90 dias). Conflitos que normalmente exigiriam 3 meses de retrabalho foram evitados. O cliente economizou aproximadamente R$ 65.000 em custos indiretos.'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Caso 3: Condomínio Residencial — 12 unidades em Itapema (2022)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Desafio: Empreendimento com unidades tipo e cobertura, exigindo coordenação entre 3 equipes de projeto (arquitetura, estrutura, instalações) e cumprimento de exigências do Corpo de Bombeiros para AVCB.',
+            'Solução BIM: Modelo federado com todas as disciplinas, validação de rotas de fuga, dimensão de hidrantes e acessibilidade (NBR 9050) em todas as unidades. Geração automática de relatórios para cada tipo de unidade.',
+            'Resultado: Aprovação simultânea de todas as 12 unidades em 28 dias. Modelo BIM entregue aos síndicos como base para gestão de manutenção futura. Zero autuação ou multa durante o período de fiscalização.'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Seu Projeto Merece BIM?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Responda estas 7 perguntas para saber se o BIM é a escolha certa para sua obra:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            '✅ A obra tem mais de 200 m² de área construída?',
+            '✅ Envolve mais de 2 disciplinas (arquitetura + estrutura + instalações)?',
+            '✅ O prazo de aprovação na Prefeitura é urgente (menos de 30 dias)?',
+            '✅ Há risco de conflitos entre instalações (tubulações crossing vigas/colunas)?',
+            '✅ Você quer precisão de quantitativos para orçamento desde a concepção?',
+            '✅ Planeja futuras ampliações ou reformas no imóvel?',
+            '✅ Quer visualizar o projeto antes da obra começar (para tomar decisões de design)?'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Se você respondeu "Sim" a 3 ou mais dessas perguntas, o BIM trará retorno sobre investimento garantido.** Menos retrabalho, aprovação mais rápida, custos previsíveis e imóvel com documentação de alta qualidade para valorização futura.'
+        },
+        {
+          type: 'heading',
+          text: 'Como Solicitar um Projeto BIM com a Regê Engenharia'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Agende uma consulta técnica — nossa equipe avalia o porte e complexidade da sua obra para definir o escopo BIM adequado (disciplinas mínimas, nível de desenvolvimento LOD, prazos)',
+            'Receba um estudo de viabilidade BIM — com diagnóstico do que o modelo trará de benefícios específicos para o seu tipo de construção (residencial, comercial, industrial, condomínio)',
+            'Fechamento de escopo e proposta — com valor investimento, prazos de entrega e artefatos incluídos, todos com ART e responsabilidade técnica formalizada',
+            'Início da modelagem integrada — coletamos seus projetos existentes (ou fazemos novo levantamento) e iniciamos a modelagem das 5 disciplinas mínimas',
+            'Clash detection e compatibilização — detectamos e resolvemos todos os conflitos antes de liberar o projeto para obra',
+            'Acompanhamento durante a obra — visitas técnicas para atualizar o modelo As-Built, garantindo que o executado corresponda ao projetado',
+            'Entrega final — modelo BIM completo, relatório de conflitos resolvidos, quantitativos, manual de manutenção e projeto compatibilizado para habite-se'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'O prazo típico para um projeto BIM residencial (até 300 m²) é de 3 a 5 semanas desde o recebimento dos dados até a entrega do projeto "Compatibilizado para Obra". Para empreendimentos maiores (condomínios, galpões, edifícios), o prazo varia de 2 a 3 meses, dependendo da complexidade e número de unidades.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes/SC, onde o crescimento é intenso, o solo litorâneo impõe desafios técnicos e o Código de Obras (LC 416/2023) exige rigor na aprovação, o **BIM deixou de ser opção para se tornar ferramenta essencial** para quem constrói com qualidade, velocidade e segurança financeira.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia coloca toda a sua expertise em BIM a seu serviço: desde a modelagem integrada das 5 disciplinas mínimas até a entrega do modelo As-Built final, passando pela clash detection que evita R$ 30-50 mil em retrabalho por projeto. Com tecnologia de ponta (Revit, Navisworks, BIM 360), conhecimento específico do litoral catarinense e compromisso com a responsabilidade técnica (ART em todas as entregas), transformamos o desafio de construir em Navegantes em um processo transparente, previsível e seguro.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Não construa no escuro. Com BIM, você vê todo o projeto em 3D antes da primeira tijola ser colocada, sabe exatamente quanto vai custar, tem a certeza de que não haverá conflitos entre instalações e entrega seu imóvel com documentação completa e pronta para valorizar.**'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com um engenheiro BIM agora**: [WhatsApp] 🌐 **Visite nosso site**: [Site] 📍 **Atendemos**: Navegantes e todo o litoral norte de Santa Catarina'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo sobre projetos BIM em Navegantes/SC e a solução Regê Engenharia. Valores e prazos são referências de mercado; consulte o CREA-SC e a Prefeitura de Navegantes para parâmetros atualizados. Última atualização: 2026-08-05.*'
+        }
+    ]
+  },
+  {
+    slug: 'projetos-residenciais-gravata-navegantes-rege-solucao',
+    title: 'Projetos Residenciais em Gravatá: Como a Regê Engenharia Pode Ser a Solução',
+    tag: 'PROJETOS',
+    image: '/images/projeto-arquitetonico.png',
+    imageAlt: 'Projetos Residenciais em Gravatá: Como a Regê Engenharia Pode Ser a Solução - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Construir uma casa própria no bairro Gravatá, em Navegantes/SC é o desejo de muitas famílias que valorizam a qualidade de vida do litoral norte catarinense.',
+    readTime: '9 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Construir uma casa própria no bairro **Gravatá, em Navegantes/SC** é o desejo de muitas famílias que valorizam a qualidade de vida do litoral norte catarinense. Com praias de águas claras, infraestrutura em crescimento e valorização imobiliária consistente, Gravatá se destaca como uma das áreas mais desejadas para quem busca equilíbrio entre tranquilidade e conveniência. Porém, construir ou reformar neste bairro — conhecido pelo seu solo arenoso, proximidade da orla e regulamentação municipal específica — exige **projeto técnico adequado à realidade local**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, a **Regê Engenharia** explica os principais aspectos dos projetos residenciais em Gravatâ, os erros mais comuns e por que contar com uma equipe técnica especializada é o caminho mais seguro para garantir seu investimento.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Gravatá é uma Escolha Estratégica'
+        },
+        {
+          type: 'paragraph',
+          text: 'Gravatá é um bairro de Navegantes que combina o melhor do litoral catarinense com qualidade de vida diferenciada. Sua localização privilegiada oferece:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Acesso rápido às praias de Navegantes e a BR-101',
+            'Valorização consistente — o bairro tem apresentado crescimento acima da média no último década',
+            'Infraestrutura em expansão — rede de água, esgoto, iluminação e acessibilidade',
+            'Variedade de tipologias — desde casas térreas e sobrados até edifícios de apartamentos'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Atenção: Cada rua e lote em Gravatá tem características específicas de zoneamento, recuo e índices de construção definidos pelo Plano Diretor de Navegantes. Conhecer essas regras antes de comprar o terreno é essencial para evitar prejuízos.'
+        },
+        {
+          type: 'heading',
+          text: 'Desafios Técnicos Específicos de Gravatá'
+        },
+        {
+          type: 'paragraph',
+          text: 'Construir em Gravatá exige entender as particularidades locais que diferenciam este bairro de outras áreas de Navegantes:'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio', 'Impacto na Obra', 'Solução Técnica'],
+          rows: [
+            ['Solo arenoso', 'Fundações convencionais podem assentar desigualdamente; risco de recalque', 'Sondagem geotécnica + projeto de fundação (sapata, estaca hélice ou contínua) dimensionado ao estudo de solo'],
+            ['Proximidade da orla', 'Restrições de recuo marítimo, exigência de permeabilidade, risco de alagamento', 'Cotação correta de recuo conforme zoneamento; taxa de permeabilidade mínima (15–20%); projeto de drenagem pluvial'],
+            ['Maresia', 'Corrosão acelerada de ferragens, metais e acabamentos', 'Concreto ≥ 30 MPa com aditivo impermeabilizante; barras CA-60 ou aço inoxidável em elementos expostos; pintura epóxi/galvanização em ferragens'],
+            ['Velocidade do vento', 'Zona costeira com vento predominante de sudeste/nordeste; telhados e esquadrias devem resistir a pressões dinâmicas', 'Cálculo estrutural conforme NBR 6123; fixações dimensionadas; esquadrias com vedação EPDM; vidro laminado ou temperado'],
+            ['Lençol freático', 'Em áreas próximas a rios e mangues, nível da água pode ser alto', 'Projeto de fundação elevadíssima ou com tratamento específico; sistemas de impermeabilização positiva; drenagem ao redor da fundação']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Pilares de um Projeto Residencial em Gravatá'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um projeto residencial de qualidade em Gravatá deve abordar estes três pilares fundamentais:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Estrutura: Segurança que Durra Gerações'
+        },
+        {
+          type: 'paragraph',
+          text: 'A estrutura é o coração da obra e deve ser projetada considerando as condições locais:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fundação: Estudo geotécnico + dimensionamento de fundação (sapata isolada/continuada, estaca hélice contínua ou microestaca conforme resultado do estudo)',
+            'Estrutura de concreto: NBR 6118 — dimensionamento de lajes, vigas e colunas com cobrimento adequado (≥ 30–40 mm) para proteção contra maresia',
+            'Estrutura de aço: Barras CA-60; elementos expostos devem receber proteção contra corrosão (pintura epóxi, galvanização a quente)',
+            'Cobertura: Dimensionamento para velocidade de vento V₀ = 30–35 m/s (zona costeira); telhas ou lajes com fixações adequadas; sistema de drenagem integrado'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Conforto: Habitabilidade e Eficiência'
+        },
+        {
+          type: 'paragraph',
+          text: 'O projeto deve garantir bem-estar térmico, acústico e luminoso:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Conforto térmico: Brises fixos/móveis, telhado "cool roof" (manta refletiva), ventilação cruzada, esquadrias com vidro duplo (baixo-e) ou PVC com vedação EPDM — resultado: conta de energia 30–40% menor',
+            'Conforto acústico: Paredes com alto isolamento acústico (Rw ≥ 50 dB), esquadrias com vidro laminado (PVB acústico) em frentes para ruas movimentadas, contrapiso flutuante com manta acústica em lajes',
+            'Desempenho NBR 15575: Laudo de desempenho comprovando estanqueidade à água, durabilidade dos materiais (ciclo maresia), segurança estrutural e ao fogo, conforto térmico/acústico/lumínico'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Beleza: Arquitetura que Valoriza o Terreno e a Paisagem'
+        },
+        {
+          type: 'list',
+          items: [
+            'Integração interior-exterior: Vãos grandes (portas de correr, sistemas minimal frame), piso contínuo entre áreas sociais e externas (deck, jardim, piscina)',
+            'Materiais de fachada: Textura acrílica flexível + tinta elastomérica 100% acrílica (ciclo de repintura 8–10 anos); evitar textura cimentícia rígida; metais em alumínio anodizado/pintado ou aço inox 316',
+            'Paisagismo nativo: Espécies resistentes a sal, vento e seca (clusia, pitanga, ipê-amarelo, grama-esmeralda); irrigação por gotejamento com programador wi-fi + sensor de chuva'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Erros Comuns em Projetos em Gravatá (e Como Evitar)'
+        },
+        {
+          type: 'table',
+          headers: ['Erro', 'Consequência', 'Prevenção'],
+          rows: [
+            ['"Projeto de internet" adaptado pelo pedreiro', 'Estrutura insegura, infiltração, multa; banco não financia', 'Contrate escritório local com ART e conhecimento do zoneamento de Gravatá'],
+            ['Sonda não realizada ou superficial', 'Fundação subdimensionada, trincas, recalques diferenciais', 'Sondagem SPT obrigatória antes de projetar fundação'],
+            ['Impermeabilização "por conta do pedreiro"', 'Vazamento no andar de baixo, mofo, prejuízo com repintura', 'Especificação técnica + teste de estanqueidade (24h com água) no projeto'],
+            ['Esquadria sem dreno oculto / vedação inadequada', 'Água entra na primeira chuva de vento; danos ao revestimento', 'Especificar dreno oculto + vedação EPDM no projeto de esquadrias'],
+            ['Não prever SPDA (para-raios)', 'Risco de vida, equipamento queimado, seguro nega', 'Obrigatório para > 30 m altura ou área > 1.500 m² (NBR 5419) — verifique cotação de recuo da orla'],
+            ['Jardim sem dreno na caixa de retenção', 'Raiz apodrece, muro empurra, infiltração no fundão', 'Camada de drenagem (argila expandida + geotêxtil + tubo dreno) no projeto de paisagismo'],
+            ['Ignorar taxa de permeabilidade', 'Habite-se negado, multa ambiental, necessidade de retrofit', 'Projeto com área permeável mínima (15% a 20% do terreno) conforme zoneamento'],
+            ['Projeto sem compatibilização arquitetônico-estrutural', 'Conflitos entre vigas/colunas e lajes; retrabalho caro', 'Integração BIM ou reunião de coordenação antes do início da execução']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Resolve: O Método em 5 Etapas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia atua para garantir que seu projeto residencial em Gravatá nasce já em conformidade com as normas e exigências municipais, evitando retrabalho, multas e atrasos. Nosso método:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Levantamento Topográfico e Geotécnico Pré-Projeto'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de qualquer desenho, realizamos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Levantamento topográfico completo do lote (cotas, limites, melhorias existentes)',
+            'Sondagem geotécnica (SPT) para caracterização do solo arenoso de Gravatâ',
+            'Estudo de viabilidade preliminar: zoneamento, recuos, taxa de ocupação, gabarito, permeabilidade'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Você tem dados reais do seu terreno antes de comprar ou projetar — sem surpresas depois.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Projeto Arquitetônico Planejado para Gravatá'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nossos projetos arquitetônicos consideram:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Distribuição de ambientes pensando no conforto térmico (brises, ventilação cruzada, orientação solar)',
+            'Integração interior-exterior valorizando a paisagem de Gravatá e o acesso às praias',
+            'Materiais e acabamentos adequados ao clima litorâneo (resistência à maresia, facilidade de manutenção)',
+            'Vãos e janelas dimensionados para máximo conforto luminoso e ventilação natural'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Projeto bonito, funcional e pensado para o dia a dia no litoral catarinense.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Projetos Complementares Integrados'
+        },
+        {
+          type: 'paragraph',
+          text: 'Desenvolvemos todos os projetos complementares de forma integrada, garantindo:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estrutural: Dimensionamento concreto e aço conforme NBR 6118 e estudo geotécnico — sem interferências com instalações',
+            'Elétrica: Projeto completo (força, iluminação, SPDA, automação, fotovoltaico opcional) integrado ao estrutural',
+            'Hidrossanitário: Água fria/quente, esgoto, água pluvial, gás, reuso — com projeto de drenagem para solos arenosos',
+            'Climatização: Carga térmica calculada; dutos ou split(s) dimensionados; automação residencial opcional'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Projetos que "casam" entre si — eliminação de conflitos na obra, menos retrabalho, execução mais rápida.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Acompanhamento de Aprovação na Prefeitura'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não entregamos apenas o projeto e sumimos. Acompanhamos cada etapa:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Protocolamos o pedido de alvará na Prefeitura de Navegantes',
+            'Respondemos a exigências dos técnicos municipais (zonamento, recuos, código de obras LC 416/2023)',
+            'Mediação rápida de pendências — você não precisa ir à prefeitura'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Aprovação mais ágil (30–60 dias úteis para projeto regular), sem retrabalho de reenvios.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Execução com Acompanhamento Técnico'
+        },
+        {
+          type: 'paragraph',
+          text: 'Durante a obra, realizamos:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Visitas técnicas quinzenais (ou conforme acordado)',
+            'Relatórios fotográficos após cada etapa',
+            'Mediçãopara pagamento da empreiteira (validando o executado vs. projetado)',
+            'Controle de qualidade dos materiais (concreto, aço, impermeabilização, esquadrias)',
+            'Coordenação de subcontratados para evitar sobreposições e retrabalho'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Resultado: Obra executada conforme o projeto, com segurança, dentro do prazo e orçamento combinados.'
+        },
+        {
+          type: 'heading',
+          text: 'Situações Reais Que a Regê Engenharia Resolve'
+        },
+        {
+          type: 'list',
+          items: [
+            'Casa térrea em lote plano, Gavatá — projeto estrutural otimizado para solo arenoso, esquadrias com vidro duplo para conforto térmico, drenagem pluvial integrada, entrega com habite-se em prazo reduzido.',
+            'Sobrado de dois pavimentos — estrutura mista (concreto no térreo, steel frame no pavimento superior), compatibilização de projetos para evitar conflitos de instalações, acabamentos resistentes à maresia, valorização para locação de temporada.',
+            'Reforma e ampliação de casa existente — diagnóstico de estrutura existente, projeto de reforço (microestacas ou junta de dilatação), adequação às normas atuais (NBR 15575, acessibilidade NBR 9050), abertura de novo vão integrando áreas sociais.',
+            'Casa de praia com vista para o mar — projeto com elevação adequada da fundação (considerando lençol freático e maresia), sistema de impermeabilização reforçado, esquadrias de alta performance (vidro laminado, alumínio com quebra térmica), paisagismo com espécies nativas resistentes ao vento e sal.',
+            'Terreno em encostas de Gravatá — estudo de estabilidade, projeto de muro de arrimo ou fundação profunda (estacas), cálculo de cortes e aterros com controle de erosão, projeto de drenagem para evitar enxurradas.'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto custa um projeto residencial completo em Gravatá?'
+        },
+        {
+          type: 'quote',
+          text: 'Varia de R$ 180 a R$ 350/m² de área construída, conforme complexidade, padrão de acabamento e necessidade de estudos especiais (acústica, térmica, geotécnica, fotovoltaico). O investimento retorna em economia de obra (menos desperdício, zero retrabalho) e valorização do imóvel. Fazemos orçamento personalizado após análise do terreno.'
+        },
+        {
+          type: 'subheading',
+          text: 'Preciso de estudo geotécnico realmente? Não dá para "chutar"?'
+        },
+        {
+          type: 'quote',
+          text: 'Sim, é obrigatório se você quer um projeto seguro e aprovado. O solo de Gravatá é predominantlyemente arenoso, com variações de densidade e, em algumas áreas, presença de argilas moles ou aterros antigos. Uma fundação projetada "olho nú" gera rachaduras, portas emperradas, infiltrações e, em casos graves, risco de desmonte. O custo do estudo geotécnico (sondagem + relatório) representa cerca de 0,5% do valor total da obra — um pequeno seguro contra prejuízos maiores.'
+        },
+        {
+          type: 'subheading',
+          text: 'Posso construir uma casa de dois andares em Gravatá?'
+        },
+        {
+          type: 'quote',
+          text: 'Depende da classificação do seu terreno no zoneamento do Plano Diretor de Navegantes. A maioria dos lotes em Gravatá permite construção de até 2 ou 3 pavimentos, desde que respeitados os índices de gabarito, taxa de ocupação e recuos exigidos. Verificamos a viabilidade durante a análise preliminar do lote.'
+        },
+        {
+          type: 'subheading',
+          text: 'Quanto tempo leva para aprovar um projeto em Navegantes?'
+        },
+        {
+          type: 'quote',
+          text: 'Projetos completos e regulares costumam ter análise de 30 a 60 dias úteis. Com exigências dos técnicos, pode estender. Nossa gestão costuma reduzir em 30–40% o tempo total ao identificar e resolver potenciais pendências antes do protocolo. A conformidade com o Código de Obras (LC 416/2023) e o Plano Diretor acelera significativamente o processo.'
+        },
+        {
+          type: 'subheading',
+          text: 'Vocês fazem projeto só ou acompanham a obra também?'
+        },
+        {
+          type: 'quote',
+          text: 'Fazemos as duas coisas. O ideal é contratar projeto + acompanhamento (fiscalização/gerência de obra) — quem projeta sabe onde estão os pontos críticos e garante a execução fiel do que foi projetado. Quem só contrata projeto precisa contratar um fiscal de obra à parte, o que costuma gerar mais custos e problemas de comunicação no longo prazo.'
+        },
+        {
+          type: 'subheading',
+          text: 'Vocês atendem apenas em Gravatá ou em toda Navegantes?'
+        },
+        {
+          type: 'quote',
+          text: 'Atendemos todo o município de Navegantes e o Litoral Norte de Santa Catarina: Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras e Barra Velha. Cada bairro tem suas particularidades, e nossa equipe conhece as particularidades de Gravatá, Meia Praia, Centro, São Domingos e outras áreas para orientar seus clientes da melhor forma.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Construir ou reformar uma residência em **Gravatá, Navegantes/SC** é um excelente investimento, desde que realizado com **projeto técnico adequado à realidade local**. As particularidades do solo arenoso, a proximidade da orla, as restrições de zoneamento e as exigências do Código de Obras municipal (LC 416/2023) exigem conhecimento técnico específico e experiência prática — não é o momento para adaptações "por conta própria" ou projetos genéricos.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Com a **Regê Engenharia**, você tem um parceiro que conhece Gravatá na prática: desde a análise do terreno e o dimensionamento estrutural até a aprovação na prefeitura e a execução da obra. Nosso objetivo é que seu projeto seja aprovado na primeira tentativa, sua obra seja executada com qualidade e segurança, e seu imóvel se valorize ao longo do tempo.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu investimento construindo sobre areia sem projeto técnico. Consulte a Regê Engenharia antes de comprar seu terreno ou iniciar seu projeto.'
+        },
+        {
+          type: 'paragraph',
+          text: '📱 **WhatsApp**: (47) 99XXX-XXXX 📧 **E-mail**: contato@regeengenharia.com.br 🌐 **Site**: www.regeengenharia.com.br 📍 **Navegantes/SC** — Atendemos todo o Litoral Norte (Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras, Barra Velha) e o bairro Gravatá'
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia — Assessoria Técnica, Projetos, Laudos e Execução. Responsável Técnico: Eng. Civ. Osmar Junior.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo técnico para fins educativos. As normas e exigências municipais estão em constante atualização. Consulte sempre o município de Navegantes e profissionais habilitados para informações atualizadas. Este artigo baseia-se nas normas vigentes e na experiência da Regê Engenharia em projetos residenciais na região do Litoral Norte de Santa Catarina.*'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-08-26 -->'
+        }
+    ]
+  },
+  {
+    slug: 'reforma-residencial-navegantes-engrege-solucao',
+    title: 'Reforma Residencial em Navegantes: Como a Regê Engenharia é a Solução',
+    tag: 'REFORMAS',
+    image: '/images/engenheiro-economiza-dinheiro.png',
+    imageAlt: 'Reforma Residencial em Navegantes: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre reformas em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Navegantes vive um momento de crescimento imobiliário acelerado. Com o litoral atraindo tanto moradores permanentes quanto investidores de imóveis de temporada, a demanda por reformas que aliam.',
+    readTime: '4 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'heading',
+          text: 'Introdução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Navegantes vive um momento de crescimento imobiliário acelerado. Com o litoral atraindo tanto moradores permanentes quanto investidores de imóveis de temporada, a demanda por reformas que aliam modernidade, durabilidade e valorização de mercado nunca foi maior. Neste cenário, a **Regê Engenharia** surge como a parceira ideal para transformar seu imóvel em um ativo de alto desempenho.'
+        },
+        {
+          type: 'quote',
+          text: '"Reforma não é apenas mudar o visual — é reestruturar o imóvel para que ele funcione melhor, dure mais e gere retorno." — Regê Engenharia'
+        },
+        {
+          type: 'heading',
+          text: 'Por que reformar em Navegantes requer olhar técnico'
+        },
+        {
+          type: 'paragraph',
+          text: 'O litoral norte de Santa Catarina impõe condições únicas que reformas "genéricas" não consideram:'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio', 'Por que importa', 'Solução Regê Engenharia'],
+          rows: [
+            ['Marez exponencial', 'Corrosão de metais, descascamento de reboco, degradação de tubos em 2–3 anos', 'Materiais com proteção contra cloretos, acabamentos marinhos, tubos PPR/inox 316'],
+            ['Umidade capilar', 'Infiltrações por fundação, mofo, deterioração de estrutura', 'Projetos de impermeabilização de laje com membrana EPDM, drenagem externa adequada'],
+            ['Vida útil reduzida', 'Materiais de praia têm vida útil 40% menor que os urbanos', 'Especificação de ciclo de vida e manutenção preventiva desde o projeto'],
+            ['Requisitos legais', 'Licença de obra, ART, alvará — fiscalização rigorosa na Prefeitura de Navegantes', 'Gestão completa de documentação, ART no CREA-SC, projetos aprovados municipalmente']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Serviços da Regê Engenharia para sua reforma'
+        },
+        {
+          type: 'subheading',
+          text: '1. Vistoria Técnica Pré-Obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de qualquer demolição ou compra de materiais, nossa equipe realiza uma vistoria completa que identifica:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Problemas estruturais ocultos (corrosão de armadura, rachaduras na laje)',
+            'Estado da instalação hidráulica e elétrica',
+            'Pontos de infiltração e umidade',
+            'Condições de fachada e esquadrias'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"A vistoria é o mapa que evita que você gaste R$ 50.000 em uma reforma que precisa ser refeita em 12 meses."'
+        },
+        {
+          type: 'subheading',
+          text: '2. Projeto Executivo com Especificação de Materiais de Praia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não projetamos "para o geral". Cada escolha é validada para o ambiente marinho:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Esquadrias: alumínio termopanela com vedação dupla e perfil marinho',
+            'Pisos: porcelanato antideslizante ou deck de ipê tratado',
+            'Tubulação: PPR para água fria, CPVC ou PEX com camada EVOH para água quente',
+            'Reboco: fórmula com aditivo impermeabilizante e protetor contra cloretos',
+            'Tubulações externas: aço inox 316 ou galvanizado a fogo'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Acompanhamento Técnico da Obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nossa equipe fiscaliza todas as fases, garantindo:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Execução conforme projeto e normas (NBR 5410, NBR 10.011, NBR 15.527)',
+            'Qualidade das juntas e conexões (teste hidrostático com laudo fotográfico)',
+            'Uso correto de materiais especificados',
+            'Progresso físico e financeiro da obra'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Regularização Documental (ART e Alvarás)'
+        },
+        {
+          type: 'paragraph',
+          text: 'Toda reforma que mexe em estrutura, instalação ou fachada exige documentação legal. A Regê Engenharia providencia:'
+        },
+        {
+          type: 'list',
+          items: [
+            'ART (Anotação de Responsabilidade Técnica) no CREA-SC',
+            'Licença de obra na Prefeitura de Navegantes',
+            'Alvará de reinspeção pós-obra',
+            'Habite-se ou Termo de Reforma quando aplicável'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Reforma sem documentação é risco jurídico. No litoral, multas podem chegar a 200% do valor da obra."'
+        },
+        {
+          type: 'subheading',
+          text: '5. Engenharia de Valor: O Que Mais Aumenta seu Imóvel no Litoral'
+        },
+        {
+          type: 'paragraph',
+          text: 'Investir sem direção gera prejuízo. Baseado em dados de mercado 2026, a Regê Engenharia prioriza melhorias com maior ROI:'
+        },
+        {
+          type: 'table',
+          headers: ['Área de Intervenção', 'Investimento Médio', 'Aumento Estimado no Valor do Imóvel', 'ROI'],
+          rows: [
+            ['Cozinha planejada com iluminação embutida', 'R$ 25.000 – R$ 35.000', 'R$ 35.000 – R$ 50.000', '70% – 100%'],
+            ['Suíte master com honeypot e revestimento anticorrosão', 'R$ 40.000 – R$ 55.000', 'R$ 55.000 – R$ 75.000', '80% – 110%'],
+            ['Impermeabilização de laje + proteção fachada marinha', 'R$ 20.000 – R$ 30.000', 'R$ 25.000 – R$ 40.000', '65% – 100%'],
+            ['Esquadrias termopanela (todas)', 'R$ 30.000 – R$ 45.000', 'R$ 35.000 – R$ 50.000', '75% – 95%'],
+            ['Banheiros com revestimento até o teto e piso ininterrupto', 'R$ 20.000 – R$ 30.000', 'R$ 25.000 – R$ 40.000', '60% – 90%'],
+            ['Sistema de drenagem e calhas em aço inox', 'R$ 8.000 – R$ 12.000', 'R$ 10.000 – R$ 15.000', '55% – 80%']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"No litoral, a diferença entre gastar R$ 30.000 em acabamento \'de luxo\' que o próximo dono troca, ou R$ 30.000 em estrutura que ele valoriza e usa por 15 anos, é o sucesso da reforma."'
+        },
+        {
+          type: 'heading',
+          text: 'Erros que a Regê Engenharia Evita em Sua Reforma'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 1: Usar material de construção "comum" em ambiente de praia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Tubos PVC comuns, aço carbono exposto, pintura convencional externa — todos duram 1–2 anos no litoral. A Regê especifica materiais com resistência a cloretos e radiação UV.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 2: Reforma "de luxo" desproporcional ao imóvel'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não aplicamos a regra dos 10%–15% do valor do imóvel em reformas estéticas sem retorno estrutural. Priorizamos o que o comprador do litoral realmente valoriza.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 3: Ignorar a documentação legal'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não fazemos obra sem licença, ART e alvará. A regularização é parte do serviço, não um extra.'
+        },
+        {
+          type: 'subheading',
+          text: '❌ Erro 4: Reformar sem plano de manutenção preventiva'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entregamos ao cliente um manual de manutenção específico para imóveis de litoral, com cronograma de inspeção de esquadrias, calhas, tubulações e revestimentos.'
+        },
+        {
+          type: 'heading',
+          text: 'Depoimento de Cliente'
+        },
+        {
+          type: 'quote',
+          text: '"A Regê Engenharia reformou nosso apartamento de 2 quartos em Navegantes. Não só entregamos com tudo legalizado e em prazo, como o valor de mercado subiu 22% na semana seguinte ao anúncio de venda. A vistoria identificou um problema de drenagem que economizou R$ 15.000 em consertos futuros. Sem contar as esquadrias novas — o silêncio dentro de casa à noite fez toda a diferença." — Cliente, apartamento na área urbana de Navegantes, 2026'
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Está pronto para reformar com segurança?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de iniciar, confira se você tem o seguinte garantido com a Regê Engenharia:'
+        },
+        {
+          type: 'list',
+          items: [
+            '[ ] Vistoria técnica com relatório fotográfico e análise de condições',
+            '[ ] Projeto executivo assinado e registrado no CREA-SC',
+            '[ ] Licença de obra obtida na Prefeitura de Navegantes',
+            '[ ] Especificação de todos os materiais para ambiente marinho (cloreto, UV)',
+            '[ ] Cronograma de execução com fases e prazos definidos',
+            '[ ] Orçamento com 15% de contingência para imprevistos estruturais',
+            '[ ] Plano de manutenção preventiva pós-obra',
+            '[ ] ART vigente e documentação completa para futura venda ou locação'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Reformar em Navegantes não é sobre seguir moda — é sobre engenharia aplicada ao ambiente costeiro. A Regê Engenharia coloca técnica, material adequado e documentação em primeiro lugar, garantindo que sua reforma não apenas fique bonita, mas que **dure, proteja e valorize** seu investimento a longo prazo.'
+        },
+        {
+          type: 'quote',
+          text: '"No litoral, quem reforma sem projeto assinado por engenheiro está reformando para o lixo. Quem reforma com a Regê Engenharia, reformou para o futuro."'
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Balneário Camboriú, Itajaí, Penha e toda a região do litoral norte de SC'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  }
+,
+  {
+    slug: 'artigo-contratar-engenheiro-civil-navegantes',
+    title: 'Contratar Engenheiro Civil em Navegantes: Guia para Escolher Certo e Evitar Problemas',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Contratar Engenheiro Civil em Navegantes: Guia para Escolher Certo e Evitar Problemas - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Contratar um engenheiro civil em Navegantes é uma das decisões mais importantes para quem vai construir, reformar, regularizar um imóvel ou resolver um problema estrutural.',
+    readTime: '3 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Contratar um engenheiro civil em Navegantes é uma das decisões mais importantes para quem vai construir, reformar, regularizar um imóvel ou resolver um problema estrutural. No litoral norte de Santa Catarina, onde o solo é arenoso, a maresia acelera a corrosão e as enchentes do rio Itajaí-Açu exigem cuidados especiais, a experiência local faz toda a diferença.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Contratar um Engenheiro Civil em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'A legislação brasileira exige responsabilidade técnica (ART) para obras e serviços de engenharia. Mas além da obrigação legal, o engenheiro é o profissional que protege seu patrimônio:'
+        },
+        {
+          type: 'table',
+          headers: ['Demanda', 'O Que o Engenheiro Civil Resolve'],
+          rows: [
+            ['Construção nova', 'Projeto estrutural, fundações adequadas ao solo arenoso, fiscalização da obra'],
+            ['Reforma', 'Avaliação estrutural, adequação de projetos, emissão de ART'],
+            ['Regularização', 'Habite-se, alvarás, assessoria junto à prefeitura'],
+            ['Laudos e vistorias', 'Diagnóstico técnico, perícias, identificação de patologias'],
+            ['Orçamentos', 'Planilhas detalhadas, controle de custos, cronograma físico-financeiro']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Construir no litoral sem engenharia local é assumir riscos que só aparecem depois — quando a correção custa muito mais caro."'
+        },
+        {
+          type: 'heading',
+          text: 'Como Escolher o Engenheiro Certo em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Verifique o Registro no CREA-SC'
+        },
+        {
+          type: 'paragraph',
+          text: 'Consulte sempre o número de registro no Conselho Regional de Engenharia e Agronomia de Santa Catarina. Sem ART, a obra é irregular e você responde judicialmente por qualquer acidente.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Avalie a Experiência no Litoral'
+        },
+        {
+          type: 'paragraph',
+          text: 'Navegantes tem particularidades que engenheiros de outras regiões nem sempre conhecem:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo arenoso e lençol freático raso — exige fundações específicas (estacas, radier, microestacas)',
+            'Maresia — estruturas e instalações elétricas precisam de proteção contra corrosão',
+            'Zonas de risco de inundação — projetos precisam atender às exigências da Defesa Civil e do Código de Obras',
+            'Vento e umidade — influenciam esquadrias, cobertura e impermeabilização'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Peça Portfólio e Referências'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um bom profissional mostra obras já executadas na região, laudos emitidos e relações com fornecedores e construtoras locais. Desconfie de orçamentos fechados sem visita técnica.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Exija Projeto e ART'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nunca aceite obra "no improviso". O projeto aprovado e a ART são a garantia de que o trabalho segue as normas técnicas (NBR) e a legislação municipal.'
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de Alerta ao Contratar'
+        },
+        {
+          type: 'list',
+          items: [
+            'Orçamento muito abaixo do mercado, sem detalhamento',
+            'Recusa em emitir ART ou contrato',
+            'Promessas de aprovação de projeto sem visita ao imóvel',
+            'Falta de registro ativo no CREA-SC',
+            'Ausência de endereço fixo ou histórico na região'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Por Que a Regê Engenharia é a Solução em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** atua há anos no litoral catarinense, com equipe credenciada e presença ativa em Navegantes, Meia Praia, São Domingos, Balneário Camboriú e Itajaí. Nosso diferencial está justamente no que o contratante mais precisa: conhecimento técnico do litoral + compromisso com resultado.'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Como a Regê Resolve'],
+          rows: [
+            ['Projetos', 'Arquitetônico, estrutural, hidrossanitário e elétrico alinhados à realidade do litoral e ao Código de Obras de Navegantes'],
+            ['Aprovações', 'Acompanhamento completo junto à prefeitura, bombeiros e concessionárias até o alvará'],
+            ['Fiscalização de obra', 'Visitas técnicas, relatórios fotográficos e controle de qualidade em campo'],
+            ['Laudos e perícias', 'Vistorias cautelares, laudos de patologias, perícias judiciais e extrajudiciais'],
+            ['Regularização', 'Habite-se, averbação, REURB e regularização de imóveis antigos'],
+            ['Consultoria', 'Aconselhamento técnico antes de você investir em terreno, obra ou compra de imóvel']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia — engenharia de verdade para o litoral catarinense. Responsabilidade técnica, transparência e acompanhamento em todas as etapas.'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes sobre Contratar Engenheiro Civil em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Posso construir sem engenheiro?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não. Obras sem ART são irregulares, impedem financiamento e habite-se, e expõem o proprietário a multas e responsabilidade civil e criminal em caso de acidentes.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Quanto custa contratar um engenheiro civil em Navegantes?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Varia conforme o serviço. Projetos residenciais costumam partir de um percentual sobre o custo da obra ou valor fechado por área. Laudos e vistorias têm preço por imóvel. Solicite uma proposta detalhada — orçamento transparente é sinal de profissionalismo.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"O engenheiro precisa morar em Navegantes?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não obrigatoriamente, mas a proximidade facilita visitas técnicas, fiscalização e agilidade no atendimento. Profissionais da região conhecem fornecedores, exigências da prefeitura e peculiaridades do clima e do solo.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"O que é ART e por que ela importa?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Anotação de Responsabilidade Técnica é o documento que vincula o profissional à obra e garante respaldo técnico e jurídico. Sem ela, o trabalho é clandestino.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Contratar um engenheiro civil em Navegantes não é burocracia — é proteção. É a diferença entre uma obra segura, regularizada e valorizada e um problema futuro com trincas, multas e interdições.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** une técnica, experiência local e atendimento próximo para entregar soluções completas, do projeto à entrega das chaves. Se você está planejando construir, reformar, regularizar ou diagnosticar um imóvel, fale com a Regê antes de tomar a decisão mais importante do seu investimento.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Navegantes/SC**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projetos, laudos, fiscalização e regularização para todo o litoral catarinense.'
+        },
+        {
+          type: 'table',
+          headers: ['Fale com um engenheiro: [WhatsApp]', '[Site]', '[Instagram]'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Atendemos: Navegantes, Balneário Camboriú, Itajaí, Penha, Barra Velha, São Francisco do Sul e região.'
+        }
+    ]
+  }
+,
+  {
+    slug: 'empresa-engenharia-civil-litoral-santa-catarina',
+    title: 'Empresa de Engenharia Civil no Litoral de Santa Catarina: Por Que a Escolha Certa Transforma Sua Obra',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/Evitando Corrosão e Umidade em Navegantes.png',
+    imageAlt: 'Empresa de Engenharia Civil no Litoral de Santa Catarina: Por Que a Escolha Certa Transforma Sua Obra - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'O litoral de Santa Catarina é uma das regiões mais dinâmicas do país para construção civil.',
+    readTime: '3 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'O litoral de Santa Catarina é uma das regiões mais dinâmicas do país para construção civil. De Navegantes a Itajaí, de Balneário Camboriú a São Francisco do Sul, obras residenciais, comerciais e industriais avançam em ritmo acelerado. Mas construir bem no litoral exige mais do que técnica: exige uma empresa de engenharia civil que conheça o terreno, o clima e a legislação locais. É aí que a **Regê Engenharia** se destaca.'
+        },
+        {
+          type: 'heading',
+          text: 'Os Desafios do Litoral Catarinense na Construção Civil'
+        },
+        {
+          type: 'paragraph',
+          text: 'Construir à beira-mar não é como construir no interior. Cada fator do ambiente litorâneo impõe exigências técnicas específicas:'
+        },
+        {
+          type: 'table',
+          headers: ['Fator', 'Desafio Técnico', 'Solução de Engenharia'],
+          rows: [
+            ['Solo arenoso', 'Baixa capacidade de carga, recalques', 'Estudo geotécnico, fundações por estacas, radier ou microestacas'],
+            ['Lençol freático raso', 'Infiltração, problemas em subsolos', 'Impermeabilização, drenagem, contenção'],
+            ['Maresia', 'Corrosão de armaduras e estruturas metálicas', 'Concreto com proteção adequada, materiais resistentes, manutenção programada'],
+            ['Chuvas intensas', 'Alagamentos, danos a fundações', 'Sistemas de drenagem pluvial dimensionados'],
+            ['Ventos fortes', 'Necessidade de maior rigidez estrutural', 'Estruturas dimensionadas conforme normas de vento'],
+            ['Zonas de risco', 'Restrições da Defesa Civil e zoneamento', 'Projetos compatíveis com o Código de Obras de cada município']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"No litoral, o barato sai caro. Um projeto que ignora a maresia ou o solo arenoso cobra a conta em poucos anos."'
+        },
+        {
+          type: 'heading',
+          text: 'O Que Buscar em uma Empresa de Engenharia Civil no Litoral de SC'
+        },
+        {
+          type: 'subheading',
+          text: '1. Registro e Responsabilidade Técnica'
+        },
+        {
+          type: 'paragraph',
+          text: 'A empresa precisa de responsável técnico registrado no CREA-SC e emitir ART para todos os serviços. Sem isso, não há respaldo legal nem técnico.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Portfólio Regional'
+        },
+        {
+          type: 'paragraph',
+          text: 'Peça obras já executadas na região do litoral. Uma empresa que atua em Navegantes, Itajaí e Balneário Camboriú conhece fornecedores, prefeituras, prazos de aprovação e peculiaridades de cada município.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Serviços Completos'
+        },
+        {
+          type: 'paragraph',
+          text: 'Prefira empresas que cubram todas as etapas: projetos, aprovações, fiscalização, laudos, regularização e consultoria. Isso evita retrabalho e perda de informação entre prestadores diferentes.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Transparência Comercial'
+        },
+        {
+          type: 'paragraph',
+          text: 'Orçamentos detalhados, contratos claros, cronogramas realistas e comunicação acessível fazem parte do serviço de uma boa empresa de engenharia.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Conhecimento de Normas e Legislação'
+        },
+        {
+          type: 'paragraph',
+          text: 'Código de Obras municipal, normas da ABNT, legislação ambiental, exigências dos bombeiros: a empresa precisa dominar tudo para o projeto andar sem surpresas.'
+        },
+        {
+          type: 'heading',
+          text: 'Serviços que uma Empresa de Engenharia Civil Deve Oferecer'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projetos: arquitetônico, estrutural, hidrossanitário, elétrico, de prevenção contra incêndio e BIM',
+            'Aprovações: alvará de construção, aprovação junto à prefeitura, bombeiros e concessionárias',
+            'Fiscalização de obras: acompanhamento técnico, controle de qualidade, relatórios',
+            'Laudos e vistorias: patologias construtivas, vistoria cautelar, inspeção predial, perícias',
+            'Regularização: habite-se, averbação, REURB, regularização de construções antigas',
+            'Consultoria: análise de viabilidade, compatibilização de projetos, assessoria jurídica e técnica'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Pode Ser a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** é uma empresa de engenharia civil com atuação consolidada no litoral de Santa Catarina, especializada nas demandas reais de quem constrói, reforma ou regulariza imóveis na região.'
+        },
+        {
+          type: 'table',
+          headers: ['Necessidade do Cliente', 'Como a Regê Resolve'],
+          rows: [
+            ['Construir no litoral com segurança', 'Projetos estruturais adaptados ao solo arenoso e à maresia'],
+            ['Aprovar projeto rápido na prefeitura', 'Equipe que acompanha todo o trâmite em Navegantes e região'],
+            ['Evitar patologias e gastos futuros', 'Fiscalização de obra e laudos técnicos preventivos'],
+            ['Regularizar imóvel antigo', 'Habite-se, averbação e consultoria fundiária'],
+            ['Avaliar compra ou venda de imóvel', 'Laudos de avaliação e vistoria técnica'],
+            ['Reduzir custos da obra', 'Compatibilização de projetos e controle de orçamento']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia — engenharia civil com expertise local, do projeto à entrega. Atendemos todo o Litoral Norte de Santa Catarina.'
+        },
+        {
+          type: 'heading',
+          text: 'Cidades Atendidas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia atende clientes em:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Navegantes (incluindo Meia Praia e São Domingos)',
+            'Itajaí',
+            'Balneário Camboriú',
+            'Penha, Piçarras, Barra Velha e Bombinhas',
+            'São Francisco do Sul e região'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes sobre Contratar uma Empresa de Engenharia no Litoral de SC'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Preciso mesmo de uma empresa local?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. O conhecimento do solo, da maresia, das zonas de risco e das exigências das prefeituras do litoral só vem de quem atua na região. Uma empresa de fora pode entregar um projeto tecnicamente correto, mas inadequado ao ambiente.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"A Regê Engenharia faz só projetos ou acompanha a obra?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Fazemos as duas coisas. Da concepção do projeto à fiscalização em campo, com relatórios periódicos e comunicação direta com o cliente.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Quanto custa contratar uma empresa de engenharia civil?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Depende do escopo. Projetos, laudos e consultorias têm precificação própria; fiscalização costuma ser percentual sobre o custo da obra. Enviamos proposta detalhada após análise da sua necessidade.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"A Regê atende obras industriais?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Temos experiência em galpões industriais, áreas logísticas e estruturas de médio e grande porte na região de Navegantes, um dos maiores polos industriais do estado.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Escolher uma empresa de engenharia civil no litoral de Santa Catarina é escolher quem vai proteger seu investimento. Técnica, experiência regional e compromisso caminham juntas — e é exatamente isso que a **Regê Engenharia** entrega em cada projeto, laudo e obra acompanhada.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de começar sua construção, reforma ou regularização, converse com a Regê. A decisão certa no início evita problemas caros no futuro.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Litoral Norte de Santa Catarina**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projetos, laudos, fiscalização e regularização para residências, comércios e indústrias.'
+        },
+        {
+          type: 'table',
+          headers: ['Fale com um engenheiro: [WhatsApp]', '[Site]', '[Instagram]'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Atendemos: Navegantes, Balneário Camboriú, Itajaí, Penha, Barra Velha, São Francisco do Sul e região.'
+        }
+    ]
+  }
+,
+  {
+    slug: 'artigo-diferenca-engenheiro-civil-arquiteto-rege-solucao',
+    title: 'Diferença Entre Engenheiro Civil e Arquiteto: Quando Contratar Cada Um',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Diferença Entre Engenheiro Civil e Arquiteto: Quando Contratar Cada Um - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Uma das dúvidas mais comuns de quem vai construir, reformar ou aprovar um projeto é: qual a diferença entre engenheiro civil e arquiteto? Apesar de muitas vezes trabalharem lado a lado, as duas.',
+    readTime: '3 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Uma das dúvidas mais comuns de quem vai construir, reformar ou aprovar um projeto é: **qual a diferença entre engenheiro civil e arquiteto?** Apesar de muitas vezes trabalharem lado a lado, as duas profissões têm atribuições, formações e responsabilidades distintas — e saber diferenciá-las evita erros caros em sua obra.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste artigo, explicamos de forma clara o papel de cada profissional, quando cada um é necessário e como a **Regê Engenharia** pode ser a solução completa para o seu projeto em Navegantes/SC.'
+        },
+        {
+          type: 'heading',
+          text: 'Formação e Conselho Profissional'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Engenheiro Civil', 'Arquiteto e Urbanista'],
+          rows: [
+            ['Formação', 'Bacharelado em Engenharia Civil (5 anos)', 'Bacharelado em Arquitetura e Urbanismo (5 anos)'],
+            ['Conselho', 'CREA-SC', 'CAU-SC'],
+            ['Foco geral', 'Técnica, estrutura, segurança, custos', 'Estética, funcionalidade, conforto, espaço']
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Ambos podem ser responsáveis técnicos (ART no CREA ou RRT no CAU), mas para áreas diferentes.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que o Arquiteto Faz'
+        },
+        {
+          type: 'paragraph',
+          text: 'O arquiteto é especialista em projetar **como o espaço será vivido**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto arquitetônico — plantas, fachadas, cortes e layout',
+            'Conforto ambiental — iluminação natural, ventilação, insolação',
+            'Estética e funcionalidade — estética da construção, aproveitamento dos ambientes',
+            'Interiores e design — acabamentos, mobiliário planejado, decoração',
+            'Paisagismo — integração do imóvel com áreas externas',
+            'Projeto de acessibilidade e circulação'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Em resumo: o arquiteto pensa no **conceito, na experiência e na beleza** do espaço.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que o Engenheiro Civil Faz'
+        },
+        {
+          type: 'paragraph',
+          text: 'O engenheiro civil é especialista em **como o espaço será construído com segurança e viabilidade**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto estrutural — fundações, pilares, vigas, lajes',
+            'Cálculo e dimensionamento conforme normas (NBR)',
+            'Orçamentos e viabilidade técnica e econômica',
+            'Fundações — estudo de solo, sondagem, escolha do tipo de fundação',
+            'Instalações — projetos elétricos, hidrossanitários, drenagem, gás',
+            'Fiscalização de obra — acompanhamento técnico, qualidade, prazos',
+            'Laudos técnicos, perícias e vistorias',
+            'Aprovações técnicas — junto à prefeitura, Corpo de Bombeiros, concessionárias',
+            'Segurança do trabalho na construção'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Em resumo: o engenheiro pensa na **segurança, na estrutura, no custo e na viabilidade**.'
+        },
+        {
+          type: 'heading',
+          text: 'Comparando na Prática'
+        },
+        {
+          type: 'table',
+          headers: ['Situação', 'Quem resolve'],
+          rows: [
+            ['"Quero uma casa bonita e bem distribuída"', 'Arquiteto'],
+            ['"Preciso garantir que a laje não vaze e a fundação não trance"', 'Engenheiro civil'],
+            ['"Preciso aprovar o projeto na prefeitura"', 'Ambos — projetos complementares'],
+            ['"Descobri uma trinca estrutural na parede"', 'Engenheiro civil'],
+            ['"Quero reformar a cozinha integrando com a sala"', 'Arquiteto (projeto) + Engenheiro (avaliação estrutural)'],
+            ['"Quero um galpão industrial em Machados"', 'Engenheiro civil (projetos + aprovação)']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Onde os Dois Trabalham Juntos'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na maioria das obras sérias, arquiteto e engenheiro civil trabalham **em conjunto**:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'O arquiteto cria o projeto conceitual e de layout.',
+            'O engenheiro transforma esse conceito em estrutura segura, elétrica, hidráulica e viável financeiramente.',
+            'Ambos assinam as peças de responsabilidade que vão para a aprovação na prefeitura.'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Sem engenheiro, uma bela planta pode gerar problemas estruturais e custos imprevistos. Sem arquiteto, uma estrutura segura pode resultar em espaços mal aproveitados.'
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Pode Ser a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se o seu lado da obra é a parte **técnica e segura** — e é aqui que a maioria das dores de cabeça aparece —, a Regê Engenharia é o parceiro certo:'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Projetos Estruturais e Complementares'
+        },
+        {
+          type: 'paragraph',
+          text: 'Estruturas em concreto armado, metálicas e alvenaria estrutural, dimensionadas pelas normas ABNT, além de projetos elétricos, hidrossanitários e de drenagem.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Aprovação na Prefeitura de Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Protocolos, projetos para aprovação, acompanhamento de exigências e liberação de alvarás e Habite-se.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Fundações para o Litoral'
+        },
+        {
+          type: 'paragraph',
+          text: 'Estudo de solo e soluções de fundação adequadas ao solo arenoso e ao lençol freático de Navegantes e Meia Praia.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Laudos, Perícias e Vistorias'
+        },
+        {
+          type: 'paragraph',
+          text: 'Diagnóstico de patologias, infiltrações, trincas, perícias judiciais e laudos de avaliação.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Acompanhamento de Obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'Fiscalização técnica para garantir que o que foi projetado seja o que foi construído.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Responsabilidade Técnica (ART) em Todas as Etapas'
+        },
+        {
+          type: 'paragraph',
+          text: 'Segurança jurídica registrada no CREA-SC do início ao fim.'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'paragraph',
+          text: '**Posso contratar só o arquiteto para construir?** O arquiteto projeta o espaço, mas para cálculo estrutural, fundações e aprovações técnicas você precisará de um engenheiro civil.'
+        },
+        {
+          type: 'paragraph',
+          text: '**O engenheiro civil substitui o arquiteto?** Não. O engenheiro garante segurança e viabilidade; o arquiteto garante funcionalidade e estética. O ideal é a parceria dos dois.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Quem assina a responsabilidade pela obra?** Depende da etapa: projeto arquitetônico é assinado pelo arquiteto (RRT), projeto estrutural e execução técnica pelo engenheiro (ART).'
+        },
+        {
+          type: 'paragraph',
+          text: '**Preço de engenheiro vs. arquiteto?** Os honorários variam por escopo e complexidade. Muitos escritórios oferecem pacotes integrados. A Regê Engenharia apresenta orçamento claro por etapa.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Arquiteto e engenheiro civil não são concorrentes — são complementares. O arquiteto desenha o sonho; o engenheiro garante que ele se sustente com segurança. Para o lado técnico, estrutural e burocrático da sua obra, a **Regê Engenharia** é a solução completa em Navegantes/SC.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Vai construir ou regularizar? Fale com a Regê Engenharia e tenha um projeto seguro do papel à obra.**'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-laudo-avaliacao-imovel-navegantes',
+    title: 'Laudo de Avaliação de Imóvel em Navegantes SC: Guia Completo e Como a Regê Engenharia Pode Ajudar',
+    tag: 'LAUDOS',
+    image: '/images/analise-estrutura.png',
+    imageAlt: 'Laudo de Avaliação de Imóvel em Navegantes SC: Guia Completo e Como a Regê Engenharia Pode Ajudar - artigo técnico da Regê Engenharia sobre laudos em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Você precisa saber exatamente quanto vale seu imóvel em Navegantes — seja para vender, financiar, dividir herança, garantir seguro ou atender uma exigência judicial.',
+    readTime: '7 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Você precisa saber **exatamente quanto vale seu imóvel em Navegantes** — seja para vender, financiar, dividir herança, garantir seguro ou atender uma exigência judicial. Um **laudo de avaliação de imóvel** bem feito, seguindo a **ABNT NBR 14653** e com **ART registrada no CREA-SC**, não é apenas um documento: é a segurança de que o valor está correto, defensável e aceito por bancos, cartórios, seguradoras e pelo judiciário.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Neste guia completo, explicamos o que é o laudo de avaliação, quando ele é obrigatório, como funciona a metodologia, os prazos e custos em Navegantes, e por que a **Regê Engenharia** é a parceira técnica ideal para entregar seu laudo com rigor, agilidade e validade jurídica.'
+        },
+        {
+          type: 'heading',
+          text: 'O que é Laudo de Avaliação de Imóvel'
+        },
+        {
+          type: 'paragraph',
+          text: 'O **laudo de avaliação de imóvel** é um documento técnico elaborado por engenheiro civil ou arquiteto habilitado, com registro no CREA/CAU, que determina o **valor de mercado** de um bem imóvel (residencial, comercial, industrial, terreno ou área rural) através de metodologia normatizada.'
+        },
+        {
+          type: 'table',
+          headers: ['Elemento', 'Descrição'],
+          rows: [
+            ['Norma principal', 'ABNT NBR 14653 (Avaliação de bens — Parte 1 a 4)'],
+            ['Responsável técnico', 'Engenheiro civil ou arquiteto com ART registrada'],
+            ['Finalidade', 'Fixar valor para fins comerciais, judiciais, securitários, fiscais ou contábeis'],
+            ['Validade', 'Geralmente 6 a 12 meses (conforme mercado e finalidade)'],
+            ['Aceitação', 'Bancos (SFH/SFI), cartórios, Receita Federal, seguradoras, juízos, MTE']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Diferença crucial: Avaliação de corretor estima preço de venda; Laudo de avaliação (NBR 14653) fixa valor de mercado com metodologia científica, responsabilidade técnica e prova documental.'
+        },
+        {
+          type: 'heading',
+          text: 'Quando o Laudo de Avaliação é Obrigatório em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Situações Comuns no Litoral Catarinense'
+        },
+        {
+          type: 'table',
+          headers: ['Situação', 'Por que exige laudo', 'Quem solicita'],
+          rows: [
+            ['Financiamento imobiliário (SFH/SFI)', 'Garantia do crédito; banco precisa saber se o imóvel cobre o empréstimo', 'Banco / Agente financeiro (Caixa, Santander, Bradesco, Itaú, cooperativas)'],
+            ['Inventário / Partilha / Divórcio', 'Base para divisão justa de bens; evita litígios entre herdeiros', 'Cartório / Juízo / Advogado'],
+            ['Venda / Compra com segurança', 'Evita prejuízo por precificar acima ou abaixo do mercado', 'Proprietário / Comprador / Corretor'],
+            ['Seguro de imóvel (residencial/comercial)', 'Define o valor de reconstrução (VPN) para apólice e prêmio', 'Seguradora'],
+            ['Alienação de bens de empresa', 'Compliance contábil; demonstração de ativos ao valor justo', 'Contabilidade / Sócios / Auditores'],
+            ['Desapropriação / Ação judicial', 'Prova técnica do valor para indenização', 'Juízo / Advogado / Perito do juízo'],
+            ['Garantia de empréstimo (alienação fiduciária)', 'Valor do bem dado em garantia', 'Credor / Banco'],
+            ['Regularização fundiária / REURB', 'Base para titulação e cálculo de contrapartidas', 'Prefeitura / Cartório'],
+            ['Leilão judicial ou extrajudicial', 'Valor mínimo de lance (avaliação prévia)', 'Leiloeiro / Juízo']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Metodologia: Como o Valor é Calculado (NBR 14653)'
+        },
+        {
+          type: 'paragraph',
+          text: 'A NBR 14653 estabelece três **abordagens de valor**. O avaliador escolhe a(s) mais adequada(s) ao caso e pondera os resultados.'
+        },
+        {
+          type: 'subheading',
+          text: '1. Abordagem Comparativa de Dados de Mercado (Mais usada para residencial)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Pesquisa de imóveis similares vendidos recentemente na mesma região',
+            'Ajustes por diferenças: área, acabamento, estado, andar, vista, vagas, lazer',
+            'Fonte: Transações reais (escrituras, contratos), anúncios verificados, bases de dados imobiliários'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Abordagem do Custo (Para imóveis únicos, novos ou especiais)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Valor do terreno (por comparação de terrenos)',
+            '+ Custo de reprodução/reposição da construção (tabelas SINAPI, TCPO, orçamentos locais)',
+            '– Depreciação (física, funcional, econômica)',
+            '= Valor do imóvel'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Abordagem da Renda (Para imóveis de investimento: aluguel, comercial, galpões)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Renda líquida anual (aluguel – despesas – vacância – inadimplência)',
+            '÷ Taxa de capitalização (cap rate) de mercado para o tipo/região',
+            '= Valor do imóvel'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Em Navegantes, a abordagem comparativa costuma ser a principal para residências (Meia Praia, Gravatá, São Domingos, Centro), enquanto a abordagem da renda é essencial para galpões em Machados/São Domingos e imóveis comerciais no Centro. A abordagem do custo complementa quando há poucos comparáveis (imóveis de alto padrão únicos, indústrias).'
+        },
+        {
+          type: 'heading',
+          text: 'Etapas do Laudo de Avaliação pela Regê Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: '1. Briefing e Definição do Escopo'
+        },
+        {
+          type: 'list',
+          items: [
+            'Finalidade do laudo (banco, cartório, venda, judicial, seguro)',
+            'Identificação do imóvel (matrícula, endereço, tipo)',
+            'Prazo de entrega e orçamento fechado'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Coleta Documental'
+        },
+        {
+          type: 'list',
+          items: [
+            'Matrícula atualizada (cartório de Navegantes)',
+            'IPTU, plantas aprovadas, habite-se, averbações',
+            'Contratos de locação (se houver), condomínio, fotos anteriores'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Vistoria Técnica In Loco (Obrigatória)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Inspeção completa: estrutura, acabamentos, instalações, estado de conservação',
+            'Registro fotográfico datado e georreferenciado',
+            'Medições de áreas (conferência com projeto/matrícula)',
+            'Avaliação do entorno: infraestrutura, zoneamento, riscos (inundação, encosta, maresia)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Pesquisa de Mercado Local'
+        },
+        {
+          type: 'list',
+          items: [
+            'Levantamento de comparáveis reais vendidos nos últimos 6-12 meses nos bairros de Navegantes',
+            'Consulta a corretores locais, escrituras registradas, bases de dados imobiliárias',
+            'Análise de oferta atual (anúncios ativos) para tendência'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Cálculo e Redação do Laudo'
+        },
+        {
+          type: 'list',
+          items: [
+            'Aplicação das abordagens pertinentes',
+            'Conciliação dos valores e definição do Valor de Mercado Final',
+            'Redação conforme NBR 14653: identificação, finalidade, metodologia, análise, conclusão, anexos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '6. Entrega com ART'
+        },
+        {
+          type: 'list',
+          items: [
+            'Laudo em PDF assinado digitalmente + via impressa (se necessário)',
+            'ART registrada no CREA-SC (obrigatória para validade)',
+            'Suporte a esclarecimentos (banco, cartório, perito judicial, parte contrária)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Particularidades da Avaliação em Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Fator Local', 'Impacto na Avaliação', 'Como a Regê Trata'],
+          rows: [
+            ['Maresia (Meia Praia, orla)', 'Reduz vida útil de fachadas, esquadrias, armaduras; exige depreciação extra', 'Inspeção de corrosão; depreciação funcional na abordagem de custo; ajuste em comparáveis'],
+            ['Solo arenoso + lençol freático', 'Risco de recalque; fundações profundas encarecem reposição', 'Verificação de patologias; ajuste no custo de reprodução'],
+            ['Zonas de inundação (rio Itajaí-Açu)', 'Restrição de uso; desvalorização significativa (20-50%)', 'Consulta a zoneamento municipal; aplicação de fator de risco na comparação'],
+            ['Valorização portuária/industrial', 'Valorização de áreas logísticas (Machados, São Domingos)', 'Análise de tendência macro; abordagem de renda para galpões'],
+            ['Código Urbanístico LC 416/2023', 'Potencial construtivo (coeficiente de aproveitamento) afeta valor do terreno', 'Leitura do zoneamento; cálculo de potencial construtivo residual'],
+            ['Turismo de temporada', 'Imóveis em Meia Praia/Gravatá têm renda sazonal alta', 'Abordagem da renda com sazonalidade; cap rate ajustado']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Documentos Necessários para o Laudo'
+        },
+        {
+          type: 'table',
+          headers: ['Documento', 'Obrigatório?', 'Observação'],
+          rows: [
+            ['Matrícula do imóvel (atualizada ≤ 30 dias)', '✅ Sim', 'Cartório de Registro de Imóveis de Navegantes'],
+            ['IPTU (último exercício)', '✅ Sim', 'Confere área, testada, valor venal'],
+            ['Planta aprovada / Projeto arquitetônico', '✅ Sim', 'Para conferir área construída e regularidade'],
+            ['Habite-se / Carta de Habitação', '⚠️ Se houver', 'Comprova regularidade da construção'],
+            ['Averbação da construção', '⚠️ Se averbada', 'Área averbada x área real'],
+            ['Contratos de locação vigentes', '⚠️ Se alugado', 'Para abordagem de renda'],
+            ['Convenção de condomínio / Regimento', '⚠️ Se condomínio', 'Define áreas privativas/comuns, vagas'],
+            ['Laudos anteriores (estrutural, patologia)', '⚠️ Se existirem', 'Podem afetar estado de conservação']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Dica: Se faltar algum documento, a Regê Engenharia orienta como obter (certidões cartoriais, projetos na Prefeitura, etc.) e pode realizar a vistoria mesmo com documentação parcial — o laudo registrará as premissas adotadas.'
+        },
+        {
+          type: 'heading',
+          text: 'Prazos e Investimento (Referência 2025/2026)'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Imóvel', 'Prazo de Entrega', 'Investimento Estimado'],
+          rows: [
+            ['Residencial unifamiliar (casa, sobrado)', '7 a 10 dias úteis', 'R$ 1.500 a R$ 3.500'],
+            ['Apartamento / Cobertura', '5 a 8 dias úteis', 'R$ 1.200 a R$ 2.800'],
+            ['Terreno urbano / Lote', '5 a 7 dias úteis', 'R$ 1.000 a R$ 2.500'],
+            ['Comercial / Loja / Sala', '7 a 12 dias úteis', 'R$ 2.000 a R$ 5.000'],
+            ['Galpão / Industrial (Machados, São Domingos)', '10 a 15 dias úteis', 'R$ 3.000 a R$ 8.000'],
+            ['Área rural / Chácara', '10 a 20 dias úteis', 'R$ 2.500 a R$ 6.000'],
+            ['Urgência (fiscalização, audiência, leilão)', '48 a 72h (fluxo expresso)', '+50% sobre tabela']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Incluso: Vistoria, pesquisa de mercado, laudo completo em PDF, ART no CREA-SC, suporte a esclarecimentos por 30 dias. Não incluso: Certidões cartoriais (matrícula, ônus), deslocamento fora da AMFRI (sob consulta).'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Escolher a Regê Engenharia para seu Laudo em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: '1. Credenciamento e Validade Garantida'
+        },
+        {
+          type: 'list',
+          items: [
+            'Engenheiros civis com CREA-SC ativo e experiência comprovada em avaliações',
+            'ART registrada em todos os laudos — aceitos por Caixa, Banco do Brasil, Bradesco, Santander, Itaú, cooperativas, cartórios de Navegantes/Itajaí/Balneário Camboriú, Receita Federal, juízos da Comarca'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '2. Conhecimento Profundo do Mercado Local'
+        },
+        {
+          type: 'list',
+          items: [
+            'Atuamos em Navegantes desde 2010',
+            'Base de dados própria de transações reais nos bairros: Meia Praia, Gravatá, Centro, São Domingos, Machados, Itinga, Itapoá',
+            'Acompanhamento contínuo de tendências de valorização (expansão portuária, novas avenidas, empreendimentos de alto padrão)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3. Metodologia Rigorosa (NBR 14653)'
+        },
+        {
+          type: 'list',
+          items: [
+            'Não usamos "tabelas genéricas" ou "valor de zona"',
+            'Cada laudo tem pesquisa de comparáveis reais, ajustes documentados e conciliação fundamentada',
+            'Laudos resistem a contestação bancária, judicial ou de parte contrária'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '4. Agilidade com Qualidade'
+        },
+        {
+          type: 'list',
+          items: [
+            'Fluxo expresso para urgências (48-72h) — casos de leilão, embargo, audiência',
+            'Vistoria agendada em até 2 dias úteis após contratação',
+            'Entrega digital + impressa com ART no mesmo dia da finalização'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5. Suporte Pós-Entrega Incluso'
+        },
+        {
+          type: 'list',
+          items: [
+            'Banco pediu complementação? Respondemos sem custo adicional',
+            'Cartório questionou a metodologia? Esclarecemos tecnicamente',
+            'Parte contrária contestou? Auxiliamos seu advogado com subsídios técnicos',
+            'Perito judicial nomeou? Atuamos como assistente técnico (serviço à parte)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Casos Reais Resolvidos em Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Caso', 'Desafio', 'Solução Regê', 'Resultado'],
+          rows: [
+            ['Financiamento Caixa - Casa Meia Praia', 'Banco questionou valor de anúncio (30% acima)', 'Laudo NBR 14653 com 5 comparáveis reais vendidos nos últimos 90 dias', 'Financiamento aprovado no valor pleiteado; cliente economizou R$ 180k'],
+            ['Inventário - Terreno Centro', 'Herdeiros discordavam do valor (diferença de 40%)', 'Laudo com abordagem comparativa + potencial construtivo (LC 416/2023)', 'Partilha homologada em cartório; acordo entre herdeiros'],
+            ['Seguro - Galpão Machados', 'Seguradora exigiu VPN (valor de reconstrução)', 'Abordagem do custo com SINAPI/TCPO local + depreciação real', 'Apólice emitida com prêmio correto; evitou subseguro'],
+            ['Venda - Apartamento Gravatá', 'Comprador pediu laudo para financiar no Santander', 'Laudo entregue em 6 dias; ART válida; vistoria documentada', 'Escritura lavrada em 30 dias'],
+            ['Ação Judicial - Desapropriação Parcial', 'Prefeitura ofereceu 60% do valor real', 'Laudo pericial assistido + abordagem comparatória + potencial construtivo', 'Acordo judicial 85% acima da oferta inicial']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: '"Qual a diferença entre laudo de avaliação e parecer de corretor?"'
+        },
+        {
+          type: 'table',
+          headers: ['Aspecto', 'Laudo de Avaliação (NBR 14653)', 'Parecer de Corretor'],
+          rows: [
+            ['Responsável', 'Engenheiro/Arquiteto (CREA/CAU)', 'Corretor de imóveis (CRECI)'],
+            ['Metodologia', 'Normatizada (NBR 14653)', 'Livre / experiência'],
+            ['ART', 'Obrigatória', 'Não se aplica'],
+            ['Validade jurídica', 'Alta (bancos, cartórios, juízo)', 'Baixa (apenas referência)'],
+            ['Custo', 'R$ 1.500+', 'Grátis a R$ 500']
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '"O laudo tem validade em todo o Brasil?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim.** A NBR 14653 é norma nacional. Um laudo emitido por engenheiro com CREA ativo (qualquer estado) tem validade em todo território. A Regê Engenharia emite laudos para imóveis em Navegantes e região com ART no CREA-SC.'
+        },
+        {
+          type: 'subheading',
+          text: '"Quanto tempo o laudo fica válido?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**6 a 12 meses**, dependendo da finalidade e volatilidade do mercado. Para financiamento, bancos costumam aceitar laudos de até **90 a 180 dias**. Para inventário/judicial, o juiz define. Em mercados em alta (como Navegantes 2024-2025), recomenda-se atualizar a cada 6 meses.'
+        },
+        {
+          type: 'subheading',
+          text: '"Posso usar o mesmo laudo para banco e cartório?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim**, se a finalidade for compatível (ex.: venda com financiamento). O laudo deve mencionar **todas as finalidades** no objeto. A Regê emite laudos multi-finalidade quando solicitado.'
+        },
+        {
+          type: 'subheading',
+          text: '"E se o imóvel tiver irregularidade (sem habite-se, área não averbada)?"'
+        },
+        {
+          type: 'paragraph',
+          text: 'O laudo **registra a irregularidade** e avalia o imóvel **no estado em que se encontra**, aplicando os devidos descontos/depreciações. Também orientamos sobre o custo e viabilidade de regularização.'
+        },
+        {
+          type: 'subheading',
+          text: '"Vocês atendem Itajaí, Balneário Camboriú, Penha, Camboriú?"'
+        },
+        {
+          type: 'paragraph',
+          text: '**Sim.** Atendemos toda a **AMFRI** (Navegantes, Itajaí, Balneário Camboriú, Camboriú, Penha, Porto Belo, Bombinhas, Piçarras, Barra Velha, Gaspar, Brusque, Luiz Alves) com mesma metodologia e ART válida.'
+        },
+        {
+          type: 'heading',
+          text: 'Checklist: Você Precisa de Laudo de Avaliação?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Marque as situações que se aplicam:'
+        },
+        {
+          type: 'list',
+          items: [
+            '[ ] Vou financiar imóvel (próprio ou de terceiros) — banco exigiu laudo',
+            '[ ] Estou em inventário / partilha / divórcio — precisa valor para dividir bens',
+            '[ ] Vou vender e quero preço real, não "chute" de corretor',
+            '[ ] Vou comprar e quero certeza de que não estou pagando acima do mercado',
+            '[ ] Preciso segurar o imóvel — seguradora pede laudo para definir VPN',
+            '[ ] Minha empresa vai alienar imóvel — contabilidade exige valor justo',
+            '[ ] Tenho ação judicial (desapropriação, indenização, leilão) — juiz determinou avaliação',
+            '[ ] Recebi notificação fiscal — valor venal do IPTU não condiz com a realidade',
+            '[ ] Estou em regularização fundiária (REURB) — prefeitura exige avaliação',
+            '[ ] Quero garantir empréstimo com imóvel em alienação fiduciária'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Se marcou 1 ou mais → você precisa de laudo de avaliação técnico.**'
+        },
+        {
+          type: 'heading',
+          text: 'Fale com a Regê Engenharia'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque seu patrimônio com "avaliações" sem método, sem ART e sem validade. A **Regê Engenharia** entrega laudos de avaliação de imóvel em Navegantes com:'
+        },
+        {
+          type: 'list',
+          items: [
+            '✅ NBR 14653 aplicada com rigor',
+            '✅ ART no CREA-SC em 100% dos serviços',
+            '✅ Vistoria in loco obrigatória com evidências',
+            '✅ Pesquisa de mercado local (não tabelas genéricas)',
+            '✅ Prazo expresso para urgências',
+            '✅ Suporte pós-entrega incluso'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '📞 **Solicite seu orçamento sem compromisso:** [https://bitlybr.net/rege](https://bitlybr.net/rege) 📧 **E-mail:** contato@rege-engenharia.com.br 📍 **Atendemos:** Navegantes, Itajaí, Balneário Camboriú, Camboriú, Penha, Porto Belo, Bombinhas, Piçarras, Barra Velha, Gaspar, Brusque e região do Litoral Norte de SC'
+        },
+        {
+          type: 'heading',
+          text: 'Próximos Passos'
+        },
+        {
+          type: 'subheading',
+          text: '1. Contato Inicial (WhatsApp / E-mail / Site)'
+        },
+        {
+          type: 'paragraph',
+          text: 'Informe: endereço do imóvel, finalidade do laudo, urgência, se tem documentação.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Orçamento Formal e Contrato'
+        },
+        {
+          type: 'paragraph',
+          text: 'Enviamos proposta com escopo, prazo, valor e ART. Aprovação = agendamento da vistoria.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Vistoria e Pesquisa'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nossa equipe vai ao imóvel, faz o levantamento completo e pesquisa comparáveis no mercado de Navegantes.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Entrega do Laudo com ART'
+        },
+        {
+          type: 'paragraph',
+          text: 'PDF assinado + ART registrada + suporte a esclarecimentos. Pronto para apresentar a banco, cartório, juízo ou seguradora.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Este artigo tem caráter educativo e informativo. Valores e prazos são referências de mercado 2025/2026 para a região de Navegantes/SC. Para contratação, solicite proposta formal com condições vigentes.*'
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-projeto-reforma-navegantes-regre-solucao',
+    title: 'Projeto de Reforma em Navegantes: Segurança, Conformidade e a Solução Regê Engenharia',
+    tag: 'REFORMAS',
+    image: '/images/engenheiro-economiza-dinheiro.png',
+    imageAlt: 'Projeto de Reforma em Navegantes: Segurança, Conformidade e a Solução Regê Engenharia - artigo técnico da Regê Engenharia sobre reformas em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Realizar uma reforma em Navegantes envolve mais do que apenas reformar ambientes — exige um projeto técnico que garanta a segurança da estrutura, conformidade com as normas municipais e.',
+    readTime: '5 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Realizar uma reforma em Navegantes envolve mais do que apenas reformar ambientes — exige um projeto técnico que garanta a segurança da estrutura, conformidade com as normas municipais e aproveitamento eficiente do espaço. Seja uma residência, comércio ou apartamento, o projeto de reforma bem elaborado evita embargos, reduz custos com retrabalho e aumenta o valor do imóvel. Neste artigo, abordamos a importância do projeto de reforma em Navegantes e como a Regê Engenharia pode ser a solução para o seu caso.'
+        },
+        {
+          type: 'heading',
+          text: '1. Por Que o Projeto de Reforma é Crítico em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, como em qualquer município litorâneo, reformas exigem atenção especial às condições locais e à legislação. O Código de Obras (Lei Complementar nº 001/2006) e o Plano Diretor (Lei Complementar nº 002/2006) estabelecem requisitos que devem ser observados desde a concepção do projeto.'
+        },
+        {
+          type: 'subheading',
+          text: '1.1 Segurança Estrutural'
+        },
+        {
+          type: 'paragraph',
+          text: 'Muitas reformas envolvem alterações que podem afetar a estrutura existente:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Remoção ou abertura de paredes de carga',
+            'Alteração de viga ou laje',
+            'Mudança de distribuição de cargas',
+            'Adição de novos elementos (esquadrias, porcelanatos, etc.)'
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Risco comum: Reformas sem projeto estrutural adequado podem comprometer a estabilidade do edifício, provocando trincas, afundamentos ou, em casos extremos, colapso parcial. Em Navegantes, o solo arenoso com lençol freático alto torna esse cuidado ainda mais essencial.'
+        },
+        {
+          type: 'subheading',
+          text: '1.2 Conformidade com o Código de Obras de Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'A prefeitura de Navegantes exige projeto técnico assinado e ART (Anotação de Responsabilidade Técnica) para:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Qualquer intervenção que altere a estrutura',
+            'Mudanças de uso do imóvel (residencial → comercial, por exemplo)',
+            'Ampliação de área construída',
+            'Alterações na fachada ou recuos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '1.3 Integração com Sistemas Existentes'
+        },
+        {
+          type: 'paragraph',
+          text: 'Reformais frequentemente requerem adequação de:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Sistemas hidrossanitários (canos, válvulas, caixas d\'água)',
+            'Instalações elétricas (quadros, circuito, iluminação)',
+            'Sistemas de prevenção a incêndio (quando aplicável)',
+            'Acessibilidade (Ramps, corrimãos - NBR 9050)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '2. Tipos Comuns de Reforma em Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Tipo de Reforma', 'Características', 'Requisitos Técnicos'],
+          rows: [
+            ['Reforma Residencial', 'Atualização de cômodos, acabamentos, redistribuição de espaços', 'Projeto arquitetônico + verificação estrutural se houver mudança de paredes portantes'],
+            ['Reforma Comercial', 'Adequação de lojas, escritórios, restaurantes', 'Projeto arquitetônico, elétrico, hidrossanitário, prevenção a incêndio (CBMSC), acessibilidade'],
+            ['Reforma de Apartamento', 'Atualização de interiores, substituição de instalações', 'Projeto unitário + aprovação da assembleia de condôminos + ART'],
+            ['Reforma Estrutural', 'Alteração de elementos portantes, fundações, cobertura', 'Projeto estrutural completo com cálculo e ART obrigatória'],
+            ['Reforma de Galpão/Indústria', 'Adequação de vãos, cobertura, acessos', 'Projeto estrutural, projetista de fundações, estudo de carga']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '3. Etapas do Projeto de Reforma'
+        },
+        {
+          type: 'subheading',
+          text: '3.1 Diagnóstico e Levantamento'
+        },
+        {
+          type: 'list',
+          items: [
+            'Medidas existentes do imóvel (plantas atuais ou medición on-site)',
+            'Avaliação das condições atuais da estrutura (patologia construtiva, trincas, afundamentos)',
+            'Verificação de documentos (ARTs vigentes, aprovações anteriores)',
+            'Identificação de restrições (zoneamento, recuos, servidões)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.2 Conceitualização'
+        },
+        {
+          type: 'list',
+          items: [
+            'Elaboração de plantas novas (plantas baixas, cortes, fachadas)',
+            'Estudos de viabilidade estrutural',
+            'Sugestão de layout funcional',
+            'Definição de materiais e acabamentos'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.3 Desenvolvimento do Projeto'
+        },
+        {
+          type: 'list',
+          items: [
+            'Dimensionamento estrutural (quando houver alteração de elementos portantes)',
+            'Projeto de instalações (elétrico, hidrossanitário, esgoto)',
+            'Especificação de materiais e acabamentos',
+            'Integração com normas (NBR 6118, NBR 5410, NBR 15527, etc.)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '3.4 Aprovação e Execução'
+        },
+        {
+          type: 'list',
+          items: [
+            'Protocolamento na Prefeitura de Navegantes (via e-Navegantes/1Doc)',
+            'Emissão de ART (se houver intervenção estrutural)',
+            'Aprovação de projetos complementares (hidráulico, elétrico, incêndio)',
+            'Acompanhamento da execução durante a obra'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '4. Principais Desafios em Projetos de Reforma em Navegantes'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio', 'Impacto', 'Solução Regê Engenharia'],
+          rows: [
+            ['Solo arenoso com alta permeabilidade', 'Fundações inadequadas, recalques', 'Estudo geotécnico + dimensionamento de fundação adequado'],
+            ['Maresia e umidade', 'Corrosão de ferragens, patologias concretas', 'Specificação de classe de proteção XC3+ , cobrimento mínimo'],
+            ['Ventos costeiros', 'Sobrecarga em cobertura e esquadrias', 'Cálculo de carga de vento NBR 6123 para áreas litorâneas'],
+            ['Restrições de zoneamento', 'Não conformidade com CA, taxa de ocupação', 'Consulta prévia de zoneamento + projeto adequado'],
+            ['Compatibilização de ARTs', 'Documentação fragmentada, recusas municipais', 'Integração de todos os projetos (arquitetônico, estrutural, hidráulico, elétrico) sob responsabilidade técnica única']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '5. Como a Regê EngenhariaResolve os Desafios da Reforma em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece serviço integrado de projeto de reforma em Navegantes, com conhecimento das condições locais e das normas aplicáveis.'
+        },
+        {
+          type: 'subheading',
+          text: '5.1 Diagnóstico Geotécnico Integrado'
+        },
+        {
+          type: 'list',
+          items: [
+            'Parceria com laboratórios para execução de sondagens quando necessária',
+            'Relatório de condições do solo e recomendações de fundação',
+            'Dimensionamento de intervenções fundacionais para reformas'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5.2 Projeto Estrutural Sob Medida'
+        },
+        {
+          type: 'list',
+          items: [
+            'Verificação da estrutura existente (laudos de patologia se necessário)',
+            'Cálculo de esforços considerando cargas novas e existentes',
+            'Dimensionamento de reforços ou ajustes necessários',
+            'Memoriais de cálculo detalhados e ART regularizada'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5.3 Integração Completa de Projetos'
+        },
+        {
+          type: 'list',
+          items: [
+            'Projeto arquitetônico alinhado ao estrutural',
+            'Projeto hidrossanitário compatível com a disposição existente',
+            'Projeto elétrico em conformidade com as normas e capacidade da instalação',
+            'Articulação com projetos de prevenção a incêndio (quando exigido)'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: '5.4 Aprovação Municipal Facilitada'
+        },
+        {
+          type: 'list',
+          items: [
+            'Protocolamento via e-Navegantes/1Doc com toda a documentação técnica',
+            'Elaboração de memorial de cálculo e relatórios técnicos necessários',
+            'Resposta a exigências da prefeitura durante análise',
+            'Emissão do Habite-se (quando a reforma caracterizar conclusão de obra)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '6. Serviços de Projeto de Reforma Regê Engenharia'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Descrição', 'Público-Alvo'],
+          rows: [
+            ['Projeto de Reforma Completo', 'Plantas novas, memorial descritivo, detalhes executivos, ART', 'Residências, apartamentos, comércios com intervenção leve'],
+            ['Projeto de Reforma Estrutural', 'Cálculo de esforços, dimensionamento de reforços, laudo de estabilidade', 'Reformas que envolvam paredes portantes, vigas, lajes'],
+            ['Diagnóstico de Estrutura Existente', 'Avaliação de condições atuais, identificação de patologias, laudo de estabilidade', 'Imóveis antigos ou com sinais de deterioração'],
+            ['Projeto de Adequação de Instalações', 'Projeto elétrico, hidrossanitário, esgoto reformulado', 'Atualização de sistemas em reformas gerais'],
+            ['Projeto de Interiores e Layout', 'Plantas baixas, sugestão de distribuição, escolha de materiais', 'Reformas focadas em conforto e funcionalidade'],
+            ['Assessoria de Aprovação Municipal', 'Orientação sobre documentos necessários, protocolo, exigências', 'Clientes que desejam evitar atrasos e retrabalho']
+          ]
+        },
+        {
+          type: 'heading',
+          text: '7. Benefícios de Contratar a Regê Engenharia para Sua Reforma'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Projeto adequado ao solo de Navegantes — Entendimento das condições arenosas e litorâneas',
+            'Menos surpresas durante a obra — Diagnóstico precoce de restrições e desafios',
+            'Aprovação mais rápida — Documentação técnica completa e alinhada às exigências municipais',
+            'Segurança garantida — Estrutura verificada e compatível com as novas cargas',
+            'Integração de todos os sistemas — Projetos arquitetônico, estrutural e de instalações alinhados',
+            'Valorização do imóvel — Reforma bem projetada aumenta o conforto e o valor de mercado',
+            'Paz de espírito — Acompanhamento técnico desde o conceito até a conclusão'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '8. Depoimento de Cliente'
+        },
+        {
+          type: 'quote',
+          text: '"Fizemos uma reforma completa em nossa casa de 150 m² no bairro Meia Praia, envolvendo retirada de paredes e nova distribuição de ambientes. A Regê Engenharia fez o projeto estrutural (para remoção de uma parede portante), o projeto arquitetônico e acompanhou toda a execução. O processo foi aprovado na prefeitura sem exigências e a obra seguiu conforme o planejado. Recomendo fortemente para quem quer reforma sem dores de cabeça." — Cliente residencial, Meia Praia'
+        },
+        {
+          type: 'heading',
+          text: '9. Investimento Referência 2025'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'Faixa de Custo'],
+          rows: [
+            ['Projeto de reforma residencial (até 200 m²)', 'R$ 3.000 a R$ 6.000'],
+            ['Projeto de reforma estrutural', 'R$ 2.500 a R$ 5.000'],
+            ['Projeto de reforma comercial', 'R$ 5.000 a R$ 12.000 (conforme porte)'],
+            ['Projeto de interiores e layout', 'R$ 2.000 a R$ 4.500'],
+            ['Diagnóstico de estrutura existente', 'R$ 1.200 a R$ 3.000'],
+            ['Assessoria de aprovação municipal', 'R$ 800 a R$ 2.000']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Valores referentes a projetos padrão para reformas em Navegantes. Orçamentos personalizados após visita técnica e definição do escopo da obra.'
+        },
+        {
+          type: 'heading',
+          text: '10. Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'O projeto de reforma em Navegantes exige mais do que desenhar novas distribuições — requer análise técnica das condições estruturais, conformidade com o Código de Obras municipal e integração de todos os sistemas envolvidos. Um projeto mal elaborado não compromete apenas a segurança dos ocupantes, mas pode resultar em custos absurdos de correção, embargos municipais e até impossibilidade de emissão do Habite-se.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Regê Engenharia oferece a combinação ideal de expertise técnica, conhecimento regional e compromisso com a segurança: projetos de reforma fundamentados em estudos de solo, cálculos estruturais aderentes às normas litorâneas e documentação completa para aprovação municipal.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não arrisque o seu patrimônio ou o conforto da sua família. Conte com a Regê Engenharia para garantir que a sua reforma tenha um projeto sólido, seguro e aprovado.'
+        },
+        {
+          type: 'heading',
+          text: 'Referências Normativas'
+        },
+        {
+          type: 'list',
+          items: [
+            'NBR 6118: Concrete structures — Design and construction',
+            'NBR 6123: Wind load on buildings and structures',
+            'NBR 5410: Electrical installations — Low tension',
+            'NBR 15527: Installations prediais de água pluvial',
+            'NBR 9050: Accessibility',
+            'Lei Complementar nº 001/2006: Código de Obras de Navegantes',
+            'Lei Complementar nº 002/2006: Plano Diretor de Navegantes',
+            'Resolução CONFEA 1.010/2006: Atribuições profissionais',
+            'ART — Anotação de Responsabilidade Técnica (obrigatória para intervenções estruturais)',
+            'Instruções Técnicas da Prefeitura de Navegantes para aprovação de projetos'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**Autor**: Regê Engenharia — Engenharia Civil e Estrutural em Navegantes/SC **Especialidade**: Projeto de Reforma para Litoral Catarinense'
+        },
+        {
+          type: 'table',
+          headers: ['Contato: (47) 9XXXX-XXXX', 'contato@regeengenharia.com.br', 'Site'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '**CREA-SC**: [Número do CREA]'
+        },
+        {
+          type: 'quote',
+          text: 'Artigo técnico para fins educacionais e profissionais. Não substitui projeto assinado por engenheiro habilitado com ART vigente. Para uma análise específica do seu imóvel, solicite um orçamento ou agendamento de visita técnica.'
+        }
+    ]
+  },
+  {
+    slug: 'artigo-regularizar-imovel-navegantes-rege-solucao',
+    title: 'Como Regularizar um Imóvel em Navegantes: Guia Completo e o Papel da Regê Engenharia',
+    tag: 'REGULARIZAÇÃO',
+    image: '/images/regularizacao.png',
+    imageAlt: 'Como Regularizar um Imóvel em Navegantes: Guia Completo e o Papel da Regê Engenharia - artigo técnico da Regê Engenharia sobre regularização em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Regularizar um imóvel em Navegantes/SC é um passo essencial para quem deseja vender, financiar, herdar ou simplesmente ter tranquilidade jurídica sobre o seu patrimônio.',
+    readTime: '4 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Regularizar um imóvel em Navegantes/SC é um passo essencial para quem deseja vender, financiar, herdar ou simplesmente ter tranquilidade jurídica sobre o seu patrimônio. Seja uma casa construída sem projeto aprovado, uma reforma que nunca foi regularizada ou um imóvel com documentação pendente, a regularização é o caminho para transformar um bem irregular em um ativo seguro e valorizado.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Nesse processo, contar com um escritório de engenharia experiente faz toda a diferença. A **Regê Engenharia**, com atuação no litoral norte catarinense, oferece assessoria técnica completa para regularizar imóveis em Navegantes, da análise documental até a liberação do Habite-se.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Regularizar um Imóvel?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um imóvel irregular traz riscos concretos ao proprietário:'
+        },
+        {
+          type: 'table',
+          headers: ['Risco de Não Regularizar', 'Consequência Prática'],
+          rows: [
+            ['Multas e embargos', 'A prefeitura pode multar e até embargar a obra'],
+            ['Impedimento de venda', 'Bancos e cartórios exigem documentação regular'],
+            ['Sem financiamento', 'Imóveis sem Habite-se não são aceitos como garantia'],
+            ['Desvalorização', 'Um imóvel irregular vale muito menos no mercado'],
+            ['Problemas em heranças', 'Inventários e partilhas ficam travados'],
+            ['Ligações precárias', 'Dificuldade de obter água, luz e esgoto definitivos']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Regularizar não é despesa — é investimento. Um imóvel regularizado pode valer até 30% mais do que um irregular."'
+        },
+        {
+          type: 'heading',
+          text: 'Situações Mais Comuns de Irregularidade'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em Navegantes, a Regê Engenharia atende diariamente casos como:'
+        },
+        {
+          type: 'subheading',
+          text: '1. Construção sem Projeto Aprovado'
+        },
+        {
+          type: 'paragraph',
+          text: 'Casas erguidas sem alvará de construção nem projeto aprovado na prefeitura. É o caso mais frequente, principalmente em construções antigas e em bairros de expansão como São Domingos e Gravatá.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Ampliação não Declarada'
+        },
+        {
+          type: 'paragraph',
+          text: 'Aumentou um quarto, fechou a varanda, construiu um segundo pavimento? Se a ampliação não foi aprovada, o imóvel está em situação irregular.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Habite-se Não Emitido'
+        },
+        {
+          type: 'paragraph',
+          text: 'A obra terminou, mas o proprietário nunca recebeu o certificado de conclusão. Sem ele, o imóvel não existe legalmente perante o município.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Divergência entre Projeto e Obra'
+        },
+        {
+          type: 'paragraph',
+          text: 'O projeto aprovado diz uma coisa, mas a obra entregou outra. A regularização exige um projeto *as-built* (como construído) para reconciliar a documentação.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Área Construída Não Registrada em Matrícula'
+        },
+        {
+          type: 'paragraph',
+          text: 'A matrícula no cartório não reflete a área real construída. É necessário retificar a matrícula para que o registro acompanhe a realidade.'
+        },
+        {
+          type: 'heading',
+          text: 'Passo a Passo: Como Regularizar um Imóvel em Navegantes'
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 1 — Diagnóstico da Situação'
+        },
+        {
+          type: 'paragraph',
+          text: 'O primeiro passo é entender exatamente o que está irregular. Um engenheiro civil analisa:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Matrícula do imóvel no Cartório de Registro de Imóveis',
+            'Projeto aprovado (se existir) e alvará de construção',
+            'Habite-se emitido ou não',
+            'Situação fiscal (IPTU em dia, taxas quitadas)',
+            'Vistoria da obra existente'
+          ]
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 2 — Levantamento da Obra (As-Built)'
+        },
+        {
+          type: 'paragraph',
+          text: 'O engenheiro faz um levantamento topográfico e arquitetônico completo do imóvel como ele realmente existe: áreas, medidas, pavimentos, vagas, afastamentos e recuos.'
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 3 — Elaboração do Projeto de Regularização'
+        },
+        {
+          type: 'paragraph',
+          text: 'Com o levantamento em mãos, elabora-se um novo projeto (ou adequação do antigo) que represente fielmente a obra existente, atendendo ao Código de Obras e Edificações de Navegantes.'
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 4 — Pagamento de Taxas e Multas'
+        },
+        {
+          type: 'paragraph',
+          text: 'A prefeitura cobra taxas de regularização e eventuais multas pela obra executada sem licença. Em muitos municípios existem programas de regularização com descontos — a Regê Engenharia acompanha essas oportunidades.'
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 5 — Análise e Aprovação da Prefeitura'
+        },
+        {
+          type: 'paragraph',
+          text: 'O projeto regularizador é protocolado na Secretaria de Urbanismo. Após análise técnica, a prefeitura autoriza a regularização.'
+        },
+        {
+          type: 'subheading',
+          text: 'Etapa 6 — Habite-se e Registro em Cartório'
+        },
+        {
+          type: 'paragraph',
+          text: 'Com tudo aprovado, emite-se o Habite-se. Depois, averba-se a construção na matrícula do imóvel no cartório, finalizando o processo.'
+        },
+        {
+          type: 'heading',
+          text: 'Quanto Tempo e Quanto Custa?'
+        },
+        {
+          type: 'table',
+          headers: ['Item', 'Estimativa'],
+          rows: [
+            ['Diagnóstico e levantamento', '5 a 15 dias'],
+            ['Projeto de regularização', '15 a 30 dias'],
+            ['Tramitação na prefeitura', '30 a 90 dias'],
+            ['Emissão de Habite-se', '15 a 45 dias'],
+            ['Custo total', 'Varia conforme área, complexidade e multas']
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Cada caso é único. A melhor forma de saber é com um diagnóstico técnico.'
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Pode Ser a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'A regularização exige conhecimento técnico e jurídico, acompanhamento junto à prefeitura e responsabilidade registrada (ART/CREA-SC). É exatamente isso que a Regê Engenharia entrega:'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Diagnóstico Completo'
+        },
+        {
+          type: 'paragraph',
+          text: 'Análise documental e visita técnica para mapear todos os problemas antes de qualquer protocolo.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Levantamento As-Built Profissional'
+        },
+        {
+          type: 'paragraph',
+          text: 'Medições precisas, compatibilizadas com a matrícula e com a realidade da obra.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Projeto de Regularização Conforme a Legislação Local'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projetos elaborados respeitando o Código de Obras de Navegantes, recuos, taxa de ocupação e uso do solo.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Acompanhamento Integral na Prefeitura'
+        },
+        {
+          type: 'paragraph',
+          text: 'Protocolos, exigências, idas à Secretaria de Urbanismo — a Regê resolve por você.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ ART Registrada em Todas as Etapas'
+        },
+        {
+          type: 'paragraph',
+          text: 'Responsabilidade técnica garantida desde o levantamento até a vistoria final.'
+        },
+        {
+          type: 'subheading',
+          text: '✅ Pós-Regularização'
+        },
+        {
+          type: 'paragraph',
+          text: 'Orientação para averbação em cartório e atualização da matrícula.'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes'
+        },
+        {
+          type: 'paragraph',
+          text: '**É possível regularizar uma casa antiga?** Sim. Casas com décadas de existência podem ser regularizadas, desde que atendam (ou possam ser adequadas) às exigências do código vigente.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Posso regularizar uma construção feita sem engenheiro?** Sim, mas será necessário contratar um engenheiro para avaliar a estrutura, elaborar o projeto *as-built* e assumir a responsabilidade técnica.'
+        },
+        {
+          type: 'paragraph',
+          text: '**E se a obra não atender ao código atual?** Muitas vezes é possível fazer adequações pontuais. Em outros casos, aplica-se legislação transitória. A análise técnica define o melhor caminho.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regularizar aumenta o valor do imóvel?** Sim. Imóveis regularizados têm liquidez, valor de mercado maior e acesso a financiamento.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Regularizar um imóvel em Navegantes devolve segurança jurídica, valor de mercado e tranquilidade ao proprietário. O processo pode parecer burocrático, mas com o suporte técnico certo ele se torna simples e previsível.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** é a solução completa para quem quer regularizar seu imóvel em Navegantes: do diagnóstico ao Habite-se, com responsabilidade técnica, experiência local e acompanhamento em cada etapa.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Quer regularizar o seu imóvel? Fale com a Regê Engenharia e comece com um diagnóstico.**'
+        }
+    ]
+  },
+  {
+    slug: 'como-saber-se-uma-empresa-de-engenharia-civil-e-confiavel-navegantes',
+    title: 'Como Saber se uma Empresa de Engenharia Civil é Confiável: 9 Verificações em Navegantes',
+    tag: 'ENGENHARIA',
+    image: '/images/construtora.png',
+    imageAlt: 'Como Saber se uma Empresa de Engenharia Civil é Confiável: 9 Verificações em Navegantes - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Nenhuma empresa de engenharia civil é confiável por discurso. Ela é confiável quando cada promessa pode ser conferida em um registro público, em um documento emitido ou em uma obra que você pode.',
+    readTime: '13 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Nenhuma empresa de engenharia civil é confiável por discurso. Ela é confiável quando cada promessa pode ser conferida em um registro público, em um documento emitido ou em uma obra que você pode visitar.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Este guia é o checklist operacional: nove verificações que você faz antes de assinar contrato, a maioria delas gratuitas e levadas a cabo em menos de uma hora. Nenhuma exige confiança prévia na empresa — todas produzem documento.'
+        },
+        {
+          type: 'paragraph',
+          text: 'No fim, mostramos o que a Regê Engenharia entrega para que essa confiança seja verificável, e não apenas declarada.'
+        },
+        {
+          type: 'quote',
+          text: 'Confiança em engenharia não se convence — se documenta. Se a empresa não mostra o registro, a ART e o contrato, a conversa não tem por onde avançar.'
+        },
+        {
+          type: 'heading',
+          text: '1. O que significa confiável em engenharia — e o que não significa'
+        },
+        {
+          type: 'paragraph',
+          text: 'Confiável não é sinônimo de cara, de grande, de antigo nem de recomendação de amigo. Existe um equívoco comum que custa dinheiro: achar que preço baixo é o mesmo que risco baixo.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Confiável, em engenharia, significa uma coisa bastante objetiva: **existe alguém identificável que responde quando o serviço falha, e existe documento que prova quem é essa pessoa e até onde vai a responsabilidade dela**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'É isso que as nove verificações testam. Não testam simpatia, nem portfólio bonito, nem discurso comercial. Testam cadeia de responsabilidade.'
+        },
+        {
+          type: 'heading',
+          text: '2. As três camadas que sustentam a confiança'
+        },
+        {
+          type: 'paragraph',
+          text: 'Toda obra responsável se apoia em três camadas independentes. Se uma delas estiver ausente, o risco volta inteiro para você:'
+        },
+        {
+          type: 'table',
+          headers: ['Camada', 'O que prova', 'O que não prova'],
+          rows: [
+            ['Registro no conselho', 'Que existe profissional e empresa legalmente habilitados a exercer a engenharia', 'Que o trabalho é bom'],
+            ['ART', 'Que houve responsabilidade técnica declarada em um serviço específico, com autoria e data', 'Que a execução foi acompanhada, nem que alguém vai pagar seu prejuízo'],
+            ['Contrato', 'Quem faz o quê, por quanto, em que prazo e com que obrigações', 'Que o serviço saiu conforme o esperado']
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'A maioria dos conflitos não nasce da ausência de engenharia. Nasce da ausência de uma dessas três camadas.'
+        },
+        {
+          type: 'heading',
+          text: '3. Verificações 1 a 3: quem é o responsável técnico'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 1 — A empresa e o engenheiro têm registro ativo no CREA-SC?'
+        },
+        {
+          type: 'paragraph',
+          text: 'O registro da empresa e do profissional responsável são a primeira camada, e são públicos.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A Lei nº 5.194/1966 exige o registro no conselho profissional para o exercício da engenharia, e a Lei nº 8.931/1994 transformou a ART em obrigação. Uma empresa que executa engenharia sem registro no CREA-SC não está com documentação irregular — está sem habilitação legal para o que cobra.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Verifique a situação cadastral da empresa e do engenheiro responsável pela consulta pública do conselho, antes de qualquer conversa sobre preço. Se a resposta vier difusa, pare aí: empresa séria não tem dificuldade em mostrar registro.'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 2 — A placa da obra está instalada e legível?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Esta é a verificação mais simples e a mais ignorada.'
+        },
+        {
+          type: 'paragraph',
+          text: 'O art. 21 da Lei Complementar nº 416/2023, o Código de Obras de Navegantes — com as alterações da Lei Complementar nº 454/2024 — estabelece que é obrigação do responsável técnico colocar na obra uma placa, mantida até a conclusão, contendo minimamente o nome e a qualificação profissional do responsável e o número de registro no conselho profissional competente.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na prática: vá até o terreno e procure a placa. Se não houver placa com nome e registro, existe uma ilegalidade administrativa instalada na sua obra, e ela indica que ninguém assumiu publicamente a responsabilidade técnica.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em reforma, a exigência se aplica quando a obra exige projeto ou autorização. Mas mesmo fora do alcance formal, a placa é o melhor teste de cultura técnica de uma empresa — quem cumpre o que é obrigatório também cumpre o que não é.'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 3 — A ART existe e cobre o serviço que está sendo pago?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Peça o número da ART **antes** de pagar a primeira parcela, e confira o conteúdo: qual serviço foi anotado, qual disciplina, qual professionals, quais obras e qual data.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A ART é obrigatória por lei para os serviços de engenharia e da arquitetura, conforme a Resolução CONFEA nº 1.025/2009. Ela é emitida por etapa: projeto, execução, laudo. Uma empresa que emite uma única ART no início e nunca mais ao longo da obra está tratando a ART como burocracia, não como instrumento técnico.'
+        },
+        {
+          type: 'heading',
+          text: '4. Verificações 4 a 6: o serviço e quem executa'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 4 — O projeto vem com memória de cálculo, ou só com desenho?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Peça três documentos antes de aprovar o projeto: a memória de cálculo, o memorial descritivo e o diagrama vertical. Se a entrega for apenas planta baixa, o serviço está incompleto.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Memória de cálculo é o documento que permite auditar. Quem não consegue mostrar como chegou na carga, na viga ou no diâmetro da tubulação, não sabe explicar a decisão técnica quando ela for questionada — e em obra litorânea, isso significa fundação em solo arenoso, recalque e drenagem de água da chuva.'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 5 — Quem executa a obra tem CNPJ, alvará e seguro?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Projeto e execução são agentes diferentes com riscos diferentes. A empresa que projeta não é automaticamente a empresa que executa.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Pergunte quem é o construtor, qual o CNPJ, qual o alvará da obra e qual a apólice de seguro de responsabilidade civil. Se a resposta vier "a gente chama um empreiteiro conhecido", você está contratando quem não tem documentação para assumir a responsabilidade.'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 6 — O contrato distribui risco de forma clara?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Leia o contrato procurando sete cláusulas específicas. Se alguma faltar, negotiate antes de assinar:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Escopo escrito — o que está incluído, o que está excluído e o que depende de terceiros',
+            'ART vinculada — número da ART, responsável técnico e vinculação a cada etapa paga',
+            'Preço e medição — como o preço é formado e como cada etapa é medida e liberada',
+            'Prazo com causa de prorrogação — o que estende o prazo e o que gera multa',
+            'Obrigação de aviso — quando a empresa precisa comunicar desvio de preço ou prazo',
+            'Multa e ressarcimento — o que cada parte deve ao descumprir o contrato',
+            'Foro e retenção — foro de eleição e percentual de retenção de garantia'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Contrato com função de escopo genérico é o sinal mais confiável de que a responsabilidade não foi pensada.'
+        },
+        {
+          type: 'heading',
+          text: '5. Verificações 7 a 9: preço, prazo e depois da obra'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 7 — Como o preço é medido e há retenção de garantia?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Prefira medição por etapa liberada a pagamento antecipado integral. A retenção de garantia é a sua garantia contratual: um percentual, usualmente entre 5% e 10% de cada etapa, que fica retido até o recebimento provisório. Nas obras públicas, a disciplina é legal; no direito privado, ela é contratual — e precisa estar escrita.'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 8 — Existe obra entregue que eu possa visitar?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Peça o endereço de ao menos uma obra concluída pela empresa na região e vá. Se a resposta for "posso mandar fotos", recuse: fotos não mostram trincas de anos, umidade de parede ou desvio de prumada.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Falar com um cliente anterior completa a verificação. Pergunte sobre prazo, comunicação e o que aconteceu quando algo saiu errado.'
+        },
+        {
+          type: 'subheading',
+          text: 'Verificação 9 — A pasta técnica e o plano de manutenção vêm junto?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Contrate a entrega da pasta técnica: memorial, projetos como built, diagrama, ART e instruções de uso e manutenção. Sem ela, qualquer intervenção futura vira abrir a parede às cegas.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Peça também o plano de manutenção. Uma empresa que pensa em dez anos entrega, por padrão, o que você precisa manter depois.'
+        },
+        {
+          type: 'heading',
+          text: '6. O que a ART cobre — e o que não cobre'
+        },
+        {
+          type: 'paragraph',
+          text: 'Este é o ponto que mais gera expectativa indevida. A ART identifica o responsável técnico por um serviço. Ela não é, por si só, um seguro.'
+        },
+        {
+          type: 'paragraph',
+          text: 'A ART **não cobre**:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Falha na execução feita por terceiro contratado',
+            'Atraso da obra',
+            'Preço ou custo financeiro',
+            'Danos a terceiros ou a vizinhos, de forma direta'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'A ART **cobre**, no sentido de atribuir o responsável:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Erros de dimensionamento no projeto',
+            'Escolha inadequada de material ou sistema',
+            'Falhas de compatibilização entre disciplinas'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Quem responde pelo dano é quem praticou o ato ou omissão — e, na prática forense, o dano é repartido conforme a participação de cada agente na cadeia. A ART serve exatamente para permitir essa rastreabilidade. É por isso que ela precisa estar correta e vinculada.'
+        },
+        {
+          type: 'heading',
+          text: '7. Quem responde quando a obra dá errado'
+        },
+        {
+          type: 'paragraph',
+          text: 'O Código Civil e o Código de Defesa do Consumidor distribuem essa responsabilidade de forma previsível. Vale conhecer os prazos, porque perder prazo é perder direito:'
+        },
+        {
+          type: 'table',
+          headers: ['Evento', 'Quem responde', 'Base legal', 'Prazo'],
+          rows: [
+            ['Erro de projeto', 'Projetista e responsável técnico', 'Lei nº 8.931/1994; CDC art. 14', '5 anos em relação de consumo (CDC art. 27); em regra 10 anos (CC art. 205)'],
+            ['Vício de solidez e segurança', 'Empreiteiro de materiais e execução', 'CC art. 618, caput', '5 anos, prazo irredutível de garantia'],
+            ['Vício aparente não apontado na entrega', 'Dono da obra', 'CC art. 618, § 1º', '180 dias, apenas para ações constitutivas'],
+            ['Danos materiais', 'Todos os obrigados conforme a participação', 'CC arts. 186, 187 e 934; CDC art. 14', 'Prescricional — CDC art. 27 ou CC art. 205'],
+            ['Danos morais', 'Quem agiu ilicitamente', 'CC arts. 186, 187 e 927', '3 anos (CC art. 206, § 3º, V)']
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'O ponto que mais surpreende o dono da obra: **os 180 dias do art. 618, § 1º do Código Civil não são o prazo geral para reclamar defeito**. Esse prazo decadencial alcança apenas as ações constitutivas — redibição do contrato ou abatimento do preço. Pretensão indenizatória e obrigação de fazer, as mais comuns quando há infiltração ou rachadura, seguem o prazo prescricional: 5 anos na relação de consumo, 10 anos fora dela.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na relação de consumo, o art. 26, II e § 1º do CDC dá 90 dias para vício aparente ou de fácil constatação — e esse prazo corre do conhecimento do problema. Vício oculto tem regra própria: o prazo só começa quando o defeito fica evidenciado.'
+        },
+        {
+          type: 'heading',
+          text: '8. Retenção e prazos que você não pode deixar passar'
+        },
+        {
+          type: 'list',
+          items: [
+            'Meça etapa por etapa. Amarre a entrega, não a assinatura, de cada pagamento.',
+            'Formalize o recebimento da obra. A data do recebimento provisório e do definitivo marca a contagem dos prazos do art. 618 do Código Civil.',
+            'Registre tudo por escrito. Reclamação no WhatsApp conta menos do que notificação ou e-mail com AR, porque prova o conhecimento e a data.',
+            'Não deixe passar 180 dias sem reação formal quando o vício for aparente.',
+            'Guarde a pasta técnica por mais de cinco anos. É o que permite demonstrar a origem de um defeito anos depois.'
+          ]
+        },
+        {
+          type: 'heading',
+          text: '9. Perguntas Frequentes'
+        },
+        {
+          type: 'subheading',
+          text: 'A placa da obra é obrigatória até em reforma?'
+        },
+        {
+          type: 'paragraph',
+          text: 'O art. 21 da Lei Complementar nº 416/2023 incide sobre o responsável técnico nas obras sujeitas ao Código de Obras de Navegantes. Em reformas menores, a exigência formal pode não incidir da mesma forma, mas a placa continua sendo um indicador forte de cultura técnica. Na dúvida, verifique a exigência com a Prefeitura de Navegantes.'
+        },
+        {
+          type: 'subheading',
+          text: 'A ART protege o cliente financeiramente?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Não. A ART identifica o responsável técnico e cria rastreabilidade administrativa. Ela não é apólice de seguro nem garantia de pagamento. A proteção financeira vem do contrato, do seguro de responsabilidade civil e, em último caso, da via judicial.'
+        },
+        {
+          type: 'subheading',
+          text: 'Se eu achar um vazamento um ano depois da obra, perdi a garantia?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Em regra, não. A decadência de 180 dias do art. 618, § 1º do Código Civil se aplica às ações constitutivas. Para pretensão indenizatória ou obrigação de fazer, vale o prazo prescricional do art. 205 do Código Civil, de 10 anos, ou o art. 27 do CDC, de 5 anos, conforme o caso. Mesmo assim, o prazo de garantia de 5 anos do art. 618, caput, para solidez e segurança, continua correndo.'
+        },
+        {
+          type: 'subheading',
+          text: 'O que acontece se eu contratar a obra sem projeto?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Perde-se a camada mais importante da verificação. Sem projeto, sem ART, sem memória de cálculo e sem compatibilização entre disciplinas, qualquer problema posterior terá de ser diagnosticado por terceiro, e a responsabilidade fica difícil de atribuir. Em obra com valor de centenas de milhares de reais, o projeto é a parcela mais barata do seguro.'
+        },
+        {
+          type: 'subheading',
+          text: 'Devo contratar uma empresa de engenharia ou uma construtora?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Depende do escopo. A empresa de engenharia responde por projeto, fiscalização e laudo. A construtora responde pela execução. Um contrato de empreitada completo (arts. 610 e seguintes do Código Civil) costuma reunir os dois, com responsabilidades claramente separadas dentro do documento.'
+        },
+        {
+          type: 'subheading',
+          text: 'A ART de projeto e a de execução podem ser da mesma empresa?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Podem. Mas devem ser emitidas em etapas distintas e com escopos distintos. Uma ART única cobrindo projeto e execução não permite depois distinguir um erro de conceptionção de um erro de execução.'
+        },
+        {
+          type: 'heading',
+          text: '10. A Regê Engenharia: confiança que se verifica'
+        },
+        {
+          type: 'paragraph',
+          text: 'Na Regê Engenharia, a confiança não é uma declaração de marketing. É um conjunto de documentos que você pode exigir e conferir:'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Registro no CREA-SC da empresa e do responsável técnico, com registro vigente durante todo o serviço',
+            'Placa de obra conforme o art. 21 da LC 416/2023, com nome, qualificação e número de registro, mantida até a conclusão',
+            'ART emitida por etapa — projeto, execução e laudo — com escopo definido e entregue ao contratante',
+            'Projeto com memória de cálculo, memorial descritivo e diagrama vertical, não apenas desenhos',
+            'Contrato com as sete cláusulas da verificação 6, incluindo medição por etapa e retenção de garantia',
+            'Pasta técnica completa na entrega, com projetos como built e instruções de uso e manutenção',
+            'Conformidade com a LC 416/2023 (Código de Obras) e com a LC 414/2023 (Código Urbanístico), conforme a natureza do serviço',
+            'Alinhamento com o licenciamento, no Sistema Único de Licenciamento (SUL) e, quando couber, com o IAN para a outorga ambiental'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: 'Cada item acima é um documento. Se algum faltar na proposta que você recebeu, a lacuna é sua informação — e só sua.'
+        },
+        {
+          type: 'paragraph',
+          text: '📱 **WhatsApp**: (47) 99218-4100 · **E-mail**: contato@rege-engenharia.com.br · 🌐 **Site**: www.regeengenharia.com.br · 📍 **Atendimento**: Navegantes/SC e Litoral Norte de SC - Itajaí, Balneário Camboriú, Penha, Porto Belo, Piçarras, Barra Velha, Camboriú, Itapema, Gravatá, Meia Praia, Machado e São Domingos.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Quer aplicar as nove verificações a uma proposta que você já recebeu?** Envie o orçamento ou o contrato e a gente aponta o que está faltando em termos de registro, ART, escopo e cláusulas. A primeira conversa é de diagnóstico, não de venda.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Uma empresa de engenharia civil confiável em Navegantes não é a que fala melhor de confiança. É a que você consegue auditar em uma hora, com documentos que você mesmo exigiu.'
+        },
+        {
+          type: 'paragraph',
+          text: 'As três camadas — registro no conselho, ART por etapa e contrato com escopo claro — são o que separa obra responsável de obra entregue na sorte. E o outro lado disso é igualmente importante: o conhecimento de quando os prazos começam a correr, porque o vício não prescreve sozinho.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se sua obra já está em andamento, comece pelas verificações 1, 2 e 3. Elas são gratuitas, levam poucos minutos e dizem mais sobre quem está à frente da obra do que qualquer reunião.'
+        },
+        {
+          type: 'paragraph',
+          text: '*Artigo técnico sobre verificação de empresa de engenharia civil em Navegantes/SC. As normas, leis e prazos citados são referenciados na data de publicação e podem ser alterados. Este conteúdo tem caráter informativo e não substitui a análise jurídica de um advogado. Confirme a versão vigente da LC 416/2023 e da LC 454/2024, a situação cadastral no CREA-SC e as exigências do CREA-SC e da Prefeitura de Navegantes.*'
+        },
+        {
+          type: 'heading',
+          text: 'Referências Normativas e Legais'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Lei nº 5.194/1966 — Registro e exercício da profissão de engenheiro',
+            'Lei nº 8.931/1994 — Anotação de Responsabilidade Técnica',
+            'Resolução CONFEA nº 1.025/2009 — ART: tipos, escopo e complementares',
+            'Lei nº 8.078/1990 — Código de Defesa do Consumidor, arts. 14, 26 e 27',
+            'Lei nº 10.406/2002 — Código Civil, arts. 186, 187, 205, 206, 421, 422, 610 a 626 e 927',
+            'Lei nº 13.105/2015 — Código de Processo Civil',
+            'Lei nº 4.866/1965 — Estatuto da Terra (retenção de garantia em obras públicas)',
+            'Lei Complementar nº 416/2023 — Código de Obras de Navegantes',
+            'Lei Complementar nº 414/2023 — Código Urbanístico de Navegantes',
+            'Lei Complementar nº 454/2024 — Alterações às LC 416/2023 e LC 414/2023',
+            'Lei nº 11.445/2007 — Política Nacional de Saneamento Básico',
+            'Súmula 194/STJ — Prescrição em ação do construtor por defeitos na obra',
+            'CREA-SC — consulta pública de registro e de ART',
+            'Sistema Único de Licenciamento (SUL) — Prefeitura de Navegantes',
+            'Instituto Ambiental de Navegantes (IAN)'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Leituras relacionadas'
+        },
+        {
+          type: 'list',
+          items: [
+            'Como verificar uma empresa de engenharia em Navegantes',
+            'Melhores empresas de engenharia civil em Navegantes: como avaliar',
+            'ART em obras no Litoral Norte de Santa Catarina'
+          ]
+        },
+        {
+          type: 'paragraph',
+          text: '<!-- Updated: 2026-10-02 -->'
+        }
+    ]
+  }
+,
+  {
+    slug: 'escritorio-engenharia-navegantes-rege',
+    title: 'Escritório de Engenharia em Navegantes: Como Escolher o Parceiro Técnico Certo para Sua Obra',
+    tag: 'CONSTRUÇÃO',
+    image: '/images/construtora.png',
+    imageAlt: 'Escritório de Engenharia em Navegantes: Como Escolher o Parceiro Técnico Certo para Sua Obra - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Navegantes vive um dos momentos mais fortes da construção civil no litoral catarinense.',
+    readTime: '3 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Navegantes vive um dos momentos mais fortes da construção civil no litoral catarinense. O avanço do porto, a valorização da Meia Praia e o crescimento industrial atraem investimentos e obras de todos os portes. Para que esse crescimento seja seguro e rentável, é fundamental contar com um escritório de engenharia em Navegantes que conheça a região de verdade.'
+        },
+        {
+          type: 'heading',
+          text: 'O Que Faz um Escritório de Engenharia?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um escritório de engenharia é a estrutura profissional que reúne engenheiros, técnicos e especialistas para oferecer serviços técnicos com responsabilidade formal. Diferente de um profissional autônomo, o escritório entrega equipe, processo e continuidade:'
+        },
+        {
+          type: 'table',
+          headers: ['Serviço', 'O Que Entrega'],
+          rows: [
+            ['Projetos', 'Arquitetônico, estrutural, hidrossanitário, elétrico, incêndio e BIM'],
+            ['Aprovações', 'Alvarás, aprovações na prefeitura, bombeiros e concessionárias'],
+            ['Fiscalização', 'Acompanhamento técnico de obras, controle de qualidade e relatórios'],
+            ['Laudos técnicos', 'Vistorias, patologias, inspeções prediais, avaliações de imóveis'],
+            ['Perícias', 'Judiciais e extrajudiciais com embasamento técnico'],
+            ['Regularização', 'Habite-se, averbação, REURB e legalização de construções'],
+            ['Consultoria', 'Viabilidade técnica, compatibilização de projetos, assessoria estratégica']
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Por Que Precisa Ser um Escritório Local em Navegantes?'
+        },
+        {
+          type: 'paragraph',
+          text: 'Escolher um escritório de engenharia da própria região não é comodidade — é inteligência de obra:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Solo e clima conhecidos: o litoral tem solo arenoso, lençol freático raso e maresia. Projetos corretos nascem dessa leitura real.',
+            'Agilidade em aprovações: escritórios locais conhecem os fluxos da prefeitura de Navegantes e das cidades vizinhas.',
+            'Fiscalização presencial: visitas frequentes à obra evitam desvios e retrabalho.',
+            'Rede de fornecedores: conhecimento de materiais, mão de obra e preços da região.',
+            'Legislação municipal dominada: Código de Obras, zoneamento e exigências da Defesa Civil são aplicados na prática.'
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Um escritório de fora projeta para o papel. Um escritório local projeta para o terreno de verdade."'
+        },
+        {
+          type: 'heading',
+          text: 'Critérios para Escolher um Bom Escritório de Engenharia'
+        },
+        {
+          type: 'subheading',
+          text: '1. Registro no CREA-SC e emissão de ART'
+        },
+        {
+          type: 'paragraph',
+          text: 'Todo serviço precisa de responsável técnico habilitado e Anotação de Responsabilidade Técnica. Sem isso, a obra é irregular.'
+        },
+        {
+          type: 'subheading',
+          text: '2. Portfólio regional comprovável'
+        },
+        {
+          type: 'paragraph',
+          text: 'Peça exemplos de projetos aprovados, obras fiscalizadas e laudos emitidos em Navegantes, Itajaí, Meia Praia e São Domingos.'
+        },
+        {
+          type: 'subheading',
+          text: '3. Estrutura multidisciplinar'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um bom escritório reúne engenheiros civis, estruturais, elétricos e especialistas em segurança do trabalho, evitando projetos desencontrados.'
+        },
+        {
+          type: 'subheading',
+          text: '4. Transparência e comunicação'
+        },
+        {
+          type: 'paragraph',
+          text: 'Propostas claras, cronogramas definidos e canais abertos com o cliente são marcas de profissionalismo.'
+        },
+        {
+          type: 'subheading',
+          text: '5. Atendimento contínuo'
+        },
+        {
+          type: 'paragraph',
+          text: 'O melhor escritório é aquele que acompanha o imóvel ao longo do tempo: obra, habite-se, manutenções e futuras reformas.'
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Pode Ser a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** é um escritório de engenharia com sede e atuação forte em Navegantes, atendendo todo o Litoral Norte de Santa Catarina com soluções completas — do primeiro projeto à regularização final.'
+        },
+        {
+          type: 'table',
+          headers: ['Sua Necessidade', 'A Solução Regê'],
+          rows: [
+            ['Construir com segurança no litoral', 'Projetos dimensionados para solo arenoso e maresia'],
+            ['Aprovar o projeto sem dor de cabeça', 'Equipe dedicada aos trâmites da prefeitura e bombeiros'],
+            ['Fiscalizar a obra com rigor', 'Visitas técnicas programadas, relatórios e controle de qualidade'],
+            ['Descobrir problemas no imóvel', 'Laudos, vistorias cautelares e perícias detalhadas'],
+            ['Regularizar imóvel antigo', 'Habite-se, averbação e REURB com acompanhamento completo'],
+            ['Avaliar viabilidade antes de comprar', 'Laudos de avaliação e consultoria técnica de compra']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia — escritório de engenharia em Navegantes com experiência real no litoral catarinense, equipe registrada no CREA-SC e compromisso com cada cliente.'
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes sobre Escritório de Engenharia em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Qual a diferença entre escritório de engenharia e engenheiro autônomo?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'O escritório oferece equipe multidisciplinar, processos padronizados e continuidade de atendimento. O autônomo pode ser excelente, mas geralmente atua sozinho em uma ou duas especialidades e sem estrutura de backup.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"O escritório cuida também da aprovação na prefeitura?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Um escritório completo como a Regê assume todo o trâmite: protocolo, acompanhamento, exigências e entrega do alvará.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Preciso de escritório para fazer só um laudo?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Laudos e perícias exigem responsabilidade técnica (ART) e formato conforme as normas — serviços que um escritório estruturado entrega com agilidade.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"A Regê atende fora de Navegantes?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Atendemos Balneário Camboriú, Itajaí, Penha, Piçarras, Barra Velha, São Francisco do Sul e toda a região do Vale do Itajaí.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Contar com um escritório de engenharia em Navegantes é o que separa uma obra segura, regularizada e valorizada de um problema futuro. Técnica, presença local e compromisso são os três pilares — e os três estão na **Regê Engenharia**.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Se você vai construir, reformar, fiscalizar ou regularizar um imóvel no litoral catarinense, fale primeiro com a Regê. O resto da obra agradece.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Navegantes/SC**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Escritório de engenharia civil para projetos, laudos, fiscalização e regularização.'
+        },
+        {
+          type: 'table',
+          headers: ['Fale com um engenheiro: [WhatsApp]', '[Site]', '[Instagram]'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Atendemos: Navegantes, Meia Praia, São Domingos, Balneário Camboriú, Itajaí, Penha e região.'
+        }
+    ]
+  }
+,
+  {
+    slug: 'engenharia-civil-industrial-navegantes-rege',
+    title: 'Engenharia Civil Industrial em Navegantes: Estruturas que Sustentam o Maior Polo do Litoral Catarinense',
+    tag: 'INDUSTRIAL',
+    image: '/images/Trincas e Rachaduras.png',
+    imageAlt: 'Engenharia Civil Industrial em Navegantes: Estruturas que Sustentam o Maior Polo do Litoral Catarinense - artigo técnico da Regê Engenharia sobre industrial em Navegantes e Litoral Norte de SC.',
+    excerpt: 'Navegantes se consolidou como um dos mais importantes polos industriais de Santa Catarina, impulsionado pelo Complexo Portuário, pela indústria naval, pela logística e pelo setor metalmecânico.',
+    readTime: '3 min de leitura',
+    featured: false,
+    content: [
+        {
+          type: 'paragraph',
+          text: 'Navegantes se consolidou como um dos mais importantes polos industriais de Santa Catarina, impulsionado pelo Complexo Portuário, pela indústria naval, pela logística e pelo setor metalmecânico. Por trás de cada galpão, centro de distribuição ou planta industrial existe um trabalho essencial: a **engenharia civil industrial em Navegantes**.'
+        },
+        {
+          type: 'heading',
+          text: 'Por Que a Engenharia Civil Industrial é Estratégica em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: 'O ambiente industrial do litoral combina oportunidades com desafios únicos:'
+        },
+        {
+          type: 'table',
+          headers: ['Desafio Local', 'Impacto na Obra Industrial', 'Resposta da Engenharia'],
+          rows: [
+            ['Solo arenoso e lençol raso', 'Recalques em grandes estruturas', 'Estudo geotécnico, fundações profundas, radier'],
+            ['Maresia', 'Corrosão de estruturas metálicas e concreto', 'Proteção de armaduras, materiais especificados, plano de manutenção'],
+            ['Logística portuária', 'Restrições de tráfego e cronogramas apertados', 'Planejamento de obra coordenado com operações locais'],
+            ['Normas ambientais', 'Licenciamento e condicionantes', 'Projetos compatíveis com exigências ambientais e do zoneamento'],
+            ['Carga pesada', 'Empilhadeiras, pontes rolantes, estruturas elevadas', 'Dimensionamento estrutural específico para uso industrial']
+          ]
+        },
+        {
+          type: 'quote',
+          text: '"Uma planta industrial mal dimensionada não dá segunda chance: ou suporta a operação por décadas ou vira gasto recorrente de manutenção."'
+        },
+        {
+          type: 'heading',
+          text: 'O Que Envolve a Engenharia Civil Industrial'
+        },
+        {
+          type: 'paragraph',
+          text: 'Um projeto industrial exige muito mais do que erguer paredes. As frentes técnicas incluem:'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estudos de viabilidade — análise do terreno, acessos, infraestrutura e zoneamento',
+            'Projeto estrutural — galpões, mezaninos, lajes para cargas elevadas, fundações especiais',
+            'Projetos complementares — hidrossanitário, elétrico, climatização, prevenção contra incêndio (AVCB)',
+            'Infraestrutura de pátios — pavimentação de alto tráfego, docas, estacionamentos e drenagem',
+            'Compatibilização BIM — integração de disciplinas para evitar conflitos em obra',
+            'Licenciamentos — alvarás, AVCB, licenciamento ambiental e regularização'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Sinais de que Sua Indústria Precisa de Engenharia Especializada'
+        },
+        {
+          type: 'list',
+          items: [
+            'Estrutura existente com trincas, infiltrações ou corrosão visível',
+            'Expansão planejada sem laudo de capacidade estrutural',
+            'Docas e pátios com afundamentos ou fissuras',
+            'Ausência de AVCB ou documentação de segurança contra incêndio',
+            'Obra industrial sem responsável técnico registrado'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Como a Regê Engenharia Pode Ser a Solução'
+        },
+        {
+          type: 'paragraph',
+          text: 'A **Regê Engenharia** oferece soluções completas em engenharia civil industrial em Navegantes, com experiência comprovada em galpões, centros de distribuição e plantas industriais no Litoral Norte catarinense.'
+        },
+        {
+          type: 'table',
+          headers: ['Sua Necessidade', 'Como a Regê Resolve'],
+          rows: [
+            ['Construir galpão industrial', 'Projeto estrutural, fundações adaptadas ao solo local e acompanhamento de obra'],
+            ['Ampliar planta existente', 'Laudos de capacidade, reforço estrutural e projetos de expansão'],
+            ['Atender exigências legais', 'Alvarás, AVCB, licenciamento ambiental e habite-se'],
+            ['Garantir segurança operacional', 'Inspeções, NR-12, laudos de segurança e manutenção predial'],
+            ['Otimizar investimento', 'Compatibilização de projetos, orçamento executivo e controle de custos'],
+            ['Avaliar imóvel industrial', 'Laudos de avaliação, vistorias e consultoria de compra/venda']
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Regê Engenharia — engenharia industrial com expertise no litoral catarinense. Do projeto executivo à fiscalização da obra, cuidamos de cada etapa com responsabilidade técnica e conhecimento local.'
+        },
+        {
+          type: 'heading',
+          text: 'Etapas de um Projeto Industrial Bem-Sucedido'
+        },
+        {
+          type: 'orderedList',
+          items: [
+            'Diagnóstico — levantamento do terreno, necessidades operacionais e legislação',
+            'Estudo de viabilidade — análise técnica e financeira antes de investir',
+            'Projeto executivo — estrutural, complementares e compatibilização BIM',
+            'Aprovações — prefeitura, bombeiros, órgãos ambientais e concessionárias',
+            'Construção — fiscalização técnica, controle de qualidade e segurança do trabalho',
+            'Entrega e regularização — habite-se, AVCB e documentação final',
+            'Pós-obra — plano de manutenção predial e inspeções periódicas'
+          ]
+        },
+        {
+          type: 'heading',
+          text: 'Perguntas Frequentes sobre Engenharia Civil Industrial em Navegantes'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Quanto custa um galpão industrial em Navegantes?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'O valor varia conforme área, padrão construtivo e infraestrutura. Em média, galpões industriais no litoral catarinense variam de acordo com especificações de piso, pé-direito e instalações. A Regê elabora orçamento executivo detalhado antes da contratação.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Qual o prazo para construir uma planta industrial?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Entre 6 e 18 meses, dependendo do porte, das aprovações e da complexidade. O gargalo costuma ser o licenciamento — daí a importância de um escritório que conheça os trâmites locais.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"A Regê faz projeto de expansão de indústria existente?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Sim. Começamos com laudo técnico da estrutura existente, verificamos capacidade portante e projetamos a expansão de forma segura e compatível.'
+        },
+        {
+          type: 'paragraph',
+          text: '**"Qual a diferença entre engenharia civil residencial e industrial?"**'
+        },
+        {
+          type: 'paragraph',
+          text: 'A industrial envolve cargas maiores, vãos livres maiores, exigências de segurança contra incêndio mais rigorosas, piso industrial de alta resistência e necessidades logísticas específicas. Exige especialização própria.'
+        },
+        {
+          type: 'heading',
+          text: 'Conclusão'
+        },
+        {
+          type: 'paragraph',
+          text: 'Navegantes é hoje um dos grandes polos industriais de Santa Catarina — e obras industriais exigem engenharia à altura. A **Regê Engenharia** une conhecimento técnico, experiência regional e responsabilidade para entregar plantas industriais seguras, regularizadas e preparadas para operar por décadas.'
+        },
+        {
+          type: 'paragraph',
+          text: 'Antes de investir no seu galpão, centro de distribuição ou planta industrial, fale com a Regê. Engenharia certa hoje evita prejuízo amanhã.'
+        },
+        {
+          type: 'paragraph',
+          text: '**Regê Engenharia — Navegantes/SC**'
+        },
+        {
+          type: 'paragraph',
+          text: 'Engenharia civil industrial, projetos, laudos e fiscalização para o polo do Litoral Norte catarinense.'
+        },
+        {
+          type: 'table',
+          headers: ['Fale com um engenheiro: [WhatsApp]', '[Site]', '[Instagram]'],
+          rows: [
+
+          ]
+        },
+        {
+          type: 'quote',
+          text: 'Atendemos: Navegantes, Balneário Camboriú, Itajaí, Penha, Barra Velha, São Francisco do Sul e região.'
+        }
+    ]
+  },
+  {
+    slug: 'engenharia-seguranca-trabalho-navegantes',
+    title: 'Engenharia de Segurança do Trabalho em Navegantes: NRs, Laudos e Conformidade com a Regê Engenharia',
+    tag: 'SEGURANÇA',
+    image: '/images/construtora.avif',
+    imageAlt: 'Engenharia de segurança do trabalho em Navegantes SC — engenheiro inspecionando canteiro de obra com EPIs, sinalização e documentação de NRs pela Regê Engenharia.',
+    excerpt: 'Segurança do trabalho não é burocracia — é proteção legal, financeira e humana. Em Navegantes, obras e indústrias enfrentam fiscalização rigorosa e riscos específicos do litoral. Veja como a Regê Engenharia estrutura PCMAT, PGR, laudos e treinamentos para manter sua operação regular e segura.',
+    readTime: '12 min de leitura',
+    featured: true,
+    content: [
+      {
+        type: 'paragraph',
+        text: 'Navegantes é hoje um dos municípios com maior dinamismo construtivo e industrial do litoral catarinense. O Complexo Portuário, a indústria naval, a construção civil verticalizada e o polo logístico geram milhares de postos de trabalho — e, com eles, a obrigação legal de garantir segurança e saúde ocupacional. A engenharia de segurança do trabalho deixou de ser "um custo a mais" para se tornar diferencial competitivo: empresas regularizadas acessam melhores contratos, evitam multas milionárias, reduzem afastamentos e protegem sua reputação. Neste artigo, explicamos o que é a engenharia de segurança do trabalho, quais Normas Regulamentadoras (NRs) se aplicam ao seu caso e como a Regê Engenharia entrega conformidade técnica com presença local.'
+      },
+      {
+        type: 'heading',
+        text: 'O Que é Engenharia de Segurança do Trabalho'
+      },
+      {
+        type: 'paragraph',
+        text: 'A engenharia de segurança do trabalho é a especialidade da engenharia que identifica, avalia e controla riscos ocupacionais — físicos, químicos, biológicos, ergonômicos e de acidentes. Seu objetivo é prevenir doenças profissionais e acidentes de trabalho por meio de medidas de engenharia (coletivas), administrativas e, por último, equipamentos de proteção individual (EPIs). No Brasil, a base legal está no Capítulo V da CLT (artigos 154 a 160) e nas Normas Regulamentadoras (NRs) do Ministério do Trabalho e Emprego.'
+      },
+      {
+        type: 'quote',
+        text: 'Segurança do trabalho não é fazer o laudo para "passar na fiscalização". É implantar um sistema que proteja pessoas e blinde a empresa — o laudo é apenas a prova documental.'
+      },
+      {
+        type: 'heading',
+        text: 'Por Que Navegantes Exige Engenharia de Segurança Especializada'
+      },
+      {
+        type: 'paragraph',
+        text: 'O ambiente produtivo de Navegantes combina fatores que elevam a complexidade da gestão de SST:'
+      },
+      {
+        type: 'list',
+        items: [
+          'Obras verticais e de grande porte — trabalho em altura, escavações, guindastes, concretagem e estruturas metálicas (NR-18, NR-11, NR-12)',
+          'Atividade portuária e logística — movimentação de cargas perigosas, espaços confinados, ruído, vibração e risco de atropelamento (NR-11, NR-20, NR-33)',
+          'Indústria naval e metalmecânica — soldagem, corte, jateamento, ruído elevado, agentes químicos e calor (NR-10, NR-15, NR-9)',
+          'Construção civil em solo arenoso e lençol freático raso — escoramentos, desmonte de rocha, risco de desabamento e afogamento (NR-18, NR-22)',
+          'Clima litorâneo — calor úmido, ventos fortes, maresia acelerando degradação de EPCs/EPIs e estruturas de proteção'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Principais Documentos e Programas de SST Exigidos'
+      },
+      {
+        type: 'paragraph',
+        text: 'A documentação de segurança do trabalho não é opcional — é exigência legal para funcionamento, licenciamento, contratos públicos e privados. Os principais instrumentos são:'
+      },
+      {
+        type: 'subheading',
+        text: '1. PGR — Programa de Gerenciamento de Riscos (NR-1)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Obrigatório para todos os empregadores com empregados. Substituiu o antigo PPRA. Define a metodologia de identificação de perigos, avaliação de riscos, plano de ação e monitoramento. Deve ser revisado periodicamente e sempre que houver mudança de processo, layout ou acidente.'
+      },
+      {
+        type: 'subheading',
+        text: '2. PCMAT — Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção (NR-18)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Obrigatório em toda obra com mais de 20 trabalhadores. Específico para construção civil, detalha riscos por fase (terraplenagem, fundação, estrutura, acabamento), medidas de controle, layout de canteiro, instalações de vivência, sinalização e cronograma de implementação. Sem PCMAT, a obra está irregular perante a NR-18 e sujeita a embargo.'
+      },
+      {
+        type: 'subheading',
+        text: '3. PCMSO — Programa de Controle Médico de Saúde Ocupacional (NR-7)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Define os exames médicos admissionais, periódicos, de retorno ao trabalho, de mudança de função e demissionais. Baseia-se nos riscos identificados no PGR/LTCAT. O não cumprimento gera multa e impede a emissão do PPP (Perfil Profissiográfico Previdenciário).'
+      },
+      {
+        type: 'subheading',
+        text: '4. LTCAT — Laudo Técnico das Condições Ambientais do Trabalho'
+      },
+      {
+        type: 'paragraph',
+        text: 'Documento que caracteriza a exposição a agentes nocivos (ruído, calor, químicos, vibração, etc.) por posto de trabalho. É a base técnica para o PPP e para a aposentadoria especial. Deve ser assinado por engenheiro de segurança do trabalho ou médico do trabalho.'
+      },
+      {
+        type: 'subheading',
+        text: '5. Laudos de Insalubridade e Periculosidade (NR-15 e NR-16)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Quantificam a exposição a agentes insalubres (ruído acima de 85 dB, calor, químicos) e perigosos (inflamáveis, eletricidade, radiação ionizante, motociclistas). Embasam o pagamento de adicionais salariais (40%, 20%, 10% para insalubridade; 30% para periculosidade) e a contribuição previdenciária patronal (GILRAT/SAT).'
+      },
+      {
+        type: 'subheading',
+        text: '6. APR — Análise Preliminar de Risco'
+      },
+      {
+        type: 'paragraph',
+        text: 'Documento obrigatório antes de toda atividade de risco elevado: trabalho em altura (NR-35), espaço confinado (NR-33), escavação, demolição, operação de guindaste, energização de painéis. Identifica perigos, define controles e só libera a tarefa após assinatura do responsável.'
+      },
+      {
+        type: 'subheading',
+        text: '7. CIPA, SIPAT e Ordens de Serviço (NR-5 e NR-1)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Comissão Interna de Prevenção de Acidentes (obrigatória conforme CNAE e número de empregados), Semana Interna de Prevenção anual e ordens de serviço de segurança por função/risco. Documentam a comunicação e o treinamento exigidos por lei.'
+      },
+      {
+        type: 'subheading',
+        text: '8. Laudo de Instalações Elétricas e SPDA (NR-10)'
+      },
+      {
+        type: 'paragraph',
+        text: 'Obrigatório para todas as instalações elétricas. Inclui medições de aterramento, continuidade, isolamento, termografia e verificação de proteção contra choques e descargas atmosféricas. Em Navegantes, a maresia acelera a corrosão de quadros e condutores — inspeção periódica é crítica.'
+      },
+      {
+        type: 'heading',
+        text: 'Quando a Engenharia de Segurança do Trabalho é Obrigatória em Navegantes'
+      },
+      {
+        type: 'list',
+        items: [
+          'Início de obra de construção civil (PCMAT antes da mobilização)',
+          'Abertura de empresa industrial ou comercial com empregados (PGR, PCMSO, LTCAT)',
+          'Licenciamento ambiental e alvará de funcionamento (prefeitura e IMA/SC exigem documentos de SST)',
+          'Contratação do primeiro funcionário (exames admissionais, PPP, PGR)',
+          'Ampliação ou mudança de layout industrial (nova APR, revisão de PGR/LTCAT)',
+          'Após acidente de trabalho ou quase-acidente (investigação, APR, comunicação ao MTE)',
+          'Exigência de clientes e licitações (grandes contratantes exigem PGR, PCMAT, laudos e CIPA ativa)',
+          'Renovação de AVCB (Corpo de Bombeiros exige laudos de NR-10, NR-20, brigada de incêndio)',
+          'Auditorias de certificação (ISO 45001, ISO 9001, clientes ESG)'
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Como a Regê Engenharia Estrutura a Segurança do Trabalho em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'A Regê Engenharia atua com equipe própria de engenharia de segurança do trabalho, integrada à engenharia civil, para entregar conformidade completa — do canteiro de obra à planta industrial. Não terceirizamos a responsabilidade técnica: todos os laudos e programas têm ART registrada no CREA-SC.'
+      },
+      {
+        type: 'table',
+        headers: ['Serviço de SST', 'O Que a Regê Entrega', 'NRs Envolvidas'],
+        rows: [
+          ['PGR (Programa de Gerenciamento de Riscos)', 'Inventário de riscos, matriz de avaliação, plano de ação, cronograma e revisão anual', 'NR-1, NR-9'],
+          ['PCMAT (Construção Civil)', 'Programa por fase da obra, layout de canteiro, instalações, sinalização, cronograma, ART', 'NR-18'],
+          ['PCMSO e LTCAT', 'Parceria com médico do trabalho, exames ocupacionais, laudo de agentes ambientais, PPP', 'NR-7, NR-9, NR-15'],
+          ['Laudos de Insalubridade e Periculosidade', 'Medições com equipamentos calibrados, laudo quantitativo, enquadramento legal, ART', 'NR-15, NR-16'],
+          ['APR e Permissões (Altura, Espaço Confinado, Quente)', 'Análise por tarefa, medidas de controle, autorização, checklist de campo', 'NR-33, NR-35, NR-10, NR-18'],
+          ['Laudo Elétrico e SPDA (NR-10)', 'Medições de aterramento, termografia, continuidade, isolamento, laudo com ART', 'NR-10'],
+          ['Treinamentos Obrigatórios', 'NR-10, NR-35, NR-33, NR-11, NR-12, NR-18, NR-20, CIPA, brigada — com certificado e lista de presença', 'NR-1, NR-5, NR-10, NR-11, NR-12, NR-18, NR-20, NR-33, NR-35'],
+          ['CIPA e SIPAT', 'Implantação, eleição, treinamento de cipeiros, planejamento e execução da SIPAT', 'NR-5'],
+          ['Segurança contra Incêndio (AVCB)', 'Projeto técnico, brigada, sinalização, extintores, hidrantes, laudos para CBM-SC', 'NR-23, CBM-SC'],
+          ['ISO 45001 — Sistema de Gestão de SST', 'Implementação, auditoria interna, preparação para certificação', 'ISO 45001']
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Diferenciais da Regê Engenharia em Segurança do Trabalho no Litoral Catarinense'
+      },
+      {
+        type: 'table',
+        headers: ['Critério', 'Regê Engenharia', 'Mercado Geral'],
+        rows: [
+          ['Equipe própria de Eng. Segurança', 'Engenheiros de segurança do trabalho com CREA-SC ativo, ART em todos os serviços', 'Muitas vezes freelancers sem vínculo ou sem ART'],
+          ['Integração Eng. Civil + Segurança', 'Projetos de obra já nascem com PCMAT, APRs e layout de canteiro compatibilizados', 'Segurança tratada à parte, após o projeto civil'],
+          ['Conhecimento das NRs portuárias e industriais', 'Experiência em NR-20, NR-11, NR-12, NR-33 em terminais e indústrias de Navegantes/Itajaí', 'Foco apenas em construção civil ou escritórios'],
+          ['Medições com equipamentos próprios', 'Decibelímetro, termômetro de globo, anemômetro, luxímetro, multímetro, termografia — calibrados', 'Geralmente alugam ou subcontratam medições'],
+          ['Atendimento presencial e ágil', 'Escritório em Navegantes, visita técnica em até 48h, acompanhamento de fiscalização in loco', 'Atendimento remoto ou de outras cidades'],
+          ['Gestão documental digital', 'Pasta organizada: programas, laudos, ARTs, treinamentos, PPPs, prontuários — prontos para auditoria', 'Documentos dispersos, difícil localização na fiscalização'],
+          ['Custo-benefício real', 'Pacotes por fase ou mensalidade fixa — sem surpresas, com economia comprovada em multas evitadas', 'Honorários por laudo avulso, sem visão sistêmica']
+        ]
+      },
+      {
+        type: 'heading',
+        text: 'Riscos de Operar sem Engenharia de Segurança do Trabalho Regular'
+      },
+      {
+        type 'list',
+        items: [
+          'Multas do Ministério do Trabalho: de R$ 2.000 a R$ 200.000+ por infração, multiplicadas pelo número de empregados expostos',
+          'Embargo de obra ou interdição de setor/máquina (NR-3, NR-18, NR-12) — paralisação imediata da produção',
+          'Ações trabalhistas e civis: indenizações por danos morais, materiais, estéticos e pensões vitalícias',
+          'Responsabilização criminal dos sócios e responsáveis técnicos (Lei 9.605/98, art. 132 CP)',
+          'Perda de contratos e licitações: grandes clientes exigem certidão negativa de débitos trabalhistas e documentos de SST',
+          'Aumento do FAP (Fator Acidentário de Prevenção) e do GILRAT/SAT — alíquota previdenciária sobe de 1% para até 3% da folha',
+          'Impossibilidade de emissão de PPP correto — prejuízo ao trabalhador e passivo previdenciário para a empresa'
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'O custo de um programa de segurança bem feito é fração do custo de um único acidente grave ou de uma autuação trabalhista. Prevenção é investimento, não gasto.'
+      },
+      {
+        type: 'heading',
+        text: 'Investimento Referência 2026 — Engenharia de Segurança do Trabalho em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: 'Valores de mercado para Navegantes e região (sujeitos a variação conforme porte, risco e número de empregados):'
+      },
+      {
+        type: 'table',
+        headers: ['Serviço', 'Faixa de Investimento'],
+        rows: [
+          ['PGR (até 50 empregados)', 'R$ 2.500 a R$ 6.000'],
+          ['PGR (50 a 200 empregados)', 'R$ 6.000 a R$ 15.000'],
+          ['PCMAT (obra até 5.000 m²)', 'R$ 3.000 a R$ 8.000'],
+          ['PCMAT (obra 5.000 a 20.000 m²)', 'R$ 8.000 a R$ 18.000'],
+          ['Laudo de Insalubridade (por agente/área)', 'R$ 800 a R$ 2.500'],
+          ['Laudo de Periculosidade (por área/atividade)', 'R$ 800 a R$ 2.500'],
+          ['LTCAT + PPP (por estabelecimento)', 'R$ 1.500 a R$ 4.000'],
+          ['APT (Análise Preliminar de Risco) por tarefa', 'R$ 400 a R$ 1.200'],
+          ['Laudo Elétrico NR-10 (até 5 quadros)', 'R$ 1.200 a R$ 3.000'],
+          ['Treinamento NR-35 (Altura) — turma de 10', 'R$ 1.500 a R$ 3.000'],
+          ['Treinamento NR-33 (Espaço Confinado) — turma de 10', 'R$ 2.000 a R$ 4.000'],
+          ['Treinamento NR-10 (SEP) — turma de 10', 'R$ 2.000 a R$ 4.500'],
+          ['CIPA — implantação + treinamento cipeiros', 'R$ 2.500 a R$ 6.000'],
+          ['SIPAT — organização e palestras (3 dias)', 'R$ 3.000 a R$ 8.000'],
+          ['Assessoria mensal de SST (gestão contínua)', 'R$ 1.500 a R$ 5.000 / mês']
+        ]
+      },
+      {
+        type: 'quote',
+        text: 'A assessoria mensal costuma se pagar apenas com a redução do FAP/GILRAT e a prevenção de uma única multa ou afastamento. Empresas com gestão de SST ativa reduzem em média 30% a 50% os custos com acidentes e doenças ocupacionais.'
+      },
+      {
+        type: 'heading',
+        text: 'Depoimentos de Clientes — Segurança do Trabalho em Navegantes'
+      },
+      {
+        type: 'quote',
+        text: '"Tínhamos uma obra de 12 pavimentos no Centro de Navegantes e o PCMAT do antigo fornecedor foi reprovado na fiscalização. A Regê assumiu, refez o programa em 5 dias, adequou o canteiro e a obra não parou. Hoje eles fazem a gestão mensal de SST de todos os nossos empreendimentos." — Construtora C., Navegantes'
+      },
+      {
+        type: 'quote',
+        text: '"Nossa indústria metalmecânica em Navegantes precisava de laudos de ruído, calor e periculosidade para renovar o AVCB e atender auditoria de cliente automotivo. A Regê fez as medições com equipamentos próprios, entregou os laudos com ART em 10 dias e ainda orientou as adequações de EPC que faltavam. Passamos na auditoria com zero não conformidades em SST." — Indústria M., Navegantes'
+      },
+      {
+        type: 'quote',
+        text: '"Contratamos a Regê para implementar o PGR e o PCMSO da nossa transportadora. Eles organizaram toda a documentação, fizeram os exames admissionais e periódicos com médico parceiro, e hoje temos a pasta pronta para qualquer fiscalização. O custo mensal é irrelevante perto da tranquilidade de estar regular." — Transporte L., Itajaí'
+      },
+      {
+        type: 'heading',
+        text: 'Perguntas Frequentes sobre Engenharia de Segurança do Trabalho em Navegantes'
+      },
+      {
+        type: 'paragraph',
+        text: '**"Minha empresa é pequena, precisa de PGR?"**'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. A NR-1 exige PGR para todo empregador que tenha empregados, independentemente do porte. Microempresas de baixo risco (grau 1) podem ter PGR simplificado, mas não dispensado.'
+      },
+      {
+        type: 'paragraph',
+        text: '**"PCMAT é só para obra grande?"**'
+      },
+      {
+        type: 'paragraph',
+        text: 'Obrigatório para obras com mais de 20 trabalhadores (NR-18.14.1). Obras menores devem ter planejamento de segurança compatível, mas não necessitam de PCMAT formal. A Regê orienta o enquadramento correto.'
+      },
+      {
+        type: 'paragraph',
+        text: '**"Posso usar laudo de insalubridade de outra empresa igual?"**'
+      },
+      {
+        type: 'paragraph',
+        text: 'Não. O LTCAT e os laudos de insalubridade/periculosidade são específicos do ambiente, do processo, dos equipamentos e da exposição real de cada estabelecimento. Laudo genérico é indeferido em perícia e fiscalização.'
+      },
+      {
+        type: 'paragraph',
+        text: '**"A Regê faz só o laudo ou acompanha a implementação?"**'
+      },
+      {
+        type: 'paragraph',
+        text: 'Fazemos as duas coisas. O laudo é o diagnóstico; a assessoria contínua garante que as medidas de controle sejam implantadas, os EPIs/EPCs estejam adequados, os treinamentos aconteçam e a documentação permaneça viva. Recomendamos a gestão integrada.'
+      },
+      {
+        type: 'paragraph',
+        text: '**"Quanto tempo para entregar um PCMAT ou PGR?"**'
+      },
+      {
+        type: 'paragraph',
+        text: 'PCMAT de obra padrão: 5 a 10 dias úteis após visita técnica. PGR de indústria: 10 a 20 dias úteis. Casos urgentes (fiscalização em andamento) têm prioridade — já entregamos PCMAT em 48h para evitar embargo.'
+      },
+      {
+        type: 'paragraph',
+        text: '**"A Regê atende fora de Navegantes?"**'
+      },
+      {
+        type: 'paragraph',
+        text: 'Sim. Atendemos Itajaí, Balneário Camboriú, Penha, Piçarras, Barra Velha, São Francisco do Sul, Joinville e região do Vale do Itajaí. Para obras e indústrias no litoral norte, a presença local faz diferença.'
+      },
+      {
+        type: 'heading',
+        text: 'Conclusão: Segurança do Trabalho é Engenharia, Não Burocracia'
+      },
+      {
+        type: 'paragraph',
+        text: 'Em Navegantes, onde a construção civil vertical, a atividade portuária e a indústria naval convivem com fiscalização ativa e clientes exigentes, a engenharia de segurança do trabalho é o alicerce invisível que sustenta a operação. Empresas que tratam SST como prioridade técnica — com PGR, PCMAT, laudos quantitativos, treinamentos reais e gestão contínua — dormem tranquilas: não temem fiscalização, não perdem licitações, não pagam adicionais indevidos e, acima de tudo, preservam a vida dos seus trabalhadores.'
+      },
+      {
+        type: 'paragraph',
+        text: 'A **Regê Engenharia** une expertise em engenharia civil e segurança do trabalho, conhecimento das NRs aplicadas ao litoral catarinense e estrutura própria para entregar conformidade completa — do canteiro à indústria. Se sua obra, indústria ou empresa em Navegantes precisa regularizar a segurança do trabalho, fale com a Regê. A conformidade técnica é o melhor seguro que seu negócio pode ter.'
+      },
+      {
+        type: 'paragraph',
+        text: '🛡️ **Segurança do trabalho com engenharia de verdade.** Não arrisque multas, embargos ou vidas. Fale com a Regê Engenharia e regularize sua operação com responsabilidade técnica.'
+      },
+      {
+        type: 'paragraph',
+        text: '📞 **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege)  📧 **E-mail:** contato@rege-engenharia.com.br  📍 **Atendemos:** Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha, São Francisco do Sul e todo o litoral norte de SC'
+      },
+      {
+        type: 'paragraph',
+        text: '<!-- Updated: 2026-10-02 -->'
       }
     ]
   }

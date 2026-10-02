@@ -16,6 +16,8 @@ console.log(`Mesclando ${batch.length} posts (restantes: ${pending.length})...`)
 
 const src = fs.readFileSync(DATA, 'utf8');
 const existingSlugs = [...src.matchAll(/\bslug:\s*'([^']+)'/g)].map((m) => m[1].toLowerCase());
+const { blogPosts: beforePosts } = await import(`../src/data/blogPosts.js?t=${Date.now()}`);
+const before = beforePosts.length;
 for (const p of batch) {
   if (existingSlugs.includes(p.slug.toLowerCase())) {
     console.error(`ERRO: slug duplicado no arquivo: ${p.slug}`);
@@ -63,13 +65,20 @@ function serPost(p) {
 const anchor = src.lastIndexOf('];');
 if (anchor === -1) { console.error('ERRO: ancora ]; nao encontrada'); process.exit(1); }
 const insertion = batch.map(serPost).join(',\n');
-const next = src.slice(0, anchor).replace(/,\s*$/, ',\n') + insertion + ',\n' + src.slice(anchor);
+const head = src.slice(0, anchor).replace(/,\s*$/, '');
+const next = head + ',\n' + insertion + '\n' + src.slice(anchor);
 
 fs.writeFileSync(path.join(process.cwd(), 'scripts/.merge-backup.js'), src, 'utf8');
 fs.writeFileSync(DATA, next, 'utf8');
 
+const expected = before + batch.length;
 try {
   const mod = await import(`../src/data/blogPosts.js?t=${Date.now()}`);
+  if (mod.blogPosts.length !== expected) {
+    throw new Error(`contagem inesperada: ${mod.blogPosts.length} (esperado ${expected})`);
+  }
+  const slugs = new Set(mod.blogPosts.map((p) => p.slug));
+  if (slugs.size !== mod.blogPosts.length) throw new Error('slugs duplicados no arquivo');
   console.log(`Validacao OK - total de posts agora: ${mod.blogPosts.length}`);
 } catch (e) {
   fs.writeFileSync(DATA, src, 'utf8');
