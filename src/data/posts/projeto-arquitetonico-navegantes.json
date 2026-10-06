@@ -1,0 +1,632 @@
+{
+  "slug": "projeto-arquitetonico-navegantes",
+  "title": "Projeto Arquitetônico em Navegantes SC: Guia Completo para Projetar sua Obra",
+  "tag": "PROJETOS",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Projeto Arquitetônico em Navegantes SC: Guia Completo para Projetar sua Obra - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Navegantes, no litoral catarinense, é uma cidade em plena expansão imobiliária. Para construir, reformar ou ampliar, o projeto arquitetônico é o primeiro e mais importante passo.",
+  "readTime": "5 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes, no litoral catarinense, é uma cidade em plena expansão imobiliária. Para construir, reformar ou ampliar, o projeto arquitetônico é o primeiro e mais importante passo. —0 ele que define a funcionalidade, o conforto, a segurança e a valorização do seu imóvel. Neste guia, você entenderá tudo sobre como desenvolver um projeto arquitetônico de qualidade em Navegantes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é um Projeto Arquitetônico?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto arquitetônico é o conjunto de documentos técnicos e desenhos que apresentam, de forma detalhada, como será uma edificação. Ele envolve:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Elementos do Projeto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plantas baixas: visão superior de cada pavimento",
+          "Cortes e fachadas: representações verticais da edificação na horizontal",
+          "Planta de situação: localização do terreno e da obra",
+          "Planta de implantação: posição da construção no terreno, incluindo áreas externas",
+          "Memorial descritivo: especificações técnicas dos materiais e sistemas",
+          "Perspectivas 3D: representações tridimensionais para visualização",
+          "Compatibilização de projetos: integração com elétrico, hidráulico e estrutural"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Diferença entre Arquitetura e Engenharia"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Arquitetura",
+          "Engenharia"
+        ],
+        "rows": [
+          [
+            "Forma, estética e funcionalidade",
+            "Cálculo e segurança estrutural"
+          ],
+          [
+            "Layout e distribuição de ambientes",
+            "Fundações, vigas e pilares"
+          ],
+          [
+            "Integração com o entorno",
+            "Instalações técnicas"
+          ],
+          [
+            "Conforto e ergonomia",
+            "Dimensionamento estrutural"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ambos os profissionais trabalham em conjunto para entregar uma obra segura, bonita e funcional."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que investir em um Projeto Arquitetônico?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Economia Real"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um bom projeto evita:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Retrabalho e demolições desnecessárias",
+          "Desperdício de materiais e mudanças",
+          "Gastos com correções e improvisos",
+          "Problemas de funcionalidade no dia a dia"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Valorização do Imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construções com projeto:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Valor agregado superior no mercado",
+          "Layout mais funcional e procurado",
+          "Documentação regularizada",
+          "Melhor percepção de qualidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Conformidade Legal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A cidade de Navegantes exige:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto aprovado na Prefeitura para iniciar a obra",
+          "Registro no Concelho de Arquitetura e Urbanismo (CAU) para arquiteto",
+          "ART (Anotação de Responsabilidade Técnica) para o profissional",
+          "Projeto seguindo o Código de Obras e o Plano Diretor Municipal"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Segurança e Conforto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionamento correto de espaços",
+          "Iluminação e ventilação natural adequadas",
+          "Circulação confortável e segura",
+          "Etapas funcionais para o dia a dia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapas do Projeto Arquitetônico"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fase 1: Levantamento e Compatibilização"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Visita técnica ao terreno",
+          "Levantamento topográfico (contorno, cotas e desníveis)",
+          "Análise de legislação municipal (recuos, ocupação, índice)",
+          "Estudo de insolação e ventilação",
+          "Levantamento de necessidades do cliente (programa de necessidades)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fase 2: Estudo Preliminar"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Esquema da distribuição dos ambientes",
+          "Opções de circulação e espacialidade",
+          "Sugestões preliminares de áreas e dimensões",
+          "Alternativas de layout para aprovação do cliente",
+          "Ajustes até o cliente auxiliar"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fase 3: Anteprojeto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plantas mais detalhadas",
+          "Especificação de materiais e acabamentos",
+          "Estimativa de custos inicial",
+          "Compatibilização inicial com engenharia",
+          "Definição das decisões de projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fase 4: Projeto Executivo / Legal"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plantas executivas completas com dimensionamento",
+          "Cortes, fachadas e detalhes deconstrução",
+          "Documentação técnica para obra",
+          "Aprovação nos órgãos municipais",
+          "Projeto compatível com o local"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fase 5: Acompanhamento da Obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Verificação da execução conforme projeto",
+          "Solução de imprevistos",
+          "Atendimento ao cliente",
+          "Fiscalização da fidelidade ao projeto",
+          "Assistência até a entrega"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tipos de Projetos Arquitetônicos"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Residencial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Casas térreas e sobrados",
+          "Apartamentos e edifícios",
+          "Condomínios fechados",
+          "Reformas e ampliações"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Comercial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lojas e vitrines",
+          "Escritórios e salas comerciais",
+          "Restaurantes e cafeterias",
+          "Hotéis e pousadas"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto de Interiores"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Design e layout de interiores",
+          "Iluminação e acústica",
+          "Móveis e decoração",
+          "Paisagismo interno"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Urbanístico"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Loteamentos e condomínios",
+          "Praças e espaços públicos",
+          "Áreas de lazer",
+          "Paisagismo externo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Necessidades de Aprovação em Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Documentação Necessária"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto arquitetônico completo",
+          "Memorial descritivo",
+          "Registro sanitário (se comercial)",
+          "Aprovação de altura e ocupação",
+          "Estudo de insolação e ventilação"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—\u001crgãos Envolvidos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Prefeitura de Navegantes: aprovação do projeto e alvará",
+          "CAU: registro do arquiteto",
+          "Corpo de Bombeiros: prevenção de incêndios (conforme uso)",
+          "Compesa / concessionárias: ligações de água e esgoto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Escolher o Arquiteto Certo em Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Verificação de Credenciais"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Registro no CAU (Conselho Nacional) — obrigatório para o profissional",
+          "Portfólio — projetos residenciais, comerciais ou industriais compatíveis",
+          "Experiência com a região",
+          "Responsabilização da ART",
+          "Identificação com o estilo e necessidade do cliente"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Perguntas Essenciais"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Possui registro ativo no CAU?",
+          "Quanto tempo leva para o projeto?",
+          "Como funciona a cobrança (por m², por hora ou fixa)?",
+          "E o acompanhamento da obra, está incluído?",
+          "Possui exemplos de projetos residenciais/comerciais?"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sinais de Alerta"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Proposta sem ART",
+          "Preços significativamente abaixo do mercado",
+          "Não apresenta portfólio",
+          "Sem interlocução com a obra",
+          "Entrega sem projeto executivo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos de Projeto Arquitetônico"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Como é Cobrado o Serviço"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Forma de Cobrança",
+          "Faixa de Preço"
+        ],
+        "rows": [
+          [
+            "Por metro quadrado e projeto",
+            "R$ 50 a R$ 150/m²"
+          ],
+          [
+            "Por hora técnica",
+            "R$ 300 a R$ 800/hora"
+          ],
+          [
+            "Pacote residencial (média)",
+            "R$ 8.000 a R$ 30.000"
+          ],
+          [
+            "Projeto comercial",
+            "10% a 15% do custo da obra"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fatores que Influenciam"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Tamanho e complexidade da construção",
+          "Tempo e dedicação (número de versões e revisões)",
+          "Metodologia tecnológica (BIM, realidade virtual)",
+          "Experiência e conhecimento profissional",
+          "Complementares de engenharia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tendências em Arquitetura 2025"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sustentabilidade"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projetos integrados com eficiência energética",
+          "Painéis solares e captação de água da chuva",
+          "Ventilação e iluminação natural priorizadas",
+          "Materiais ecológicos e reciclados",
+          "Certificações (LEED, AQUA)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Tecnologia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "BIM (Modelagem da Informação da Construção): modelagem 3D completa",
+          "Realidade virtual: simulações do projeto antes de construir",
+          "Impressão 3D: maquetes e prototipagem",
+          "Automação: projetos integrados com smart home"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Design Moderno"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Layouts integrados: integração de ambientes (conceito open plan)",
+          "Materiais naturais: madeira, pedra e cimento aparente",
+          "Espaços multifuncionais: adaptação às novas formas de viver",
+          "Luz natural e biofílica: conexão com o exterior"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Regularização e Pós-Obra"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Documentação Final"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto executivo aprovado pela prefeitura",
+          "Habite-se (certificado de conclusão)",
+          "ART de responsabilidade",
+          "Planta atualizada e certa",
+          "Certidão de regularidade imobiliária"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Pós-obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Acompanhamento de pedidos pós-entrega",
+          "Atualização do projeto conforme as alterações reais",
+          "Consultoria para manutenções",
+          "Assistência permanente ao cliente"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Investir em um projeto arquitetônico em Navegantes é o passo mais importante para uma construção bem-sucedida. O projeto garante legalização, funcionalidade, valorização e tranquilidade, transformando seu sonho em papel em uma obra real, moderna e segura."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "E para garantir o melhor resultado, contrate um arquiteto com registro e portfólio que combine com o seu estilo, priorize a comunicação e acompanhe seu projeto do papel — em imagem — até a entrega das chaves."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre projeto arquitetônico em Navegantes SC — Vale do Itajaí, Santa Catarina*"
+      }
+    }
+  ]
+}

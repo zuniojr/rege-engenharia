@@ -1,0 +1,265 @@
+{
+  "slug": "engenheiro-civil-pericia-judicial",
+  "title": "Engenheiro Civil para Perícia Judicial: Guia Completo do Laudo Pericial (CPC)",
+  "tag": "PERÍCIA",
+  "image": "/images/regeengenharia.png",
+  "imageAlt": "Engenheiro civil perito realizando vistoria técnica com prancheta e registro fotográfico para laudo pericial judicial.",
+  "excerpt": "Vícios construtivos, infiltrações e disputas entre vizinhos: entenda como o engenheiro civil para perícia judicial investiga o imóvel, os prazos do CPC (arts. 464 a 480), o laudo pericial da NBR 13752 e como escolher o profissional certo.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando uma construção vira motivo de disputa na Justiça — um vício construtivo que aparece meses depois da entrega, uma obra que não termina no prazo, uma trinca que o vizinho jura que foi culpa da sua obra — o juiz não decide com base em opiniões. Ele precisa de prova técnica. E prova técnica, em engenharia, tem nome: perícia judicial, conduzida por um engenheiro civil para perícia judicial especializado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro civil para perícia judicial atua como auxiliar da Justiça: vai ao local, vistoria, mede, fotografa, analisa e transforma tudo isso em um laudo técnico que embasa a decisão do processo. —0 o elo entre o que aconteceu fisicamente na edificação e o que o Direito precisa saber para fazer justiça. Neste guia, você vai entender como funciona esse trabalho, quais são os prazos e regras do Código de Processo Civil (CPC), quando a perícia é necessária e como escolher o profissional certo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que faz um engenheiro civil na perícia judicial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O trabalho do engenheiro perito começa muito antes do laudo. Ele precisa entender o objeto da disputa, reunir os documentos do processo (projetos, contratos, relatórios) e então realizar a vistoria técnica no imóvel — um procedimento de inspeção minuciosa que segue metodologia e normas da ABNT."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria técnica do imóvel — inspeção de todos os ambientes com registros fotográficos, medições e anotações detalhadas",
+          "Diagnóstico de patologias — identificação e análise de trincas, fissuras, infiltrações, recalques e manifestações de umidade",
+          "Avaliação de vícios construtivos — distinção entre problemas de projeto, execução ou uso, e classificação em vícios aparentes ou ocultos",
+          "Orçamento de reparos — levantamento detalhado dos custos para correção dos problemas identificados",
+          "Medições e confrontações — verificação de áreas construídas, divisas e benfeitorias",
+          "Avaliação de imóveis — determinação do valor de mercado em ações de partilha, inventário, desapropriação ou execução",
+          "Elaboração do laudo — documento técnico completo, com respostas aos quesitos formulados pelas partes e pelo juiz"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando a perícia de engenharia é necessária na Justiça?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As disputas que envolvem engenharia civil na Justiça são mais comuns do que se imagina, especialmente em regiões de construção acelerada como o litoral catarinense. As situações mais frequentes incluem:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ações por vícios construtivos — problemas que aparecem após a entrega da obra, como trincas estruturais, infiltrações e falhas de acabamento",
+          "Ações por atraso ou inexecução de obra — descumprimento de prazo, abandono ou divergências entre o contrato e o que foi executado",
+          "Disputas entre vizinhos — danos causados por uma obra ao imóvel vizinho, como trincas, recalques e avarias",
+          "Ações de usucapião, demarcação e divisão — casos que exigem medição de áreas e confrontação de divisas",
+          "Inventários e partilhas — avaliação técnica de imóveis e terrenos para divisão de patrimônio",
+          "Ações de cobrança e responsabilidade civil — disputas entre contratantes, construtoras e profissionais, envolvendo valores e responsabilidades técnicas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perito nomeado pelo juiz x assistente técnico: qual a diferença?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na perícia judicial podem atuar dois engenheiros com papéis diferentes. O perito é nomeado pelo juiz e atua como auxiliar imparcial da Justiça: seu dever é técnico, não de parte. Já o assistente técnico é indicado por cada uma das partes para acompanhar a perícia, fiscalizar o trabalho do perito e apresentar parecer próprio em defesa dos interesses de quem o contratou."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o assistente técnico é o guardião técnico da parte no processo: ele acompanha as vistorias, pode formular quesitos, analisa o laudo do perito e aponta, com fundamento técnico, eventuais equívocos. Um bom assistente técnico muitas vezes evita que um laudo incompleto ou impreciso prejudique a parte — o que reforça a importância de contratar um engenheiro experiente, mesmo quando a perícia é conduzida pelo perito nomeado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como funciona o processo pericial no CPC: prazos e etapas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A prova pericial é regulada pelos artigos 464 a 480 do Código de Processo Civil (Lei 13.105/2015). Conhecer essa sequência ajuda a entender o que esperar e a não perder prazos que podem ser decisivos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Art. 464 — a perícia é deferida pelo juiz quando a prova do fato depende de conhecimento técnico; pode ser indeferida se desnecessária ou impraticável",
+          "Art. 465 — nomeado o perito, as partes têm 15 dias para indicar assistente técnico, apresentar quesitos e arguir impedimento ou suspeição; o perito apresenta em 5 dias sua proposta de honorários e currículo",
+          "Art. 466 — o perito assume compromisso de bem e fielmente desempenhar a função, e as partes podem acompanhar a vistoria técnica",
+          "Art. 473 — o laudo pericial deve conter o objeto da perícia, a análise técnica, o método utilizado e a resposta conclusiva a todos os quesitos",
+          "Art. 477 — o laudo deve ser protocolado pelo menos 20 dias antes da audiência; as partes têm 15 dias para se manifestar e o perito outros 15 dias para esclarecer pontos divergentes",
+          "Art. 480 — se a matéria não estiver suficientemente esclarecida, o juiz pode determinar nova perícia"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além do CPC, a atividade pericial na engenharia segue a ABNT NBR 13752 (Perícias de engenharia na construção civil), que padroniza vistorias, ensaios e metodologias. A combinação das regras processuais com o rigor da norma técnica é o que dá ao laudo força probatória suficiente para sustentar uma sentença."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O processo tem prazos, mas a verdade técnica não pode ter pressa: o engenheiro perito precisa de tempo e método para investigar antes que o juiz precise decidir."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que um laudo pericial de engenharia deve conter?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo pericial é a peça central da prova técnica. O art. 473 do CPC exige quatro elementos essenciais: a exposição do objeto da perícia, a análise técnica realizada pelo perito, a indicação do método utilizado (que deve ser aceito pelos especialistas da área) e a resposta conclusiva a todos os quesitos apresentados pelo juiz e pelas partes. O laudo ainda deve ser escrito em linguagem simples e com coerência lógica — o juiz precisa entender sem depender de jargões."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Qualificação do perito e emissão de ART (Anotação de Responsabilidade Técnica) no CREA",
+          "Objeto e objetivo da perícia — descrição clara do que está sendo investigado",
+          "Metodologia — procedimentos adotados, normas técnicas aplicáveis e ensaios realizados",
+          "Descrição da vistoria — relato detalhado com registros fotográficos, medições e croquis",
+          "Análise técnica — diagnóstico das causas e consequências dos problemas identificados",
+          "Conclusões — resposta objetiva a todos os quesitos formulados pelas partes e pelo juiz",
+          "Encerramento — considerações finais e assinatura do perito com registro profissional"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NBR 13752 e NBR 14653: as normas que orientam a perícia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia de engenharia no Brasil é orientada pela ABNT NBR 13752 — Perícias de engenharia na construção civil. A norma estabelece os procedimentos mínimos para vistorias, ensaios e avaliações, garantindo que o trabalho pericial siga critérios técnicos reconhecidos e defensáveis. Já a NBR 14653 (Avaliação de bens) orienta os casos que envolvem determinação de valores, como ações de partilha, desapropriação ou indenização."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Esse rigor metodológico é o que diferencia um laudo que resiste a impugnações de um documento que será descartado pelo juiz. Ensaios de umidade, medições de nível e prumo, análises de trincas e a documentação fotográfica com identificação de data e local são exemplos de procedimentos que seguem as normas e dão solidez à prova técnica."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Um laudo pericial bem fundamentado não diz apenas o que aconteceu: ele explica ao juiz, com base em ciência e norma técnica, o que é verdade — e é a partir dessa verdade que a decisão do processo se constrói."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como escolher um engenheiro civil para perícia judicial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em uma disputa judicial, o engenheiro escolhido pode decidir o resultado do processo. Por isso, a seleção do profissional deve ser tão criteriosa quanto a de um advogado. Alguns pontos são inegociáveis:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro ativo no CREA — o laudo sem responsável técnico regular não tem validade legal",
+          "Especialização em patologia das construções e perícias — conhecimento aprofundado em trincas, infiltrações, recalques e normas aplicáveis (NBR 13752)",
+          "Experiência com tribunais — familiaridade com quesitos, audiências, impugnações e a dinâmica do processo",
+          "Imparcialidade técnica — disposição para dizer tecnicamente a verdade, mesmo que contrária aos interesses de quem contrata",
+          "Comunicação clara — capacidade de traduzir o conteúdo técnico para linguagem compreensível ao juiz e às partes, como exige o art. 473 do CPC",
+          "Agilidade e disponibilidade — prazos processuais são curtos e não esperam"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre perícia judicial de engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa uma perícia judicial de engenharia? Os honorários são arbitrados pelo juiz (art. 465 do CPC), considerando a proposta do perito, a complexidade do trabalho, o porte do imóvel e os ensaios necessários. O valor é depositado em juízo antes da realização da perícia e, ao final do processo, quem perde a ação responde pelos custos (sucumbência)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem paga os honorários do perito? Em regra, a parte que requereu a prova adianta os honorários do perito nomeado pelo juiz, nos termos do art. 95 do CPC. Ao final da ação, o vencido reembolsa os valores. Os honorários do assistente técnico, por outro lado, são sempre custeados por cada parte que o contratou."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que é ART na perícia? A ART (Anotação de Responsabilidade Técnica) é o registro da atividade técnica no CREA, obrigatório por lei. No laudo pericial, a ART comprova que o trabalho foi realizado por profissional habilitado e responsável — requisito para a validade do documento em juízo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia é sempre obrigatória em ações envolvendo construção? Não. Quando a prova do fato não depende de conhecimento técnico, o juiz pode decidir sem perícia (art. 464 do CPC). Mas em disputas sobre vícios construtivos, patologias e valores, a prova pericial é, na prática, indispensável — e quem chega bem preparado com assistente técnico sai na frente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que acontece se eu discordar do laudo pericial? As partes têm 15 dias para se manifestar sobre o laudo, podendo apresentar impugnações e pedidos de esclarecimento. Se a matéria ainda não estiver suficientemente esclarecida, o juiz pode determinar a realização de nova perícia (art. 480 do CPC). O parecer do assistente técnico é a principal ferramenta para questionar o laudo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso contratar um engenheiro civil mesmo sem processo? Sim. Laudos extrajudiciais, vistorias cautelares, pareceres técnicos e relatórios de diagnóstico são ferramentas valiosas para negociar, resolver conflitos extrajudicialmente e, se necessário, ingressar com a ação já com prova técnica em mãos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perícia judicial no litoral de Santa Catarina: conte com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia tem sede em Navegantes e atende todo o litoral catarinense, com atuação em engenharia diagnóstica, laudos técnicos, vistorias e perícias de engenharia. Nossa equipe combina conhecimento da patologia das construções, domínio das normas da ABNT e experiência na elaboração de documentos técnicos com validade jurídica."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você precisa de um engenheiro civil para perícia judicial — como assistente técnico, para um laudo extrajudicial ou para uma vistoria preventiva — fale com a nossa equipe. Analisaremos o seu caso e explicaremos, com clareza, o caminho técnico mais seguro para proteger o seu patrimônio."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1020 @@
+{
+  "slug": "escritorio-engenharia-navegantes-transforma-projeto",
+  "title": "O Escritório de Engenharia em Navegantes que Vai Transformar Seu Projeto",
+  "tag": "PROJETOS",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "O Escritório de Engenharia em Navegantes que Vai Transformar Seu Projeto - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Você tem um terreno, um sonho e uma pergunta que decide tudo: como saber se o escritório de engenharia que você vai contratar realmente vai transformar seu projeto — ou só vai fazer mais um.",
+  "readTime": "6 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você tem um terreno, um sonho e uma pergunta que decide tudo: **como saber se o escritório de engenharia que você vai contratar realmente vai transformar seu projeto — ou só vai fazer mais um \"desenho bonito\" que a gente depois descobre que não serve?**"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Navegantes, onde o **solo arenoso, a maresia e o freático elevado** exigem decisões técnicas precisas, **o escritório de engenharia certo faz a diferença entre uma obra que dura 50 anos e uma manchete de jornal**. E não é só questão de \"ter engenheiro\" — é saber **identificar** quem vai fazer o projeto respeitar a realidade do seu terreno, a legislação local e o orçamento que você tem."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Não contrate um escritório. Contrate um parceiro que entende o que o seu terreno, a sua cidade e o seu tempo exigem.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. O que separa o escritório que transforma do que só \"faz projeto\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1.1. Estrutura que entrega resultado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um escritório de engenharia que realmente transforma seu projeto tem uma estrutura defrrente:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Característica",
+          "Escritório que transforma",
+          "Escritório comum"
+        ],
+        "rows": [
+          [
+            "Equipe multidisciplinar",
+            "Engenheiros + técnicos + topógrafo + suporte",
+            "Só um engenheiro \"faz-tudo\""
+          ],
+          [
+            "Especialização local",
+            "Conhece solo, maresia e legislação de Navegantes",
+            "Usa template genérico"
+          ],
+          [
+            "Controle de qualidade",
+            "Revisão técnica de cada disciplina",
+            "Projetos \"copiados\" de outras obras"
+          ],
+          [
+            "Acompanhamento real",
+            "Acompanha obra com vistorias programadas",
+            "\"Assina e some\" após o projeto"
+          ],
+          [
+            "Documentação completa",
+            "Planilha de custos, cronograma e checklist",
+            "Só plantas e memória de cálculo"
+          ],
+          [
+            "Transparência",
+            "Comunicação por etapas + acesso a documentos",
+            "\"Fica sabendo quando entrega\""
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dica prática: Pergunte o número de funcionários ativos, o nome do CREA do responsável técnico e quantas obras do tipo estão em andamento na sua região. Respostas evasivas = sinal vermelho."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1.2. Tecnologia aplicada ao litoral"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tecnologia",
+          "Como o escritório certo usa",
+          "Benefício para você"
+        ],
+        "rows": [
+          [
+            "Sondagem de solo",
+            "Executa antes do projeto estrutural",
+            "Fundação correta = zero rachaduras"
+          ],
+          [
+            "Topografia a laser",
+            "Levantamento preciso + GPS",
+            "Implantação no terreno sem erro"
+          ],
+          [
+            "Modelagem 3D (BIM)",
+            "Visualização antes da obra",
+            "Evita conflitos entre estrutura e instalação"
+          ],
+          [
+            "Software de custos (Sienge/Malukey)",
+            "Orçamento atualizado em tempo real",
+            "Sem surpresas no meio da obra"
+          ],
+          [
+            "App de vistoria",
+            "Fotos + relatórios + assinatura digital",
+            "Você acompanha cada etapa pelo celular"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. O que o escritório que transforma faz em cada fase do seu projeto"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.1. Fase de diagnóstico (antes de qualquer projeto)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitos escritórios pulam esta etapa. O bom **não pula nunca** — especialmente no litoral."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Atividade",
+          "Por que é decisiva",
+          "O que entrega"
+        ],
+        "rows": [
+          [
+            "Análise da matrícula do terreno",
+            "Verifica ônus, alienação e restrições",
+            "Relatório de titularidade"
+          ],
+          [
+            "Sondagem do solo",
+            "Areia + maresia = solo instável",
+            "Relatório geotécnico com recomendações"
+          ],
+          [
+            "Topografia detalhada",
+            "Define exatamente onde a casa vai",
+            "Planta com cotas reais"
+          ],
+          [
+            "Consulta de zoneamento",
+            "Garante que sua construção é permitida",
+            "Parecer de viabilidade"
+          ],
+          [
+            "Estudo de maresia",
+            "Define materiais resistentes à salinidade",
+            "Especificação de aço inox + argamassas especiais"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No litoral, um terreno que parece perfeito pode ter 3m de areia solta acima da rocha. Só a sondagem revela. E só quem conhece o local sabe fazer isso direito."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.2. Fase de projeto executivo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Aqui é onde o escritório que transforma **se diferencia de verdade**:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Disciplina",
+          "Escritório comum",
+          "Escritório que transforma"
+        ],
+        "rows": [
+          [
+            "Estrutural",
+            "Copia de outra obra",
+            "Projeto adaptado ao solo do seu terreno"
+          ],
+          [
+            "Elétrica",
+            "Padrão genérico",
+            "Dimensionado para cargas do litoral (ar-condicionado + maresia)"
+          ],
+          [
+            "Hidráulica",
+            "Tubulação padrão",
+            "Resistência à salinidade + bombeio contra freático"
+          ],
+          [
+            "Arquitetônico",
+            "Planta bonita",
+            "Projeto aproveitando ventilação e vista do litoral"
+          ],
+          [
+            "Impermeabilização",
+            "Padrão",
+            "Resistência extra para chuvas fortes do verão"
+          ],
+          [
+            "Acessibilidade",
+            "Checklist",
+            "Realidade do terreno (desnível, areia)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O que o escritório comum não conta: No litoral, aço A600 pode virar A400 em 2 anos se não for inox. E o projeto \"genérico\" não prevê isso."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.3. Fase de aprovação e licenciamento"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Trâmite",
+          "Escritório comum",
+          "Escritório que transforma"
+        ],
+        "rows": [
+          [
+            "Prefeitura (SUL)",
+            "Protocola e espera",
+            "Acompanha diariamente, responde exigências"
+          ],
+          [
+            "CREA-SC",
+            "Emite ART",
+            "Emite ART com observações técnicas"
+          ],
+          [
+            "Corpo de Bombeiros (AVCB)",
+            "Só faz se for obrigatório",
+            "Antecipa exigências para evitar retrabalho"
+          ],
+          [
+            "IMA/SC (licença ambiental)",
+            "Ignora",
+            "Identifica necessidade antes da obra"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Em Navegantes, o Código de Obras (LC 416/2023) exige que o projeto esteja totalmente compatibilizado para aprovação. Nenhum \"ajustamos na obra\"."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Como identificar o escritório certo em Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.1. 7 perguntas que você deve fazer antes de assinar"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Pergunta",
+          "O que observa",
+          "Sinal vermelho"
+        ],
+        "rows": [
+          [
+            "\"Vocês fazem sondagem?\"",
+            "Sim, com laboratório credenciado",
+            "\"Não precisa, conheço o solo\""
+          ],
+          [
+            "\"O projeto é adaptado ao terreno?\"",
+            "Sim, com memória de cálculo específica",
+            "\"—0 padrão, ajusta depois\""
+          ],
+          [
+            "\"Quantos profissionais têm no escritório?\"",
+            "Mais de 4 (multi disciplina)",
+            "Só o \"cara que assina\""
+          ],
+          [
+            "\"Podemos acompanhar a obra pelo app?\"",
+            "Sim, relatórios em tempo real",
+            "\"Manda foto no WhatsApp\""
+          ],
+          [
+            "\"O prazo inclui aprovação na prefeitura?\"",
+            "Sim, protocolo incluso",
+            "\"Depende da prefeitura\""
+          ],
+          [
+            "\"Vocês garantem contra vícios?\"",
+            "Sim, com seguro + garantia legal",
+            "\"—0 só erro nosso\" (sem garantia)"
+          ],
+          [
+            "\"O valor inclui quantas disciplinas?\"",
+            "Todas (estrutural, elétrica, hidráulica)",
+            "\"Cada coisa é extra\""
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2. Checklist de verificação no CREA-SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de contratar, faça estas 4 verificações:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "[ ] O responsável técnico tem registro ativo no CREA-SC",
+          "[ ] A empresa está devidamente registrada como escritório de engenharia",
+          "[ ] A empresa tem histórico de ART emitidas para obras similares",
+          "[ ] Não há restrições ou pendências na conta do CREA"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Acesse: www.crea-sc.org.br — \u0019 \"Consulta de Profissionais e Empresas\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.3. O que analisar na proposta"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item na proposta",
+          "O que significa"
+        ],
+        "rows": [
+          [
+            "Escopo detalhado",
+            "Cada disciplina, documento e visita listados",
+            "Sem escopo = obra para lá em cima"
+          ],
+          [
+            "Prazo por fase",
+            "Início — \u0019 fim da aprovação — \u0019 obra",
+            "Sem prazo = a obra demora para sempre"
+          ],
+          [
+            "Valor por disciplina",
+            "Projeto estrutural, elétrica, hidráulica separados",
+            "Tudo \"pacotão\" = pode sumir coisa"
+          ],
+          [
+            "Forma de pagamento",
+            "Parcelas atreladas a entregas",
+            "Tudo de uma vez = sem garantia"
+          ],
+          [
+            "Garantia de correção",
+            "Prazo para ajustes",
+            "Sem garantia = obra entrega e some"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. O custo de não escolher o escritório certo"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4.1. O quanto você pode perder?"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Sem escritório certo",
+          "Com escritório certo"
+        ],
+        "rows": [
+          [
+            "Valor do projeto",
+            "R$ 10.000",
+            "R$ 12.000"
+          ],
+          [
+            "Reprovação na prefeitura",
+            "R$ 8.000 (refazer tudo)",
+            "R$ 0 (projeto correto)"
+          ],
+          [
+            "Fundação inadequada",
+            "R$ 120.000 (estacas de recuperação)",
+            "R$ 0 (projeto correto)"
+          ],
+          [
+            "Obras paradas",
+            "R$ 50.000 (multa + interesse)",
+            "R$ 0 (execução fluida)"
+          ],
+          [
+            "Multas CREA",
+            "R$ 20.000",
+            "R$ 0"
+          ],
+          [
+            "Total de prejuízo",
+            "R$ 190.000",
+            "R$ 12.000"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A diferença entre um escritório barato e um bom escritório pode ser R$ 2.000 — e o prejuízo de um erro pode ser R$ 190.000."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4.2. Histórias reais de Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso 1: Projeto \"genérico\" em Itajaí"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O que aconteceu:** Cliente comprou um projeto pronto pela internet. O escritório \"não sabia\" que o terreno era areia mole + freático elevado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Resultado:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fundação rachou em 6 meses — \u0019 R$ 85.000 em estacas de recuperação",
+          "Projeto estrutural não passou na prefeitura — \u0019 R$ 12.000 de reformulação",
+          "Projeto elétrico queimou com maresia — \u0019 R$ 18.000 de troca",
+          "Total de prejuízo: R$ 115.000 — mais de 10x o valor do projeto original"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso 2: Escritório local com acompanhamento completo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O que acertou:** Cliente contratou escritório que fez sondagem + topografia + projeto adaptado + acompanhamento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Resultado:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fundação correta — \u0019 zero rachaduras em 3 anos",
+          "Aprovação na prefeitura em 32 dias",
+          "Obra concluída 15 dias antes do prazo",
+          "Habite-se liberado sem exigências",
+          "Valor final: R$ 15.000 a mais no projeto, R$ 120.000 a menos em retrabalho"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. O escritório que transforma: como funciona o dia a dia"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5.1. Reuniões de alinhamento"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Momento",
+          "Objetivo",
+          "Quem participa"
+        ],
+        "rows": [
+          [
+            "Reunião de diagnóstico",
+            "Entender sonho + limites",
+            "Cliente + engenheiro"
+          ],
+          [
+            "Validação do anteprojeto",
+            "Ajustar planta + implantação",
+            "Cliente + arquiteto"
+          ],
+          [
+            "Reunião de especificações",
+            "Escolher materiais + acabamento",
+            "Cliente + engenheiro + fornecedor"
+          ],
+          [
+            "Vistoria de início de obra",
+            "Validar fundação + locação",
+            "Engenheiro + empreiteiro"
+          ],
+          [
+            "Visitas programadas",
+            "Acompanhar etapas críticas",
+            "Engenheiro + cliente (sob pedido)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5.2. O que o escritório entrega ao longo do processo"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Entrega",
+          "Quando",
+          "Formato"
+        ],
+        "rows": [
+          [
+            "Relatório de viabilidade",
+            "Após diagnóstico",
+            "PDF + assinatura digital"
+          ],
+          [
+            "Anteprojeto aprovado",
+            "Após ajustes iniciais",
+            "Planta + 3 vistas"
+          ],
+          [
+            "Projeto completo",
+            "Pós-aprovação preliminar",
+            "Pastas digitais por disciplina"
+          ],
+          [
+            "ART de execução",
+            "Antes da fundação",
+            "Número CREA + protocolo"
+          ],
+          [
+            "Testes de instalações",
+            "Após instalação",
+            "Atestados + fotos"
+          ],
+          [
+            "As-built (projeto executado)",
+            "Ao final",
+            "Plantas atualizadas"
+          ],
+          [
+            "Manual de uso e manutenção",
+            "Ao habite-se",
+            "NBR 14037"
+          ],
+          [
+            "Relatórios de vistoria",
+            "Durante a obra",
+            "App + e-mail"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Tudo registrado. Sem \"esqueci de mandar\" ou \"não anotei\". Quem transforma documenta."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Como escolher o escritório certo para o seu projeto"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6.1. Passo a passo para contratar com segurança"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Leve documentação do terreno — matrícula, IPTU, escritura, planta baixa",
+          "Receba 3 propostas — compare escopo, prazo e valor, não só preço",
+          "Consulte o CREA-SC — verifique registro e histórico do responsável técnico",
+          "Visite uma obra em andamento — veja o trabalho real do escritório",
+          "Peça referências de clientes — fale com quem já construiu",
+          "Exija contrato escrito — com escopo, prazos e garantias definidos",
+          "Negocie o modelo integrado — projeto + aprovação + acompanhamento em um lugar só"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6.2. Checklist rápido para validar antes de assinar"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "—S&",
+          "Item",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "[ ]",
+            "O escritório faz sondagem?",
+            ""
+          ],
+          [
+            "[ ]",
+            "O valor é por disciplina (não tudo junto)?",
+            ""
+          ],
+          [
+            "[ ]",
+            "O CREA do responsável técnico está ativo?",
+            ""
+          ],
+          [
+            "[ ]",
+            "Existe contrato com escopo definido?",
+            ""
+          ],
+          [
+            "[ ]",
+            "O prazo de aprovação está incluído?",
+            ""
+          ],
+          [
+            "[ ]",
+            "O acompanhamento de obra é incluído?",
+            ""
+          ],
+          [
+            "[ ]",
+            "Existe garantia de correção?",
+            ""
+          ],
+          [
+            "[ ]",
+            "As referências são reais (pode ligar)?",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. A Regê Engenharia: como aplicamos a transformação no seu projeto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Navegantes, onde **maresia, areia e freático elevado** são o dia a dia, a Regê Engenharia vai além do projeto — ela **protege o seu investimento**."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Nossa estrutura"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Área",
+          "Profissional",
+          "Especialização"
+        ],
+        "rows": [
+          [
+            "Diretoria Técnica",
+            "Eng. [Nome], CREA-SC [nº]",
+            "Responsável técnico com 15+ anos"
+          ],
+          [
+            "Engenharia de Projetos",
+            "3 engenheiros",
+            "Estrutural, elétrica, hidráulica"
+          ],
+          [
+            "Topografia",
+            "1 topógrafo",
+            "Levantamento a laser + GPS"
+          ],
+          [
+            "Engenharia de Custos",
+            "1 profissional",
+            "Orçamento + planejamento"
+          ],
+          [
+            "Suporte",
+            "2 assistentes",
+            "Protocolos, ART, licenciamento"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que entregamos em cada fase"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fase",
+          "O que a Regê faz",
+          "Garantia para você"
+        ],
+        "rows": [
+          [
+            "Diagnóstico",
+            "Sondagem + topografia + análise de risco",
+            "Fundação adequada ao seu terreno"
+          ],
+          [
+            "Projeto",
+            "6 disciplinas compatibilizadas",
+            "Zero retrabalho na prefeitura"
+          ],
+          [
+            "Licenciamento",
+            "Prefeitura + Bombeiros + CREA",
+            "Aprovação em até 45 dias"
+          ],
+          [
+            "Obra",
+            "4 visitas programadas + relatórios",
+            "Cadacento liberado sem surpresas"
+          ],
+          [
+            "Recebimento",
+            "Habite-se + manual + as-built",
+            "Imóvel pronto para morar/vender"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Nós não vendemos projeto. Vendemos tranquilidade, prazo e valor garantido.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "8. Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Preciso ir ao escritório pessoalmente?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e cidades do litoral, **a visita ao terreno é obrigatória**. Mas o primeiro contato pode ser online — enviamos um engenheiro para diagnóstico e levamos toda a equipe para o local."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O escritório acompanha a licitação da obra?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia oferece o **modelo integrado**: projeto + aprovação + licitação + acompanhamento. Ajudamos a encontrar aConstrutora certificada e monitoramos os preços."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Quanto tempo leva um projeto completo?\""
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Projeto",
+          "Prazo típico"
+        ],
+        "rows": [
+          [
+            "Casa de até 150 m²",
+            "30—\u001c45 dias"
+          ],
+          [
+            "Casa de 200—\u001c350 m²",
+            "45—\u001c75 dias"
+          ],
+          [
+            "Edifício de até 5 andares",
+            "60—\u001c90 dias"
+          ],
+          [
+            "Com aprovação na prefeitura",
+            "+20 a +45 dias"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O projeto é personalizado ou é padrão?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**100% personalizado.** Cada terreno é diferente — e a Regê não usa \"template\". Sondagem + topografia + análise de risco garantem que o projeto respeite a realidade do seu terreno."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Posso pedir ajustes depois?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê oferece **até 3 ajustes gratuitos** na fase de anteprojeto. Depois, é R$ 200 por mudança (para cobrir o tempo técnico)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O valor do projeto aumenta com o acompanhamento?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O acompanhamento de obra é **um add-on** com valor separado. O projeto é cobrado uma vez; o acompanhamento é por etapa (vistoria programada por R$ 500)."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "9. Conclusão: escolher o escritório certo é o primeiro tijolo da obra certa"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Navegantes, onde **o solo, a maresia e a legislação exigem conhecimento específico**, contratar um escritório de engenharia que \"faz projeto\" não basta. Você precisa de um profissional que **entende o seu terreno, conhece a sua cidade e garante que cada centavo do seu financiamento vá para onde deve**."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"O escritório certo não é o mais barato. —0 o que faz você dormir tranquilo sabendo que sua obra está em mãos competentes.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia combina **15+ anos de experiência no litoral catarinense**, **equipe multidisciplinar** e **tecnologia a laser** para transformar seu projeto. Navegantes, Navegantes, Itajaí, Balneário e todo o litoral norte de SC — estamos prontos para o seu projeto."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com o escritório:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Navegantes e todo o litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Legais e Técnicas"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes",
+          "Lei Complementar nº 414/2023 — Código Urbanístico do Município de Navegantes",
+          "Lei Complementar nº 452/2024 — Mecanismo de regularização de obras irregulares",
+          "Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)",
+          "NBR 6118 — Estruturas de concreto",
+          "NBR 5410 — Instalações elétricas",
+          "NBR 5626 — Instalações hidráulicas",
+          "NBR 8800 — Estruturas metálicas",
+          "NBR 9050 — Acessibilidade",
+          "CREA-SC — Verificação de registro de profissionais e empresas",
+          "Sistema SUL — Licenciamento municipal de Navegantes",
+          "Corpo de Bombeiros de SC — Avaliação de risco e AVCB"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-05 -->"
+      }
+    }
+  ]
+}

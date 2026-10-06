@@ -1,0 +1,91 @@
+{
+  "slug": "custo-de-obra-2026",
+  "title": "Custo de obra em 2026: Como planejar seu orçamento sem surpresas",
+  "tag": "PLANEJAMENTO",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Planejamento de orçamento de obra",
+  "excerpt": "O custo por metro quadrado no litoral catarinense subiu consideravelmente. Entenda como montar um orçamento executivo realista, quais itens mais impactam o valor final e como evitar os estouros que comprometem o sonho da casa própria.",
+  "readTime": "9 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Planejar o orçamento de uma obra é, sem dúvida, uma das etapas mais importantes — e mais subestimadas — da construção civil. Segundo dados recentes do CUB/SC (Custo Unitário Básico), o custo por metro quadrado de construção no litoral catarinense teve um aumento significativo nos últimos anos, tornando o planejamento financeiro ainda mais crucial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que compõe o custo de uma obra?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo total de uma obra vai muito além dos materiais e da mão de obra. Ele contempla projetos (arquitetônico, estrutural, elétrico, hidráulico), taxas e licenças municipais, sondagem de solo, movimentação de terra, fundações, estrutura, alvenaria, cobertura, instalações, acabamentos e limpeza final."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projetos e licenças: 3% a 8% do valor total",
+          "Fundação e estrutura: 25% a 35% do valor total",
+          "Alvenaria e cobertura: 10% a 15% do valor total",
+          "Instalações elétricas e hidráulicas: 8% a 12% do valor total",
+          "Acabamentos (pisos, revestimentos, louças, metais): 25% a 40% do valor total",
+          "Mão de obra: 40% a 50% do custo direto da construção"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como evitar estouros no orçamento?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O principal motivo de estouro no orçamento de obras residenciais é a falta de um projeto executivo detalhado. Quando a obra começa sem projetos completos, as decisões são tomadas no canteiro — e decisões de última hora quase sempre são mais caras. Além disso, mudanças de escopo durante a execução (o famoso \"já que estamos aqui, vamos aproveitar e mudar...\") são responsáveis por grande parte dos custos extras."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Margem de segurança: quanto reservar?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mesmo com um planejamento detalhado, é prudente reservar uma margem de segurança de 10% a 15% sobre o orçamento total. Imprevistos acontecem — podem surgir problemas no solo, variações nos preços de materiais ou necessidades de ajustes técnicos. Ter essa reserva evita que um contratempo se transforme em uma obra parada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "A importância do orçamento executivo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O orçamento executivo é um documento detalhado que lista todos os serviços, materiais e quantidades necessários para a obra, com preços unitários e totais. Diferente de uma estimativa genérica, ele é baseado nos projetos executivos da obra e oferece precisão real sobre o investimento necessário."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Quem planeja, constrói com tranquilidade. Quem improvisa, paga caro — literalmente. Um orçamento executivo detalhado é o melhor investimento que você pode fazer antes de levantar o primeiro tijolo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia elabora orçamentos executivos detalhados e transparentes para todos os projetos. Entre em contato para receber uma proposta personalizada sem compromisso."
+      }
+    }
+  ]
+}

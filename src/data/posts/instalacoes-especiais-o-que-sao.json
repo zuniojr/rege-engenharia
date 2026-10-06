@@ -1,0 +1,406 @@
+{
+  "slug": "instalacoes-especiais-o-que-sao",
+  "title": "Instalações Especiais: O Que São, Quando São Obrigatórias e Como Contratar Sem Erro",
+  "tag": "ENGENHARIA",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Proprietário e engenheiro revisando projeto de instalações especiais de edifício comercial em Navegantes SC — SPDA, incêndio, automação e cabeamento estruturado.",
+  "excerpt": "Você sabe o que são instalações especiais — e se sua obra vai precisar delas? SPDA, combate a incêndio, cabeamento estruturado, automação predial e gás centralizado têm regras, normas e aprovações específicas. Entenda o que cada sistema faz, quando é obrigatório e como evitar o erro mais comum: descobrir isso depois que a obra está fechada.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A maioria das pessoas que está construindo ou reformando conhece os projetos básicos: o arquitetônico define os ambientes, o estrutural sustenta tudo, o elétrico ilumina e alimenta as tomadas, o hidráulico leva e leva embora a água. Mas existe uma categoria de sistemas que vai além disso — e que costuma aparecer tarde demais na obra, quando mudar virou obra dentro da obra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Esses sistemas são as instalações especiais. E o problema não é que as pessoas não queiram contratá-las: é que muitas vezes não sabem que precisam delas, não entendem o que cada uma faz, ou acreditam que podem ser instaladas depois. Algumas podem — mas com custo muito maior. Outras simplesmente não têm como ser instaladas depois que a estrutura está fechada, a não ser que você faça uma obra de retrofit que pode custar mais do que a instalação original teria custado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo é para quem está planejando uma obra ou já está em obra e precisa entender: o que são instalações especiais, quais são obrigatórias para o seu tipo de construção, o que acontece se você não fizer no momento certo, e como contratar esse serviço com segurança técnica e jurídica no litoral de Santa Catarina."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que são instalações especiais — em linguagem simples"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Instalações especiais são todos os sistemas técnicos de uma edificação que não se encaixam nas categorias básicas de elétrico convencional e hidráulico doméstico. Eles existem para atender funções específicas: proteger o imóvel contra raios, garantir a segurança em caso de incêndio, criar uma infraestrutura de comunicação e dados, automatizar o controle de ambientes, ou atender demandas operacionais de uso industrial ou comercial."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Pense assim: o projeto elétrico convencional coloca tomadas, interruptores e o quadro de distribuição. O projeto de instalações especiais define o para-raios que protege o quadro, os sensores de fumaça que detectam o incêndio antes que ele chegue ao quadro, o cabeamento de rede que conecta os equipamentos e a automação que apaga a luz quando você sai do ambiente. São sistemas diferentes, com normas diferentes, com projetos separados e com profissionais especializados diferentes."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Instalações especiais não substituem os projetos básicos — eles se somam a eles. E precisam ser compatibilizados com eles antes da obra começar, não depois que ela terminou."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os sistemas de instalações especiais mais comuns — e o que cada um faz"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Veja os principais sistemas, o que cada um faz na prática e para quem é mais relevante:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Para-raios (SPDA) — Sistema de Proteção contra Descargas Atmosféricas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O para-raios técnico — chamado de SPDA pela norma ABNT NBR 5419 — não é aquela haste enferrujada que você vê em prédios antigos. O sistema moderno é composto por captores no topo da edificação, condutores que levam a descida da energia até o solo, sistema de aterramento para dissipar a corrente com segurança e dispositivos de proteção contra surtos (DPS) nos painéis elétricos para proteger os equipamentos contra a sobretensão gerada pela descarga."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O SPDA é obrigatório para: edifícios com mais de 2 pavimentos, qualquer edificação acima de 1.000 m² de cobertura, hospitais, escolas, templos religiosos, instalações industriais e comerciais de maior porte, e qualquer edificação onde a análise de risco aponte nível de proteção obrigatório. No litoral de Santa Catarina, a alta densidade de raios torna o sistema ainda mais crítico — a região tem uma das maiores incidências de descargas atmosféricas do sul do país."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve: protege a edificação e seus moradores/usuários contra os efeitos diretos e indiretos de raios",
+          "Quem precisa: a maioria das edificações com mais de 2 pavimentos ou mais de 1.000 m²; residências em área rural ou com alta exposição também devem avaliar",
+          "O que acontece sem ele: habite-se bloqueado, seguro predial que pode ser invalidado em caso de sinistro por raio, responsabilidade civil do proprietário",
+          "Quando instalar: o projeto deve ser elaborado junto com o elétrico, pois as descidas do SPDA precisam de espaço reservado na estrutura e os aterramentos são integrados",
+          "Quem aprova: o projeto é anotado no CREA com ART; em SC, é verificado pelo CBMSC no processo de aprovação do habite-se"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sistema de Detecção e Combate a Incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este é provavelmente o sistema de instalação especial mais conhecido — e o que mais gera problemas quando deixado para depois. Ele tem duas partes que se complementam: a detecção (sensores de fumaça, calor e chama, centrais de alarme, sirenes) e o combate (rede de hidrantes com mangueiras, chuveiros automáticos/sprinklers, extintores com sinalização). Em Santa Catarina, o sistema é regulado pelo Decreto Estadual 1.957/2013 e pelas Instruções Normativas do Corpo de Bombeiros Militar de SC (CBMSC)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve: detectar o incêndio no início e fornecer os meios para combatê-lo antes que se espalhe, protegendo vidas e patrimônio",
+          "Quem precisa: qualquer edificação não residencial (comercial, industrial, hoteleira, hospitalar, escola, shopping) e residenciais multifamiliares com mais de 4 pavimentos",
+          "O que acontece sem aprovação do CBMSC: sem a aprovação del projeto e o laudo de vistoria do CBMSC, o habite-se não é emitido — a obra não pode ser entregue nem ocupada legalmente",
+          "Quando instalar: o reservatório de incêndio impacta a estrutura e precisa ser previsto desde o projeto básico; a tubulação de sprinklers passa por lajes e paredes — instalação depois da obra fechada exige furações estruturais",
+          "Quem aprova: CBMSC — 4º Batalhão sediado em Itajaí, atende Navegantes, Itajaí, Balneário Camboriú, Penha e municípios vizinhos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cabeamento Estruturado — Rede de Dados, Telefonia e CFTV"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O cabeamento estruturado é o sistema que define toda a infraestrutura de comunicação da edificação: pontos de rede, telefonia, câmeras de segurança (CFTV) e outros sistemas de dados. Ele existe para que cada ponto de rede seja conectado ao rack central de telecomunicações com desempenho garantido, sem improvisações de extensões de cabo ou switches avulsos espalhados pelos ambientes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve: fornece a infraestrutura física para internet, telefonia, câmeras, controle de acesso e qualquer sistema que precise de conectividade",
+          "Quem precisa: edificações comerciais (lojas, escritórios, clínicas, hotéis), condomínios residenciais e industriais; residências de alto padrão que queiram infraestrutura para automação e câmeras",
+          "O que acontece sem ele: a alternativa é o Wi-Fi — que tem limitações de alcance, segurança e confiabilidade — ou cabeamento improvisado com calha aparente, que prejudica a estética e tem desempenho inferior",
+          "Quando instalar: durante a obra, antes do fechamento de paredes e lajes — o eletroduto do cabeamento é passado embutido junto com o eletroduto elétrico; depois da obra, a solução aparente dobra ou triplica o custo",
+          "Categoria recomendada: Cat.6 para redes de escritório e residencial; Cat.6A ou fibra óptica para ambientes industriais e sistemas de alta performance"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Automação Predial — Controle Inteligente do Imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Automação predial é o conjunto de sistemas que permite controlar, monitorar e otimizar o funcionamento de um imóvel — iluminação, climatização, segurança, controle de acesso, gestão de energia — de forma integrada, por aplicativo, painel ou voz. Em edificações comerciais, a automação reduz custos operacionais. Em residências de alto padrão, aumenta conforto e segurança. Em ambos, valoriza o imóvel."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve: automatiza iluminação com sensor de presença, climatização por zona e horário, controle de acesso por biometria ou app, câmeras e alarmes, gestão de energia com monitoramento de consumo",
+          "Quem precisa: residências de alto padrão, hotéis, clínicas, escritórios, condomínios comerciais e industriais que querem reduzir custos operacionais",
+          "O que acontece sem o projeto: automação instalada depois da obra fechada exige cabeamento aparente ou soluções sem fio com bateria — custo de retrofit pode ser de 3 a 5 vezes maior que o projeto original",
+          "Quando instalar: o projeto de automação define os eletrodutos dedicados que precisam ser passados antes do lançamento das lajes e fechamento das paredes",
+          "Protocolo mais comum: KNX para sistemas integrados de edifícios comerciais; Z-Wave e Zigbee para residencial; BACnet para integração com sistemas prediais de grande porte"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Instalação de Gás Centralizado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em condomínios residenciais, o sistema de gás centralizado substitui os botijões individuais em cada apartamento por uma central única de GLP (com cilindros ou tanque a granel) ou conexão à rede de gás natural (onde disponível), com ramais individuais para cada unidade, medidores e válvulas de corte. Em Santa Catarina, a central de gás é obrigatória em edifícios com mais de quatro unidades — e precisa de projeto aprovado com ART."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve: fornece gás de forma centralizada e segura para fogão, aquecedor, forno e outros equipamentos de cada unidade",
+          "Quem precisa: condomínios residenciais com mais de 4 unidades; edificações comerciais com demanda de gás (restaurantes, padarias, cozinhas industriais)",
+          "O que acontece sem projeto: instalação irregular sem ART cria risco de explosão, invalida o seguro predial e impede a aprovação do habite-se",
+          "Quando instalar: a tubulação de gás é embutida nas paredes e lajes — definição durante a obra; a central de GLP precisa de local específico no projeto arquitetônico com distâncias de segurança do CBMSC",
+          "Aprovação: pela distribuidora de GLP autorizada com ART do engenheiro; onde houver gás natural, pela SCGÁS"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Iluminação de Emergência e Sinalização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A iluminação de emergência garante que, em caso de falta de energia ou incêndio, as pessoas dentro do imóvel consigam enxergar as rotas de fuga e sair com segurança. O sistema inclui blocos de emergência com bateria interna, luminárias de segurança e placas fotoluminescentes que indicam as saídas e o percurso de evacuação. —0 exigido pelo CBMSC para qualquer edificação não residencial e para residenciais com mais de dois pavimentos."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve: garante visibilidade nas rotas de fuga em caso de queda de energia ou incêndio",
+          "Quem precisa: toda edificação comercial, industrial, hoteleira, hospitalar e escolas; residenciais com mais de 2 pavimentos",
+          "O que acontece sem ele: o CBMSC não aprova o laudo final, bloqueando o habite-se; em caso de acidente sem o sistema, o proprietário responde criminalmente",
+          "Autonomia mínima: 1 hora de funcionamento com bateria interna — testada mensalmente (30 min) e anualmente (90 min) com registro em livro",
+          "Integração: os circuitos de emergência precisam de alimentação independente no quadro elétrico — deve ser previsto no projeto elétrico"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O erro que custa mais caro: deixar para depois"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este é o ponto onde mais proprietários de obras se arrependem. Você planeja a obra com arquiteto e engenheiro estrutural. O projeto elétrico e hidráulico vai junto. E aí alguém menciona \"para-raios\" ou \"sistema de incêndio\" e a resposta é: \"ah, a gente instala isso quando a obra estiver pronta\". Essa frase custa caro. ìs vezes, custa muito caro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os sistemas de instalações especiais que dependem de infraestrutura embutida — eletrodutos, reservatórios, passagens de cabos na estrutura — precisam ser previstos antes da concretagem. Depois que a laje está lançada e as paredes estão fechadas, as opções são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Calha ou eletrocalha aparente: resolve o problema, mas prejudica a estética e pode não ser aceita em ambientes com exigência visual (hotéis, clínicas, escritórios de alto padrão)",
+          "Furações na estrutura: perigosas se feitas sem projeto — cortar uma viga ou laje pode comprometer a segurança estrutural; exige laudo de engenheiro para cada intervenção",
+          "Demolição e reconstrução de trechos: em casos extremos, quando o caminho de um sistema crítico passa por um elemento estrutural que não tem espaço para furo",
+          "Custo de retrofit: instalar cabeamento estruturado depois da obra pronta pode custar de 3 a 5 vezes mais do que durante a construção; instalar tubulação de sprinklers em laje já concretada pode inviabilizar o projeto economicamente",
+          "Para alguns sistemas, não há retrofit possível: o reservatório de incêndio separado do reservatório de consumo precisa de espaço físico previsto desde o início — depois que a cobertura está construída, criar esse espaço exige obra de grande porte"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A pergunta não é \"quanto custa instalar o SPDA agora?\". A pergunta certa é \"quanto vai custar instalar depois que a obra estiver fechada?\" — e a resposta quase sempre é \"muito mais, ou impossível\"."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando as instalações especiais são obrigatórias para o habite-se"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O habite-se — documento que a prefeitura emite atestando que a obra foi concluída conforme o projeto aprovado e que pode ser legalmente habitada ou utilizada — exige a comprovação de alguns sistemas de instalações especiais como condição obrigatória. Em Navegantes e nos municípios do litoral de SC, os sistemas que bloqueiam o habite-se quando ausentes são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sistema de detecção, alarme e combate a incêndio: laudo de vistoria aprovado pelo CBMSC é exigido pela maioria das prefeituras do litoral de SC como condição para emissão do habite-se em edificações não residenciais e residenciais multifamiliares",
+          "SPDA: verificado pelo CBMSC como parte do processo de segurança contra incêndio; ausência pode gerar exigência de regularização antes do habite-se",
+          "Iluminação de emergência e sinalização: parte do processo de aprovação do CBMSC — bloqueada junto com o sistema de detecção e combate a incêndio",
+          "Instalação de gás centralizado: central de GLP com ART é condição para ligação de gás e pode ser exigida pelo CBMSC e pela distribuidora antes da entrega",
+          "Cabeamento estruturado: em SC, edificações acima de certo porte precisam de infraestrutura de telecomunicações aprovada — verifique com a prefeitura local"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como funciona a aprovação de cada sistema em Navegantes e no litoral SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada sistema de instalação especial tem um órgão responsável pela aprovação. Conhecer esse fluxo evita a surpresa de descobrir que falta uma aprovação quando você já está querendo receber o habite-se:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "SPDA: aprovação pelo CREA-SC com emissão de ART pelo engenheiro responsável pelo projeto; verificação pelo CBMSC no processo de aprovação do habite-se",
+          "Detecção e combate a incêndio: projeto submetido ao CBMSC antes da execução; vistoria após a instalação com emissão de laudo de aprovação — o processo no 4º Batalhão (Itajaí) leva de 30 a 90 dias",
+          "Cabeamento estruturado e telecomunicações: aprovação pela prefeitura local como parte do projeto da edificação; infraestrutura de telecomunicações segue Resolução ANATEL 590/2012",
+          "Gás centralizado (GLP): aprovação pela distribuidora de GLP autorizada com ART do engenheiro; onde houver gás natural, pela SCGÁS",
+          "Subestação de média tensão (para industriais): aprovação pela Celesc-Distribuição, com processo específico por modalidade de conexão — prazo de 60 a 180 dias",
+          "Automação predial: não tem aprovação em órgão externo — mas a infraestrutura (eletrodutos e quadros) é verificada pelo CREA e pela concessionária de energia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como contratar o projeto de instalações especiais com segurança"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Agora que você entende o que são e quando são necessárias, como contratar bem? Esses são os critérios que separam uma contratação segura de uma que vai gerar problema mais tarde:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Profissional com registro ativo no CREA-SC: qualquer projeto de instalação especial precisa de um engenheiro com registro ativo — confirme no site do CREA-SC (crea-sc.org.br) antes de assinar o contrato",
+          "ART emitida antes do início de qualquer serviço: a Anotação de Responsabilidade Técnica formaliza a responsabilidade do engenheiro — sem ART, o projeto não tem validade legal e você não tem respaldo em caso de problema",
+          "Projeto específico para o seu sistema e norma: cada sistema de instalação especial tem sua norma ABNT e suas exigências de memorial de cálculo — peça para ver o memorial e a referência normativa",
+          "Compatibilização com os demais projetos: pergunte como o profissional vai compatibilizar o projeto das instalações especiais com o projeto estrutural, o elétrico e o hidráulico",
+          "Acompanhamento da aprovação no CBMSC e outros órgãos: o engenheiro que projeta deve acompanhar a aprovação e responder às exigências técnicas dos órgãos — isso é parte do serviço",
+          "Laudo de comissionamento e manual do sistema: após a execução, você deve receber um laudo assinado confirmando que o sistema foi testado e está funcionando conforme o projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa e qual é o melhor momento para contratar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores de referência para os principais sistemas no litoral de SC em 2025—\u001c2026 (projeto + ART, sem execução):"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "SPDA — edificação residencial/comercial até 1.500 m²: R$ 1.800 a R$ 5.000",
+          "Detecção e alarme de incêndio até 2.500 m²: R$ 3.500 a R$ 9.000",
+          "Combate a incêndio — hidrantes e sprinklers até 2.500 m²: R$ 4.500 a R$ 14.000",
+          "Cabeamento estruturado — edificação comercial de médio porte: R$ 2.500 a R$ 7.500",
+          "Automação predial residencial — casa de alto padrão: R$ 3.000 a R$ 10.000",
+          "Gás centralizado — edifício de 10 unidades: R$ 2.000 a R$ 5.500",
+          "Pacote completo (SPDA + incêndio + cabeamento) — edifício comercial até 3.000 m²: R$ 12.000 a R$ 38.000"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O melhor momento para contratar é durante a elaboração do projeto básico — junto com o estrutural e o elétrico. Nessa fase, compatibilizar os sistemas tem custo praticamente zero. Cada mês que passa depois do início da obra aumenta o custo de compatibilização. E depois que a obra está concluída, alguns sistemas só são viáveis com obra de retrofit."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas práticas sobre instalações especiais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Meu vizinho construiu um edifício igual ao meu e não tem SPDA — eu preciso? A obrigatoriedade depende da análise de risco conforme a NBR 5419. Mas atenção: \"o vizinho não tem\" não é argumento técnico nem legal. A questão é se a sua edificação específica atinge os critérios de obrigatoriedade — e quem responde isso com ART é um engenheiro, não a comparação com o vizinho."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso pedir o projeto de instalações especiais para o mesmo engenheiro que fez o estrutural? Pode — desde que o profissional tenha experiência e conhecimento específico nos sistemas especiais. Engenharia civil é uma formação ampla. Verifique se ele já elaborou projetos de SPDA e combate a incêndio e peça referências."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A construtora garante que vai instalar tudo certo — preciso mesmo do projeto? Sim. A construtora executa — o projeto define o que executar, como executar e com quais especificações. Sem projeto, a construtora pode instalar o que for mais fácil ou mais barato, não necessariamente o que atende à norma. E quem responde pela conformidade com o CBMSC e o CREA é o engenheiro com ART — que precisa de projeto para emitir essa ART."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva a aprovação no CBMSC? Para obras de pequeno porte em Navegantes e região, o processo no 4º Batalhão de Itajaí costuma levar de 30 a 90 dias para aprovação do projeto e mais 15 a 30 dias para a vistoria após a execução. Por isso, o projeto precisa ser submetido ao CBMSC antes do início da execução — não junto com a obra, e muito menos depois de concluída."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Instalações especiais em Navegantes e no litoral norte de SC — como a Rege atua"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Rege Engenharia projeta, coordena e acompanha a aprovação de instalações especiais em obras residenciais, comerciais e industriais no litoral de Santa Catarina. Atuamos em Navegantes, Itajaí, Balneário Camboriú, Itapema, Barra Velha, Penha, Porto Belo, Bombinhas e toda a região litorânea."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conhecemos a agressividade da maresia, o comportamento do solo arenoso e a rotina de condominios da orla - e traduzimos isso em periodicidades que funcionam na pratica, nao apenas no papel. Se o seu condominio esta sem plano, com plano desatualizado ou com manutencoes sem registro, fale com nossa equipe. Vamos transformar a manutencao do seu predio de custo imprevisivel em rotina controlada, com garantia preservada e patrimonio valorizado."
+      }
+    }
+  ]
+}

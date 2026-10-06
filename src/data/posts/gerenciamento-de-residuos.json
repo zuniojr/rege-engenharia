@@ -1,0 +1,356 @@
+{
+  "slug": "gerenciamento-de-residuos",
+  "title": "Gerenciamento de Resíduos Sólidos: O Guia Completo para Empresas e Obras",
+  "tag": "AMBIENTAL",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Gerenciamento de resíduos sólidos em Navegantes e Litoral Norte de SC — engenheiro ambiental orienta segregação, transporte com MTR e destinação final de resíduos de empresa e obra.",
+  "excerpt": "Resíduo mal destinado gera multa, embargo e responsabilidade solidária para quem gerou - mesmo depois do descarte. O gerenciamento de resíduos organiza classificação, coleta seletiva, armazenamento, MTR e destinação final. Veja como fazer na sua empresa ou obra.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda empresa gera resíduo - a indústria gera borra e embalagem contaminada, o comércio gera papelão, a obra gera entulho, o escritório gera papel e eletrônicos. E, desde a Lei 12.305/2010, quem gera responde pelo resíduo desde o ponto de geração até a destinação final ambientalmente adequada. Isso significa que jogar tudo junto numa caçamba e confiar no destino não é gerenciar - é transferir risco para o CNPJ: multa diária, embargo, passivo ambiental de área contaminada e responsabilidade solidária quando o destinador irregular desaparece."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica, na prática, o que é gerenciamento de resíduos sólidos, qual é a base legal, como classificar os resíduos do seu empreendimento, quais são as etapas do ciclo (diagnóstico, plano, segregação, armazenamento, transporte com MTR, destinação final e documentação), as particularidades da construção civil e da indústria, os erros mais comuns que geram autuação e como a Regê Engenharia estrutura todo esse processo em Navegantes e no Litoral Norte de Santa Catarina."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é gerenciamento de resíduos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Gerenciamento de resíduos é o conjunto integrado de ações de prevenção, redução, segregação na origem, coleta, armazenamento, transporte, tratamento e destinação final dos resíduos, conduzido com rastreabilidade documental do início ao fim da cadeia. Não é apenas \"contratar caminhão para levar o lixo\": é um sistema de gestão que garante que cada tipo de resíduo siga para o destino correto, por transportador licenciado, com registro comprobatório que proteja juridicamente o gerador."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Prevenção e minimização - reduzir a geração na fonte, antes de pensar no descarte",
+          "Segregação na origem - separar os resíduos por classe no ponto onde nascem",
+          "Rastreabilidade documental - MTR, notas de destinação e cadastros que provam o destino correto",
+          "Destinação ambientalmente adequada - reciclagem, coprocessamento ou aterro licenciado conforme cada classe",
+          "Responsabilidade compartilhada - fabricantes, importadores, distribuidores e geradores respondem pelo ciclo completo"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na cadeia de resíduos não existe terceirização de responsabilidade: contratar o carroça não transfere a obrigação - quem gera responde até a última etapa da destinação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o gerenciamento de resíduos virou prioridade"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Exigência legal - a Política Nacional de Resíduos Sólidos obriga o plano de gerenciamento para quase toda atividade geradora",
+          "Fiscalização ativa - IMA/SC, prefeituras e Ministério Público intensificaram autuações, inclusive por denúncia de vizinhos e concorrentes",
+          "Licenciamento ambiental - PGRS bem implantado é condição para obter e renovar LP, LI e LO sem exigências",
+          "Cadeia de suprimentos - grandes compradores auditam fornecedores e cobram comprovante de destinação como critério comercial",
+          "Financiamento - bancos condicionam crédito a conformidade ambiental, e resíduo irregular aparece no primeiro filtro",
+          "Economia real - recicláveis segregados viram receita, e destinação correta reduz volume enviado ao aterro, que é a opção mais cara"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Base legal do gerenciamento de resíduos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O arcabouço combina lei federal, regulamentos, normas técnicas e regras estaduais - e é justamente essa sobreposição que confunde o empresário:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lei 12.305/2010 - institui a Política Nacional de Resíduos Sólidos, define responsabilidade compartilhada e logística reversa",
+          "Decreto 10.936/2022 - regulamenta a PNRS e detalha obrigações de geradores e planos de gerenciamento",
+          "Resolução CONAMA 307/2002 - disciplina especificamente os resíduos da construção civil (RCD) e responsabiliza o gerador pela destinação",
+          "ABNT NBR 10004, 10005 e 10006 - critérios técnicos para classificar resíduos quanto a periculosidade e inertez",
+          "Legislação catarinense - resoluções CONSEMA e instruções do IMA/SC definem cadastro, planos e destinação permitida no estado",
+          "SINIR e MTR - Sistema Nacional de Informações sobre Gestão de Resíduos e Manifesto de Transporte de Resíduos, base da rastreabilidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como classificar os resíduos do seu empreendimento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Classificar é o primeiro passo operacional: o destino, o transportador e o custo dependem da classe. Em linhas gerais:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Classe I (perigosos) - óleo usado, solventes, lâmpadas fluorescentes, pilhas e baterias, embalagens contaminadas com químicos: exigem armazenamento específico, empresa especializada e coprocessamento ou tratamento",
+          "Classe II-A (não perigosos não inertes) - papelão, plásticos, madeira, podas e restos alimentares: vão para triagem, compostagem ou reciclagem",
+          "Classe II-B (inertes) - concreto, tijolo, areia e entulho mineral: podem ser reciclados como agregado ou destinados a aterro de inertes",
+          "Resíduos de saúde (RSS) - clínicas e laboratórios seguem fluxo próprio com acondicionamento e incineração controlada",
+          "Efluentes líquidos - óleos e águas oleosas têm regime próprio de coleta e tratamento, fora do fluxo de sólidos"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na dúvida entre classes, prevalece a mais restritiva até que laudo ou caracterização técnica prove o contrário. Subclassificar mal é um dos erros que mais geram auto de infração."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As etapas do gerenciamento de resíduos na prática"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Diagnóstico e inventário"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Começa medindo: quais resíduos são gerados, em que quantidade, em quais setores e com que frequência. O inventário cruza processos produtivos com fichas de produtos para identificar perigosidade. Sem esse raio-x, o plano vira documento genérico que desaba na primeira fiscalização."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Elaboração e implantação do PGRS"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O Plano de Gerenciamento de Resíduos Sólidos documenta classes, procedimentos de segregação, cronograma, responsáveis, formas de armazenamento, transportadores e destinadores contratados. —0 peça obrigatória do licenciamento ambiental e precisa sair do papel: treinamento, sinalização e rotina operacional fazem parte da implantação, não só o PDF arquivado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Coleta seletiva interna"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Contenedores identificados por classe em cada setor, pontos centrais de concentração e equipe treinada para não misturar fluxos. A segregação na origem é o fator que mais reduz custo: misturado, o reciclável contamina e passa a pagar tarifa de resíduo perigoso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Armazenamento temporário adequado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Área coberta, impermeável, ventilada, com contenção de vazamentos, sinalização e acesso controlado. Resíduos perigosos têm prazo máximo de armazenamento e exigem compatibilidade entre materiais estocados. Área improvisada atrás do galpão é convite à autuação - e a chuva carregando chorume transforma infração administrativa em passivo de solo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Transporte licenciado com MTR"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada retirada deve ter transportador cadastrado no órgão ambiental e Manifesto de Transporte de Resíduos emitido no SINIR, vinculado ao CNPJ gerador. O MTR é a prova documental de que o material saiu para destino autorizado - sem ele, a carga interceptada volta com seu nome."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Destinação final ambientalmente adequada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Recicladoras, cooperativas, coprocessadores e aterros licenciados emitem certificado de destinação. A verificação é simples e indispensável: conferir a licença vigente do destinador antes de contratar, porque a responsabilidade solidária alcança o gerador quando o receptor opera irregular."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Documentação, auditoria e melhoria contínua"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "MTRs, certificados, fotos das áreas, treinamentos e indicadores de massa por fluxo organizados em pasta única - física ou digital - pronta para fiscalização ou auditoria de cliente. Revisão anual do plano fecha o ciclo, ajustando metas de redução e novos fluxos de resíduo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gerenciamento de resíduos na construção civil"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A construção civil é o maior gerador de resíduos sólidos urbanos do país, e a CONAMA 307/2002 trata o tema com regras próprias. No canteiro, o projeto gerenciador define segregação em Classes A, B, C e D, áreas de armazenamento e cronograma de remoção - evitando que demolições e sobras misturem material reciclável com resíduo perigoso."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Classe A - concreto, argamassa, alvenaria: recicláveis como agregado em base pavimentação",
+          "Classe B - plásticos, papel, metal, vidro, embalagens: encaminhados a recicladoras",
+          "Classe C - sem tecnologia de reciclagem consagrada: aterro licenciado",
+          "Classe D - tintas, solventes, amianto e outros perigosos: destinação especializada obrigatória"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para obras em Navegantes e região, o ganho prático é duplo: conformidade com a prefeitura e economia direta - canteiro organizado paga menos remoções porque separa reciclável do rejeito, e o histórico de MTRs sustenta o licenciamento do empreendimento e futuras regularizações."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gerenciamento de resíduos na indústria"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na indústria, o gerenciamento de resíduos integra o licenciamento ambiental: o PGRS compõe o processo de Licença Prévia, é cobrado na Instalação e verificado na Operação. Além disso, fluxos como logística reversa de embalagens de agrotóxicos, óleo lubrificante usado, borras e sucatas contaminadas têm cadeias específicas - e auditorias de clientes industriais grandes já incluem amostragem de MTRs e visita ao destinador."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—\u001cleo hidráulico e lubrificante usado - rerrefinadora licenciada com certificado por carga",
+          "Embalagens contaminadas - lavagem/tratamento ou coprocessamento conforme produto acondicionado",
+          "Borra de usinagem e lodo de tratamento - caracterização laboratorial define rota",
+          "Sucata metálica limpa - venda gera receita que compensa parte do custo total do sistema",
+          "Papelão, plástico e pallets - triagem interna transforma fluxo de custo em fluxo de receita"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros mais comuns que levam à autuação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Misturar classes - reciclável junto com perigoso contamina todo o lote e eleva tarifas",
+          "Operar sem MTR - retiradas informais por carroça ou caçamba sem manifesto deixam o gerador sem prova alguma",
+          "Contratar destinador irregular - preço abaixo do mercado costuma indicar licença vencida ou descarte clandestino",
+          "Armazenamento improvisado - área aberta, sem cobertura nem contenção, exposta a chuva e prazo legal excedido",
+          "Plano engavetado - PGRS assinado mas sem treinamento, sinalização ou rotina real no chão de fábrica",
+          "Documentação dispersa - na fiscalização, quem procura nota e certificado por e-mail enquanto o fiscal espera acaba autuado por impossibilidade de comprovação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades do Litoral Norte de SC"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Polos de Machados e entorno portuário - indústria e terminais concentram fluxos complexos e exigem sistema documental pronto para auditoria de grandes clientes",
+          "Malha urbana adensada em Navegantes e Balneário Camboriú - espaço físico escasso pede projeto inteligente de central de resíduos dentro do próprio lote",
+          "Clima chuvoso do litoral - cobertura e drenagem de pátio não são opcionais: chuva sobre resíduo gera chorume e agrava a infração",
+          "Sensibilidade ambiental regional - manguezais, estuary do Itajaí-Açu e unidades de conservação ampliam o alcance de denúncias e ações do MP",
+          "Rede regional de destinadores - Itajaí, Blumenau e Joinville oferecem recicladoras, coprocessadores e aterros licenciados; o desafio é selecionar e auditar parceiros"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre gerenciamento de resíduos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Empresa pequena também precisa de gerenciamento? Sim. A PNRS não tem porte mínimo: escritório, comércio e oficina geram resíduos e respondem por eles. O que muda é a escala do plano - um PGRS simplificado resolve, mas ausência completa de controle não tem justificativa aceita na fiscalização."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso colocar entulho de obra em caçamba comum? Somente com transportador cadastrado na prefeitura e destinação em área licenciada - a caçamba não autoriza mistura de classes nem descarte em terreno alheio. O gerador responde pelo entulho mesmo após o pagamento da caçamba."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem emite o MTR? O gerador emite o manifesto no SINIR vinculando origem, transportador e destinador. Na prática, a consultoria estrutura o cadastro e a rotina de emissão para que cada retirada nasça documentada."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa implantar? Depende do número de fluxos e do volume. O diagnóstico inicial costuma revelar economia imediata - receita de recicláveis, redução de volume no aterro e eliminação de multas - que financia boa parte do sistema."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Já fui multado por destinação irregular, e agora? A regularização segue o mesmo caminho: diagnóstico, plano, contratação de cadeia licenciada e defesa técnica comprovando correção. Resposta rápida com documentação consistente costuma reduzir penalidades e evita reincidência, que multiplica valores."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gerenciamento de resíduos com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense estruturando gerenciamento de resíduos de ponta a ponta: inventário e classificação, elaboração e implantação do PGRS, projeto de central de resíduos, cadastro e emissão rotineira de MTR no SINIR, seleção e auditoria de transportadores e destinadores licenciados, treinamento de equipes e dossiê documental sempre pronto para fiscalização do IMA/SC ou auditoria de cliente - tudo conduzido por engenheiros habilitados com ART registrada no CREA-SC. Fale com nossa equipe e transforme o gerenciamento de resíduos de risco jurídico em vantagem competitiva para a sua empresa ou obra."
+      }
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "slug": "artigo-projetos-residenciais-navegantes",
+  "title": "Projetos Residenciais em Navegantes: Conforto, Beleza e Estrutura",
+  "tag": "GEOTECNIA",
+  "image": "/images/Trincas e Rachaduras.png",
+  "imageAlt": "Projetos Residenciais em Navegantes: Conforto, Beleza e Estrutura - artigo técnico da Regê Engenharia sobre geotecnia em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Navegantes, no litoral norte de Santa Catarina, vive um momento único de valorização imobiliária.",
+  "readTime": "5 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes, no litoral norte de Santa Catarina, vive um momento único de valorização imobiliária. Com praias como **Gravatá, Navegantes e Meia Praia**, infraestrutura portuária consolidada, aeroporto internacional e acesso direto à BR-101, a cidade atrai moradores permanentes, veranistas e investidores."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mas construir ou reformar em Navegantes exige **projeto técnico adequado à realidade local** — não apenas \"planta bonita\". Abaixo, detalhamos os três pilares que definem uma residência de alto padrão na região."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Estrutura: Respeito ao Solo, ao Vento e à Maresia"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fundações dimensionadas para o geotecnia local"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O solo de Navegantes varia entre **areia quartzosa, aterros antigos e argilas moles** próximos a rios e mangues. Uma fundação mal dimensionada gera recalques diferenciais, trincas e portas emperradas."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Solução técnica: Sondagem SPT + projeto de fundação (sapata, estaca hélice contínua ou microestaca) assinado por engenheiro com ART. Não aceite \"chute\" de pedreiro."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Concreto e armadura contra maresia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A **zona de maresia (até 2 km da orla)** exige:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Concreto —0— 30 MPa com aditivo impermeabilizante",
+          "Cobrimento mínimo de 30—\u001c40 mm nas armaduras (NBR 6118)",
+          "Uso de barras CA-60 ou aço inoxidável em elementos expostos",
+          "Pintura epóxi ou galvanização a quente em ferragens de esquadrias e guarda-corpos"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Vento e norma NBR 6123"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes está em **zona de velocidade básica do vento V—\u001a— = 30—\u001c35 m/s** (categoria II/III). Coberturas, telhados, pergolados e fachadas envidraçadas devem ser calculados para **pressão dinâmica + sucção**, com fixações dimensionadas (parafusos, chumbadores, conectores metálicos)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Drenagem pluvial obrigatória"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Chuvas intensas de verão + solo arenoso = **risco de alagamento e erosão**. Projeto completo prevê:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Calhas, condutores e bocas de lobo dimensionadas (NBR 10844)",
+          "Caixas de captação com grade removível",
+          "Destino final: rede pública, poço de infiltração ou reuso (jardim, lavagem)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Conforto: Climatização Passiva, Acústica e Desempenho"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Conforto térmico sem depender só do ar-condicionado"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Estratégia Projetada",
+          "Ganho Real"
+        ],
+        "rows": [
+          [
+            "Brises fixos/móveis nas faces N/O",
+            "-3 a -5 °C na temperatura de superfície"
+          ],
+          [
+            "Telhado \"cool roof\" (manta refletiva + telha clara)",
+            "-30% carga térmica na laje"
+          ],
+          [
+            "Ventilação cruzada (janelas opostas)",
+            "Renovação de ar natural, zero energia"
+          ],
+          [
+            "Esquadrias PVC ou alumínio com vedação EPDM + vidro duplo (baixo-e)",
+            "Isolamento térmico + acústico"
+          ],
+          [
+            "Forro com manta de lã de vidro/pet (R —0— 1,5 m²·K/W)",
+            "Barreira radiante no teto"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Resultado: Casa fresca no verão, quente no inverno, conta de energia 30—\u001c40% menor."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Conforto acústico: silêncio valoriza o imóvel"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Paredes entre suítes/salas: alvenaria de vedação dupla (bloco cerâmico 14 cm + drywall duplo com lã mineral) — Rw —0— 50 dB",
+          "Lajes: contrapiso flutuante com manta acústica (5—\u001c10 mm) + piso vinílico/laminado com sub-base",
+          "Tubulações: PVC reforçado + manta envolvente em banheiros/cozinhas adjacentes a quartos",
+          "Esquadrias: vedação perimetral + vidro laminado (PVB acústico) em frentes para ruas movimentadas"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Desempenho NBR 15575 — obrigatório e fiscalizado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto deve entregar **laudo de desempenho** comprovando:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Estanqueidade à água de chuva (fachadas, coberturas, esquadrias)",
+          "Durabilidade dos materiais (ciclo maresia, UV, variação térmica)",
+          "Segurança estrutural e ao fogo",
+          "Conforto térmico, acústico e lumínico"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Beleza: Arquitetura que Valoriza a Paisagem e o Patrimônio"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Integração interior-exterior (o \"jeito catarinense de morar\")"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Grandes vãos (portas de correr 3—\u001c4 folhas, sistemas minimal frame) abrem sala/cozinha para varanda, deck, piscina, jardim",
+          "Piso contínuo (porcelanato grande formato ou pedra natural) sem desnível entre áreas sociais e externas",
+          "Pergolados bioclimáticos (lâminas orientáveis) criam áreas de estar sombreadas o ano todo"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Materiais que envelhecem bem na praia"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Elemento",
+          "Especificação \"Praia\"",
+          "Evitar"
+        ],
+        "rows": [
+          [
+            "Piso externo/deck",
+            "Cumaru, Ipê, Massaranduba ou porcelanato antiderrapante PEI 5",
+            "Madeira não certificada, cerâmica lisa"
+          ],
+          [
+            "Fachada",
+            "Textura acrílica flexível + tinta elastomérica 100% acrílica (repintura 8—\u001c10 anos)",
+            "Textura cimentícia rígida (trinca), tinta PVA"
+          ],
+          [
+            "Metais (guarda-corpo, pergolado)",
+            "Alumínio anodizado/pintado eletrostaticamente, aço inox 316",
+            "Ferro pintado (ferrugem em 2 anos)"
+          ],
+          [
+            "Esquadrias",
+            "Alumínio linha suprema/cortes térmicos ou PVC (veka, rehau)",
+            "Alumínio linha econômica sem vedação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Iluminação arquitetônica: beleza noturna + segurança"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Luz quente (2700—\u001c3000 K) em áreas de convívio",
+          "Luz neutra (4000 K) em cozinha, lavanderia, escritório",
+          "Dimerização em circuitos de sala, varanda, quarto",
+          "Automação (cenas: \"jantar\", \"cinema\", \"festa\", \"ausente\")",
+          "Externa: balizadores embutidos no deck, uplight em vegetação, fita LED em pergolado — IP65 mínimo"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Paisagismo nativo + irrigação automatizada"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Espécies resistentes a sal, vento e seca: clusia, pitanga, ipê-amarelo, grama-esmeralda, helicônia, bromélias",
+          "Irrigação por gotejamento com programador wi-fi + sensor de chuva — economia de água e jardim sempre verde"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Fluxo Correto: Do Terreno à Chave na Mão"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "1. LEVANTAMENTO TOPOGRÁFICO + SONDAGEM SPT\n         — \u001c\n2. ESTUDO DE VIABILIDADE (zoneamento, recuos, taxa de ocupação, gabarito, NBR 15575)\n         — \u001c\n3. PROJETO ARQUITET—NICO (conceito, plantas, cortes, fachadas, 3D)\n         — \u001c\n4. PROJETOS COMPLEMENTARES\n   ⬢ Estrutural (concreto, aço, fundação)\n   ⬢ Elétrica (iluminação, força, SPDA, automação, fotovoltaico opcional)\n   ⬢ Hidrossanitário (água fria/quente, esgoto, água pluvial, gás, reuso)\n   ⬢ Climatização (carga térmica, dutos, VRV/multi-split)\n   ⬢ Prevenção incêndio (se > 750 m² ou > 3 pavimentos)\n         — \u001c\n5. APROVAÇÃO PREFEITURA DE NAVEGANTES (alvará de construção)\n         — \u001c\n6. ART/RRT DE EXECUÇÃO REGISTRADA NO CREA/CAU\n         — \u001c\n7. EXECUÇÃO COM ACOMPANHAMENTO T—0CNICO (visitas quinzenais + relatório fotográfico)\n         — \u001c\n8. VISTORIA FINAL + ART/RRT DE CONCLUSÒO + LAUDO DE DESEMPENHO\n         — \u001c\n9. HABITE-SE / CARTA DE HABITAÇÃO\n         — \u001c\n10. AVERBAÇÃO NO CART—\u001cRIO DE REGISTRO DE IM—\u001cVEIS (matrícula atualizada)"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Pular etapa = obra irregular, multa, embargo, seguro negado, imóvel \"não financia\"."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros Comuns em Navegantes (e Como Evitar)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Erro",
+          "Consequência",
+          "Prevenção"
+        ],
+        "rows": [
+          [
+            "\"Projeto de internet\" adaptado pelo pedreiro",
+            "Estrutura insegura, infiltração, multa",
+            "Contrate escritório local com ART"
+          ],
+          [
+            "Furar laje/viga para passar tubulação sem reforço",
+            "Perda de capacidade estrutural",
+            "Projeto de instalações integrado ao estrutural"
+          ],
+          [
+            "Impermeabilização de laje/varanda \"por conta do pedreiro\"",
+            "Vazamento no andar de baixo, mofo",
+            "Especificação técnica + teste de estanqueidade (24h com água)"
+          ],
+          [
+            "Esquadria sem vedação / sem dreno no batente",
+            "Água entra na primeira chuva de vento",
+            "Especificar dreno oculto + vedação EPDM no projeto"
+          ],
+          [
+            "Não prever SPDA (para-raios)",
+            "Risco de vida, equipamento queimado, seguro nega",
+            "Obrigatório para > 30 m altura ou área > 1.500 m² (NBR 5419)"
+          ],
+          [
+            "Jardim sem dreno no fundo da caixa",
+            "Raiz apodrece, muro empurra, infiltra",
+            "Camada de drenagem (argila expandida + geotêxtil + tubo dreno)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por Que Contratar a Rege Engenharia para seu Projeto em Navegantes"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Diferencial",
+          "O que Entregamos"
+        ],
+        "rows": [
+          [
+            "Conhecimento local",
+            "Solo, vento, maresia, código de obras municipal, fornecedores homologados"
+          ],
+          [
+            "Projeto integrado (BIM)",
+            "Arquitetura + estrutura + instalações sem interferências — evita retrabalho em obra"
+          ],
+          [
+            "Desempenho garantido",
+            "Laudo NBR 15575 + termo de responsabilidade térmica/acústica/estanqueidade"
+          ],
+          [
+            "Gestão de aprovação",
+            "Protocolamos, acompanhamos, resolvemos exigências — você não vai à prefeitura"
+          ],
+          [
+            "Acompanhamento de obra",
+            "Visitas técnicas quinzenais, relatório fotográfico, medição para pagamento de empreiteira"
+          ],
+          [
+            "Entrega documentada",
+            "As-built digital (DWG/PDF/IFC), manuais de operação/manutenção, ARTs, Habite-se, averbação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cases Locais (Resumo)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipologia",
+          "Área",
+          "Destaque Técnico"
+        ],
+        "rows": [
+          [
+            "Residência alto padrão Gravatá",
+            "420 m²",
+            "Laje nervurada + fundação em estaca hélice + automação KNX + fotovoltaico 12 kWp"
+          ],
+          [
+            "Sobrado Meia Praia (investimento locação)",
+            "280 m²",
+            "Estrutura mista (concreto + steel frame no pav. superior) — obra em 8 meses"
+          ],
+          [
+            "Reforma + ampliação Centro",
+            "180 m² — \u0019 310 m²",
+            "Reforço estrutural com microestacas + junta de dilatação + integração social coberta"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Quanto custa um projeto completo (arquitetônico + complementares) em Navegantes?**"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Varia de R$ 180 a R$ 350/m² de área construída, conforme complexidade, padrão de acabamento e necessidade de estudos especiais (acústica, térmica, fotovoltaico). O investimento retorna em economia de obra (menos desperdício, zero retrabalho) e valorização do imóvel."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Posso construir só com \"croqui do arquiteto\"?**"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Não. A prefeitura exige projetos complementares assinados por engenheiros habilitados (ART). Banco não financia, seguro não cobre, cartório não averba."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Qual o prazo médio de aprovação na prefeitura de Navegantes?**"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "30 a 60 dias úteis para projeto completo e regular. Com exigências, pode estender. Nossa gestão costuma reduzir em 30—\u001c40% o tempo total."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Vocês fazem só o projeto ou acompanham a obra também?**"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Fazemos as duas coisas. O ideal é contratar projeto + acompanhamento (fiscalização) — quem projeta sabe onde estão os pontos críticos e garante a execução fiel."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Próximo Passo: Agende uma Visita Técnica Sem Compromisso"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Terreno em vista? Planta antiga que não atende mais? Quer construir para morar ou investir?  A Rege Engenharia atende Navegantes, Itajaí, Balneário Camboriú, Penha, Piçarras e região.  —x\u001c— Escritório: Rua [Endereço], Navegantes —\u001c SC —x\u001c~ WhatsApp: (47) 9xxxx-xxxx —xR— Site: www.regeengenharia.com.br —x\u001c— E-mail: projetos@regeengenharia.com.br  Primeira visita técnica + estudo de viabilidade grátis para clientes que fecham projeto completo.  Construa com quem entende de Navegantes. Conforto, beleza e estrutura — do projeto à chave na mão."
+      }
+    }
+  ]
+}

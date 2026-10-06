@@ -1,0 +1,175 @@
+{
+  "slug": "trincas-e-rachaduras-no-litoral",
+  "title": "Trincas e Rachaduras no Litoral: Como a Engenharia Avalia os Danos",
+  "tag": "PATOLOGIA",
+  "image": "/images/Trincas e Rachaduras.png",
+  "imageAlt": "Engenheiro civil inspecionando trincas e rachaduras em parede de imóvel no litoral catarinense, em vistoria técnica de avaliação de danos.",
+  "excerpt": "Trinca, fissura ou rachadura: qual a diferença? Como o engenheiro avalia os danos em imóveis no litoral, com maresia, solo arenoso e lençol freático alto? Descubra os métodos de diagnóstico, o monitoramento e quando o problema é só estético ou vira risco estrutural.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma trinca na parede raramente aparece sozinha — e no litoral ela quase nunca é apenas um detalhe estético. Em Navegantes, maresia agressiva, solo arenoso, lençol freático elevado e ventos constantes formam um ambiente que acelera qualquer manifestação patológica. Mas antes de qualquer solução — reparo, reforço ou até demolição — existe uma etapa que não pode ser pulada: a avaliação técnica dos danos pela engenharia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste artigo, a Regê Engenharia explica como o engenheiro avalia trincas e rachaduras em imóveis no litoral: a diferença entre fissura, trinca e rachadura, as causas típicas da região, os ensaios e instrumentos usados no diagnóstico, o monitoramento da movimentação e quando o problema exige intervenção estrutural imediata."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Fissura, trinca ou rachadura: qual é a diferença?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A primeira tarefa do engenheiro é classificar a abertura. Não é terminologia de leigo — é o ponto de partida da avaliação, porque cada classificação indica uma gravidade e uma causa provável diferente."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fissura — abertura superficial de até 0,5 mm, geralmente em revestimentos (reboco, massa corrida, pintura). Causas comuns: retração da argamassa, movimentação térmica e trincas de \"rendilhado\". Na maioria dos casos tem caráter estético, mas merece registro e acompanhamento",
+          "Trinca — abertura entre 0,5 mm e 1,5 mm, que já atravessa a espessura do revestimento e pode atingir a alvenaria. Padrões como trincas em 45° (tesoura), verticais ou horizontais indicam causas específicas: recalque de fundação, sobrecarga, retração ou movimentação da estrutura",
+          "Rachadura — abertura acima de 1,5 mm, com separação visível do elemento construtivo. —0 sinal de movimentação estrutural importante: recalque, esforços de tração na alvenaria, corrosão de armaduras ou até erro de projeto. Exige avaliação urgente",
+          "Fenda / deslocamento — nos casos mais graves, com perda de contato entre alvenaria e estrutura, deformação de pilares ou deslocamento de vergas. Requer interdição preventiva e projeto de recuperação estrutural"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No litoral, uma trinca de 0,3 mm no verão pode abrir 1,2 mm no inverno. Classificar a abertura é apenas o começo — o que importa é saber se ela está viva."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o litoral acelera os danos: as causas típicas em Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Solo arenoso e lençol freático alto — fundações mal dimensionadas ou sondagem negligenciada geram recalques diferenciais, que se manifestam como trincas inclinadas em 45° nas paredes e desníveis em pisos e vergas de janela",
+          "Maresia e cloretos — a salinidade do ar corrói armaduras do concreto, que ao enferrujar expandem de volume e \"empurram\" o concreto, abrindo trincas longitudinais nas vigas, pilares e lajes (patologia típica do concreto armado costeiro)",
+          "Ciclos de umidade e secagem — a areia e a argamassa do litoral absorvem água e expandem; na secagem, contraem. Esse ciclo constante fadiga o revestimento e produz fissuração por retração, muitas vezes confundida com problema estrutural",
+          "Vento e variação térmica — a alta insolação de verão aliada a ventos fortes provoca movimentação térmica das fachadas; juntas de dilatação mal executadas ou inexistentes concentram tensões que estouram em trincas verticais"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como o engenheiro avalia os danos: o método da vistoria técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A avaliação começa com uma vistoria técnica metódica, que responde a quatro perguntas: O que é? Por que surgiu? Está se movendo? Quanto custa resolver? O processo segue etapas padronizadas, com registro em laudo e emissão de ART:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento de campo — inspeção visual de todos os ambientes, fachadas, muros e pavimentos, com registro fotográfico identificado e cotado",
+          "Anamnese e histórico — entrevista com moradores e análise do projeto: quando surgiu, se a abertura cresce, se houve obra vizinha, escavação, árvore próxima ou vazamento",
+          "Caracterização das aberturas — medição da espessura com fissurômetro, régua graduada ou lupa de bolso; mapeamento das trincas em planta baixa, com indicação de padrão, direção e localização",
+          "Ensaios complementares — teste de prumo e nível, percussão (martelo) para verificar vazios no revestimento, exame de umidade com higrômetro ou umidímetro, e escoramento localizado quando há risco",
+          "Análise estrutural — quando há indício de comprometimento, o engenheiro avalia o sistema estrutural (pilares, vigas, lajes, fundações) e solicita, se necessário, sondagem e cálculo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Monitoramento: fissurômetro e a resposta definitiva"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A pergunta central da engenharia é: a trinca está ativa ou estabilizada? Para responder, o engenheiro instala fissurômetros — réguas coladas sobre a trinca com duas superfícies de leitura — e acompanha o movimento ao longo de semanas ou meses, em geral em ciclos de 15 a 30 dias."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Abertura estabilizada — se o fissurômetro não registra variação relevante ao longo do monitoramento, o problema é provavelmente pontual (retração, movimentação térmica) e o reparo é de recuperação local, sem intervenção estrutural",
+          "Abertura ativa ou progressiva — quando a leitura aumenta de forma contínua, há movimentação real da estrutura ou do solo; exige investigação de causa (sondagem, verificação de fundações) e projeto de recuperação ou reforço",
+          "Abertura sazonal — trincas que abrem e fecham acompanhando as estações são típicas de movimentação térmica; o monitoramento captura o ciclo e evita o pânico — e o custo desnecessário — de um reforço estrutural"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o caso é estrutural: sinais de alerta no litoral"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Trincas em 45° próximas a janelas e portas, em forma de \"tesoura\" — clássico de recalque diferencial de fundação",
+          "Trincas horizontais na base de muros e paredes, empurrando o rodapé — empuxo de solo ou fundação em movimentação",
+          "Trincas longitudinais em vigas e lajes, com pontos de ferrugem (manchas alaranjadas) — corrosão de armaduras por cloretos, o risco nº 1 do concreto armado costeiro",
+          "Desníveis em pisos, portas e janelas que não fecham mais, vidros trincados sem impacto — movimentação global da estrutura",
+          "Emissão de ruídos (estalos) e alargamento rápido das aberturas em dias ou semanas — sinal de urgência: isolamento da área e avaliação imediata"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Pintar por cima da trinca não é reparo — é maquiagem. No litoral, a trinca continua trabalhando sob a tinta, com cloretos e umidade agindo por dentro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "E depois do diagnóstico: o que a engenharia faz"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Tratamento de fissuras de retração — escareamento, limpeza e selagem com materiais elásticos (massa flexível, resina de baixa viscosidade), mantendo a abertura \"viva\" para acompanhar micro movimentações",
+          "Recuperação de trincas estabilizadas — injeção de resina epóxi ou poliuretano para vedação e colagem das faces; abertura em junta e recomposição do revestimento",
+          "Reforço estrutural — trincas ativas com causa estrutural exigem projeto: cintamento com tela e graute, chumbadores, fibras de carbono ou reforço de fundação por estacas injetadas",
+          "Acompanhamento preventivo — revisão periódica e manutenção de juntas, impermeabilizações e esquadrias, que no litoral são a linha de frente contra a maresia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O laudo técnico: o documento que protege o seu patrimônio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda avaliação séria termina em um laudo técnico de patologias, assinado por engenheiro civil e com ART registrada. Além de orientar o reparo correto, o laudo tem força jurídica: é a prova técnica em disputas de seguro, ações contra construtora, negociações de compra e venda e cobranças a terceiros por danos de obra vizinha."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o seu imóvel em Navegantes apresenta trincas, rachaduras ou qualquer manifestação que preocupa, não espere o problema avançar. A Regê Engenharia faz vistoria técnica, monitoramento e laudo de patologias com diagnóstico completo e orçamento de solução. Quanto antes a causa for identificada, menor o custo de correção — e maior a segurança do seu patrimônio."
+      }
+    }
+  ]
+}

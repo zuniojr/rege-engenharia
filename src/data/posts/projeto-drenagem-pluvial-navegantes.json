@@ -1,0 +1,287 @@
+{
+  "slug": "projeto-drenagem-pluvial-navegantes",
+  "title": "Projeto de Drenagem Pluvial em Navegantes SC: Guia Completo para Evitar Alagamentos e Aprovar na Prefeitura",
+  "tag": "PROJETOS",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Projeto de drenagem pluvial em terreno de Navegantes SC com caixas de captacao, tubulacoes e detalhes para evitar alagamentos no litoral.",
+  "excerpt": "Terreno alagando, rua com agua na porta e obra embargada: entenda o que e projeto de drenagem pluvial, quando e exigido em Navegantes, normas, calculo de vazao e como aprovar sem dor de cabeca.",
+  "readTime": "13 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, basta uma chuva forte de verao para expor o calcanhar de Aquiles de muitos terrenos e obras: agua empossada no lote, garagem alagada, rua que vira rio e vizinho reclamando de escoamento irregular. No litoral catarinense, onde o lencol freatico e alto, o solo e arenoso e a urbanizacao avancou rapido, a drenagem pluvial nao e detalhe de projeto: e condicao para construir, habitar e valorizar o imovel."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que e um projeto de drenagem pluvial, quando a Prefeitura de Navegantes exige, o que a NBR 10844 e o Plano Diretor determinam, como e feito o calculo de vazao, quais solucoes funcionam no solo litoraneo e como aprovar o projeto sem retrabalho. Se voce vai construir, lotear, reformar ou sofre com alagamentos, este artigo e o seu roteiro tecnico."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Drenagem pluvial no litoral nao e luxo: e o que separa o terreno que valoriza do terreno que alaga - e desvaloriza - a cada chuva."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que e projeto de drenagem pluvial e por que ele e critico em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Projeto de drenagem pluvial e o conjunto de plantas, memoriais e detalhes que organiza o caminho da agua da chuva dentro do lote e ate o seu destino final legal: rede publica, galeria, corpo hidrico ou sistema de infiltracao/reuso. Ele dimensiona calhas, ralos, caixas de captacao, tubulacoes, caixas de passagem, dissipadores e, quando necessario, reservatorios de retencao (piscinoes) ou de aproveitamento."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Evita alagamentos no lote, na garagem e nas areas comuns - problema cronico em bairros planos de Navegantes",
+          "Protege a fundacao e o muro contra erosao e sobrecarga hidraulica no solo arenoso",
+          "Cumpre o Codigo de Obras e o Plano Diretor de Navegantes, que exigem taxa de permeabilidade e controle de vazao",
+          "E condicao para alvara, habite-se e AVCB em muitos casos - sem drenagem aprovada, a obra nao regulariza",
+          "Reduz responsabilidade civil: escoar agua irregularmente para o vizinho ou para a rua gera multa e processo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o projeto de drenagem e exigido pela Prefeitura de Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construcoes novas e ampliacoes acima de 150-200 m2 (criterio varia por zona) - exigencia de prancha de drenagem e taxa de permeabilidade",
+          "Loteamentos, desmembramentos e condominios horizontais - projeto completo com estudo hidrologico e aprovacao na Secretaria de Planejamento",
+          "Obras em terrenos com cota baixa, proximos a canais, rios ou orla - onde a rede publica ja opera no limite",
+          "Galpoes, supermercados e estacionamentos com grande area impermeabilizada - exigencia de reservatorio de retencao/reuso",
+          "Reformas que aumentam area impermeavel (telhado, paver, concreto) e eliminam area permeavel"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na pratica da Secretaria de Planejamento de Navegantes, quanto maior a area impermeabilizada e menor a cota do terreno, maior a chance de exigencia de detencao de chuva e de laudo de impacto na rede publica."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Normas e leis que regem o projeto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ABNT NBR 10844 - Instalacoes prediais de aguas pluviais: dimensionamento de calhas, condutores e ramais",
+          "ABNT NBR 15527 - Agua de chuva: aproveitamento de coberturas em areas urbanas",
+          "Plano Diretor e Codigo de Obras de Navegantes: taxa de ocupacao, taxa de permeabilidade minima (geralmente 15% a 20%), recuos e controle de vazao",
+          "Codigo Civil (art. 1.290 a 1.292): escoamento natural das aguas e proibicao de prejudicar vizinho",
+          "Diretrizes da Secretaria de Obras/Saneamento: ponto de lancamento, diametro minimo de ligacao e exigencia de caixa de retencao quando a rede esta saturada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como e feito o projeto: as 6 etapas tecnicas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Levantamento topografico e sondagem: cotas, declividades, tipo de solo, nivel do lencol e pontos de alagamento historico",
+          "2. Estudo hidrologico: chuva de projeto (tempo de retorno de 25 anos para microdrenagem, 10 anos para residencias), area de contribuicao e coeficiente de escoamento (C)",
+          "3. Calculo de vazao pelo Metodo Racional (Q = C x i x A / 360): vazao de pico que o sistema deve escoar sem sobrecarga",
+          "4. Dimensionamento: calhas, condutores verticais/horizontais, caixas, tubulacoes (minimo 100 mm, recomendado 150 mm no litoral), bombas se cota negativa",
+          "5. Solucoes de amortecimento: cisterna de aproveitamento, reservatorio de detencao (orificio regulador), pavimento permeavel, trincheira de infiltracao ou jardim de chuva - escolha depende da permeabilidade do solo arenoso e do lencol alto",
+          "6. Detalhamento e memorial: plantas, perfis, quantitativos, memorial descritivo e de calculo, ART no CREA-SC e caderno de manutencao"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Calcular drenagem so pela area do telhado e o erro mais caro: no litoral, a chuva de 15 minutos e a que alaga - nao a media mensal."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Solucoes que funcionam no solo arenoso e lencol alto de Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caixas de captacao com grelha e decantacao de areia: o solo arenoso carreia sedimentos que entopem tubulacao em meses",
+          "Reservatorio de detencao com orificio calibrado: segura o pico de chuva e libera vazao controlada para a rede publica - exigido quando a rua ja alaga",
+          "Cisterna de aproveitamento (NBR 15527): telhado vira fonte de agua para irrigacao, descarga e lavagem - reduz conta e amortecimento de pico",
+          "Pavimento permeavel (paver drenante, concregrama): mantem taxa de permeabilidade e reduz escoamento superficial, mas exige manta e manutencao semestral",
+          "Trincheira de infiltracao e jardim de chuva: funcionam bem no solo arenoso, desde que acima do lencol maximo; abaixo dele, viram piscina",
+          "Bombeamento com valvula de retencao: para subsolos e garagens abaixo da cota da rua, com energia reserva (gerador/nobreak)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que causam alagamento e embargo em Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ligar drenagem pluvial na rede de esgoto (ou vice-versa): crime ambiental, entope ETE e gera multa do municipio e da concessionaria",
+          "Jogar agua do lote direto na rua ou no vizinho: infracao do Codigo de Obras e do Codigo Civil - o correto e ponto de lancamento autorizado",
+          "Tubulacao subdimensionada (75 mm em telhado grande): transborda na primeira chuva forte - calhas e condutores estouram",
+          "Ignorar a cota da rua: garagem abaixo da galeria sem bomba alaga toda chuva - a agua volta",
+          "Sem manutencao: folhas, areia e lixo entopem caixas e ralos em 3 meses no litoral - projeto bom sem limpeza falha"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Dimensionamento pratico: exemplo rapido"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para uma casa em Navegantes com 180 m2 de cobertura, coeficiente C=0,95 (telha ceramica/metalica) e chuva intensa de 150 mm/h (tempo de retorno 25 anos): Q = 0,95 x 150 x 180 / 360 = 71,2 L/s de pico. Esse pico exige 2 condutores de 100 mm ou 1 de 150 mm, caixas de passagem a cada 10-15 m e tubulacao de 150 mm ate a caixa de detencao de 2.000 a 3.000 litros antes do lancamento na rede. Sem reservatorio, a vazao instantanea satura a galeria da rua - motivo frequente de exigencia da Prefeitura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Manutencao: o que o projeto deve prever"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Limpeza mensal de calhas, ralos e grelhas na temporada de chuvas (outubro a marco)",
+          "Desassoreamento semestral de caixas de passagem e de areia - o solo arenoso assoreia rapido",
+          "Inspecao anual de tubulacoes com camera ou jato antes do inverno",
+          "Teste de bombas e valvulas de retencao mensal em garagens abaixo da cota",
+          "Registro em livro de manutencao: sem registro, a garantia da impermeabilizacao e da estrutura pode ser negada (NBR 15575)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa um projeto de drenagem pluvial em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Residencia 150 a 300 m2: R$ 1.200 a R$ 3.000 (prancha + memorial + ART)",
+          "Residencia alto padrao 300 a 600 m2 com cisterna/detencao: R$ 3.000 a R$ 6.000",
+          "Comercio/galpao 500 a 1.500 m2: R$ 4.000 a R$ 9.000 com estudo hidrologico",
+          "Loteamento/condominio horizontal: R$ 12.000 a R$ 35.000 conforme area e exigencias da Prefeitura",
+          "Execucao: 2% a 5% do custo da obra - mas evita prejuizo de alagamento que custa 10x mais"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores de referencia 2026 para Navegantes/Itajai/Balneario. O custo final depende da topografia, da necessidade de bombeamento e do nivel de detalhamento exigido pela Secretaria."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist para aprovar na Prefeitura de Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "[ ] Levantamento topografico atualizado e ART",
+          "[ ] Taxa de permeabilidade atendida (15-20% conforme zona) ou compensada com reservatorio",
+          "[ ] Ponto de lancamento definido e autorizado (rede, galeria ou corpo hidrico)",
+          "[ ] Calculo de vazao (Metodo Racional) com chuva de projeto e tempo de retorno",
+          "[ ] Dimensionamento de calhas, condutores e tubulacoes (NBR 10844)",
+          "[ ] Reservatorio de detencao/reuso quando exigido, com volume e orificio",
+          "[ ] Separacao total entre pluvial e esgoto",
+          "[ ] Memorial descritivo, de calculo e ART no CREA-SC"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre drenagem pluvial em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso infiltrar toda agua no terreno e nao lancar na rua? So se o solo permitir e o lencol estiver baixo. Em grande parte de Navegantes o lencol e alto, entao a Prefeitura exige detencao e lancamento controlado, nao infiltracao total."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de projeto se meu terreno nunca alagou? Sim, se voce vai impermeabilizar. O alagamento historico nao garante capacidade futura - a obra muda o escoamento e pode criar alagamento onde nao existia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso ligar a drenagem na rede de esgoto para economizar? Nao. E proibido por lei federal, estadual e municipal. Ale de multa, causa extravasamento de esgoto na chuva."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva a aprovacao? Projeto residencial simples: 15 a 30 dias. Loteamento/condominio com detencao: 45 a 90 dias com analise da Secretaria de Obras."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem pode assinar o projeto? Engenheiro civil com CREA-SC ativo e ART. Para loteamentos, tambem equipe com engenheiro hidraulico/sanitarista."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto de drenagem pluvial com a Rege Engenharia em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Rege Engenharia elabora projetos de drenagem pluvial em Navegantes e no litoral norte catarinense para casas, condominios, galpoes e loteamentos. Fazemos levantamento, estudo hidrologico, dimensionamento pela NBR 10844, detalhamento de reservatorios de detencao e cisternas pela NBR 15527, aprovacao na Prefeitura e acompanhamento da execucao, com ART no CREA-SC."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conhecemos as cotas que alagam, as redes saturadas por bairro, o solo arenoso e o lencol alto de Navegantes - e projetamos para a chuva real do litoral, nao para a media de planilha. Se seu terreno alaga, sua obra precisa de drenagem ou voce quer aprovar sem exigencias, fale com nossa equipe. Vamos transformar a agua da chuva de problema em sistema controlado, com obra regularizada e imovel valorizado."
+      }
+    }
+  ]
+}

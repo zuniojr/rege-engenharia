@@ -1,0 +1,240 @@
+{
+  "slug": "o-que-e-patologia-construtiva",
+  "title": "O que é Patologia Construtiva? Guia Completo sobre as Doenças das Edificações",
+  "tag": "PATOLOGIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Vistoria técnica em parede de alvenaria com trincas e manchas de infiltração em uma edificação.",
+  "excerpt": "Trincas, infiltrações, mofo e corrosão têm nome, causa e cura. Entenda o que é patologia construtiva, como classificar as anomalias de uma edificação e por que o diagnóstico técnico é a chave para proteger seu patrimônio.",
+  "readTime": "8 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Assim como o corpo humano adoece, as edificações também. Trincas que aparecem do nada, manchas de infiltração que insistem em voltar, pisos que estufam, fachadas que desplacam — todos esses são sintomas de algo maior: as chamadas patologias construtivas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entender o que é patologia construtiva é o primeiro passo para cuidar bem do seu imóvel. Porque, na construção civil, um sintoma tratado sem investigar a causa nunca cura de verdade — ele só esconde o problema até ele voltar, quase sempre maior e mais caro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é patologia construtiva?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Patologia construtiva é o ramo da engenharia que estuda os defeitos, as anomalias e as manifestações que afetam as edificações: suas causas, seus mecanismos, suas consequências e as formas de corrigi-los. O termo vem da mesma raiz da medicina — pathos, que significa \"doença\" — e funciona de forma parecida: o engenheiro é o \"médico do imóvel\", que examina os sintomas, investiga as causas e prescreve o tratamento correto."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Toda patologia tem um sintoma visível, uma causa oculta e um tratamento correto. O erro mais comum é tratar o sintoma e ignorar a causa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As patologias construtivas mais comuns nas edificações"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As manifestações patológicas podem aparecer em qualquer parte da edificação e em qualquer fase da vida útil do imóvel. As mais frequentes são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fissuras, trincas e rachaduras — desde microaberturas superficiais até aberturas estruturais graves, causadas por retração, movimentação térmica, sobrecarga ou recalque de fundação",
+          "Infiltrações e umidade — causadas por falhas de impermeabilização, vazamentos hidráulicos, umidade ascendente do solo ou condensação",
+          "Desplacamento de revestimentos — azulejos, pastilhas e rebocos que se soltam por falha de execução, umidade ou dilatação",
+          "Corrosão de armaduras — as ferragens do concreto oxidam e se expandem, \"estourando\" o concreto ao redor",
+          "Eflorescência — manchas brancas ou acinzentadas causadas pela migração de sais para a superfície da alvenaria",
+          "Mofo e bolor — colônias de fungos em áreas úmidas e mal ventiladas, com impacto direto na saúde dos moradores",
+          "Recalque diferencial — afundamento desigual da fundação, que gera trincas em 45° e desalinhamento de portas e janelas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como as anomalias são classificadas?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na engenharia diagnóstica, as patologias são classificadas de acordo com a sua origem. Essa classificação é fundamental, porque ela determina quem é o responsável — e qual tratamento deve ser aplicado:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Endógenas — originadas no próprio processo construtivo: erros de projeto, de execução ou de especificação de materiais",
+          "Exógenas — causadas por agentes externos: obras vizinhas, impactos, vandalismo ou agentes da natureza",
+          "Naturais — resultado do envelhecimento e do desgaste natural da edificação ao longo do tempo",
+          "Funcionais — decorrentes do mau uso ou da falta de manutenção pelos usuários"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Essa distinção é especialmente importante em disputas judiciais: uma patologia endógena dentro do prazo de garantia responsabiliza a construtora; uma patologia funcional decorrente de falta de manutenção responsabiliza o proprietário."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que as patologias aparecem? As causas mais frequentes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Estudos da área apontam que a grande maioria das patologias construtivas — cerca de 80% — tem origem nas etapas iniciais do empreendimento: projeto e execução. Apenas uma pequena parte vem do uso e da manutenção. Isso revela algo importante: a maioria das doenças do imóvel é evitável."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projetos incompletos ou incompatibilizados — sem projeto estrutural, hidráulico e elétrico integrados, conflitos são quase inevitáveis",
+          "Execução sem acompanhamento técnico — mão de obra sem supervisão de engenheiro responsável é a receita clássica para erros",
+          "Materiais inadequados ou de baixa qualidade — especificações erradas ou economia na compra geram falhas prematuras",
+          "Economia em etapas invisíveis — como impermeabilização, sondagem e drenagem, que só aparecem quando falham",
+          "Falta de manutenção preventiva — calhas entupidas, juntas vencidas e pequenas trincas negligenciadas evoluem para grandes problemas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Patologia construtiva é o preço que se paga pela economia errada: a que corta projeto, acompanhamento técnico e manutenção — e paga o triplo depois, em reparos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que fazer quando a patologia aparece?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O passo mais importante — e o mais negligenciado — é não agir no improviso. Quando você percebe uma trinca ou uma mancha, o caminho correto tem três etapas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Não disfarce o sintoma — pintar por cima da mancha ou preencher a trinca com massa esconde o problema e atrasa o diagnóstico",
+          "Contrate uma inspeção técnica — um engenheiro com experiência em patologia investiga o problema com métodos adequados, como medidores de umidade e termografia",
+          "Trate a causa, não só o efeito — a correção deve eliminar a origem da anomalia; somente depois disso, o reparo estético",
+          "Monitore e documente — em casos de trincas ativas, o acompanhamento periódico mostra se a movimentação está estabilizada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Diagnóstico técnico: o laudo de patologias"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando a anomalia é relevante, a inspeção culmina em um laudo técnico de patologia. Esse documento registra o estado da edificação, determina as causas, classifica a gravidade e a urgência, e indica os procedimentos de recuperação corretos — com ART (Anotação de Responsabilidade Técnica) e validade legal."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo é indispensável em três situações: antes de executar o reparo (para garantir que o tratamento será o correto), em disputas judiciais (como prova técnica) e para planejar a manutenção de condomínios e empresas (evitando emergências e colapsos)."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como prevenir patologias construtivas?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A melhor cura para a patologia é a prevenção — e ela começa muito antes do canteiro de obras:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Invista em projetos completos e compatibilizados — cada real investido em projeto economiza vários reais em correção",
+          "Exija acompanhamento técnico de engenheiro habilitado — com ART e controle de qualidade em cada etapa",
+          "Não economize em etapas invisíveis — sondagem, impermeabilização, drenagem e proteção de armaduras são inegociáveis",
+          "Faça manutenção preventiva periódica — inspeções regulares detectam problemas no início, quando custam até 5 vezes menos",
+          "Conheça a vida útil do seu imóvel — a NBR 15575 define prazos de garantia e desempenho que orientam a manutenção"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre patologia construtiva"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença entre fissura, trinca e rachadura? A classificação considera a abertura da fissura: fissuras são microaberturas superficiais (até 0,5 mm), trincas têm aberturas maiores que comprometem o revestimento, e rachaduras indicam movimentação estrutural — cada uma com um nível de gravidade e tratamento diferente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda trinca é um problema estrutural grave? Não. Muitas trincas são superficiais e decorrentes de retração natural do concreto ou da movimentação térmica. Apenas a análise técnica pode dizer se a anomalia é estética ou estrutural — por isso, nunca se diagnostique pela internet."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem responde pelas patologias dentro da garantia? Pela NBR 15575, a construtora responde por vícios de construção dentro dos prazos de garantia (geralmente 5 anos para estrutura, 3 anos para sistemas e 1 ano para acabamentos). O laudo técnico é o que comprova que o problema é de origem construtiva."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A manutenção evita patologias? Em grande parte, sim. A maioria das patologias de desgaste (naturais e funcionais) é evitável com manutenção preventiva periódica. Um condomínio que faz inspeções regulares raramente enfrenta emergências estruturais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cuide da saúde do seu imóvel com engenharia diagnóstica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atende Navegantes e todo o litoral catarinense com engenharia diagnóstica completa: inspeção predial, laudos de patologia, laudos de infiltração, vistorias cautelares e acompanhamento técnico de obras. Nossa equipe investiga cada anomalia com rigor, equipamentos modernos e embasamento nas normas da ABNT — e indica o tratamento certo para cada caso."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o seu imóvel está apresentando trincas, manchas ou qualquer manifestação que preocupa, não espere o problema agravar. Fale com a nossa equipe e agende uma vistoria técnica. O diagnóstico certo é o primeiro passo para um patrimônio saudável — e a Regê Engenharia está pronta para cuidar do seu."
+      }
+    }
+  ]
+}

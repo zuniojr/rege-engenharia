@@ -1,0 +1,427 @@
+{
+  "slug": "projeto-prevencao-combate-incendios",
+  "title": "Projeto de Prevenção e Combate a Incêndios: O Que —0, Normas, Etapas e Quando —0 Obrigatório",
+  "tag": "SEGURANÇA",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Projeto de prevenção e combate a incêndios em edificação comercial em Navegantes SC — hidrantes, sprinklers, extintores e rotas de fuga dimensionados pelo Corpo de Bombeiros.",
+  "excerpt": "O projeto de prevenção e combate a incêndios (PPCI) é obrigatório para a maioria das edificações comerciais, industriais e multifamiliares. Entenda o que ele envolve, quais normas se aplicam, como é o processo no Corpo de Bombeiros de SC e como garantir o AVCB do seu imóvel.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Segurança contra incêndio não é detalhe — é requisito legal e condição para qualquer edificação funcionar. Em Navegantes, Itajaí, Balneário Camboriú e Penha, o Corpo de Bombeiros de Santa Catarina exige projeto de prevenção e combate a incêndios (PPCI) para a maioria das edificações comerciais, industriais e multifamiliares. Sem ele, não há AVCB (Auto de Vistoria do Corpo de Bombeiros), sem AVCB não há alvará de funcionamento, e sem alvará a obra fica irregular — sujeita a multas, interdição e responsabilidade civil."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mas o PPCI não é apenas uma exigência burocrática. Um projeto bem dimensionado salva vidas, protege patrimônio e reduz o custo de seguros. Este guia explica o que é o projeto de prevenção e combate a incêndios, quais normas se aplicam, como é o processo no Corpo de Bombeiros, quais sistemas compõem o projeto e quais são os erros mais comuns que comprometem a aprovação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que e o projeto de prevencao e combate a incendios?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto de prevenção e combate a incêndios (PPCI) é o documento técnico que define os sistemas de proteção passiva e ativa de uma edificação contra incêndio. Ele é elaborado por engenheiro civil ou de segurança do trabalho com habilitação específica, e envolve o dimensionamento de todos os elementos que compõem a proteção contra incêndio: rotas de fuga, extintores, hidrantes, sprinklers, detectores, iluminação de emergência, sinalização e portas corta-fogo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o PPCI responde a questões como: quantas rotas de fuga a edificação precisa? Qual o número e o tipo de extintores para cada área? A edificação exige hidrantes externos? Sprinklers são obrigatórios? Qual o dimensionamento da iluminação de emergência? E como garantir que, em caso de incêndio, os ocupantes consigam sair com segurança e o fogo possa ser combatido antes de se alastrar?"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O projeto de prevenção e combate a incêndios é o documento que define como uma edificação protege seus ocupantes e seu patrimônio do fogo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o projeto e obrigatorio?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto de PPCI é exigido pela legislação estadual e pelas normas do Corpo de Bombeiros para diferentes tipos de edificação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Edificações comerciais — lojas, escritórios, restaurantes, clínicas, supermercados e qualquer atividade que exija alvará de funcionamento",
+          "Edificações industriais — fábricas, galpões logísticos, armazéns e indústrias de qualquer porte",
+          "Edificações multifamiliares — prédios de apartamentos com mais de 2 pavimentos ou com 3 ou mais unidades",
+          "Edificações de uso coletivo — escolas, hospitais, igrejas, centros comerciais e condomínios",
+          "Edificações com risco especial — locais com grande concentração de pessoas, materiais inflamáveis ou processos industriais com risco de explosão",
+          "Reformas que alteram o leiaute — mudanças de uso, ampliação de área ou alteração das rotas de fuga exigem novo projeto ou atualização do PPCI",
+          "Renovação de AVCB — o AVCB tem validade e precisa ser renovado; na renovação, o Corpo de Bombeiros verifica se os sistemas de prevenção estão adequados"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral catarinense, a combinação de edificações comerciais na orla, condomínios residenciais altos e galpões logísticos no entorno do Porto de Navegantes cria uma demanda constante por projetos de PPCI. Cada tipo de ocupação exige um dimensionamento específico, e o Corpo de Bombeiros de SC é rigoroso na verificação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sistemas de protecao passiva contra incendio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A proteção passiva são os elementos construtivos que impedem a propagação do fogo e garantem a integridade estrutural durante um incêndio. O projeto deve definir:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Resistência ao fogo das paredes, pilares, vigas e lajes — cada elemento deve resistir ao fogo por um tempo mínimo (REI 30, REI 60, REI 90 ou REI 120 minutos, conforme o tipo da edificação)",
+          "Rotas de fuga — corredores, escadas e saídas de emergência dimensionados para a carga de pessoas da edificação, com larguras mínimas e distâncias máximas até a saída mais próxima",
+          "Portas corta-fogo — portas que separam setores de incêndio e impedem a propagação entre pavimentos ou entre áreas da edificação",
+          "Vedações verticais e horizontais — selagens em pendentes de escada, plaster em forros e vedação de penetrações tubulares e elétricas para impedir a passagem de fumaça e fogo",
+          "Bancos de reserva — áreas seguras onde os ocupantes podem aguardar o resgate quando a evacuação completa não é possível (edificações altas)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sistemas de proteção ativa contra incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A proteção ativa são os sistemas que detectam, alertam e combatem o fogo ativamente. O projeto dimensiona cada sistema conforme o risco da ocupação:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Extintores de incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Extintores portáteis e sobre rodas são a primeira linha de defesa. O projeto define o tipo (pó químico, CO2, espuma, água pressurizada), a quantidade e a localização conforme a ABNT NBR 12684 e a norma do Corpo de Bombeiros. Cada tipo de extintor é adequado para uma classe de incêndio (A, B, C ou K)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Hidrantes externos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Hidrantes de coluna são as conexões externas que permitem ao Corpo de Bombeiros conectar mangueiras e abastecer água para combater o fogo. O projeto dimensiona a rede de hidrantes conforme a área da edificação, o número de pavimentos e a distância entre hidrantes (máximo de 40 metros entre si, conforme norma do CB-SC)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sprinklers (chuveiros automáticos)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sistema de tubulação com chuveiros que se abrem automaticamente quando a temperatura atinge um nível crítico. —0 obrigatório para galpões logísticos, indústrias, hospitais, centros comerciais e edificações com grande carga de incêndio. O dimensionamento segue a ABNT NBR 10856 e a norma do Corpo de Bombeiros."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sistema de detecção e alarme"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Detectores de fumaça, de calor ou de chama acoplados a centrais de alarme que emitem alertas sonoros e visuais para a evacuação. —0 obrigatório em edificações de uso coletivo, indústrias e comércios com área superior a 500 m²."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Iluminação de emergência"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Luminárias que se acendem automaticamente na falha de energia, iluminando rotas de fuga e saídas de emergência. O projeto dimensiona o número de luminárias, a autonomia mínima (geralmente 60 minutos) e a iluminação mínima em lux conforme ABNT NBR 5418 e a norma do CB-SC."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sinalização de emergência"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Placas indicando rotas de fuga, extintores, hidrantes e equipamentos de proteção individual. A sinalização deve ser plástica (refletiva), posicionada em altura adequada e visível em condições de piso fumegante."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Normas tecnicas que orientam o projeto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto de PPCI deve seguir as normas da ABNT, as instruções técnicas do Corpo de Bombeiros de SC e as referências internacionais quando aplicáveis:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ABNT NBR 10856 — Sprinklers automáticos para combate a incêndio",
+          "ABNT NBR 12684 — Extintores de incêndio portáteis: seleção, localização e instalação",
+          "ABNT NBR 5418 — Iluminação de emergência em edificações",
+          "ABNT NBR 5419 — Proteção de edificações e áreas contra descargas atmosféricas (SPDA)",
+          "ABNT NBR 13852 — Chuveiros automáticos para combate a incêndio",
+          "IT 23/2019 — Instrução Técnica do Corpo de Bombeiros de SC sobre proteção contra incêndio",
+          "IT 24/2019 — Instrução Técnica do CB-SC sobre sistemas de detecção e alarme",
+          "IT 25/2019 — Instrução Técnica do CB-SC sobre sistemas de seção de incêndio (portas corta-fogo)",
+          "Lei Estadual 14.675/09 — Lei do Meio Ambiente de SC (inclui segurança contra incêndio no licenciamento)",
+          "NFPA 13, 14, 20 — referências internacionais para sprinklers, hidrantes e bombas (quando aplicável)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como e o processo no Corpo de Bombeiros de SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo de aprovação do PPCI junto ao Corpo de Bombeiros de SC segue etapas definidas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Consulta de viabilidade — verificação do tipo de edificação e das exigências aplicáveis ao risco da ocupação",
+          "2. Elaboração do projeto — engenheiro com habilitação dimensiona os sistemas de prevenção e combate a incêndio conforme as normas",
+          "3. Protocolo do projeto — envio do projeto completo ao Corpo de Bombeiros via sistema eletrônico, com ART do responsável técnico",
+          "4. Análise técnica — o CB-SC analisa o projeto e pode solicitar complementações (exigências técnicas)",
+          "5. Aprovação do projeto — após adequações, o projeto é aprovado e liberado para execução",
+          "6. Execução dos sistemas — instalação dos equipamentos conforme o projeto aprovado",
+          "7. Vistoria do CB-SC — inspeção técnica que verifica se os sistemas foram executados conforme o projeto",
+          "8. Emissão do AVCB — documento que comprova a conformidade da edificação com as normas de segurança contra incêndio"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O AVCB tem validade de 5 anos para edificações de risco normal e 2 anos para edificações de risco especial. A renovação exige nova vistoria do Corpo de Bombeiros."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos do projeto e instalacao"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo do projeto de PPCI varia conforme o porte da edificação, o tipo de ocupação e os sistemas exigidos. Valores de referência para o litoral catarinense em 2026:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto de PPCI (residencial multifamiliar): R$ 3.000 a R$ 10.000",
+          "Projeto de PPCI (comercial/industrial): R$ 5.000 a R$ 25.000",
+          "Extintores de incêndio: R$ 300 a R$ 1.500 por unidade (conforme tipo e capacidade)",
+          "Hidrantes e rede de hidrantes: R$ 2.000 a R$ 15.000 por hidrante (incluindo rede e instalação)",
+          "Sistema de sprinklers: R$ 50 a R$ 150 por m² (incluindo projeto, material e instalação)",
+          "Sistema de detecção e alarme: R$ 15 a R$ 50 por m²",
+          "Iluminação de emergência: R$ 200 a R$ 800 por ponto",
+          "Vistoria e emissão do AVCB: R$ 1.000 a R$ 5.000",
+          "Renovação do AVCB: R$ 500 a R$ 3.000 (conforme porte)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 importante considerar que o custo dos sistemas de prevenção é significativamente menor do que o custo de um incêndio — que pode incluir perda total do patrimônio, multas, processos e, no pior caso, perda de vidas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades do litoral catarinense"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A região de Navegantes, Itajaí, Balneário Camboriú e Penha tem características que influenciam o projeto de PPCI:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia — a proximidade com o mar acelera a corrosão de equipamentos metálicos; extintores, hidrantes e sprinklers devem ser especificados com proteção anticorrosiva",
+          "Temperatura e umidade — o clima litorâneo úmido pode afetar detectores e centrais de alarme; equipamentos devem ter grau de proteção adequado",
+          "Altura dos edifícios — Balneário Camboriú e Navegantes têm edifícios altos; PPCI de edifícios altos exige sistemas mais robustos, incluindo bancos de reserva e hidrantes internos",
+          "Atividade portuária — galpões logísticos e armazéns no entorno do Porto de Navegantes armazenam materiais de alto valor e alto risco; sprinklers e detecção são obrigatórios",
+          "Turismo e orla — restaurantes, lojas e hotéis na orla têm alta concentração de pessoas; o PPCI deve considerar evacuação rápida e rotas de fuga amplas",
+          "Fiscalização — o Corpo de Bombeiros de SC é rigoroso na verificação; projetos mal dimensionados ou equipamentos inadequados são reprovados na vistoria"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns em projetos de prevenção e combate a incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Evitar estes erros é fundamental para garantir a aprovação do projeto e a segurança da edificação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elaborar o PPCI sem compatibilização com o projeto arquitetônico — rotas de fuga que não existem no layout, extintores em locais inacessíveis e sprinklers conflitando com forros",
+          "Dimensionar extintores apenas pela área — o dimensionamento deve considerar o tipo de risco (classe de incêndio) e não apenas a metragem",
+          "Ignorar a renovação do AVCB — o AVCB tem validade; renovar tardiamente pode gerar multas e interdição",
+          "Instalar equipamentos não certificados — o Corpo de Bombeiros exige equipamentos com certificação do INMETRO; equipamentos genéricos são reprovados",
+          "Não dimensionar a reserva d'água — hidrantes e sprinklers precisam de reserva d'água com capacidade mínima definida pelo CB-SC",
+          "Omitir a iluminação de emergência — muitos projetos esquecem de dimensionar pontos de emergência; a vistoria verifica cada luminária",
+          "Não considerar a evacuação de pessoas com mobilidade reduzida — rotas de fuga devem ser acessíveis e bancos de reserva devem existir em edificações altas",
+          "Deixar o PPCI para o final da obra — o ideal é integrar o PPCI desde o projeto arquitetônico; incluir sistemas no final gera retrabalho e custo adicional"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "AVCB: o que é, validade e como renovar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O AVCB (Auto de Vistoria do Corpo de Bombeiros) é o documento que comprova que a edificação atende as normas de segurança contra incêndio. Sem ele, a edificação não pode funcionar legalmente."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Validade: 5 anos para edificações de risco normal; 2 anos para edificações de risco especial (indústrias, hospitais, arsenais)",
+          "Renovação: exige nova vistoria do Corpo de Bombeiros, verificação de todos os sistemas e emissão de novo certificado",
+          "Consequências de não renovar: multa, interdição, impossibilidade de renovar alvará de funcionamento, perda de cobertura de seguro",
+          "Transferência: quando o imóvel é vendido, o AVCB pode ser transferido para o novo proprietário, desde que os sistemas estejam em dia",
+          "Retrofit ou reforma: alterações que modificam o leiaute, o uso ou a carga de incêndio exigem atualização do PPCI e novo AVCB"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre projeto de prevenção e combate a incêndios"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Minha residência unifamiliar precisa de PPCI? Em geral, residências unifamiliares de pequeno porte são dispensadas de PPCI completo. Porém, edificações com mais de 2 pavimentos ou com área superior a 500 m² podem exigir projeto simplificado — consulte o Corpo de Bombeiros."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva para aprovar o PPCI? O processo de aprovação no Corpo de Bombeiros de SC leva de 30 a 90 dias, dependendo do porte da edificação e do tempo de análise. A instalação dos sistemas leva de 15 a 60 dias após a aprovação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso instalar os equipamentos eu mesmo? Equipamentos como extintores e sinalização podem ser instalados por qualquer pessoa, mas sistemas como hidrantes, sprinklers e detecção devem ser executados por empresas habilitadas e com ART de engenheiro responsável."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O PPCI é cobrado pela prefeitura? A prefeitura não cobra o PPCI diretamente, mas exige o AVCB para emitir alvará de funcionamento. Sem AVCB, o imóvel fica irregular perante a prefeitura e o Corpo de Bombeiros."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa a renovação do AVCB? A renovação custa entre R$ 500 e R$ 3.000, dependendo do porte da edificação e dos sistemas envolvidos. O custo inclui vistoria, verificação e emissão do novo certificado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto de prevenção e combate a incêndios com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos de prevenção e combate a incêndios (PPCI), obtenção de AVCB e renovação de certificados. Nossa equipe dimensiona os sistemas de proteção passiva e ativa, elabora o projeto técnico conforme as normas do Corpo de Bombeiros de SC e acompanha todo o processo — da aprovação do projeto à vistoria final."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto de PPCI completo: extintores, hidrantes, sprinklers, detecção, iluminação de emergência e sinalização",
+          "Compatibilização com projeto arquitetônico e de instalações",
+          "Obtenção de AVCB junto ao Corpo de Bombeiros de SC",
+          "Renovação de AVCB com verificação de todos os sistemas",
+          "ART no CREA-SC para todos os serviços técnicos",
+          "Atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha e região"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está construindo, reformando ou precisa renovar o AVCB do seu imóvel, entre em contato com a Regê Engenharia. Vamos dimensionar os sistemas de prevenção corretos, elaborar o projeto e garantir que sua edificação esteja segura e legal — porque segurança contra incêndio não é custo, é investimento."
+      }
+    }
+  ]
+}

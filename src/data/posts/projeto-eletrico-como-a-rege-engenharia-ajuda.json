@@ -1,0 +1,418 @@
+{
+  "slug": "projeto-eletrico-como-a-rege-engenharia-ajuda",
+  "title": "Projeto Elétrico: O Que —0, Por Que —0 Essencial e Como a Regê Engenharia Pode Ajudar",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Obra residencial em Navegantes com instalação elétrica em execução — projeto elétrico assinado por engenheiro civil registrado no CREA-SC.",
+  "excerpt": "Entenda o que é um projeto elétrico, por que ele é obrigatório em qualquer construção ou reforma, quais normas técnicas devem ser seguidas e como a Regê Engenharia garante que sua instalação elétrica seja segura, eficiente e aprovada.",
+  "readTime": "11 min de leitura",
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muita gente trata a parte elétrica de uma construção como detalhe técnico que pode ser resolvido depois. Mas a instalação elétrica é um dos sistemas que mais impactam a segurança, o conforto e a valorização de um imóvel. Um projeto elétrico mal executado pode causar curto-circuito, incêndio, queda de tensão e até a perda total do imóvel."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico não é apenas um desenho de fios e disjuntores — é um documento técnico completo que define como a energia vai chegar ao imóvel, como será distribuída em cada ambiente e quais dispositivos de proteção serão instalados. Este artigo explica tudo o que você precisa saber sobre projetos elétricos e como a Regê Engenharia pode ajudar a tornar sua instalação segura e regular."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é um projeto elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico é o conjunto de documentos técnicos que descreve toda a infraestrutura elétrica de uma construção. Ele contempla o dimensionamento dos circuitos, a escolha dos componentes, o traçado das canalizações e a especificação dos materiais que serão utilizados na instalação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o projeto elétrico responde a perguntas como: qual a potência total que o imóvel vai consumir? Quantos circuitos são necessários? Qual o calibre dos fios? Onde ficarão os quadros de distribuição? Como será o aterramento? Qual a proteção contra surtos e descargas atmosféricas?"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o projeto elétrico é obrigatório"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No Brasil, a instalação elétrica em obras de construção civil é regulamentada pela norma ABNT NBR 5410, que estabelece os requisitos para instalações de baixa tensão. Essa norma é referência obrigatória para qualquer projeto elétrico que seja submetido à aprovação da Prefeitura."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "A norma ABNT NBR 5410 define dimensionamento, proteção, aterramento e isolação de circuitos",
+          "A ABNT NBR 14039 regulamenta instalações de média tensão para edificações e complexos",
+          "A Lei Federal 8.078/90 (CDC) exige que produtos e serviços ofereçam segurança adequada ao consumidor",
+          "A Lei Federal 14.120/2021 institui o Programa Nacional de Eficiência Energética em Edificações (Procel Edifica)",
+          "As Prefeituras exigem o projeto elétrico para a emissão do alvará de construção em praticamente todos os municípios brasileiros",
+          "O CREA-SC só registra a ART do engenheiro quando o projeto elétrico está presente entre os documentos submetidos"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além da obrigatoriedade legal, ter um projeto elétrico bem elaborado evita sobressaltos durante a obra — como falta de pontos de tomada na posição certa, circuitos subdimensionados que desarmam constantemente e eletrodutos que precisam ser refeitos por falta de planejamento."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O projeto elétrico não é um gasto — é a garantia de que sua instalação elétrica vai funcionar por décadas sem surpresas, sem riscos e sem retrabalho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Partes que compõem um projeto elétrico completo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto elétrico completo para residências, comércios ou edifícios contempla várias disciplinas e documentos técnicos:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto de iluminação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Define a disposição de pontos de luz em cada ambiente, considerando a potência ideal, o tipo de luminária, o fluxo luminoso (lúmens) e a estética do espaço. O projeto de iluminação também prevê pontos de iluminação externa, áreas de circulação e acesso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto de força e tomadas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Dimensiona os circuitos de tomadas para cada cômodo, considerando a potência dos equipamentos que serão utilizados. Inclui pontos especiais para ar-condicionado, chuveiro elétrico, cooktop, forno, lavadora e outros eletrodomésticos de alta demanda."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quadro de distribuição"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 o centro de controle da instalação elétrica do imóvel. Cada circuito é protegido por um disjuntor específico, e o quadro pode incluir DRs (disjuntores diferenciais) e DPS (dispositivos de proteção contra surtos) para proteção contra choques e descargas atmosféricas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Aterramento e proteção"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O sistema de aterramento é fundamental para a segurança elétrica. Ele canaliza correntes de falha para o solo, evitando choques e protegendo equipamentos eletrônicos. O projeto define o tipo de aterramento (solo, haste, anel) e as conexões com o eletrodo de aterramento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Canalização e eletrodutos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Define o traçado dos eletrodutos nas paredes, pisos e tetos, garantindo que os fios sejam protegidos e que a instalação seja acessível para manutenção futura. O projeto inclui o dimensionamento dos diâmetros dos eletrodutos e o número de fios por tubulação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Memorial descritivo e diagrama unifilar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O memorial descritivo lista todos os materiais, equipamentos e especificações técnicas do projeto. O diagrama unifilar é o esquema completo da instalação elétrica, mostrando a origem da energia, os circuitos, os dispositivos de proteção e as cargas de cada circuito."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Normas técnicas que regem projetos elétricos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A segurança elétrica no Brasil é garantida por um conjunto de normas técnicas da ABNT (Associação Brasileira de Normas Técnicas). Conhecer essas normas é essencial para qualquer engenheiro que elabora projetos elétricos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ABNT NBR 5410 — Instalações elétricas de baixa tensão (norma principal para residências e comércios)",
+          "ABNT NBR 14039 — Instalações elétricas de média tensão (edifícios de grande porte, complexos)",
+          "ABNT NBR 5413 — Iluminância de interiores (padrões de luminosidade para cada tipo de ambiente)",
+          "ABNT NBR 5419 — Proteção contra descargas atmosféricas (para edifícios altos e áreas de risco)",
+          "ABNT NBR 14644 — Limpeza no controle de contaminação ambiental (ambientes especiais)",
+          "NBR 7190 — Projeto de estruturas de madeira (compatibilidade com instalações elétricas)",
+          "ABNT NBR 13852 — Conforto térmico em ambientes internos (integração com sistemas de ar-condicionado)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e em todo o litoral catarinense, o clima úmido e a proximidade com o mar exigem atenção redobrada à escolha de materiais elétricos com proteção adequada contra corrosão e umidade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tipos de projeto elétrico por finalidade"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico varia conforme o tipo de imóvel e sua finalidade. Cada tipologia tem exigências específicas:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico residencial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para residências unifamiliares e multifamiliares, o projeto considera o consumo típico de uma casa — iluminação, tomadas, ar-condicionado, chuveiro elétrico, cooktop e eletrodomésticos. Em condomínios residenciais, o projeto também contempla a parte comum: elevadores, iluminação de áreas de lazer, portaria e garagem."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico comercial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comércios têm demanda elétrica mais intensa — vitrines iluminadas, equipamentos de ar-condicionado central, sistemas de segurança, sinalização e pontos de venda. O projeto comercial também pode exigir parte de média tensão, conforme o porte do estabelecimento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico industrial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Indústrias e galpões logísticos exigem projetos de média e alta tensão, com transformadores próprios, quadros de comando de motores e sistemas de proteção contra curto-circuito. O projeto industrial também prevê a distribuição de energia para máquinas específicas e sistemas de controle automático."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico para edifícios multifamiliares"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Edifícios com vários pavimentos exigem um projeto mais complexo, com parte de entrada de média tensão, transformador, quadro geral de distribuição (QGDE), quadros de distribuição por andar e projetos de iluminação de áreas comuns — garagem, hall de elevador, escada, lazer e varandas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns em instalações elétricas sem projeto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando a instalação elétrica é feita sem projeto técnico, os erros mais frequentes são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Circuitos subdimensionados — fio fino demais para a carga, causando aquecimento e risco de incêndio",
+          "Falta de aterramento — instalação sem proteção contra choques e descargas atmosféricas",
+          "Pontos de tomada insuficientes — extensores e benjamins como solução permanente",
+          "Disjuntores inadequados — DRs que desarmam constantemente ou que não desarmam em caso de falha",
+          "Canalização inadequada — eletrodutos enterrados em locais inacessíveis para manutenção",
+          "Ausência de pontos para ar-condicionado — fios improvisados expostos na parede",
+          "Eletrodutos misturados — fios de força e sinal no mesmo tubo, causando interferência",
+          "Falta de proteção contra surtos — equipamentos eletrônicos queimados por descargas atmosféricas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia ajuda no seu projeto elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia elabora projetos elétricos completos para residências, comércios e edifícios na região de Navegantes e litoral norte catarinense. Nossa equipe garante que sua instalação elétrica seja dimensionada corretamente, segura e em conformidade com todas as normas técnicas vigentes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Análise da demanda elétrica do imóvel — cálculo de potência, escolha do padrão de ligação e dimensionamento do quadro",
+          "Projeto de iluminação — pontos de luz, luminárias, potência e estética para cada ambiente",
+          "Projeto de força e tomadas — circuitos dimensionados para cada cômodo e equipamento",
+          "Dimensionamento do quadro de distribuição — disjuntores, DRs, DPS e proteção adequada",
+          "Projeto de aterramento — sistema de aterramento conforme a norma NBR 5410",
+          "Canalização e eletrodutos — traçado otimizado para manutenção futura",
+          "Memorial descritivo e diagrama unifilar — documentação técnica completa para aprovação",
+          "ART (Anotação de Responsabilidade Técnica) no CREA-SC — registro que vincula o engenheiro ao projeto",
+          "Acompanhamento na aprovação do projeto na Prefeitura — garantia de que o projeto elétrico seja aceito"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico integrado com outras disciplinas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um dos diferenciais da Regê Engenharia é a integração do projeto elétrico com as outras disciplinas da obra. O projeto elétrico não pode ser feito de forma isolada — ele precisa considerar o projeto arquitetônico (posição de móveis, pontos de luz), o projeto hidráulico (posição de equipamentos que demandam energia) e o projeto estrutural (trilhas de fixação e eletrodutos embutidos)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ao elaborar o projeto elétrico junto com os demais, evitamos conflitos na obra — como eletrodutos cruzando canos de água, pontos de luz em posições inadequadas ou quadros de distribuição em locais sem acesso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Prazos e custos do projeto elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O prazo para elaboração do projeto elétrico varia conforme o porte do imóvel:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Residência unifamiliar simples: 5 a 10 dias úteis para projeto completo",
+          "Residência de médio porte ou sobrado: 10 a 15 dias úteis",
+          "Comércio ou consultório: 10 a 20 dias úteis, conforme a complexidade",
+          "Edifício multifamiliar: 20 a 40 dias úteis, incluindo parte de média tensão",
+          "Projeto para aprovação na Prefeitura: prazo adicional de 5 a 10 dias úteis para ajustes e protocolo"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os custos do projeto elétrico são proporcionais à complexidade da obra e são muito menores do que o custo de corrigir uma instalação mal feita depois. Um projeto bem elaborado evita retrabalho, materiais desperdiçados e riscos à segurança."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico e segurança: o que está em jogo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Segurança elétrica não é opcional. De acordo com dados da ABRADEE (Associação Brasileira de Distribuidoras de Energia Elétrica), uma em cada três ocorrências de incêndio em residências brasileiras tem origem elétrica. A causa quase sempre é a mesma: instalação sem projeto, com materiais inadequados ou sem proteção."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto elétrico profissional elimina os riscos mais comuns:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Curto-circuito por fios subdimensionados — o dimensionamento correto evita aquecimento excessivo",
+          "Choque elétrico por falta de aterramento — o aterramento canaliza correntes de falha para o solo",
+          "Incêndio por circuito sobrecarregado — disjuntores dimensionados desarmam antes do limite do fio",
+          "Destruição de equipamentos por surtos — DPS protege contra descargas atmosféricas e transitórios",
+          "Choque acidental por falta de DR — o disjuntor diferencial detecta fuga de corrente e corta a energia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Construa com segurança: fale com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia é especializada em projetos elétricos e acompanhamento de instalações na região de Navegantes, Itajaí, Balneário Camboriú, Itapema e litoral norte catarinense. Se você vai construir, reformar ou ampliar um imóvel, conte com uma equipe técnica que garante que a parte elétrica seja feita com segurança, eficiência e dentro das normas."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elaboração de projetos elétricos residenciais, comerciais e de edifícios",
+          "Dimensionamento de quadros de distribuição e sistemas de proteção",
+          "Projeto de aterramento e proteção contra descargas atmosféricas",
+          "Integração com projetos arquitetônicos, hidráulicos e estruturais",
+          "ART no CREA-SC e acompanhamento na aprovação na Prefeitura",
+          "Consultoria técnica para modernização de instalações elétricas antigas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entre em contato com a Regê Engenharia e solicite uma avaliação técnica do seu projeto elétrico. Uma instalação bem projetada é a base de um imóvel seguro, eficiente e valorizado."
+      }
+    }
+  ]
+}

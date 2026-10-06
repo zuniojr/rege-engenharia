@@ -1,0 +1,304 @@
+{
+  "slug": "seguranca-do-trabalho-na-construcao",
+  "title": "Segurança do Trabalho na Construção: Como Proteger sua Obra, sua Equipe e seu Bolso",
+  "tag": "SEGURANÇA",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Canteiro de obras com sinalização de segurança do trabalho, EPIs e proteções coletivas em obra de construção civil em Navegantes SC.",
+  "excerpt": "A construção civil é uma das atividades que mais gera acidentes no Brasil — e a maioria deles é evitável. Entenda o que a segurança do trabalho exige na prática: NR-18, PCMAT, PGR, EPIs, trabalho em altura, proteções coletivas e o papel de cada um na obra.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A construção civil constrói casas, prédios, pontes e sonhos — mas também lidera, ano após ano, as estatísticas de acidentes de trabalho no Brasil. Queda de altura, soterramento, choque elétrico, corte, esmagamento: os riscos estão presentes em todas as etapas de uma obra, do primeiro corte do terreno ao acabamento final. A boa notícia é que quase todos os acidentes na construção têm causa conhecida — e solução conhecida."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Segurança do trabalho na construção não é papel para arquivo: é um conjunto de práticas, documentos e equipamentos que protegem a vida de quem constrói — e que também protege o bolso de quem contrata. Uma obra sem segurança convive com o risco de acidente grave, multa, embargo, ação trabalhista e paralisação. Este guia mostra o que a segurança exige na prática em um canteiro de obras: as normas, os documentos, os equipamentos e as responsabilidades de cada parte."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Nenhum prazo de obra vale uma vida. E nenhuma economia de segurança vale um embargo — nem um processo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a construção é uma atividade de alto risco"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Diferente da maioria das atividades, a obra muda de ambiente a cada etapa: a escavação de hoje vira a laje de amanhã, e cada fase traz riscos novos. A isso se soma o trabalho em altura, o uso de máquinas, a eletricidade, os materiais pesados e a exposição ao sol e à chuva — uma combinação que exige prevenção estruturada:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Trabalho em altura — lajes, andaimes, escadas e fachadas estão entre as maiores causas de acidentes fatais na construção (NR-35)",
+          "Escavações e contenções — risco de desmoronamento e soterramento em fundações e redes (NR-18)",
+          "Eletricidade — choques em instalações provisórias mal executadas e contato com redes energizadas",
+          "Máquinas e ferramentas — betoneiras, serras, gruas, elevadores e ferramentas elétricas exigem operadores habilitados",
+          "Materiais e cargas — transporte manual, queda de materiais e tombamento de cargas",
+          "Movimentação e circulação — tropeços, quedas no mesmo nível e atropelamento dentro do canteiro"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O acidente na obra raramente tem uma causa única: tem uma cadeia de falhas — e a segurança existe para cortar essa cadeia antes da última peça."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As normas que regem a segurança na construção"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A segurança do trabalho na construção civil é regida pelas Normas Regulamentadoras (NRs) do Ministério do Trabalho. As principais para canteiros de obras:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NR-18 — a norma da construção: condições de segurança em canteiros, frentes de serviço e todo o ciclo da obra",
+          "NR-01 — disposições gerais e o PGR (Programa de Gerenciamento de Riscos), base da prevenção em qualquer obra",
+          "NR-35 — trabalho em altura: planejamento, capacitação e sistemas de proteção contra quedas",
+          "NR-06 — EPIs: fornecimento gratuito, adequação, registro e treinamento de uso",
+          "NR-04 — SESMT: dimensionamento da equipe de segurança conforme o número de trabalhadores",
+          "NR-26 — sinalização de segurança: cores, placas e avisos no canteiro",
+          "NR-23 — proteção contra incêndios: extintores, brigada e combate em instalações temporárias"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os documentos obrigatórios de uma obra segura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Segurança não se improvisa: se documenta. Uma obra regular mantém, desde antes do início, um conjunto de documentos que organiza a prevenção — e que a fiscalização do trabalho verifica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "PCMAT — Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção, obrigatório em obras com 20 ou mais trabalhadores (NR-18)",
+          "PGR — Programa de Gerenciamento de Riscos, com inventário de riscos e plano de ação (NR-01), obrigatório em todas as obras",
+          "Ordem de serviço — documento que descreve os riscos de cada função e orienta o trabalhador antes do início",
+          "Fichas de EPI — entrega registrada dos equipamentos de proteção individual",
+          "Registros de treinamento — admissional, periódico, NR-35 e específicos por atividade",
+          "Diário de obra e ART — registro técnico da obra com responsável designado",
+          "Projeto de proteção coletiva — proteções de periferia, bandejas, telas e sinalização dimensionadas para a obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A documentação de segurança não existe para a fiscalização: existe para que, se o pior acontecer, a obra possa provar que fez o melhor."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Proteção coletiva: a segurança que protege todos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes do EPI individual vem a proteção coletiva (EPC) — a que protege todos os trabalhadores sem depender de cada um lembrar de usá-la:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Guarda-corpos e rodapés — em lajes, platibandas, aberturas e perímetros de trabalho em altura",
+          "Telas de proteção e bandejas — retêm materiais e pessoas em caso de queda",
+          "Andaimes certificados — montados com acesso seguro, plataformas completas e guarda-corpos",
+          "Escadas e rampas de acesso — dimensionadas e fixadas, com corrimão onde houver risco",
+          "Sinalização do canteiro — placas, fitas e demarcações que organizam circulação e áreas de risco",
+          "Instalações elétricas provisórias — quadros, disjuntores e aterramento conforme a NR-10",
+          "Escoramentos e contenções — em escavações e valas, dimensionados por profissional habilitado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "EPIs: o que o trabalhador da construção precisa"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Capacete com jugular — proteção contra impacto e queda de materiais",
+          "Botas com biqueira — proteção contra perfuração, corte e esmagamento",
+          "Cinto de segurança tipo paraquedista — obrigatório em trabalho em altura, com ancoragem certificada",
+          "—\u001cculos de proteção — contra partículas, poeira e respingos",
+          "Protetor auricular — em áreas com ruído acima do limite (betoneiras, serras, compactadores)",
+          "Luvas — específicas por atividade: corte, impacto, química e eletricidade",
+          "Proteção respiratória — para poeira, fumaça e tintas em ambientes mal ventilados",
+          "Vestimenta de sinalização — coletes e roupas de alta visibilidade em áreas de circulação"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "EPI é a última barreira — não a primeira. A obra segura começa na proteção coletiva, passa pela organização do canteiro e só então chega ao equipamento individual."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Segurança em cada etapa da obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada fase da construção tem riscos próprios — e a prevenção acompanha a obra etapa por etapa:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Escavação e fundação — escoramento de valas, sinalização, acesso seguro e verificação de redes enterradas",
+          "Estrutura e laje — proteção de periferia, redes de proteção, operação de grua e bombeamento de concreto com equipe treinada",
+          "Alvenaria e instalações — plataformas de trabalho, andaimes corretos e eletricidade provisória protegida",
+          "Telhado e fachada — trabalho em altura com cinto, ancoragem, redes e escada de acesso fixa",
+          "Acabamento — organização do canteiro, descarte de materiais e poeira controlada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem responde pela segurança da obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A segurança do trabalho não é responsabilidade de uma pessoa só — é compartilhada em camadas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "O empregador (construtora ou empreiteiro) — cumpre as NRs, fornece EPIs, capacita e fiscaliza o uso",
+          "O engenheiro responsável — responde tecnicamente pela obra e pelas condições de segurança no canteiro",
+          "O SESMT da obra — engenheiro e técnicos de segurança implementam e monitoram a prevenção",
+          "O trabalhador — cumpre as normas, usa os equipamentos e comunica condições de risco",
+          "O contratante (dono da obra) — responde solidariamente por obrigações trabalhistas e de segurança na contratação de terceiros"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No canteiro, segurança é trabalho de equipe: se um falha, todos pagam. Se todos cumprem, todos voltam para casa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O custo real de uma obra sem segurança"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comparar o custo da segurança com o custo do acidente não deixa dúvida: os EPIs, os programas e os treinamentos representam uma fração pequena do orçamento da obra. O acidente, por outro lado, cobra caro — multas do Ministério do Trabalho, embargo da obra, paralisação do cronograma, ações trabalhistas, indenizações, aumento do seguro e, no pior cenário, o custo que nenhum valor paga. A obra sem segurança não é mais barata: é mais cara — e o preço só aparece depois."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Segurança em obras pequenas e reformas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Obra pequena também é obra: o risco de queda de uma escada em uma reforma residencial mata tanto quanto em um edifício de 20 andares. Reformas e obras pequenas estão sujeitas à NR-18, ao PGR e à ordem de serviço, com exigências proporcionais ao porte — e a contratação de mão de obra sem segurança transfere o risco para o dono da obra. Não existe obra pequena para o acidente: existe obra sem prevenção."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre segurança do trabalho na construção"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Obra com menos de 20 trabalhadores precisa de PCMAT? O PCMAT é obrigatório com 20 ou mais trabalhadores — mas o PGR, a ordem de serviço, os EPIs e a NR-18 valem para toda obra, de qualquer tamanho. O porte da obra define o documento, não a obrigação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem paga os EPIs? O empregador — sempre. O fornecimento de EPI é obrigação legal do contratante da mão de obra, que também deve registrar a entrega e treinar o uso. EPI pago pelo trabalhador é irregularidade que a fiscalização autua."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que acontece se a obra for flagrada sem segurança? Autuação com multas, embargo da obra até a regularização, paralisação do cronograma e responsabilização do engenheiro e do contratante. A regularização depois do embargo é sempre mais cara que a prevenção antes."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O dono da obra responde por acidente com funcionário da empreiteira? Em regra, sim — há responsabilidade solidária por obrigações trabalhistas e de segurança na contratação de terceiros. Contratar mão de obra sem segurança é transferir o risco para a própria obra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Trabalho em altura exige curso? Sim. A NR-35 exige capacitação específica para trabalho em altura, com treinamento teórico e prático, renovado periodicamente. Trabalhador em altura sem curso é irregularidade grave e causa frequente de acidentes fatais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Segurança do trabalho na construção com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia, com sede em Navegantes e atuação no litoral catarinense desde 2016, trata a segurança do trabalho como parte do projeto — não como burocracia. Em nossas obras, o canteiro é organizado com proteções coletivas, EPIs, ordem de serviço e registros desde o primeiro dia, e a documentação (PGR, PCMAT quando aplicável, diário de obra e ART) acompanha cada etapa com rigor."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou contratar uma obra — grande ou pequena —, a segurança começa na contratação. Entre em contato com a equipe da Regê Engenharia e receba a orientação sobre as exigências de segurança da sua obra: do projeto ao habite-se, com cada trabalhador protegido e cada etapa documentada."
+      }
+    }
+  ]
+}

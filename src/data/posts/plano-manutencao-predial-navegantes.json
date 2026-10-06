@@ -1,0 +1,383 @@
+{
+  "slug": "plano-manutencao-predial-navegantes",
+  "title": "Plano de Manutencao Predial em Navegantes SC: Guia Completo com NBR 5674, Checklist e Modelo para Condominios",
+  "tag": "MANUTENCAO",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Plano de manutencao predial em condominio de Navegantes SC com checklist da NBR 5674 e inspecao de fachada no litoral.",
+  "excerpt": "Evite perda de garantia, multas e desvalorizacao: entenda o que e o plano de manutencao predial pela NBR 5674, o que deve conter, periodicidades por sistema e como implantar no seu condominio em Navegantes.",
+  "readTime": "13 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Infiltracao na garagem, fachada manchada pela maresia, bomba que queima no verao, elevador parado na temporada e condominio sendo acionado na Justica por falta de manutencao: a rotina de quem administra predios em Navegantes e Itajai tem um ponto em comum - quase todos os problemas caros nasceram da ausencia de um documento simples e obrigatorio, o plano de manutencao predial."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Exigido pela NBR 5674 e pela NBR 15575, o plano de manutencao e o manual operacional do edificio: ele diz o que deve ser inspecionado, quando, como e por quem, com prazos, registros e responsaveis definidos. Sem ele, a garantia da construtora pode ser anulada, o seguro pode negar cobertura e o sindico responde civil e criminalmente em caso de acidente. Este guia mostra, passo a passo, como estruturar o plano de manutencao predial para condominios e empresas de Navegantes e do litoral norte catarinense - com modelo pratico, periodicidades e checklist pronto para implantar."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Edificio sem plano de manutencao e como carro sem troca de oleo: funciona ate parar - e quando para, a conta e sempre maior que a prevencao."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que e o plano de manutencao predial e por que ele e obrigatorio?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O plano de manutencao predial e o conjunto organizado de procedimentos, periodicidades e registros que garante a conservacao, o desempenho e a seguranca de todos os sistemas do edificio ao longo da sua vida util. Ele e normatizado pela ABNT NBR 5674 (Manutencao de Edificacoes - Requisitos para o sistema de gestao de manutencao) e condiciona a garantia prevista na NBR 15575 (Desempenho de Edificacoes)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "E obrigatorio para toda edificacao, seja residencial, comercial ou mista, nova ou existente - a NBR 5674 nao distingue porte",
+          "E entregue pela construtora no Manual do Proprietario e Manual do Sindico, mas deve ser adaptado e gerido pelo condominio ao longo do uso",
+          "Sem plano implantado e comprovavel, a construtora pode negar atendimento em garantia por falta de manutencao, conforme NBR 15575",
+          "E exigido por seguradoras, auditorias de certificacao e em pericias judiciais como prova de diligencia do sindico e da administradora",
+          "E fiscalizado indiretamente pelo Corpo de Bombeiros (AVCB), CREA e em acoes civis por danos a terceiros"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Plano de manutencao x laudo de inspecao predial: entenda a diferenca"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plano de manutencao (NBR 5674): documento preventivo e continuo. Define o que fazer, quando fazer e quem faz, antes do problema aparecer. E o planejamento",
+          "Inspecao predial (NBR 16747): diagnostico tecnico periodico que avalia o estado real do predio, classifica anomalias e recomenda correções. E a fotografia do momento",
+          "Laudo de vistoria/cautelar: registro pontual para um fim especifico (entrega de obra, briga de vizinho, pericia)",
+          "Na pratica: o condominio precisa dos dois. O plano guia a rotina; a inspecao anual verifica se a rotina esta funcionando e atualiza o plano"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Plano sem inspecao e promessa no papel. Inspecao sem plano e diagnostico sem tratamento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem deve elaborar e quem e responsavel por cumprir o plano?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elaboracao: engenheiro civil ou arquiteto com registro ativo no CREA/CAU e ART/RRT. Em Navegantes, a Rege Engenharia elabora o plano com base no as built, no memorial descritivo e na vistoria inicial do predio",
+          "Gestao: sindico e administradora sao os responsaveis legais pela implantacao e pelos registros. O Codigo Civil (art. 1.348) e o Codigo de Defesa do Consumidor atribuem ao sindico o dever de conservar as partes comuns",
+          "Execucao: equipe propria, terceirizadas e empresas especializadas (elevadores, SPDA, pressurizacao, geradores, impermeabilizacao) conforme o sistema",
+          "Responsabilidade: sindico que negligencia manutencao responde civilmente por danos a condominos e terceiros, e pode responder criminalmente em caso de colapso ou incendio com vitima"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os 3 tipos de manutencao que o plano deve prever"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Manutencao preventiva: programada por tempo ou uso (ex: limpeza de calhas a cada 3 meses, teste de bomba de incendio mensal). E a que mais economiza",
+          "Manutencao corretiva: reparo apos falha ou anomalia (ex: troca de pastilha desplacada, correcao de vazamento). Quando e a unica usada, o custo e 3 a 5 vezes maior",
+          "Manutencao preditiva/inspecao: monitoramento que antecipa a falha (ex: termografia de quadro eletrico, ensaio de carbonatacao, medicao de recalque). O plano da NBR 5674 integra os tres tipos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que um plano de manutencao completo precisa conter (NBR 5674)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Inventario de sistemas, elementos e equipamentos: estrutura, alvenaria, revestimentos, impermeabilizacao, esquadrias, cobertura, instalacoes hidraulicas, eletricas, SPDA, gas, elevadores, pressurizacao, ar-condicionado central, paisagismo e areas externas",
+          "Periodicidades e procedimentos por sistema: o que fazer, como fazer e com que frequencia, com referencia a manual do fabricante e a norma",
+          "Responsaveis e qualificacao: zelador, equipe de manutencao, empresa especializada ou engenheiro, conforme a complexidade",
+          "Registros comprobatórios: fichas de verificacao, ordens de servico, notas fiscais, relatorios fotograficos e livro de manutencao. Sem registro, a manutencao e considerada inexistente em pericia",
+          "Previsao orcamentaria: estimativa anual por sistema para compor a previsao orcamentaria do condominio e o fundo de reserva",
+          "Gestao de garantias: prazos de garantia da construtora por sistema (NBR 15575) e condicoes para nao perde-los"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Periodicidades essenciais por sistema (modelo pratico para Navegantes)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Abaixo as periodicidades minimas mais cobradas em auditorias e pericias no litoral. O seu plano deve adaptar estes prazos a idade do predio, a agressividade da maresia e ao historico de falhas:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Estrutura e fachada (o ponto critico no litoral)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Inspecao visual de fachada, sacadas e marquises: semestral (litoral) - buscar fissuras, desplacamentos, eflorescencia e corrosao de armaduras",
+          "Lavagem e pintura de fachada: a cada 3 a 5 anos no litoral (vs 5 a 8 anos no interior) devido a maresia",
+          "Juntas de dilatacao e selantes de esquadrias: inspecao anual e troca a cada 3 a 5 anos",
+          "Estrutura de concreto aparente em garagem/subsolo: inspecao anual de carbonatacao e corrosao por cloretos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Impermeabilizacao e cobertura"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lajes impermeabilizadas, ralos, grelhas e calhas: limpeza trimestral e teste de estanqueidade anual",
+          "Telhado, rufos e pingadeiras: inspecao semestral, antes e depois do inverno",
+          "Reservatorios inferior e superior: limpeza e desinfeccao semestral (Vigilancia Sanitaria) e inspecao de impermeabilizacao anual"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Instalacoes hidraulicas e gas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caixas de gordura, esgoto e aguas pluviais: limpeza mensal a trimestral",
+          "Bombas de recalque e reuso: teste mensal e manutencao preventiva semestral",
+          "Instalacoes de gas (medidores, abrigo, ventilacao): inspecao anual por empresa habilitada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Instalacoes eletricas e SPDA"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quadro geral, disjuntores, DPS e aterramento: inspecao anual com termografia e medicao de resistencia",
+          "SPDA (para-raios): inspecao anual obrigatoria por engenheiro eletricista com ART",
+          "Iluminacao de emergencia e grupo gerador: teste mensal e manutencao semestral"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Incendio, elevadores e equipamentos mecanicos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Extintores, hidrantes, portas corta-fogo e central de alarme: inspecao mensal e recarga anual - base para renovacao do AVCB",
+          "Elevadores: manutencao mensal obrigatoria por empresa conservadora com ART",
+          "Portoes, interfones, CFTV e bombas de incendio: teste mensal e revisao semestral"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No litoral, a fachada e o telhado sofrem o dobro: maresia corroi armaduras e selantes, e chuva de verao testa toda calha entupida. O plano que ignora o clima local nasce defasado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades de Navegantes que o plano precisa considerar"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia classe III/IV (NBR 6118): armaduras expostas corroem 2 a 4 vezes mais rapido que no interior. O plano deve encurtar prazos de fachada, esquadrias e estrutura",
+          "Solo arenoso e lencol freatico alto: recalques diferenciais aparecem como trincas em 45 graus. O plano deve prever nivelamento anual de pisos e leitura de fissuras",
+          "Vento de 60 a 80 km/h na orla: fixacao de telhas, guarda-corpos e esquadrias - inspecao semestral de chumbadores e vedacoes",
+          "Umidade e chuvas intensas de verao: calhas, ralos e bombas de drenagem entopem com areia e folhas - limpeza trimestral e desobstrucao antes da temporada",
+          "Temporada turistica: elevadores, bombas e geradores nao podem falhar em dezembro/janeiro. O plano concentra revisoes criticas em outubro/novembro"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como implantar o plano em 6 passos no seu condominio"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Vistoria inicial e inventario: engenheiro levanta todos os sistemas, idade, historico e documentacao (as built, manuais, AVCB, ARTs)",
+          "2. Elaboracao do plano NBR 5674: matriz com sistema, atividade, periodicidade, responsavel e custo estimado, com ART",
+          "3. Aprovacao em assembleia: apresentacao da previsao orcamentaria e do cronograma anual. Sem aprovacao, o plano nao sai do papel",
+          "4. Implantacao e treinamento: zelador e equipe treinados, fichas impressas ou em app, quadro de gestao a vista na sala tecnica",
+          "5. Registros e livro de manutencao: toda atividade lancada com data, foto, nota fiscal e assinatura. E a prova de diligencia do sindico",
+          "6. Inspecao predial anual (NBR 16747): engenheiro verifica a eficacia do plano, classifica anomalias (critica, regular, minima) e atualiza periodicidades"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa manter e quanto custa nao manter?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plano NBR 5674 para condominio medio (40 a 80 unidades, 5 a 10 anos): R$ 2.500 a R$ 6.000 para elaboracao com ART, conforme porte e documentacao existente",
+          "Inspecao predial anual (NBR 16747): R$ 1.500 a R$ 4.000 para o mesmo porte",
+          "Custo anual de manutencao preventiva: em geral 1% a 2% do valor de reposicao do predio ao ano. Para um predio de R$ 10 milhoes, R$ 100 mil a R$ 200 mil/ano - diluido na taxa condominial",
+          "Custo da omissao: recuperacao de fachada por corrosao avanca de R$ 180/m2 para R$ 450/m2; troca de bomba queimada por falta de teste custa 5x a manutencao; acao por desplacamento de fachada pode ultrapassar R$ 100 mil em indenizacao"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Manutencao preventiva nao e gasto do condominio: e o unico investimento que impede a desvalorizacao do patrimonio."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist rapido para o sindico: seu condominio esta em dia?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "[ ] Possui plano de manutencao NBR 5674 atualizado e com ART?",
+          "[ ] Livro de manutencao com registros dos ultimos 12 meses?",
+          "[ ] Calhas, ralos e reservatorios limpos nos ultimos 3 a 6 meses com nota fiscal?",
+          "[ ] Fachada e impermeabilizacao inspecionadas no ultimo semestre com relatorio fotográfico?",
+          "[ ] SPDA, eletrica e iluminacao de emergencia inspecionados no ultimo ano com laudo?",
+          "[ ] Elevadores com contrato de manutencao mensal vigente?",
+          "[ ] AVCB dos Bombeiros dentro da validade?",
+          "[ ] Inspecao predial NBR 16747 realizada no ultimo ano?",
+          "[ ] Previsao orcamentaria do proximo ano contempla o plano?",
+          "[ ] Garantias da construtora mapeadas e condicionadas a manutencao comprovada?"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que anulam a garantia e geram processo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fazer manutencao sem registro: sem ficha, foto e nota, a Justica considera que nao houve manutencao",
+          "Trocar procedimento de manual por improviso: pintar fachada com tinta nao especificada ou limpar reservatorio sem empresa habilitada anula garantia do sistema",
+          "Ignorar periodicidade por economia: adiar pintura de fachada no litoral de 3 para 8 anos gera corrosao de armaduras e desplacamento - o custo multiplica por 3",
+          "Contratar sem ART para sistemas criticos: SPDA, gas, estrutural e impermeabilizacao exigem empresa com engenheiro responsavel",
+          "Nao atualizar o plano apos reforma ou troca de equipamento: o plano desatualizado deixa o novo sistema sem manutencao prevista"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre plano de manutencao predial em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Todo predio precisa ter plano, mesmo antigo sem manual da construtora? Sim. A NBR 5674 se aplica a edificacoes existentes. O engenheiro faz o levantamento as built e cria o plano a partir da realidade do predio."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "De quanto em quanto tempo o plano deve ser revisado? Pelo menos anualmente, apos a inspecao predial (NBR 16747) ou sempre que houver reforma, troca de equipamento ou anomalia relevante."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O plano precisa ser aprovado em assembleia? Sim, para ter forca orcamentaria e resguardar o sindico. A assembleia aprova o cronograma e a previsao de custos; a execucao fica com a gestao."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso fazer o plano internamente com o zelador? O zelador e essencial na execucao, mas a elaboracao e a responsabilidade tecnica sao de engenheiro ou arquiteto habilitado com ART/RRT. Sem isso, o plano nao tem validade pericial."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Plano de manutencao e o mesmo que plano de reformas? Nao. O plano de manutencao conserva o que existe. Reforma ou retrofit que altera sistema precisa de projeto especifico e atualizacao do plano."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Plano de manutencao predial com a Rege Engenharia em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Rege Engenharia elabora e implanta planos de manutencao predial pela NBR 5674 para condominios, empresas e predios publicos em Navegantes e em todo o litoral norte catarinense. Fazemos a vistoria inicial, o inventario completo de sistemas, a matriz de periodicidades com custos, o treinamento da equipe e o livro de manutencao, com ART no CREA-SC. Tambem realizamos a inspecao predial anual pela NBR 16747, a atualizacao do plano e o acompanhamento da execucao."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conhecemos a agressividade da maresia, o comportamento do solo arenoso e a rotina de condominios da orla - e traduzimos isso em periodicidades que funcionam na pratica, nao apenas no papel. Se o seu condominio esta sem plano, com plano desatualizado ou com manutencoes sem registro, fale com nossa equipe. Vamos transformar a manutencao do seu predio de custo imprevisivel em rotina controlada, com garantia preservada e patrimonio valorizado."
+      }
+    }
+  ]
+}

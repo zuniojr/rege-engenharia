@@ -1,0 +1,324 @@
+{
+  "slug": "emissao-habite-se-navegantes",
+  "title": "Emissão de Habite-Se em Navegantes: O Que Exigir do Engenheiro e Arquiteto",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Engenheiro e arquiteto em vistoria técnica para emissão de habite-se em Navegantes SC, com ART no CREA-SC e RRT no CAU.",
+  "excerpt": "O habite-se é o documento que libera sua obra para uso e valoriza seu imóvel em Navegantes. Saiba o que é, quem emite, quais os documentos exigidos e, principalmente, o que exigir do engenheiro e do arquiteto para não ter surpresas na Prefeitura.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A obra terminou, o imóvel está pronto, mas falta um papel que pode travar tudo: o habite-se. Em Navegantes, como em qualquer cidade brasileira, a edificação só pode ser ocupada e utilizada regularmente após a emissão do certificado de conclusão pelo município. Sem ele, a casa não pode ser habitada, o imóvel não se vende com segurança, o financiamento trava e os órgãos de utilidade pública podem recusar a ligação definitiva de água, esgoto e energia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra como funciona a emissão de habite-se em Navegantes, o que a Prefeitura exige e, acima de tudo, o que você deve exigir do engenheiro civil e do arquiteto responsáveis — desde a ART e o RRT até a compatibilização dos projetos e a vistoria final — para que o documento saia sem retrabalho, multa ou atraso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o habite-se e por que ele existe"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O habite-se — chamado tecnicamente de certidão de conclusão de obra ou auto de conclusão — é o documento emitido pela Prefeitura de Navegantes que atesta que a edificação foi construída conforme o projeto aprovado e atende às exigências de segurança, estrutura, incêndio e saneamento. Ele é a \"carteira de identidade\" da obra perante o município."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—0 a prova de que a construção seguiu o alvará e o projeto aprovado",
+          "—0 o que libera a ocupação e o uso do imóvel de forma legal",
+          "—0 a base para a averbação da construção na matrícula do imóvel (Cartório de Registro de Imóveis)",
+          "—0 requisito para ligações definitivas de água, esgoto e energia e para financiamento bancário",
+          "—0 o que garante ao comprador que o imóvel é regular e seguro"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O habite-se não é burocracia — é o documento que transforma uma obra em patrimônio regular, habitável e vendável."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o habite-se é obrigatório (e o que ele destrava)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Lei Federal nº 4.591/1964 e as normas de edificações de Navegantes condicionam o uso da edificação à sua conclusão regular. Na prática, o habite-se destrava uma cadeia de etapas que só acontecem depois dele:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ocupação legal — morar, alugar ou usar o imóvel sem habite-se é infração urbanística e pode gerar embargo e multa",
+          "Averbação no cartório — a nova área construída só entra para a matrícula do imóvel após o habite-se, reconhecendo o patrimônio no papel",
+          "Financiamento e FGTS — bancos exigem o habite-se (ou protocolo de regularização) para liberar crédito de construção ou compra",
+          "Ligações definitivas — CASAN (água e esgoto) e Celesc (energia) em geral exigem a conclusão regular para a ligação definitiva, e não apenas a provisória",
+          "Valor de revenda — imóvel com habite-se vale mais e vende mais rápido, porque o comprador herda um bem documentado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem emite o habite-se em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A competência é da Prefeitura de Navegantes, normalmente através da Secretaria de Planejamento, Urbanismo ou do setor de Fiscalização de Obras. O fluxo costuma ser: a equipe técnica do município faz a vistoria de conclusão, confere se a obra bate com o projeto aprovado e com as exigências de bombeiros e saneamento, e, se estiver tudo em dia, emite a certidão. Antes disso, porém, outros órgãos precisam dar o aval."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Corpo de Bombeiros de SC — emissão do AVCB (Auto de Vistoria do Corpo de Bombeiros) ou do CLCB para edificações que exijam aprovação de prevenção a incêndio",
+          "CASAN — comprovação de ligação de água e esgoto conforme o projeto sanitário aprovado",
+          "Celesc — comprovação de ligação de energia elétrica conforme o projeto elétrico aprovado",
+          "INSS — em muitos casos, a regularidade da obra perante o INSS (GFIP/acc e a respectiva certidão) integra o processo de conclusão",
+          "CREA-SC e CAU — registros das responsabilidades técnicas (ART do engenheiro e RRT do arquiteto) devem estar ativos e vinculados à obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O detalhamento exato dos documentos e da ordem de apresentação varia conforme o porte e o uso da edificação. Por isso, o estudo de viabilidade e o acompanhamento junto ao município desde o projeto são o que evitam surpresas na hora da vistoria final."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Habite-se provisório e definitivo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em algumas situações, a Prefeitura de Navegantes pode expedir um habite-se provisório (ou conclusão parcial) quando faltam apenas ajustes menores ou condicionantes de órgãos auxiliares, reservando a conclusão definitiva para depois de cumpridas essas etapas. Para imóveis residenciais comuns, a regra é buscar a conclusão definitiva de uma vez, apresentando toda a documentação antes da vistoria. O ponto importante: provisório algum substitui a regularização completa, e a obra irregular continua passível de autuação até o documento definitivo sair."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel do engenheiro e do arquiteto nesse processo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muita gente acha que o habite-se é \"o papel do empreiteiro\". Não é. Ele é o resultado do trabalho técnico de dois profissionais com responsabilidades distintas e complementares, ambos com registro em conselho:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro civil (CREA-SC) — responde pelo projeto estrutural, fundações, instalações e pela execução da obra; sua ART vincula tecnicamente toda a obra ao profissional",
+          "Arquiteto e urbanista (CAU/BR) — responde pelo projeto arquitetônico, o partido e os ambientes da edificação; seu RRT vincula o desenho aprovado à obra executada",
+          "Compatibilização — quando a obra tem relevância estrutural, os dois atuam juntos: o arquiteto desenha, o engenheiro calcula e ambos garantem que o que foi aprovado é o que foi construído"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Sem ART do engenheiro e RRT do arquiteto ativos, a Prefeitura nem abre o processo de habite-se. Responsabilidade técnica não é formalidade — é a porta de entrada do documento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que exigir do engenheiro civil"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro é o profissional que sustenta a regularidade técnica da obra. Antes de contratar e durante a execução, exija dele:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro ativo no CREA-SC — confirme o número de registro no site do conselho; engenheiro sem registro não pode emitir ART",
+          "ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada no CREA e paga antes de qualquer serviço; sem ART não há aprovação nem habite-se",
+          "Projeto estrutural assinado — cálculo de fundações, vigas, lajes e pilares, compatível com o solo de Navegantes (arenoso, com lençol freático elevado)",
+          "Projetos complementares — hidráulico, elétrico, de fundações e de contenção, todos compatibilizados com o arquitetônico",
+          "Acompanhamento de obra — visitas e medições registradas, com laudos que comprovem que a execução seguiu o projeto",
+          "ART de conclusão — ao final, o engenheiro deve emitir a ART de execução de obra concluída, vinculada à edificação",
+          "Suporte na vistoria — o engenheiro deve acompanhar (ou autorizar tecnicamente) a vistoria de conclusão na Prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que exigir do arquiteto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O arquiteto é quem garante que o que foi aprovado na Prefeitura é exatamente o que foi construído. Exija:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro ativo no CAU/BR — a regularidade do arquiteto é verificável no site do conselho de arquitetura",
+          "RRT emitido — o Registro de Responsabilidade Técnica substitui a antiga \"anotação\" e vincula o arquiteto ao projeto aprovado e à obra",
+          "Projeto arquitetônico aprovado — plantas, cortes e fachadas que atendam ao código de obras e ao zoneamento de Navegantes (recuos, gabarito, taxa de ocupação)",
+          "Compatibilização com a engenharia — o desenho deve casar com a estrutura e as instalações, sem divergência entre o aprovado e o executado",
+          "Atualização de projeto — se houve mudança na obra, o arquiteto deve registrar a alteração e obter a aprovação da alteração antes da conclusão",
+          "Prontuário para vistoria — o arquiteto deve entregar o conjunto de documentos (planta de situação, memorial, quadro de áreas) que a Prefeitura confere na vistoria"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos que a Prefeitura de Navegantes vai exigir"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Embora a lista final seja definida pelo município conforme o caso, este é o conjunto típico apresentado para a emissão do habite-se:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Requerimento de conclusão de obra assinado pelo proprietário e pelos responsáveis técnicos",
+          "Cópia do alvará de construção e do projeto aprovado",
+          "ART do engenheiro civil (execução e, quando aplicável, conclusão) registrada no CREA-SC",
+          "RRT do arquiteto registrado no CAU/BR",
+          "AVCB ou CLCB do Corpo de Bombeiros de SC (quando exigível)",
+          "Comprovação de ligação de água e esgoto (CASAN) e de energia (Celesc)",
+          "Certidão de regularidade do INSS da obra, quando aplicável",
+          "Memorial descritivo, quadro de áreas e planta de situação atualizados"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que atrasam (ou impedem) o habite-se"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Obra diferente do projeto aprovado — qualquer alteração não autorizada gera exigência e retrabalho na vistoria",
+          "ART ou RRT faltando — sem as responsabilidades técnicas ativas, o processo nem inicia",
+          "Pendência de bombeiros ou saneamento — a falta do AVCB ou da ligação da CASAN/Celesc trava a conclusão",
+          "Recuos e gabarito descumpridos — a edificação fora do zoneamento é embargada e precisa de regularização específica",
+          "Impermeabilização e acessibilidade fora da norma — itens cada vez mais exigidos nas vistorias e que geram retorno de processo",
+          "Aprovação de alteração em cima da obra pronta — mudar o projeto depois de construir é mais caro e demorado que fazê-lo antes"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A maior causa de habite-se negado em Navegantes não é a burocracia — é a divergência entre o que foi aprovado e o que foi construído."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist: o que pedir antes de assinar o contrato"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro ativo no CREA-SC (engenheiro) e no CAU/BR (arquiteto)",
+          "ART e RRT previstos em contrato, com emissão antes do início e na conclusão",
+          "Escopo claro: projeto aprovado, execução e acompanhamento até o habite-se",
+          "Responsabilidade pela aprovação e pela vistoria de conclusão na Prefeitura",
+          "Prazo e custo do processo de regularização inclusos ou explicitados",
+          "Garantia de que o executado será idêntico ao aprovado, evitando retrabalho"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre habite-se em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso ocupar o imóvel sem habite-se? Não. A ocupação sem o certificado de conclusão é irregular e sujeita a embargo e multa pela Prefeitura. O imóvel também fica indisponível para financiamento e para a averbação no cartório."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem paga o habite-se, o engenheiro ou o proprietário? A taxa de expediente é do proprietário, mas a responsabilidade de entregar a obra regular e os documentos técnicos é dos profissiones contratados. Por isso o contrato deve deixar claro quem conduz o processo de conclusão."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro e o arquiteto podem ser os mesmos da aprovação? Sim. Na maioria dos casos, os responsáveis pelo projeto são os mesmos pela execução e pela conclusão, o que evita divergências entre aprovado e executado. O importante é que as ARTs e RRTs estejam ativas e vinculadas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "E se a obra já foi entregue sem habite-se? —0 possível regularizar. O caminho é contratar engenheiro e arquiteto para levantar a edificação, emitir as responsabilidades técnicas, adequar o que divergir do projeto e protocolar a conclusão. Quanto mais tempo passa, maior o risco de autuação e mais cara a regularização."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo demora a emissão? Depende do volume de processos na Prefeitura e da organização da documentação. Obras com projeto aprovado, responsabilidades técnicas ativas e os órgãos auxiliares em dia costumam concluir mais rápido. O atraso quase sempre vem de documento faltando, não do município."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Emissão de habite-se com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos, execução e regularização de obras. Cuidamos de toda a cadeia do habite-se: projeto arquitetônico e estrutural aprovados, ART no CREA-SC e RRT no CAU/BR ativos, compatibilização dos projetos, acompanhamento de obra e condução do processo de conclusão junto à Prefeitura de Navegantes."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está construindo, reformando ou precisa regularizar uma obra sem habite-se em Navegantes, fale com nossa equipe. A partir do primeiro contato, mostramos o que é exigido, organizamos a documentação e conduzimos sua obra até o certificado de conclusão — para que seu imóvel seja seguro, legal e valorizado desde o primeiro dia de uso."
+      }
+    }
+  ]
+}

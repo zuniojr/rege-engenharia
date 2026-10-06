@@ -1,0 +1,235 @@
+{
+  "slug": "patologias-construtivas",
+  "title": "Patologias Construtivas: Guia Completo dos Problemas nas Edificações",
+  "tag": "ENGENHARIA",
+  "image": "/images/regeengenharia.png",
+  "imageAlt": "Engenheiro realizando vistoria técnica para diagnóstico de patologias construtivas em uma edificação.",
+  "excerpt": "Trincas, infiltrações, corrosão, descolamentos: as patologias construtivas têm causas e tratamentos próprios. Entenda os tipos, as causas e como é feito o diagnóstico técnico profissional.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda edificação, como todo organismo vivo, adoece. Uma trinca que nasce perto da janela, uma mancha de umidade que volta mesmo depois da pintura, um pedaço de reboco que se desprende da parede — tudo isso são manifestações de patologias construtivas: problemas que, quando ignorados, avançam silenciosamente e cobram a conta em segurança, conforto e valor do imóvel."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A boa notícia é que a patologia das construções é uma ciência: cada sintoma tem causas identificáveis e tratamentos definidos. Neste guia, você vai conhecer os principais tipos de patologias, entender o que cada uma significa e descobrir como o diagnóstico técnico profissional evita que um problema pequeno se transforme em uma obra cara."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que são patologias construtivas?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Patologia construtiva é qualquer manifestação de dano, defeito ou deterioração em uma edificação — desde uma fissura superficial até um comprometimento estrutural grave. O estudo da patologia segue a lógica da medicina: identificar os sintomas, diagnosticar as causas, avaliar as consequências e prescrever o tratamento correto."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Esse rigor é essencial porque sintomas parecidos podem ter causas completamente diferentes: uma trinca pode nascer de retração da argamassa, de recalque da fundação ou de sobrecarga estrutural — e cada caso exige uma solução distinta. Tratar sem diagnóstico é como tomar remédio sem saber a doença."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como as patologias são classificadas?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As patologias construtivas são classificadas de várias formas, e cada classificação ajuda a entender a gravidade e a urgência do caso:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quanto à natureza — patologias estéticas (comprometem a aparência), funcionais (prejudicam o uso) e estruturais (afetam a segurança)",
+          "Quanto à origem — erros de projeto, de execução, de materiais, de uso e de manutenção, ou agentes externos (umidade, clima, maresia)",
+          "Quanto ao momento — manifestações aparentes, visíveis desde cedo, e ocultas, que só aparecem com o tempo"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A classificação mais importante para o proprietário é a natureza: patologias estéticas pedem atenção, funcionais pedem planejamento e estruturais pedem urgência."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As patologias mais comuns nas edificações"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fissuras, trincas e rachaduras — os problemas mais frequentes, com causas que vão da retração de materiais ao recalque de fundação",
+          "Infiltrações e umidade — água entrando por coberturas, fachadas, áreas molhadas e tubulações, com danos que se espalham por toda a edificação",
+          "Corrosão de armaduras — ferragens atacadas por cloretos (maresia) ou carbonatação, expandindo e estourando o concreto",
+          "Descolamento de revestimentos — azulejos, cerâmicas e rebocos que se soltam por falha de execução ou de aderência",
+          "Eflorescência — manchas esbranquiçadas que aparecem em alvenarias e pisos pela migração de sais com a umidade",
+          "Mofo e bolor — proliferação de fungos em ambientes úmidos e mal ventilados, com impacto na saúde dos moradores",
+          "Falhas de impermeabilização — pontos críticos em banheiros, cozinhas, lajes e subsolos que geram vazamentos recorrentes",
+          "Recalques de fundação — afundamentos diferenciais do terreno que se manifestam em trincas inclinadas e desníveis"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Fissura, trinca ou rachadura: qual é a diferença?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nem toda abertura na parede é igual. A classificação mais utilizada na engenharia divide os problemas por abertura: fissuras são aberturas muito finas (até 0,5 mm), trincas têm abertura média (de 0,5 a 1,5 mm) e rachaduras são aberturas maiores (acima de 1,5 mm), com risco de atravessar o elemento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além da abertura, o que importa é o comportamento: fissuras que estabilizam têm tratamento simples, enquanto aberturas que crescem, acompanham ângulos de 45 graus ou atravessam paredes inteiras indicam movimento estrutural e exigem avaliação técnica imediata."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na patologia das construções, o sintoma nunca é o problema: é apenas o cartão de visita da causa. Por isso, quem corrige só o sintoma, trata duas vezes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As principais causas das patologias construtivas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As causas das patologias podem ser agrupadas em cinco grandes frentes — e conhecer essas origens ajuda a preveni-las desde o projeto:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Erros de projeto — detalhamentos insuficientes, impermeabilizações mal especificadas, estruturas subdimensionadas",
+          "Erros de execução — cobrimentos inadequados, concretagem deficiente, revestimentos sem aderência, instalações mal feitas",
+          "Materiais inadequados — produtos de baixa qualidade, incompatíveis com o uso ou com o ambiente (maresia, por exemplo)",
+          "Uso e manutenção inadequados — ausência de manutenção, modificações estruturais sem projeto, sobrecargas",
+          "Agentes externos — umidade, chuvas, exposição solar, poluição e agressividade do ambiente litorâneo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é feito o diagnóstico técnico das patologias?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O diagnóstico profissional segue um método definido — o mesmo que embasa laudos técnicos aceitos por seguradoras, construtoras e pela Justiça:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria técnica — inspeção minuciosa da edificação, com mapeamento das manifestações e registro fotográfico",
+          "Análise do histórico — levantamento de projetos, datas de construção, manutenções e mudanças de uso",
+          "Ensaios e investigações — medições de umidade, esclerometria, pacometria, ensaios de carbonatação e abertura de pontos para inspeção",
+          "Monitoramento — acompanhamento de fissuras com fissurômetros para verificar se a abertura está ativa",
+          "Laudo técnico — documento com causas, consequências, classificação e recomendações de tratamento, com emissão de ART"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Prevenir é sempre mais barato que corrigir"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A maioria das patologias graves começou como um problema pequeno que poderia ter sido tratado por uma fração do custo final. A manutenção preventiva — prevista na NBR 5674 — e a inspeção predial periódica, realizada conforme a NBR 16747, são as ferramentas que identificam os problemas na fase certa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral, onde a maresia acelera a deterioração, essa prevenção é ainda mais importante: a cada ano de protelação, a corrosão avança, as infiltrações se alastram e o custo da correção cresce."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre patologias construtivas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda trinca é problema estrutural? Não. Muitas fissuras são superficiais e inofensivas — retração de argamassa, movimentação térmica. Mas só um profissional consegue distinguir uma fissura estética de um sintoma de problema grave. Quando em dúvida, vistoria técnica."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso simplesmente pintar por cima da trinca? Não. Pintar sobre uma patologia ativa é esconder o problema, não tratá-lo: a abertura continua se movendo, a água continua entrando e o dano continua avançando. O tratamento correto exige diagnóstico e correção da causa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa um laudo de patologias construtivas? O valor varia conforme o porte da edificação e a quantidade de ensaios necessários. —0 um investimento pequeno perto do que define: se o problema é estético, de manutenção ou estrutural — e quanto custará corrigir cada cenário."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Patologias aparecem por causa da idade da construção? Não necessariamente. Existem edifícios com décadas em perfeito estado e construções novas com patologias graves. O que determina a saúde da edificação é a qualidade de projeto, execução, uso e manutenção — não a idade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A construtora responde por patologias na obra entregue? Sim, dentro dos prazos de garantia — que incluem a garantia legal e o dever de solidez da estrutura por pelo menos cinco anos. Vícios construtivos podem gerar obrigações de reparo e, em disputas, a prova técnica é o laudo de patologias."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Diagnóstico de patologias com engenharia especializada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia tem sede em Navegantes e atende todo o litoral catarinense, com atuação em engenharia diagnóstica: vistorias técnicas, inspeção predial, laudos de patologias, recuperação estrutural e perícias de engenharia. Nossa equipe investiga causas, dimensiona soluções e emite documentos técnicos com validade legal."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a sua edificação apresenta trincas, infiltrações ou qualquer manifestação que não deveria estar lá, não espere o problema avançar. Fale com a nossa equipe e receba um diagnóstico claro, com causas identificadas e soluções dimensionadas — para proteger o seu patrimônio."
+      }
+    }
+  ]
+}

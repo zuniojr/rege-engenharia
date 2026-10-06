@@ -1,0 +1,90 @@
+{
+  "slug": "averbacao-de-imovel",
+  "title": "Averbação de imóvel: O que é e por que você deve fazer?",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Averbação e Documentos",
+  "excerpt": "Entenda por que manter o registro da construção do seu imóvel atualizado junto ao cartório é essencial para venda, financiamento e partilhas.",
+  "readTime": "7 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A averbação é o ato de registrar oficialmente no cartório de registro de imóveis qualquer alteração feita na propriedade. Isso inclui construções, reformas, ampliações, demolições e até mudanças de estado civil do proprietário. Apesar de ser obrigatória, muitos proprietários ainda desconhecem sua importância."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a averbação é tão importante?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sem a averbação, seu imóvel existe fisicamente, mas não juridicamente. Isso significa que qualquer construção realizada sem o devido registro no cartório simplesmente não existe para efeitos legais. As consequências podem ser graves e impactar diretamente seu patrimônio."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Impossibilidade de venda formal — compradores não conseguem financiar imóveis não averbados",
+          "Desvalorização do patrimônio — imóveis irregulares valem significativamente menos no mercado",
+          "Problemas em inventários e partilhas — a área construída não consta na matrícula",
+          "Multas e notificações da prefeitura — órgãos fiscalizadores podem autuar o proprietário",
+          "Dificuldade para obter financiamento — bancos exigem documentação regularizada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando é necessário averbar?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A averbação deve ser realizada sempre que houver qualquer alteração no imóvel: uma construção nova, uma ampliação, uma reforma que altere a área construída, ou até mesmo uma demolição. Também é necessária quando há mudança no estado civil do proprietário ou alteração no nome da rua."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como funciona o processo?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O primeiro passo é contratar um engenheiro ou arquiteto responsável técnico que irá elaborar a planta da edificação, o memorial descritivo e a ART (Anotação de Responsabilidade Técnica). Com essa documentação, solicita-se o Habite-se junto à prefeitura. Após a emissão do Habite-se, apresenta-se toda a documentação ao cartório de registro de imóveis para a averbação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa averbar um imóvel?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os custos envolvem honorários do profissional responsável técnico, taxas da prefeitura para o Habite-se e emolumentos cartorários. O valor varia conforme o município e a complexidade do imóvel, mas é um investimento que se paga ao valorizar e regularizar seu patrimônio."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Um imóvel regularizado vale mais, vende mais rápido e transmite segurança jurídica para toda a família. Não deixe para depois o que pode proteger seu patrimônio hoje."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia oferece serviço completo de regularização imobiliária, desde o levantamento da edificação até a averbação no cartório. Entre em contato para conhecer nossas condições."
+      }
+    }
+  ]
+}

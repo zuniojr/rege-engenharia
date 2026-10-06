@@ -1,0 +1,196 @@
+{
+  "slug": "projeto-eletrico-industrial",
+  "title": "Projeto Elétrico Industrial: O que é, o que inclui e por que sua Indústria em SC Precisa",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Engenheiro eletricista analisando o projeto elétrico de um galpão industrial no litoral de Santa Catarina, com quadros de distribuição e alimentadores.",
+  "excerpt": "O projeto elétrico industrial dimensiona e organiza toda a instalação elétrica da sua indústria, do quadro à carga. Entenda o que ele inclui, quem aprova, por que evita multas e retrabalho e como ele reduz a conta de energia no litoral.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma indústria, um galpão ou um grande comércio não funciona com \"luz passada por cima\". Por trás de cada máquina, do ar-condicionado, do sistema de exaustão e da iluminação existe um desenho que decide quanto de energia entra, por onde ela passa e como ela é protegida: o projeto elétrico industrial. Mais do que um papel para a concessionária, ele é o documento que garante segurança, eficiência e continuidade de operação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é o projeto elétrico industrial, o que ele inclui, quem aprova, por que ele é obrigatório e como um projeto bem feito reduz custos e evita paradas no litoral de Santa Catarina."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto elétrico industrial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico industrial é o conjunto de memoriais, plantas e cálculos que define a instalação elétrica de um estabelecimento de uso coletivo ou industrial. Ele levanta todas as cargas (máquinas, motores, climatização, iluminação), dimensiona os cabos, disjuntores e quadros, e estabelece as proteções contra sobrecarga, curto-circuito, descarga atmosférica e falta de energia. Sem ele, a instalação é feita \"no olho\" — e a conta vem depois, em multa, incêndio ou equipamento queimado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o projeto elétrico industrial inclui"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Memorial descritivo e de cálculo — descrição dos equipamentos e dos cálculos de carga, queda de tensão e curto-circuito",
+          "Diagrama unifilar — o \"mapa\" da distribuição da energia, da entrada à última carga",
+          "Quadros de distribuição — dimensionamento de quadros, disjuntores, DR e barramentos",
+          "Dimensionamento de cabos e eletrodutos — seção dos condutores conforme a corrente e a distância",
+          "Aterramento e equipotencialização — proteção contra choque e descarga",
+          "SPDA (para-raios) — proteção da edificação contra descarga atmosférica",
+          "Iluminação e tomadas — pontos, níveis de luminância e circuitos",
+          "Automação e comando — partidas de motores, CLP e integração de máquinas",
+          "Grupo gerador e transferência — reserva de energia para processos críticos",
+          "Conformidade NR-10 — exigências de segurança em instalações elétricas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o projeto é obrigatório e quem aprova"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ART do engenheiro eletricista — a Anotação de Responsabilidade Técnica é obrigatória e vincula o profissional à obra",
+          "Celesc — a concessionaria exige o projeto para ligação, ampliação ou adequação da rede",
+          "Corpo de Bombeiros (CBMSC) — o AVCB exige instalação elétrica regular e compatível com a prevenção de incêndio",
+          "Vigilância Sanitária e órgãos específicos — indústrias de alimento, saúde e outras têm exigências próprias de energia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Benefícios de um projeto elétrico bem feito"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Segurança — reduz risco de incêndio, choque e queima de equipamentos",
+          "Eficiência energética — cargas bem dimensionadas e fator de potência corrigido reduzem a conta",
+          "Continuidade — quadros e proteções bem projetados evitam paradas por falta de energia",
+          "Aprovação rápida — projeto completo é aprovado pela Celesc e pelos bombeiros sem volta e meia",
+          "Expansão facilitada — o desenho pronto mostra onde e como crescer a instalação",
+          "Valorização — indústria regular tem valor maior na venda, no financiamento e no seguro"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Projeto elétrico não é despesa de aprovação: é o seguro da sua operação. A instalação feita sem projeto é a que para na primeira sobrecarga — e a que queima o que não deveria."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico e eficiência no litoral de SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral norte catarinense, o projeto elétrico industrial ganha variáveis locais. A maresia acelera a corrosão de quadros e conectores, exigindo materiais e grau de proteção adequados. O verão força ar-condicionado e exaustão ao máximo, disparando a demanda. E a tarifa da Celesc premia quem corrige o fator de potência e gere bem a carga. Um projeto feito para o litoral especifica materiais que resistem ao ambiente e dimensiona a demanda para não pagar por energia ociosa."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Materiais para maresia — quadros e conectores com proteção anticorrosiva",
+          "Gestão de demanda — dimensionamento para o pico de verão sem excesso contratado",
+          "Fator de potência — correção para evitar multa da concessionária",
+          "Gerador integrado — transferência automática para processos que não podem parar"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O projeto elétrico industrial precisa de ART?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A ART do engenheiro eletricista é obrigatória para a elaboração e para a execução do projeto elétrico. Sem ART, a Celesc não libera a ligação e o Corpo de Bombeiros não emite o AVCB."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual a diferença entre projeto elétrico residencial e industrial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A lógica é a mesma, mas a escala muda. O industrial lida com cargas muito maiores, motores, automação, grupo gerador, SPDA e exigências de órgãos como Celesc, bombeiros e vigilância sanitária. Por isso exige cálculo de curto-circuito, coordenação de proteções e estudo de demanda, ausentes na residência comum."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O projeto evita multa da Celesc?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ele reduz drasticamente o risco. A concessionária autua instalações irregulares, com fator de potência baixo ou ligação clandestina. O projeto regular, com ART e medição correta, é a base para uma ligação sem autuação."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa um projeto elétrico industrial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor varia com a área, o número de cargas e a complexidade da automação. Pequenos galpões têm projeto acessível; indústrias com automação e gerador exigem estudo mais detalhado. Em qualquer escala, o custo do projeto é uma fração do custo de uma parada, de um incêndio ou de uma multa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico industrial é o documento que transforma energia em operação segura, eficiente e legal. Ele dimensiona cargas, protege a instalação, aprova a ligação e sustenta o AVCB — e, no litoral de Santa Catarina, ainda protege os equipamentos da maresia e da demanda de verão."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai abrir, ampliar ou regularizar uma indústria, galpão ou comércio em Navegantes e no litoral norte catarinense, fale com a equipe técnica da Regê Engenharia. Elaboramos o projeto elétrico industrial completo — com ART, conformidade NR-10, integração com Celesc e Corpo de Bombeiros — para que sua operação ligue com segurança, eficiência e tranquilidade."
+      }
+    }
+  ]
+}

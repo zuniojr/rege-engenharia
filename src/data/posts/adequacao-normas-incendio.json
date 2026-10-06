@@ -1,0 +1,193 @@
+{
+  "slug": "adequacao-normas-incendio",
+  "tag": "SEGURANÇA CONTRA INCÊNDIO",
+  "image": "/images/adequacao-normas-incendio/image.avif",
+  "imageAlt": "Engenheiro realizando adequação às normas de incêndio em edificação comercial no litoral de Santa Catarina, com extintores, sinalização e rotas de fuga.",
+  "excerpt": "A adequação às normas de incêndio é o caminho para regularizar imóveis que não foram projetados conforme as exigências do Corpo de Bombeiros. Entenda o que ela envolve, quando é exigida e como conduzir sem parar sua operação.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitos imóveis comerciais e industriais do litoral catarinense funcionam há anos sem a regularização contra incêndio — seja porque foram construídos antes das regras atuais, seja porque mudaram de uso sem nova análise. Na hora de renovar o alvará, financiar, segurar ou vender, aparece a exigência: o AVCB. E, sem adequação às normas de incêndio, ele não sai."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é a adequação às normas de incêndio, quando ela é exigida, o que costuma precisar de ajuste em uma edificação existente e como conduzir o processo junto ao Corpo de Bombeiros de Santa Catarina sem interromper a operação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é a adequação às normas de incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Adequação às normas de incêndio é o conjunto de intervenções técnicas que coloca uma edificação existente em conformidade com as exigências de segurança contra incêndio e pânico do Corpo de Bombeiros Militar de Santa Catarina (CBMSC). Diferente do projeto novo, a adequação parte do que existe — planta, estrutura, instalações — e ajusta o que falta ou está fora de norma, com responsabilidade técnica e ART."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando a adequação é exigida"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Emissão ou renovação do AVCB — o certificado só é emitido para edificação conforme",
+          "Mudança de uso ou ocupação — loja que vira restaurante, galpão que vira comércio: a carga de incêndio muda e a análise também",
+          "Ampliação ou reforma — área maior pode elevar a exigência de sistemas",
+          "Autuação do Corpo de Bombeiros — notificação com prazo para regularizar",
+          "Exigência de seguradora, banco ou cliente — contrato, financiamento ou auditoria que pede o certificado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que normalmente precisa ser ajustado"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Extintores — tipo, capacidade, quantidade, posicionamento e recarga em dia",
+          "Sinalização de emergência — rotas de fuga, saídas e equipamentos sinalizados conforme norma",
+          "Iluminação de emergência — blocos autônomos cobrindo rotas de fuga e escadas",
+          "Rotas de fuga e saídas — larguras, travas e desobstrução dos caminhos de escape",
+          "Hidrantes e mangueiras — reserva técnica de incêndio, pressão e acessibilidade",
+          "Sprinklers e detecção — sistemas automáticos exigidos conforme carga incêndio e área",
+          "SPDA (para-raios) — proteção contra descargas atmosféricas quando aplicável",
+          "Plano de prevenção e brigada — documentação e treinamento de equipe nos casos exigidos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como funciona o processo de adequação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Diagnóstico técnico — vistoria na edificação comparando o existente com as exigências do CBMSC para a sua ocupação e área",
+          "Projeto de adequação (PPCI) — memorial, plantas e especificação das intervenções necessárias",
+          "Execução das medidas — instalação dos sistemas, sinalização e correções construtivas",
+          "Protocolo no CBMSC — entrega do projeto com ART e solicitação da vistoria",
+          "Vistoria e emissão do AVCB — verificação final e certificado válido pelo período definido"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Adequar antes da notificação é planejamento; adequar depois dela é correria com prazo curto, obra carregada de urgência e operação parada. O AVCB sempre chega — a diferença é se você escolhe quando."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Adequar sem parar a operação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral norte de SC, onde comércio, hotelaria e indústria vivem de temporada, parar para regularizar é o pior cenário. A boa notícia: a maioria das medidas de adequação é executada por etapas, fora do horário de funcionamento, com cronograma compatível com a operação. O diagnóstico inicial define prioridades — o que bloqueia o certificado e o que pode entrar em fase posterior — e permite negociar prazos realistas com o Corpo de Bombeiros."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Priorize o crítico — saídas de emergência, iluminação e sinalização vêm primeiro",
+          "Trabalhe por setores — adapte um ambiente por vez, mantendo o restante funcionando",
+          "Documente tudo — relatórios e fotos das etapas aceleram a vistoria final",
+          "Planeje antes da temporada — execute a adequação na baixa estação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Todo imóvel precisa de AVCB?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Praticamente todas as edificações não residenciais — comércios, indústrias, hotéis, escolas, prestadores de serviço — estão sujeitas ao certificado do Corpo de Bombeiros, conforme a carga de incêndio e a área. Residências unifamiliares em geral dispensam, mas a classificação exata depende da análise da ocupação."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Meu imóvel é antigo. Preciso atender as normas novas?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Edificações antigas não ficam isentas: ao renovar o certificado, mudar o uso ou reformar, as exigências vigentes se aplicam. Existem critérios técnicos que consideram o que já existe, mas a decisão cabe ao Corpo de Bombeiros a partir do projeto apresentado — nunca ao proprietário."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa uma adequação às normas de incêndio?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende do tamanho do desvio: um imóvel com sinalização e extintores em dia pode precisar apenas de iluminação de emergência e projeto; outro pode exigir hidrantes, reserva de água e detecção. O diagnóstico técnico define o escopo real — e evita pagar por sistemas desnecessários."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Posso obter o Certificado Digital de Conformidade (CDC)?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em ocupações de menor risco e carga incêndio, o CBMSC permite o CDC, obtido de forma simplificada e online. Edificações maiores ou com mais risco exigem projeto técnico e vistoria presencial. A análise correta da sua ocupação define o caminho mais rápido — e mais barato."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A adequação às normas de incêndio transforma um passivo escondido em certificado na parede: protege pessoas, libera alvarás, seguros e financiamentos e tira o risco de autuação do caminho da sua operação. Feita com engenharia e planejamento, ela acontece sem parar o negócio."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o seu imóvel comercial, industrial ou de serviços em Navegantes e no litoral norte catarinense precisa de adequação às normas de incêndio, fale com a equipe técnica da Regê Engenharia. Fazemos o diagnóstico completo, o projeto de adequação com ART, a execução das medidas e a condução até o AVCB junto ao CBMSC — sem parar sua operação."
+      }
+    }
+  ]
+}

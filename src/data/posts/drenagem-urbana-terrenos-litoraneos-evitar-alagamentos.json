@@ -1,0 +1,432 @@
+{
+  "slug": "drenagem-urbana-terrenos-litoraneos-evitar-alagamentos",
+  "title": "Drenagem Urbana em Terrenos Litorâneos: Como Evitar Alagamentos na Sua Propriedade",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Sistema de drenagem pluvial em terreno litorâneo em Navegantes SC, com ruas alagadas após chuva forte demonstrando a importância de projeto de drenagem adequado para imóveis no litoral.",
+  "excerpt": "Terrenos no litoral enfrentam lençol freático alto, solo arenoso e chuvas intensas — uma combinação que causa alagamentos recorrentes quando a drenagem não é projetada corretamente. Saiba como diagnosticar riscos, soluções técnicas e o que a legislação exige para proteger a sua propriedade.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes recebe entre 1.500 e 2.000 mm de chuva por ano, com precipitações concentradas entre outubro e março — e a situação se repete em praticamente todo o litoral catarinense. Quando a chuva cai com intensidade sobre terrenos com lençol freático elevado e solo arenoso de alta permeabilidade, o resultado é imprevisível: alagamentos em calçadas, garagens, subsolos e áreas externas que parecem \"surgir do nada\". Mas eles não surgem do nada. Na maioria dos casos, a causa é uma drenagem ausente, mal dimensionada ou projetada sem considerar as condições específicas do terreno litorâneo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A drenagem urbana em terrenos litorâneos não é igual à drenagem de interior. O solo arenoso, o lençol freático alto, a proximidade do oceano e as chuvas torrenciais de verão criam um cenário onde as soluções convencionais — como uma simples sarjeta ou uma tubulação rasa — simplesmente não funcionam. Este artigo explica por que a drenagem no litoral é diferente, quais os erros mais comuns, como diagnosticar o risco na sua propriedade e quais soluções técnicas realmente resolvem o problema."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a drenagem no litoral é diferente"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O litoral catarinense tem três condicionantes que tornam a drenagem um desafio técnico específico:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lençol freático alto — em muitas áreas de Navegantes, o nível do água subterrânea está a apenas 1 a 2 metros da superfície; qualquer escavação ou rebaixamento de terreno enche de água rapidamente",
+          "Solo arenoso de alta permeabilidade — a água infiltra rápido, mas também sobe rápido quando o lençol freático está saturado; o solo não \"segura\" a água como o argiloso",
+          "Precipitação intensa e concentrada — tempestades de verão podem depositar 80 mm em uma hora, volume que sistema de drenagem dimensionado para interior não consegue absorver",
+          "Influência da maré — em áreas próximas à costa, a maré alta eleva o nível do lençol freático, reduzindo a capacidade de infiltração do sistema de drenagem",
+          "Topografia plana a suavemente ondulada — a maioria dos terrenos litorâneos tem declive reduzido, o que dificulta o esgravidade e exige bombeamento ou cotas de projeto muito precisas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando um engenheiro projeta drenagem para essas condições, ele precisa considerar o volume de chuva de projeto (que no litoral pode ser superior a 100 mm/h para retornos de 10 anos), a capacidade de infiltração do solo, a cota do lençol freático e a possibilidade de saturação do subsolo durante períodos de maré alta. Ignorar qualquer um desses fatores resulta em sistema que falha justamente quando mais precisa."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A drenagem no litoral não é sobre escoar água da chuva — é sobre gerenciar um sistema onde a água já está por todo lado, tanto acima quanto abaixo do solo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As causas dos alagamentos em propriedades litorâneas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os alagamentos em imóveis do litoral raramente são causados por um único fator. Na prática, são combinações de erro de projeto, condições do terreno e falta de manutenção que se acumulam ao longo do tempo:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ausência de projeto de drenagem — o imóvel foi construído sem sistema de drenagem pluvial projetado; a água da chuva escorre pelo terreno e encontra o caminho de menor resistência, que geralmente é a garagem ou o subsolo",
+          "Dimensionamento inadequado — o sistema existe, mas foi dimensionado para volumes de chuva menores que os que realmente ocorrem na região; o tubo entope ou a capacidade é insuficiente",
+          "Infiltração pelo lençol freático — diferente da drenagem de chuva, a água subterrânea sobe pelas paredes e pelo piso do subsolo quando o lençol freático está elevado; isso exige impermeabilização e drenagem perimetral, não apenas calhas e rufos",
+          "Vizinhança com obras — a escavação do terreno vizinho pode alterar o fluxo subterrâneo de água, direcionando-o para a sua propriedade",
+          "Obstrução do sistema — calhas entupidas, tubos entrecerrados, bueiros soterrados ou fossos de drenagem com sedimentos bloqueiam o fluxo e causam alagamento na primeira chuva forte",
+          "Reaterro inadequado — quando o nível do piso é elevado com reaterro sem compactação adequada, a água se acumula entre o reaterro e o solo natural, promovendo infiltração pelas paredes"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 1: Diagnostique o risco na sua propriedade"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de investir em qualquer solução de drenagem, é essencial entender qual é o problema real. Nem todo alagamento tem a mesma causa, e a solução errada não apenas não resolve como pode agravar a situação. O diagnóstico começa com a observação e avança com a análise técnica."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Mapeie os pontos de alagamento — fotografe e registre onde a água acumula, em que horários e com que intensidade de chuva; anote se o alagamento acontece apenas com chuva forte ou também com chuvas moderadas",
+          "Verifique o nível do lençol freático — faça uma simples verificação com uma broca de 1 a 2 metros no terreno; se encharcou, o lençol está alto e a drenagem precisa considerar pressão subterrânea",
+          "Analise a topografia — observe de onde a água vem e para onde ela vai; terrenos vizinhos mais altos podem estar direcionando escoamento para a sua propriedade",
+          "Inspecione o sistema existente — abra as caixas de inspeção, verifique se os tubos estão limpos, se as cotas de entrada e saída estão corretas e se há obstruções visíveis",
+          "Observe o comportamento da maré — em imóveis próximos à orla, verifique se o alagamento piora durante marés altas; isso indica influência direta do nível do oceano sobre o lençol freático",
+          "Contrate levantamento topográfico — um levantamento com GPS e nivelamento define as cotas exatas do terreno, das vias públicas e das caixas de drenagem, permitindo dimensionamento preciso"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O levantamento topográfico e a verificação do lençol freático são etapas que muitos proprietários pulam — mas são elas que definem se a solução será correta. Um engenheiro civil com experiência em terrenos litorâneos consegue interpretar esses dados e projetar uma drenagem que funcione de verdade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 2: Entenda os sistemas de drenagem disponíveis"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A drenagem em terrenos litorâneos geralmente combina dois objetivos: escoar a água da chuva que cai sobre a propriedade e impedir que a água subterrânea entre no imóvel. Cada situação exige um conjunto diferente de soluções:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Drenagem pluvial superficial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Responsável por coletar e escoar a água da chuva que cai sobre o terreno, telhados e vias de acesso. No litoral, onde a precipitação é intensa, o dimensionamento deve considerar volumes maiores que os padrões de interior."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sarjetas e guias — canais superficiais que direcionam a água para pontos de coleta; devem ter declive mínimo de 1% e capacidade para chuvas de 80 a 100 mm/h",
+          "Calhas e rufos — coletam água dos telhados e a direcionam para condutores verticais; no litoral, devem ser dimensionadas para volumes maiores e ter proteção contra detritos foliares e salinidade",
+          "Caixas de inspeção e passagem — permitem limpeza e manutenção do sistema; devem ser instaladas a cada 15 a 20 metros em linhas retas e em todas as mudanças de direção",
+          "Bueiros e grelhas — pontos de entrada da água na rede subterrânea; devem ser protegidos com grades para evitar obstrução por folhas e detritos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Drenagem subterrânea e perimetral"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando o lençol freático está alto — condição comum em Navegantes — a água subterrânea exerce pressão sobre as paredes e o piso do subsolo. A solução é uma drenagem perimetral que intercepta essa água antes que ela entre no imóvel."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Tubo dren perfurado — tubo PVC corrugado com furos, instalado em vala com brita e geotextil ao redor do perímetro do subsolo; captura a água subterrânea e a direciona para um poço de visita ou ponto de descarga",
+          "Geotextil de drenagem — manta filtrante que impede que sedimentos entrem no sistema e entupam os tubos; é essencial em solos arenosos onde há movimentação de partículas",
+          "Poço de bomba — quando não há declive suficiente para escoamento por gravidade, instala-se um poço com bomba submersa que descarrega a água captada para fora da propriedade",
+          "Impermeabilização de baldrames — membrana asfáltica ou poliuretano aplicada nas paredes de fundação, combinada com a drenagem perimetral, cria uma barreira dupla contra infiltração"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Infraestrutura de retenção e dissipação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em terrenos onde o escoamento superficial é intenso ou onde a rede pública de drenagem não comporta o volume, soluções de retenção temporária evitam que a água chegue de uma vez ao sistema de drenagem."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caixa d'água de retenção — reservatório subterrâneo que armazena o pico de chuva e libera gradualmente; pode ser em concreto, fibra de vidro ou módulos plásticos",
+          "Jardim de chuva (rain garden) — depressão no terreno com plantio de vegetação nativa que absorve e filtra a água da chuva; combina drenagem com paisagismo",
+          "Pavimento permeável — concreto furo, grasscrete ou brita graduada que permite infiltração no local, reduzindo o volume que chega à rede pluvial",
+          "Telhado verde — camada vegetal na cobertura que retém parte da precipitação e reduz o pico de escoamento; em Navegantes, é especialmente eficaz quando combinado com calhas dimensionadas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A melhor drenagem é aquela que não precisa ser ativada: quando a água infiltra no solo antes de virar escoamento superficial, o sistema inteiro funciona com mais folga."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 3: Conheça as exigências legais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A drenagem pluvial não é apenas questão de conforto — é obrigação legal. A legislação brasileira e as normas técnicas definem responsabilidades claras para o escoamento de águas pluviais em propriedades urbanas."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Código Civil — o proprietário é responsável por não causar dano aos vizinhos por escoamento de águas (art. 1.298); desviar o curso natural da água para o terreno do vizinho gera obrigação de indenizar",
+          "Lei das Águas (9.433/97) — estabelece que águas pluviais são de domínio público e seu gerenciamento deve considerar o interesse coletivo; o escoamento para via pública sem tratamento pode gerar multa",
+          "Plano Diretor de Navegantes — estabelece percentual mínimo de área permeável em terrenos, exigência de projeto de drenagem para novas construções e restrições de ocupação em áreas de risco",
+          "Norma ABNT NBR 10.844 — define as chuvas de projeto para cada região; Navegantes está na zona com precipitação de 100 mm/h para retorno de 10 anos, o que deve ser considerado no dimensionamento",
+          "Outorga de captação — quando o sistema de drenagem inclui poço ou captação de água subterrânea, pode ser necessária outorga da ANA (Agência Nacional de Águas)",
+          "Responsabilidade por obras — o engenheiro responsável pela obra responde civil e criminalmente por falhas no projeto de drenagem que causem danos a terceiros (ART registrada no CREA)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a legislação municipal tem se tornado mais rigorosa em relação à drenagem, especialmente após eventos de inundação que afetaram a cidade nos últimos anos. O alvará de construção pode ser condicionado à apresentação de projeto de drenagem pluvial, e a Prefeitura tem aumentado a fiscalização em áreas de risco."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 4: Projete a solução correta"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A drenagem em terrenos litorâneos exige projeto de engenharia — não é algo que se resolve com \"um tubo maior\" ou \"mais uma calha\". O projeto deve considerar as variáveis específicas do terreno e da região:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento topográfico — define as cotas do terreno, do nível da rua e das caixas de drenagem; sem isso, o dimensionamento é chute",
+          "Análise do lençol freático — medições em pontos diferentes do terreno, em diferentes épocas do ano, definem a profundidade e a variação do nível da água subterrânea",
+          "Cálculo hidrológico — volume de chuva de projeto, tempo de concentração, coeficiente de escoamento e capacidade dos tubos; no litoral, o volume de projeto deve ser maior que o padrão de interior",
+          "Dimensionamento dos condutores — diâmetro, declive e velocidade de escoamento dos tubos; no litoral, considerar também a possibilidade de retorno do lençol freático pelos pontos mais baixos",
+          "Ponto de descarga — onde a água coletada será liberada; não pode ser direcionada para terreno vizinho, via pública sem autorização ou área de preservação",
+          "Manutenção prevista — o projeto deve prever caixas de inspeção, poços de visita e pontos de limpeza que permitam manutenção periódica sem necessidade de escavação"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto de drenagem deve ser elaborado por engenheiro civil com registro no CREA, e o responsável técnico assina a ART (Anotação de Responsabilidade Técnica) que documenta a autoria e a responsabilidade pelo dimensionamento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Soluções específicas para diferentes situações"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada terreno litorâneo tem suas particularidades. Veja como adaptar as soluções de drenagem para os cenários mais comuns em Navegantes e no litoral catarinense:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Terreno plano com lençol freático alto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Drenagem perimetral com poço de bomba — o terreno não tem declive para escoamento por gravidade, então a água captada é bombeada para fora da propriedade",
+          "Impermeabilização completa do subsolo — membrana de poliuretano ou asfáltica nas paredes e no piso, com drenagem behind (por trás da membrana)",
+          "Pavimento permeável em áreas externas — reduz o volume de escoamento superficial que atinge o sistema",
+          "Monitoramento do nível do lençol — sensor de nível com alarme para alertar quando a água subterrânea atinge cota crítica"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Terreno em declive com escoamento superficial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sarjetas de retenção — canais com declive controlado que interceptam o escoamento antes de atingir o imóvel",
+          "Muros de contenção com drenagem — muros que retêm o solo do terreno superior, com furos de drenagem (catarros) que aliviam a pressão da água",
+          "Caixa de retenção no ponto baixo — reservatório que armazena o pico de escoamento e libera gradualmente para a rede pluvial",
+          "Jardins de chuva em terraços — depressões vegetadas em diferentes níveis do terreno que absorvem e filtram a água"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Imóvel com subsolo ou garagem subterrânea"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Barreira capilar — tratamento químico ou físico na base das paredes que impede a subida de água por capilaridade",
+          "Sump pump (bomba sumidouro) — instalação de bomba submersa no ponto mais baixo do subsolo, com boia automática e descarga para fora da propriedade",
+          "Drenagem de alívio — tubo perfurado abaixo do piso do subsolo que coleta água e a direciona para o poço de bomba",
+          " Vedação de juntas de dilatação — selante poliuretano nas juntas entre lajes e paredes, pontos críticos de infiltração em subsolos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que evitar em projetos de drenagem no litoral"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Não dimensione para chuvas de interior — a intensidade de chuva no litoral é significativamente maior; um sistema dimensionado para 60 mm/h falha quando chega 100 mm/h",
+          "Não ignore o lençol freático — a drenagem pluvial superficial não resolve infiltração subterrânea; são dois problemas diferentes que exigem soluções diferentes",
+          "Não descarregue para o terreno do vizinho — isso gera responsabilidade civil e pode resultar em ação judicial por danos",
+          "Não use tubos sem proteção em solo arenoso — areia entra nos tubos e entope o sistema rapidamente; geotextil e brita de proteção são obrigatórios",
+          "Não pule as caixas de inspeção — sem pontos de limpeza, o sistema entope e ninguém consegue fazer manutenção sem escavar tudo",
+          "Não faça drenagem sem projeto — cada terreno é diferente; uma solução copiada do vizinho pode não funcionar no seu terreno por causa de cotas, lençol ou topografia diferentes"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O custo de um projeto de drenagem bem feito é uma fração do custo de reparar um subsolo inundado, um piso levantado ou uma ação judicial por danos ao vizinho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Manutenção: o sistema só funciona se for cuidado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mesmo o melhor projeto de drenagem precisa de manutenção periódica. No litoral, onde a salinidade, a vegetação e os sedimentos costeiros aceleram a obstrução, a manutenção é ainda mais frequente e importante."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Limpeza trimestral de calhas e rufos — remova folhas, detritos e sedimentos que obstruam o fluxo; no litoral, a maresia promove cristalização salina que reduz a seção dos condutores",
+          "Verificação semestral de caixas de inspeção — abra as caixas, verifique se há sedimentos no fundo e se os tubos estão limpos; photographicamente, compare com registros anteriores",
+          "Inspeção anual do lençol freático — meça o nível da água em pelo menos dois pontos do terreno; se subiu em relação aos registros anteriores, o sistema pode precisar de adequação",
+          "Limpeza de grelhas e bueiros antes do verão — o início da estação chuvosa é o momento crítico; uma grelha obstruída na primeira chuva forte pode causar alagamento que danifica o imóvel",
+          "Revisão da bomba submersa — se o sistema inclui poço de bomba, teste o funcionamento, a boia de acionamento e a calibração do sensor de nível pelo menos uma vez por ano",
+          "Registro de manutenção — documente cada intervenção com fotos e data; isso serve como prova de cuidado em caso de discussão com vizinhos ou fiscalização"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Impacto ambiental e responsabilidade com o coletivo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A drenagem não afeta apenas a sua propriedade — ela faz parte de um sistema urbano maior. O escoamento mal gerenciado pode causar alagamento em terrenos vizinhos, assorear rios e áreas de preservação e carregar poluentes para o oceano. A responsabilidade ambiental é real e crescente."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Áreas de preservação de nascentes — o escoamento da sua propriedade não pode atingir áreas protegidas; isso é exigência ambiental, não apenas boa vizinhança",
+          "Tratamento de águas pluviais — em áreas industriais ou comerciais, o escoamento pode conter óleos, graxas e metais pesados; sistemas de tratamento são obrigatórios antes da descarga",
+          "Áreas de inundação — terrenos em zonas de enchente têm restrições de ocupação e exigem projetos de drenagem aprovados pela Defesa Civil e pela Prefeitura",
+          "Mata ciliar — o escoamento não pode desproteger ou assorear áreas de vegetação ribeirinha; a responsabilidade civil e ambiental é solidária entre o proprietário e o responsável técnico"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando chamar um engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Alguns sinais indicam que é hora de buscar ajuda técnica especializada:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Alagamento recorrente — se a garagem ou o subsolo enche de água a cada chuva forte, o problema é de dimensionamento e não de \"limpeza\"",
+          "Infiltração nas paredes do subsolo — manchas de umidade, efflorescência salina ou bolhas de tinta no subsolo indicam pressão de água subterrânea",
+          "Lençol freático subindo — se poços ou caixas d'água na região estão mais rasos que antes, o lençol pode estar subindo por alterações no entorno",
+          "Construção nova no entorno — obras vizinhas com escavação profunda podem alterar o fluxo de água subterrânea em direção à sua propriedade",
+          "Exigência do alvará — a Prefeitura pode condicionar o alvará de construção à apresentação de projeto de drenagem aprovado",
+          "Novo subsolo ou ampliação — qualquer alteração que modifique o nível do piso ou a profundidade da fundação requer recálculo da drenagem"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia realiza projetos de drenagem pluvial e subterrânea para terrenos litorâneos em Navegantes e todo o litoral catarinense. Nossa equipe dimensiona sistemas de drenagem considerando as condições específicas do terreno — lençol freático, topografia, tipo de solo e volume de chuva de projeto — garantindo que a solução funcione quando mais precisa."
+      }
+    }
+  ]
+}

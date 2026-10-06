@@ -1,0 +1,226 @@
+{
+  "slug": "manutencao-eletrica-industrial-navegantes",
+  "title": "Manutenção Elétrica Industrial: Continuidade e Segurança em Navegantes",
+  "tag": "EL—0TRICA",
+  "image": "/images/Energia Solar.png",
+  "imageAlt": "Manutenção Elétrica Industrial: Continuidade e Segurança em Navegantes - artigo técnico da Regê Engenharia sobre elétrica em Navegantes e Litoral Norte de SC.",
+  "excerpt": "A manutenção elétrica industrial é o conjunto de ações preventivas e corretivas que mantém os sistemas de energia de uma indústria operando com segurança e sem parada não planejada.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A manutenção elétrica industrial é o conjunto de ações preventivas e corretivas que mantém os sistemas de energia de uma indústria operando com segurança e sem parada não planejada. Em Navegantes/SC — polo de logística, porto e indústrias no litoral catarinense — uma falha elétrica custa caro por hora parada. Neste artigo, você entende os tipos de manutenção, por que ela é vital no ambiente industrial e quais cuidados o clima litorâneo exige."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que é Manutenção Elétrica Industrial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 o serviço técnico sobre instalações, quadros, motores, geradores e redes industriais. Vai da inspeção de rotina à substituição de componentes e adequação a normas (NBR 5410, NR-10)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por Que é Essencial?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Evita paradas — manutenção preventiva reduz falhas inesperadas",
+          "Protege pessoas — atende à NR-10 e reduz risco de acidente",
+          "Preserva equipamentos — estende a vida útil de motores e painéis",
+          "Garante energia — continuidade para a produção e o faturamento",
+          "Evita multas — conformidade com normas e concessionária (Celesc)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tipos de Manutenção"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo",
+          "Quando"
+        ],
+        "rows": [
+          [
+            "Preventiva",
+            "Cronograma periódico de inspeção e troca"
+          ],
+          [
+            "Preditiva",
+            "Monitoramento de temperatura, vibração e carga"
+          ],
+          [
+            "Corretiva",
+            "Após falha ou queima de componente"
+          ],
+          [
+            "Emergencial",
+            "Parada imediata para restabelecer energia"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que a Manutenção Cobre"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quadros e painéis — limpeza, aperto de conexões e termografia",
+          "Motores e bombas — lubrificação, isolamento e partida",
+          "Geradores e UPS — teste de carga e combustível",
+          "Rede e aterramento — integridade e proteção contra surtos",
+          "Iluminação e tomadas industriais — reposição e adequação",
+          "Adequação NR-10 — laudo e medidas de segurança"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cuidados no Litoral de Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia e corrosão — conexões e quadros exigem inspeção mais frequente",
+          "Umidade — painéis precisam de vedação e desumidificação",
+          "Descargas atmosféricas — DPS e aterramento reforçado em áreas abertas",
+          "Poeira e sal — limpeza periódica evita curtos e superaquecimento",
+          "Ventilação — dissipação de calor em ambiente quente e úmido"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que Custam Caro"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Só agir após a queima (manutenção 100% corretiva)",
+          "Dispensar a termografia de quadros",
+          "Ignorar o aterramento e a proteção contra surtos",
+          "Não treinar a equipe interna na NR-10",
+          "Deixar de documentar as intervenções (ART/RRT)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A manutenção preventiva é obrigatória?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para instalações industriais, a NR-10 exige inspeção e manutenção periódica de instalações elétricas. O plano é obrigatório para a segurança."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual a frequência recomendada?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende do ambiente. Em Navegantes, pela maresia, recomenda-se inspeção a cada **3 a 6 meses**, com termografia semestral."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A empresa pode fazer a manutenção interna?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim, desde que haja eletricista com NR-10 e supervisão de engenheiro. O laudo e a ART são responsabilidade do profissional habilitado."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual o custo?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Contratos de manutenção variam conforme o porte da instalação, geralmente de **R$ 2.000 a R$ 15.000/ano**; atendimentos emergenciais são orçados à parte."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia faz manutenção industrial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia realiza manutenção elétrica preventiva, corretiva e adequação NR-10 em indústrias de Navegantes e do litoral catarinense, com ART e acompanhamento técnico."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A manutenção elétrica industrial não é despesa: é seguro contra a parada de produção. Em Navegantes, onde maresia e umidade aceleram a degradação dos componentes, um plano de manutenção preventiva é o que mantém a indústria ligada, segura e dentro da lei."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Estabeleça um cronograma, conte com engenheiro habilitado e não espere a queima. A energia bem cuidada é produção que não para."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre manutenção elétrica industrial em Navegantes/SC. Valores e exigências têm referência na NBR 5410 e na NR-10; consulte a Celesc e o CREA-SC para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "slug": "projeto-eletrico-navegantes",
+  "title": "Projeto Elétrico em Navegantes SC: Guia Completo para sua Obra",
+  "tag": "PROJETOS",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Engenheiro eletricista analisando projeto elétrico com diagramas e quadros de distribuição em Navegantes.",
+  "excerpt": "Sem projeto elétrico, a obra não ganha ligação de energia, não é aprovada e põe vidas em risco. Entenda o que a NBR 5410 exige, como funciona a aprovação na Celesc e quanto custa o projeto certo em Navegantes.",
+  "readTime": "9 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na correria de planejar uma construção em Navegantes, o projeto elétrico costuma ser tratado como detalhe. —0 um erro caro — e perigoso. A instalação elétrica é o sistema que mais provoca incêndios e acidentes fatais nas edificações brasileiras, e é também um dos primeiros itens verificados na aprovação de obras e na ligação de energia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico é o documento que define como a energia entra no imóvel, como circula por ele e como é distribuída em cada cômodo — com segurança, eficiência e dentro das normas. Sem ele, não há ligação da Celesc, não há aprovação de obra, não há Habite-se — e, pior, não há garantia de que sua casa ou empresa não vai pegar fogo em uma sobrecarga."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é um projeto elétrico?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico é o conjunto de plantas, diagramas e memoriais que dimensiona e detalha toda a instalação elétrica da edificação: a demanda de energia, os condutores, os dispositivos de proteção, o quadro de distribuição, os pontos de luz e tomadas e os sistemas especiais. Ele é elaborado por engenheiro eletricista ou engenheiro eletricista habilitado, com ART registrada no CREA."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o projeto responde a perguntas essenciais: quantos disjuntores o quadro precisa? Qual a bitola dos fios de cada circuito? O imóvel suporta o ar-condicionado, o chuveiro e o forno elétrico ligados ao mesmo tempo? E é ele que garante que a resposta a cada uma delas esteja tecnicamente correta — e não no \"jeitinho\" do eletricista."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Energia elétrica não aceita improviso: ela é invisível, silenciosa e impiedosa. O projeto elétrico é o que transforma um risco mortal em um sistema seguro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o projeto elétrico é obrigatório em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muita gente acredita que o projeto elétrico é uma recomendação. Na prática, ele é uma exigência em três frentes que nenhuma obra em Navegantes consegue pular:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ligação de energia — a Celesc exige projeto aprovado e ART para instalar o medidor e ligar a energia de qualquer imóvel",
+          "Aprovação de obra na Prefeitura — o projeto elétrico faz parte do pacote de projetos complementares exigido no alvará de construção e no Habite-se",
+          "Norma técnica — a ABNT NBR 5410 torna obrigatório o projeto por profissional habilitado para instalações de baixa tensão, e a NR-10 exige segurança em qualquer serviço com eletricidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além disso, em Navegantes a fiscalização tem sido cada vez mais atenta ao crescimento da cidade — e imóveis com instalações irregulares ficam sem Habite-se, sem financiamento e sem valor de mercado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o projeto elétrico define na prática"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Demanda de cargas — cálculo da potência total da instalação, considerando iluminação, tomadas, chuveiros, ar-condicionado, motores e equipamentos",
+          "Dimensionamento de condutores — a bitola correta de cada circuito, evitando aquecimento, perda de energia e risco de incêndio",
+          "Dispositivos de proteção — disjuntores e DR (diferencial residual) dimensionados para cada circuito, protegendo pessoas e instalações",
+          "Quadro de distribuição — organização dos circuitos, identificação e equilíbrio de fases",
+          "Pontos de luz e tomadas — distribuição conforme a NBR 5410, garantindo funcionalidade e evitando extensões e benjamins",
+          "Sistema de proteção contra descargas atmosféricas (SPDA) — para-raios dimensionados conforme a NBR 5419, importante em edificações altas e regiões de tempestade",
+          "Sistemas especiais — iluminação de emergência, alarme, interfonia, automação e cabeamento estruturado",
+          "Aterramento — o sistema de aterramento correto, a base de toda instalação segura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As normas que regem o projeto elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico brasileiro é regido por um conjunto de normas que o engenheiro domina e aplica caso a caso:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 5410 — instalações elétricas de baixa tensão: a norma-mãe, que define dimensionamento, proteção e segurança de toda a instalação",
+          "NBR 5419 — proteção contra descargas atmosféricas: dimensionamento do para-raios conforme o risco e o porte da edificação",
+          "NR-10 — segurança em instalações e serviços em eletricidade: protege os trabalhadores e define responsabilidades",
+          "Regulamentos da Celesc — as normas da concessionária para ramais de entrada, medidores e padrões de ligação"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Um projeto elétrico não é um desenho bonito: é um cálculo de engenharia. Cada fio, cada disjuntor, cada tubulação tem um motivo técnico — e um custo se for ignorado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico em Navegantes: as particularidades locais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além das normas nacionais, um projeto elétrico em Navegantes precisa considerar o ambiente em que a instalação vai operar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia — em imóveis próximos à orla, a corrosão ataca quadros, disjuntores e conectores; o projeto precisa especificar materiais e proteções adequadas ao ambiente salino",
+          "Regras da Celesc na região — a concessionária tem procedimentos próprios para padrões de entrada e medidores, que mudam conforme o tipo de atendimento (monofásico, bifásico ou trifásico)",
+          "Clima litorâneo — tempestades e descargas atmosféricas frequentes reforçam a importância do SPDA e de dispositivos de proteção contra surtos (DPS)",
+          "Verão e carga de ar-condicionado — imóveis no litoral têm consumo de climatização muito maior; o dimensionamento da demanda precisa prever isso desde o projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico e energia solar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A energia solar é hoje uma das grandes aliadas do litoral catarinense — e o projeto elétrico é o elo obrigatório entre o sistema fotovoltaico e a edificação. A instalação de placas solares exige projeto de geração dimensionado, projeto de integração elétrica conforme a NBR 5410 e homologação na Celesc para o sistema funcionar legalmente, com a troca de medidor e os créditos de energia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Fazer a estrutura elétrica da casa pensada para receber o solar desde o início — com quadro dimensionado, disjuntor geral compatível e padrão de entrada adequado — economiza muito dinheiro depois. Quem instala energia solar em uma obra cujo projeto elétrico foi bem feito não paga retrabalho nem corre risco de reprovação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que acontece quando se constrói sem projeto elétrico?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Incêndio — fios subdimensionados aquecem e incendeiam, a causa mais comum de incêndios residenciais no Brasil",
+          "Choque elétrico — instalações sem aterramento e sem DR matam pessoas e ferem famílias inteiras",
+          "Ligação de energia negada — a Celesc não instala o medidor sem projeto e ART",
+          "Habite-se e financiamento barrados — imóvel sem projeto elétrico aprovado não regulariza, não averba e não financia",
+          "Retrabalho total — correção de instalação pronta significa quebrar paredes, refazer acabamento e pagar tudo de novo"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A economia de um projeto elétrico é a mais perigosa da construção: ela custa pouco antes da obra e cobra caro — em vidas e patrimônio — depois."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa um projeto elétrico?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor do projeto elétrico varia conforme o porte da edificação e a complexidade da instalação: uma casa padrão tem um custo bem diferente de um comércio, um prédio ou um galpão industrial. Em qualquer cenário, o projeto representa uma fração pequena do custo total da obra — e é o único investimento que se paga em segurança, aprovação e eficiência."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O retorno aparece também na conta de luz: um projeto bem dimensionado evita perdas de energia, permite a escolha correta do tipo de atendimento junto à Celesc e prepara a instalação para equipamentos eficientes. Em uma obra bem projetada, o consumo consciente começa no papel."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como escolher o profissional certo para o seu projeto elétrico"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Formação e registro — engenheiro eletricista ou engenheiro com habilitação em eletricidade, com registro ativo no CREA",
+          "ART em todos os projetos — a Anotação de Responsabilidade Técnica é obrigatória para a validade junto à Prefeitura e à Celesc",
+          "Conhecimento da NBR 5410 e da NR-10 — o domínio das normas é a base de um projeto seguro",
+          "Experiência com a Celesc — quem já aprovou projetos na concessionária conhece os trâmites e evita idas e vindas",
+          "Integração com os demais projetos — o elétrico precisa conversar com o arquitetônico, o estrutural e o hidráulico para evitar conflitos na obra",
+          "Suporte durante a obra — o engenheiro deve acompanhar a execução, evitando as temidas \"adaptações\" do eletricista"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre projeto elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qualquer pessoa pode fazer o projeto elétrico da minha casa? Não. O projeto deve ser elaborado por engenheiro eletricista ou profissional habilitado, com ART registrada no CREA. Sem responsável técnico, o projeto não é aceito pela Prefeitura, pela Celesc — e, acima de tudo, não oferece a segurança que a sua família merece."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando o projeto elétrico deve ser feito? Junto com os demais projetos, antes de iniciar a obra. —0 nessa fase que o dimensionamento da entrada de energia e a distribuição dos circuitos são definidos — e alterações no papel são baratas, enquanto alterações no canteiro custam quebra-quebra e retrabalho."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de projeto elétrico para reformar? Se a reforma envolver instalações elétricas — novos pontos, aumento de carga, troca de quadro ou alteração de leiaute —, sim. Qualquer mudança na instalação exige responsável técnico e, na maioria dos casos, atualização do projeto junto à concessionária e à Prefeitura."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que diferencia um projeto elétrico bom de um mal feito? O dimensionamento correto de cada circuito, a proteção adequada (disjuntores e DR), o aterramento bem projetado, a previsão de carga realista e a integração com os demais projetos. Um projeto ruim \"funciona\" no papel — e falha no dia em que os equipamentos de verdade são ligados."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Projeto elétrico e projeto de energia solar são a mesma coisa? Não. O projeto fotovoltaico dimensiona o sistema de geração, e o projeto elétrico dimensiona a instalação da edificação. Os dois se integram: o sistema solar precisa ser conectado à instalação de forma compatível, homologado pela Celesc e seguro — e o projeto elétrico é quem garante essa integração."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico em Navegantes com quem entende de energia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e no litoral catarinense desde 2016, com projetos elétricos completos integrados aos demais projetos de engenharia: residenciais, comerciais e industriais, com aprovação na Celesc, no Corpo de Bombeiros e na Prefeitura. Conhecemos as normas, a concessionária e as particularidades da região — e colocamos esse conhecimento para proteger o seu patrimônio."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está construindo, reformando ou precisa regularizar a instalação elétrica do seu imóvel, comece pelo projeto certo. Entre em contato com a equipe da Regê Engenharia e receba um projeto elétrico dimensionado, aprovado e pronto para ligar — com segurança do primeiro fio ao último disjuntor."
+      }
+    }
+  ]
+}

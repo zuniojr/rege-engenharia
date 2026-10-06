@@ -1,0 +1,694 @@
+{
+  "slug": "custo-projeto-estrutural-navegantes",
+  "title": "Quanto Custa um Projeto Estrutural em Navegantes SC?",
+  "tag": "CUSTOS",
+  "image": "/images/Trincas e Rachaduras.png",
+  "imageAlt": "Quanto Custa um Projeto Estrutural em Navegantes SC? - artigo técnico da Regê Engenharia sobre custos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Uma das dúvidas mais comuns entre quem vai construir é: \"quanto custa um projeto estrutural?\".",
+  "readTime": "5 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma das dúvidas mais comuns entre quem vai construir é: \"quanto custa um projeto estrutural?\". A resposta não é simples, pois o valor depende de diversos fatores técnicos, do porte da obra e do profissional contratado. Neste guia, você vai entender como os preços são formados e quanto pode esperar pagar em Navegantes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é um Projeto Estrutural?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto estrutural é o documento técnico que define como a edificação será sustentada. Ele especifica:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Elementos do Projeto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fundações: sapatas, estacas, radier ou tubulões",
+          "Estrutura de concreto: pilares, vigas e lajes",
+          "Estrutura metálica: perfis, treliças e conexões",
+          "Detalhamento: ferragens, ancoragens e emendas",
+          "Cálculo estrutural: dimensionamento conforme normas ABNT",
+          "Memorial de cálculo: memória técnica do dimensionamento",
+          "Planta de formas: posicionamento de cada elemento"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por que é Indispensável"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto estrutural garante:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Segurança: a edificação suporta os esforços sem risco de colapso",
+          "Economia: dimensionamento correto evita desperdício de materiais",
+          "Legalidade: obrigatório para aprovação na Prefeitura",
+          "Funcionalidade: estrutura compatível com a arquitetura",
+          "Durabilidade: a estrutura resiste à ação do tempo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Fatores que Influenciam o Custo"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Porte e Complexidade da Obra"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Obra",
+          "Complexidade",
+          "Impacto no Preço"
+        ],
+        "rows": [
+          [
+            "Casa térrea simples",
+            "Baixa",
+            "Menor"
+          ],
+          [
+            "Sobrado",
+            "Média",
+            "Médio"
+          ],
+          [
+            "Edifício de apartamentos",
+            "Alta",
+            "Alto"
+          ],
+          [
+            "Galpão industrial",
+            "Média-Alta",
+            "Médio-Alto"
+          ],
+          [
+            "Estrutura especial (vãos longos)",
+            "Muito alta",
+            "Muito alto"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Área Construída"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo é proporcional à área, pois o trabalho de cálculo e detalhamento cresce com o tamanho da estrutura. Projetos maiores exigem mais horas técnicas."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Tipo de Estrutura"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Concreto armado convencional: mais comum, custo intermediário",
+          "Concreto protendido: lajes mais esbeltas, maior complexidade",
+          "Estrutura metálica: mais leve, exige detalhamento de ligações",
+          "Alvenaria estrutural: integra vedação e estrutura",
+          "Steel frame: industrializado, cálculo específico"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Condições do Terreno"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Tipo de solo (arenoso, argiloso, rochoso)",
+          "Necessidade de sondagem",
+          "Nível do lençol freático",
+          "Declividade do terreno",
+          "Presença de taludes ou encostas"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Complexidade Arquitetônica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Balanços e vãos livres",
+          "Diferentes níveis e desníveis",
+          "Formas irregulares",
+          "Coberturas especiais",
+          "Sobrecargas elevadas"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6. Prazos e Urgência"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projetos urgentes custam mais caro",
+          "Prazos apertados exigem horas extras",
+          "Revisões e ajustes agregam custo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Valores de Referência em Navegantes (2025)"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Tabela de Referência por Área"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Edificação",
+          "Custo por m²"
+        ],
+        "rows": [
+          [
+            "Casa térrea até 150 m²",
+            "R$ 25 a R$ 45"
+          ],
+          [
+            "Casa acima de 150 m²",
+            "R$ 20 a R$ 40"
+          ],
+          [
+            "Sobrado",
+            "R$ 30 a R$ 50"
+          ],
+          [
+            "Edifício (4 a 8 pavimentos)",
+            "R$ 35 a R$ 60"
+          ],
+          [
+            "Galpão em estrutura metálica",
+            "R$ 15 a R$ 35"
+          ],
+          [
+            "Estruturas especiais",
+            "R$ 60 a R$ 120"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Valores Globais Típicos"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Obra",
+          "Faixa de Preço Total"
+        ],
+        "rows": [
+          [
+            "Casa pequena (80 m²)",
+            "R$ 2.500 a R$ 5.000"
+          ],
+          [
+            "Casa média (150 m²)",
+            "R$ 4.500 a R$ 9.000"
+          ],
+          [
+            "Casa grande (250 m²)",
+            "R$ 8.000 a R$ 15.000"
+          ],
+          [
+            "Sobrado (200 m²)",
+            "R$ 6.000 a R$ 12.000"
+          ],
+          [
+            "Edifício (1.000 m²)",
+            "R$ 35.000 a R$ 70.000"
+          ],
+          [
+            "Galpão (500 m²)",
+            "R$ 8.000 a R$ 18.000"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Valores de referência do mercado de Navegantes e região em 2025. Podem variar conforme profissional e complexidade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é Feita a Cobrança?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Formas de Cobrança"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Modalidade",
+          "Quando Usar",
+          "Vantagem"
+        ],
+        "rows": [
+          [
+            "Por m² de área construída",
+            "Mais comum em residências",
+            "Transparência e proporcionalidade"
+          ],
+          [
+            "Percentual da obra (estrutura)",
+            "Obras de grande porte",
+            "Alinhado ao valor da obra"
+          ],
+          [
+            "Hora técnica",
+            "Projetos complexos ou complementares",
+            "Precisão do esforço"
+          ],
+          [
+            "Preço fechado",
+            "Projetos bem definidos",
+            "Previsibilidade total"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que está Incluído no Preço"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cálculo estrutural completo",
+          "Plantas de formas e de armaduras",
+          "Detalhamento de ferragens e conexões",
+          "Memorial descritivo e de cálculo",
+          "Revisões e ajustes",
+          "ART (Anotação de Responsabilidade Técnica)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que pode Custar Extra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sondagem de solo (R$ 500 a R$ 2.500)",
+          "Levantamento topográfico (R$ 800 a R$ 2.000)",
+          "Visitas técnicas adicionais ao canteiro",
+          "Revisões além do limite contratual",
+          "Projetos complementares (elétrico, hidráulico)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o Projeto Estrutural Custa o que Custa?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Horas Técnicas Envolvidas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto estrutural residencial médio consome:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "20 a 40 horas de cálculo para casas",
+          "40 a 80 horas para sobrados",
+          "100 a 300 horas para edifícios",
+          "Cálculo manual e computacional (softwares estruturais)",
+          "Revisão de compatibilidade com arquitetura"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Responsabilidade Técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro estrutural responde civil e criminalmente pela segurança da estrutura. Esse risco está embutido no preço:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Seguro de responsabilidade civil",
+          "Verificação de normas e exigências",
+          "Conformidade com a ABNT NBR 6118",
+          "Revisões de segurança contra incêndio"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Softwares Especializados"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Licenças de softwares estruturais (CYPECAD, TQS, SAP2000)",
+          "Atualizações constantes de normas",
+          "Capacitação técnica permanente",
+          "Equipamentos e infraestrutura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Economizar sem Comprometer a Segurança"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Boas Práticas"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Contrate cedo: projetos feitos com calma custam menos",
+          "Defina bem a arquitetura: mudanças geram retrabalho",
+          "Evite modificações durante o desenvolvimento",
+          "Forneça a sondagem: evita incertezas e majorações",
+          "Compare propostas: peça ao menos 3 orçamentos",
+          "Desconfie de preços muito baixos: segurança não se barateia"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que NUNCA Fazer"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construir sem projeto estrutural",
+          "Aceitar \"planta pronta\" sem cálculo",
+          "Baratear com softwares piratas ou cálculos improvisados",
+          "Contratar profissional sem registro no CREA",
+          "Economizar no detalhamento de armaduras"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custo do Projeto vs. Custo Total da Obra"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Relação Percentual"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Obra",
+          "Projeto Estrutural (% da obra)"
+        ],
+        "rows": [
+          [
+            "Casa térrea",
+            "2% a 4%"
+          ],
+          [
+            "Sobrado",
+            "2% a 3,5%"
+          ],
+          [
+            "Edifício",
+            "1,5% a 3%"
+          ],
+          [
+            "Galpão metálico",
+            "1% a 2,5%"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O Custo de NÒO Ter Projeto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir sem projeto estrutural pode gerar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Retrabalho: R$ 10.000 a R$ 50.000 em correções",
+          "Desperdício: 10% a 20% de materiais perdidos",
+          "Riscos de acidente: valores incalculáveis",
+          "Embargo da obra: multas e atrasos",
+          "Desvalorização: imóvel sem documentação regular"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa o projeto estrutural de uma casa de 100 m²?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a faixa típica é de R$ 3.000 a R$ 5.500, dependendo da complexidade, tipo de fundação e profissional."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto estrutural e arquitetônico custam o mesmo?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não. O projeto arquitetônico costuma custar mais (R$ 50 a R$ 150/m²), pois envolve mais desenhos e especificações. O estrutural é calculado por peso de concreto/estrutura, sendo geralmente mais barato por m²."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Preciso do projeto estrutural para a Prefeitura?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A aprovação do projeto na Prefeitura de Navegantes exige o projeto estrutural com ART do engenheiro responsável."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Posso usar o mesmo projeto estrutural para casas diferentes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não. Cada projeto é único, calculado para o terreno, arquitetura e condições específicas de cada obra."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto tempo leva um projeto estrutural?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Casa térrea: 2 a 4 semanas",
+          "Sobrado: 3 a 6 semanas",
+          "Edifício: 2 a 6 meses",
+          "Galpão industrial: 3 a 8 semanas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Escolher o Engenheiro Estrutural em Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Critérios de Seleção"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Registro no CREA/SC: verificação obrigatória",
+          "Experiência em projetos similares: portfólio compatível",
+          "Domínio de softwares: verifique a metodologia de cálculo",
+          "Transparência de escopo: o que está incluso na proposta",
+          "Prazo definido: cronograma de entrega contratual",
+          "Referências: clientes anteriores na região"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Perguntas para o Profissional"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quais softwares de cálculo você utiliza?",
+          "O projeto inclui memorial de cálculo completo?",
+          "Quantas revisões estão incluídas?",
+          "O acompanhamento da obra está incluso?",
+          "Você já projetou obras similares em Navegantes?"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo de um projeto estrutural em Navegantes varia de R$ 25 a R$ 60 por m², com valores totais que partem de cerca de R$ 2.500 para casas pequenas e podem ultrapassar R$ 50.000 em edifícios. —0 um investimento proporcionalmente pequeno diante do custo total da obra — e imprescindível para a segurança, legalidade e durabilidade da construção."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ao cotar seu projeto, busque transparência, compare propostas com escopo idêntico e priorize profissionais registrados no CREA com experiência comprovada. Na engenharia, o barato que sai caro é o projeto mal feito — e isso é uma conta que ninguém quer pagar."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre custos de projeto estrutural em Navegantes SC — Vale do Itajaí, Santa Catarina*"
+      }
+    }
+  ]
+}

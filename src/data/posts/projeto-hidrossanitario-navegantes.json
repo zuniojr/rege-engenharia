@@ -1,0 +1,359 @@
+{
+  "slug": "projeto-hidrossanitario-navegantes",
+  "title": "Projeto Hidrossanitário: O Que —0, Para Que Serve e Como Funciona",
+  "tag": "PROJETOS",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Projeto Hidrossanitário: O Que —0, Para Que Serve e Como Funciona - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "O projeto hidrossanitário é o documento técnico que planeja toda a rede de água fria, água quente, esgoto sanitário e drenagem de uma construção.",
+  "readTime": "4 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto hidrossanitário é o documento técnico que planeja toda a rede de água fria, água quente, esgoto sanitário e drenagem de uma construção. Ele define diâmetros de tubulações, localização de pontos, caixas d'água, bombas e conexões com a rede pública. Feito por engenheiro ou arquiteto com ART, o projeto evita vazamentos, entupimentos, perda de água e problemas de saúde. Em Navegantes, onde o relevo acidentado e o solo arenoso influenciam diretamente o comportamento das águas, o projeto hidrossanitário bem elaborado é a diferença entre uma construção funcional e uma cheia de retrabalho. Neste artigo, você entende o que é, por que é obrigatório e como ele funciona na prática."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que é Projeto Hidrossanitário?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 o conjunto de plantas e memoriais que dimensiona a instalação hidráulica e sanitária da edificação conforme a ABNT NBR 5626 (água fria), NBR 5635 (água quente) e NBR 8160 (esgoto sanitário). Inclui todos os sistemas que transportam água e resíduos líquidos dentro e fora do imóvel."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sistemas que Compõem o Projeto"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Sistema",
+          "Função"
+        ],
+        "rows": [
+          [
+            "Água fria",
+            "Distribuição da água potável da rede pública até os pontos de consumo"
+          ],
+          [
+            "Água quente",
+            "Circulação de água aquecida por boiler, chuveiro elétrico ou aquecedor"
+          ],
+          [
+            "Esgoto sanitário",
+            "Coleta e condução dos resíduos líquidos até a rede pública ou fossa"
+          ],
+          [
+            "Drenagem pluvial",
+            "Condução da água da chuva para fora da edificação"
+          ],
+          [
+            "Águas cinzas",
+            "Reúso de água de pia e lavadora para descarga (quando previsto)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por Que o Projeto Hidrossanitário é Obrigatório?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Exigência Legal"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "A prefeitura de Navegantes exige projeto hidrossanitário para aprovação de alvará de construção",
+          "A concessionária de saneamento (Copesc/Celesc) precisa do projeto para ligação e verificação de conformidade",
+          "O CREA-SC exige ART do responsável técnico para toda obra com projeto hidráulico"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Segurança e Saúde"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Água contaminada por instalação inadequada causa doenças gastrointestinais",
+          "Esgoto sem tratamento adequado polui o lençol freático",
+          "Entupimentos recorrentes indicam dimensionamento incorreto do projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Economia de Água"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto hidrossanitário bem dimensionado evita:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Perdas por vazamentos em conexões mal executadas",
+          "Desperdício por falta de regulator de pressão",
+          "Conta de água alta por uso inadequado de pontos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapas do Projeto Hidrossanitário"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Levantamento de necessidades — quantos banheiros, cozinhas, lavanderias e pontos de consumo",
+          "Dimensionamento da adução — diâmetro da tubulação de entrada conforme consumo previsto",
+          "Projeto de distribuição — traçado dos encanamentos internos até cada ponto",
+          "Sistema de esgoto — caixas de inspeção, registro sifonado e ligação à rede ou fossa",
+          "Drenagem pluvial — calhas, condutores e pontos de queda para água da chuva",
+          "Memorial descritivo — materiais, quantitativos e normas aplicáveis",
+          "ART e aprovação — registro no CREA e protocolo na prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que o Projeto Contém"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Descrição"
+        ],
+        "rows": [
+          [
+            "Planta de corte hidráulico",
+            "Visão em corte mostrando tubulações e alturas"
+          ],
+          [
+            "Planta de pavimento",
+            "Traçado das tubulações em cada nível"
+          ],
+          [
+            "Memorial descritivo",
+            "Materiais, diâmetros, normas e quantitativos"
+          ],
+          [
+            "Quadro de pontos",
+            "Lista de todos os pontos de consumo e suas cotas"
+          ],
+          [
+            "Detalhes construtivos",
+            "Uniões, registros, sifões e fixações"
+          ],
+          [
+            "Ligação externa",
+            "Trecho da edificação até a rede pública ou fossa"
+          ],
+          [
+            "ART do responsável técnico",
+            "Engenheiro ou arquiteto habilitado"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cuidados Específicos para Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Solo Arenoso e Lençol Freático"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "O solo arenoso do litoral facilita a infiltração de águas residuais",
+          "Fundações e tubulações subterrâneas precisam de impermeabilização reforçada",
+          "Caixas de inspeção devem ser herméticas para evitar contaminação do solo"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Relevo e Pressão da Água"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Terrenos com declive exigem redutores de pressão para evitar rompimento de tubulações",
+          "Casas no alto de morros podem necessitar de caixa d'água elevada e bomba de pressurização",
+          "Cálculo correto de carga hidráulica evita gotejamento e falta de água nos andares superiores"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Clima e Temperatura"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Mesmo no litoral, noites frias de inverno podem causar congelamento em tubulações externas",
+          "Água quente precisa de isolamento térmico nas tubulações para manter a temperatura e evitar perdas",
+          "Calhas e condutores pluviais devem dimensionar a intensidade de chuvas do litoral catarinense"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Normas e Regulamentações Locais"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "A Copesc estabelece padrões para ligações de água e esgoto",
+          "A prefeitura de Navegantes segue a ABNT e complementa com exigências próprias",
+          "Projetos em áreas de preservação ambiental (APA) podem exigir licenciamento adicional"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros Comuns em Projetos Hidrossanitários"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionar tubulações sem considerar a demanda real de consumo",
+          "Misturar águas residuais com pluviais em condomínios",
+          "Omitir caixas de inspeção em pontos críticos da rede",
+          "Não prever sifões nos ralos de piso, permitindo a entrada de gases do esgoto",
+          "Usar materiais de baixa qualidade em áreas de difícil acesso (e que serão difíceis de trocar)",
+          "Ausência de ART do responsável técnico no projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O projeto hidrossanitário é obrigatório para qualquer obra?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. Toda construção nova ou reforma que altere a rede hidráulica exige projeto aprovado pela prefeitura e ART do responsável técnico."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual a diferença entre projeto hidrossanitário e projeto elétrico?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O hidrossanitário cuida de água e esgoto; o elétrico cuida de energia. Ambos são independentes, mas devem ser compatibilizados para evitar conflitos no canteiro de obras."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa um projeto hidrossanitário?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor depende da área e complexidade. Projetos residenciais variam de **R$ 1.200 a R$ 6.000**; a execução da instalação é orçada separadamente."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia faz projeto hidrossanitário?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia elabora projetos hidrossanitários residenciais e comerciais integrados aos demais projetos (arquitetônico, estrutural, elétrico) em Navegantes e no litoral catarinense, com ART e acompanhamento técnico."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto hidrossanitário é o mapa que garante que água chegue limpa e esgoto saia sem problemas. Em Navegantes, onde o solo arenoso, o relevo e o clima do litoral impõem desafios específicos, dimensionar corretamente cada tubulação, cada caixa de inspeção e cada ponto de consumo é o que evita entupimentos, vazamentos e retrabalho."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ao contratar o projeto, verifique a habilitação do profissional, exija memorial descritivo detalhado e garanta que todas as normas ABNT e locais sejam cumpridas. Água bem projetada é água segura — e construções que duram."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre projetos hidrossanitários em Navegantes/SC. Valores e exigências têm referência na ABNT NBR 5626, NBR 5635 e NBR 8160; consulte a Prefeitura de Navegantes (SUL) e o CREA-SC para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

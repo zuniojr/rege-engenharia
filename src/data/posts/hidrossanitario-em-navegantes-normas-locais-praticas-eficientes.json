@@ -1,0 +1,212 @@
+{
+  "slug": "hidrossanitario-em-navegantes-normas-locais-praticas-eficientes",
+  "title": "Hidrossanitário em Navegantes: Normas Locais e Práticas Eficientes",
+  "tag": "ENGENHARIA",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Projeto hidrossanitário em Navegantes SC com instalações de água, esgoto e drenagem pluvial.",
+  "excerpt": "Entenda as normas locais e as práticas eficientes de hidrossanitário em Navegantes: abastecimento de água, rede de esgoto, drenagem pluvial e projeto executivo conforme NBRs e legislação municipal.",
+  "readTime": "8 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é Hidrossanitário e por que importa em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto hidrossanitário é a parte da engenharia civil responsável pelos sistemas de abastecimento de água, esgoto sanitário e drenagem pluvial de uma edificação. Em Navegantes, cidade litorânea do Norte de Santa Catarina, as condições geológicas e climáticas exigem atenção especial a esses sistemas: lençol freático elevado, solos arenosos, alta pluviosidade e proximidade com o sistema costeiro tornam o projeto hidrossanitário um dos pilares mais críticos de qualquer obra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto hidrossanitário bem executado garante conforto, saúde pública, conformidade legal e valorização do empreendimento. Um projeto mal executado gera infiltrações, alagamentos, contaminação e custos de correção que superam em muito a economia de um orçamento mal dimensionado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Normas e Referências Técnicas Aplicáveis"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto hidrossanitário em Navegantes deve atender a um conjunto de normas técnicas brasileiras e legislações municipais. As principais referências são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 7190 — Projeto de estruturas de concreto armado (fundações e conexões)",
+          "NBR 10844 — Instalações hidráulicas e sanitárias prediais (sistemas de água fria, esgoto e ventilação)",
+          "NBR 15575 — Edificações habitacionais — desempenho (requisitos de estanqueidade e impermeabilização)",
+          "NBR 7675 — Drenagem urbana — projeto e execução",
+          "NBR 10004 — Resíduos sólidos — classificação e gestão",
+          "Código de Obras do Município de Navegantes — exigências locais para licenciamento",
+          "Normas do Corpo de Bombeiros (AVCB) — saídas de emergência e hidrantes",
+          "Diretrizes da CASAN — abastecimento de água e coleta de esgoto para a região"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sistema de Abastecimento de Água"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O sistema de abastecimento de água em Navegantes é operado pela CASAN (Companhia Catarinense de Águas e Saneamento). O projeto hidrossanitário deve considerar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pressão mínima de 2 mca (metros de coluna de água) nos pontos de utilização, conforme a NBR 10844",
+          "Diâmetro das tubulações dimensionado para o número de pontos e a vazão de projeto",
+          "Reservatório de água (caixa d'água) com capacidade mínima de 24 horas de consumo para residências unifamiliares",
+          "Beija-flor ou pressurizador quando a rede não garante pressão adequada",
+          "Proteção contra retorno (dispositivo de prevenção de refluxo) em conexões com redes de irrigação ou uso industrial",
+          "Vedação e estanqueidade de todas as conexões para evitar infiltrações e perdas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sistema de Esgoto Sanitário"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O sistema de esgoto sanitário em Navegantes é majoritariamente coletivo, atendido pela rede da CASAN. O projeto deve prever:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ramais prediais com declividade mínima de 0,5% e máxima de 3% (NBR 10844)",
+          "Diâmetro mínimo de 100 mm para ramais e 150 mm para coletores prediais",
+          "Caixa de inspeção a cada 30 metros ou em pontos de mudança de direção e declividade",
+          "Ventilação adequada do sistema (ramal de ventilação com terminação acima do ponto mais alto do telhado)",
+          "Separador de gorduras para edificações com cozinha profissional ou comerciais",
+          "Conexão correta na rede coletora municipal — nunca lançamento direto em corpo d'água ou galeria de drenagem pluvial"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sistema de Drenagem Pluvial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A drenagem pluvial é especialmente crítica em Navegantes devido à alta pluviosidade anual e à proximidade com o mar. O projeto deve contemplar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Calhas e condutores verticais dimensionados para o período de chuva de projeto (geralmente 25 anos, conforme NBR 7675)",
+          "Caixas de passagem e de contenção para evitar transbordamentos",
+          "Bocas de lobo conectadas à rede de drenagem municipal",
+          "Sistemas de retenção ou permeabilização para imóveis com grande área impermeabilizada",
+          "Travamento de cheias e proteção contra retorno em imóveis situados em áreas de risco de inundação",
+          "Drenagem de terrenos em declive — muros de arrimo e tubos de dreno com filtro geotêxtil"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Práticas Eficientes de Projeto e Execução"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para garantir a eficiência e a durabilidade do sistema hidrossanitário, algumas práticas são essenciais:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto executivo detalhado com plantas de águas pluviais, esgoto e água fria, com especificações de materiais e diâmetros",
+          "Escolha de materiais compatíveis com a água e o tipo de esgoto (PVC, PEAD, ferro fundido — conforme aplicação)",
+          "Execução por equipe qualificada, com acompanhamento de profissional habilitado (engenheiro ou arquiteto)",
+          "Teste de estanqueidade (teste de pressão e de estanqueidade) antes do fechamento de paredes e lajes",
+          "Vistoria durante a obra para verificar declividades, conexões e vedações",
+          "Documentação completa para o licenciamento municipal e entrega à CASAN"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Considerações Específicas para Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes apresenta desafios particulares que devem ser endereçados no projeto hidrossanitário:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lençol freático elevado — fundações e conexões subterrâneas devem considerar a saturação do solo",
+          "Solo arenoso — maior permeabilidade exige atenção à estanqueidade de reservatórios e tubulações",
+          "Proximidade com o mar — risco de corrosão por salinidade em componentes metálicos e tubulações expostas",
+          "Alta pluviosidade — dimensionamento generoso para drenagem pluvial e sistemas de retenção",
+          "Zona costeira — atenção às delimitações de APP (Área de Preservação Permanente) e áreas de risco",
+          "Legislação municipal — consulta prévia ao Código de Obras e à Secretaria de Planejamento de Navegantes para verificar exigências específicas do município"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Licenciamento e Aprovações"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de iniciar a execução dos serviços hidrossanitários, o projeto deve ser aprovado pela Prefeitura de Navegantes e, quando aplicável, pelo Corpo de Bombeiros. Os documentos típicos incluem: plantas hidrossanitárias, memorial descritivo, ART (Anotação de Responsabilidade Técnica) do responsável técnico e, para ligações de esgoto, solicitação à CASAN."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projete seu Sistema Hidrossanitário com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense desde 2016, com projetos hidrossanitários completos: abastecimento de água, rede de esgoto, drenagem pluvial e impermeabilização. Conhecemos as normas municipais, as exigências da CASAN e as condições geotécnicas da região — e projetamos sistemas que funcionam, duram e cumprem a legislação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está planejando uma obra em Navegantes, comece pelo projeto hidrossanitário correto. Entre em contato com a equipe da Regê Engenharia, apresente sua necessidade e receba a proposta de projeto que garante conformidade, eficiência e tranquilidade — da concepção à entrega."
+      }
+    }
+  ]
+}

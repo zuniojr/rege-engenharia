@@ -1,0 +1,317 @@
+{
+  "slug": "documentos-aprovacao-projeto-prefeitura-navegantes",
+  "title": "Documentos Exigidos para Aprovar um Projeto na Prefeitura de Navegantes",
+  "tag": "LICENCIAMENTO",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Engenheiro civil e proprietário revisando documentação de aprovação de projeto arquitetônico na Prefeitura de Navegantes SC.",
+  "excerpt": "Aprovação na prefeitura não é burocracia: é o passo que transforma seu projeto em construção legal, segura e valorizada. Veja a lista completa de documentos exigidos — matrícula, topografia, ART, projeto executivo, plano de drenagem, laudos de eficiência e acessibilidade — para aprovar seu projeto na Prefeitura de Navegantes sem surpresas.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Planejar uma obra em Navegantes — seja construir, reformar ou ampliar — é só o primeiro passo. O verdadeiro desafio começa quando você precisa aprovar o projeto na Prefeitura. E aperte o freio: a burocracia não é apenas trânsito. Cada documento exigido existe para garantir que a construção seja segura, respeite o planejamento urbano e não coloque em risco o imóvel, os vizinhos ou a cidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mas ninguém conta direito: qual é a lista exata de documentos? E as exigências mudam — a LC 416/2023 trouxe novas regras, e o Sistema —anico de Licenciamento (SUL) passou a exigir tudo digital, com Gov.br ou certificado. Este artigo é o checklist que faltava: tudo o que você precisa reunir, em ordem, para aprovar seu projeto na Prefeitura de Navegantes sem surpresas, multas ou embargos."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Aprovação na prefeitura não é burocracia para encher papel — é o ato que transforma seu projeto em obra legal, segura e com valor reconhecido."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentação do imóvel e do terreno"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A exigência não começa no projeto — começa com a documentação do imóvel. A prefeitura precisa confirmar quem é o proprietário, quais são os limites do terreno e o estado atual da construção existente. A matrícula, a planta baixa e a topografia são os primeiros documentos que você precisa reunir — e os que mais atrasam a aprovação quando estão desatualizados."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Matrícula atualizada do imóvel — extrato do Cartório de Registro de Imóveis, com situação de regularidade e sem penhora ou hipoteca",
+          "Planta baixa registrada no IPTU — define a área construída declarada, base para calcular o que é novo ou alterado",
+          "Certidão de Compra e Venda ou Propriedade — comprova a titularidade formal do imóvel",
+          "Topografia atualizada — levantamento de nível do terreno para verificar recuos, desníveis e relação com o entorno (máximo 90 dias de validade)",
+          "Sondagem geotécnica — obrigatória para obras novas e ampliações com alteração de estrutura; define a fundação adequada ao solo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto executivo: o núcleo da aprovação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A LC 416/2023 estabelece que qualquer obra com orçamento acima de R$ 15.000 exige projeto executivo completo. O projeto precisa incluir todas as disciplinas — arquitetura, estrutura, elétrica, hidráulica — e ser compatibilizado entre si. Um projeto com disciplina faltando é devolvido automaticamente, e cada ida e volta no sistema SUL agrega 5 a 10 dias de espera."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto arquitetônico — plantas, cortes, fachadas, detalhes de execução (ABNT NBR 15514)",
+          "Projeto estrutural — cálculo de fundações, pilares, vigas, lajes e ligações (NBR 6118 para concreto, NBR 8800 para aço)",
+          "Projeto elétrico — diagrama unifilar, cálculo da demanda, ligação com a concessionária (NBR 5410)",
+          "Projeto hidráulico — lâmpadas, cargas, quedas de pressão, ligação com a rede (NBR 5626, NBR 15089)",
+          "Memória descritiva — texto explicativo da proposta técnica",
+          "Orçamento — itemização por centro de custo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "ART e documentos do profissional responsável"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A ART (Anotação de Responsabilidade Técnica) é o documento que vincula o engenheiro ou arquiteto ao projeto. —0 emitida no CREA-SC, é paga antes do protocolo e está vinculada ao número de inscrição do profissional — que a prefeitura consulta no sistema. Sem ART válida, o projeto não é aprovado."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ART emitida no CREA-SC — Anotação de Responsabilidade Técnica, paga antes do protocolo",
+          "Inscrição no CREA-SC ativa — a prefeitura consulta o registro do profissional",
+          "Plano de drenagem sustentável — exigido em obras novas desde a LC 416/2023",
+          "Laudo de eficiência energética (CDT) — para construções novas; o imóvel não pode consumir mais de 35% de energia",
+          "Laudo de acessibilidade (NBR 9050) — obrigatório em reformas com alteração de acesso e em construções novas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A ART não é só um papel assinado: é o vínculo legal entre o profissional, a obra e o proprietário. Sem ela, o projeto não sai do SUL."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Licenciamento no SUL: documentos para o protocolo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A LC 416/2023 unificou todo o licenciamento no Sistema —anico de Licenciamento (SUL), acessível exclusivamente com login de Gov.br ou certificado digital. Os documentos exigidos no protocolo incluem o requerimento, todos os projetos, a ART e os comprovantes de pagamento das taxas."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Requerimento de Licenciamento Prévio — formulário preenchido no sistema SUL",
+          "Comprovante de pagamento das taxas — variam de R$ 200 a R$ 1.500",
+          "Declaração de Conformidade de Produtos — comprova que os materiais usados são aprovados",
+          "Todos os documentos em PDF com carimba digital — o sistema não aceita arquivos escaneados ou fotos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist: documentos por tipo de obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A exigência completa varia conforme o tipo de intervenção. Use esta tabela como checklist antes de protocolar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reforma sem alteração estrutural (até R$ 15.000): ART + alvará de reforma",
+          "Reforma sem alteração estrutural (acima de R$ 15.000): ART + projeto executivo + licenciamento SUL + alvará",
+          "Reforma com alteração estrutural: ART + projeto estrutural + projeto executivo + licenciamento SUL + alvará",
+          "Ampliação residencial: ART + projeto executivo + topografia + sondagem (se houver escavação) + licenciamento SUL + alvará",
+          "Nova construção: ART + projeto executivo completo + topografia + sondagem + laudo de eficiência energética + laudo de acessibilidade + plano de drenagem + licenciamento SUL + alvará",
+          "Reforma de fachada: ART + projeto executivo (se alterar estrutura) + alvará + vistoria aos 70%"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Novas exigências da LC 416/2023"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Lei Complementar 416/2023 atualizou as exigências de documentos para aprovação. Veja o que é novo e pode pegar você de surpresa:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto executivo: limite caiu de R$ 50.000 para R$ 15.000 — mais obras precisam de projeto completo",
+          "Plano de drenagem sustentável: obrigatório em obras novas — novo documento para submeter",
+          "Laudo de eficiência energética: obrigatório em construções novas — novo custo e prazo",
+          "Acessibilidade (NBR 9050): obrigatório em reformas com alteração de acesso — antes era só em construções novas",
+          "Sistema digital (SUL): exige login com Gov.br ou certificado digital — não dá mais para fazer com documentos físicos",
+          "Vistoria aos 70% da obra: nova etapa obrigatória na aprovação final"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos para o habite-se"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A aprovação do projeto é só a metade. Para legalizar a obra concluída, você precisa do habite-se, que exige documentação final. Sem o habite-se, o imóvel não pode ser financiado, vendido ou habitado legalmente — e a multa chega a 200% do valor da obra."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Relatório de vistoria final — emitido pelo engenheiro com fotos e medições",
+          "Termo de conformidade — o engenheiro declara que a obra foi executada conforme o projeto aprovado",
+          "ART de obra concluída — nova ART emitida para a fase de execução",
+          "Comprovante de pagamento de taxas de finalização",
+          "Declaração de Conformidade de Produtos — reforçada, para comprovar todos os materiais usados"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Timeline para aprovação do projeto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entenda as etapas e prazos para aprovar seu projeto na prefeitura de Navegantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Contratação do profissional (1-3 dias) — definição do escopo e solicitação de documentos do imóvel",
+          "2. Desenvolvimento do projeto (10-20 dias) — plantas, cálculos, memória descritiva e orçamento",
+          "3. Emissão da ART no CREA-SC (1-2 dias) — pagamento da anotação",
+          "4. Protocolo no SUL (1 dia útil) — upload de documentos e pagamento de taxas",
+          "5. Análise pela prefeitura (5-15 dias úteis) — aprovação ou devolução para correção",
+          "6. Emissão do alvará de início (1-3 dias) — impressão e carimbo do alvará"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O total estimado para aprovação completa varia de 20 a 40 dias. Projetos bem preparados são aprovados na primeira análise — o segredo está no detalhe."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns que atrasam a aprovação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Matrícula desatualizada — o processo é indeferido automaticamente",
+          "Projeto sem todas as disciplinas — devolução para correção, +10 dias de espera",
+          "Topografia desatualizada — recusa na análise pela prefeitura",
+          "Esquecer o plano de drenagem sustentável — obrigação nova da LC 416, recusa automática",
+          "ART de profissional não inscrito no CREA — indeferimento total do processo",
+          "Documentos em papel timbrado ou não carimbados — recusa pelo sistema digital"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia ajuda na aprovação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Aprovação de projeto na prefeitura exige conhecimento técnico, atualização constante com as normas e agilidade no trânsito de documentos. Na Regê Engenharia, oferecemos suporte completo ao proprietário que quer aprovar seu projeto em Navegantes sem dor de cabeça:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elaboração de projeto executivo completo — arquitetura, estrutura, elétrica, hidráulica, drenagem e acessibilidade",
+          "Acompanhamento de licenciamento no SUL — entrada e andamento do processo digital na prefeitura",
+          "Emissão e pagamento de ART — Anotação de Responsabilidade Técnica registrada no CREA-SC",
+          "Laudo de eficiência energética (CDT) — para construções novas",
+          "Laudo de acessibilidade (NBR 9050) — exigido em reformas e construções",
+          "Topografia e sondagem geotécnica — parceria com técnicos certificados",
+          "Aprovação e habite-se — condução completa do processo, da primeira etapa até a finalização",
+          "Garantia de conformidade — o projeto é feito para passar na primeira análise"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na Regê Engenharia, não fazemos apenas o projeto — fazemos o projeto que a prefeitura aprova. Porque no litoral, quem tem engenheiro não tem surpresa na hora do alvará."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Contato e referências oficiais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para consultar as regras e exigências atualizadas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Prefeitura de Navegantes: www.navegantes.sc.gov.br — seção Licenciamento (SUL) | 156 (ouvidoria) | Av. Presidente Getúlio Vargas, 555 — Centro",
+          "CREA-SC: www.crea-sc.org.br | 47 3331-8300 | Rua General Carneiro, 131 — Florianópolis",
+          "Sistema —anico de Licenciamento (SUL): Portal da Transparência da Prefeitura | licenciamento@navegantes.sc.gov.br"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está planejando construir, reformar ou ampliar em Navegantes, a equipe da Regê Engenharia está pronta para preparar e aprovar seu projeto na prefeitura. Oferecemos suporte completo: do levantamento do imóvel ao alvará de habitabilidade, passando por projeto executivo, licenciamento digital no SUL e todos os laudos exigidos pela LC 416/2023."
+      }
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "slug": "engenheiro-retificacao-limites-terreno",
+  "title": "A Importância do Engenheiro na Retificação de Limites de Terreno",
+  "tag": "REGULARIZAÇÃO",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Engenheiro civil realiza levantamento topográfico para retificação de limites de terreno em Navegantes e Litoral Norte de SC — planta, memorial descritivo e ART pela Regê Engenharia.",
+  "excerpt": "A cerca não define a divisa - a matrícula sim. Quando as medidas registradas não batem com o terreno real, a retificação de limites resolve o problema juridicamente. Veja por que o engenheiro é peça obrigatória desse processo e como ele conduz cada etapa.",
+  "readTime": "9 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quase todo terreno antigo guarda uma surpresa: a área que está na matrícula não bate exatamente com a área que existe no chão. ìs vezes são centímetros; às vezes são metros inteiros que mudam o valor do imóvel, impedem a construção planejada ou acendem briga com o vizinho. O instrumento que corrige essa divergência de forma definitiva e legal é a retificação de limites - e ela só acontece com um engenheiro no comando, porque envolve medição oficial, planta, memorial descritivo e responsabilidade técnica."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo explica o que é a retificação de limites, quando ela é necessária, por que a lei exige profissional habilitado, como funciona o processo etapa a etapa - da análise documental ao registro no cartório - os erros que costumam travar o procedimento e como a Regê Engenharia conduz esse trabalho em Navegantes e no Litoral Norte de Santa Catarina."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é retificação de limites"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Retificar limites é adequar o registro do imóvel à realidade física comprovadamente medida no terreno. O que define a sua propriedade não é a cerca que o anterior dono levantou nem a lembrança do vendedor - é a descrição técnica registrada na matrícula do Cartório de Registro de Imóveis. Quando essa descrição diverge da ocupação real, existe um passivo documental: a área oficial e a área real são duas coisas diferentes, e isso cobra o preço na primeira venda, financiamento ou obra séria."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando a retificação se torna necessária"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Medidas divergentes - a matrícula indica uma dimensão e o terreno tem outra, por erro de origem, medição antiga imprecisa ou descrição genérica",
+          "Lotes antigos sem levantamento técnico - parcelamentos de décadas atrás foram registrados com croquis aproximados, sem topografia profissional",
+          "Cercas históricas deslocadas - divisas definidas por quem cercou primeiro, que nunca coincidiram com os limites legais",
+          "Inventários e heranças - partilha informal entre herdeiros que nunca foi refletida nas matrículas",
+          "Compra com área incorreta - adquirente descobre depois da escritura que o imóvel tem menos (ou mais) área do que pagou",
+          "Preparação para construção ou desmembramento - a prefeitura e o cartório exigem coerência entre projeto, alvará e registro",
+          "Base para usucapião - processos extrajudiciais exigem planta georreferenciada assinada por profissional"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A cerca marca a ocupação; a matrícula marca o direito. Enquanto as duas apontarem lugares diferentes, o proprietário carrega um problema silencioso que estoura na pior hora."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a lei exige o engenheiro nesse processo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta e memorial com validade legal - o Cartório somente aceita documentos técnicos assinados por profissional registrado no CREA ou CAU, com ART correspondente",
+          "Responsabilidade técnica - o profissional responde pela exatidão das medidas e pela veracidade das informações; documento feito por leigo é indeferido e pode configurar falsidade ideológica",
+          "Método e instrumentação corretos - levantamento executado conforme a NBR 13133, com estação total e receptores GNSS calibrados, amarrado a marcos oficiais",
+          "Georreferenciamento - coordenadas vinculadas ao sistema oficial de referência, requisito crescente em processos registrais e obrigatório em imóveis rurais pela Lei 10.267/2001",
+          "Segurança jurídica do resultado - a retificação mal feita gera anulação do processo, custas perdidas e até indenização a confrontante prejudicada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como funciona o processo, etapa a etapa"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Análise documental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Tudo começa no papel: matrícula atualizada, escrituras, plantas anteriores e dados dos imóveis confrontantes. O engenheiro cruza as descrições para entender onde está a divergência e qual é o caminho mais curto para resolvê-la."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Levantamento topográfico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em campo, o perímetro do imóvel é medido com precisão milimétrica, incluindo marcos, cercas, benfeitorias e elementos físicos relevantes. —0 esse levantamento - e não a opinião de ninguém - que retrata a realidade do terreno."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Sobreposição e diagnóstico da divergência"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O polígono levantado é comparado com o registrado. O resultado quantifica a diferença de área, identifica onde os limites divergem e revela se há sobreposição com vizinhos ou faixas de terra sem dono documental."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Acordo com os confrontantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A retificação consensual depende da anuência de todos os confrontantes afetados. Aqui o engenheiro é peça-chave: números técnicos objetivos transformam discussão emocional sobre onde fica a divisa em negociação baseada em fato."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Planta georreferenciada, memorial descritivo e ART"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com o acordo alinhado, são produzidos os documentos técnicos oficiais: planta com coordenadas, memorial descritivo narrando o perímetro ponto a ponto e a Anotação de Responsabilidade Técnica - o conjunto que o cartório vai examinar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Procedimento registral ou judicial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com anuência de todos, a retificação tramita diretamente no Cartório de Registro de Imóveis, nos termos da Lei 6.015/73, com publicidade e eventual notificação de terceiros. Havendo impugnação de qualquer confrontante, o caminho passa a ser judicial, por ação retificativa ou demarcatória - e a planta com ART continua sendo a prova central do processo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Registro da nova configuração"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Averbação concluída, a matrícula passa a descrever o imóvel tal como ele é. A partir dali, venda, financiamento, obra e inventário correm sobre bases sólidas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os erros que mais travam retificações"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta elaborada por leigo ou por aplicativo - indeferimento na porta do cartório",
+          "Ignorar os confrontantes - tentar retificar sem conversar com vizinho afetado transforma procedimento simples em processo judicial longo",
+          "Usar a cerca como verdade absoluta - a cerca prova posse, não limite legal; às vezes ela própria é a irregularidade",
+          "Medir com GPS de celular - precisão insuficiente para qualquer finalidade registral",
+          "Esquecer benfeitorias e ocupações - construções sobre a linha do limite complicam o desenho da nova configuração",
+          "Matrícula desatualizada - ônus, averbações pendentes e titularidade irregular precisam estar resolvidos antes do pedido"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O custo de não regularizar"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Venda travada - comprador e banco exigem coincidência entre área anunciada e registrada",
+          "Obra embargada - projeto que invade área de vizinho ou de logradouro público para na fiscalização",
+          "Risco de perder área - trecho não utilizado e não documentado pode ser objeto de usucapião de terceiro",
+          "Conflito familiar ampliado - herança com áreas indefinidas multiplica disputas a cada geração",
+          "Valorização comprometida - imóvel documentalmente limpo vale mais e negocia mais rápido em qualquer mercado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades de Navegantes e do Litoral Norte de SC"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Loteamentos balneários antigos - parcelamentos das décadas de 1950 a 1980 concentram descrições imprecisas e ruas que mudaram de traçado",
+          "Terrenos próximos a mar e rios - linhas de preamar e margens variáveis exigem atenção redobrada com áreas de preservação e faixas públicas",
+          "Expansão urbana acelerada - valorização recente transformou divergências antes irrelevantes em litígios de alto valor",
+          "Processos de regularização fundiária (Reurb) - retificação de limites frequentemente integra o pacote de regularização de bairros inteiros",
+          "Cartório e prefeitura locais - experiência com as exigências específicas de cada órgão encurta prazos e evita ciclos de exigência"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre retificação de limites"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso do vizinho de acordo? Para a via consensual no cartório, sim - todos os confrontantes afetados devem anuir. Sem acordo, a solução é judicial. Na prática, uma planta técnica bem feita costuma convencer: o vizinho entende que o objetivo não é tirar terra dele, e sim deixar tudo documentado corretamente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença entre retificação, desmembramento e remembramento? Retificação corrige o registro de um imóvel existente. Desmembramento separa parte de um imóvel para criar outro. Remembramento junta imóveis contiguos. São procedimentos diferentes que, inclusive, podem se combinar no mesmo processo de regularização."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Meu GPS de celular mostra uma área diferente. Vale algo? Não para fins legais. A precisão de aparelhos comuns varia em vários metros, enquanto o registro exige precisão de centímetros amarrada ao sistema oficial de referências. Só levantamento com equipamento e método adequados serve de base documental."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comprei uma casa com área menor do que dizia a escritura. E agora? A retificação ajusta o registro à realidade - mas a consequência patrimonial (diferença de preço) é questão contratual entre vendedor e comprador, muitas vezes resolvida por abatimento ou ação. O laudo técnico quantifica a divergência e sustenta qualquer negociação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva? Depende do consenso e da complexidade. Com confrontantes de acordo e documentação limpa, a via cartorial costuma ser significativamente mais rápida do que qualquer ação judicial. Divergência com impugnação segue o tempo do Judiciário - mais uma razão para investir na qualidade técnica inicial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Retifique os limites do seu terreno com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com levantamentos topográficos conforme NBR 13133, plantas georreferenciadas, memoriais descritivos, análise documental e articulação completa junto a cartórios e prefeitura para retificação de limites, desmembramentos e regularização fundiária - tudo com engenheiros habilitados e ART registrada no CREA-SC. Se as medidas da sua matrícula não batem com o seu terreno, fale com nossa equipe: resolver no papel custa muito menos que discutir cerca com vizinho em juízo."
+      }
+    }
+  ]
+}

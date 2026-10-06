@@ -1,0 +1,305 @@
+{
+  "slug": "laudo-de-patologias-prediais",
+  "title": "Laudo de Patologias Prediais: Como Diagnosticar as Doenças do Seu Imóvel e Planejar o Reparo",
+  "tag": "LAUDOS",
+  "image": "/images/Trincas e Rachaduras.png",
+  "imageAlt": "Engenheiro civil apontando fissuras e patologias em parede de edificação durante laudo técnico no litoral de Santa Catarina.",
+  "excerpt": "O laudo de patologias prediais identifica a causa raiz dos defeitos do imóvel - fissuras, infiltrações, corrosão e umidade - e embasa o projeto de reparo. Veja como é feito, o que diferencia de vistoria e laudo técnico, e por que ele poupa dinheiro no litoral de SC.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda edificação envelhece, e com o tempo surgem os sintomas: trincas nas paredes, manchas de infiltração, mofo, ferrugem aparente no concreto, pisos desalinhados. Esses sintomas são chamados de patologias prediais - as \"doenças\" da construção. Mas sintoma não é diagnóstico: para curar, é preciso descobrir a causa. —0 exatamente isso que faz o laudo de patologias prediais."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Santa Catarina, a agressividade do ambiente acelera o aparecimento de patologias. A maresia corrói a armadura, a umidade do lençol alto sobe pelas paredes, e o solo arenoso provoca recalque. Este guia explica o que é o laudo de patologias, como ele é feito, o que diferencia de outros documentos e por que ele é o ponto de partida obrigatório de qualquer reparo bem-sucedido."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o laudo de patologias prediais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo de patologias prediais é um documento técnico, assinado por engenheiro civil com ART, que investiga os defeitos de uma edificação, identifica suas causas e recomenda as soluções corretas. Ele não se limita a listar o que está visível: vai à raiz do problema - se a fissura vem de recalque, de retração, de corrosão ou de sobrecarga - para que o reparo trate a causa e não apenas a mancha."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Identificação das patologias: o que está danificado (fissura, infiltração, corrosão, descolamento)",
+          "Diagnóstico da causa: por que aconteceu (recalque, maresia, projeto, execução, uso)",
+          "Mapeamento e classificação: gravidade e localização de cada defeito",
+          "Recomendação de reparo: solução técnica adequada a cada causa",
+          "Orçamento referencial: base para contratar a recuperação com segurança"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo de patologias x vistoria predial x laudo técnico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os termos se confundem, mas têm funções diferentes. Entender a distinção evita contratar o documento errado."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria predial (NBR 16280): mapeia o estado de conservação geral e pode apontar indícios de patologia",
+          "Laudo técnico de imóvel: descreve as condições do bem para compra, venda ou seguro",
+          "Laudo de patologias prediais: foco em diagnosticar a causa dos defeitos e recomendar o reparo",
+          "Perícia de engenharia: versão com caráter judicial ou extrajudicial, com rigor probatório"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Principais patologias que o laudo diagnostica"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fissuras e trincas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "São as mais comuns. A largura, a direção e o local revelam a origem: fissura de retração (finas e em cruz, na fase inicial), fissura de recalque (em diagonal, junto a esquadrias), fissura por corrosão (ao longo da armadura, com descamação do concreto) ou fissura estrutural (larga e contínua, sinal de sobrecarga)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Infiltrações e umidade"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Manchas, mofo e bolor indicam água onde não deveria estar. A causa pode ser impermeabilização rompida, tubulação furada, capilaridade do solo ou falha em quadros de concreto. O laudo rastreia a origem para não trocar o piso enquanto o cano continua vazando."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Corrosão de armadura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral, a maresia penetra no concreto, oxida a armadura e a expansão rompe o cobrimento, descascando a peça. —0 uma das patologias mais graves por atingir a resistência estrutural e exige diagnóstico precoce."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Descolamento e patologias de acabamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Revestimentos que soltam, pinturas que descascam, azulejos estufados e contrapisos fissurados decorrem de falhas de preparo de base, umidade ou movimentação da estrutura. São sintomas frequentes de problemas mais profundos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é feito o laudo de patologias (metodologia)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Entrevista e histórico: quando surgiram os defeitos, obras vizinhas, reformas anteriores",
+          "2. Vistoria visual sistemática: mapeamento fotográfico de cada patologia com medição",
+          "3. Ensaios não destrutivos: paquímetro de cobrimento, esclerômetro, radar GPR, termografia, teste de carbonatação",
+          "4. Análise de umidade e infiltração: traçadores, medidores de umidade e inspeção de redes",
+          "5. Diagnóstico da causa: correlação dos dados com normas (NBR 13783, NBR 15575)",
+          "6. Relatório e recomendação: laudo com ART, desenho de reparo e orçamento referencial"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o laudo evita gastar à toa"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Reparar o sintoma sem tratar a causa é a maior fonte de dinheiro jogado fora na construção. Pintar por cima de uma infiltração não estanca o vazamento; tampar fissura de recalque não devolve a estabilidade. O laudo direciona o reparo certo, na causa certa, evitando ciclos de refazer."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Evita retrabalho: conserta a causa, não a mancha",
+          "Dá base de orçamento: o reparo deixa de ser \"pelo olho\"",
+          "Embasa seguro e justiça: documento com ART tem validade",
+          "Prioriza o risco: trata primeiro o que ameaça a estrutura",
+          "Protege na compra e venda: revela o real estado do imóvel"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Patologias no litoral de SC: por que aqui é pior"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, Itajaí, Balneário Camboriú e Penha, três fatores multiplicam as patologias: a salinidade da maresia, a umidade do lençol freático alto e a agitação de obras vizinhas em terrenos arenosos. O laudo precisa considerar esses agentes ou o reparo fracassa em poucos anos."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia: exige materiais e pinturas específicas, senão a corrosão retorna",
+          "Lençol alto: umidade ascendente exige barreira capilar e drenagem",
+          "Vibração de vizinhos: abre fissuras em edificações já sensíveis",
+          "Vento e chuva frontal: infiltrações por fachada mal vedada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando solicitar um laudo de patologias"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ao comprar imóvel usado: revela defeitos ocultos antes de assinar",
+          "Ante trincas ou infiltrações recorrentes: antes de contratar o reparo",
+          "Após sinistro: incêndio, enchente, deslizamento ou obra vizinha",
+          "Para acionar seguro ou vizinho responsável: documento com validade",
+          "Na entrega de obra: conferir se há defeitos de execução"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns ao lidar com patologias"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contratar pintor em vez de engenheiro: a causa continua ativa",
+          "Ignorar fissura \"-finazinha\": pode ser corrosão ou recalque inicial",
+          "Usar produto milagroso sem diagnóstico: solução genérica raramente resolve",
+          "Poupar no laudo e pagar caro no reparo errado: ordem invertida",
+          "Aceitar laudo sem ART: sem responsabilidade técnica, perde validade"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Patologia não some com maquiagem. O laudo de patologias é o exame que aponta a doença - e sem ele, qualquer reparo é apostar no escuro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa um laudo de patologias prediais"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Imóvel térreo ou apartamento (vistoria + laudo): R$ 1.200 a R$ 3.500",
+          "Casa ou prédio de 2 a 5 pavimentos com ensaios: R$ 3.500 a R$ 9.000",
+          "Edifício de maior porte (equipe + GPR + termografia): R$ 9.000 a R$ 25.000",
+          "Laudo pericial (judicial/seguro): R$ 5.000 a R$ 18.000 conforme complexidade",
+          "Reparo (orçado à parte): sempre menor quando a causa é conhecida"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores de referência 2026 para a região de Navegantes e litoral norte catarinense. O custo do laudo costuma ser uma fração do reparo feito sem diagnóstico - que pode ser refeito duas ou três vezes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre laudo de patologias"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo substitui o projeto de reparo? Não. O laudo diagnostica e recomenda; o projeto de recuperação detalha a execução. Juntos, garantem que o reparo vai à causa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso abrir o piso ou quebrar parede? Quase nunca. Os ensaios não destrutivos (GPR, termografia, medidores de umidade) localizam o problema sem quebra-quebra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem pode assinar? Engenheiro civil registrado no CREA-SC, com ART. Em casos complexos, a equipe inclui especialista em patologias ou estruturas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Serve para acionar o vizinho culpado? Sim. O laudo com ART embasa notificação, seguro e ação judicial apontando a origem do dano."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo de patologias prediais com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia elabora laudos de patologias prediais em Navegantes e no litoral norte de Santa Catarina, combinando vistoria visual, ensaios não destrutivos e diagnóstico de causa com ART no CREA-SC. Conhecemos os mecanismos de degradação típicos da maresia e do solo arenoso da região e entregamos um laudo que embasa o reparo correto - poupando retrabalho e dinheiro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o seu imóvel tem trincas, infiltrações ou descascamentos, não maquie: diagnostique. Fale com nossa equipe e solicite um laudo de patologias. Vamos achar a causa e desenhar o reparo que resolve de verdade - com segurança técnica e validade jurídica."
+      }
+    }
+  ]
+}

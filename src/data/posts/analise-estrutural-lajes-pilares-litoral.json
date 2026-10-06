@@ -1,0 +1,167 @@
+{
+  "slug": "analise-estrutural-lajes-pilares-litoral",
+  "title": "Análise Estrutural de Lajes e Pilares em Regiões Litorâneas",
+  "tag": "ENGENHARIA",
+  "image": "/images/analise-estrutura.png",
+  "imageAlt": "Análise estrutural de lajes e pilares de concreto em construção no litoral de Navegantes SC, com salinidade e maresia como fatores críticos.",
+  "excerpt": "Salitre, maresia e umidade aceleram a corrosão das armaduras e podem comprometer lajes e pilares. Entenda como é feita a análise estrutural no litoral, quais os sinais de alerta e como proteger a estrutura da sua edificação.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Lajes e pilares são o esqueleto de qualquer edificação — e, no litoral, esse esqueleto vive sob ataque permanente. A maresia carregada de cloretos, a alta umidade relativa do ar e a proximidade do mar fazem do concreto armado de regiões litorâneas um caso à parte na engenharia. O que seria uma estrutura comum no interior pode apresentar corrosão precoce em poucos anos à beira-mar. Por isso, a análise estrutural no litoral exige olhar técnico específico: não basta medir trinca; é preciso entender como o sal está corroendo a estrutura por dentro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra como funciona a análise estrutural de lajes e pilares em regiões litorâneas, como as regiões de Navegantes, Balneário Camboriú, Itajaí e demais cidades do litoral norte catarinense: os mecanismos de deterioração, os sinais de alerta, os métodos de inspeção e ensaio e as medidas de proteção que aumentam a vida útil da estrutura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o litoral é agressivo com o concreto armado"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cloretos — o sal presente na maresia penetra no concreto, atinge as armaduras e destrói a camada passivadora que as protege da corrosão; é o principal agente de deterioração no litoral",
+          "Umidade relativa alta — mantém o concreto saturado por longos períodos, acelerando a penetração de agentes agressivos e a velocidade da corrosão",
+          "Ciclos de molhagem e secagem — a região de variação do nível de umidade concentra a corrosão em faixas específicas de pilares e paredes, como embaixo de janelas e em sacadas",
+          "Ventos com salitre — as fachadas voltadas para o mar recebem muito mais carga de cloretos que as fachadas protegidas",
+          "Areia e solo salinos — fundações, pilares de subsolo e estruturas em contato com o solo sofrem ataque adicional de sulfatos e cloretos presentes no terreno"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No litoral, a estrutura não deteriora por falta de resistência — deteriora pela corrosão que o sal provoca nas armaduras por dentro do concreto."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como lajes e pilares se deterioram"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pilares — a corrosão das armaduras longitudinais e dos estribos reduz a seção de aço, diminui a capacidade de carga e pode provocar fissuras verticais e o desplacamento do cobrimento (esmagamento do concreto próximo à armadura)",
+          "Lajes — a corrosão das armaduras inferiores, mais próximas da face de baixo, gera fissuras longitudinais acompanhando os vergalhões e manchas de ferrugem (nichos de corrosão), além de flechas excessivas",
+          "Desplacamento — a expansão da ferrugem (2 a 10 vezes o volume original do aço) pressiona o concreto de dentro para fora e arranca o cobrimento",
+          "Carbonatação — o CO—\u001a\u001a do ar neutraliza a alcalinidade do concreto em profundidade, deixando a armadura desprotegida; em conjunto com os cloretos, acelera o quadro",
+          "Fissuras de retração e movimentação — fissuras que não comprometem a estrutura isoladamente, mas abrem caminho para a entrada de água e sal, alimentando a corrosão interna"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "A análise estrutural: o que o engenheiro investiga"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A análise estrutural de lajes e pilares combina inspeção visual, ensaios não destrutivos e, quando necessário, ensaios com pequenas extrações. O objetivo é responder a três perguntas: a estrutura está segura hoje? Quão rápido ela está deteriorando? E quanto tempo de vida útil resta antes de exigir intervenção?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Inspeção visual e mapeamento — levantamento de fissuras, manchas, desplacamentos e armaduras expostas, com mapa de deterioração por pavimento e posição",
+          "Esclerometria — medição da resistência superficial do concreto, indicando a classe real do concreto (resistência à compressão estimada)",
+          "Pacometria — localização das armaduras, cobrimento real e espaçamento das barras, essencial para saber se o cobrimento protege ou se as armaduras estão expostas ao sal",
+          "Ensaio de carbonatação — teste químico com solução de fenolftaleína para medir a profundidade da frente de carbonatação no concreto",
+          "Ensaio de cloretos — extração e análise de amostras para medir o teor de cloretos na profundidade das armaduras; é o ensaio decisivo no litoral",
+          "Ultrassom e termografia — detecção de vazios, delaminações internas e regiões com concreto degradado sem romper a estrutura",
+          "Extração de testemunhos — quando há dúvida sobre a resistência interna, são extraídos corpos de prova do concreto para ensaio de compressão em laboratório",
+          "Prova de carga — em casos específicos, a laje é carregada de forma controlada para medir flechas e comportamento real sob carga"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Normas e critérios técnicos que norteiam a análise"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 6118 — projeto de estruturas de concreto: define cobrimento mínimo, classe de agressividade ambiental (no litoral, classes III e IV), resistência mínima do concreto e durabilidade",
+          "NBR 8681 — ações e segurança nas estruturas, base para a verificação dos estados-limite último e de serviço",
+          "NBR 15575 — desempenho de edificações: estabelece vida útil mínima de projeto dos elementos estruturais",
+          "NBR 9575 e NBR 9574 — impermeabilização, proteção complementar de lajes e áreas sujeitas à umidade",
+          "NBR 12655 — concreto de cimento Portland: especificações de preparo, controle e recebimento"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como proteger lajes e pilares no litoral"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cobrimento adequado — no litoral, o cobrimento das armaduras deve ser maior que o mínimo do interior; cobrimento curto é a principal causa de corrosão precoce",
+          "Concreto com resistência e impermeabilidade maiores — classes C25/C30 ou superiores e relação água/cimento baixa reduzem a penetração de cloretos",
+          "Impermeabilização — lajes de cobertura, terraços, sacadas e áreas molhadas exigem sistema de impermeabilização executado por profissionais, sem emendas mal resolvidas",
+          "Execução correta do cobrimento — uso de espaçadores e apoio adequado das armaduras para que o cobrimento projetado exista de fato na obra",
+          "Cura do concreto — cura úmida adequada evita fissuras de retração plástica que abrem caminho para o sal",
+          "Proteção de fachadas — pinturas e revestimentos adequados à maresia criam uma barreira adicional ao salitre",
+          "Manutenção preventiva — rufos, calhas, pingadeiras e acabamentos em bom estado evitam que a água carregada de cloretos atinja a estrutura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sinais de que a estrutura precisa de análise urgente"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Manchas de ferrugem nas lajes e pilares, com ou sem fissuras — indício direto de corrosão das armaduras",
+          "Desplacamento do concreto com armadura exposta e corroída",
+          "Fissuras verticais em pilares, fissuras acompanhando vergalhões em lajes e flechas visíveis",
+          "Vibrações, ruídos e sensação de instabilidade ao usar os pavimentos",
+          "Obra construída há mais de 20 anos sem manutenção estrutural, principalmente em área de influência da maresia"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a sua edificação apresenta qualquer um desses sinais, a recomendação é uma vistoria técnica antes de qualquer serviço. Analisar antes de remediar evita gastos desnecessários e, principalmente, garante que o tratamento ataque a causa — a corrosão — e não apenas a aparência."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O caminho certo para cuidar da estrutura no litoral"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A análise estrutural de lajes e pilares em regiões litorâneas começa com inspeção técnica, passa pelos ensaios que medem a corrosão (cloretos, carbonatação, cobrimento) e termina com um diagnóstico com laudo e plano de intervenção. Na Regê Engenharia, realizamos vistorias e laudos de análise estrutural em Navegantes e todo o litoral catarinense, com avaliação da durabilidade, mapeamento de deterioração e recomendação técnica clara. Se a sua obra está no litoral e você quer saber como está a estrutura — ou se surgiram os primeiros sinais de corrosão —, chame um engenheiro antes que a ferrugem faça o diagnóstico por você."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "slug": "artigo-laudo-vistoria",
+  "title": "Por Que Contratar um Engenheiro para Fazer um Laudo de Vistoria?",
+  "tag": "LAUDOS",
+  "image": "/images/analise-estrutura.png",
+  "imageAlt": "Por Que Contratar um Engenheiro para Fazer um Laudo de Vistoria? - artigo técnico da Regê Engenharia sobre laudos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Um laudo de vistoria é um documento técnico fundamental que atesta as condições reais de um imóvel, seja ele residencial, comercial ou industrial.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um laudo de vistoria é um documento técnico fundamental que atesta as condições reais de um imóvel, seja ele residencial, comercial ou industrial. Embora pareça tentador economizar contratando profissionais sem a devida qualificação ou tentando fazer \"por conta própria\", os riscos superam em muito a economia inicial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "A Responsabilidade Técnica e Legal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O engenheiro é o único profissional legalmente habilitado para assinar laudos técnicos** com validade jurídica. Segundo o CONFEA/CREA, apenas engenheiros e arquitetos registrados nos respectivos conselhos podem emitir Anotação de Responsabilidade Técnica (ART) — documento que garante a responsabilidade civil e criminal pelo conteúdo do laudo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um laudo sem ART não tem valor legal em:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Processos judiciais",
+          "Negociações de compra e venda",
+          "Financiamentos bancários",
+          "Seguros e sinistros",
+          "Regularizações junto à prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que Um Engenheiro Avalia Que Outros Não Avaliam"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Estrutura e Fundação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Trincas, fissuras e recalques diferenciais",
+          "Estado de vigas, pilares, lajes e fundações",
+          "Sinais de corrosão de armaduras",
+          "Capacidade de carga residual"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Instalações Prediais"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elétrica: dimensionamento, aterramento, quadro de distribuição, conformidade NBR 5410",
+          "Hidráulica: pressurização, vazamentos ocultos, materiais, conformidade NBR 5626",
+          "Gás: estanqueidade, ventilação, conformidade NBR 13103",
+          "SPDA (para-raios): continuidade, aterramento, conformidade NBR 5419"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Envelope do Edifício"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Impermeabilização de lajes, terraços, reservatórios",
+          "Fachadas: revestimentos, vedação, patologias",
+          "Coberturas: telhas, calhas, rufos, drenagem"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Acessibilidade e Segurança"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Conformidade NBR 9050 (acessibilidade)",
+          "Saídas de emergência, sinalização, extintores",
+          "Guarda-corpos, pisos antiderrapantes"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Patologias Construtivas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Umidade de infiltração, condensação, capilaridade",
+          "Eflorescências, mofo, bolor",
+          "Descolamentos de revestimentos",
+          "Carbonatação do concreto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os Riscos de Não Contratar um Engenheiro"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Risco",
+          "Consequência"
+        ],
+        "rows": [
+          [
+            "Laudo sem validade jurídica",
+            "Inaceitável em juízo, bancos, cartórios"
+          ],
+          [
+            "Vícios ocultos não identificados",
+            "Prejuízos financeiros futuros (reparos custosos)"
+          ],
+          [
+            "Responsabilidade civil",
+            "Quem contratou responde por danos a terceiros"
+          ],
+          [
+            "Problemas de seguro",
+            "Seguradora pode negar cobertura por falta de laudo válido"
+          ],
+          [
+            "Multas e embargos",
+            "Fiscalização municipal exige ART para reformas/regularizações"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o Laudo de Vistoria —0 Obrigatório ou Recomendado"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Obrigatório por Lei/Norma:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria de vizinhança (NBR 13752) — antes de obras próximas a imóveis existentes",
+          "Laudo de recebimento — entrega de obra nova (ABNT NBR 15575)",
+          "Vistoria para AVCB/CLCB — Corpo de Bombeiros",
+          "Regularização de imóveis — prefeituras exigem laudo com ART"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Altamente Recomendado:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Compra de imóvel usado — identifica vícios ocultos antes do negócio",
+          "Locação comercial/industrial — protege locador e locatário (entrada/saída)",
+          "Reformas estruturais — antes e depois da intervenção",
+          "Sinistros — incêndio, inundação, impacto veicular, vendaval",
+          "Vistoria periódica — edificações acima de 20 anos (algumas cidades exigem)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que Deve Conter Um Laudo de Vistoria Completo"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Identificação — dados do imóvel, solicitante, finalidade",
+          "Metodologia — normas técnicas aplicadas, equipamentos utilizados",
+          "Descrição detalhada — item a item, com localização (planta/croqui)",
+          "Registro fotográfico — datado, legendado, amplo e em detalhe",
+          "Diagnóstico técnico — causa, gravidade, evolução provável",
+          "Classificação de risco — crítico, alto, médio, baixo, inexistente",
+          "Recomendações — reparos necessários, prazos, prioridades",
+          "Estimativa de custos — orçamentação referencial (opcional)",
+          "Conclusão técnica — parecer final do engenheiro",
+          "ART — Anotação de Responsabilidade Técnica registrada no CREA"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Escolher o Engenheiro Certo"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "O Que Verificar"
+        ],
+        "rows": [
+          [
+            "Registro ativo",
+            "Consulta no site do CREA da sua região"
+          ],
+          [
+            "Especialização",
+            "Engenharia Civil, preferencialmente com pós em Patologia/Perícias"
+          ],
+          [
+            "Experiência",
+            "Portfólio de laudos similares ao seu caso"
+          ],
+          [
+            "Equipamentos",
+            "Medidor de umidade, trena a laser, endoscópio, termografia (diferencial)"
+          ],
+          [
+            "Seguro de responsabilidade civil",
+            "Proteção adicional para o cliente"
+          ],
+          [
+            "Prazo e entregáveis",
+            "Definidos em contrato escrito"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Investimento x Retorno"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um laudo de vistoria bem feito custa, em média, **0,5% a 2% do valor do imóvel**. Já o custo de reparar um problema estrutural não detectado pode chegar a **10% a 30% do valor do imóvel** — sem contar danos a terceiros, interdições e desvalorização patrimonial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Contratar um engenheiro para fazer o laudo de vistoria **não é custo — é investimento em segurança jurídica, patrimonial e humana**. A economia aparente de contratar \"qualquer pessoa\" ou dispensar o laudo pode resultar em prejuízos irreparáveis. Exija sempre a ART, verifique o registro no CREA e guarde o laudo como documento histórico do imóvel."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo técnico informativo. Para casos concretos, consulte sempre um engenheiro registrado no CREA da sua jurisdição.*"
+      }
+    }
+  ]
+}

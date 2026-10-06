@@ -1,0 +1,419 @@
+{
+  "slug": "como-engenheiro-planeja-fase-fundacoes-casa",
+  "title": "Como um Engenheiro Planeja a Fase de Fundações da Sua Casa",
+  "tag": "GEOTECNIA",
+  "image": "/images/Trincas e Rachaduras.png",
+  "imageAlt": "Como um Engenheiro Planeja a Fase de Fundações da Sua Casa - artigo técnico da Regê Engenharia sobre geotecnia em Navegantes e Litoral Norte de SC.",
+  "excerpt": "A fundação é o elemento mais crítico de qualquer edificação. —0 ela que transfere todas as cargas da estrutura para o solo, garantindo estabilidade, segurança e durabilidade da construção.",
+  "readTime": "4 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fundação é o elemento mais crítico de qualquer edificação. —0 ela que transfere todas as cargas da estrutura para o solo, garantindo estabilidade, segurança e durabilidade da construção. Um erro nesta fase pode comprometer toda a obra, gerando patologias irreversíveis como trincas, recalques diferenciais e até colapso estrutural."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste artigo, explicamos o processo técnico que um engenheiro civil segue para planejar e executar a fase de fundações de uma residência."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Estudo Geotécnico do Terreno (Sondagem)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de qualquer dimensionamento, o engenheiro precisa conhecer o solo onde a casa será construída. Isso é feito através de **sondagens a percussão (SPT)** ou **sondagens rotativas**, que fornecem:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Perfil do solo: identificação das camadas (argila, areia, silte, rocha)",
+          "Capacidade de carga: resistência do solo (NSPT)",
+          "Nível d'água: profundidade do lençol freático",
+          "Profundidade da camada resistente: onde a fundação deve apoiar"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regra prática: para residências de até 2 pavimentos, recomenda-se no mínimo 3 pontos de sondagem (um em cada canto e um no centro). Para terrenos maiores ou irregulares, aumenta-se a quantidade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Definição do Tipo de Fundação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com base no relatório geotécnico e nas cargas da edificação, o engenheiro seleciona o tipo de fundação mais adequado:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Fundação",
+          "Indicação Principal"
+        ],
+        "rows": [
+          [
+            "Sapatas isoladas",
+            "Solos bons, cargas leves, poucas colunas"
+          ],
+          [
+            "Sapatas associadas (corridas)",
+            "Muros de carga, alinhamento de colunas"
+          ],
+          [
+            "Radier (laje de fundação)",
+            "Solos fracos, cargas distribuídas, lençol freático alto"
+          ],
+          [
+            "Estacas (hélice contínua, raiz, pré-moldadas)",
+            "Solos moles profundos, cargas elevadas, recalques inadmissíveis"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Critérios de decisão**:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Capacidade de carga do solo vs. tensão admissível",
+          "Limite de recalque total e diferencial (NBR 6122)",
+          "Custo-benefício e prazo de execução",
+          "Interferências com vizinhos e logística de canteiro"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Dimensionamento Estrutural"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma vez definido o tipo, o engenheiro calcula:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Para Sapatas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Área da base: A = Carga total / Tensão admissível do solo",
+          "Altura da sapata: verificação de punçãoão e flexão (NBR 6118)",
+          "Armaduras: bitolas, espaçamento e comprimento de ancoragem"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Para Radier:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Espessura da laje: baseada em flecha e punçãoão",
+          "Vigas de rigidez: para controlar recalques diferenciais",
+          "Malha de aço: superior e inferior (dupla armadura em regiões de momento negativo)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Para Estacas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Carga admissível: por formulação teórica (Meyerhof, Decourt) ou prova de carga",
+          "Comprimento e diâmetro: até atingir camada resistente",
+          "Bloco de coroamento: transição entre estaca e pilar"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Verificação de Recalques"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A **NBR 6122** estabelece limites para recalques:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Edificação",
+          "Recalque Total Máximo",
+          "Recalque Diferencial Máximo"
+        ],
+        "rows": [
+          [
+            "Residencial (alvenaria estrutural)",
+            "3 cm",
+            "0,004 —\u0014 distância entre apoios"
+          ],
+          [
+            "Residencial (estrutura de concreto)",
+            "5 cm",
+            "0,005 —\u0014 distância entre apoios"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro simula o comportamento do solo (método elástico ou numérico) e ajusta a geometria da fundação se os limites forem excedidos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Detalhamento Executivo (Projeto de Fundações)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto entregue à obra contém:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta de locação: coordenadas de cada elemento (sapata, estaca, bloco)",
+          "Cortes e detalhes: cotas de fundo, armaduras, juntas de concretagem",
+          "Especificações de materiais: fck do concreto, classe do aço (CA-50, CA-60), aditivos",
+          "Sequência executiva: ordem de escavação, formas, armação, concretagem, cura",
+          "Drenagem de fundação: drenos de fundo, manta de drenagem, impermeabilização"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Planejamento de Execução e Controle Tecnológico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro define o **Plano de Controle Tecnológico (PCT)** com ensaios obrigatórios:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Ensaio",
+          "Frequência Mínima",
+          "Norma"
+        ],
+        "rows": [
+          [
+            "Slump test (abatimento)",
+            "A cada 50 m³ ou 1 caminhão",
+            "NBR NM 67"
+          ],
+          [
+            "Moldagem de corpos de prova",
+            "1 jogo (3 cp) a cada 50 m³",
+            "NBR 5738"
+          ],
+          [
+            "Compressão de concretos (7 e 28 dias)",
+            "100% dos corpos de prova",
+            "NBR 5739"
+          ],
+          [
+            "Verificação de armaduras",
+            "100% dos elementos",
+            "Projeto + NBR 7480"
+          ],
+          [
+            "Nivelamento de fundo de escavação",
+            "100% das sapatas/estacas",
+            "NBR 6122"
+          ],
+          [
+            "Prova de carga em estacas",
+            "Conforme projeto (estacas-teste)",
+            "NBR 12131"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Cuidados Especiais Comuns em Residências"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Lençol Freático Alto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Rebaixamento temporário (wellpoints, bombas)",
+          "Concreto com aditivo impermeabilizante",
+          "Impermeabilização rigorosa (manta asfáltica, poliuretano)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Vizinhança Próxima"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Escoramento de contenção (berlinde, cortina atirantada)",
+          "Monitoramento de recalques no imóvel vizinho",
+          "Injeção de calda de cimento para melhoria do solo"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Solos Expansivos (Argilas Ativas)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fundação mais profunda (abaixo da zona de variação de umidade)",
+          "Vazios sanitários ventilados",
+          "Mantas de isolamento (EPS, XPS) sob radier"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "8. Entrega e As-Built"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ao final da fase, o engenheiro entrega:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Relatório fotográfico de todas as etapas",
+          "Laudo de ensaios tecnológicos (concreto, solo, armaduras)",
+          "As-built de fundações: planta com cotas reais executadas",
+          "ART (Anotação de Responsabilidade Técnica) de execução"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist Resumido para o Proprietário"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—S& Contratou sondagem geotécnica com empresa credenciada? —S& Projeto de fundações assinado por engenheiro civil com CREA ativo? —S& Tipo de fundação compatível com solo e estrutura? —S& Concreto com fck especificado e rastreabilidade (nota fiscal, slump test)? —S& Armaduras conferidas antes da concretagem (bitola, espaçamento, cobrimento)? —S& Impermeabilização e drenagem previstas e executadas? —S& Ensaio de compressão aos 28 dias com resultado —0— fck? —S& As-built e ART de fundações arquivados?"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Planejar a fase de fundações não é \"fazer um buraco e encher de concreto\". Envolve **geotecnia, estruturas, materiais, logística e normativa**. O engenheiro civil é o profissional habilitado para integrar todas essas variáveis e garantir que sua casa tenha uma base segura, econômica e durável."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não economize na fundação.** O custo de corrigir um erro aqui supera em dezenas de vezes o investimento em um projeto bem feito e uma execução controlada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Normativas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 6122 —\u001c Projeto e execução de fundações",
+          "NBR 6118 —\u001c Projeto de estruturas de concreto",
+          "NBR 5738/5739 —\u001c Concreto: moldagem e ensaio de compressão",
+          "NBR 7480 —\u001c Armaduras para concreto armado",
+          "NBR 12131 —\u001c Prova de carga em estacas",
+          "NBR 15575 —\u001c Desempenho de edificações habitacionais"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo técnico para fins educativos. Consulte sempre um engenheiro civil registrado no CREA para seu projeto específico.*"
+      }
+    }
+  ]
+}

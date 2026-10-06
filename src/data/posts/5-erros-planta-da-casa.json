@@ -1,0 +1,89 @@
+{
+  "slug": "5-erros-planta-da-casa",
+  "tag": "PROJETOS",
+  "image": "/images/5-erros-planta-da-casa/image.avif",
+  "imageAlt": "Planejamento de Projetos",
+  "excerpt": "Erros simples no layout arquitetônico podem custar caro e comprometer o conforto. Veja como evitá-los em conjunto com seu engenheiro.",
+  "readTime": "6 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Desenhar a planta de uma casa é um dos momentos mais empolgantes da construção. No entanto, é também quando muitos erros graves são cometidos — erros que só serão percebidos quando a obra já estiver em andamento ou, pior, depois de concluída. Neste artigo, listamos os 5 equívocos mais frequentes e como evitá-los."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Dimensionar cômodos sem pensar na mobília"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um dos erros mais comuns é não considerar o layout da mobília na hora de definir o tamanho dos ambientes. Um quarto de 3x3 metros pode parecer suficiente no papel, mas quando você tenta encaixar uma cama queen, guarda-roupa e mesa de cabeceira, o espaço de circulação desaparece. Sempre projete com o mobiliário em mente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Ignorar a orientação solar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A posição do sol influencia diretamente o conforto térmico e a iluminação natural da sua casa. Quartos voltados para o oeste recebem sol da tarde, tornando-os extremamente quentes. Áreas de estar devem aproveitar a iluminação natural do norte. Um bom projeto considera a orientação solar desde o início."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Corredores longos e improdutivos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Corredores longos desperdiçam metros quadrados valiosos e encarecem a obra. A cada metro de corredor, você está pagando por uma área que não será efetivamente usada. Projetos bem planejados integram os ambientes de forma inteligente, reduzindo ao máximo as áreas de circulação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Pouca atenção às instalações hidráulicas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Banheiros, cozinha e área de serviço devem estar posicionados de forma a otimizar a rede hidráulica. Quando esses ambientes estão distantes entre si, os custos com tubulação e mão de obra aumentam significativamente. Além disso, caminhos longos de tubulação podem gerar problemas de pressão da água."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Não planejar pontos elétricos suficientes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com o avanço da tecnologia, cada vez mais utilizamos dispositivos eletrônicos em casa. Se a planta não contemplar tomadas e pontos de rede em quantidade e posição adequadas, você precisará recorrer a extensões e réguas — prejudicando a estética e a segurança."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O projeto é o alicerce da sua casa. Economizar nessa etapa é o atalho mais caro que existe na construção civil."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Regê Engenharia, cada projeto é desenvolvido com atenção aos detalhes e em parceria com o cliente. Nosso objetivo é garantir que sua casa seja funcional, confortável e valorizada — desde o primeiro traço no papel."
+      }
+    }
+  ]
+}

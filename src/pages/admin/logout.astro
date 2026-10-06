@@ -1,0 +1,11 @@
+---
+export const prerender = false;
+
+return new Response(null, {
+  status: 302,
+  headers: {
+    'Set-Cookie': 'rege_admin=; Path=/; HttpOnly; Max-Age=0',
+    'Location': '/admin/blog',
+  },
+});
+---

@@ -1,0 +1,1125 @@
+{
+  "slug": "como-regularizar-construcao-sem-projeto-aprovado",
+  "title": "Como Regularizar uma Construção Feita sem Projeto Aprovado em Navegantes?",
+  "tag": "REGULARIZAÇÃO",
+  "image": "/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png",
+  "imageAlt": "Como Regularizar uma Construção Feita sem Projeto Aprovado em Navegantes? - artigo técnico da Regê Engenharia sobre regularização em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Construir sem projeto aprovado na prefeitura é uma das situações mais delicadas que um proprietário pode enfrentar — especialmente em Navegantes, onde a fiscalização municipal está mais ativa do.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Introdução"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir sem projeto aprovado na prefeitura é uma das situações mais delicadas que um proprietário pode enfrentar — especialmente em Navegantes, onde a fiscalização municipal está mais ativa do que nunca, e onde a maresia e o crescimento urbano exigem que todas as edificações estejam em conformidade com padrões técnicos rigorosos. Muitos imóveis no litoral norte de SC foram construídos na época em que a burocracia era mais flexível, ou por particulares que \"avançaram\" com a obra antes de obterem as licenças. Hoje, com a atualização do **Código de Obras (LC 416/2023)** e a instituição da **Lei Complementar nº 452/2024** — que instituiu o mecanismo de regularização de obras irregulares — , a pergunta que surge com urgência é: **como sair dessa situação sem perder o imóvel, sem pagar multas descomunais e, acima de tudo, sem colocar a segurança estrutural em risco?**"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo desmonta, passo a passo, o caminho legal e técnico para regularizar uma construção feita sem projeto aprovado em Navegantes. Abordamos os requisitos do **Código de Obras (LC 416/2023)**, a janela de regularização da **LC 452/2024**, a necessidade de ART (Anotação de Responsabilidade Técnica) no CREA-SC, os riscos de não regularizar e o papel essencial do engenheiro nesse processo."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Construir sem projeto é como viajar sem mapa: você vai a algum lugar, mas não sabe se chegará no destino certo. A regularização é o ato de solicitar o mapa — e corrigir o caminho antes que o imóvel vire uma multa.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Fundamentos Legais: O que diz a lei sobre construção sem projeto?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A obrigatoriedade de projeto e licenciamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No Brasil, toda obra — independentemente do porte — deve seguir um processo legal que envolve:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Licença de obra na prefeitura (obrigatória para qualquer alteração estrutural, ampliação, reforma ou construção);",
+          "Projeto executivo elaborado por profissional habilitado (engenheiro ou arquiteto com ART no CREA);",
+          "Aprovação do projeto pela prefeitura antes do início das obras;",
+          "Acompanhamento técnico (vistoria de iníco, andamento e término);",
+          "Alvará de habitabilidade ou Termo de Reforma ao final."
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A ausência de qualquer um desses passos caracteriza uma **infração administrativa municipal** e, em muitos casos, uma **infração penal** (art. 2º da Lei Municipal nº 9.102/1993 de Navegantes)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O Código de Obras de Navegantes (LC 416/2023)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Lei",
+          "Objeto",
+          "Data"
+        ],
+        "rows": [
+          [
+            "—x\u001d— LC nº 416/2023",
+            "Institui o Código de Obras do Município de Navegantes",
+            "06/06/2023"
+          ],
+          [
+            "—x\u001d— LC nº 454/2024",
+            "Altera dispositivos do Código de Obras e Código Urbanístico",
+            "13/08/2024"
+          ],
+          [
+            "—x\u001d— LC nº 452/2024",
+            "Institui o mecanismo de regularização de obras irregulares",
+            "01/07/2024"
+          ],
+          [
+            "—a—️ Lei Municipal nº 9.102/1993",
+            "Define infrações e penalidades por obra irregular",
+            "1993"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Art. 1º da LC 416/2023 — \"—0 vedada a construção, ampliação, alteração ou demolição de edifícios e outras obras sem licença prévia e sem projeto aprovado pela Autarquia Municipal de Planejamento Territorial.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A LC 452/2024: A porta aberta para regularização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A **Lei Complementar nº 452, de 01 de julho de 2024** revolucionou a forma como Navegantes trata obras irregulares. Em vez de apenas multar e condenar, a cidade criou um **mecanismo de regularização progressiva**, que permite que proprietários de obras não licenciadas ou mal projetadas entrem em conformidade mediante documentação técnica, estudos complementares e pagamento de multas."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Elemento",
+          "Exigência",
+          "Base Legal"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Projeto executivo",
+            "Elaborado por engenheiro ou arquiteto com ART",
+            "Art. 5º, LC 452/2024"
+          ],
+          [
+            "—x\u001d— Vistoria técnica de regularização",
+            "Realizada por profissional habilitado",
+            "Art. 6º, LC 452/2024"
+          ],
+          [
+            "—x\u001d— Autuação de irregularidades",
+            "Relação detalhada de não conformidades",
+            "Art. 7º, LC 452/2024"
+          ],
+          [
+            "—a—️ Plano de adequação",
+            "Correções técnicas e prazos definidos",
+            "Art. 8º, LC 452/2024"
+          ],
+          [
+            "—S& Prazo de regularização",
+            "180 dias a partir da autuação",
+            "Art. 9º, LC 452/2024"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Penalidades por construção sem projeto"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Infração",
+          "Multa",
+          "Risco",
+          "Base Legal"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Obra sem licença",
+            "1 UFM a 10 UFMs (até R$ 50.000)",
+            "Autuação e suspensão da obra",
+            "Art. 12, Lei 9.102/1993"
+          ],
+          [
+            "—x\u001d— Construção após recurso negado",
+            "10 a 20 UFMs",
+            "Demolição judicial",
+            "Art. 14, Lei 9.102/1993"
+          ],
+          [
+            "—x\u001d— Falta de ART",
+            "5 a 15 UFMs",
+            "Nulidade do alvará",
+            "Art. 16, Lei 9.102/1993"
+          ],
+          [
+            "—a—️ Projeto não aprovado",
+            "3 a 5 UFMs",
+            "Paralisação obrigatória",
+            "Art. 10, LC 416/2023"
+          ],
+          [
+            "—\u001e—️ Demora na regularização",
+            "1 UFM por mês de atraso",
+            "Aumento acumulado",
+            "Art. 9, LC 452/2024"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Onde UFM (Unidade Fundamental de Multa) é o valor da multa básica definido anualmente pela prefeitura. Em 2026, 1 UFM —0— R$ 5.000."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando é possível regularizar uma construção sem projeto?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nem toda construção irregular pode ser regularizada. A **LC 452/2024** estabelece requisitos objectiveis que devem ser cumpridos para que a regularização seja viável:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Condições para elegibilidade à regularização"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "Exigência",
+          "Observação"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Idade da obra",
+            "Menos de 5 anos (ou até 10 anos com justificativa)",
+            "Obras muito antigas exigem reformulação completa"
+          ],
+          [
+            "—x\u001d— Estrutura ura",
+            "Sem riscos de colapso ou instabilidade",
+            "Exige laudo técnico de segurança"
+          ],
+          [
+            "—x\u001d— Conformidade urbana",
+            "Dentro dos parâmetros do zoneamento",
+            "Uso do solo, altura, recuos, gabarito"
+          ],
+          [
+            "—xx— Documentação do imóvel",
+            "Escritura ou título em nome do proprietário",
+            "Não aceita construção em área de posse"
+          ],
+          [
+            "—xx— Ausência de infrações penais",
+            "Nenhuma obra em área de APP ou patrimônio histórico",
+            "Autuações ambientais anulam a regularização"
+          ],
+          [
+            "—S& Compromisso com adequação",
+            "Pagamento de multas e execução de correções",
+            "Plano de trabalho aprovado pelo engenheiro"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Importante: Edificações em áreas de risco (encostas, rios, orla) ou que envadam a estrutura de vizinhos não são elegíveis para regularização — a única saída é a demolição."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo a passo: Como regularizar uma construção sem projeto"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 1 — Avaliação técnica prévia com engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de qualquer coisa, é essencial fazer uma **avaliação técnica completa** com um engenheiro civil habilitado no CREA-SC. Isso não é um luxo — é a base de tudo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O que o engenheiro verifica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—S& Estrutura — rachaduras, assentamentos, corrosão de armaduras, flecha em lajes",
+          "—S& Instalações — elétrica (NBR 5410), hidráulica (NBR 9077), saneamento",
+          "—S& Fachada e revestimentos — fixação, impermeabilização, exposição à maresia",
+          "—S& Segurança — ausência de risco de colapso, evacuação, proteção contra incêndios",
+          "—S& Conformidade urbana — dentro dos recuos, altura, permeabilidade, fachada ativa"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Avaliar uma construção irregular sem um engenheiro é como tentar ler um raio-X com um termômetro — você vê o calor, mas não vê o osso quebrado.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 2 — Levantamento de irregularidades e autuação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com o apoio do engenheiro, você deve solicitar um **levantamento de irregularidades** junto à **Secretaria de Urbanismo e Meio Ambiente (SUMA)** ou à **Autarquia de Planejamento Territorial (APLAT)**. O processo geralmente envolve:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Requerimento de regularização (formulário disponível no site da prefeitura)",
+          "Autuação administrativa — a prefeitura registra as infrações encontradas",
+          "Prazo de resposta — 10 dias úteis para o proprietário se manifestar",
+          "Emissão de auto de infração com valor da multa"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Documentos exigidos inicialmente:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—S& Cópia da escritura ou título de propiedade",
+          "—S& CPF e RG do proprietário",
+          "—S& Comprovante de pagamento de taxas municipais (IPTU, taxa de lixo)",
+          "—S& Fotografias da edificação (externas e internas)",
+          "—S& Declaração de engenheiro comprobatizando que não há risco imediato à estrutura"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 3 — Elaboração do projeto de regularização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com o autuação em mãos, o engenheiro deve elaborar um **projeto de regularização** que inclui:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto executivo de adequação"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Conteúdo",
+          "Norma de referência"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Estrutura",
+            "Análise e reforço de elementos críticos",
+            "NBR 6118"
+          ],
+          [
+            "—x\u001d— Fundações",
+            "Avaliação de capacidade de suporte do solo",
+            "NBR 6484"
+          ],
+          [
+            "—a—️ Fachada e revestimentos",
+            "Projeto de impermeabilização e proteção contra maresia",
+            "NBR 15575"
+          ],
+          [
+            "—a—️ Instalações",
+            "Redes elétricas, hidráulicas e de esgoto",
+            "NBR 5410, NBR 9077"
+          ],
+          [
+            "—S& Normas de acessibilidade",
+            "Rampas, escadas, passagens",
+            "NBR 9050"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Termo de Compromisso de Adequação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O proprietário deve assinar um **Termo de Compromisso** com a prefeitura, comprometendo-se a:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Executar as correções técnicas identificadas;",
+          "Pagar todas as multas e taxas;",
+          "Submeter a obra a vistoria de término;",
+          "Não utilizar o imóvel para fins comerciais durante a regularização;"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "ART e assinatura do engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Todo projeto de regularização deve ter **ART (Anotação de Responsabilidade Técnica)** registrada no **CREA-SC**, garantindo que o profissional responde tecnicamente por toda a adequação proposta."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 4 — Aprovação do projeto e obtenção do alvará provisório"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Após a submissão do projeto de regularização, o engenheiro e a prefeitura analisam:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fase",
+          "Aprovação",
+          "Documentação"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Análise técnica",
+            "Engenheiro municipal",
+            "Projeto executivo + ART"
+          ],
+          [
+            "—x\u001d— Análise urbanística",
+            "Arquiteto municipal",
+            "Conformidade do zoneamento"
+          ],
+          [
+            "—x\u001d— Aprovação do pleno",
+            "Vereadores",
+            "Decisão final da câmara"
+          ],
+          [
+            "—a—️ Alvará provisório",
+            "SUMA/APLAT",
+            "Permissão para obras de adequação"
+          ],
+          [
+            "—a—️ Licença de obra",
+            "SUMA/APLAT",
+            "Autoriza início das correções"
+          ],
+          [
+            "—S& Início das obras",
+            "Acompanhamento técnico",
+            "Vistoria de início"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 5 — Execução das obras de adequação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As obras de adequação devem ser executadas sob a supervisão do engenheiro responsável, com:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria de início (obrigatória)",
+          "Vistoria de andamento (a cada fase crítica)",
+          "Vistoria de término (com testemunho de conformidade)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Em Navegantes, a fiscalização de obras irregulares é feita pela Subsecretaria de Fiscalização de Obras (SFO), que realiza vistorias in loco e pode multar até 5 UFMs por infração não corrigida."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 6 — Vistoria de término e alvará definitivo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ao final das obras de adequação, o engenheiro emite:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Termo de Reforma/Apreciação Final — comprova que a edificação está em conformidade",
+          "ART de vistoria final — garantia de que as correções foram executadas",
+          "Alvará de Habitabilidade — documento oficial que regulariza o imóvel"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A partir desse momento, a construção passa a ter status legal pleno, podendo ser vendida, financiada ou passado para herdeiros sem risco de autuação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos da regularização: Quanto sai do bolso?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo da regularização varia muito conforme a gravidade da irregularidade e o porte do imóvel. Aqui, uma estimativa para 2026:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Faixa de custos por tipo de irregularidade"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Irregularidade",
+          "Multa Municipal",
+          "Projeto Técnico",
+          "Obras de Adequação",
+          "Total Estimado"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Construção total sem licença (casa/vila)",
+            "R$ 15.000 —\u001c R$ 50.000",
+            "R$ 5.000 —\u001c R$ 10.000",
+            "R$ 20.000 —\u001c R$ 80.000",
+            "R$ 40.000 —\u001c R$ 140.000"
+          ],
+          [
+            "—x\u001d— Ampliação sem aprovação (20-40 m²)",
+            "R$ 10.000 —\u001c R$ 30.000",
+            "R$ 3.000 —\u001c R$ 6.000",
+            "R$ 10.000 —\u001c R$ 30.000",
+            "R$ 25.000 —\u001c R$ 70.000"
+          ],
+          [
+            "—x\u001d— Reforma estrutural clandestina",
+            "R$ 8.000 —\u001c R$ 25.000",
+            "R$ 4.000 —\u001c R$ 8.000",
+            "R$ 15.000 —\u001c R$ 50.000",
+            "R$ 27.000 —\u001c R$ 83.000"
+          ],
+          [
+            "—a—️ Desobediência parcial (sem ART)",
+            "R$ 5.000 —\u001c R$ 15.000",
+            "R$ 2.000 —\u001c R$ 5.000",
+            "R$ 5.000 —\u001c R$ 15.000",
+            "R$ 12.000 —\u001c R$ 35.000"
+          ],
+          [
+            "—a—️ Edificação sem alvará de habitabilidade",
+            "R$ 3.000 —\u001c R$ 10.000",
+            "R$ 1.500 —\u001c R$ 3.000",
+            "R$ 2.000 —\u001c R$ 10.000",
+            "R$ 7.000 —\u001c R$ 23.000"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que está incluído no preço:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—S& Inspeção técnica completa de estrutura, instalações e fachada —S& Planta baixa e memorial descritivo atualizados —S& Projeto executivo de adequação com cálculos estruturais —S& ART (Anotação de Responsabilidade Técnica) registrada no CREA-SC —S& Licença e alvarás municipais —S& Acompanhamento técnico durante as obras —S& Vistoria de término e emissão de habite-se"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dica: Muitos proprietários conseguem reduzir multas em até 40% mediante acordo de colaboração efetiva — apresentar o projeto de regularização em até 30 dias após a autuação, em vez de esperar o prazo máximo de 180 dias."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Riscos de não regularizar: O que acontece se você espera?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Esperar só piora a situação. Veja os riscos reais de não regularizar:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Perda do imóvel"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Consequência"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Ausência de alvará",
+            "A prefeitura pode determinar a demolição judicial"
+          ],
+          [
+            "—x\u001d— Construção em área de risco",
+            "O imóvel é sinalizado como impróprio para habitação"
+          ],
+          [
+            "—x\u001d— Inadimplência municipal",
+            "O IPTU é bloqueado e o imóvel é penhorado"
+          ],
+          [
+            "—xx— Venda de imóvel irregular",
+            "O comprador pode anular a compra e pleitear indenização por dano moral"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Art. 14, Lei 9.102/1993 — \"A obra construída após indeferimento rejeitado ou após ordem de paralisação será considerada clandestina, devendo o responsável respondar por crimes urbanísticos e pedir demolição.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Riscos à segurança e saúde"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construções sem projeto aprovado raramente respeitam as normas técnicas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Flecha excessiva em lajes — risco de colapso",
+          "—x\u001d— Corrosão de armaduras — acelerada pela maresia no litoral",
+          "—x\u001d— Instalações elétricas irregulares — risco de incêndio",
+          "—xx— Falta de acessibilidade — discriminação de pessoas com deficiência",
+          "—xx— Ausência de proteção contra incêndios — risco para moradores e vizinhos"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Consequências financeiras"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Consequência",
+          "Impacto Estimado"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Multas acumuladas",
+            "R$ 500 a R$ 2.500 por mês de atraso"
+          ],
+          [
+            "—x\u001d— Juros e correção",
+            "10% ao ano sobre o valor das multas"
+          ],
+          [
+            "—x\u001d— Impossibilidade de financiamento",
+            "Bancos negam financiamento para imóveis irregares"
+          ],
+          [
+            "—xx— Desvalorização do imóvel",
+            "Em média, 20% a 40% abaixo do valor de mercado"
+          ],
+          [
+            "—xx— Impossibilidade de venda",
+            "Compradores sérios desistem ao identificar irregularidade"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Regularizar um imóvel não é gastar dinheiro — é parar de perder dinheiro. Uma casa irregular em Navegantes pode custar 30% a menos do que uma regularizada, e o tempo de venda é triplicado.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel do engenheiro na regularização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No processo de regularização, o engenheiro não é apenas um profissional técnico — ele é o **guardião da segurança** e o **tradutor entre a lei e a prática**."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Serviços essenciais do engenheiro na regularização:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—S& **Vistoria inicial** — identifica riscos e não-conformidades —S& **Elaboração do projeto de adequação** — com cálculos estruturais e instalações —S& **Acompanhamento de obras** — supervisão técnica durante a execução —S& **Emissão de ART** — garantia de responsabilidade técnica —S& **Vistoria de término** — certificação de que a obra foi adequada —S& **Negociação com a prefeitura** — tratativas para redução de multas e prazos"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, onde a maresia ataca tudo em 5 anos, um engenheiro que entende de corrosão, fachadas e estruturas de concreto não é opcional — é a diferença entre uma regularização que dura 50 anos e uma que dura 5.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Como escolher o engenheiro certo para regularizar sua construção"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "Por que importa"
+        ],
+        "rows": [
+          [
+            "—x\u001d— CREA-SC ativo",
+            "Garante que o profissional está em dia com o conselho"
+          ],
+          [
+            "—x\u001d— Experiência em obras irregulares",
+            "Conhece os pulos do processo municipal"
+          ],
+          [
+            "—x\u001d— Especialização em patologia de construções",
+            "Identifica riscos que outros não enxergam"
+          ],
+          [
+            "—x\u001d— Atuação no litoral",
+            "Sabe lidar com maresia, solo arenoso e normas de orla"
+          ],
+          [
+            "—xx— Histórico de regularizações aprovadas",
+            "Referências reais de sucesso"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist: 12 passos para regularizar sua construção"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de iniciar o processo de regularização, confira esta lista:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Nº",
+          "Tarefa",
+          "Status"
+        ],
+        "rows": [
+          [
+            "1",
+            "—S& Contratar engenheiro com ART e experiência em obras irregulares",
+            "—\u0013—"
+          ],
+          [
+            "2",
+            "—S& Realizar vistoria completa da estrutura, instalações e fachada",
+            "—\u0013—"
+          ],
+          [
+            "3",
+            "—S& Verificar zoneamento do imóvel (Anexo V do Código Urbanístico)",
+            "—\u0013—"
+          ],
+          [
+            "4",
+            "—S& Elaborar inventário de irregularidades",
+            "—\u0013—"
+          ],
+          [
+            "5",
+            "—S& Requerer autuação ou regularização junto à prefeitura",
+            "—\u0013—"
+          ],
+          [
+            "6",
+            "—S& Receber e analisar o auto de infração",
+            "—\u0013—"
+          ],
+          [
+            "7",
+            "—S& Elaborar projeto executivo de adequação com ART",
+            "—\u0013—"
+          ],
+          [
+            "8",
+            "—S& Submeter projeto à prefeitura para aprovação",
+            "—\u0013—"
+          ],
+          [
+            "9",
+            "—S& Obter alvará de obra e iniciar adequações",
+            "—\u0013—"
+          ],
+          [
+            "10",
+            "—S& Acompanhar obras com vistorias de início e andamento",
+            "—\u0013—"
+          ],
+          [
+            "11",
+            "—S& Realizar vistoria de término e emissão de Termo de Reforma",
+            "—\u0013—"
+          ],
+          [
+            "12",
+            "—S& Obter alvará definitivo e atualizar registro do imóvel",
+            "—\u0013—"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Dicas práticas para quem está em situação de risco"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Se sua obra foi recentemente descoberta pela prefeitura:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001d— **Não interrompa a obra por conta própria** — isso pode agravar a multa. Deixe a prefeitura determinar a paralisação formal. —x\u001d— **Não pague a multa em dinheiro vivo** — exija recibo oficial e comprovante de pagamento. —x\u001d— **Não firme nada sem mostrar ao engenheiro** — termos de compromisso e acordos precisam de revisão técnica."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Se o imóvel já foi autuado há muito tempo:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—a—️ **Verifique se ainda há prazo para regularização** — a LC 452/2024 limita a regularização a obras de até 10 anos. —a—️ **Não venda o imóvel sem regularizar** — a irregularidade grava no registro de imóvel e segue para o comprador. —a—️ **Não desistas do imóvel** — mesmo que a multa pareça alta, o custo de perder o imóvel é muito maior."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Se o imóvel está em área de risco:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—xx— **Não tente regularizar sozinho** — em áreas de encosta, APP ou orla, a regularização exige estudos ambientais complexos. —xx— **Consulte um engenheiro especializado em risco geológico** — pode ser necessário estudo de estabilidade de encosta. —xx— **Considere a demolição como alternativa** — às vezes, o custo de adequação supera o valor do imóvel."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Regularizar uma construção feita sem projeto aprovado em Navegantes não é impossível — mas exige **planejamento, profissionalismo e respeito à lei**. A combinação do **Código de Obras (LC 416/2023)** e da **Lei Complementar nº 452/2024** oferece uma janela real de saída para proprietários que agiram sem autorização, desde que entrem em conformidade com os parâmetros técnicos e urbanísticos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os princípios que unem todos os passos bem-sucedidos:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001d— **Não espere a multa chegar** — a regularização sai mais barata quando iniciada antes da autuação. —x\u001d— **Contrate um engenheiro com experiência no litoral** — a maresia exige conhecimento técnico específico. —x\u001d— **Respeite os prazos da prefeitura** — cada mês de atraso adiciona uma multa de 1 UFM ao valor da dívida. —x\u001d— **Não ignore a estrutura** — uma edificação que parece \"estável\" pode ter armaduras corroídas e lajes com flecha crítica. —x\u001d— **Documente tudo** — fotos, atas, recibos e ART são a prova de que você está em conformidade."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral de Santa Catarina, o mar sempre vence a lentidão. Se a sua construção irregular não está em dia com a prefeitura, não espere o mar — e a maremoto — chegar para resolver. A regularização é o caminho, e o engenheiro é o guia.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o seu imóvel em Navegantes, Balneário Camboriú, Itajaí ou Penha foi construído sem projeto aprovado, a equipe da **Regê Engenharia** está pronta para orientar e executar todo o processo de regularização — da vistoria inicial ao alvará definitivo, com ART registrada no CREA-SC e conhecimento profundo do Código de Obras e da LC 452/2024."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com a nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Navegantes, Balneário Camboriú, Itajaí, Penha e toda a região do litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Legais"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Lei Complementar nº 416, de 06 de junho de 2023 — Institui o Código de Obras do Município de Navegantes",
+          "Lei Complementar nº 454, de 13 de agosto de 2024 — Altera dispositivos do Código Urbanístico e Código de Obras",
+          "Lei Complementar nº 452, de 01 de julho de 2024 — Institui o mecanismo de regularização de obras irregulares",
+          "Lei Complementar nº 414, de 06 de junho de 2023 — Institui o Código Urbanístico do Munícipio de Navegantes",
+          "Lei Municipal nº 9.102, de 1993 — Código de penalidades urbanísticas de Navegantes",
+          "Código Civil — Arts. 1.866 a 1.869 (obrigações de vizinhança), 1.228 (prescrição)",
+          "Código de Defesa do Consumidor — Lei nº 8.078/1990, Arts. 26, 54 a 56",
+          "CREA-SC — Resoluções e normas de ART e responsabilidade técnica",
+          "NBR 6118 — Projeto de estruturas de concreto armado",
+          "NBR 16280 — Condições e requisitos mínimos para inspeção de edificações"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Onde Obter Informações Oficiais"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fonte",
+          "Link"
+        ],
+        "rows": [
+          [
+            "—x\u001d— Código de Obras (LC 416/2023)",
+            "navegantes.sc.gov.br"
+          ],
+          [
+            "—x\u001d— LC 452/2024 (Regularização de Irregularidades)",
+            "navegantes.sc.gov.br"
+          ],
+          [
+            "—x\u001d— Portal de Transparência (UFMs e multas)",
+            "transparencia.navegantes.sc.gov.br"
+          ],
+          [
+            "—x\u001d— CREA-SC (Cadastro de profissionais)",
+            "creasc.org.br"
+          ],
+          [
+            "—a—️ Anexo V (Índices Urbanísticos)",
+            "Incluso no Código Urbanístico (páginas 142-166)"
+          ],
+          [
+            "—\u001e—️ Sistema de Autuações e Licenças",
+            "https://www.navegantes.sc.gov.br/sece/"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Próximos Passos para Regularizar Sua Construção"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Avaliação técnica prévia gratuita"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entre em contato com a Regê Engenharia para uma avaliação inicial — identificamos os principais riscos e estimamos o escopo da regularização com base nas fotos e informações que você envia."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Projeto e tramitação junto à prefeitura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Desenvolvemos o projeto completo de adequação, com cálculos estruturais e instalações, e acompanhamos todo o processo de licenciamento e regularização na prefeitura de Navegantes."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Execução sob supervisão técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nossa equipe acompanha todas as fases das obras de adequação, garantindo qualidade, conformidade e segurança — com ART registrada no CREA-SC e vistorias de início, andamento e término."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Na Regê Engenharia, regularizamos construções com o olhar de quem entende o litoral. Porque no litoral, não basta só legalizar — é preciso garantir que a edificação dure, mesmo com a maresia tentando corroer tudo.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-03 -->"
+      }
+    }
+  ]
+}

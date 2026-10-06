@@ -1,0 +1,240 @@
+{
+  "slug": "codigo-de-obras-navegantes",
+  "title": "Código de Obras de Navegantes SC: Regras Essenciais para Construir sem Dor de Cabeça",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Projeto arquitetônico em análise conforme o código de obras de Navegantes SC, com plantas técnicas e legislação municipal.",
+  "excerpt": "O código de obras de Navegantes define o que pode ser construído na cidade: recuos, taxas de ocupação, altura, iluminação e ventilação. Entenda as regras essenciais do código de obras, como ele se relaciona com o plano diretor e por que projetos feitos fora da norma travam na Prefeitura.",
+  "readTime": "8 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de aprovar um projeto, a Prefeitura de Navegantes confere cada detalhe contra um conjunto de regras que pouca gente conhece — e que decide se a sua obra sai do papel ou fica travada na análise: o código de obras do município."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O código de obras é a legislação municipal que estabelece os padrões construtivos obrigatórios em Navegantes: dimensões mínimas de cômodos, pé-direito, iluminação, ventilação, escadas, recuos e uma série de exigências técnicas. Quem projeta ignorando essas regras perde tempo, dinheiro e paciência em retrabalhos na aprovação. Este guia mostra o que você precisa saber."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o código de obras?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O código de obras é a lei municipal que regula a execução de edificações no território da cidade. Ele define padrões mínimos de qualidade, segurança, salubridade e acessibilidade para as construções — e vale para obras novas, reformas, ampliações e regularizações."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Diferente do plano diretor (que define o zoneamento e o que pode ser construído em cada região da cidade), o código de obras trata de como construir: os parâmetros técnicos de cada edificação, independentemente do local."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Plano diretor decide onde você pode construir; código de obras decide como. Os dois juntos definem se o seu projeto passa na Prefeitura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o código de obras de Navegantes regula"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As regras mais cobradas na análise de projetos em Navegantes são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Recuos e afastamentos — distâncias mínimas entre a edificação e as divisas do terreno",
+          "Taxa de ocupação e coeficiente de aproveitamento — quanto do terreno pode ser construído, em projeção e em área total",
+          "Altura máxima das edificações — limites conforme o zoneamento do bairro",
+          "Pé-direito mínimo — altura mínima entre o piso e o teto de cada ambiente",
+          "Dimensões mínimas de cômodos — áreas e larguras mínimas para salas, quartos e banheiros",
+          "Iluminação e ventilação — janelas e aberturas mínimas para cada ambiente",
+          "Escadas, corrimãos e guarda-corpos — segurança em acessos verticais",
+          "Garagem e vagas de estacionamento — número mínimo de vagas conforme o uso e o porte",
+          "Acessibilidade — adaptação conforme a NBR 9050 para edificações públicas e de uso coletivo",
+          "Instalações e segurança — padrões para instalações elétricas, hidráulicas e prevenção de incêndio"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o código de obras trava projetos na Prefeitura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A maioria dos projetos que ficam semanas parados na análise municipal tem o mesmo diagnóstico: parâmetros do código de obras desrespeitados. Os casos mais comuns em Navegantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Recuo frontal menor que o exigido — o erro mais frequente em terrenos pequenos",
+          "Pé-direito abaixo do mínimo em algum ambiente",
+          "Ambientes sem ventilação ou iluminação natural suficiente",
+          "Vagas de garagem insuficientes para o uso pretendido",
+          "Taxa de ocupação excedida na projeção do pavimento",
+          "Escadas fora das dimensões de segurança exigidas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada pendência significa um ciclo de correção: ajuste no projeto, novo protocolo, nova análise. Um projeto que respeita o código de obras desde o início é aprovado em uma fração do tempo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Código de obras x plano diretor x leis complementares"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, como na maioria dos municípios, o licenciamento envolve um conjunto de leis que trabalham juntas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plano diretor — o zoneamento da cidade: o que pode ser construído em cada região",
+          "Código de obras — os padrões construtivos de cada edificação",
+          "Lei de uso e ocupação do solo — os usos permitidos (residencial, comercial, industrial) por zona",
+          "Legislação ambiental — proteção de áreas de preservação e margens de rios e canais",
+          "Normas técnicas (ABNT) — requisitos de segurança, acessibilidade e desempenho incorporados pela legislação"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A aprovação do projeto exige conformidade com todas elas. Por isso, projetos feitos por profissionais que conhecem a legislação local passam pela análise com muito menos retrabalho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como verificar se o seu projeto atende o código de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A verificação começa antes do projeto: é preciso conhecer o zoneamento do terreno (plano diretor) e os parâmetros aplicáveis do código de obras. A partir daí, o projeto deve nascer já em conformidade:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Consulte a legislação na Prefeitura — os parâmetros do seu terreno dependem da zona onde ele está",
+          "Confira a matrícula e o terreno — área, confrontações e situação cadastral influenciam os limites",
+          "Exija projeto em conformidade — o profissional deve declarar os parâmetros atendidos",
+          "Peça a análise prévia — em caso de dúvida, um estudo de viabilidade evita gastos com projeto inviável",
+          "Conte com quem conhece a cidade — um engenheiro local sabe quais parâmetros a Prefeitura aplica na prática"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O projeto mais barato é o que passa na primeira análise. O mais caro é o que descobre o código de obras depois de desenhado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Código de obras e as particularidades do litoral"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes é cidade litorânea com regras adicionais que muitos projetistas de fora desconhecem: limites de ocupação próximos à orla e aos canais, exigências de acessibilidade em imóveis de uso coletivo, padrões para edificações comerciais e industriais na área portuária e regras específicas para fechamento de varandas e ampliações."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além disso, a fiscalização municipal tem atuado com mais rigor em Navegantes: obras executadas fora dos parâmetros são notificadas, e a regularização de desconformidades pode ser difícil ou inviável. Construir dentro do código é sempre o caminho mais barato."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre o código de obras de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Onde encontro o código de obras de Navegantes? A legislação municipal está disponível no site da Prefeitura de Navegantes. Como os textos legais são densos, a interpretação correta costuma exigir o apoio de um profissional de engenharia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O código de obras é o mesmo para toda a cidade? Não. Os parâmetros variam conforme o zoneamento do terreno — bairros e regiões têm regras diferentes para altura, ocupação e uso."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Reformas precisam seguir o código de obras? Sim. Toda intervenção — reforma, ampliação ou mudança de uso — deve respeitar os padrões do código de obras, e as exigências variam conforme o porte da intervenção."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construí fora das regras do código de obras. E agora? A obra fora dos parâmetros pode ser notificada, multada ou embargada. Em muitos casos, a regularização é possível — mas é sempre mais cara do que construir dentro da regra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem garante que o projeto atende o código de obras? O responsável técnico pelo projeto (engenheiro ou arquiteto) deve elaborar o projeto em conformidade com a legislação — e a Prefeitura confere na análise. Profissionais locais conhecem as regras na prática."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projete dentro do código de obras com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos, aprovações e regularizações. Nossa equipe conhece o código de obras e o plano diretor de Navegantes na prática — e desenvolve projetos que passam na análise da Prefeitura na primeira vez."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou precisa entender o que é possível fazer no seu terreno, entre em contato com a nossa equipe. Vamos cuidar da parte técnica — e da parte legal — para você construir com tranquilidade."
+      }
+    }
+  ]
+}

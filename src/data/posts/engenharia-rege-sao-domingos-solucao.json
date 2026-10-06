@@ -1,0 +1,682 @@
+{
+  "slug": "engenharia-rege-sao-domingos-solucao",
+  "title": "Engenharia em São Domingos, Navegantes: Como a Regê Engenharia é a Solução",
+  "tag": "ENGENHARIA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Engenharia em São Domingos, Navegantes: Como a Regê Engenharia é a Solução - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.",
+  "excerpt": "São Domingos é um dos bairros mais dinâmicos de Navegantes, localizado na região central do município com acesso privilegiado às principais vias de conexão do Vale do Itajaí.",
+  "readTime": "9 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "São Domingos é um dos bairros mais dinâmicos de Navegantes, localizado na região central do município com acesso privilegiado às principais vias de conexão do Vale do Itajaí. A região concentra um polo comercial e industrial que demanda serviços de engenharia diversificados e de alta qualidade. Neste artigo, explicamos como a **Regê Engenharia** atua como a solução técnica para todos os tipos de projetos em São Domingos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Por que São Domingos Requer Engenharia Especializada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "São Domingos deixou de ser o \"bairro periférico\" de Navegantes para se tornar um dos endereços que mais cresce no litoral norte de Santa Catarina. Com acesso direto à BR-101, proximidade estratégica com a área industrial e comercial da cidade e um mercado imobiliário em plena valorização — o metro quadrado médio gira entre R$ 7.000 e R$ 12.000 —, o bairro atrai famílias, investidores e empresários que querem construir, reformar ou ampliar com segurança."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No entanto, crescer rápido em uma cidade litorânea exige mais do que pressa: exige **engenharia de qualidade**. E é exatamente isso que separa um imóvel que valoriza de um que vira problema — projeto executivo completo, sondagem correta, especificação adequada à maresia e aprovação na Prefeitura de Navegantes."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Um projeto de engenharia bem feito não é custo — é o atalho mais barato para a valorização do imóvel.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Os Desafios Técnicos Específicos de São Domingos"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.1. Variações do Solo Local"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "São Domingos tem variações importantes no solo que exigem atenção técnica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Solo misto, com presença de argila — exige estudo de fundação para evitar assentamento diferencial",
+          "Lençol freático relativamente alto em algumas áreas — exige drenagem e impermeabilização corretas",
+          "Terrenos elevados com boa capacidade de suporte — em outros pontos, a fundação é mais simples"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Consequência prática: não dá para reaproveitar a mesma fundação de um projeto de outro terreno. A sondagem define o custo real e a segurança real."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.2. A Influência da Maresia do Litoral Norte"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mesmo a alguns quilômetros da orla, a maresia chega a São Domingos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Corrosão acelerada de armaduras e esquadrias",
+          "Necessidade de cobrimento maior (40-60 mm) e concreto com proteção",
+          "Impermeabilização reforçada em áreas úmidas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para o engenheiro local, orientar a especificação de materiais \"à prova de litoral\" é o que garante uma obra que dura 50 anos — e não 10."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Como a Regê Engenharia Resolve os Desafios de São Domingos"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.1. Nossa Abordagem Técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Regê Engenharia, entendemos que **cada terreno em São Domingos é único**. Não trabalhamos com projetos padronizados — desenvolvemos soluções técnicas específicas para as condições do seu lote."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Desafio em São Domingos",
+          "Solução Regê Engenharia"
+        ],
+        "rows": [
+          [
+            "Solo misto com argila",
+            "Sondagem geotécnica completa com ensaios de Atterberg e projeto de fundação personalizado"
+          ],
+          [
+            "Lençol freático alto",
+            "Projeto de drenagem perimetral + impermeabilização cristalizante em áreas críticas"
+          ],
+          [
+            "Influência da maresia",
+            "Especificação de concreto com aditivo ABR e cobrimento de armadura de no mínimo 60mm"
+          ],
+          [
+            "Aprovação na Prefeitura",
+            "Conhecimento da LC 416/2023 e rotina do SUL para aprovação rápida e sem devoluções"
+          ],
+          [
+            "Regularização de obras antigas",
+            "Projeto de regularização (as-built) com ART e emissão de habite-se"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2. Nosso Portfólio de Serviços em São Domingos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia oferece o processo completo em São Domingos:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2.1. Engenharia Civil"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construção de residências unifamiliares e multifamiliares",
+          "Edificações comerciais e industriais (galpões, lojas, depósitos)",
+          "Reformas e ampliações de edificações existentes",
+          "Laudos técnicos e perícias judiciais (quando necessário)",
+          "Gerenciamento e acompanhamento de obras (visitas técnicas periódicas, relatórios de progresso)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2.2. Engenharia Estrutural"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto de fundações (sapatas, lajes, estacas) dimensionadas para o solo arenoso/lítico de São Domingos",
+          "Cálculo de estruturas de concreto armado (NBR 6118)",
+          "Projeto de estruturas de aço (NBR 8800) para galpões e coberturas",
+          "Reforço estrutural em edifícios já existentes",
+          "Contenção de encostas e muros de arrimo (quando o terreno exigir)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2.3. Engenharia Elétrica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projetos de instalações elétricas prediais (NBR 5410)",
+          "Sistemas de energia solar fotovoltaica (dimensionamento para consumo do imóvel)",
+          "Automação residencial e comercial",
+          "Consultoria em eficiência energética e redução de custos",
+          "Projetos de iluminação pública e paisagística"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2.4. Engenharia Hidráulica e Sanitária"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto de instalações prediais de água fria e quente (NBR 5626)",
+          "Sistema de esgoto sanitário e escoamento de águas pluviais (NBR 8160)",
+          "Projeto de captação e armazenamento de água da chuva",
+          "Sistemas de tratamento de efluentes para indústrias e comércios"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2.5. Engenharia Ambiental"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Licenciamento ambiental junto aos órgãos competentes (IMA/SC quando aplicável)",
+          "Estudos de impacto ambiental para novos empreendimentos",
+          "Gestão de resíduos de construção e demolição",
+          "Recuperação de áreas degradadas",
+          "Conformidade com normas ambientais municipais e estaduais"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2.6. Engenharia de Segurança do Trabalho"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Laudos de condições ambientais do trabalho (LTCAT)",
+          "Programa de Controle Médico de Saúde Ocupacional (PCMSO)",
+          "Programa de Gerenciamento de Riscos de Químicos (PGR)",
+          "Laudos de ruído e iluminação",
+          "Orientação em NRs (Normas Regulamentadoras)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Projetos Típicos em São Domingos e Como a Regê Engenharia Atua"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4.1. Projeto Residencial (Casa Térrea/Sobrado)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O bairro apresenta demanda por:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Casas térreas e sobrados",
+          "Condomínios residenciais fechados",
+          "Edifícios de apartamentos",
+          "Reformas e ampliações"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O que a Regê Engenharia entrega:**"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Levantamento topográfico do terreno com precisão milimétrica",
+          "Projeto arquitetônico com layout funcional e vistas integradas",
+          "Projeto estrutural com fundações adaptadas ao solo misto de São Domingos",
+          "Projeto elétrico com dimensão de carga e pontos de tomada",
+          "Projeto hidráulico com distribuição de água e esgoto",
+          "Memorial descritivo com lista completa de acabamentos e materiais",
+          "Protocolo, aprovação e alvará na Prefeitura de Navegantes (SUL)",
+          "ART no CREA-SC registrada para todas as disciplinas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Prazos típicos: Projeto em 20 a 30 dias úteis. Aprovação na Prefeitura, mais 20 a 40 dias conforme complexidade. Projeto completo + aprovado em até 2 meses."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4.2. Projeto Comercial e Industrial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Demandas específicas do bairro:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Galpões industriais em estrutura metálica",
+          "Lojas e estabelecimentos comerciais",
+          "Depósitos e centros de distribuição",
+          "Escritórios e salas comerciais"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Diferenciais da Regê Engenharia:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionamento estrutural para sobrecarga de uso (peso de máquinas, estoques, etc.)",
+          "Projeto de incêndio e AVCB junto ao Corpo de Bombeiros (quando exigido)",
+          "Licenciamento ambiental quando exigido pelo IMA/SC (indústrias e comércio próximo a áreas de preservação)",
+          "Instalações elétricas em média tensão (para galpões de grande porte)",
+          "Projeto de drenagem para áreas industriais (evitando alagamentos durante chuvas intensas)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4.3. Regularização de Obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitos imóveis em São Domingos foram construídos sem aprovação. O projeto de regularização da Regê Engenharia resgata a legalidade do imóvel:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Levantamento as-built — Medição do que já foi construído (com scanner 3D quando não houver plantas originais)",
+          "Projeto de regularização — Adequação do existente às normas atuais (LC 416/2023)",
+          "ART de regularização — Responsabilidade técnica para a intervenção",
+          "Protocolo na Prefeitura — Projeto de regularização no SUL",
+          "Habite-se — Emissão após vistoria final e aprovação da documentação"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Benefício: O imóvel de São Domingos sem documentação vale apenas o terreno. Com engenharia e regularização, vale a construção — e pode ser vendido, financiado e herdado com segurança."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Custos de Referência para Projetos em São Domingos (2026)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de projeto",
+          "Custo de referência"
+        ],
+        "rows": [
+          [
+            "Projeto arquitetônico (residencial)",
+            "R$ 60 a R$ 120 por m²"
+          ],
+          [
+            "Projeto estrutural",
+            "R$ 15 a R$ 35 por m²"
+          ],
+          [
+            "Projeto elétrico + hidráulico",
+            "R$ 10 a R$ 20 por m²"
+          ],
+          [
+            "Projeto completo (obra residencial)",
+            "R$ 100 a R$ 250 por m²"
+          ],
+          [
+            "Projeto industrial + licenciamento",
+            "Sob consulta (escopo específico)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O investimento é bem menor que o impacto do retrabalho, do embargo ou da desvalorização de um imóvel irregular. Um projeto bem feito custa em média 3% a 5% do total da obra, mas evita perdas de 20% a 50% em casos de não-aprovação ou retrabalho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Por que Escolher a Regê Engenharia para seu Projeto em São Domingos"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "Regê Engenharia",
+          "Mercado geral"
+        ],
+        "rows": [
+          [
+            "Conhecimento de São Domingos",
+            "—S& Atuação específica no bairro desde 2010",
+            "—\u001c Variável"
+          ],
+          [
+            "ART registrada no CREA-SC",
+            "—S& Todas as atividades têm responsável técnico",
+            "—a—️ Variável"
+          ],
+          [
+            "Conhecimento da LC 416/2023",
+            "—S& Rotina de aprovação no SUL",
+            "—\u001c Desconhecido"
+          ],
+          [
+            "Sondagem geotécnica",
+            "—S& Obrigatória em todos os projetos estruturais",
+            "—a—️ Opcional em muitos casos"
+          ],
+          [
+            "Entrega integrada",
+            "—S& Civil + Estrutural + Elétrica + Hidráulica em um só lugar",
+            "—R Muitas vezes fragmentado"
+          ],
+          [
+            "Acompanhamento de obra",
+            "—S& Visitas técnicas periódicas + relatórios",
+            "—a—️ Execução entregue ao cliente"
+          ],
+          [
+            "Prazos comprometidos",
+            "—S& Projeto em 20-30 dias, aprovação em 20-40 dias",
+            "—\u001c Variável"
+          ],
+          [
+            "Garantia técnica",
+            "—S& Laudo de conclusão + recomendações de manutenção",
+            "—\u001c Não oferecido"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Crescer rápido é uma oportunidade; crescer bem é uma decisão técnica. Em São Domingos, projeto de qualidade é o nome da decisão.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Depoimentos de Clientes em São Domingos"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Tínhamos medo de fazer o projeto para nossa casa em São Domingos — ouvi dizer que a prefeitura atrasa muito. A Regê Engenharia fez todo o projeto em 25 dias e a aprovação veio em 30 dias. Nada de devolução, nada de correção. Foi fluido do início ao fim.\" — Cliente residencial"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Precisávamos regularizar uma obra que estava parada há 2 anos em São Domingos. A Regê Engenharia fez o projeto de regularização, providenciou a ART e conseguimos o habite-se em 45 dias. O custo foi muito menor do que esperar mais tempo.\" — Proprietário de empreendimento"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A Regê Engenharia projetou nosso galpão industrial em São Domingos com todo o cuidado estrutural que precisávamos. O projeto foi aprovado na primeira tentativa e a execução da obra foi tranquila. Recomendo para qualquer empresário da região.\" — Empresário industrial"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "8. Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Posso construir em São Domingos sem engenheiro?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não é recomendado.** Além da ilegalidade, a obra envolve riscos de qualidade crítica. Em um bairro em crescimento, com solo misto litorâneo, o erro de projeto é o erro mais caro que existe. A regulamentação exige ART registrada no CREA-SC para emissão de alvará."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Quanto tempo leva um projeto em Navegantes (São Domingos)?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto em si costuma levar de 15 a 45 dias; a aprovação na Prefeitura, mais 20 a 40 dias conforme a complexidade. Projeto completo + aprovado pode levar de 2 a 4 meses no total. A Regê Engenharia costuma entregar projetos mais rápido graças ao conhecimento da rotina do SUL."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Preciso da sondagem do terreno?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende do porte. Em construções acima de dois pavimentos, e sempre que o solo for variável ou próximo do lençol freático, sim. O engenheiro decide tecnicamente. Em São Domingos, com o solo misto (argila + areia), a sondagem é altamente recomendada em quase todos os projetos residenciais acima de 150 m²."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Qual a diferença entre arquiteto e engenheiro?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Desde que qualificado, o arquiteto cuida da arquitetura e do layout do imóvel, e o engenheiro civil responde pelo estrutural (fundação, vigas, lajes), instalações elétricas e hidráulicas, e acessibilidade. O ideal é projeto completo: arquitetura + engenharia integrada. A Regê Engenharia oferece projetos integrados com parceiros arquitetos ou com equipe completa."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O que acontece se eu construir sem projeto aprovado?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Multa, embargo, e, no momento da venda, o imóvel pode valer menos e nem ser financiado. A regularização depois é sempre mais cara que o projeto antecipado. Em São Domingos, onde o crescimento é intenso, um imóvel irregular também tem dificuldade de locação ou revenda."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"A Regê Engenharia faz projeto para reforma também?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Sim.** Reformas e ampliações em São Domingos exigem projeto técnico, principalmente quando envolvem:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Remoção ou abertura de paredes (verificação estrutural)",
+          "Ampliação de área construída",
+          "Alteração de instalações elétricas ou hidráulicas",
+          "Adequação de acessibilidade (NBR 9050)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia faz projetos de reforma desde o levantamento medido (medir o existente) até a aprovação final na prefeitura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "9. Como Começar seu Projeto com a Regê Engenharia em São Domingos"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Agende uma consulta — Fale com nossa equipe sobre o tipo de projeto (residencial, comercial, industrial ou regularização)",
+          "Avalie a viabilidade — Nós analisamos seu terreno e as exigências da prefeitura",
+          "Receba um orçamento — Projeto completo com prazos e valores claros, sem surpresas",
+          "Levantamento técnico — Visitamos o terreno para fazer topografia e/ou sondagem (quando necessária)",
+          "Desenvolvimento do projeto — Equipe técnica elabora todas as disciplinas integradas",
+          "Protocolo e aprovação — Gerenciamos todo o processo no SUL da Prefeitura de Navegantes",
+          "Acompanhamento da obra — Visitas técnicas periódicas para garantir a execução conforme o projeto",
+          "Entrega com garantia — Laudo de conclusão e recomendações de manutenção preventiva"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com a nossa equipe de engenharia:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** São Domingos, Navegantes e todo o litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "10. Referências Legais e Técnicas"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes",
+          "Lei Complementar nº 414/2023 — Código Urbanístico do Município de Navegantes",
+          "NBR 6118 — Projeto de estruturas de concreto armado",
+          "NBR 6122 — Projeto e execução de fundações",
+          "NBR 5410 — Instalações elétricas de baixa tensão",
+          "NBR 5626 — Instalação predial de água fria",
+          "NBR 8160 — Sistemas prediais de esgoto sanitário",
+          "NBR 9050 — Acessibilidade",
+          "Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)",
+          "Corpo de Bombeiros de SC — AVCB (Auto de Vistoria do Corpo de Bombeiros)",
+          "IMA/SC — Fundação do Meio Ambiente de Santa Catarina (licenciamento ambiental)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-26 -->"
+      }
+    }
+  ]
+}

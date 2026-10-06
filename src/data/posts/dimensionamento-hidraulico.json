@@ -1,0 +1,241 @@
+{
+  "slug": "dimensionamento-hidraulico",
+  "title": "Dimensionamento Hidráulico: Como Projetar Água, Esgoto e Drenagem sem Erro",
+  "tag": "HIDRÁULICA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Dimensionamento hidráulico em Navegantes SC — engenheiro analisando projeto de água, esgoto e drenagem pluvial de residência no litoral.",
+  "excerpt": "O dimensionamento hidráulico define o tamanho correto de tubulações, reservatórios e drenagem. Feito errado, gera falta d água, entupimentos e alagamento. Saiba o que é, quando contratar e como a Regê projet.",
+  "readTime": "11 min de leitura",
+  "featured": true,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Água que não chega no segundo andar, esgoto que entope toda chuva, pia que demora a escoar, barramento de drenagem na porta de casa. Quase sempre, esses problemas não começam na execução: começam no dimensionamento hidráulico. —0 o cálculo que define o diâmetro de cada tubulação, a capacidade do reservatório e o traçado da drenagem — e quando feito de forma empírica, cobra caro depois."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é o dimensionamento hidráulico, por que ele é decisivo, o que envolve na prática (água, esgoto, drenagem), quando é obrigatório e como a Regê Engenharia projeta essas redes no litoral de Santa Catarina, respeitando as normas da ABNT e as particularidades do solo arenoso e do lençol freático da região."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é dimensionamento hidráulico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O dimensionamento hidráulico é o conjunto de cálculos que define as dimensões e a disposição dos sistemas de água, esgoto e drenagem de uma edificação. Ele considera a demanda prevista (quantas pessoas, quantos pontos de água, que equipamentos), a pressão disponível, as distâncias e as pendentes, transformando tudo em diâmetros de tubulação, capacidade de caixas e reservatórios e traçado das redes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Água fria e quente — dimensionamento da rede de distribuição interna (NBR 5626)",
+          "Esgoto sanitário — diâmetro e declividade dos coletores para escoamento sem entupimento",
+          "Águas pluviais — drenagem de chuva e dimensionamento de calhas, condutores e barramentos",
+          "Reservatórios — volume da caixa d água e do reservatório inferior conforme a norma",
+          "Bombas e pressurização — quando a rede pública não garante pressão suficiente"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dimensionar hidráulica não é \"chutar\" o diâmetro do cano. —0 calcular a demanda e a pressão para que a água chegue onde deve, quando deve."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o dimensionamento hidráulico importa"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto hidráulico mal dimensionado gera problemas visíveis e custosos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Falta de pressão — chuveiro fraco no andar de cima e torneira que não enche a máquina de lavar",
+          "Entupimentos — tubulação subdimensionada ou com pendente errado retém resíduos e transborda",
+          "Alagamento — drenagem insuficiente para a chuva local alaga terreno e vizinho",
+          "Retrabalho — refazer cano na alvenaria pronta destrói acabamento e dobra o custo",
+          "Desperdício — dimensionamento excessivo gasta material e espaço sem benefício"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o dimensionamento hidráulico envolve na prática"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Rede de água (NBR 5626)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A NBR 5626 estabelece como dimensionar a instalação predial de água fria. O projeto parte da demanda (única ou simultânea, conforme o número de pavimentos e pontos), define os diâmetros das tubulações para garantir vazão e pressão adequadas e posiciona reservatórios e bombas. No litoral, a pressão da rede pública e a altura do terreno definem se haverá necessidade de pressurização."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Esgoto sanitário"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A rede de esgoto depende de diâmetro e, principalmente, de declividade. O traçado deve garantir velocidade suficiente para arrastar o material sem erodir a tubulação, evitando both lentidão (entupimento) e excesso de velocidade (desgaste). A NBR 8160 orienta a disposição e o dimensionamento dos coletores."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Drenagem pluvial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A drenagem de águas pluviais dimensiona calhas, condutores e barramentos para escoar a chuva sem alagar. No litoral catarinense, onde as chuvas são intensas e o solo é arenoso, o dimensionamento correto evita saturação do terreno e infiltração nas edificações."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Reservatórios e pressurização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A NBR 5626 define o volume mínimo do reservatório (caixa d água) em função do consumo e do fornecimento. Quando a pressão da rua é insuficiente para os pavimentos superiores, o projeto prevê grupo de pressurização ou reservatório inferior com bomba, dimensionados para a demanda de pico."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando contratar o dimensionamento hidráulico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os momentos em que esse serviço é obrigatório ou altamente recomendado:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto de construção — toda edificação nova precisa de projeto hidráulico aprovado na prefeitura",
+          "Reforma com mudança de banheiros ou cozinha — alterar pontos exige recálculo da rede",
+          "Ampliação — aumento de demanda pode tornar a rede existente subdimensionada",
+          "Regularização — obra sem projeto hidráulico precisa dele para habite-se e averbação",
+          "Problemas recorrentes — falta de pressão, entupimentos e alagamento indicam erro de dimensionamento",
+          "Adequação a normas — imóveis com instalação antiga fora da NBR 5626"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Dimensionamento hidráulico no litoral de Santa Catarina"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, Itajaí, Balneário Camboriú, Penha e região, o solo arenoso e o lençol freático raso alteram a lógica do projeto. A fundação e as redes enterradas convivem com umidade constante, e a drenagem precisa absorver chuvas de alta intensidade. O engenheiro local dimensiona a rede considerando essas variáveis, evitando infiltração e saturação."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Solo arenoso — exigência de compactação e proteção das tubulações enterradas",
+          "Lençol freático raso — cuidado com a saturação e a infiltração nas redes",
+          "Chuva intensa — barramento e drenagem dimensionados para o pico local",
+          "Maresia — materiais resistentes à corrosão em instalações aparentes"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia faz o dimensionamento hidráulico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia elabora projetos hidráulicos completos para imóveis residenciais, comerciais e industriais no litoral de Santa Catarina. Unimos cálculo normatizado (NBR 5626, NBR 8160 e NBR 10844), desenho executivo e emissão de ART no CREA-SC, entregando um projeto que a prefeitura aprova e a obra executa sem retrabalho."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento de demanda e da pressão disponível na rede",
+          "Dimensionamento de água fria/quente, esgoto e drenagem pluvial",
+          "Cálculo de reservatórios e de grupos de pressurização quando necessário",
+          "Desenho executivo compatibilizado com arquitetura e estrutura",
+          "ART no CREA-SC e suporte à aprovação na prefeitura",
+          "Atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha e região"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a sua obra, reforma ou regularização precisa de projeto hidráulico bem dimensionado — ou se você convive com falta de pressão, entupimentos ou alagamento — fale com a equipe da Regê Engenharia. Vamos calcular a rede correta para o seu imóvel: porque hidráulica bem dimensionada é conforto que ninguém vê, mas todo mundo sente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre dimensionamento hidráulico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Dá para reaproveitar o projeto de outra casa? Não. O dimensionamento depende da planta, do número de pavimentos, da demanda e da pressão local. Um projeto de imóvel vizinho raramente serve, e a prefeitura exige projeto próprio."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Precisa de engenheiro? Sim. O projeto hidráulico para aprovação e emissão de ART é atribuição de engenheiro civil ou de projetos. Executar sem projeto ou com projetista sem habilitação gera não conformidade e retrabalho."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a norma principal? Para água, a NBR 5626; para esgoto, a NBR 8160; e para reservatórios e bombas, as mesmas normas somadas às diretrizes da concessionária local. O projeto deve seguir a edição vigente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa? Varia com a metragem e a complexidade da edificação. O investimento no projeto é uma fração do custo de refazer a rede depois da alvenaria pronta — e elimina os problemas de uso diário."
+      }
+    }
+  ]
+}

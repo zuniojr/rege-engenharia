@@ -1,0 +1,695 @@
+{
+  "slug": "artigo-pericia-judicial-engenharia-navegantes",
+  "title": "Perícia Judicial de Engenharia em Navegantes SC: Como Funciona na Comarca e Como a Regê Engenharia Pode Ajudar",
+  "tag": "PERÍCIA",
+  "image": "/images/analise-estrutura.png",
+  "imageAlt": "Perícia Judicial de Engenharia em Navegantes SC: Como Funciona na Comarca e Como a Regê Engenharia Pode Ajudar - artigo técnico da Regê Engenharia sobre perícia em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Você recebeu uma intimação para perícia judicial em Navegantes. Ou precisa ingressar com uma ação e o juiz determinou a produção de prova pericial.",
+  "readTime": "7 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você recebeu uma intimação para perícia judicial em Navegantes. Ou precisa ingressar com uma ação e o juiz determinou a produção de prova pericial. Nesse momento, entender como funciona a **perícia judicial de engenharia na Comarca de Navegantes** não é apenas burocracia — é a diferença entre ter uma prova técnica sólida ou perder o processo por falta de fundamentação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste artigo, explicamos o passo a passo da perícia judicial na prática, os prazos do CPC, o papel do assistente técnico, e como a Regê Engenharia atua como sua parceira técnica para garantir que a verdade estrutural do seu imóvel seja comprovada com rigor."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é Perícia Judicial de Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A **perícia judicial de engenharia** é um meio de prova técnico-científico determinado pelo juiz em processo judicial, realizado por um **perito oficial** (nomeado pelo juízo) para esclarecer questões técnicas que exigem conhecimento especializado em engenharia civil."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Diferente do laudo técnico particular (contratado por uma das partes), a perícia judicial tem **caráter oficial** e seu laudo tem **presunção de veracidade** — o juiz tende a aceitar suas conclusões, salvo prova em contrário robusta."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Aspecto",
+          "Perícia Judicial",
+          "Laudo Particular (Extrajudicial)"
+        ],
+        "rows": [
+          [
+            "Quem solicita",
+            "Juiz (de ofício ou a requerimento)",
+            "Parte interessada"
+          ],
+          [
+            "Quem realiza",
+            "Perito oficial (lista do TJSC)",
+            "Engenheiro contratado pela parte"
+          ],
+          [
+            "Valor probatório",
+            "Presunção de veracidade (art. 479 CPC)",
+            "Prova emprestada, sujeita a contestação"
+          ],
+          [
+            "Custeio",
+            "Adiantado pela parte requerente",
+            "Pago integralmente pelo contratante"
+          ],
+          [
+            "Prazo",
+            "Fixado pelo juiz (art. 465 CPC)",
+            "Combinado entre partes e engenheiro"
+          ],
+          [
+            "Participação",
+            "Partes e assistentes técnicos comparecem",
+            "Apenas contratante e engenheiro"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Art. 464 do CPC — \"O juiz será assistido por perito quando a prova do fato depender de conhecimento técnico ou científico.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Funciona a Perícia Judicial na Comarca de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Comarca de Navegantes (que abrange também Penha e região) possui varas cíveis que tramitam ações de responsabilidade civil, vícios construtivos, danos a imóveis vizinhos, embargos de obra e disputas condominiais. A dinâmica processual segue o CPC, mas com particularidades locais."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fluxo Prático na Comarca de Navegantes"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "graph TD\n    A[Determinação Judicial] --> B[Nomeação do Perito pelo Juiz]\n    B --> C[Intimação das Partes para Indicação de Assistentes Técnicos]\n    C --> D[Agendamento da Vistoria In Loco]\n    D --> E[Vistoria com Perito, Partes e Assistentes]\n    E --> F[Elaboração do Laudo Pericial]\n    F --> G[Intimação para Manifestação / Quesitos]\n    G --> H[Réplica do Perito]\n    H --> I[Laudo Final Homologado]\n    I --> J[Sentença com Fundamento na Prova Pericial]"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapas Detalhadas"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Determinação Judicial e Nomeação do Perito"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "O juiz profere despacho determinando a perícia (geralmente após contestação)",
+          "Nomeia perito da lista oficial do TJSC ou aceita indicação conjunta das partes",
+          "Fixa prazo para entrega do laudo (comum: 30 a 60 dias)",
+          "Determina o depósito dos honorários periciais pela parte requerente"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Indicação de Assistente Técnico (Sua Melhor Defesa)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Prazo: 15 dias úteis após intimação (art. 465, § 1º CPC)",
+          "Cada parte pode indicar um assistente técnico (engenheiro civil habilitado no CREA-SC)",
+          "O assistente acompanha todas as diligências, formula quesitos, apresenta parecer técnico e critica o laudo do perito oficial",
+          "Sem assistente técnico, você fica refém do laudo do perito oficial sem contraponto"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Vistoria In Loco (O Momento Decisivo)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Agendada pelo perito com intimação de todas as partes",
+          "Comparecem: perito oficial, assistentes técnicos, partes, advogados",
+          "O perito inspeciona, fotografa, mede, coleta amostras se necessário",
+          "Assistente técnico registra tudo em paralelo — fotos, medições, anotações",
+          "—0 a única chance de apontar detalhes que o perito pode deixar passar"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Elaboração e Entrega do Laudo Pericial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo deve conter (NBR 13752 + art. 474 CPC):"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Qualificação completa do perito e assistentes",
+          "Descrição do objeto da perícia (quesitos do juiz + quesitos das partes)",
+          "Metodologia utilizada (normas, ensaios, equipamentos)",
+          "Análise técnica fundamentada",
+          "Conclusões diretas aos quesitos",
+          "ART registrada no CREA-SC"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Manifestação, Quesitos e Réplica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Partes são intimadas para se manifestar sobre o laudo (prazo comum: 15 dias)",
+          "Assistentes técnicos apresentam pareceres técnicos concordando ou divergindo",
+          "Novos quesitos podem ser formulados (se autorizado pelo juiz)",
+          "Perito apresenta réplica respondendo às críticas",
+          "Juiz pode determinar complementação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por Que a Regê Engenharia é a Solução para sua Perícia Judicial em Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Conhecimento da Comarca e do Judiciário Local"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Atuamos desde 2010 no litoral catarinense. Conhecemos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "O ritmo processual das varas cíveis de Navegantes",
+          "Os peritos oficiais mais frequentes na região",
+          "As particularidades do TJSC em matéria de engenharia",
+          "O perfil das decisões em ações de vícios construtivos e danos vizinhança"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Atuação Completa como Assistente Técnico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não nos limitamos a \"assinar embaixo\". Nossa atuação inclui:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "Nossa Entrega"
+        ],
+        "rows": [
+          [
+            "Pré-vistoria",
+            "Estudo do processo, análise de documentos, preparação de quesitos estratégicos"
+          ],
+          [
+            "Vistoria In Loco",
+            "Engenheiro sênior presente, registro fotográfico próprio, medições independentes, anotações técnicas em tempo real"
+          ],
+          [
+            "Análise do Laudo Oficial",
+            "Leitura crítica ponto a ponto, identificação de omissões, erros metodológicos, conclusões não fundamentadas"
+          ],
+          [
+            "Parecer Técnico / Réplica",
+            "Documento estruturado com fundamentação em NBRs, jurisprudência, fotos comparativas e planilhas de custos"
+          ],
+          [
+            "Acompanhamento até Sentença",
+            "Manifestações complementares, resposta a réplica do perito, suporte ao advogado na sustentação oral"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Especialização em Casos do Litoral Catarinense"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nossos diferenciais técnicos para a realidade de Navegantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Solo arenoso e lençol freático alto: Diagnóstico de recalques diferenciais, movimentação de fundações",
+          "Maresia e corrosão: Avaliação de patologias por cloretos, carbonatação, corrosão de armaduras (NBR 6118)",
+          "Código Urbanístico LC 416/2023: Verificação de conformidade de projetos aprovados vs. executados",
+          "Edificações de orla (Meia Praia, Gravatá): Experiência em prédios de alto padrão, sistemas de impermeabilização, fachadas ventiladas",
+          "Galpões industriais (Machados, São Domingos): Estruturas metálicas, pisos industriais, NR-12, NR-23"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Casos de Sucesso na Comarca de Navegantes"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Ação",
+          "Problema",
+          "Atuação Regê",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Vícios construtivos - Edifício Meia Praia",
+            "Infiltrações em fachadas e varandas, trincas estruturais",
+            "Assistência técnica em perícia judicial; identificação de falhas na impermeabilização e cobrimento insuficiente de armaduras",
+            "Laudo pericial acolheu 80% dos quesitos; acordo favorável R$ 1,2M"
+          ],
+          [
+            "Dano a imóvel vizinho - Centro",
+            "Trincas em residência causadas por escavação de edifício vizinho",
+            "Vistoria cautelar prévia + assistência em perícia; monitoramento de fissurômetros por 90 dias",
+            "Comprovação de nexo causal; condenação em reparação + danos morais"
+          ],
+          [
+            "Regularização de obra embargada - Gravatá",
+            "Obra paralisada por divergência de projeto x executado",
+            "Perícia técnica para demonstrar conformidade estrutural; ART de regularização",
+            "Embargo levantado; alvará emitido em 45 dias"
+          ],
+          [
+            "Responsabilidade técnica - Galpão Machados",
+            "Colapso parcial de cobertura metálica",
+            "Perícia de responsabilidade técnica; análise de projeto x execução x cálculo estrutural",
+            "Identificação de falha no dimensionamento de conexões; ação regressiva contra projetista"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Prazos e Custos: O que Esperar"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Prazos Processuais (CPC + Prática Local)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "Prazo Legal",
+          "Prática em Navegantes"
+        ],
+        "rows": [
+          [
+            "Indicação de assistente técnico",
+            "15 dias úteis (art. 465 § 1º)",
+            "Imediato após intimação"
+          ],
+          [
+            "Vistoria in loco",
+            "Sem prazo fixo",
+            "15 a 45 dias após nomeação"
+          ],
+          [
+            "Entrega do laudo pericial",
+            "Fixado pelo juiz (art. 465)",
+            "30 a 60 dias após vistoria"
+          ],
+          [
+            "Manifestação sobre o laudo",
+            "15 dias úteis",
+            "15 dias úteis"
+          ],
+          [
+            "Réplica do perito",
+            "15 dias úteis",
+            "15 a 30 dias"
+          ],
+          [
+            "Sentença",
+            "Sem prazo fixo",
+            "6 a 18 meses (depende da vara)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Investimento em Assistência Técnica"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Serviço",
+          "Valor Referência (2025/2026)"
+        ],
+        "rows": [
+          [
+            "Assistência técnica completa (pré-vistoria + vistoria + parecer + réplica)",
+            "R$ 4.000 a R$ 12.000"
+          ],
+          [
+            "Apenas parecer sobre laudo já entregue",
+            "R$ 2.500 a R$ 5.000"
+          ],
+          [
+            "Quesitos iniciais + acompanhamento de vistoria",
+            "R$ 2.000 a R$ 4.000"
+          ],
+          [
+            "Vistoria cautelar prévia (antes do processo)",
+            "R$ 1.500 a R$ 3.500"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Importante: Os honorários do perito oficial são custeados pela parte requerente (podem ser ressarcidos em caso de vitória). A assistência técnica particular é custeada por cada parte — mas o custo de não ter assistente pode ser a perda da causa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros Fatais que Proprietários e Advogados Cometem"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Erro",
+          "Consequência",
+          "Como a Regê Evita"
+        ],
+        "rows": [
+          [
+            "Não indicar assistente técnico no prazo",
+            "Perda do direito de contestar o laudo oficialmente",
+            "Monitoramos prazos e protocolamos indicação no 1º dia"
+          ],
+          [
+            "Indicar assistente sem experiência em perícia",
+            "Parecer fraco, sem fundamentação normativa, desconsiderado pelo juiz",
+            "Engenheiros com histórico de laudos aceitos no TJSC"
+          ],
+          [
+            "Não comparecer à vistoria",
+            "Impossibilidade de apontar fatos in loco; prejuízo irreparável",
+            "Garantimos presença de engenheiro sênior em 100% das vistorias"
+          ],
+          [
+            "Aceitar laudo pericial sem análise crítica",
+            "Perda de pontos decisivos (causa raiz, responsabilidade, quantum)",
+            "Análise linha a linha com base em NBRs e jurisprudência"
+          ],
+          [
+            "Não formular quesitos estratégicos",
+            "Perito não responde ao que interessa ao seu caso",
+            "Elaboramos quesitos técnicos precisos, baseados no objeto da ação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos Necessários para Iniciar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para que possamos atuar como seu assistente técnico, precisamos de:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Cópia da inicial e contestação (entender o objeto da disputa)",
+          "Despacho de nomeação do perito (prazo, quesitos do juiz, perito nomeado)",
+          "Projetos arquitetônico, estrutural, elétrico, hidráulico (se houver)",
+          "Contrato de compra/obra, memorial descritivo, termo de entrega",
+          "Comunicações com a construtora/parte contrária (notificações, e-mails, WhatsApp)",
+          "Fotos e vídeos do imóvel (histórico da evolução dos danos)",
+          "Laudos anteriores (se já houver vistoria particular)",
+          "Procuração para o advogado (para acompanharmos os autos)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O juiz já nomeou o perito. Ainda dá tempo de contratar assistente técnico?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Sim**, se ainda estiver dentro do prazo de 15 dias úteis da intimação (art. 465 § 1º CPC). Fora do prazo, é possível requerer a reabertura, mas depende de deferimento judicial. **Não perca tempo.**"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O perito oficial é da confiança do juiz. Vale a pena contestar?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Sim.** O perito oficial deve ser imparcial, mas erros técnicos acontecem: omissão de ensaios, conclusões sem fundamentação, aplicação errada de norma, desconsideração de documentos. Um assistente técnico qualificado identifica esses pontos e força a réplica — muitas vezes mudando o rumo do laudo."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Quanto custa uma perícia judicial completa?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os **honorários do perito oficial** variam de R$ 3.000 a R$ 15.000+ (conforme complexidade), pagos pela parte requerente. A **assistência técnica particular** (Regê Engenharia) varia de R$ 4.000 a R$ 12.000 para atuação completa. Em causas de alto valor, o investimento em assistência técnica é ínfimo frente ao risco."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Posso usar um laudo particular que já fiz como prova no processo?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Pode**, mas ele tem valor de **prova emprestada** — o juiz não é obrigado a aceitar. A perícia judicial tem presunção de veracidade. A estratégia ideal: **laudo particular bem feito — \u0019 ingresso na Justiça — \u0019 assistência técnica na perícia judicial**."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"A Regê Engenharia faz a perícia judicial (como perito oficial)?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não.** Como perito oficial, o engenheiro deve ser **imparcial** e é nomeado pelo juiz. A Regê Engenharia atua como **assistente técnico** das partes — defendendo tecnicamente o seu interesse com rigor, ética e fundamentação. —0 o papel que garante que **sua versão técnica seja ouvida**."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Áreas de Atendimento para Perícia Judicial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Atendemos como assistente técnico em perícias judiciais nas seguintes comarcas e regiões:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Navegantes (Comarca sede: Centro, Gravatá, São Domingos, Machados, Itinga, Meia Praia)",
+          "Penha (Comarca de Navegantes)",
+          "Itajaí (Comarca de Itajaí)",
+          "Balneário Camboriú (Comarca de Balneário Camboriú)",
+          "Camboriú (Comarca de Camboriú)",
+          "Gaspar (Comarca de Gaspar)",
+          "Brusque (Comarca de Brusque)",
+          "Tijucas (Comarca de Tijucas)",
+          "Região da AMFRI (Associação dos Municípios da Foz do Rio Itajaí)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Fale com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você tem uma perícia judicial em andamento em Navegantes ou região, **não deixe sua defesa técnica nas mãos do acaso**. A Regê Engenharia coloca à sua disposição:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiros civis com CREA-SC ativo e especialização em perícias",
+          "Experiência comprovada na Comarca de Navegantes e TJSC",
+          "Metodologia baseada em NBR 13752, NBR 15575, NBR 6118",
+          "Pareceres técnicos que resistem ao contraditório",
+          "Compromisso com prazos processuais e qualidade probatória"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Navegantes, Penha, Itajaí, Balneário Camboriú, Camboriú, Gaspar e região do litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Próximos Passos"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Análise Gratuita do Seu Caso"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Envie o número do processo ou o despacho de nomeação do perito. Avaliamos a urgência, a complexidade e a viabilidade da atuação como assistente técnico."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Proposta de Atuação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Apresentamos escopo, cronograma, honorários e equipe designada. Tudo formalizado em contrato com ART."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Ativação Imediata"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Protocolamos a indicação de assistente técnico, preparamos quesitos e iniciamos o estudo dos autos — **antes da vistoria**."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Este artigo tem caráter informativo e não substitui consulta jurídica. A atuação em perícia judicial requer advogado constituído nos autos. A Regê Engenharia atua exclusivamente como assistente técnico de engenharia, em parceria com o patrono da causa.*"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-10-02 -->"
+      }
+    }
+  ]
+}

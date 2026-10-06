@@ -1,0 +1,272 @@
+{
+  "slug": "compatibilizacao-de-projetos-navegantes",
+  "title": "Compatibilizacao de Projetos em Navegantes SC: Guia Completo para Evitar Retrabalho, Atrasos e Sobrecustos na Obra",
+  "tag": "PROJETOS",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Compatibilizacao de projetos em Navegantes SC com planta arquitetonica, estrutural e instalacoes sobrepostas com analise BIM.",
+  "excerpt": "Retrabalho por furo na viga, tubo que nao passa e obra parada: entenda o que e compatibilizacao de projetos, como funciona com BIM e como economiza ate 15% do custo em Navegantes.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Furo feito na viga errada, tubo de esgoto que cruza pilar, caixa de ar-condicionado sem ponto eletrico, porta que nao abre por conflito com estrutura e orcamento que estoura antes da metade da obra. Em Navegantes, onde 7 em cada 10 atrasos tem origem em projetos que nao conversam entre si, a causa tem nome: falta de compatibilizacao."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Compatibilizacao de projetos e o processo que coloca todas as disciplinas - arquitetura, estrutura, eletrica, hidraulica, drenagem, climatizacao e SPDA - na mesma mesa (e no mesmo modelo) antes da obra comecar, para eliminar interferencias, ajustar cotas e garantir que o que foi desenhado cabe, funciona e pode ser construido. Este guia mostra como funciona, quando fazer, quanto custa e como aplicar BIM em obras de Navegantes e do litoral norte para construir sem susto."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Projeto bom nao e projeto bonito isolado: e projeto que passa pelos outros sem quebrar nada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que e compatibilizacao de projetos?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Compatibilizacao e a analise tecnica integrada de todos os projetos de uma obra para identificar e corrigir incompatibilidades geometricas, funcionais e normativas antes da execucao. Diferente da simples sobreposicao de plantas, ela verifica cotas, furos, shafts, cargas, fluxos e sequencia construtiva."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Integra arquitetura, estrutura, fundacoes, eletrica, hidrossanitaria, drenagem pluvial, climatizacao, gas, SPDA e automacao",
+          "Detecta clashs: viga x tubulacao, pilar x janela, eletroduto x duto de ar, ralo x ferragem",
+          "Ajusta furos e shafts: furo tecnico em laje/viga so com autorizacao e detalhe do calculista - nunca improvisado na obra",
+          "Gera relatorio de interferencias e ata de definicoes: quem corrige, como e quando, com nova revisao datada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que compatibilizar e critico no litoral de Navegantes?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia e corrosao: eletrodutos, ferragens e fixacoes precisam de especificacao correta - erro de material gera troca em 2 anos",
+          "Solo arenoso e lencol alto: fundacao, cisterna, drenagem e esgoto disputam espaco no subsolo - sem compatibilizacao, um anula o outro",
+          "Vento e chuva intensa: calhas, rufos, telhado e SPDA exigem cotas precisas - desnivel de 2 cm vira infiltracao cronica",
+          "Obras na temporada: atraso de 15 dias em dezembro custa aluguel, multa e reputacao - compatibilizar economiza cronograma"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Compatibilizar x coordenar x BIM: nao confunda"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Compatibilizacao: detectar e corrigir interferencias entre projetos (o que esta errado e como corrigir)",
+          "Coordenacao de projetos: gerenciar prazos, equipes, revisoes e comunicacao entre projetistas (quem entrega quando)",
+          "BIM (Building Information Modeling): metodologia e modelo 3D parametrizado que facilita compatibilizacao, quantitativos e obra. BIM sem compatibilizacao e maquete bonita que ainda tem erro",
+          "Em Navegantes, o Fluxo ideal e: coordenacao -> modelagem BIM -> compatibilizacao -> revisao -> liberacao para obra com carimbo Compatibilizado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando compatibilizar?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Antes de orcar e contratar: orcamento sem projeto compatibilizado e chute - o sobrecusto vem depois",
+          "Antes de protocolar na Prefeitura: projeto compativel reduz exigencias e acelera alvara/habite-se",
+          "Antes de comprar materiais de prazo longo: esquadrias, elevador, gerador e estrutura metalica dependem de cotas compatibilizadas",
+          "Regra de ouro: custo de corrigir no papel e 1; na obra com parede erguida e 10; com obra pronta e 100"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como funciona na pratica: 7 passos da Rege Engenharia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Coleta e conferencia: recebimento de todos os projetos em DWG/BIM/PDF e checklist de escopo",
+          "2. Modelagem integrada: sobreposicao 2D e modelo BIM 3D federado (arquitetura + estrutura + instalacoes)",
+          "3. Deteccao de interferencias: clash detection automatico + analise critica humana (o software nao pega tudo)",
+          "4. Relatorio de incompatibilidades: lista classificada por gravidade (critica, media, baixa) com prints 3D, cotas e sugestao de solucao",
+          "5. Reuniao de compatibilizacao: definicoes com cliente, calculista e instaladores - ata assinada com responsaveis",
+          "6. Revisao de projetos: cada projetista corrige sua disciplina e reenvia com nova revisao (R01, R02)",
+          "7. Liberacao Compatibilizado para obra: carimbo, lista de furos/shafts liberados e modelo congelado para execucao"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Cada furo em laje feito sem previsao custa 5x mais: precisa escorar, perfurar, reforcar e ainda tratar a impermeabilizacao que foi rompida."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os 12 clashs que mais aparecem em Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Viga x tubulacao de esgoto: tubo de 100 mm atravessando viga sem furo previsto",
+          "Pilar x esquadria: pilar avancado come 7 cm da janela - esquadria nao fecha",
+          "Eletroduto x duto de ar-condicionado: forro com 8 cm impossivel",
+          "Caixa sifonada x ferragem da laje: ralo no meio da nervura",
+          "SPDA x platibanda: descida do para-raios sem espaco na alvenaria",
+          "Drenagem pluvial x fundacao: tubo de 150 mm colide com sapata",
+          "Gas x eletrica: botijao e quadro no mesmo abrigo - proibido por norma",
+          "Reservatorio superior x estrutura: peso nao previsto no calculo",
+          "Shaft de hidraulica x viga de borda: shaft estrangulado",
+          "Interfone/CFTV x eletrica: falta de eletroduto dedicado",
+          "Acessibilidade x estrutura: rampa com inclinacao errada por cota de laje",
+          "Impermeabilizacao x ralo: ralo acima do nivel da manta - agua empossa"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "BIM na compatibilizacao: vale a pena para obra pequena?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. O custo do BIM se paga no primeiro clash critico evitado. Para casa de 150 m2, a modelagem BIM ja evita 3 a 6 interferencias medias que custariam R$ 3.000 a R$ 8.000 na obra. Para predio ou galpao, a economia passa de R$ 30.000 facilmente."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quantitativos automaticos: lista de materiais sai do modelo, nao de conta manual - erro cai 80%",
+          "Simulacao 4D (cronograma) e 5D (custo): antecipa conflito de sequencia (ex: fachada antes da impermeabilizacao)",
+          "As-built fiel: modelo atualizado vira manual do predio e base para manutencao (NBR 5674)",
+          "Em Navegantes, onde a mao de obra e escassa na temporada, BIM reduz improviso no canteiro"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa compatibilizar em Navegantes (2026)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Casa 150 a 300 m2 (arquitetura + estrutura + eletrica + hidraulica): R$ 1.500 a R$ 4.000",
+          "Casa alto padrao 300 a 600 m2 com climatizacao e automacao: R$ 4.000 a R$ 8.000",
+          "Comercio/galpao 500 a 1.500 m2: R$ 5.000 a R$ 12.000",
+          "Predio multifamiliar (por pavimento tipo): R$ 2.500 a R$ 5.000/pavimento",
+          "Loteamento/condominio horizontal: incluso na coordenacao geral - 3% a 6% do valor dos projetos",
+          "Economia media comprovada: 5% a 15% do custo da obra em retrabalho evitado - ROI de 3x a 10x"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist para contratar compatibilizacao sem dor de cabeca"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "[ ] Todos os projetos em mesma escala, cotas e norte?",
+          "[ ] Modelo BIM ou sobreposicao 2D com cotas de forro, vigas e tubulacoes?",
+          "[ ] Relatorio de interferencias classificado por gravidade com prints?",
+          "[ ] Lista de furos/shafts liberada e assinada pelo calculista?",
+          "[ ] Revisoes R01/R02 com carimbo Compatibilizado?",
+          "[ ] Memorial de interferencias resolvidas e pendencias?",
+          "[ ] ART/RRT de compatibilizacao/coordenacao?",
+          "[ ] Modelo congelado entregue para obra e para manutencao futura?"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre compatibilizacao em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ja tenho projetos aprovados, preciso compatibilizar? Sim, se a obra ainda nao acabou. Aprovacao na Prefeitura nao verifica clash entre disciplinas - so urbanismo e Codigo de Obras."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem e responsavel por compatibilizar? O coordenador de projetos (arquiteto ou engenheiro com ART de coordenacao). Cada projetista corrige sua disciplina, mas a compatibilizacao e centralizada."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso compatibilizar so na obra, com o mestre? Nao. Improviso em viga, laje e shaft gera risco estrutural, perda de garantia (NBR 15575) e responsabilidade do responsavel tecnico."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "BIM e obrigatorio pela Prefeitura de Navegantes? Ainda nao, mas e exigido em obras publicas federais e e diferencial para aprovar rapido e construir sem erro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva? Casa: 7 a 15 dias. Predio/galpao: 20 a 45 dias conforme numero de disciplinas e revisoes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Compatibilizacao de projetos com a Rege Engenharia em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Rege Engenharia coordena e compatibiliza projetos em Navegantes e no litoral norte com metodologia BIM. Unimos arquitetura, estrutura, eletrica, hidrossanitaria, drenagem, climatizacao e SPDA num unico modelo federado, emitimos relatorio de clashs, conduzimos reuniao de definicoes e liberamos projeto carimbado Compatibilizado para obra, com ART no CREA-SC."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conhecemos as cotas, os solos e as interferencias tipicas do litoral - e compatibilizamos pensando na obra real, nao so no desenho. Se voce vai construir, reformar ou ja sente que os projetos nao fecham, fale com nossa equipe antes do primeiro furo na viga. Compatibilizar hoje e economizar cronograma, material e dor de cabeca amanha."
+      }
+    }
+  ]
+}

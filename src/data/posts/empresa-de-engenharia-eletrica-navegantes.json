@@ -1,0 +1,395 @@
+{
+  "slug": "empresa-de-engenharia-eletrica-navegantes",
+  "title": "Empresa de Engenharia Elétrica: O Que Faz, Por Que Contratar e Como Escolher",
+  "tag": "EL—0TRICA",
+  "image": "/images/Energia Solar.png",
+  "imageAlt": "Empresa de Engenharia Elétrica: O Que Faz, Por Que Contratar e Como Escolher - artigo técnico da Regê Engenharia sobre elétrica em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Uma empresa de engenharia elétrica é responsável por projetar, instalar, manter e inspecionar sistemas elétricos em residências, comércios e indústrias.",
+  "readTime": "4 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma empresa de engenharia elétrica é responsável por projetar, instalar, manter e inspecionar sistemas elétricos em residências, comércios e indústrias. Desde o dimensionamento de quadros de distribuição até a infraestrutura de subestações, o trabalho dessas empresas garante que a energia chegue com segurança, eficiência e conformidade normativa. Em Navegantes, onde a umidade do litoral e a demanda por conforto térmico ampliam o consumo de energia, contratar uma empresa especializada evita riscos elétricos e otimiza a conta de luz. Neste artigo, você entende o que essas empresas fazem, por que são essenciais e como escolher a melhor para o seu projeto."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que Faz uma Empresa de Engenharia Elétrica?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A engenharia elétrica abrange o planejamento e a execução de instalações que transportam, distribuem e utilizam energia elétrica. Uma empresa do setor atua em todas as etapas, desde o projeto até a manutenção."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Principais Áreas de Atuação"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Área",
+          "O Que Inclui"
+        ],
+        "rows": [
+          [
+            "Projetos elétricos",
+            "Dimensionamento de quadros, circuitos, iluminação e aterramento conforme NBR 5410"
+          ],
+          [
+            "Instalações prediais",
+            "Fiação, tomadas, disjuntores, interruptores e pontos de luz"
+          ],
+          [
+            "Instalações industriais",
+            "Quadros de comando, motores, automação e proteção de máquinas"
+          ],
+          [
+            "Sistemas de iluminação",
+            "Projetos luminotécnicos para ambientes residenciais, comerciais e públicos"
+          ],
+          [
+            "Energia solar fotovoltaica",
+            "Dimensionamento e instalação de painéis, inversores e ligação à rede"
+          ],
+          [
+            "Manutenção preventiva e corretiva",
+            "Inspeções periódicas, reparos e modernização de instalações"
+          ],
+          [
+            "Laudos técnicos",
+            "Inspeção e parecer sobre conformidade de instalações existentes"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por Que Contratar uma Empresa de Engenharia Elétrica?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Segurança"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Instalações elétricas mal dimensionadas são a principal causa de incêndios residenciais no Brasil. Uma empresa habilitada garante:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionamento correto de condutores e disjuntores",
+          "Aterramento adequado e instalação de DPS (Dispositivo de Proteção contra Surtos)",
+          "Conformidade com a NBR 5410 e regulamentações da concessionária (Celesc)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Eficiência Energética"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma instalação bem projetada reduz desperdício e a conta de luz. Circuitos separados por zona de consumo evitam sobrecargas e permitem controle mais preciso do uso de energia."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Conformidade Legal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra elétrica exige:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto aprovado pela concessionária para ligação ou ampliação de carga",
+          "ART (Anotação de Responsabilidade Técnica) do engenheiro eletricista",
+          "Habite-se ou alvará que inclui a parte elétrica"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Valorização do Imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um imóvel com instalação elétrica documentada e regularizada vale mais. Compradores e seguradoras verificam a conformidade antes de fechar negócio."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando Contratar uma Empresa de Engenharia Elétrica?"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Necessidade"
+        ],
+        "rows": [
+          [
+            "Construção nova",
+            "Projeto elétrico completo desde o início"
+          ],
+          [
+            "Reforma ampla",
+            "Atualização da instalação para nova distribuição"
+          ],
+          [
+            "Instalação de ar condicionado",
+            "Circuitos dedicados e dimensionamento de carga"
+          ],
+          [
+            "Energia solar",
+            "Projeto fotovoltaico e ligação à rede"
+          ],
+          [
+            "Imóvel antigo sem projeto",
+            "Regularização e novo dimensionamento"
+          ],
+          [
+            "Laudo para compra ou venda",
+            "Inspeção e parecer técnico"
+          ],
+          [
+            "Empresa ou indústria",
+            "Projetos de alta potência e automação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Escolher uma Empresa de Engenharia Elétrica"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Verifique a Habilitação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro eletricista com registro ativo no CREA",
+          "ART emitida para cada etapa do serviço",
+          "Certificado de qualificação para áreas específicas (energia solar, automação)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Analise o Portfólio"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Experiência com projetos similares ao seu (residencial, comercial, industrial)",
+          "Referências de clientes anteriores",
+          "Projetos aprovados por prefeituras e concessionárias"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Entenda o Processo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma empresa séria apresenta:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cronograma de etapas com prazos definidos",
+          "Escopo detalhado com materiais e quantitativos",
+          "Relatórios de acompanhamento durante a execução"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Compare Custos, Não Apenas Preços"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor mais barato nem sempre é o melhor. Considere:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Qualidade dos materiais especificados",
+          "Abrangência do projeto (memorial, plantas, ART)",
+          "Garantia dos serviços executados"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cuidados Específicos para o Litoral de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A proximidade com o mar impõe condições que afetam diretamente a instalação elétrica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Umidade e maresia — aceleram a corrosão de terminais e conexões; exigem componentes com proteção anticorrosiva",
+          "Descargas atmosféricas — o litoral tem maior incidência de raios; DPS e aterramento reforçados são essenciais",
+          "Tempestades e ventanias — instalações externas devem ser protegidas contra intempéries",
+          "Alto consumo de ar condicionado — verão no litoral demanda circuitos dedicados e dimensionamento para carga de partida"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros Comuns ao Contratar uma Empresa de Engenharia Elétrica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contratar apenas baseado no preço mais baixo",
+          "Verificar se o profissional tem registro no CREA",
+          "Exigir projeto detalhado com memorial e plantas",
+          "Questionar sobre garantia dos serviços e materiais",
+          "Verificar se a empresa tem experiência com projetos similares"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa um projeto elétrico residencial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor depende da área e complexidade. Projetos residenciais variam de **R$ 1.500 a R$ 8.000**; a execução da instalação é orçada separadamente."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Uma empresa de engenharia elétrica faz o projeto e a instalação?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A maioria das empresas oferece serviço completo: projeto, aprovação, execução e ART. Alguns escritórios trabalham apenas com projetos e laudos."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—0 obrigatório ter projeto elétrico para obras novas?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A concessionária (Celesc) exige projeto aprovado para ligação ou ampliação de carga. A prefeitura também verifica a parte elétrica no alvará."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia faz projetos elétricos?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia elabora projetos elétricos residenciais e comerciais integrados aos demais projetos (arquitetônico, estrutural, hidráulico) em Navegantes e no litoral catarinense, com ART e acompanhamento técnico."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma empresa de engenharia elétrica vai muito além de ligar e desligar circuitos. Ela garante que sua instalação seja segura, eficiente e legal — três pilares que afetam diretos a vida de quem mora ou trabalha no imóvel. Em Navegantes, onde o litoral impõe desafios como umidade, corrosão e descargas atmosféricas, a expertise de um profissional habilitado é ainda mais importante."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ao escolher uma empresa de engenharia elétrica, verifique a habilitação, analise o portfólio e entenda o processo. Invista em qualidade desde o projeto até a execução — a segurança não tem preço."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre empresas de engenharia elétrica em Navegantes/SC. Valores e exigências têm referência na NBR 5410 e na Celesc; consulte a Prefeitura de Navegantes e o CREA-SC para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

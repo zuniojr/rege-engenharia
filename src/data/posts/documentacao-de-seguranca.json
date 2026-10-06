@@ -1,0 +1,285 @@
+{
+  "slug": "documentacao-de-seguranca",
+  "title": "Documentação de Segurança: Guia Completo dos Documentos Obrigatórios por Número de NR",
+  "tag": "SEGURANÇA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Documentação de segurança do trabalho em canteiro de obras — prontuário, PCMAT e sinalização de segurança organizados pela engenharia em Navegantes SC.",
+  "excerpt": "Documentação de segurança não é burocracia: é o que prova conformidade com as NRs, blinda a empresa contra multas e protege vidas. Veja quais documentos são obrigatórios e como organizá-los.",
+  "readTime": "12 min de leitura",
+  "featured": true,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando se fala em segurança do trabalho, a primeira imagem que vem à mente costuma ser o capacete, o cinto de segurança, a sinalização na obra. Mas há uma camada invisível — e decisiva — que sustenta toda essa proteção: a documentação de segurança. São os programas, laudos, prontuários e relatórios que traduzem a legislação em prova escrita de que a empresa identificou os riscos e adotou as medidas de controle."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, a documentação de segurança é o que separa uma empresa regularizada de uma autuação pelo Ministério do Trabalho, de um litígio trabalhista oneroso e de uma tragédia sem resposta técnica. Este guia reúne os principais documentos obrigatórios divididos por Norma Regulamentadora (NR), explica quando cada um é exigido e mostra como a engenharia de segurança do trabalho organiza tudo isso para a sua obra ou indústria."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é documentação de segurança e por que ela existe"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A documentação de segurança é o conjunto de documentos técnicos que registra como a empresa gereia os riscos ocupacionais. Ela nasce da Consolidação das Leis do Trabalho (CLT, art. 157 e seguintes) e das Normas Regulamentadoras aprovadas pela Portaria 3.214/78 do Ministério do Trabalho. Mais do que \"papel\", cada documento cumpre uma função: mapear perigos, prescrever controles, treinar equipes e deixar rastro auditável para fiscalizações e perícias."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Comprovação legal — em uma fiscalização da SST ou em uma ação trabalhista, o documento é a evidência de que a empresa agiu com diligência",
+          "Gestão de risco — programas estruturados forçam a empresa a olhar para cada etapa do trabalho antes do acidente acontecer",
+          "Continuidade — documentos bem mantidos permitem que a segurança não dependa da memória de uma única pessoa",
+          "Defesa — em casos de insalubridade, periculosidade ou acidente, a documentação embasa laudos e acordos"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na segurança do trabalho, o que não está documentado é como se não tivesse sido feito. A fiscalização e a Justiça exigem prova, não promessa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a documentação de segurança é obrigatória"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O Brasil tem uma das legislações de SST mais detalhadas do mundo. As NRs estabelecem não apenas equipamentos e procedimentos, mas também a obrigação de documentar. Os custos de não cumprir são altos: autuações do Ministério do Trabalho variam conforme a gravidade (leve, média, grave e muito grave), podendo resultar em embargo de obra, interdição e responsabilização da diretoria. Além disso, a Reforma Trabalhista e as normas de saúde ocupacional tornaram a ausência de documentação um risco civil e previdenciário real."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Principais documentos de segurança por Norma Regulamentadora"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. PCMAT — NR-18 (Construção Civil)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção é obrigatório em toda obra com mais de 20 trabalhadores. Ele descreve as medidas de controle de riscos por fase da obra (terraplenagem, fundação, estrutura, cobertura, instalações) e acompanha o canteiro do início ao fim. Sem PCMAT, a obra está irregular perante a NR-18 e sujeita a embargo."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Diagnóstico dos riscos por etapa construtiva",
+          "Medidas de controle de quedas, escavações, eletricidade e máquinas",
+          "Planejamento de canteiro, instalações e circulação",
+          "Acompanhamento e atualização conforme a obra avança"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. PGR — NR-1 (Gerenciamento de Riscos)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Desde a atualização da NR-1, o Programa de Gerenciamento de Riscos substituiu e unificou antigos programas (como o PPRA). Ele é transversal: toda empresa com empregados precisa dele. O PGR adota a metodologia de Análise de Perigos e Riscos (APR) e integra saúde e segurança em um único documento vivo, revisado periodicamente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. PCMSO e LTCAT — NR-7 (Saúde Ocupacional)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O Programa de Controle Médico de Saúde Ocupacional e o Laudo Técnico das Condições Ambientais de Trabalho são a base da vigilância da saúde. O PCMSO define os exames admissionais, periódicos, de retorno e demissionais; o LTCAT caracteriza a exposição a agentes físicos, químicos e biológicos e embasa o Perfil Profissiográfico Previdenciário (PPP)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "PCMSO — cronograma de exames e acompanhamento clínico da equipe",
+          "LTCAT — mapeamento de agentes nocivos por posto de trabalho",
+          "PPP — prontuário individual que histórico a exposição do trabalhador"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. APR — Análise Preliminar de Risco"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A APR é o documento que antecede qualquer tarefa de maior risco (trabalho em altura, espaço confinado, demolição). Ela identifica os perigos da atividade, define as medidas de controle e só libera o serviço após a assinatura das partes. —0 peça central na prevenção de acidentes graves e na defesa da empresa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. CIPA, SIPAT e Ordem de Serviço — NR-5 e NR-1"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Comissão Interna de Prevenção de Acidentes é obrigatória conforme o grau de risco e o número de empregados, com representação patronal e de empregados. A SIPAT (Semana Interna de Prevenção de Acidentes do Trabalho) e a Ordem de Serviço de Segurança documentam o treinamento e a comunicação das regras de cada posto."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Laudos de insalubridade, periculosidade e ergonomia — NRs 15, 16 e 17"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando há exposição a agentes insalubres ou perigosos, a empresa precisa de laudos técnicos que quantifiquem a exposição e embasem adicionais salariais e contribuições previdenciárias. A NR-17 exige ainda a análise ergonômica do trabalho (AET) para postos que apresentem risco de lesão por esforço repetitivo ou postura inadequada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Prontuário e documentos complementares"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além dos programas, a empresa deve manter o Prontuário de Instalações Elétricas (NR-10), o Laudo de Inspeção do Veículo (NR-11, quando aplicável), diários de bordo de máquinas, treinamentos registrados e as APs de segurança. A organização desses documentos é o que permite responder a uma fiscalização em horas, não em semanas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando a empresa precisa dessa documentação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não existe \"empresa pequena demais\" para a segurança. Os gatilhos que tornam a documentação urgente:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ao abrir a obra ou a indústria — PCMAT e PGR devem existir antes do início das atividades",
+          "Ao contratar o primeiro funcionário — NR-1, exames admissionais e PPP passam a ser exigidos",
+          "Em licitações e grandes clientes — o documento de SST é exigência de habilitação e de contrato",
+          "Na renovação de alvará e licenças — órgãos municipais e o IMA/SC pedem comprovação de segurança",
+          "Após um acidente ou quase-acidente — a investigação e a APR atualizada viram prioritárias",
+          "Em fiscalização do Ministério do Trabalho — a apresentação imediata dos documentos evita embargo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentação de segurança no canteiro e na indústria em Santa Catarina"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — as obras convivem com ventos fortes, maresia e canteiros montados em áreas portuárias e industriais. Isso eleva riscos de queda, de descarga atmosférica e de operação de guindastes, exigindo uma documentação de segurança ainda mais rigorosa e localmente adaptada. A engenharia de segurança que conhece a região antecipa essas variáveis no PCMAT e no PGR."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Controle de quedas em estruturas expostas ao vento litorâneo",
+          "Proteção elétrica e descarga atmosférica em áreas próximas ao mar",
+          "Movimentação de carga integrada à logística portuária",
+          "Treinamentos em português e espanhol para equipes mistas comuns na região"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia apoia a documentação de segurança"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua no litoral de Santa Catarina integrando engenharia civil e segurança do trabalho. Não entregamos apenas um laudo avulso: estruturamos o pacote completo de documentação de segurança, com emissão de ART no CREA-SC em todos os serviços técnicos, para que a sua obra ou indústria esteja regular, protegida e pronta para fiscalização."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elaboração de PCMAT (NR-18) e PGR (NR-1) completos e atualizados por fase",
+          "Laudos de insalubridade, periculosidade e ergonomia (NRs 15, 16 e 17)",
+          "Apoio a PCMSO, LTCAT e PPP junto ao serviço médico ocupacional",
+          "APR, CIPA, SIPAT e ordens de serviço documentadas",
+          "Prontuário de instalações elétricas (NR-10) e acompanhamento de máquinas",
+          "ART no CREA-SC e organização do prontuário para apresentação imediata"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a sua obra ou indústria ainda não tem a documentação de segurança em dia — ou se recebeu exigência de fiscalização — fale com a equipe da Regê Engenharia. Vamos estruturar os documentos corretos para o seu empreendimento: porque segurança não se prova depois do acidente, se prova antes, com documento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre documentação de segurança"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda empresa precisa de PCMAT? Não. O PCMAT é obrigatório apenas para obras de construção civil com mais de 20 trabalhadores (NR-18). Empresas que não são de construção seguem o PGR e os demais programas conforme sua atividade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso ter apenas um documento para toda a segurança? O PGR (NR-1) unifica a gestão de riscos, mas programas específicos como PCMAT (construção), PCMSO (saúde) e laudos de insalubridade continuam sendo exigidos conforme a norma. A integração é recomendada, mas não elimina documentos previstos em NR própria."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem pode assinar a documentação de segurança? Profissionais habilitados: engenheiro de segurança do trabalho, engenheiro civil ou técnico em segurança do trabalho, com registro no CREA/CRT conforme a atribuição. A emissão de ART é obrigatória para responsabilizar tecnicamente o serviço."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A documentação substitui o EPI? Não. Documentação e EPI se complementam. O programa identifica o risco e prescreve o controle; o EPI é a última linha de defesa quando o controle coletivo não é suficiente. Um não exonera o outro."
+      }
+    }
+  ]
+}

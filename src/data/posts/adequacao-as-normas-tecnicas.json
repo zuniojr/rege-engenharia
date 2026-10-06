@@ -1,0 +1,265 @@
+{
+  "slug": "adequacao-as-normas-tecnicas",
+  "title": "Adequação às Normas Técnicas: Por Que Sua Obra em Navegantes Precisa Estar Dentro da Lei",
+  "tag": "ENGENHARIA",
+  "image": "/images/analise-estrutura.png",
+  "imageAlt": "Engenheiro conferindo projeto e normas técnicas de concreto, fundações e desempenho em obra de Navegantes SC.",
+  "excerpt": "Construir fora das normas técnicas não é economia — é risco. Entenda o que são as normas ABNT aplicadas à construção, quais as principais para obras em Navegantes e o que exigir do engenheiro e do arquiteto para entregar uma obra segura, legal e durável.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma obra \"no jeito\" do pedreiro pode parecer mais barata no começo. Mas quando a laje trinca, a instalação elétrica sobrecarrega ou o Corpo de Bombeiros nega o AVCB, o preço de ter ignorado as normas técnicas aparece — e costuma ser muito maior que o da engenharia que foi poupada. A adequação às normas técnicas não é burocracia de escritório: é o que separa uma construção segura de uma futura obra embargada."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra o que significa a adequação às normas técnicas na construção civil, quais as principais normas brasileiras (ABNT) aplicadas a obras residenciais e comerciais em Navegantes, quem é o responsável por cumpri-las e o que você deve exigir do engenheiro e do arquiteto para não construir sobre o risco."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é a adequação às normas técnicas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Norma técnica é um documento que estabelece requisitos mínimos de segurança, desempenho e qualidade para produtos, projetos e serviços. No Brasil, as principais são as normas da ABNT (Associação Brasileira de Normas Técnicas), como as NBR (Normas Brasileiras). Adequar-se a elas significa projetar e executar a obra segundo esses requisitos — e não segundo o que \"sempre foi feito\"."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—0 obrigatória — o Código de Defesa do Consumidor e as leis de engenharia tratam o não cumprimento de norma como vício ou risco",
+          "—0 a base do projeto — cálculo estrutural, instalações e desempenho só são válidos dentro da norma",
+          "—0 o que o município e os órgãos fiscalizadores conferem — na aprovação, na vistoria e no habite-se",
+          "—0 o que protege vidas — a norma existe porque alguém já se acidentou por não segui-la"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Norma técnica não é sugestão de engenheiro — é a linha que separa uma obra segura de uma obra perigosa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a adequação importa para o seu imóvel"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Segurança — a estrutura projetada dentro da NBR 6118 e da NBR 8681 não colapsa sob carga normal nem em situações extremas",
+          "Durabilidade — o concreto especificado conforme a classe de agressividade do litoral (NBR 6118) resiste à maresia por décadas",
+          "Legalidade — projetos e obras fora da norma são reprovados na Prefeitura, no Corpo de Bombeiros e no CREA",
+          "Financiamento — bancos exigem projeto e execução dentro das normas para liberar crédito",
+          "Valor de revenda — imóvel com laudo e projeto regular vale mais e vende mais rápido",
+          "Acessibilidade — a NBR 9050 garante que a edificação seja usável por todos, o que também é exigência legal"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As principais normas técnicas da construção"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para obras em Navegantes, este é o conjunto de normas que costuma entrar no projeto e na execução:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 6118 — Projeto de estruturas de concreto: cobrimento, resistência, classes de agressividade ambiental e durabilidade",
+          "NBR 6122 — Projeto de fundações: sondagem e dimensionamento adequados ao solo (no litoral, arenoso e com lençol freático elevado)",
+          "NBR 8681 — Ações e segurança nas estruturas: verificação dos estados-limite último e de serviço",
+          "NBR 15575 — Desempenho de edificações habitacionais: vida útil, estanqueidade, isolamento e acabamento",
+          "NBR 9575 — Impermeabilização: seleção e projeto de sistemas conforme a infiltração e a classe de agressividade",
+          "NBR 5410 — Instalações elétricas de baixa tensão: dimensionamento de rede, quadros e proteção",
+          "NBR 5626 — Instalações prediais de água fria e NBR 8160 — de esgoto sanitário: dimensionamento hidráulico",
+          "NBR 9050 — Acessibilidade a edificações, mobiliário e espaços urbanos",
+          "NBR 9077 — Saídas de emergência em edifícios e Instruções Técnicas do Corpo de Bombeiros de SC — prevenção a incêndio",
+          "NR-18 — Norma Regulamentadora de segurança e saúde no trabalho na construção (canteiro de obras)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem é o responsável pela adequação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A responsabilidade técnica é pessoal e intransferível. Cabe ao profissional habilitado garantir que o projeto e a execução atendam às normas — e ele responde por isso perante o conselho e a Justiça:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro civil (CREA-SC) — responde pelo projeto estrutural, fundações, instalações e pela execução da obra, com ART registrada",
+          "Arquiteto e urbanista (CAU/BR) — responde pelo projeto arquitetônico e pela compatibilização com as normas de desempenho e acessibilidade, com RRT registrado",
+          "Empreiteiro e mão de obra — executam conforme o projeto e as orientações técnicas; não substituem a responsabilidade do profissional",
+          "Proprietário — deve exigir e conservar a documentação técnica; contratar \"por fora\" da norma o expõe a risco e responsabilidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Quem assina a ART e o RRT responde pela norma. Quem constrói sem eles responde na Justiça — e na estrutura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que exigir do engenheiro"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto dentro das NBR aplicáveis — estrutura (NBR 6118/6122/8681), fundações e impermeabilização (NBR 9575) calculados e justificados",
+          "Especificação de materiais conforme a classe de agressividade — no litoral de Navegantes, concreto e cobrimento adequados à maresia",
+          "ART emitida antes do início e na conclusão — registrada no CREA-SC, vinculando o profissional à obra",
+          "Memorial de cálculo e desenhos executivos — o que permite à Prefeitura e ao CREA conferir a conformidade",
+          "Acompanhamento de obra — visitas que garantem que o executado bate com o projetado dentro da norma",
+          "Laudos de ensaio quando necessário — esclerometria, pacometria, cloretos, carbonatação e prova de carga em casos específicos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que exigir do arquiteto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto arquitetônico compatível com a NBR 15575 — desempenho, estanqueidade e acabamento previstos",
+          "Acessibilidade conforme a NBR 9050 — rampas, rodapés, vagas e circulações acessíveis",
+          "RRT emitido e ativo no CAU/BR — vinculando o arquiteto ao projeto e à obra",
+          "Compatibilização dos projetos — arquitetônico, estrutural e de instalações desenhados juntos, sem conflito",
+          "Adequação ao código de obras de Navegantes — recuos, gabarito e zoneamento respeitados desde o projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que acontece quando a obra sai da norma"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reprovação na Prefeitura — projeto ou habite-se negado por divergência técnica",
+          "Negativa do AVCB — Corpo de Bombeiros reprova sistemas fora das Instruções Técnicas",
+          "Autuação pelo CREA — obra sem ART ou fora da responsabilidade técnica gera multa e embargo",
+          "Vícios construtivos — trincas, infiltrações e corrosão por especificação inadequada ao litoral",
+          "Responsabilidade civil e criminal — falha normativa que causa dano a terceiros recai sobre o profissional e o proprietário",
+          "Perda de valor — imóvel irregular e sem laudo técnico desvaloriza e trava a venda"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A economia de não contratar engenharia some no primeiro laudo que aponta vício por ausência de norma."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Adequação na prática: o passo a passo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contrate profissionais habilitados — CREA-SC (engenheiro) e CAU/BR (arquiteto) com registro ativo",
+          "Exija ART e RRT em contrato — emissão antes do início e na conclusão da obra",
+          "Aprove o projeto na Prefeitura — dentro do código de obras e das normas aplicáveis",
+          "Execute conforme o projeto — acompanhamento técnico para que o construído seja o normatizado",
+          "Faça ensaios quando a norma exigir — especialmente em estrutura e impermeabilização no litoral",
+          "Regularize a conclusão — habite-se e averbação com toda a documentação técnica em dia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre normas técnicas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Norma técnica é obrigatória mesmo para casa pequena? Sim. Mesmo obras residenciais unifamiliares estão sujeitas às NBR de estrutura, instalações e desempenho. A escala muda o dimensionamento, não a obrigatoriedade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O pedreiro pode projetar por experiência? Não. Projetar exige cálculo normatizado feito por engenheiro ou arquiteto habilitado. A experiência do executor é valiosa na execução, mas não substitui a responsabilidade técnica."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso reformar sem seguir norma? Reformas também exigem adequação, especialmente quando mexem em estrutura, instalações ou acessibilidade. Omitir a norma gera vício e retrabalho."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem paga o cumprimento da norma? Está incluso no serviço de engenharia e arquitetura contratado. Tentar poupar nessa etapa transfere o custo — multiplicado — para o futuro da obra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Como sei se meu imóvel está dentro da norma? Através de laudo técnico de engenheiro (vistoria, análise estrutural, ensaios). Para obras antigas, a regularização técnica é o caminho para comprovar a conformidade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Adequação às normas com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos, execução e regularização de obras dentro das normas ABNT. Trabalhamos com cálculo estrutural conforme a NBR 6118, fundações adequadas ao solo litorâneo (NBR 6122), impermeabilização conforme a NBR 9575 e desempenho segundo a NBR 15575 — sempre com ART no CREA-SC e RRT no CAU/BR ativos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou precisa regularizar uma obra em Navegantes, fale com nossa equipe antes de começar. Garantir a adequação às normas técnicas desde o projeto é o que mantém sua obra segura, legal e valorizada por décadas — e protege você de multas, embargos e retrabalhos."
+      }
+    }
+  ]
+}

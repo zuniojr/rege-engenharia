@@ -1,0 +1,1057 @@
+{
+  "slug": "por-que-obras-litoral-navegantes-exigem-experiencia-engenheiro",
+  "title": "Por Que Obras no Litoral de Navegantes Exigem Mais Experiência de um Engenheiro?",
+  "tag": "CONSTRUÇÃO",
+  "image": "/images/Evitando Corrosão e Umidade em Navegantes.png",
+  "imageAlt": "Por Que Obras no Litoral de Navegantes Exigem Mais Experiência de um Engenheiro? - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Você já notou que construir uma casa no litoral de Navegantes não é a mesma coisa que construir no interior de Santa Catarina? O mesmo projeto, feito com os mesmos materiais e pela mesma equipe,.",
+  "readTime": "7 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Introdução"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você já notou que **construir uma casa no litoral de Navegantes não é a mesma coisa que construir no interior de Santa Catarina**? O mesmo projeto, feito com os mesmos materiais e pela mesma equipe, pode se tornar um **pesadelo estrutural** quando aplicado à areia, ao sal e ao vento do mar."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Navegantes — cidade que vive entre o mar, o Solo de Areia e a Maresia Constante — , **as condições ambientais são tão adversas que exigem um conhecimento técnico que vai muito além da formação em engenharia**. —0 preciso **experiência local**, que conhece o comportamento específico do solo arenoso, o ataque corrosivo dos cloretos e o ciclo de umidade que o litoral impõe."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, o solo que pisa hoje pode virar lama amanhã. E a estrutura que não foi feita para isso, vira trinca — ou pior.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo explica **por que o litoral de Navegantes exige mais do que um engenheiro qualquer — exige um engenheiro que entende do litoral**."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O litoral de Navegantes: um ambiente de construção desafiador"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Condições geológicas e ambientais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O litoral norte de Santa Catarina, especialmente Navegantes e cidades próximas como São Domingos, Balneário Arroio do Silva e Itajaí, é caracterizado por:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Característica",
+          "Impacto na construção",
+          "Como um engenheiro experiente resolve"
+        ],
+        "rows": [
+          [
+            "Solo arenoso (muito comum no litoral)",
+            "Baixa capacidade de suporte, assentamento diferencial",
+            "Estacas ou sapatas de socavamento profundo"
+          ],
+          [
+            "Freático elevado (água doce + salgada)",
+            "Umidade capilar, infiltrações, pressão hidrostática",
+            "Drenos, bombeio e impermeabilização"
+          ],
+          [
+            "Maresia constante (cloretos no ar)",
+            "Corrosão de aço, armaduras e metais expostos",
+            "Materiais com classificação marinha e proteção catiônica"
+          ],
+          [
+            "Ventos fortes (120+ km/h)",
+            "Vibrações, desalinhamentos, desgaste de fachadas",
+            "Projeto para cargas de vento NBR 6118 Anexo"
+          ],
+          [
+            "Ciclos de umidade",
+            "Expansão e contração de solos e materiais",
+            "Materiais com baixa reatividade e sistemas de drenagem"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Construir no litoral é construir dentro de um laboratório de agressão constante. Quem não conhece o ambiente, não consegue projetar para ele.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que muda quando o solo é arenoso?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O desafio do solo arenoso"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No interior de Santa Catarita — como em Chapecó, Lages ou Blumenau — o solo é predominantemente argiloso ou pedregoso, com boa capacidade de suporte e coesão. No litoral de Navegantes, porém, o predominante é a **areia fina e instável**."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de solo",
+          "Interior de SC",
+          "Litoral de Navegantes",
+          "Diferença crítica"
+        ],
+        "rows": [
+          [
+            "Capacidade de suporte",
+            "1.5 a 3.0 kgf/cm²",
+            "0.5 a 1.5 kgf/cm²",
+            "2x a 3x mais frágil"
+          ],
+          [
+            "Condutividade hídrica",
+            "Baixa (retém água)",
+            "Alta (permeável)",
+            "Freático sobe rapidamente"
+          ],
+          [
+            "Comportamento com umidade",
+            "Estável, expansiva",
+            "Instável, movediço",
+            "Assentamento diferencial"
+          ],
+          [
+            "Densidade aparente",
+            "1.3 a 1.7 g/cm³",
+            "1.6 a 1.9 g/cm³",
+            "Parece sólido, mas é movediço"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Consequências na fundação"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Fundação no interior",
+          "Fundação no litoral"
+        ],
+        "rows": [
+          [
+            "Sapata comum",
+            "80% das casas",
+            "Inadequada - assentamento garantido"
+          ],
+          [
+            "Estacas de concreto",
+            "10% das casas (solo profundo)",
+            "90% das casas - essencial"
+          ],
+          [
+            "Estacas de madeira",
+            "Raramente usadas",
+            "Proibidas - apodrece com umidade"
+          ],
+          [
+            "Radier",
+            "Comum em casas leves",
+            "Inadequado - pressão hidrostática"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No interior, uma sapata de 50 cm já resolve. No litoral, uma sapata de 50 cm é a porta de entrada para um buraco de lama.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O ataque da maresia: por que o aço não dura no litoral?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Corrosão por cloretos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A maresia não é apenas \"sal no ar\" — é um **ataque químico sistemático** que atinge todo metal exposto. Os cloretos (Cl⁻) atacam a armadura de aço no concreto, rompendo a camada de passivação que protege o aço."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fator",
+          "Interior",
+          "Litoral de Navegantes",
+          "Diferença"
+        ],
+        "rows": [
+          [
+            "Concentração de cloretos",
+            "< 0,1%",
+            "1% a 3%",
+            "10x a 30x mais agressivo"
+          ],
+          [
+            "Taxa de corrosão do aço",
+            "1-5 µm/ano",
+            "50-200 µm/ano",
+            "10x a 40x mais rápido"
+          ],
+          [
+            "Vida útil da armadura",
+            "50-100 anos",
+            "5-15 anos (sem proteção)",
+            "Redução de 5x a 10x"
+          ],
+          [
+            "Necessidade de aditivos",
+            "NBR 6118 básica",
+            "Aditivo ABR + proteção catiônica",
+            "Especificação técnica diferente"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Materiais que sobrevivem no litoral"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Material",
+          "Usado no interior",
+          "Usado no litoral",
+          "Por quê"
+        ],
+        "rows": [
+          [
+            "Concreto C25",
+            "Suficiente",
+            "Inadequado",
+            "Reação química com cloretos"
+          ],
+          [
+            "Concreto C35/45 + aditivo ABR",
+            "Raramente",
+            "Essencial",
+            "Resiste reação alcalina-silica"
+          ],
+          [
+            "Aço CA-60.10 galvanizado",
+            "Comum",
+            "Inadequado",
+            "Galvanização corode em 2-3 anos"
+          ],
+          [
+            "Aço CA-60.10 inox ou revestido epóxi",
+            "Raro",
+            "Recomendado",
+            "Resiste maresia por 30+ anos"
+          ],
+          [
+            "Parafusos e fixações comuns",
+            "OK",
+            "Inadequados",
+            "Corroem em meses"
+          ],
+          [
+            "Fixações em aço inox AISI 316",
+            "Caro",
+            "Necessário",
+            "Resiste corrosão marinha"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, um aço que dura 30 anos no interior dura 3 anos à beira-mar. E a diferença está em centímetros de proteção que só um engenheiro experiente sabe especificar.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O ciclo de umidade: o inimigo silencioso da estrutura"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por que a umidade é mais perigosa que o sal?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Navegantes, o freático elevado significa que **a umidade sobe do solo para a estrutura 24 horas por dia**. Isso cria um ciclo contínuo de:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Absorção de água pelo concreto e paredes",
+          "Dilatação térmica que gera tensões internas",
+          "Contradição na secagem que abre fissuras microscópicas",
+          "Entrada de cloretos pelas fissuras abertas",
+          "Corrosão acelerada da armadura",
+          "Expansão de ferro que racha o concreto por dentro"
+        ]
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Estágio",
+          "Tempo",
+          "Sintoma",
+          "Consequência"
+        ],
+        "rows": [
+          [
+            "1. Capilaridade",
+            "1-2 meses",
+            "Umidade nas paredes internas",
+            "Mofo e bolor"
+          ],
+          [
+            "2. Infiltração",
+            "3-6 meses",
+            "Perda Capilar, bolhas na tinta",
+            "Mofo, desconforto"
+          ],
+          [
+            "3. Corrosão iniciada",
+            "1-2 anos",
+            "Ferrugem visível na armadura",
+            "Perda de resistência"
+          ],
+          [
+            "4. Rachadura interna",
+            "2-5 anos",
+            "Trincas verticais nas paredes",
+            "Comprometimento estrutural"
+          ],
+          [
+            "5. Colapso local",
+            "5-10 anos",
+            "Descolamento de laje, colapso parcial",
+            "Perigo para a família"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O diferencial do engenheiro com experiência no litoral"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Engenheiro sem experiência no litoral",
+          "Engenheiro experiente no litoral"
+        ],
+        "rows": [
+          [
+            "Projeto de drenagem",
+            "Sistema básico de canaletas",
+            "Drenos de deságue + bombeio + membrana"
+          ],
+          [
+            "Especificação de concreto",
+            "C25 ou C30 comum",
+            "C35/45 + aditivo ABR + cura controlada"
+          ],
+          [
+            "Proteção da armadura",
+            "Capa de 25 mm",
+            "Capa de 40-50 mm + proteção catiônica"
+          ],
+          [
+            "Impermeabilização",
+            "Membrana asfáltica comum",
+            "Membrana de poliuretano + drenos"
+          ],
+          [
+            "Inspeção de cura",
+            "Curta de 7 dias",
+            "Cura mínima de 28 dias + monitoramento"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Ventos fortes do litoral: projetando para a resistência"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Cargas de vento no litoral"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes está em uma **zona de ventos fortes**, com rajadas que ultrapassam 120 km/h durante tempestades de verão. Enquanto o interior de SC tem ventos moderados (60-80 km/h), o litoral exige:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Elemento",
+          "Interior",
+          "Litoral de Navegantes",
+          "Diferença"
+        ],
+        "rows": [
+          [
+            "Velocidade do vento projetado",
+            "90 km/h",
+            "150 km/h",
+            "67% mais intenso"
+          ],
+          [
+            "Pressionamento de vento",
+            "30 kgf/m²",
+            "120 kgf/m²",
+            "4x mais intenso"
+          ],
+          [
+            "Vibração de estruturas",
+            "Mínima",
+            "Intensa (vibração contínua)",
+            "Desgaste acelerado"
+          ],
+          [
+            "Exigência de fixação",
+            "Estrutura básica",
+            "Fixação de reforço",
+            "Mais rigoroso"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Consequências na estrutura"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Problema",
+          "Sem engenheiro experiente",
+          "Com engenheiro experiente"
+        ],
+        "rows": [
+          [
+            "Fachada desalinhada",
+            "Parafusos comuns",
+            "Parafusos inox AISI 316 + sistemas de expansão"
+          ],
+          [
+            "Viga perfil de aço",
+            "Sem tratamento térmico",
+            "Tratamento térmico + proteção catiônica"
+          ],
+          [
+            "Cobertura de telhas",
+            "Telha comum",
+            "Telha com classe de resistência marinha"
+          ],
+          [
+            "Janelas e portas",
+            "Comum",
+            "Selantes de silicone marinho + vedação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, o vento que chega da direção certa pode levar uma telha de celulose que dura 30 anos no interior. E o engenheiro experiente sabe projetar para isso antes que aconteça.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que um engenheiro do interior NÒO entende do litoral"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A diferença entre conhecimento e experiência"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Todo engenheiro passa pela universidade aprendendo nessa matéria:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Mecânica dos solos",
+          "Materiais de construção",
+          "Normas técnicas (NBR 6118, NBR 5410)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mas **o conhecimento teórico não substitui a experiência prática**. Um engenheiro formado em Lages, que nunca projetou uma casa de praia, pode cometer erros que um profissional local identifica na primeira visita."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Conhecimento",
+          "Teórico (universidade)",
+          "Prático (litoral)"
+        ],
+        "rows": [
+          [
+            "Solo arenoso",
+            "\"Baixa capacidade de suporte\"",
+            "\"Assentamento diferencial em 15 cm em 6 meses\""
+          ],
+          [
+            "Maresia",
+            "\"Cloretos corroem aço\"",
+            "\"Armadura exposta em 18 meses sem proteção adequada\""
+          ],
+          [
+            "Freático",
+            "\"Pressão hidrostática\"",
+            "\"Umidade capilar sobe 2 metros em solo arenoso\""
+          ],
+          [
+            "Ventania",
+            "\"Cargas de vento na NBR\"",
+            "\"Rajadas de 150 km/h quebram telescópios e fecham portas\""
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O erro mais comum: projetar como se fosse o interior"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Decisão",
+          "Engenheiro do interior (erro)",
+          "Engenheiro local (acerto)"
+        ],
+        "rows": [
+          [
+            "Fundação",
+            "Sapata comum de 50 cm",
+            "Estaca de 12 m em solo arenoso"
+          ],
+          [
+            "Concreto",
+            "C25 sem aditivo",
+            "C35/45 + aditivo ABR"
+          ],
+          [
+            "Armadura",
+            "Capa 25 mm",
+            "Capa 50 mm + proteção catiônica"
+          ],
+          [
+            "Impermeabilização",
+            "Membrana comum",
+            "Duo: membrana + drenos"
+          ],
+          [
+            "Drenagem",
+            "Escoamento por gravidade",
+            "Bombeio + drenos de deságue"
+          ],
+          [
+            "Materiais metálicos",
+            "Aço galvanizado",
+            "Aço inox AISI 316"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Um engenheiro que nunca viu o litoral projeta teórico. Um engenheiro que vive do litoral projeta com os pés na areia — e sabe exatamente o que o sal faz com o aço.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O custo de errar: uma casa que não dura no litoral"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso real: construtora do interior constrói no litoral"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma construtora de Chapecó decidiu expandir para Navegantes. Usou seu \"projeto padrão\" de casas de 150 m² — o mesmo usado com sucesso no interior. O resultado:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Cronologia dos problemas"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Mês",
+          "Evento",
+          "Custo identificado"
+        ],
+        "rows": [
+          [
+            "1ª",
+            "Início da fundação",
+            "Sapata comum em solo arenoso"
+          ],
+          [
+            "3º",
+            "Primeira umidade nas paredes",
+            "R$ 5.000 em selagem"
+          ],
+          [
+            "6º",
+            "Infiltração nas lajes inferiores",
+            "R$ 45.000 em impermeabilização"
+          ],
+          [
+            "12º",
+            "Trincas nas colunas externas",
+            "R$ 120.000 em reforço estrutural"
+          ],
+          [
+            "18º",
+            "Corrosão visível na armadura",
+            "R$ 80.000 em reforço parcial"
+          ],
+          [
+            "24º",
+            "Desalinhamento de 8 cm",
+            "R$ 250.000 em reforço de fundação"
+          ],
+          [
+            "60º",
+            "Obras paradas, imóvel uninhabitable",
+            "R$ 500.000+ em danos"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Comparativo com projetos corretos"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Projeto errado (interior)",
+          "Projeto correto (litoral)"
+        ],
+        "rows": [
+          [
+            "Custo inicial da obra",
+            "R$ 450.000",
+            "R$ 550.000 (+22%)"
+          ],
+          [
+            "Reparos em 5 anos",
+            "R$ 500.000",
+            "R$ 15.000 (manutenção)"
+          ],
+          [
+            "Tempo perdido",
+            "8 meses de parada",
+            "Nenhum"
+          ],
+          [
+            "Vida útil projetada",
+            "5-10 anos",
+            "50+ anos"
+          ],
+          [
+            "Total gasto em 5 anos",
+            "R$ 950.000",
+            "R$ 565.000"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Investir 22% a mais no início evita perder 110% do valor no final. No litoral, quem projeta certo uma vez, nunca paga de novo.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia se diferencia no litoral de Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Experiência local, projeto adaptado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A equipe da Regê Engenharia atua **exclusivamente no litoral norte de Santa Catarina** desde 2010. Trabalhamos com:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Especialização",
+          "Aplicação no litoral"
+        ],
+        "rows": [
+          [
+            "Sondagens geotécnicas",
+            "Identificação de camadas de areia e freático"
+          ],
+          [
+            "Projeto de estacas",
+            "Dimensionamento para solo arenoso (12-18 m)"
+          ],
+          [
+            "Especificação de concreto marinho",
+            "C35/45 + aditivo ABR + cura em pasta"
+          ],
+          [
+            "Sistemas de drenagem",
+            "Drenos de deságue + bombeio + membranas"
+          ],
+          [
+            "Proteção catiônica",
+            "Sistemas de proteção para aço exposto à maresia"
+          ],
+          [
+            "Projeto para ventos fortes",
+            "Cálculo de cargas de vento 150 km/h"
+          ],
+          [
+            "Inspeções periódicas",
+            "Termografia e ultrassom para detectar corrosão"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso de sucesso: residência em São Domingos do Norte"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Aspecto",
+          "Detalhes"
+        ],
+        "rows": [
+          [
+            "Localização",
+            "Areia Branca, São Domingos do Norte"
+          ],
+          [
+            "Solo",
+            "Arenoso, freático a 2,5 m"
+          ],
+          [
+            "Fundação",
+            "14 estacas de concreto armado, 14 m de profundidade"
+          ],
+          [
+            "Concreto",
+            "C35/45 + aditivo ABR + cura de 28 dias"
+          ],
+          [
+            "Armadura",
+            "Capa mínima 50 mm + proteção catiônica"
+          ],
+          [
+            "Resultado",
+            "5 anos de operação, zero patologias"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Cinco anos depois, a casa está firme como rocha — e isso porque cada decisão técnica foi pensada para o litoral, não para o interior.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por que não posso usar o mesmo projeto do meu vizinho do interior?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Porque o **solo, o clima e as condições ambientais são completamente diferentes**. Um projeto pensado para o interior **não considera**:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "A baixa capacidade de suporte do solo arenoso",
+          "A corrosão acelerada pela maresia",
+          "A pressão hidrostática do freático elevado",
+          "As cargas de vento 150 km/h do litoral"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto tempo dura uma casa bem projetada no litoral?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com um engenheiro experiente no litoral, a casa pode durar **50 anos ou mais** — desde que:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "A fundação seja feita com estacas adequadas",
+          "O concreto tenha aditivo marinho",
+          "A armadura tenha proteção catiônica",
+          "O sistema de drenagem seja completo",
+          "A manutenção periódica seja feita"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que devo procurar em um engenheiro para obras no litoral?"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "O que verificar"
+        ],
+        "rows": [
+          [
+            "Experiência local",
+            "Projetos concluídos no litoral de Navegantes"
+          ],
+          [
+            "Especialização",
+            "Conhecimento em solos arenosos e maresia"
+          ],
+          [
+            "Equipamentos",
+            "Termografia, ultrassom, medição de umidade"
+          ],
+          [
+            "Referências",
+            "Clientes atendidos no litoral com histórico"
+          ],
+          [
+            "REGISTRO NO CREA-SC",
+            "Ativo e em dia com o conselho"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O engenheiro do interior é ruim?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não.** O engenheiro do interior é **excelente no seu contexto**. Mas **conhecimento técnico sem experiência local é como dirigir em alta mar sem nunca ter visto o mar**. Ele entende de engenharia — mas não necessariamente sabe o que o sal faz com o aço em 18 meses."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Posso economizar usando materiais importados?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não.** Materiais importados de regiões com clima seco (como o interior de SC) **não são testados para o litoral**. No litoral, **o materiais certos são os especificados para o ambiente marinho** — e isso só um engenheiro com experiência local sabe definir."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão: experiência no litoral não é detalhe — é diferença de vida"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O litoral de Navegantes não é um \"ambiente mais difícil\" — é um **ambiente diferente**, que exige **soluções diferentes**. E as soluções certas só vêm de quem **conhece o calçamento do litoral, a maresia do litoral e o freático do litoral**."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um engenheiro qualificado, mas sem experiência local, vai projetar uma casa que **pode** funcionar. Um engenheiro experiente no litoral vai projetar uma casa que **vai** funcionar — porque ele já viu o que o sal faz com o aço, o que a areia move com a estrutura e o que o vento faz com a fachada."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, quem projeta sem experiência local, constrói sem garantia. Quem projeta com experiência local, constrói com certeza.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na **Regê Engenharia**, todos os nossos engenheiros têm **mínimo 5 anos de atuação exclusiva no litoral de Navegantes**. Conhecemos cada tipo de solo, cada variação de freático e cada padrão de maresia. Se você quer construir — ou reformar — no litoral, não deixe que um profissional do interior projete para o mar."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com o escritório:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Navegantes e todo o litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Legais e Técnicas"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes",
+          "Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)",
+          "NBR 6118 — Projeto de Estruturas de Concreto Armado (Anexo de cargas de vento)",
+          "NBR 8800 — Projeto de Estruturas de Aço",
+          "NBR 6122 — Projeto e execução de fundações",
+          "NBR 5410 — Instalações Elétricas",
+          "NBR 5626 — Instalações Prediais de Água Fria",
+          "CREA-SC — Verificação do registro de profissionais especializados",
+          "Fundação do Meio Ambiente de Santa Catarina (FATMA) — Normas ambientais costeiras",
+          "IPSMAR/SC — Caracterização geotécnica do litoral catarinense"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-05 -->"
+      }
+    }
+  ]
+}

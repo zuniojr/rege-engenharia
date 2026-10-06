@@ -1,0 +1,356 @@
+{
+  "slug": "gestao-residuos-obras-descarte-correto-navegantes-itajai",
+  "title": "Gestão de Resíduos em Obras: Descarte Correto na Região de Navegantes e Itajaí",
+  "tag": "CONSTRUÇÃO",
+  "image": "/images/construtora.png",
+  "imageAlt": "Gestão de resíduos em canteiro de obra em Navegantes SC, com caçambas e big-bags organizados para descarte correto de entulho e resíduos de construção civil.",
+  "excerpt": "Entulho, caixilharia, tubulações, pisos e gesso: onde jogar os resíduos da sua obra em Navegantes e Itajaí? Entenda a legislação, as categorias de resíduos, os pontos de descarte licenciados e como uma boa gestão de resíduos evita multas, embargos e danos ambientais no litoral.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda geração gera resíduos — e na construção civil, a conta é pesada. Estima-se que o setor produza mais de 100 milhões de toneladas de resíduos por ano no Brasil, com apenas uma fração sendo devidamente destinada a aterros licenciados. Em Navegantes e Itajaí, onde o ritmo de obras segue acelerado pelo porto e pelo crescimento imobiliário, a gestão de resíduos deixou de ser questão ambiental para virar assunto de multa, embargo e responsabilidade civil. E o pior: a maioria dos problemas poderia ser evitada com planejamento e descarte correto."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica como funciona a gestão de resíduos em obras na região de Navegantes e Itajaí: a legislação que define as regras, as categorias de resíduos da construção civil, os pontos de descarte licenciados, os erros que mais geram problemas e como uma gestão adequada protege o seu projeto — e o seu bolso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto de resíduo uma obra gera?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O volume de resíduos gerado por uma obra depende do porte, do tipo de construção e da etapa. Como referência técnica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construção nova (residencial médio) — entre 200 e 500 kg de resíduos por metro quadrado construído",
+          "Reforma residencial — entre 50 e 150 kg por metro quadrado reformado",
+          "Demolição — entre 500 e 1.500 kg por metro quadrado demolido, conforme o tipo de estrutura",
+          "Obra comercial/industrial — valores podem ser ainda maiores, dependendo do processo"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em uma obra residencial de 200 m² em Navegantes, o descarte pode ultrapassar 50 toneladas de resíduos ao longo de toda a construção. Sem gestão, esse volume vira entulho jogado em terreno baldio, em córrego ou em aterro não licenciado — e cada uma dessas opções gera passivo ambiental e risco jurídico para o proprietário e para o responsável técnico."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Uma obra de 200 m² pode gerar mais de 50 toneladas de resíduos. Gerenciar mal esse volume é criar um passivo ambiental que dura décadas — e multas que duram anos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "A legislação: o que a lei exige"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de resíduos da construção civil no Brasil é regulamentada por um arcabouço legal que conecta responsabilidade, destinação e rastreabilidade:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "CONAMA 307/2002 — classifica os resíduos da construção civil em categorias (A a F), define responsabilidades e estabelece metas de reciclagem; exige cadastro do gerador e plano de gerenciamento para obras acima de determinado porte",
+          "Lei 12.305/2010 (PNRS — Política Nacional de Resíduos Sólidos) — obriga o gerador a zelar pela destinação final ambientalmente adequada; responsável solidário pelos resíduos até o descarte final",
+          "Lei 9.605/1998 (Lei de Crimes Ambientais) — o descarte irregular de resíduos da construção civil pode configurar crime ambiental, com multa, embargo e até responsabilidade penal",
+          "CONAMA 348/2004 — complementa a 307, regulamentando o cadastro dos geradores e a fiscalização",
+          "Legislação estadual e municipal — a FIRJAM (Federação das Indústrias do Estado de Santa Catarina) e os municípios de Navegantes e Itajaí podem estabelecer regras complementares, como horários de coleta, locais específicos e taxas de descarte"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o que isso significa para quem obra em Navegantes e Itajaí? Que o responsável pela obra — proprietário, construtora ou engenheiro responsável — é obrigado a manter o controle de todos os resíduos gerados, desde a origem até o descarte final, com documentação que comprove a destinação correta."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As categorias de resíduos da construção civil"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A CONAMA 307/2002 classifica os resíduos em categorias, cada uma com destinação e tratamento diferentes. Conhecer essas categorias é o primeiro passo para uma gestão correta:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Categoria A — resíduos inertes, que não sofrem alteração significativa quando depositados (concreto, cerâmica, argamassa, pedra, tijolo, solo); são os mais volumosos e representam 50% a 70% do total; podem ser reciclados ou enviados a aterros de inertes",
+          "Categoria B — resíduos não inertes com potencial de reciclagem ou aproveitamento (madeira, metais, plásticos, vidros, papel e papelão); devem ser triados no canteiro e destinados a cooperativas ou empresas de reciclagem",
+          "Categoria C — resíduos não inertes sem potencial de reciclagem ou aproveitamento (tintas, solventes, óleos, colas, resinas, gesso, isolantes térmicos); devem ser destinados a aterros especiais ou licenciados para não inertes",
+          "Categoria D — resíduos com contaminantes perigosos (amianto, chumbo, mercúrio, cádmio, PCB); exigem tratamento especial e descarte em aterros de resíduos perigosos, com rastreabilidade e documentação específica",
+          "Categoria E — resíduos recicláveis diferentes dos da categoria B (resíduos orgânicos de canteiro, papelarias, etc.)",
+          "Categoria F — resíduos para os quais não foi definida a não periculosidade (resíduos de processos de construção e demolição não classificados nas categorias anteriores)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o mais comum em obras residenciais e comerciais em Navegantes e Itajaí são as categorias A (entulho de concreto, cerâmica e argamassa) e B (madeira, metais e plásticos). A triagem no canteiro é o que define se esses resíduos viram reciclados ou vão para o aterro como mistura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os pontos de descarte licenciados na região"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e Itajaí, o descarte correto depende de utilizar empresas e aterros licenciados pelo órgão ambiental competente. Na prática:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Aterros de inertes (categoria A) — recebem entulho, concreto, cerâmica e argamassa; o material pode ser reciclado e reutilizado como sub-base de pavimentação, enchimento e agregados para novo concreto",
+          "Aterros de não inertes (categorias B e C) — recebem madeira, plásticos, gesso, tintas e outros materiais que não são inertes; exigem licenciamento ambiental específico",
+          "Cooperativas de reciclagem — recebem categorias B e E, com triagem e reaproveitamento; são mais sustentáveis e, em muitos casos, mais econômicas que o aterro",
+          "Pontos de coleta seletiva — em Navegantes e Itajaí, a coleta de entulho volumoso pode ser agendada com a prefeitura para resíduos domésticos; para volumes de obra, a empresa licenciada é obrigatória",
+          "Caçambas e big-bags licenciados — a contratação de empresa com alvará ambiental e registro na prefeitura é a forma correta de coletar e transportar resíduos de obra na região"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A dica prática: antes de iniciar a obra, identifique o gerador de resíduos licenciado mais próximo e contrate o serviço de coleta e destinação. O custo do descarte correto é uma fração do custo de uma multa ambiental ou de um embargo de obra."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O descarte correto não é custo — é seguro. O custo do aterro licenciado é uma fração do custo de uma multa ambiental ou de um embargo de obra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como planejar a gestão de resíduos na sua obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de resíduos começa antes da obra e acompanha cada etapa da construção. O plano de gerenciamento de resíduos é o documento que organiza tudo:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Identifique os resíduos — antes de começar, mapeie quais resíduos a obra vai gerar em cada etapa (fundação, estrutura, alvenaria, acabamento)",
+          "2. Defina a triagem no canteiro — área separada por categoria (inertes, madeira, metais, plásticos, não inertes), com localização fixa e sinalização",
+          "3. Dimensione os containers — caçambas ou big-bags por categoria, com capacidade suficiente para evitar acúmulo no canteiro",
+          "4. Contrate a empresa licenciada — coleta periódica com transporte e destinação documentados, com nota fiscal e certificado de descarte",
+          "5. Documente tudo — registre a origem, a quantidade e a destinação de cada resíduo; a fiscalização pode exigir essa rastreabilidade",
+          "6. Treine a equipe — pedreiros, auxiliares e encarregados precisam saber o que vai em cada container e por quê"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os erros que mais geram multas e problemas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fiscalização ambiental em Navegantes e Itajaí está cada vez mais atenta. Os erros que mais chamam a atenção dos órgãos competentes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Descarte em terreno baldio — jogar entulho em área não autorizada é infração ambiental grave, com multa que pode chegar a dezenas de milhares de reais",
+          "Queima de resíduos — queimar madeira, plásticos ou outros materiais no canteiro é crime ambiental (Lei 9.605/98), com multa e responsabilidade penal",
+          "Jogar em córrego, rio ou mar — o descarte de resíduos da construção em cursos d'água ou na orla é infração ambiental com multa e obrigação de recomposição do dano",
+          "Ausência de triagem — misturar todos os resíduos em um único container aumenta o custo do descarte e reduz o aproveitamento; além disso, pode configurar descarte irregular",
+          "Falta de documentação — sem nota fiscal, certificado de destinação ou plano de gerenciamento, a obra fica desprotegida em caso de fiscalização",
+          "Acúmulo excessivo no canteiro — resíduos empilhados por muito tempo atraem vetores, sujeira e riscos de segurança; o canteiro deve ser limpo periodicamente"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O entulho jogado no terreno baldio do vizinho pode parecer solução rápida — mas a multa chega primeiro que o caminhão de retorno."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "A reciclagem de resíduos da construção na região"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A boa notícia é que grande parte dos resíduos da construção civil pode ser reciclada e reaproveitada. Na região de Navegantes e Itajaí, o processamento de resíduos de construção (RCD) já é uma realidade:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Concreto e argamassa — triturados, viram agregados graúdos e miúdos para uso em novo concreto, sub-base de pavimentação e enchimento",
+          "Cerâmica e tijolos — processados para agregados de concreto e argamassa, reduzindo a extração de areia e pedra de rio",
+          "Madeira — aproveitada como biomassa para geração de energia, composto ou madeira de demolição reutilizável",
+          "Metais — aço, alumínio e cobre são altamente recicláveis e têm valor comercial",
+          "Plásticos e vidros — processados por cooperativas e industriais da reciclagem regional"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A reciclagem de resíduos de construção não é apenas sustentável — é econômica. O custo de destinação para aterro licenciado é maior que o processamento por reciclagem em muitos casos. Além disso, a triagem gera renda com a venda de materiais recicláveis, especialmente metais e madeira em bom estado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gestão de resíduos e responsabilidade do engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro responsável pela obra tem papel central na gestão de resíduos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto de gestão — incluir o plano de gerenciamento de resíduos no projeto executivo da obra",
+          "Especificação — definir os procedimentos de triagem, armazenamento temporário e destinação em cada etapa",
+          "Acompanhamento — fiscalizar se a equipe segue os procedimentos e se a documentação está em dia",
+          "ART e documentação — registrar a responsabilidade técnica sobre a gestão de resíduos, que pode ser exigida pela fiscalização",
+          "Regularidade — garantir que a obra esteja em conformidade com a CONAMA 307/2002 e a legislação local"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o engenheiro é o profissional que transforma a gestão de resíduos de \"boa intenção\" em processo documentado — e isso é o que protege o proprietário e a construção de multas, embargos e passivos ambientais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos de descarte na região de Navegantes e Itajaí"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo do descarte correto varia conforme o volume, a categoria e a empresa contratada. Como referência para 2026:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caçamba de entulho (inertes — categoria A) — de R$ 400 a R$ 800 por caçamba, conforme a distância e o aterro",
+          "Big-bag de entulho — de R$ 300 a R$ 600 por unidade (1 m³)",
+          "Descarte de não inertes (categorias B e C) — valor superior ao dos inertes, pois exige aterro licenciado para resíduos especiais",
+          "Descarte de amianto (categoria D) — valor significativamente maior, com exigência de empresa especializada e rastreabilidade",
+          "Triagem no canteiro — custo de organização e mão de obra para triagem, que se paga com a redução do custo de descarte e com a venda de materiais recicláveis"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em uma obra residencial de 200 m² em Navegantes, o custo total de descarte de resíduos pode ficar entre R$ 3.000 e R$ 8.000, dependendo do volume de demolição e da complexidade da triagem. —0 um investimento que se paga com a evitar de multas que podem custar 10 a 50 vezes mais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre gestão de resíduos em obras na região"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de plano de gerenciamento de resíduos para minha obra? Sim, para obras acima de determinado porte (definido pela CONAMA 307/2002). Mesmo para obras menores, a triagem e a destinação documentada são recomendáveis para evitar problemas com fiscalização."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso jogar o entulho da minha reforma no terreno do fundos? Não. O descarte em terreno baldio, área de preservação ou em terreno sem autorização é infração ambiental, com multa e obrigação de recomposição."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A prefeitura coleta o entulho da minha obra? Em Navegantes e Itajaí, a coleta de resíduos volumosos domésticos pode ser agendada com a prefeitura. Para volumes de obra, a contratação de empresa licenciada é obrigatória."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa o descarte correto? O custo depende do volume e da categoria. Em geral, representa de 1% a 3% do custo total da obra — uma fração do custo de uma multa ou embargo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia cuida da gestão de resíduos na obra? Sim. A Regê Engenharia inclui o plano de gerenciamento de resíduos no projeto executivo, acompanha a triagem e a destinação, e documenta todo o processo para garantir a conformidade ambiental da obra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gestão de resíduos com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos, execução e gestão de obras residenciais, comerciais e industriais. Nossa equipe cuida da gestão de resíduos desde o planejamento até o descarte final, com documentação completa e conformidade ambiental — para que a sua obra seja limpa do início ao fim, sem passivo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está construindo em terreno arenoso e precisa de sistema de tratamento de esgoto, entre em contato com a nossa equipe. Vamos garantir que o seu sistema funcione corretamente — protegendo o seu patrimônio, a saúde da sua família e o meio ambiente."
+      }
+    }
+  ]
+}

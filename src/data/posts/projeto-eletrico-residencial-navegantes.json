@@ -1,0 +1,222 @@
+{
+  "slug": "projeto-eletrico-residencial-navegantes",
+  "title": "Projeto Elétrico Residencial: Segurança e Eficiência em Navegantes",
+  "tag": "EL—0TRICA",
+  "image": "/images/Energia Solar.png",
+  "imageAlt": "Projeto Elétrico Residencial: Segurança e Eficiência em Navegantes - artigo técnico da Regê Engenharia sobre elétrica em Navegantes e Litoral Norte de SC.",
+  "excerpt": "O projeto elétrico residencial é o documento técnico que define como a energia será distribuída na casa — quadros de distribuição, circuitos, tomadas, iluminação e proteção.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico residencial é o documento técnico que define como a energia será distribuída na casa — quadros de distribuição, circuitos, tomadas, iluminação e proteção. Feito por profissional habilitado, ele evita sobrecargas, incêndios e conta de luz alta. No litoral de Navegantes, onde a umidade e a maresia exigem cuidados extras, o projeto elétrico bem dimensionado é a base da segurança do imóvel. Neste artigo, você entende o que é, por que contratar e como ele funciona na prática."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que é Projeto Elétrico Residencial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 o conjunto de plantas e memoriais que dimensiona a instalação elétrica da residência conforme a NBR 5410. Inclui carga prevista, divisão em circuitos, escolha de condutores, disjuntores e aterramento."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por Que é Importante?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Segurança — previne curtos, sobrecargas e incêndio",
+          "Eficiência — dimensionamento correto reduz desperdício",
+          "Aprovação — é exigido pela concessionária (Celesc) para ligação",
+          "Conforto — pontos bem posicionados evitam benjamins e reformas",
+          "Valorização — instalação regular e documentada vale mais"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que o Projeto Contém"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Descrição"
+        ],
+        "rows": [
+          [
+            "Memorial descritivo",
+            "Cargas, materiais e normas aplicadas"
+          ],
+          [
+            "Quadro de distribuição",
+            "Disjuntores e divisão de circuitos"
+          ],
+          [
+            "Plantas de instalação",
+            "Tomadas, iluminação e equipamentos"
+          ],
+          [
+            "Dimensionamento",
+            "Condutores e proteção por circuito"
+          ],
+          [
+            "Aterramento",
+            "Sistema de proteção contra descargas"
+          ],
+          [
+            "ART do responsável técnico",
+            "Engenheiro eletricista habilitado"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapas do Projeto Elétrico"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Levantamento de cargas — quantos aparelhos, tomadas e pontos de luz.",
+          "Divisão em circuitos — separar iluminação, tomadas e equipamentos de alto consumo.",
+          "Dimensionamento — condutor e disjuntor por circuito, conforme NBR 5410.",
+          "Traçado e plantas — posição de caixas, conduit e quadro.",
+          "Aterramento e proteção — DPS e sistema de proteção contra surtos.",
+          "ART e aprovação — responsável técnico e protocolo junto à concessionária."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cuidados no Litoral de Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Umidade e maresia — exigem condutores e caixas com proteção anticorrosiva",
+          "Descargas atmosféricas — o litoral pede DPS e aterramento reforçado",
+          "Ar condicionado — circuitos dedicados e dimensionados para partida",
+          "Infiltração — pontos e caixas posicionados fora de áreas de umidade",
+          "Ventilação do quadro — evita condensação e superaquecimento"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que Comprometem a Instalação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fazer a instalação \"no feeling\" sem projeto",
+          "Misturar todos os pontos em um único circuito",
+          "Dispensar o aterramento e o DPS",
+          "Usar condutores impróprios para a umidade do litoral",
+          "Ausência de ART do responsável técnico"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O projeto elétrico é obrigatório para ligar a luz?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A concessionária (Celesc) exige projeto aprovado para nova ligação ou ampliação de carga."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Precisa de engenheiro?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. O projeto elétrico residencial deve ser feito por engenheiro eletricista habilitado, com ART."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual o custo do projeto?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende da área e da complexidade. Projetos residenciais variam de **R$ 1.500 a R$ 8.000**; a execução da instalação é orçada à parte."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia faz projeto elétrico?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia elabora o projeto elétrico residencial integrado aos demais projetos (arquitetônico, hidráulico, climatização) em Navegantes e no litoral catarinense, com ART e acompanhamento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico residencial não é um custo acessório: é a fundação invisível da segurança da casa. Em Navegantes, onde umidade, maresia e tempestades impõem condições próprias, dimensionar corretamente e proteger a instalação é o que evita incêndio, conta alta e retrabalho."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antecipe o projeto elétrico junto com a arquitetura, conte com engenheiro habilitado e garanta aterramento e DPS. A energia bem projetada é energia segura — e casa tranquila."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre projeto elétrico residencial em Navegantes/SC. Valores e exigências têm referência na NBR 5410 e na Celesc; consulte a Prefeitura de Navegantes (SUL) e o CREA-SC para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

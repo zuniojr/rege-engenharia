@@ -1,0 +1,222 @@
+{
+  "slug": "projeto-de-fundacoes-navegantes",
+  "title": "Projeto de Fundações em Navegantes SC: Guia Completo para Construir com Segurança",
+  "tag": "PROJETOS",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Projeto de fundações de obra em Navegantes SC, com armaduras e estacas prontas para concretagem em solo litorâneo.",
+  "excerpt": "O solo de Navegantes é arenoso e com lençol freático elevado — e é nele que sua obra vai se apoiar. Entenda como funciona o projeto de fundações, por que a sondagem é indispensável, quais tipos de fundação são usados no litoral e como evitar recalques e rachaduras.",
+  "readTime": "9 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra começa pelo chão — literalmente. O projeto de fundações é o conjunto de soluções técnicas que define como o peso da construção será transmitido ao solo com segurança. Em Navegantes, com solo arenoso de origem litorânea e lençol freático elevado, essa decisão é ainda mais crítica: erros na fundação aparecem depois, na forma de trincas, recalques e patologias caras de corrigir."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica como funciona o projeto de fundações, por que ele depende da sondagem do solo, quais os tipos de fundação mais usados no litoral catarinense e como escolher a solução certa para a sua obra em Navegantes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto de fundações?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto de fundações é o documento técnico que dimensiona o sistema de apoio da edificação: o tipo de fundação, as dimensões de cada elemento, as profundidades, as armaduras e os procedimentos de execução. Ele é elaborado pelo engenheiro estrutural, com base em dois insumos essenciais: o projeto arquitetônico (que define as cargas e a posição dos pilares) e a sondagem de solo (que revela as características do terreno)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O resultado é um conjunto de pranchas executivas que orientam a obra: quantas estacas, de qual diâmetro, em quais profundidades, com qual armadura, e como o bloco de coroamento e o baldrame conectam a fundação à estrutura. Sem esse projeto, a fundação é feita \"no olho\" — e a conta chega depois."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Fundação não se improvisa: é a única parte da obra que você não consegue ver — e a mais cara de corrigir quando dá errado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a sondagem de solo é indispensável em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto de fundações só pode ser feito depois da sondagem. O estudo geotécnico (SPT — Standard Penetration Test) revela as camadas do terreno, sua resistência e o nível do lençol freático — dados que mudam completamente a solução de fundação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a sondagem é ainda mais importante porque o solo é tipicamente arenoso e de origem marinha:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Camadas superficiais fofas — aterros e areia solta não suportam cargas de edifícios sem fundação profunda",
+          "Lençol freático elevado — em vários bairros, a água aparece a poucos metros de profundidade, complicando escavações e exigindo rebaixamento",
+          "Variabilidade do terreno — dois terrenos vizinhos podem ter comportamentos diferentes, exigindo sondagem específica para cada obra",
+          "Risco de recalques — fundações mal dimensionadas afundam, racham paredes e danificam a estrutura"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Pular a sondagem para economizar é o erro mais caro da construção civil em Navegantes: o custo do estudo é pequeno perto do custo de uma fundação errada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tipos de fundação usados em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A escolha da fundação depende da carga da edificação, das características do solo e da profundidade da camada resistente. No litoral catarinense, as soluções mais comuns são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sapatas e radier — fundações rasas, usadas quando a camada resistente está próxima da superfície; adequadas para casas térreas em terrenos com solo firme",
+          "Estacas de concreto pré-moldado — as mais usadas em Navegantes: cravadas até a camada resistente, suportam cargas altas e atravessam areia e água com eficiência",
+          "Estacas escavadas (tipo Strauss, hélice contínua) — moldadas in loco, com diferentes diâmetros e capacidades, indicadas conforme o porte da obra",
+          "Estacas raiz e microestacas — para reforço de fundações existentes e terrenos com espaço restrito",
+          "Blocos e baldrames — a estrutura que amarra as estacas e recebe os pilares, distribuindo as cargas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada solução tem custo, prazo e capacidade diferentes. O projeto define qual combinação atende a obra com segurança e economia — nem superdimensionado (gasto desnecessário), nem subdimensionado (risco estrutural)."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o projeto de fundações entrega"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto de fundações bem elaborado entrega muito mais que um desenho:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta de locação das estacas e elementos de fundação",
+          "Detalhamento de blocos, baldrames e armaduras",
+          "Profundidade e capacidade de carga de cada elemento",
+          "Memória de cálculo com as premissas adotadas",
+          "Especificações de concreto e aço (fck, resistência, cobrimento)",
+          "Orientações de execução, incluindo tratamento de água e rebaixamento quando necessário"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com esse material, a obra executa a fundação com precisão — e a vistoria técnica confere cada etapa, garantindo que o executado corresponde ao projetado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Prazos e custos do projeto de fundações"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O prazo do projeto de fundações depende da sondagem (que leva dias) e da complexidade da obra. Em geral, para residências, o projeto fica pronto em poucas semanas. O custo é calculado sobre o porte e a complexidade da obra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A boa notícia: o projeto de fundações é uma fração pequena do custo da obra — e o investimento se paga na economia de material, na velocidade da execução e, principalmente, na ausência de patologias futuras. —0 o tipo de gasto que só faz sentido comparar com o custo de não fazê-lo."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Em Navegantes, a fundação mais barata não é a que custa menos — é a que está corretamente dimensionada para o solo do seu terreno."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre projeto de fundações em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra em Navegantes precisa de projeto de fundações? Toda obra com estrutura — casas, sobrados, edifícios e galpões — precisa. A fundação é parte do projeto estrutural, que é obrigatório e exige ART do engenheiro responsável."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso fazer a fundação sem sondagem? Não é recomendável nem tecnicamente correto. Sem sondagem, o engenheiro não conhece o solo e o projeto fica sem fundamento — em solo litorâneo, o risco de recalques é alto."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quantos furos de sondagem são necessários? Depende da área e da complexidade do terreno. A norma e a boa prática definem a quantidade mínima por área construída e pela variação do terreno. O engenheiro orienta após análise do local."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença entre fundação rasa e profunda? Fundação rasa (sapatas, radier) apoia a obra na camada superficial do solo; fundação profunda (estacas) atravessa camadas fracas até a camada resistente. Em Navegantes, obras maiores quase sempre exigem fundação profunda."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Por que minha obra rachou mesmo com fundação? Possíveis causas: fundação sem projeto, sondagem ignorada, execução inadequada ou recalque do solo. O diagnóstico exige vistoria técnica — e a correção passa por reforço de fundações, que também exige projeto especializado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto de fundações com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos estruturais e de fundações, sondagem, execução de obras e recuperação estrutural. Nossa equipe conhece o solo da região e dimensiona fundações seguras, econômicas e adequadas a cada terreno."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir em Navegantes, comece pelo começo: converse com a nossa equipe sobre o seu terreno e o seu projeto. Vamos garantir que a sua obra se apoie em fundação feita para durar."
+      }
+    }
+  ]
+}

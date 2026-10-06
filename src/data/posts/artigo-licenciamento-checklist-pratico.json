@@ -1,0 +1,667 @@
+{
+  "slug": "artigo-licenciamento-checklist-pratico",
+  "title": "Licenciamento Ambiental na Prática: Checklist por Etapa e Erros que Custam Caro",
+  "tag": "AMBIENTAL",
+  "image": "/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png",
+  "imageAlt": "Licenciamento Ambiental na Prática: Checklist por Etapa e Erros que Custam Caro - artigo técnico da Regê Engenharia sobre ambiental em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Este é o guia operacional — direto ao ponto, sem teoria. Use como checklist de bolso em cada fase do seu empreendimento em Santa Catarina. No final, a tabela de custos ocultos de cada erro comum.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este é o **guia operacional** — direto ao ponto, sem teoria. Use como **checklist de bolso** em cada fase do seu empreendimento em Santa Catarina. No final, a **tabela de custos ocultos** de cada erro comum."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "FASE 0 — ANTES DE COMPRAR / ANTES DE PROJETAR"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Ação",
+          "Como Fazer",
+          "Documento Gerado",
+          "Prazo"
+        ],
+        "rows": [
+          [
+            "1. Consultar zoneamento municipal",
+            "Site prefeitura / PDDU / Lei de Zoneamento",
+            "Print/PDF da consulta + coordenadas UTM",
+            "1 dia"
+          ],
+          [
+            "2. Verificar APP / Restinga / Dunas / UC",
+            "SIGSC (FATMA) + SNUC + Google Earth + topografia",
+            "Mapa de restrições (KMZ/SHP)",
+            "3—\u001c7 dias"
+          ],
+          [
+            "3. Consultar CNAE x Porte x Lista FATMA",
+            "Resolução CONSEMA 98/2017 + CNAE principal",
+            "Classificação: Dispensa / LAS / LP+LI+LO / EIA",
+            "1 dia"
+          ],
+          [
+            "4. Sondar viabilidade de água/esgoto",
+            "CASAN / SAAE / Prefeitura / Poço artesiano",
+            "Ofício de viabilidade / Outorga prévia",
+            "15—\u001c30 dias"
+          ],
+          [
+            "5. Contratar assessoria técnica (ART)",
+            "Eng. Ambiental / Sanitarista / Florestal + ART",
+            "Contrato + ART de assessoria",
+            "Imediato"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regra de ouro: Nunca compre terreno para empreendimento licenciado sem Fase 0 concluída. O custo da assessoria aqui (R$ 3—\u001c5 mil) evita prejuízo de R$ 500 mil+."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "FASE 1 — LICENÇA PR—0VIA (LP) / LAS"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Documentos Obrigatórios (Pasta Digital Organizada)"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "LP_PASTA/\n—S———— 01_REQUERIMENTO_PADRAO_ORGAO.pdf\n—S———— 02_CARTA_ANUECIA_PROPRIETARIO.pdf\n—S———— 03_MATRICULA_ATUALIZADA_30_DIAS.pdf\n—S———— 04_CNPJ_CPF_RG_RESPONSAVEL.pdf\n—S———— 05_ART_RRT_RESPONSAVEL_TECNICO.pdf\n—S———— 06_ESTUDO_AMBIENTAL/\n—\u001a   —S———— RAS_OU_EAS_OU_EIA_RIMA.pdf\n—\u001a   —S———— MEMORIAIS_CALCULO.xlsx\n—\u001a   —S———— MAPAS_GEORREFERENCIADOS/\n—\u001a   —\u001a   —S———— situacao_atuutal.kml\n—\u001a   —\u001a   —S———— areas_app_restinga.kml\n—\u001a   —\u001a   —S———— projeto_localizacao.kml\n—\u001a   —\u001a   —\u001d———— compensacao_proposta.kml\n—\u001a   —\u001d———— LAUDOS_COMPLEMENTARES/\n—\u001a       —S———— fauna_flora.pdf\n—\u001a       —S———— arqueologia.pdf (se exigido)\n—\u001a       —\u001d———— hidrogeologia.pdf (se poço/efluente)\n—S———— 07_PROJETO_CONCEITUAL/\n—\u001a   —S———— implantação.pdf\n—\u001a   —S———— areas_construidas.xlsx\n—\u001a   —\u001d———— memorial_descritivo.pdf\n—S———— 08_COMPENSACAO_AMBIENTAL/\n—\u001a   —S———— calculo_hectares_arvores.xlsx\n—\u001a   —S———— area_receptora_matricula.pdf\n—\u001a   —\u001d———— termo_compromisso_uc.pdf (se UC)\n—\u001d———— 09_OUTORGAS_PREVIAS/\n    —S———— outorga_poco.pdf\n    —S———— outorga_lancamento.pdf\n    —\u001d———— viabilidade_casan.pdf"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Prazos Reais FATMA/IMA/Prefeituras (2025)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo",
+          "Prazo Legal",
+          "Prazo Real (com assessoria)",
+          "Gargalo Comum"
+        ],
+        "rows": [
+          [
+            "LAS (simplificada)",
+            "30 dias",
+            "25—\u001c45 dias",
+            "Estudo incompleto / mapa sem georreferenciamento"
+          ],
+          [
+            "RAS (LP)",
+            "60 dias",
+            "60—\u001c120 dias",
+            "APP não caracterizada / compensação mal dimensionada"
+          ],
+          [
+            "EAS (LP)",
+            "120 dias",
+            "120—\u001c210 dias",
+            "Alternativas locacionais fracas / supressão vegetal"
+          ],
+          [
+            "EIA/RIMA",
+            "360+ dias",
+            "18—\u001c36 meses",
+            "Audiência pública / TDR / complementações técnicas"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "FASE 2 — LICENÇA DE INSTALAÇÃO (LI) — PROJETOS EXECUTIVOS"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Lista Mestra de Projetos (Obrigatórios na Maioria dos Casos)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Projeto",
+          "Norma Principal",
+          "Responsável Técnico",
+          "ART",
+          "Entrega Rege"
+        ],
+        "rows": [
+          [
+            "Drenagem pluvial",
+            "NBR 10844 + Manual Mun.",
+            "Eng. Civil",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Esgoto sanitário / ETE",
+            "NBR 13969 / CONAMA 430",
+            "Eng. Sanitarista/Amb.",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Água fria/quente + combate incêndio",
+            "NBR 5626 / NBR 10897",
+            "Eng. Civil/Mecânico",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Elétrica + SPDA",
+            "NBR 5410 / NBR 5419",
+            "Eng. Eletricista",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Resíduos (PGRS)",
+            "PNRS / CONAMA 307",
+            "Eng. Ambiental",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "PCCA (Controle Obra)",
+            "CONSEMA 15/2012",
+            "Eng. Ambiental",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Supressão vegetal + PRAD",
+            "Lei 11.428/06 / DEC 6.660",
+            "Eng. Florestal/Biólogo",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Controle erosivo",
+            "NBR 13607",
+            "Eng. Civil/Ambiental",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Ruído (industrial/sensível)",
+            "NBR 10151 / 10152",
+            "Eng. Ambiental/Mecânico",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Atmosférico (chaminés/caldeiras)",
+            "CONAMA 382 / NBR 13224",
+            "Eng. Químico/Ambiental",
+            "—S\u001c",
+            "—S\u001c"
+          ],
+          [
+            "Paisagismo compensatório",
+            "Manual Mun. / NBR 15575",
+            "Arquiteto/Paisagista",
+            "—S\u001c",
+            "—S\u001c"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dica: Exija projetos compatibilizados (BIM ou sobreposição 2D). Interferência duto x viga = paralisação + retrabalho = R$ 15—\u001c50 mil."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "FASE 3 — OBRA (GESTÒO AMBIENTAL DE CANTEIRO)"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Checklist Quinzenal (Obrigatório no PCCA)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Verificação",
+          "Não-Conformidade = Ação Imediata"
+        ],
+        "rows": [
+          [
+            "Erosão/sedimentos",
+            "Caixas de contenção, barreiras, mantas, bacias",
+            "Reparar em 24h / multa órgão"
+          ],
+          [
+            "Efluente canteiro",
+            "Fossa séptica / ETE compacta / licença lançamento",
+            "Lacrar ponto / contratar carro-limpa"
+          ],
+          [
+            "Resíduos",
+            "Separação (A/B/C/D), MTR, destinação licenciada",
+            "Multa + embargo"
+          ],
+          [
+            "Ruído",
+            "Horário (7h—\u001c19h), equipamentos silenciados, barreira",
+            "Notificação vizinhança / paralisação"
+          ],
+          [
+            "Poeira",
+            "Umidificação, cercado, limpeza vias",
+            "Auto de infração"
+          ],
+          [
+            "Vegetação",
+            "Cercamento APP, supressão só com autorização",
+            "Crime ambiental (Lei 9.605)"
+          ],
+          [
+            "Fauna",
+            "Resgate se necessário, iluminação direcionada",
+            "TCU/MP"
+          ],
+          [
+            "Documentação",
+            "ARTs, licenças, laudos, MTRs, relatórios em dia",
+            "Vistoria reprovada"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Relatórios Obrigatórios ao —\u001crgão"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Relatório",
+          "Frequência",
+          "Prazo Entrega",
+          "Conteúdo Mínimo"
+        ],
+        "rows": [
+          [
+            "Relatório Fotográfico PCCA",
+            "Mensal",
+            "Até dia 5 do mês subsequente",
+            "Fotos georref. + checklists + não-conformidades + correções"
+          ],
+          [
+            "Monitoramento Efluente",
+            "Conforme LI (geralmente mensal/trimestral)",
+            "Até 30 dias após coleta",
+            "Laudo lab. acreditado + parâmetros CONAMA 430"
+          ],
+          [
+            "Monitoramento Ruído/Ar",
+            "Conforme LI",
+            "Até 30 dias após coleta",
+            "Laudo lab. + pontos amostragem georref."
+          ],
+          [
+            "Gestão Resíduos (MTR)",
+            "Mensal",
+            "Até dia 10",
+            "Planilha MTR + certificados destinação"
+          ],
+          [
+            "Relatório Anual Consolidado",
+            "Anual",
+            "Até 31/03 ano seguinte",
+            "Resumo anual + metas + não-conformidades + melhorias"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "FASE 4 — LICENÇA DE OPERAÇÃO (LO) — VISTORIA FINAL"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Dossiê de Entrega (Pasta LO)"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "LO_PASTA/\n—S———— 01_REQUERIMENTO_LO.pdf\n—S———— 02_COMPROVANTE_CONCLUSAO_OBRA.pdf (ART conclusão + fotos)\n—S———— 03_CUMPRIMENTO_CONDICIONANTES_LI.xlsx (todas = \"OK\" + evidência)\n—S———— 04_LAUDOS_MONITORAMENTO_ULTIMOS_12_24_MESES/\n—\u001a   —S———— efluente_*.pdf\n—\u001a   —S———— ruido_*.pdf\n—\u001a   —S———— ar_*.pdf\n—\u001a   —\u001d———— agua_subterranea_*.pdf\n—S———— 05_PLANOS_OPERACIONAIS/\n—\u001a   —S———— PGRS_OPERACAO.pdf\n—\u001a   —S———— PAE_EMERGENCIA.pdf\n—\u001a   —S———— POP_OPERACAO.pdf\n—\u001a   —\u001d———— MANUTENCAO_PREVENTIVA.pdf\n—S———— 06_OUTORGAS_DEFINITIVAS/\n—\u001a   —S———— outorga_poco_definitiva.pdf\n—\u001a   —\u001d———— outorga_lancamento_definitiva.pdf\n—S———— 07_COMPENSACAO_AMBIENTAL/\n—\u001a   —S———— relatorio_PRAD_final.pdf\n—\u001a   —S———— termo_recebimento_uc.pdf\n—\u001a   —\u001d———— fotos_georref_areas_compensadas.kml\n—S———— 08_LAUDO_VISTORIA_REGE.pdf (nosso laudo prévio)\n—\u001d———— 09_AS_BUILT_AMBIENTAL/\n    —S———— drenagem_asbuilt.dwg\n    —S———— esgoto_asbuilt.dwg\n    —\u001d———— areas_verdes_asbuilt.dwg"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O Que o Fiscal Verifica In Loco (LO)"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "ETE funcionando — \u0019 amostra na saída = parâmetros OK",
+          "Caixas de gordura/inspeção acessíveis, limpas, sinalizadas",
+          "Drenagem sem extravasamento, bocas de lobo limpas",
+          "Resíduos armazenados corretamente (abrigo, identificação, MTR)",
+          "APP/Compensação cercada, placas, mudas vivas (>80% pegamento)",
+          "Ruído na divisa —0— limite NBR 10151 (diurno/noturno)",
+          "Documentação exposta na portaria (licenças, ARTs, emergência)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "TABELA DOS ERROS QUE CUSTAM CARO (Custos Ocultos 2025)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Erro",
+          "Custo Direto",
+          "Custo Indireto",
+          "Tempo Perdido",
+          "Como Evita"
+        ],
+        "rows": [
+          [
+            "Obra sem LP/LI",
+            "Multa R$ 5.000—\u001c1.000.000 + embargo + demolição",
+            "Processo crime, dano reputacional, financiamento negado",
+            "6—\u001c24 meses",
+            "Fase 0 + assessoria"
+          ],
+          [
+            "APP/Restinga não mapeada",
+            "Projeto arquitetônico inútil + novo estudo + compensação",
+            "Redesenho total, atraso licenciamento",
+            "4—\u001c12 meses",
+            "Topografia + biólogo antes do arquiteto"
+          ],
+          [
+            "PCCA genérico (copiado)",
+            "Exigência técnica + novo PCCA + vistoria extra",
+            "Obra paralisada 30—\u001c90 dias",
+            "2—\u001c3 meses",
+            "PCCA customizado por fase"
+          ],
+          [
+            "ETE subdimensionada",
+            "Nova ETE (R$ 80—\u001c300 mil) + retubulação",
+            "Multa diária lançamento irregular",
+            "3—\u001c6 meses",
+            "EVE + dimensionamento correto"
+          ],
+          [
+            "Outorga de poço esquecida",
+            "Lacração poço + caminhão-pipa (R$ 15—\u001c30 mil/mês)",
+            "LO negada, obra parada",
+            "2—\u001c6 meses",
+            "Outorga paralela à LP"
+          ],
+          [
+            "Monitoramento fora de norma",
+            "Nova coleta + laudo (R$ 2—\u001c5 mil) + reenvio",
+            "LO atrasada 60—\u001c120 dias",
+            "2—\u001c4 meses",
+            "Lab. acreditado + plano amostragem"
+          ],
+          [
+            "Compensação não executada",
+            "Execução forçada + multa (R$ 50—\u001c500 mil)",
+            "TCU/MP, imagem negativa",
+            "12—\u001c36 meses",
+            "Cálculo prévio + área receptora garantida"
+          ],
+          [
+            "Renovação LO perdida",
+            "Operação irregular + multa diária",
+            "Interdição, processo admin.",
+            "Imediato",
+            "Alerta 180/90/30 dias (gestão Rege)"
+          ],
+          [
+            "Mudança projeto sem aditivo",
+            "Nova LI + novos projetos + vistoria",
+            "Retrabalho, multa",
+            "3—\u001c6 meses",
+            "Gestão de mudanças formal"
+          ],
+          [
+            "PGRS não implementado",
+            "Multa R$ 10—\u001c100 mil + destinação emergencial",
+            "Passivo ambiental, imagem",
+            "Contínuo",
+            "PGRS operacional desde canteiro"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "CRONOGRAMA REALÍSTICO (Exemplo: Residencial 400 m² em APP Costeira — Navegantes)"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "MÊS 1—\u001c2:    Fase 0 (viabilidade) + topografia + biólogo + contratação Rege\nMÊS 2—\u001c4:    RAS + mapas + compensação + protocolo LP\nMÊS 4—\u001c8:    Análise FATMA/IMA + exigências (1—\u001c2 rodadas) + LP DEFERIDA\nMÊS 8—\u001c10:   Projetos executivos LI (drenagem, esgoto, PCCA, supressão, erosivo)\nMÊS 10—\u001c12:  Protocolo LI + exigências + LI DEFERIDA\nMÊS 12:     INÍCIO OBRA + PCCA ativo + monitoramentos iniciais\nMÊS 12—\u001c22:  OBRA (10 meses) — visitas quinzenais Rege + relatórios mensais\nMÊS 22:     FIM OBRA + as-built + laudos finais monitoramento\nMÊS 22—\u001c24:  Protocolo LO + vistoria órgão + LO DEFERIDA\nMÊS 24:     Habite-se + Averbação + Entrega pasta digital\nTOTAL: ~24 MESES (vs. 36—\u001c48 meses sem assessoria)"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "MODELOS DE CONTRATAÇÃO REGE — ESCOLHA O SEU"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Modelo",
+          "Inclui",
+          "Valor Referência",
+          "Ideal Para"
+        ],
+        "rows": [
+          [
+            "Apenas Estudo (RAS/EAS)",
+            "Estudo + mapas + ART",
+            "R$ 5.000—\u001c18.000",
+            "Quem tem equipe própria para gestão"
+          ],
+          [
+            "LP Completa",
+            "Fase 0 + Estudo + Protocolo + Acompanhamento até LP",
+            "R$ 12.000—\u001c30.000",
+            "Início do processo"
+          ],
+          [
+            "LI Completa",
+            "Projetos executivos + PCCA + Protocolo + Acompanhamento até LI",
+            "R$ 18.000—\u001c45.000",
+            "Já tem LP, precisa instalar"
+          ],
+          [
+            "Gestão de Obra (PCCA)",
+            "Visitas quinzenais + relatórios + treinamentos + laudos lab.",
+            "R$ 2.500—\u001c5.000/mês",
+            "Obra em andamento"
+          ],
+          [
+            "LO Completa",
+            "Dossiê + pré-vistoria + acompanhamento vistoria + protocolo",
+            "R$ 8.000—\u001c18.000",
+            "Obra pronta, precisa operar"
+          ],
+          [
+            "CICLO COMPLETO (LP— \u0019LI— \u0019OBRA— \u0019LO)",
+            "Tudo acima + gestão integrada + alertas renovação 2 anos",
+            "R$ 45.000—\u001c120.000 total (parcelado por fase)",
+            "Melhor custo-benefício — 20—\u001c30% mais barato que fases avulsas"
+          ],
+          [
+            "Regularização (Obra Sem Licença)",
+            "Laudo vistoria + estudo retrospectivo + projetos + TAC/Regularização",
+            "R$ 15.000—\u001c50.000",
+            "Emergência / já embargou"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "PERGUNTAS RÁPIDAS (Resposta Direta)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Pergunta",
+          "Resposta"
+        ],
+        "rows": [
+          [
+            "Posso protocolar LP eu mesmo?",
+            "Pode. Mas sem estudo técnico assinado (ART) — \u0019 indeferimento certo."
+          ],
+          [
+            "LAS serve para tudo?",
+            "Não. Só para lista taxativa (baixo impacto). Verifique Res. CONSEMA 98/2017 Anexo I."
+          ],
+          [
+            "Preciso de EIA/RIMA para casa de praia?",
+            "Só se > 1.500 m² ou em APP ou loteamento. Casa isolada 300 m² em zona urbana = RAS ou LAS."
+          ],
+          [
+            "Quem paga a compensação ambiental?",
+            "Empreendedor. Valor = hectares/árvores —\u0014 valor de referência (R$ 15—\u001c40 mil/ha em SC)."
+          ],
+          [
+            "Posso usar fossa séptica simples?",
+            "Só se não houver rede coletora e fora de APP/área de proteção de manancial. Caso contrário — \u0019 ETE + outorga."
+          ],
+          [
+            "Monitoramento de efluente: posso fazer eu mesmo?",
+            "Não. Lab. deve ser acreditado pela REBLAS/INMETRO para parâmetros exigidos."
+          ],
+          [
+            "Licença municipal vale para estadual?",
+            "Não. Atividades de impacto estadual (indústria, loteamento > 50 lotes, posto, APP costeira) — \u0019 FATMA/IMA."
+          ],
+          [
+            "Quanto tempo a LO vale?",
+            "4 a 10 anos (conforme atividade). Renovação inicia 180 dias antes do vencimento."
+          ],
+          [
+            "Rege atende fora de Navegantes?",
+            "Sim: Itajaí, BC, Penha, Piçarras, Porto Belo, Bombinhas, Luiz Alves, Ilhota, Gaspar, Blumenau, Joinville, Florianópolis."
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "PR—\u001cXIMO PASSO: ESCOLHA SUA PORTA DE ENTRADA"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Sua Situação",
+          "Ação Imediata"
+        ],
+        "rows": [
+          [
+            "Terreno em vista / Antes de comprar",
+            "Agende Fase 0 — Diagnóstico Gratuito (2h)"
+          ],
+          [
+            "Já tem terreno, precisa iniciar",
+            "Solicite Proposta LP Completa (envie matrícula + CNAE + croqui)"
+          ],
+          [
+            "Já tem LP, precisa de LI",
+            "Envie LP deferida + condicionantes — \u0019 orçamento projetos executivos"
+          ],
+          [
+            "Obra em andamento, sem PCCA",
+            "Urgente: Contrate gestão ambiental de canteiro (evita embargo)"
+          ],
+          [
+            "Obra pronta, precisa de LO",
+            "Envie LI + condicionantes + laudos monitoramento — \u0019 proposta LO"
+          ],
+          [
+            "Licença vencida / Embargo / Notificação",
+            "Plantão Emergencial: WhatsApp (47) 9xxxx-xxxx — atendimento em 2h"
+          ],
+          [
+            "Regularização de obra antiga",
+            "Agende Laudo de Vistoria + Estudo Retrospectivo"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "CONTATO DIRETO — SEM INTERMEDIÁRIOS"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Rege Engenharia — Licenciamento Ambiental que Anda  —x\u001c— Navegantes/SC — Atendimento presencial e remoto para todo Litoral Norte e Vale do Itajaí  —x\u001c~ WhatsApp Direto (Eng. Responsável): (47) 9xxxx-xxxx —xR— Site: www.regeengenharia.com.br/licenciamento —x\u001c— E-mail Técnico: ambiental@regeengenharia.com.br —x\u001c\u001a Portfólio: Casos reais (anonimizados) sob demanda  Horário: Seg—\u001cSex 8h—\u001c18h | Plantão fiscalização/embargo: 24/7 via WhatsApp  Checklist na mão, assessoria no campo, licença no prazo. Sua obra não para."
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "slug": "gestao-de-obras-como-evitar-atrasos-e-estouro-de-orcamento",
+  "title": "Gestão de Obras: Como Evitar Atrasos, Estouro de Orçamento e Retrabalho",
+  "tag": "GESTÒO",
+  "image": "/images/obra-comercial.png",
+  "imageAlt": "Engenheiro de obras acompanhando cronograma, custos e execução em canteiro no litoral de Santa Catarina.",
+  "excerpt": "A maioria das obras atrasa ou estoura o orçamento por falta de gestão, não de sorte. Veja a metodologia de gerenciamento de obras, as fases, os indicadores de sucesso e como a Regê Engenharia controla prazo, custo e qualidade no litoral de SC.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra começa com um sonho e um cronograma otimista. A realidade, porém, é dura: estatísticas do setor mostram que a maior parte das construções entrega fora do prazo e acima do orçamento. A causa raramente é o material ou a mão de obra - é a ausência de gestão. Gerenciamento de obras é o conjunto de processos que mantém prazo, custo, qualidade e segurança sob controle do primeiro dia ao habite-se."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Santa Catarina, a gestão ganha camadas extras de dificuldade: a maresia exige materiais específicos, a mão de obra qualificada é disputada na temporada, e a logística de suprimentos esbarra em pontes e trânsito. Este guia apresenta a metodologia de gerenciamento de obras, as fases do processo e os indicadores que separam uma obra controlada de um buraco financeiro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é gerenciamento de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Gerenciamento de obras é a aplicação planejada de conhecimentos, métodos e ferramentas para conduzir um empreendimento dos objetivos à entrega, dentro de prazo, orçamento e padrão de qualidade definidos. Não é apenas \"ficar de olho na obra\": é integrar escopo, tempo, custo, qualidade, risco, contratações e segurança como um sistema."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Escopo: o que será construído, com que padrão e quais limites",
+          "Tempo: o cronograma e o caminho crítico que define a duração real",
+          "Custo: o orçamento executivo e o controle de desembolso",
+          "Qualidade: conformidade com projeto, normas e especificações",
+          "Riscos: identificação e mitigação de imprevistos recorrentes",
+          "Segurança: gestão de pessoas e cumprimento de normas trabalhistas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que obras atrasam e estouram o orçamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de saber como evitar, convém entender as causas raiz. A grande maioria dos prejuízos vem de falhas evitáveis de gestão, não de fatores externos."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto incompleto: ausência de projeto estrutural, hidráulico e elétrico compatibilizados gera quebra-quebra",
+          "Orçamento por \"feeling\": estimativas sem quantitativo exato geram falta ou excesso de material",
+          "Cronograma irreal: prazos sem folga diante de chuva, licença e fornecedor atrasado",
+          "Mão de obra mal alocada: equipe parada esperando etapa anterior ou material",
+          "Sem controle de mudanças: cada \"puxadinho\" sem registro vira custo oculto",
+          "Compras sem planejamento: urgência cobra prêmio e quebra o fluxo de caixa"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Metodologia de gerenciamento: as 5 fases"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Planejamento e compatibilização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Tudo começa no papel. Os projetos arquitetônico, estrutural, hidráulico, elétrico e de climatização são sobrepostos (em BIM ou em prancha) para detectar conflitos - um cano onde passaria a viga, uma tubulação que cruza a rede elétrica. Resolver no computador custa centavos; resolver na obra custa dias e retrabalho."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Orçamento executivo e contratação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com projetos compatibilizados, levanta-se o quantitativo exato de cada item e obtém-se preços de fornecedores reais. As contratações (empreiteiro, subempreiteiros, fornecimento) são fechadas com escopo, preço e prazo claros. —0 aqui que se define a reserva de contingência (geralmente 5% a 10% do valor)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Cronograma e caminho crítico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O cronograma define a sequência e a duração de cada etapa. O caminho crítico é a cadeia de tarefas que, se atrasar, atrasa toda a obra. Gestor bom protege o caminho crítico com folga nas tarefas paralelas. Ferramentas como diagrama de Gantt e curva S ajudam a visualizar o avanço."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Execução e controle"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Durante a obra, o gestor acompanha diariamente: medição de serviços, controle de qualidade dos materiais, gestão de entregas e ajustes de equipe. Reuniões semanais de planejamento alinham o que entra na próxima semana. O segredo é o hábito de medir, não de torcer."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Monitoramento de indicadores e encerramento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A obra termina com a comparação entre o planejado e o real. Desvio de prazo, desvio de custo, produtividade e quantidade de retrabalho viram lição para o próximo projeto. O encerramento inclui habite-se, documentação \"as built\" e prestação de contas ao proprietário."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Indicadores que revelam o problema antes dele estourar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O gerenciamento eficaz depende de poucos números acompanhados de perto. Se algum destes sair do limite, é sinal de alerta."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Desvio de prazo: percentual de atraso sobre o cronograma (alvo: 0%)",
+          "Desvio de custo: gasto real versus orçado por etapa (alvo: dentro de +/- 5%)",
+          "Produtividade: quantidade produzida por equipe e por dia (referência por tipo de serviço)",
+          "Índice de retrabalho: volume de serviço refeito (alvo: próximo de zero)",
+          "Curva S: avanço físico acumulado comparado ao planejado",
+          "Nível de segurança: zero acidentes com afastamento (meta inegociável)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gerenciamento de obras no litoral de SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, Itajaí, Balneário Camboriú e Penha, a gestão precisa de adaptações locais que um escritório de fora ignora."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sazonalidade: na alta temporada, mão de obra escassa e frete caro exigem compras antecipadas",
+          "Maresia: especificação de materiais resistentes evita troca precoce de esquadrias e ferragens",
+          "Logística: pontes e trânsito exigem janelas de entrega planejadas para não parar a equipe",
+          "Lençol e solo arenoso: fundação e impermeabilização decididas cedo evitam paralisação por umidade",
+          "Fiscalização municipal: aprovações e auto de correção correm em paralelo ao canteiro"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Ferramentas de gestão que valem a pena"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cronograma (Gantt): visualiza sequência e dependências",
+          "Curva S e curva de custo: compara planejado x real",
+          "Planilha de medição: paga só o que foi executado e aceito",
+          "BIM (Modelo 3D): detecta conflitos antes da execução",
+          "Diário de obra e relatório semanal: documenta decisões e protege o proprietário",
+          "Gestão de qualidade: checklists por etapa com fotos e aceite"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros de gestão que custam caro"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Começar terraplanagem sem projeto estrutural fechado: retrabalho de fundação",
+          "Não ter reserva de contingência: qualquer imprevisto vira dívida",
+          "Aceitar serviço sem medição: discussão de pagamento e qualidade no fim",
+          "Trocar de fornecedor no meio por preço: quebra ritmo e padrão",
+          "Ignorar segurança (PGR/NR): multa, paralisação e risco humano",
+          "Dispensar engenheiro de gestão: o proprietário vira gestor informal e perde foco"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Obra bem gerida não é a que não tem problema - é a que resolve o problema no dia 1, não no mês 6 com o orçamento estourado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa o gerenciamento de obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Gerenciamento residencial (2 a 5 pavimentos): 4% a 8% do valor da obra",
+          "Gerenciamento de galpão ou comercial: 3% a 6% do valor da obra",
+          "Acompanhamento fiscalização leve: a partir de R$ 1.500/mês",
+          "Gestão completa com BIM e curva S: 6% a 10% conforme porte",
+          "Retorno típico: economia de 10% a 20% via redução de retrabalho e compras"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores de referência 2026 para o litoral norte catarinense. O custo do gerenciamento costuma ser inferior à primeira surpresa não gerida - um retrocesso de fundação ou uma troca de esquadria por corrosão pode consumir o equivalente a dezenas de meses de gestão."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre gestão de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de gerenciamento mesmo em casa pequena? Sim, pelo menos na forma de acompanhamento técnico. Mesmo obras térreas acumulam decisões diárias; sem critério, o preço sobe e o prazo escorrega."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro de gestão substitui o empreiteiro? Não. O empreiteiro executa; o gestor planeja, mede e protege o interesse do proprietário. São funções complementares."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso gerenciar minha própria obra? Pode, se tiver tempo integral e conhecimento. Na prática, quem trabalha fora acumula prejuízos invisíveis de espera e erro que superam o custo de um gestor."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que entra no relatório semanal? avanço físico, comparação com cronograma, custos acumulados, pendências, riscos e próximas entregas de material."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gestão de obras com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua no gerenciamento de obras residenciais, comerciais e industriais em Navegantes e no litoral norte de Santa Catarina. Planejamos a compatibilização dos projetos, montamos o orçamento executivo, construímos o cronograma com caminho crítico, acompanhamos a execução com curva S e medição diária, e zelamos pela qualidade e pela segurança (PGR e NR) - tudo com relatório semanal e ART no CREA-SC."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você quer entregar no prazo, no orçamento e sem surpresas, fale com nossa equipe antes de abrir o canteiro. Vamos transformar o seu projeto em obra controlada - com cronograma que fecha, custo que não explode e qualidade que aparece na entrega das chaves."
+      }
+    }
+  ]
+}

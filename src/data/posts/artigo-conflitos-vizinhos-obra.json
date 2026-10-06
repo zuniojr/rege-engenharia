@@ -1,0 +1,391 @@
+{
+  "slug": "artigo-conflitos-vizinhos-obra",
+  "title": "Como um Engenheiro Resolve Conflitos com Vizinhos na Sua Obra",
+  "tag": "CONSTRUÇÃO",
+  "image": "/images/construtora.png",
+  "imageAlt": "Como um Engenheiro Resolve Conflitos com Vizinhos na Sua Obra - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Conflitos com vizinhos são uma das dores de cabeça mais comuns em qualquer obra. Barulho, poeira, vibração, danos à propriedade alheia e divergências sobre limites de terreno podem transformar um.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conflitos com vizinhos são uma das dores de cabeça mais comuns em qualquer obra. Barulho, poeira, vibração, danos à propriedade alheia e divergências sobre limites de terreno podem transformar um projeto tranquilo em uma batalha judicial. O engenheiro, como responsável técnico, tem o dever — e a habilidade — de prevenir, mediar e resolver esses conflitos de forma profissional e legal."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Prevenção: O Melhor Remédio"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Comunicação Antecipada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de iniciar qualquer atividade, o engenheiro deve:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Notificar os vizinhos com antecedência mínima de 48h (conforme NBR 15575 e legislação municipal)",
+          "Apresentar o cronograma de atividades ruidosas (demolição, concretagem, perfuração)",
+          "Fornecer canal de contato direto (WhatsApp, e-mail, telefone) para reclamações em tempo real"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Documentação Fotográfica e Técnica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria prévia das propriedades vizinhas (fotos, vídeos, laudo técnico assinado por ambas as partes)",
+          "Registro de estado atual de paredes, pisos, calçadas e redes de esgoto/água",
+          "Termo de responsabilidade assinado pelo construtor e proprietário da obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Conformidade Legal e Normativa"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Horários Permitidos (Lei Federal 10.257/2001 - Estatuto da Cidade + Legislação Municipal)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Atividade",
+          "Horário Comum (SP/RJ/MG)"
+        ],
+        "rows": [
+          [
+            "Obras ruidosas",
+            "7h—\u001c19h (dias úteis), 7h—\u001c13h (sábados)"
+          ],
+          [
+            "Proibido",
+            "Domingos e feriados"
+          ],
+          [
+            "Exceções",
+            "Emergências, obras públicas, licença especial"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Limites de Ruído (NBR 10.151 / NBR 10.152)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Zona residencial diurna: 55 dB(A)",
+          "Zona residencial noturna: 45 dB(A)",
+          "Medição: A 1,5m da fachada do imóvel receptor"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Vibração (NBR 15.228 / DIN 4150-3)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Limite para estruturas antigas: 3 mm/s (velocidade de partícula)",
+          "Monitoramento: Sismógrafos portáteis em pontos estratégicos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Medidas de Mitigação Técnica"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Barreiras Físicas"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "—R————————————————————————————————————————————————————————————————————————————\n—\u001a  Tela de proteção perimetral (3m)   —\u001a\n—\u001a  + Manta acústica (lã de rocha 50mm)—\u001a\n—\u001a  + Cortina de poeira (lona reforçada)—\u001a\n—\u001d————————————————————————————————————————————————————————————————————————————"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Equipamentos e Métodos Silenciosos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Marteletes hidráulicos no lugar de pneumáticos",
+          "Serras a diamante com água (corte úmido = -15 dB)",
+          "Bombeamento de concreto em vez de grua + balde",
+          "Pré-fabricação de elementos (reduz tempo de obra no local)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Controle de Poeira e Resíduos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Aspersão de água programada (a cada 2h em tempo seco)",
+          "Caçambas fechadas e posicionadas longe de janelas vizinhas",
+          "Lavagem de rodas de caminhões na saída da obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Gestão de Conflitos em Andamento"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Protocolo de Reclamação (SLA Interno)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "Prazo",
+          "Responsável"
+        ],
+        "rows": [
+          [
+            "Recebimento",
+            "Imediato",
+            "Engenheiro de campo"
+          ],
+          [
+            "Análise técnica",
+            "24h",
+            "Engenheiro responsável"
+          ],
+          [
+            "Resposta formal",
+            "48h",
+            "Engenheiro + Jurídico"
+          ],
+          [
+            "Ação corretiva",
+            "5 dias úteis",
+            "Construtora"
+          ],
+          [
+            "Follow-up",
+            "7 dias",
+            "Engenheiro de campo"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Mediação Técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando o vizinho alega dano:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Vistoria conjunta (engenheiro + vizinho + testemunha)",
+          "Laudo pericial com fotos, medições e causa-raiz",
+          "Proposta de reparo com cronograma e garantia",
+          "Termo de quitação após execução"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dica de ouro: Nunca negue o problema sem averiguar. A arrogância técnica gera processos; a humildade técnica resolve."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Quando o Diálogo Falha: Ferramentas Jurídicas"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Notificação Extrajudicial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Formaliza a tentativa de resolução amigável",
+          "Interrompe prescrição (art. 202, CC)",
+          "Base para futura ação de obrigação de fazer ou indenização"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Ações Cabíveis"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Ação Judicial",
+          "Fundamento"
+        ],
+        "rows": [
+          [
+            "Dano comprovado",
+            "Indenização por danos materiais/morais",
+            "Art. 186, 927 CC"
+          ],
+          [
+            "Obra irregular",
+            "Obrigação de fazer + liminar",
+            "Art. 497 CPC"
+          ],
+          [
+            "Ruído excessivo",
+            "Tutela de urgência + multa diária",
+            "Art. 300 CPC + Lei municipal"
+          ],
+          [
+            "Risco iminente",
+            "Ação cautelar inominada",
+            "Art. 301 CPC"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Seguro de Responsabilidade Civil Obras (RC Obras)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cobre danos a terceiros (vizinhos, pedestres, veículos)",
+          "Inclui honorários periciais e advocatícios",
+          "Obrigatório para obras > 500m² (maioria dos municípios)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Checklist de Entrega: Encerramento Sem Pendências"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "[ ] Vistoria final das propriedades vizinhas (fotos + assinatura)",
+          "[ ] Limpeza total de calçadas, vias e áreas comuns",
+          "[ ] Reparo de eventuais danos (mesmo os \"menores\")",
+          "[ ] Carta de anuência do vizinho (opcional, mas poderosa)",
+          "[ ] Baixa do seguro RC Obras (comunicação à seguradora)",
+          "[ ] Arquivamento de toda documentação (mínimo 10 anos)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Resolver conflitos com vizinhos não é \"fazer favor\" — é **gestão de risco**, **ética profissional** e **exigência legal**. O engenheiro que domina a técnica, a norma e a comunicação transforma um passivo potencial em um caso de sucesso. A obra termina; a reputação fica."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A melhor obra é aquela que ninguém percebe que aconteceu — exceto pelo resultado final.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Referências Normativas**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 15.575: Desempenho de edificações habitacionais",
+          "NBR 10.151/10.152: Avaliação de ruído em áreas habitadas",
+          "NBR 15.228: Vibração em edificações",
+          "DIN 4150-3: Vibração — efeitos em estruturas",
+          "Lei 10.257/2001: Estatuto da Cidade",
+          "Código Civil (Arts. 186, 927, 1.277, 1.278)",
+          "CPC (Arts. 300, 301, 497)",
+          "Legislação municipal de zoneamento, postura e meio ambiente"
+        ]
+      }
+    }
+  ]
+}

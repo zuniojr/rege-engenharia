@@ -1,0 +1,480 @@
+{
+  "slug": "licenciamento-ambiental-guia-completo",
+  "title": "Licenciamento Ambiental: O Guia Completo Do Processo, Da Solicitação à Aprovação",
+  "tag": "AMBIENTAL",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Processo de licenciamento ambiental em escritório de engenharia com estudo ambiental, planta de localização e documentação técnica para aprovação de obra em Navegantes SC.",
+  "excerpt": "Licenciamento ambiental é o processo que impede obra de ser embargada e empresa de ser fechada. Entenda as três licenças (LP, LI, LO), quem exige, quanto custa, quanto demora e como não errar na única tentativa que você tem.",
+  "readTime": "13 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um terreno na beira-mar parece perfeito para construir — até a prefeitura ou o IMA perguntarem se você tem licença ambiental. Uma fábrica quer expandir — e o órgão ambiental exige que a operação atual esteja regularizada antes de qualquer nova etapa. O licenciamento ambiental não é paperwork opcional: é o documento que prova que a sua atividade ou obra respeita o meio ambiente. Sem ele, a obra para, a empresa embarga e a multa diária cresce enquanto você resolve o que poderia ter sido resolvido antes."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra, de forma prática e direta, o que é o licenciamento ambiental, quais as três licenças que compõem o processo (LP, LI e LO), quem é obrigado a ter, quais órgãos envolvidos, como é o passo a passo do processo, documentos necessários, prazos, custos e o que acontece com quem ignora a exigência."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o licenciamento ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O licenciamento ambiental é o procedimento administrativo pelo qual o órgão ambiental competente autoriza a instalação, operação, ampliação ou encerramento de atividade que possa causar impacto ambiental. Não se trata de um documento único — é um processo que avalia o potencial de dano e impõe condições para que a ativação ocorra dentro do que a legislação considera aceitável."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No Brasil, o licenciamento ambiental é obrigatório para empresas, obras e atividades que utilizam recursos naturais, geram resíduos, emitem poluentes, constroem em áreas sensíveis ou qualquer ação que altere as condições originais do meio ambiente. A base legal vem da Lei 6.938/81 (Política Nacional do Meio Ambiente), do CONAMA e das legislações estaduais e municipais."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Licenciamento ambiental não é algo que você faz depois que o problema aparece. —0 a proteção que você garante antes do problema existir."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As três licenças ambientais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O licenciamento ambiental brasileiro funciona em etapas. Cada etapa gera um tipo de licença, com objetivo e validade distintos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Licença Prévia (LP) — aprova a localização e concepção do projeto, atestando que a ativação, no local e da forma planejada, é viável ambientalmente. Validade mínima de 5 anos, prorrogável. —0 a porta de entrada: sem a LP, nada avança.",
+          "Licença de Instalação (LI) — autoriza a instalação da atividade conforme o projeto, as condições e as normas aprovadas na LP. Validade mínima de 6 anos, prorrogável. Etapa em que a obra ou a montagem da operação acontece.",
+          "Licença de Operação (LO) — autoriza a operação da atividade, após a verificação de que todas as condições impostas nas licenças anteriores foram cumpridas. Validade mínima de 4 anos, prorrogável. —0 o documento que mantém a empresa ou a obra funcionando legalmente."
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nem toda ativação exige as três licenças. Dependendo do porte e do impacto, o órgão ambiental pode simplificar o processo, emitindo apenas a LO ou concedendo LI e LO em um único ato. Mas quando o impacto é significativo, as três etapas são obrigatórias e sequenciais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem é obrigado a ter licença ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A obrigatoriedade abrange um amplo espectro de atividades. Na prática, se a sua atividade ou obra:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Constrói, reforma ou demole em área de preservação permanente (APP) — veredas, mangues, restingas, dunas, margens de rios, encostas",
+          "Gera resíduos sólidos, líquidos ou gasosos que precisam de tratamento antes de descarte",
+          "Utiliza ou despeja água em corpos hídricos",
+          "Consome combustíveis, solventes ou químicos em volume significativo",
+          "Extrai recursos naturais — areia, cascalho, madeira",
+          "Alterou o uso do solo ou a cobertura vegetal",
+          "Funciona em área urbana com restrições ambientais ou próxima à área de proteção"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Isso inclui construção civil, indústria, comércio de grande porte, serviços, mineração, energia, turismo, agronegócio e praticamente qualquer atividade que não seja residencial unifamiliar em área já urbanizada e sem sensibilidade ambiental."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem licencia: os órgãos envolvidos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O licenciamento ambiental envolve mais de um ente governamental. A competência depende do tipo de impacto e da localização da atividade:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "IBAMA — licencia atividades de impacto nacional ou transfronteiriço (mineração em grande escala, usinas, portos, óleo e gás)",
+          "—\u001crgão ambiental estadual — em Santa Catarina, a Fundação do Meio Ambiente (FUMAN, antiga FATMA) licencia a maior parte das atividades industriais, comerciais e de serviços de médio e grande porte",
+          "Prefeitura Municipal — licencia obras residenciais, comerciais e de serviços de pequeno porte, conforme a legislação local e o Plano Diretor",
+          "ICMBio — licencia atividades em áreas de conservação federal (Unidades de Conservação, TICOR, Reservas da Biosfera)",
+          "—\u001crgão ambiental municipal com competência delegada — em alguns municípios, a prefeitura assume o licenciamento de atividades de baixo impacto por delegação estadual"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a maioria das obras residenciais e comerciais de pequeno e médio porte é licenciada pela Prefeitura, com acompanhamento da FUMAN para atividades que envolvem APP, área de preservação ou resíduos especiais. Ocorrências em área de proteção federal (como fragmentos de Mata Atlântica sob jurisdição do ICMBio) exigem aval do órgão federal."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O passo a passo do licenciamento ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo segue uma sequência previsível. Conhecer cada etapa evita surpresas, atrasos e retrabalho:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Consulta prévia — o interessado entra em contato com o órgão competente (IBAMA, FUMAN ou Prefeitura) para saber se a atividade exige licenciamento e qual o enquadramento",
+          "Estudo ambiental — elaboração do documento técnico que descreve o empreendimento, identifica os impactos ambientais e propõe medidas de mitigação. O tipo de estudo varia: Relatório Ambiental Simplificado (RAS) para baixo impacto, Estudo Ambiental (EAS) para impacto intermediário, ou EIA-RIMA para impacto significativo",
+          "Abertura do processo — protocolo da documentação no órgão competente, com pagamento da taxa de análise",
+          "Análise técnica — equipe do órgão analisa o estudo, solicita informações complementares e emite parecer técnico",
+          "Vistoria — visita técnica ao local para verificar as condições descritas no estudo e a veracidade das informações apresentadas",
+          "Parecer e condições — emissão do parecer com as condições ambientais que devem ser cumpridas durante a obra ou operação",
+          "Emissão da licença — publicação no Diário Oficial e entrega do documento ao interessado",
+          "Acompanhamento e monitoramento — o órgão fiscaliza o cumprimento das condições durante a validade da licença"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Cada etapa do licenciamento tem seu prazo e sua exigência. Pular uma etapa significa recomeçar do zero — ou pior, receber embargo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos necessários para o licenciamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O conjunto de documentos varia conforme o tipo de licença e o órgão competente, mas a documentação básica inclui:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Requerimento formal de licenciamento — formulário padrão do órgão",
+          "CNPJ e certidões da empresa — inscrição estadual, municipal e certidão negativa de débitos ambientais",
+          "Projeto arquitetônico e de localização — planta de situação, croqui de implantação, memória descritiva",
+          "Estudo ambiental — RAS, EAS ou EIA-RIMA conforme o enquadramento de impacto",
+          "Plano de Gerenciamento de Resíduos Sólidos (PGRS) — quando a atividade gera resíduos",
+          "Plano de Controle Ambiental (PCA) — para obras com impacto intermediário",
+          "Relatório de Impacto Ambiental ao Meio Humano (RIMA) — para EIA-RIMA",
+          "ART ou RRT — anotação de Responsabilidade Técnica do profissional que assina o estudo",
+          "Certidão de matrícula do terreno — comprovação da propriedade e situação fundiária",
+          "Autorização do proprietário — quando o licenciado não é o proprietário do imóvel"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A falta de qualquer documento gera devolução do processo. E a documentação incompleta é a causa mais comum de atraso no licenciamento — muitas vezes, mais do que a própria análise do órgão."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Prazos: quanto tempo demora o licenciamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os prazos variam enormemente conforme o órgão, o tipo de estudo e a complexidade do empreendimento. Na prática:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Licenciamento simplificado (prefeitura, obras residenciais) — 30 a 90 dias, quando a documentação é apresentada corretamente",
+          "Licenciamento intermediário (FUMAN, indústria ou comércio de médio porte) — 3 a 12 meses, dependendo da necessidade de vistoria e complementação de documentos",
+          "EIA-RIMA (IBAMA, atividades de grande impacto) — 12 a 36 meses, incluindo fase de participação pública",
+          "Licenciamento com APP ou área de preservação — prazo adicional de 2 a 6 meses para análise específica do órgão ambiental"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O prazo mais longo não é necessariamente o da análise do órgão. Grande parte do tempo é gasto pelo requerente na elaboração do estudo ambiental e na reunião dos documentos. Quem chega com documentação completa reduz drasticamente o tempo de espera."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa o licenciamento ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo total do licenciamento tem duas partes: a taxa de análise do órgão e o custo de elaboração dos estudos e documentação técnica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Taxa de análise — varia de R\\$ 200 a R\\$ 10.000, conforme o porte e o órgão. Prefeitura cobra menos; IBAMA e FUMAN cobram conforme a Tabela de Custas de Serviços Ambientais",
+          "Elaboração de estudo ambiental — R\\$ 3.000 a R\\$ 50.000, dependendo do tipo (RAS, EAS ou EIA-RIMA) e da complexidade do empreendimento",
+          "ART do profissional — R\\$ 150 a R\\$ 2.000, conforme o tipo de serviço e a tabela do CREA",
+          "Consultoria técnica — R\\$ 2.000 a R\\$ 30.000, quando o empreendedor contrata empresa especializada para conduzir todo o processo"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O custo do licenciamento é uma fração do custo de uma obra embargada. Quem pensa que está economizando não licenciando está, na verdade, acumulando risco multiplicado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que acontece sem licença ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As consequências de operar ou construir sem licenciamento ambiental são severas e progressivas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Multa administrativa — valor que varia conforme a gravidade, podendo chegar a milhões de reais para atividades de grande porte",
+          "Embargo da atividade — paralisação imediata da obra ou operação, sem direito à conclusão",
+          "Demolição — quando a construção é considerada irregular e causa dano ambiental comprovado",
+          "Criminalização — o responsável pela atividade pode responder penalmente por crime ambiental (Lei 9.605/98), com pena de reclusão de 1 a 5 anos",
+          "Responsabilidade civil — o responsável pode ser condenado a indenizar danos ambientais, mesmo que a atividade já tenha sido desativada",
+          "Impossibilidade de financiamento — bancos e investidores exigem licenças ambientais em dia para liberar crédito",
+          "Perda de mercado — empresas sem licenciamento perdem clientes, certificações e oportunidades de licitação"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fiscalização ambiental tornou-se mais rigorosa nos últimos anos. Com o aumento da pressão social, das ferramentas de monitoramento e da integração entre órgãos, a chance de ser identificado operando sem licença é maior do que nunca."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que atrasam ou inviabilizam o licenciamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Iniciar a obra antes da licença — o erro mais grave e mais comum. A licença prévia não autoriza construção; autoriza apenas a concepção do projeto",
+          "Documentação incompleta — a causa número um de devolução de processo. Cada exigência do órgão deve ser atendida integralmente",
+          "Estudo ambiental genérico — o estudo precisa descrever o empreendimento real, no local real, com os impactos reais. Modelos copiados de outros processos são rejeitados",
+          "Mudança de escopo durante o processo — alterar o projeto sem comunicar o órgão gera nulidade da licença",
+          "Desconsiderar APP — áreas de preservação permanente exigem autorização específica e condições rigorosas. Ignorar uma APP é caminho certo para embargo",
+          "Falta de ART — o estudo técnico sem anotação de responsabilidade técnica não é aceito pelo órgão",
+          "Prazo da licença expirada — a licença ambiental tem validade. Operar com licença vencida é o mesmo que operar sem licença"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel da engenharia no licenciamento ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O licenciamento ambiental não é apenas um processo burocrático — é um processo técnico que exige conhecimento de engenharia. O engenheiro ambiental, o engenheiro civil e o engenheiro de segurança do trabalho participam diretamente em cada etapa:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Diagnóstico ambiental — o engenheiro identifica os impactos potenciais do empreendimento com base em dados técnicos, não em suposições",
+          "Projeto de mitigação — as medidas de compensação e mitigação precisam ser tecnicamente viáveis e economicamente sustentáveis",
+          "Plano de gerenciamento — o PGRS, o PCA e o plano de monitoramento são documentos de engenharia, não de assessoria",
+          "Acompanhamento de obra — o engenheiro garante que as condições impostas na licença são cumpridas durante a construção",
+          "Monitoramento pós-operação — a medição de indicadores ambientais e o relatório de monitoramento são atribuições do engenheiro",
+          "ART — toda documentação técnica do processo exige responsável técnico com ART registrada no CREA"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O engenheiro não é apenas quem assina o documento. —0 quem garante que o documento reflete a realidade do terreno, da obra e do impacto."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Licenciamento ambiental em Navegantes e no litoral de SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes e toda a faixa litorânea do norte de Santa Catarina tem características ambientais que tornam o licenciamento ainda mais relevante. A proximidade com o Atlântico, a presença de restingas, dunas, mangues e veredas, e a pressão do mercado imobiliário criam um cenário onde o licenciamento é mais exigido e mais rigoroso:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "APP costeira — a faixa de proteção costeira (Lei 12.651/12) exige licenciamento específico para qualquer intervenção em dunas, restingas e praias",
+          "Manguezal — áreas de mangue são de preservação permanente e exigem licença federal (IBAMA ou ICMBio) em muitos casos",
+          "Solo arenoso — a proximidade com o lençol freático e a mobilidade do solo exigem estudo geotécnico e ambiental integrados",
+          "Pressão imobiliária — o crescimento acelerado de Navegantes, Balneário Camboriú e Itajaí gera demanda constante de novos licenciamentos",
+          "Fiscalização ativa — a FUMAN e a Prefeitura de Navegantes mantêm fiscalização regular de obras e atividades na zona costeira"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Empreendimentos em Navegantes que envolvem intervenção em APP, terrenos próximos ao mar ou atividade que gere resíduos e contaminantes precisam de um estudo ambiental detalhado, com profissional habilitado e ART registrada. A tolerância para irregularidades é menor do que em áreas interioranas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como escolher o profissional para conduzir o licenciamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Experiência comprovada — peça exemplos de processos de licenciamento conduzidos e aprovados no mesmo órgão competente",
+          "Habilitação técnica — engenheiro ambiental ou civil com ART registrada no CREA e experiência em estudos ambientais",
+          "Conhecimento local — o profissional precisa conhecer a legislação ambiental de Santa Catarina, a atuação da FUMAN e as exigências da Prefeitura de Navegantes",
+          "Capacidade de estudo técnico — o profissional deve ser capaz de elaborar ou supervisionar o estudo ambiental (RAS, EAS ou EIA-RIMA), não apenas assinar",
+          "Transparência — o processo de licenciamento deve ser conduzido de forma documentada, com etapas claras e prazos realistas",
+          "Acompanhamento pós-licença — o profissional deve oferecer suporte durante a validade da licença, incluindo monitoramento e renovação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Toda obra precisa de licenciamento ambiental?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não necessariamente. Obras residenciais unifamiliar de pequeno porte em área já urbanizada e sem sensibilidade ambiental podem estar dispensadas de licenciamento ambiental específico, embora exijam alvará de construção. Já obras comerciais, industriais, de grande porte ou em áreas sensíveis (APP, restinga, proximidade com corpos d'água) exigem licenciamento obrigatório."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A licença ambiental substitui o alvará de construção?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não. São documentos distintos e complementares. O alvará de construção é emitido pela Prefeitura e autoriza a obra conforme o código de obras e o zoneamento. A licença ambiental é emitida pelo órgão ambiental e autoriza a ativação quanto ao impacto ambiental. A obra pode ter alvará sem licença ambiental (se o órgão não exigir) ou vice-versa — mas quando ambos são exigidos, os dois são obrigatórios."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Posso pedir a licença de operação direto?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em regra, não. O processo é sequencial: primeiro a LP, depois a LI e por fim a LO. Porém, em casos simplificados, o órgão pode autorizar a emissão da LO diretamente, quando a atividade tem impacto baixo e não justifica as três etapas. Isso varia de órgão para órgão e de atividade para atividade."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa a consultoria para licenciamento?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo da consultoria varia conforme o porte da atividade, o tipo de estudo exigido e a complexidade do processo. Pequenas obras residenciais podem ter custo a partir de R\\$ 3.000; indústria e comércio de médio porte, entre R\\$ 10.000 e R\\$ 30.000; grandes empreendimentos com EIA-RIMA, acima de R\\$ 50.000. O investimento é sempre menor do que o custo de uma obra embargada."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que é a renovação da licença ambiental?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A licença ambiental tem validade limitada (5 anos para LP, 6 para LI e 4 para LO). Antes do vencimento, o titular deve solicitar a renovação, apresentando documentação que comprove o cumprimento das condições impostas. A renovação não é automática — o órgão analisa se a atividade continua em conformidade antes de emitir nova licença."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O licenciamento ambiental não é obstáculo para quem quer construir ou operar. —0 a garantia de que a atividade pode funcionar sem risco de embargo, multa ou responsabilidade criminal. Cada etapa do processo — da consulta prévia ao monitoramento pós-operação — tem um objetivo claro: proteger o meio ambiente, proteger o empreendedor e proteger a comunidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar, expandir ou regularizar uma atividade em Navegantes e no litoral de Santa Catarina, fale com a equipe técnica da Regê Engenharia. Conduzimos o licenciamento ambiental completo — estudo ambiental, documentação técnica, acompanhamento do processo e monitoramento pós-licença — para que sua obra ou operação comece com a licença em mão e termine com a conformidade garantida."
+      }
+    }
+  ]
+}

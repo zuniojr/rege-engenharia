@@ -1,0 +1,108 @@
+{
+  "slug": "como-escolher-construtora",
+  "title": "Como escolher a melhor construtora para sua obra residencial",
+  "tag": "DICAS",
+  "image": "/images/construtora.png",
+  "imageAlt": "Escolhendo a melhor construtora",
+  "excerpt": "Portfólio, contrato detalhado, referências de clientes e transparência financeira são apenas alguns dos critérios essenciais. Confira o checklist completo para tomar a decisão certa e evitar dores de cabeça.",
+  "readTime": "8 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Escolher a construtora certa é uma das decisões mais importantes na hora de construir. Uma escolha acertada garante qualidade, cumprimento de prazos e tranquilidade. Uma escolha errada pode transformar o sonho da casa própria em um pesadelo de atrasos, custos extras e obras mal executadas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Verifique o portfólio e obras realizadas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma construtora séria tem orgulho de mostrar o que já fez. Peça para conhecer obras finalizadas, visite imóveis entregues e avalie a qualidade dos acabamentos. O portfólio revela muito sobre o padrão de trabalho da empresa, o tipo de projeto em que ela se especializa e sua capacidade de execução."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Busque referências de clientes anteriores"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Converse com clientes que já construíram com a empresa. Pergunte sobre o cumprimento de prazos, a qualidade da comunicação durante a obra, se houve estouros no orçamento e como foram resolvidos eventuais problemas. As referências de clientes reais são o melhor termômetro da confiabilidade de uma construtora."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Analise o contrato detalhadamente"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um contrato bem elaborado protege ambas as partes. Ele deve contemplar: escopo detalhado dos serviços, cronograma físico-financeiro, condições de pagamento, multas por atraso, responsabilidades de cada parte, especificação dos materiais a serem utilizados e garantias. Desconfie de contratos genéricos ou de construtoras que resistem a detalhar os termos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Exija transparência financeira"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A construtora deve apresentar um orçamento detalhado, discriminando materiais, mão de obra e serviços terceirizados. Peça a planilha de custos e questione itens que pareçam fora do padrão. Uma empresa transparente não tem problema em abrir os números e explicar cada rubrica do orçamento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Confira a documentação e registros"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro no CREA — verifique se a empresa possui registro ativo no Conselho Regional de Engenharia",
+          "CNPJ ativo e regular — consulte a situação cadastral na Receita Federal",
+          "ART das obras — toda obra deve ter Anotação de Responsabilidade Técnica",
+          "Seguro de obra — protege contra acidentes e danos durante a construção",
+          "Alvará de construção — a empresa deve providenciar antes do início da obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Avalie a comunicação e o atendimento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A forma como a construtora se comunica antes da obra é um reflexo de como será durante a execução. Uma empresa que demora para responder, não é clara nas explicações ou evita reuniões presenciais provavelmente manterá o mesmo padrão durante a construção. Valorize empresas que investem em relatórios periódicos, fotos da obra e reuniões de alinhamento."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A construtora ideal não é necessariamente a mais barata, mas aquela que entrega qualidade, cumpre prazos e mantém uma comunicação transparente do início ao fim."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Regê Engenharia, construímos relacionamentos antes de construir imóveis. Conheça nosso portfólio, converse com nossos clientes e descubra por que somos referência no litoral catarinense."
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "slug": "gestao-de-obras",
+  "title": "Gestão de Obras: O Que —0, Etapas, Ferramentas e Como Executar com Qualidade",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Canteiro de obras residencial com gestão técnica profissional - cronograma, controle de qualidade e acompanhamento de etapas em Navegantes SC.",
+  "excerpt": "Entenda o que é gestão de obras, quais são as etapas do processo, quais ferramentas e normas regulamentam a área e como a Regê Engenharia pode ajudar a executar sua obra com qualidade, pontualidade e dentro do orçamento.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir um imóvel - seja residencial, comercial ou industrial - é uma das decisões financeiras mais importantes da vida de uma pessoa ou empresa. E é também uma das que mais geram estresse, imprevistos e custos ocultos quando não são bem gerenciadas. A gestão de obras é a área da engenharia que transforma um projeto em realidade, garantindo que cada etapa seja executada com qualidade, dentro do prazo e do orçamento previstos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muita gente acredita que ter um bom projeto arquitetônico é suficiente para uma obra dar certo. Mas a verdade é que a execução é onde a maioria dos problemas aparece: atrasos, desperdício de materiais, retrabalho, conflitos entre equipes e desvio de orçamento. A gestão de obras é a solução para evitar tudo isso. Este artigo explica o que é gestão de obras, quais são as etapas do processo, quais ferramentas são utilizadas e por que contar com uma equipe técnica é essencial para o sucesso da sua obra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é gestão de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Gestão de obras é o conjunto de atividades técnicas e administrativas que planejam, organizam, coordenam e controlam todos os recursos envolvidos em uma obra - mão de obra, materiais, equipamentos, tempo e dinheiro - para atingir os objetivos do projeto com eficiência e qualidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, a gestão de obras envolve:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planejamento e cronograma - definição de etapas, prazos e sequenciamento de serviços",
+          "Controle de custos - orçamento detalhado, acompanhamento de desembolsos e prevenção de desvios",
+          "Gestão de compras - cotação, seleção e compra de materiais com qualidade e preço adequados",
+          "Coordenação de equipes - organização de pedreiros, eletricistas, encanadores e demais profissionais",
+          "Controle de qualidade - verificação de que cada etapa esteja sendo executada conforme as normas técnicas",
+          "Gestão documental - organização de projetos, ARTs, alvarás, notas fiscais e registros de obra",
+          "Acompanhamento de segurança - implementação de normas de segurança do trabalho no canteiro",
+          "Relatórios periódicos - comunicação transparente ao proprietário sobre o andamento da obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Gestão de obras não é apenas verificar se o pedreiro está trabalhando - é garantir que cada real investido gere valor real para o proprietário."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a gestão de obras é tão importante"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os dados mostram que a maioria das obras residenciais no Brasil sofre com atrasos de 30% a 100% no prazo e desvios de 20% a 50% no orçamento. A causa quase sempre é a mesma: ausência de gestão técnica profissional. Veja o que acontece quando a obra não é gerenciada:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Atrasos crônicos - obras que deveriam durar 12 meses se estendem para 24 meses ou mais",
+          "Desvio de orçamento - custos que dobram ou triplicam ao longo da execução",
+          "Retrabalho - serviços executados de forma incorreta precisam ser refetos, com custo adicional",
+          "Desperdício de materiais - compras sem planejamento geram sobras e faltas",
+          "Conflitos entre equipes - falta de coordenação gera brigas, paradas e mau humor",
+          "Problemas de qualidade - acabamento mal feito, infiltrações, falhas estruturais",
+          "Imprevistos não gerenciados - chuva, falta de material, problemas no terreno",
+          "Documentação desorganizada - dificuldade para obter alvará, habite-se e financiamento"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com gestão profissional, todos esses problemas são prevenidos ou minimizados. A obra ganha previsibilidade, transparência e qualidade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapas da gestão de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de obras é dividida em três grandes fases, cada uma com atividades específicas:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Planejamento (antes da obra)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fase de planejamento é onde se define tudo o que será feito na obra. —0 a fase mais importante - e a que mais economiza tempo e dinheiro quando bem executada:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Análise do terreno - verificação de solo, topografia, condições de acesso e restrições",
+          "Definição do escopo - o que será construído, com que padrão e para qual finalidade",
+          "Orçamento detalhado - cálculo de materiais, mão de obra, equipamentos e encargos",
+          "Cronograma de execução - sequenciamento lógico das etapas com prazos realistas",
+          "Seleção de fornecedores - cotação e negociação de materiais com garantia de entrega",
+          "Contratação de equipes - definição de pedreiros, eletricistas, encanadores e outros profissionais",
+          "Obtenção de alvará - aprovação do projeto na Prefeitura e licenças necessárias",
+          "Planejamento de segurança - normas de segurança do trabalho, EPIs e EPCs para o canteiro"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Execução (durante a obra)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fase de execução é onde o projeto ganha forma. —0 aqui que a gestão técnica faz a diferença entre uma obra que funciona e uma obra que vira problema:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Acompanhamento diário - presença no canteiro, verificação de serviços e qualidade",
+          "Controle de cronograma - atualização semanal do andamento e previsão de conclusão",
+          "Controle de custos - registro de cada desembolso e comparação com o orçamento",
+          "Gestão de compras - pedido de materiais no momento certo, evitando faltas e sobras",
+          "Coordenação de equipes - organização de turnos, canteiros e frentes de trabalho",
+          "Controle de qualidade - verificação de cada etapa antes de avançar para a seguinte",
+          "Resolução de problemas - imprevistos são gerenciados com soluções rápidas e eficientes",
+          "Relatórios ao proprietário - comunicação semanal sobre andamento, custos e pendências"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Pós-obra (entrega e regularização)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão não termina na entrega das chaves. A fase pós-obra é essencial para garantir que o imóvel esteja regular e funcionando:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria de entrega - verificação final de todos os sistemas e acabamentos",
+          "Correção de pendências - ajustes finos identificados na vistoria",
+          "Obtenção do habite-se - vistoria da Prefeitura e emissão do certificado de conformidade",
+          "Documentação final - entrega de projetos, ARTs, manuais e garantias ao proprietário",
+          "Regularização cartorária - averbação da construção na matrícula do imóvel",
+          "Garantia de obra - acompanhamento de eventuais problemas durante o período de garantia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Ferramentas de gestão de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de obras moderna utiliza ferramentas que facilitam o planejamento, o controle e a comunicação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Software de gestão - MS Project, Primavera P6, Trello, Asana, Buildertrend e PlanSwift",
+          "Planilhas de controle - planilhas Excel ou Google Sheets com orçamento, cronograma e desembolsos",
+          "Aplicativos de campo - aplicativos para registro fotográfico, checklist e relatórios de obra",
+          "BIM (Building Information Modeling) - modelagem 3D que permite visualizar conflitos antes da obra",
+          "Drones - inspeção aérea de obras de grande porte para acompanhamento visual",
+          "Termômetros de obra - indicadores visuais do andamento de cada etapa"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A escolha da ferramenta depende do porte da obra. Para residências simples, planilhas bem estruturadas são suficientes. Para obras maiores, softwares de gestão são essenciais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gestão de obras residenciais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de obras residenciais - casas, sobrados e condomínios - tem suas particularidades:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Personalização - cada casa tem projeto único, com materiais e acabamentos escolhidos pelo proprietário",
+          "Tamanho reduzido - equipes menores exigem coordenação mais próxima",
+          "Prazos mais curtos - obras residenciais costumam ter prazo de 6 a 18 meses",
+          "Orçamento apertado - cada desvio impacta diretamente o bolso do proprietário",
+          "Acompanhamento próximo - proprietário presente, exigindo transparência e comunicação constante",
+          "Acabamento visível - imperfeições no acabamento são facilmente perceptíveis"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gestão de obras comerciais e industriais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Obras comerciais e industriais têm demandas diferentes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Prazo crítico - atraso gera perda de receita (loja que não abre, fábrica que não produz)",
+          "Integração de sistemas - instalações especiais, automação, combate a incêndio",
+          "Licenciamento complexo - alvará de funcionamento, licença ambiental, AVCB",
+          "Segurança do trabalho - NR-18, NR-10, NR-35 são exigidas e fiscalizadas",
+          "Múltiplos fornecedores - materiais industriais com especificações técnicas rigorosas",
+          "Entrega parcial - áreas podem ser entregues em etapas para início da operação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns na gestão de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conhecer os erros mais frequentes ajuda a evitá-los:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Iniciar obra sem planejamento - pular a fase de planejamento é o erro mais custoso",
+          "Orçamento incompleto - esquecer itens como encargos, impostos e imprevistos",
+          "Cronograma irreal - prazo apertado demais gera retrabalho e problemas de qualidade",
+          "Falta de controle financeiro - gastos sem registro geram surpresas no final",
+          "Mão de obra sem qualificação - contratar sem verificar experiência gera retrabalho",
+          "Materiais de qualidade inferior - economia no material gera problema na durabilidade",
+          "Ausência de acompanhamento técnico - obra sem engenheiro é terreno para erros",
+          "Documentação desorganizada - dificuldade para obter alvará e habite-se"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Normas e regulamentação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de obras é regulamentada por um conjunto de normas e leis:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ABNT NBR 5674 - Gestão de manutenção de edificações (para o pós-obra)",
+          "ABNT NBR 15575 - Desempenho de edificações (requisitos durante a execução)",
+          "NR-18 - Segurança e saúde no trabalho na indústria da construção civil",
+          "NR-10 - Segurança em instalações e serviços em eletricidade",
+          "NR-35 - Trabalho em altura",
+          "Lei Federal 6.766/79 - Lei de parcelamento do solo urbano",
+          "Lei Federal 11.445/2007 - Diretrizes nacionais para o saneamento básico",
+          "Legislação municipal - código de obras, zoneamento e Plano Diretor de cada município"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia pode ajudar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia é especializada em gestão de obras na região de Navegantes, Itajaí, Balneário Camboriú, Penha e litoral norte catarinense. Nossa equipe acompanha cada etapa do processo - do planejamento à entrega - garantindo que sua obra seja executada com qualidade, dentro do prazo e do orçamento."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planejamento completo da obra - cronograma, orçamento e sequenciamento de serviços",
+          "Gerenciamento de compras - cotação, seleção e compra de materiais com qualidade",
+          "Acompanhamento diário no canteiro - verificação de serviços e qualidade",
+          "Controle de cronograma e custos - relatórios semanais ao proprietário",
+          "Coordenação de equipes - organização de profissionais e turnos",
+          "Controle de qualidade - verificação de cada etapa conforme as normas técnicas",
+          "Gestão documental - organização de projetos, ARTs, alvarás e garantias",
+          "Obtenção do habite-se - vistoria e regularização final do imóvel",
+          "ART no CREA-SC - registro que vincula o engenheiro ao acompanhamento da obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Invista em gestão para economizar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de obras não é um custo - é o investimento que mais economiza. Uma obra bem gerenciada evita desperdício, retrabalho e atrasos que custam muito mais do que os honorários da equipe técnica. Em média, a gestão profissional reduz o custo total da obra em 15% a 25% e reduz o prazo em 20% a 40%."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir ou reformar em Navegantes, Itajaí, Balneário Camboriú, Penha ou região, conte com uma equipe técnica que garante que sua obra seja executada com qualidade, transparência e pontualidade."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Gestão de obras residenciais, comerciais e industriais",
+          "Planejamento, execução e pós-obra com acompanhamento técnico completo",
+          "ART no CREA-SC para todos os serviços de engenharia",
+          "Atendimento em toda a região do litoral norte catarinense"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entre em contato com a Regê Engenharia e solicite uma avaliação técnica. Comece sua obra com o planejamento certo - e construa com tranquilidade."
+      }
+    }
+  ]
+}

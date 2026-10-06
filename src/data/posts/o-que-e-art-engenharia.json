@@ -1,0 +1,123 @@
+{
+  "slug": "o-que-e-art-engenharia",
+  "title": "O que é ART de Engenharia e por que ela é obrigatória na sua obra?",
+  "tag": "DOCUMENTAÇÃO",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Documento impresso com carimbo de aprovação técnica representando a emissão de uma ART.",
+  "excerpt": "Vai reformar o apartamento ou construir do zero? Descubra o que é a ART (Anotação de Responsabilidade Técnica), por que os síndicos exigem esse documento e como ele protege o seu patrimônio.",
+  "readTime": "6 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você decidiu reformar seu apartamento, trocar o piso ou quebrar uma parede para integrar a sala à cozinha. Tudo parece simples, até que o síndico do seu prédio bate à porta e faz uma exigência inegociável: \"Só libero a entrada dos materiais se você me apresentar a ART da obra\"."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Essa situação é rotina em condomínios e prefeituras de todo o Brasil. Mas afinal, o que é esse documento de três letras que tem o poder de autorizar ou embargar a sua reforma?"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que significa a sigla ART?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "ART significa Anotação de Responsabilidade Técnica. —0 um documento oficial instituído por lei (Lei nº 6.496/1977) e emitido pelo Conselho Regional de Engenharia e Agronomia (CREA). A ART serve como um \"selo de garantia\" que comprova que existe um profissional legalmente habilitado (um Engenheiro Civil, por exemplo) responsável por um serviço técnico."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Para que serve a ART na prática?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, a ART é o cordão umbilical que liga o serviço prestado ao profissional que o executou ou projetou. Ela tem três funções principais:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Defesa da Sociedade: Garante que a obra, laudo ou projeto não está sendo feito por leigos ou curiosos, evitando desabamentos e acidentes graves.",
+          "Garantia Jurídica: Se houver qualquer falha estrutural, vazamento ou dano causado pelo serviço, a ART define exatamente quem deve responder civil e criminalmente pelo problema.",
+          "Acervo Técnico: Para o profissional, a ART funciona como um currículo oficial registrado no CREA de todas as obras que ele já executou."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que condomínios exigem a ART para reformas?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A exigência da ART por parte dos síndicos não é preciosismo. Desde 2014, a norma ABNT NBR 16280 estabeleceu regras rigorosas para reformas em edificações. Se um morador resolve derrubar uma parede que faz parte da sustentação do prédio (alvenaria estrutural), ele pode colocar todo o edifício em risco de colapso."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando o síndico exige a ART, ele está transferindo a responsabilidade técnica da obra para o engenheiro contratado. —0 o engenheiro quem assina atestando que aquela reforma não afeta a segurança e a estabilidade do prédio."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que acontece se eu fizer a obra sem ART?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Realizar obras estruturais sem a ART é considerado um ato ilegal. Você fica sujeito a:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Embargo (paralisação) imediata da obra pela fiscalização do CREA ou da Prefeitura.",
+          "Multas pesadas aplicadas tanto ao proprietário quanto ao executor leigo.",
+          "Dificuldade de vender ou financiar o imóvel no futuro, pois a obra será considerada irregular.",
+          "Responsabilidade civil e criminal total caso ocorra algum acidente, danos a vizinhos ou desabamento."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como faço para \"comprar\" uma ART?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cuidado: ART não se compra, se emite! —0 totalmente ilegal (e perigoso) pagar para um engenheiro assinar uma ART sem que ele tenha elaborado o projeto ou vá de fato acompanhar a obra (o chamado \"caneteiro\"). O correto é contratar o engenheiro ou a empresa de engenharia para realizar o projeto ou laudo, e a emissão do documento será parte intrínseca do serviço prestado."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A ART é a sua apólice de seguro contra improvisos na construção civil. Ela atesta que sua obra está nas mãos de quem entende do assunto."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está construindo, reformando ou regularizando um imóvel em Navegantes, comece pelo projeto certo. Entre em contato com a equipe da Regê Engenharia e receba um atendimento técnico de verdade — do primeiro estudo de viabilidade à entrega das chaves."
+      }
+    }
+  ]
+}

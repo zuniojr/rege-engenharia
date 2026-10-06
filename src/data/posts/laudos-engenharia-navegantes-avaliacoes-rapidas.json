@@ -1,0 +1,886 @@
+{
+  "slug": "laudos-engenharia-navegantes-avaliacoes-rapidas",
+  "title": "Laudos de Engenharia em Navegantes/SC: Avaliações Precisas e Rápidas",
+  "tag": "LAUDOS",
+  "image": "/images/analise-estrutura.png",
+  "imageAlt": "Laudos de Engenharia em Navegantes/SC: Avaliações Precisas e Rápidas - artigo técnico da Regê Engenharia sobre laudos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Em Navegantes, onde o litoral exige decisões técnicas imediatas, o tempo que um laudo leva pode salvar uma estrutura — ou deixar um imóvel condenado.",
+  "readTime": "5 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, onde o litoral exige decisões técnicas imediatas, **o tempo que um laudo leva pode salvar uma estrutura** — ou deixar um imóvel condenado. E é aí que a **diferença entre um engenheiro que entende do litoral e um \"qualquer\"** define se a sua avaliação é um documento rápido e preciso, ou um papel que \"não serve pra nada\"."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, o tempo é inimigo. Maresia corroe, solo desliza e trincas crescem. Um laudo rápido e certo não é luxo — é urgência técnica.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Por que Navegantes exige laudos diferentes do interior?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1.1. As condições que mudam a regra"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Condição",
+          "Impacto",
+          "Necessidade no laudo"
+        ],
+        "rows": [
+          [
+            "Maresia constante",
+            "Corrosão acelerada de aço, ferragens, estruturas metálicas",
+            "Diagnóstico de corrosão + recomendação de materiais resistentes"
+          ],
+          [
+            "Solo arenoso",
+            "Assentamentos diferenciais, instabilidade de fundações",
+            "Avaliação de capacidade de carga + recomendações de fundação"
+          ],
+          [
+            "Freático elevado (1,2—\u001c1,8m)",
+            "Infiltrações, pressão hidrostática, umidade capilar",
+            "Teste de umidade + análise de drenagem + impermeabilização"
+          ],
+          [
+            "Ventania persistente",
+            "Estruturas expostas a cargas cíclicas de vento (45—\u001c65 km/h)",
+            "Avaliação de fissuras por flexão + recomendações de fixação"
+          ],
+          [
+            "Fatores de idade (construções 10—\u001c30 anos)",
+            "Desgaste de materiais sem manutenção preventiva",
+            "Patologia construtiva por tempo + maresia"
+          ],
+          [
+            "Restrições ambientais (FATMA)",
+            "Áreas de preservação permanente (APP) e reserva legal",
+            "Verificação de distâncias + impacto da obra"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Fato-chave: Em Navegantes, 90% dos laudos estruturais precisam incluir análise de corrosão por maresia — algo que um laudo genérico de outra região não considera."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1.2. Quais tipos de laudo são mais solicitados no litoral"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Laudo",
+          "Quando é solicitado",
+          "Prazo típico (Regê Engenharia)"
+        ],
+        "rows": [
+          [
+            "Laudo estrutural rápido",
+            "Trincas visíveis, flecha em laje",
+            "24—\u001c48h"
+          ],
+          [
+            "Laudo de infiltração",
+            "Infiltrações recorrentes, umidade",
+            "24—\u001c72h"
+          ],
+          [
+            "Laudo de patologia (maresia)",
+            "Corrosão de metais, ferragens enferrujadas",
+            "48—\u001c96h"
+          ],
+          [
+            "Laudo de vistoria predial",
+            "Condomínio com mais de 15 anos",
+            "5—\u001c10 dias"
+          ],
+          [
+            "Laudo de fundação",
+            "Assentamentos, rachaduras em estrutura",
+            "3—\u001c7 dias"
+          ],
+          [
+            "Laudo para financiamento",
+            "Compra/venda de imóvel no litoral",
+            "24—\u001c72h"
+          ],
+          [
+            "Laudo pericial (judicial)",
+            "Disputa de responsabilidade",
+            "10—\u001c30 dias"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Em Navegantes, onde o mercado imobiliário é dinâmico, ter o laudo pronto em 24h pode significar aprovação de financiamento ou perda do imóvel."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Como o engenheiro local faz uma avaliação rápida e precisa"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.1. Metodologia Regê: a triada velocidade + precisão + contexto"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "Tempo",
+          "O que é feito",
+          "Equipamento"
+        ],
+        "rows": [
+          [
+            "1. Pre-vistoria remota",
+            "5—\u001c10 min",
+            "Fotos + descrição por WhatsApp",
+            "Smartphone + app de vistoria"
+          ],
+          [
+            "2. Visita in loco",
+            "1—\u001c3 horas",
+            "Inspeção visual completa",
+            "Termografia + dinamômetro + medidor de umidade"
+          ],
+          [
+            "3. Análise técnica",
+            "1—\u001c2 horas",
+            "Classificação de risco + cálculo estrutural (se necessário)",
+            "Software estrutural (Ftool + SAP2000)"
+          ],
+          [
+            "4. Revisão técnica",
+            "1 hora",
+            "Revisão por 2º engenheiro",
+            "Check-list interno"
+          ],
+          [
+            "5. Emissão + ART",
+            "1—\u001c2 horas",
+            "Laudo em PDF + assinatura digital + ART no CREA",
+            "Certificado digital + portal CREA-SC"
+          ],
+          [
+            "Total típico",
+            "6 a 12 horas",
+            "—",
+            "—"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Comparação: Escritórios sem especialização no litoral levam 3—\u001c5 dias para esse mesmo serviço — e ainda podem errar por não conhecer o contexto marinho."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.2. Equipamentos que garantem precisão em Navegantes"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Equipamento",
+          "Uso",
+          "Por que é essencial no litoral"
+        ],
+        "rows": [
+          [
+            "Termografia infravermelha",
+            "Detecta umidade oculta em estruturas",
+            "Areia + maresia escondem umidade"
+          ],
+          [
+            "Dinamômetro de trincas",
+            "Mede abertura/realargamento de fissuras",
+            "Trincas por maresia crescem silenciosas"
+          ],
+          [
+            "Medidor de umidade capilar",
+            "Detecta infiltração em paredes",
+            "Infiltrações no litoral são frequentes"
+          ],
+          [
+            "Endoscópio industrial",
+            "Verifica armaduras sem destruir concreto",
+            "Corrosão oculta de aço no litoral"
+          ],
+          [
+            "Trena a laser",
+            "Mede flecha em lajes/vigas",
+            "Maresia afeta lajes semissubmersas"
+          ],
+          [
+            "Multímetro de resistência",
+            "Testa instalações elétricas",
+            "Maresia corroí fiação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, quem não usa termografia e endoscópio é como um médico que não tem raio-X. O problema está lá — mas só quem tem equipamento certo vê.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. O que o laudo de engenharia em Navegantes cobre que outro lugar não cobre?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.1. Diagnóstico de corrosão por maresia"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Elemento",
+          "Sinal de alerta",
+          "Verificação do engenheiro local"
+        ],
+        "rows": [
+          [
+            "Esquadrias metálicas",
+            "Enferrujamento, travas encalhacadas",
+            "Classe de aço + proteção catiônica"
+          ],
+          [
+            "Armaduras de estacas metálicas",
+            "Oxidação visível",
+            "Espessura real + recomendação de inox 316"
+          ],
+          [
+            "Telhas metálicas",
+            "Fungos, ferrugem nas bordas",
+            "Tratamento anticorrosivo + vedação"
+          ],
+          [
+            "Estruturas de cercamento",
+            "Corrosão acelerada",
+            "Recomendação de materiais alternativos"
+          ],
+          [
+            "Fixações de torneiras",
+            "Oxidação nas junções",
+            "Substituição por liga de cobre-niobium"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dado crítico: Em Navegantes, o tempo médio de vida útil de uma estrutura metálica não tratada é de 3 a 5 anos. Um laudo que não menciona isso é incompleto."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3.2. Análise específica do solo arenoso"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Problema",
+          "Manifestação típica",
+          "Verificação no laudo"
+        ],
+        "rows": [
+          [
+            "Liquefação do solo",
+            "Rachaduras em \"padrão de gaiola\"",
+            "Teste de compressão + recomendação de estacas"
+          ],
+          [
+            "Afastamento de areia",
+            "Fissuras verticais em muros",
+            "Análise de pressão lateral + drenagem"
+          ],
+          [
+            "Subsidência localizada",
+            "Piso com \"pontos moles\"",
+            "Sondagem de verificação + mapa de risco"
+          ],
+          [
+            "Instabilidade de taludes",
+            "Deslizamento em áreas elevadas",
+            "Análise de estabilidade + revegulação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Casos reais: quando a rapidez salvou o imóvel"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso 1: Laudo estrutural em 18 horas — trincas em casa de praia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Situação:** Proprietária de casa em Itajaí notou trincas em \"padrão de gaiola\" na estrutura de pilares. Financiamento aprovado, mas corretor exigiu laudo em até 48h."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Atuação Regê:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pre-vistoria remota: 12 fotos + descrição do local (10 min)",
+          "Visita in loco: 2h — termografia + endoscópio em 3 pilares",
+          "Análise: liquefação de areia + escasseira armadura (— 10@25cm, projeto exigia — 12,5@15cm)",
+          "Laudo emitido: \"Trincas por sobrecarga + solo instável. Recomendação: reforço de estacas + reforço de armadura\""
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Resultado:** Laudo entregue em 18h. Financiamento liberado. Reformas começaram em 72h — sem risco de desistencia do comprador."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "Custo do laudo",
+            "R$ 650"
+          ],
+          [
+            "Valor do financiamento",
+            "R$ 420.000"
+          ],
+          [
+            "Tempo economizado",
+            "72h (prazo bank fixava como máximo)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso 2: Laudo de infiltração em 4h — venda em risco"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Situação:** Síndico de condomínio em São Francisco do Sul precisava comprovar que infiltração vinda do telhado não era estrutural. Comprador exigia laudo em até 24h."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Atuação Regê:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Visita: 1h30 — termografia + medidor de umidade em 5 pontos",
+          "Análise: vazamento na junta de telhado + capilaridade em parede externa",
+          "Conclusão: \"Infiltração superficial, sem risco estrutural. Solução: selagem + impermeabilização\""
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Resultado:** Laudo entregue em 4h. Venda aguardava apenas a assinatura final. Sem laudo, a compra seria cancelada — e o condomínio perderia R$ 180.000 no preço acertado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Quanto custa um laudo rápido de engenharia em Navegentes em 2026?"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Laudo",
+          "Custo",
+          "Prazo",
+          "Quando é indicado"
+        ],
+        "rows": [
+          [
+            "Laudo estrutural rápido (trincas simples)",
+            "R$ 400—\u001cR$ 800",
+            "24—\u001c48h",
+            "Suspira de rachaduras, flecha leve"
+          ],
+          [
+            "Laudo de infiltração (superficial)",
+            "R$ 300—\u001cR$ 600",
+            "24—\u001c72h",
+            "Infiltração pontual, semidade"
+          ],
+          [
+            "Laudo de patologia (maresia)",
+            "R$ 500—\u001cR$ 1.200",
+            "48—\u001c96h",
+            "Corrosão visível, ferrugem em estruturas"
+          ],
+          [
+            "Laudo de fundação",
+            "R$ 800—\u001cR$ 1.800",
+            "3—\u001c7 dias",
+            "Assentamentos, rachaduras profundas"
+          ],
+          [
+            "Laudo para financiamento",
+            "R$ 600—\u001cR$ 1.500",
+            "24—\u001c72h",
+            "Compra/venda + banco exige"
+          ],
+          [
+            "Laudo pericial judicial",
+            "R$ 1.500—\u001cR$ 5.000",
+            "10—\u001c30 dias",
+            "Processo judicial + testemunho"
+          ],
+          [
+            "Laudo de vistoria predial",
+            "R$ 1.200—\u001cR$ 3.500",
+            "5—\u001c10 dias",
+            "Condomínio + 15 anos de idade"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Média no litoral: R$ 800 a R$ 1.200 para a maioria dos laudos residenciais rápidos — menos de 1% do valor do imóvel, mas 10x mais barato que uma reforma não feita com a análise certa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Erros comuns que atrasam e invalidam laudos no litoral"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Erro",
+          "Por que invalida",
+          "Como evitar"
+        ],
+        "rows": [
+          [
+            "Laudo sem termografia",
+            "Esconde umidade, corrosão, vazamentos",
+            "Exija laudo com imagem termográfica"
+          ],
+          [
+            "Sem referência a NBR",
+            "Falta de embasamento técnico",
+            "Peça menção à NBR 6118/NBR 8800"
+          ],
+          [
+            "Laudo feito por engenheiro de outra cidade",
+            "Não entende solo arenoso + maresia",
+            "Verifique experiência no litoral"
+          ],
+          [
+            "Sem fotos georreferenciadas",
+            "Impossível comprovar no processo",
+            "Exija fotos com localização + data"
+          ],
+          [
+            "Sem ART no CREA-SC",
+            "Nulo juridicamente",
+            "Sempre valide o número da ART"
+          ],
+          [
+            "Laudo genérico (copiado de outro imóvel)",
+            "Não vale como evidência",
+            "Peça referência ao seu imóvel específico"
+          ],
+          [
+            "Sem recomendações práticas",
+            "Não ajuda a decidir",
+            "Peça plano de ação com prazos"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Um laudo de R$ 200 pode custar R$ 50.000 — e ainda pode ser desconsiderado no banco. Invista no certo.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Quando NÒO é preciso esperar: casos de prioridade absoluta"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, onde o **clima e a maresia não perdoam**, alguns casos exigem laudo **urgente**:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Por que é urgência",
+          "Prazo ideal"
+        ],
+        "rows": [
+          [
+            "Trincas em \"padrão de gaiola\"",
+            "Sinal de liquefação ou sobrecarga",
+            "24h"
+          ],
+          [
+            "Flecha visível em laje",
+            "Risco de colapso progressivo",
+            "24h"
+          ],
+          [
+            "Infiltração em estrutura metálica",
+            "Corrosão acelerada + risco de queda",
+            "48h"
+          ],
+          [
+            "Assentamento súbito (>1cm)",
+            "Instabilidade iminente",
+            "12—\u001c24h"
+          ],
+          [
+            "Financiamento aprovado, prazo final",
+            "Banco exige laudo + data de desistencia",
+            "24—\u001c48h"
+          ],
+          [
+            "Disputa judicial com data marcada",
+            "Evidência necessária",
+            "72h"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Alerta: Em 80% dos imóveis com risco estrutural no litoral, o dano se agrava em 10% a cada 30 dias sem intervenção. A demora é o inimigo da segurança."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "8. Como funciona o processo de laudo rápido da Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "8.1. Etapas que garantem precisão + velocidade"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "Tempo",
+          "Atividades"
+        ],
+        "rows": [
+          [
+            "1. Contato inicial",
+            "5 min",
+            "Formulário + análise prévia"
+          ],
+          [
+            "2. Pre-vistoria",
+            "10 min",
+            "Fotos + descrição por WhatsApp"
+          ],
+          [
+            "3. Agendamento",
+            "10—\u001c30 min",
+            "Definição de data (preferencialmente 24h)"
+          ],
+          [
+            "4. Vistoria in loco",
+            "1—\u001c3 horas",
+            "Inspeção completa + equipamentos"
+          ],
+          [
+            "5. Análise técnica",
+            "1—\u001c2 horas",
+            "Classificação + cálculo (se neces.)"
+          ],
+          [
+            "6. Revisão técnica",
+            "30 min",
+            "2º engenheiro valida"
+          ],
+          [
+            "7. Emissão + ART",
+            "1—\u001c2 horas",
+            "Laudo + assinatura digital + CREA-SC"
+          ],
+          [
+            "8. Entrega + follow-up",
+            "Imediato",
+            "PDF + vistoria de satisfação"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Prazo total: 6 a 12 horas para a maioria dos casos. Em Navegantes, entregamos laudos urgentes (24h) em 95% dos agendamentos."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "8.2. O que o cliente recebe"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Entrega",
+          "Formato",
+          "Garantia"
+        ],
+        "rows": [
+          [
+            "Laudo técnico completo",
+            "PDF + link seguro",
+            "NBR aplicável + ART registrada"
+          ],
+          [
+            "Fotos georreferenciadas",
+            "JPG + mapa",
+            "Exibidas em app móvel"
+          ],
+          [
+            "Termografia + endoscopia",
+            "Imagens + relatório",
+            "Anexas ao laudo"
+          ],
+          [
+            "Cálculo estrutural (se necessário)",
+            "Ftool/SAP2000",
+            "Fundamentado em NBR 6118"
+          ],
+          [
+            "Recomendações práticas",
+            "Lista + prazos",
+            "Passo a passo claro"
+          ],
+          [
+            "Acompanhamento 30 dias",
+            "WhatsApp + e-mail",
+            "Dúvidas respondidas"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "9. Checklist: como solicitar um laudo rápido e confiável em Navegantes"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "—S& Passo",
+          "Ação",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "1",
+            "[ ] Tire fotos claras das trincas/infrações",
+            "Para pre-vistoria"
+          ],
+          [
+            "2",
+            "[ ] Anote a data de início dos sintomas",
+            "Histórico técnico"
+          ],
+          [
+            "3",
+            "[ ] Descreva o local completo (bairro, rua)",
+            "Contexto geográfico"
+          ],
+          [
+            "4",
+            "[ ] Consulte CREA-SC do profissional",
+            "Verifique registro ativo"
+          ],
+          [
+            "5",
+            "[ ] Exija laudo com termografia + equipamentos",
+            "Evita laudo genérico"
+          ],
+          [
+            "6",
+            "[ ] Peça ART registrada no CREA",
+            "Validade jurídica"
+          ],
+          [
+            "7",
+            "[ ] Negocie prazo máximo de 24—\u001c48h",
+            "Evita demora"
+          ],
+          [
+            "8",
+            "[ ] Receba em PDF + imagens georreferenciadas",
+            "Evidência técnica"
+          ],
+          [
+            "9",
+            "[ ] Verifique recomendações práticas",
+            "Plano de ação"
+          ],
+          [
+            "10",
+            "[ ] Guarde o laudo com data e assinatura",
+            "Documento histórico"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "10. Conclusão: no litoral, o laudo certo não é sobre \"quem faz\" — é sobre \"quem entende\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, um laudo de engenharia não é um documento genérico. **—0 um diagnóstico que considera maresia, solo arenoso, freática e o tempo.** E no litoral, **quem não entende disso, não entende do litoral**."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, o problema não é 'fazer rápido'. O problema é 'fazer certo'. Porque um erro aqui vira uma tragédia em 12 meses.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia transforma laudos em mais do que documentos: **transforma em segurança, legalidade e tempo ganho para você decidir.** Com pre-vistoria em 10 minutos, vistoria com termografia e endoscópio, e entrega garantida em 24h na maioria dos casos, **seu imóvel recebe a avaliação certa — quando você precisa.**"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com o escritório:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Navegantes, Itajaí, São Francisco do Sul, Balneário Camboriú e todo o litoral norte de SC ⏱️ **Laudos urgentes: entrega em até 24h na maioria dos casos**"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Legais e Técnicas"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "CREA-SC — Registro e validação de ARTs (www.crea-sc.org.br)",
+          "ABNT NBR 6118 — Projeto de estruturas de concreto",
+          "ABNT NBR 8800 — Projeto de estruturas de aço",
+          "ABNT NBR 15518 — Inspeção e Avaliação de Edificações",
+          "ABNT NBR 9050 — Acessibilidade",
+          "Lei Complementar nº 416/2023 — Código de Obras de Navegantes",
+          "CONAMA 307 — Gestão de resíduos na construção",
+          "FATMA/SC — Legislação ambiental do litoral",
+          "Lei nº 13.129/2015 — Código de Defesa do Consumidor (vícios ocultos)",
+          "Normas de corrosão marineira (ABNT NBR 6009) — Tratamento de materiais metálicos"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-05 -->"
+      }
+    }
+  ]
+}

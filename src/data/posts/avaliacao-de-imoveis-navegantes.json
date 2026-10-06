@@ -1,0 +1,229 @@
+{
+  "slug": "avaliacao-de-imoveis-navegantes",
+  "title": "Avaliação de Imóveis em Navegantes SC: Quanto Vale o Seu Imóvel e Como Descobrir",
+  "tag": "LAUDOS",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Imóvel residencial em Navegantes SC durante avaliação de valor de mercado feita por engenheiro civil.",
+  "excerpt": "O mercado imobiliário de Navegantes valoriza rápido — e saber o valor real do seu imóvel evita prejuízos na hora de vender, comprar ou financiar. Entenda os fatores que definem o preço na cidade, como pesquisar valores e quando contratar uma avaliação técnica.",
+  "readTime": "8 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes é uma das cidades que mais valorizam no litoral catarinense: orla consolidada, Portonave, aeroporto próximo e novos empreendimentos mudam o preço dos imóveis o tempo todo. Nesse cenário, quem não sabe o valor real do próprio patrimônio sai perdendo — na venda, na compra, na herança ou no financiamento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra como funciona a avaliação de imóveis em Navegantes: o que faz um imóvel valer mais ou menos na cidade, como pesquisar o preço de mercado, quais fontes usar e quando vale a pena contratar uma avaliação técnica com engenheiro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que determina o valor de um imóvel em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor de mercado de um imóvel é definido pela combinação de características objetivas — e Navegantes tem particularidades que pesam forte na conta:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Localização — a distância da praia, dos canais e dos bairros consolidados é o fator que mais pesa no preço",
+          "Proximidade da Portonave — a maior empregadora da cidade atrai moradores e sustenta a demanda por moradia",
+          "Aeroporto de Navegantes — a proximidade valoriza imóveis e atrai investidores de fora",
+          "Vistas e frente de água — imóveis com vista para o mar ou para os canais valem significativamente mais",
+          "Área e características do terreno — tamanho, formato, topografia e possibilidade construtiva (índices do plano diretor)",
+          "Idade, conservação e padrão construtivo — imóveis novos e bem mantidos se valorizam; imóveis antigos sem manutenção se desvalorizam",
+          "Infraestrutura e serviços — asfalto, saneamento, comércio, escolas e transporte valorizam a região"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Em Navegantes, dois imóveis idênticos podem valer valores muito diferentes — basta estarem em lados opostos de uma avenida."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como pesquisar o valor de mercado do seu imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de qualquer negociação, vale fazer uma pesquisa inicial de preços. As fontes mais úteis em Navegantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Portais imobiliários — anúncios de imóveis semelhantes na mesma região mostram os preços pedidos (atenção: preço pedido —0— preço fechado)",
+          "Imobiliárias locais — corretores que atuam na cidade conhecem os valores praticados por bairro",
+          "Escrituras e registros — valores registrados em cartório de vendas recentes na região",
+          "Prefeitura — o valor venal usado para o IPTU é referência, mas costuma ficar abaixo do valor de mercado",
+          "Lançamentos — os preços de empreendimentos novos indicam o teto do mercado na região"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A pesquisa dá uma boa noção — mas tem limites. O preço pedido nos anúncios é diferente do preço efetivamente negociado, e comparações imprecisas (imóveis com áreas, padrões ou localizações diferentes) distorcem o resultado. Para decisões importantes, a pesquisa informal não substitui uma avaliação técnica."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Preço de venda x valor de mercado: por que eles diferem"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 comum o proprietário achar que seu imóvel vale mais do que o mercado paga — e o comprador achar que vale menos do que o vendedor pede. A verdade técnica é que o valor de mercado é o que a pesquisa demonstra: o valor mais provável pelo qual o imóvel seria vendido, em condições normais de negociação, em uma data de referência."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Preço pedido — o valor que o vendedor anuncia, que pode incluir margem de negociação",
+          "Valor de mercado — o valor apurado por método técnico, com base em dados reais",
+          "Valor de liquidação forçada — o valor obtido em venda rápida (leilão, por exemplo), quase sempre abaixo do mercado",
+          "Valor venal — base do IPTU, definida pela Prefeitura, geralmente defasada do mercado"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entender essas diferenças evita dois erros clássicos: vender abaixo do valor real por falta de informação, ou superestimar o preço e deixar o imóvel meses sem vender."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando contratar uma avaliação técnica em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A avaliação técnica (laudo) é feita por engenheiro ou arquiteto avaliador, segue a norma ABNT NBR 14653 e tem valor legal, com ART registrada no CREA. Ela é indispensável em situações como:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Venda ou compra de imóveis de valor alto — evita prejuízo de dezenas de milhares de reais",
+          "Financiamento e crédito — define a garantia e fortalece sua posição na negociação com o banco",
+          "Inventário, partilha e divórcio — a divisão do patrimônio exige valor imparcial e atualizado",
+          "Ações judiciais — o laudo serve como prova técnica em execuções, desapropriações e disputas",
+          "Contestação de IPTU e ITBI — o laudo pode demonstrar que a base tributária está incorreta",
+          "Seguros e garantias empresariais — o valor segurado ou dado em garantia precisa ser documentado"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a decisão envolve dinheiro relevante, papel assinado ou risco jurídico, a avaliação técnica não é custo — é proteção."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Valorização do mercado de Navegantes: o que esperar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes vem se consolidando como uma das cidades mais promissoras do litoral catarinense. A expansão portuária, a proximidade do aeroporto e a escassez de terrenos em bairros consolidados sustentam a valorização. Para quem pensa em investir, os pontos de atenção são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Regiões em crescimento — bairros mais afastados da orla ainda têm preços acessíveis e potencial de valorização",
+          "Terrenos — a escassez de áreas em bairros consolidados mantém os lotes valorizados",
+          "Imóveis para temporada e locação — a demanda turística sustenta retornos de aluguel atraentes",
+          "Lançamentos — o lançamento de novos empreendimentos reajusta a referência de preços da região"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Investir em Navegantes sem avaliação técnica é investir com preço chutado: em um mercado que valoriza rápido, o chute quase sempre sai caro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre avaliação de imóveis em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa avaliar um imóvel em Navegantes? O valor depende do tipo e do porte do imóvel e da finalidade (venda, judicial, financiamento). Solicite um orçamento com a finalidade clara — o laudo correto para cada situação tem escopo diferente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo demora uma avaliação de imóvel? Em geral, alguns dias úteis: vistoria, pesquisa de mercado, tratamento dos dados e emissão do laudo. Avaliações judiciais podem levar mais tempo conforme a complexidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A avaliação da Prefeitura serve como valor de mercado? Não. O valor venal do IPTU é base tributária e costuma ficar abaixo do valor de mercado — em Navegantes, a diferença pode ser grande, especialmente na orla."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso usar uma avaliação de site imobiliário para vender meu imóvel? Como referência inicial, sim. Para definir preço de venda, financiamento ou ações judiciais, o ideal é a avaliação técnica com laudo e ART."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que é a NBR 14653? —0 a norma brasileira de avaliação de bens, que define métodos, procedimentos e graus de fundamentação — o padrão que o avaliador segue para dar confiabilidade técnica ao valor."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Descubra o valor real do seu imóvel com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com avaliação de imóveis, laudos técnicos e perícias. Nossos engenheiros conhecem o mercado local — da orla à Portonave — e entregam avaliações com metodologia, ART e respaldo técnico."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai vender, comprar, financiar ou precisa do valor oficial de um imóvel em Navegantes, entre em contato com a nossa equipe. Vamos descobrir juntos o valor real do seu patrimônio."
+      }
+    }
+  ]
+}

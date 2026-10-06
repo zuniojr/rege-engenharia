@@ -1,0 +1,517 @@
+{
+  "slug": "principais-servicos-engenharia-navegantes",
+  "title": "Principais Serviços de Engenharia em Navegantes/SC que Oferecemos",
+  "tag": "ENGENHARIA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Principais Serviços de Engenharia em Navegantes/SC que Oferecemos - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Construir, reformar ou regularizar um imóvel em Navegantes exige muito mais do que \"achar um pedreiro\".",
+  "readTime": "5 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir, reformar ou regularizar um imóvel em Navegantes exige muito mais do que \"achar um pedreiro\". Exige engenharia de verdade: projeto calculado, obra fiscalizada, documentação aprovada e entrega legalizada. Na **Regê Engenharia**, oferecemos um pacote completo de serviços de engenharia em Navegantes/SC — para que você não precise \"caçar\" cinco fornecedores para resolver uma obra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste guia, apresentamos cada serviço que prestamos, o que está incluso e como ele protege o seu investimento. No final, você terá um mapa claro de como começar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Nossos Pilares: Como Entregamos Engenharia em Navegantes"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Pilar",
+          "O Que Significa na Prática"
+        ],
+        "rows": [
+          [
+            "Responsabilidade técnica (ART)",
+            "Todos os projetos e serviços com ART registrada no CREA-SC — sem exceção"
+          ],
+          [
+            "Engenharia de litoral",
+            "Projetos calculados para maresia, solo arenoso, lençol freático e ventos fortes"
+          ],
+          [
+            "Transparência",
+            "Orçamento detalhado por etapa, cronograma por escrito e relatórios com fotos"
+          ],
+          [
+            "Escopo completo",
+            "Projeto, aprovação, execução, laudos e regularização sob uma única responsabilidade"
+          ],
+          [
+            "Atendimento local",
+            "Engenheiros baseados em Navegantes, presença real no seu canteiro"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Projetos de Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra séria começa no papel. Oferecemos os projetos completos, compatibilizados entre si para eliminar retrabalho:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Arquitetônico"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plantas, cortes, fachadas e memorial descritivo",
+          "Layout funcional que atende ao Código de Obras de Navegantes (LC 416/2023)",
+          "Base para todos os projetos complementares e aprovação na Prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Estrutural"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cálculo completo de fundações, pilares, vigas e lajes (NBR 6118)",
+          "Dimensionamento para ventos fortes do litoral (NBR 6123)",
+          "Especificação de proteção contra maresia: cobrimentos de armadura reforçados, concreto com aditivos, aço galvanizado ou inox onde necessário",
+          "Projeto de fundações para solo arenoso e lençol freático elevado"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projetos de Instalações"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Instalação",
+          "Norma",
+          "O Que Entregamos"
+        ],
+        "rows": [
+          [
+            "Elétrica",
+            "NBR 5410",
+            "Circuitos, quadro de distribuição, iluminação, SPDA (para-raios)"
+          ],
+          [
+            "Hidráulica e sanitária",
+            "NBR 5626/8160",
+            "Água fria/quente, esgoto, águas pluviais, reúso e aquecimento solar"
+          ],
+          [
+            "Prevenção de incêndio",
+            "NBR 9077 + ITs do CBMSC",
+            "Hidrantes, rotas de fuga, sinalização, projeto para AVCB"
+          ],
+          [
+            "Compatibilização (BIM)",
+            "—",
+            "Cruzamento de todos os projetos para eliminar conflitos antes da obra"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Diferencial Regê: os projetos saem compatibilizados — o que evita os clássicos \"furos\" na laje para passar tubulação que deveria ter sido prevista, e reduz retrabalho em até 30%."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Aprovação de Projetos e Alvará"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Projeto aprovado é obra que anda. Cuidamos de toda a burocracia:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Consulta prévia de zoneamento e uso do solo junto à Prefeitura de Navegantes",
+          "Aprovação do projeto arquitetônico e projetos complementares",
+          "Alvará de construção — o documento que legaliza o início da obra",
+          "Aprovação no Corpo de Bombeiros (projeto de incêndio e AVCB quando exigido)",
+          "Licenciamento ambiental quando a obra se enquadra em áreas protegidas (APP, margens de rio)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Por que isso importa: obra sem alvará é obra sujeita a embargo e multa. Além disso, sem aprovação você não consegue financiamento bancário nem ligações definitivas de água e luz."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Execução e Gestão de Obras"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Execução Completa (Chave na Mão)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Assumimos a obra inteira: compras, mão de obra, cronograma, qualidade e entrega pronta para uso."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "O Que Está Incluso"
+        ],
+        "rows": [
+          [
+            "Planejamento",
+            "Orçamento executivo, cronograma físico-financeiro, plano de compras"
+          ],
+          [
+            "Fundação",
+            "Locação, escavação, estacas/sapatas/radier, impermeabilização"
+          ],
+          [
+            "Estrutura",
+            "Formas, armação, concretagem com controle tecnológico"
+          ],
+          [
+            "Vedação e instalações",
+            "Alvenaria, embutidos hidráulicos/elétricos, testes de estanqueidade"
+          ],
+          [
+            "Acabamentos",
+            "Revestimentos, pisos, esquadrias, pintura, louças e metais"
+          ],
+          [
+            "Entrega",
+            "Limpeza fina, habite-se, manual de uso e garantias documentadas"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Acompanhamento e Fiscalização de Obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você já tem empreiteiro, mas quer segurança? Oferecemos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Visitas programadas com checklist técnico por etapa",
+          "Conferência de armaduras antes de cada concretagem",
+          "Testes de estanqueidade hidráulica e elétrica",
+          "Registro fotográfico e relatórios periódicos",
+          "Controle de custos e medição de serviços"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Gerenciamento de Obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para quem quer delegar a gestão sem perder o controle: cuidamos de compras, negociação com fornecedores, cronograma, fiscalização diária e resolução de imprevistos — você acompanha tudo via relatórios."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Laudos e Perícias Técnicas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Documentos técnicos que viram prova — em negociação, em compra e venda, em processo judicial:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Serviço",
+          "Para Que Serve"
+        ],
+        "rows": [
+          [
+            "Laudo de inspeção predial",
+            "Diagnóstico completo do imóvel (NBR 16747); recomendado para condomínios e compradores"
+          ],
+          [
+            "Perícia de vícios construtivos",
+            "Prova técnica de defeitos — infiltração, trincas, recalques, corrosão"
+          ],
+          [
+            "Laudo de avaliação de imóveis",
+            "Valor de mercado para venda, compra, inventário, partilha ou financiamento"
+          ],
+          [
+            "Laudo técnico de vizinhança",
+            "Registro do estado do imóvel antes de obra vizinha (previne conflitos)"
+          ],
+          [
+            "Perícia judicial e assistência técnica",
+            "Acompanhamento técnico em processos cíveis (danos, vizinhança, cobrança)"
+          ],
+          [
+            "Laudo de recebimento de imóvel",
+            "Vistoria na entrega de imóveis novos (habite-se / recebimento de construtora)"
+          ],
+          [
+            "Laudo de eficiência energética",
+            "Análise de consumo, isolamento e viabilidade de energia solar"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dica: contrate o laudo de inspeção antes de comprar um imóvel usado. Por menos de R$ 2 mil você evita comprar uma bomba-relógio de R$ 100 mil."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Regularização de Imóveis"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Milhares de imóveis em Navegantes foram construídos sem aprovação. Se o seu é um deles, nós regularizamos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento as-built do imóvel existente",
+          "Projeto de regularização conforme a legislação vigente (LC 452/2024)",
+          "Aprovação na Prefeitura e emissão do habite-se",
+          "Averbação no cartório — imóvel 100% legal para vender, financiar ou herdar",
+          "REURB (Regularização Fundiária Urbana) para questões de lote e matrícula"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Por que regularizar? Imóvel irregular não vende, não financia, não herda sem inventário complicado e vale menos. A regularização é o maior aumento de valor que o seu imóvel pode receber."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Engenharia Especializada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além dos serviços clássicos, atendemos demandas específicas do litoral:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Fundações e Contenções"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sondagem geotécnica e análise de solo",
+          "Estacas hélice, broca e pré-moldadas",
+          "Radier, sapatas e tubulões",
+          "Muros de arrimo e contenções de encosta"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Estruturas Metálicas e Coberturas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Galpões industriais e comerciais",
+          "Coberturas metálicas de grande vão",
+          "Projeto e execução com certificação de montagem"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Reformas e Retrofit"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reformas estruturais com projeto (nada de \"tirar parede sem cálculo\")",
+          "Retrofit de imóveis antigos com modernização de instalações",
+          "Reformas de casas de praia adaptadas ao uso de veraneio"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Energia Solar e Eficiência"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Estudo de viabilidade e dimensionamento de sistemas fotovoltaicos",
+          "Integração estrutural do telhado para painéis",
+          "Laudo de eficiência energética"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Funciona o Atendimento (Passo a Passo)"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "1. CONTATO      — \u0019 WhatsApp/e-mail com sua demanda (construir, reformar, regularizar, laudo)\n2. ANÁLISE      — \u0019 Avaliação inicial, visita ao imóvel quando necessário\n3. PROPOSTA     — \u0019 Orçamento detalhado por etapa, com prazo por escrito\n4. CONTRATO     — \u0019 Escopo, ARTs, cronograma e garantias definidos\n5. EXECUÇÃO     — \u0019 Serviço executado com acompanhamento e relatórios\n6. ENTREGA      — \u0019 Documentação completa: ART, laudos, habite-se, garantias"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**\"Vocês fazem só o projeto ou a obra inteira?\"** Ambos. Você pode contratar apenas o projeto, apenas o acompanhamento, ou o pacote completo — do projeto à entrega das chaves. A vantagem do pacote é a integração: quem projeta e executa sob a mesma responsabilidade elimina a \"briga\" entre projetista e construtor."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**\"Quanto custa o projeto de uma casa?\"** Para casas até 150 m² em Navegantes, o projeto estrutural fica tipicamente entre R$ 4 mil e R$ 9 mil, e o projeto completo (arquitetônico + estrutura + instalações) entre R$ 8 mil e R$ 20 mil. O valor exato depende do porte e da complexidade — sempre com orçamento detalhado antes de fechar."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**\"Preciso de engenheiro para reforma pequena?\"** Se a reforma envolve estrutura (paredes, lajes, fundação) ou instalações, sim — e a legislação de Navegantes exige responsável técnico. Na dúvida, mande sua demanda que avaliamos gratuitamente se há necessidade de ART."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**\"Vocês atendem fora de Navegantes?\"** Sim. Atendemos todo o litoral norte catarinense: Balneário Camboriú, Itajaí, Penha, Barra Velha, São Francisco do Sul e região."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**\"Em quanto tempo começa minha obra?\"** Após a aprovação do projeto e alvará, a execução inicia conforme o cronograma acordado. Para projetos, os prazos típicos variam de 3 a 8 semanas, dependendo do porte."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão: Um —anico Parceiro para Toda a Engenharia da Sua Obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a diferença entre uma obra tranquila e uma obra problemática é a engenharia. Na **Regê Engenharia**, você encontra todos os serviços sob a mesma responsabilidade técnica:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—S& Projetos completos e compatibilizados —S& Aprovações e alvarás sem dor de cabeça —S& Execução com controle de qualidade —S& Laudos e perícias que protegem seu patrimônio —S& Regularização que valoriza seu imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não importa em que etapa você está**: se está sonhando com o terreno, com a obra pela metade ou com o imóvel irregular — nós temos o serviço certo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Regê Engenharia — Navegantes/SC** Projetos, aprovações, execução, laudos e regularização para todo o litoral norte catarinense."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ Fale com um engenheiro agora: [WhatsApp] —xR— Visite nosso site: [Site] —x\u001c— Acompanhe nossas obras: [Instagram] —x\u001c— Rua — Centro, Navegantes/SC"
+      }
+    }
+  ]
+}

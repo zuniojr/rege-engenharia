@@ -1,0 +1,89 @@
+{
+  "slug": "sondagem-de-solo-fundacao",
+  "title": "A importância da sondagem de solo para a fundação da sua obra",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Estruturas e Fundações",
+  "excerpt": "Economizar na análise geotécnica pode colocar em risco toda a segurança estrutural da construção. Descubra os riscos do recalque diferencial.",
+  "readTime": "7 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A sondagem de solo é uma investigação geotécnica que determina as características do terreno onde será construída uma edificação. Através dessa análise, o engenheiro identifica o tipo de solo, sua capacidade de suporte, o nível do lençol freático e a presença de rochas ou camadas compressíveis."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a sondagem é indispensável?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fundação é literalmente a base de qualquer construção. Sem conhecer as características do solo, o engenheiro projetista estaria dimensionando a fundação \"às cegas\". Isso pode resultar em fundações subdimensionadas (que não suportam o peso) ou superdimensionadas (gerando custos desnecessários)."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o recalque diferencial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O recalque diferencial ocorre quando partes diferentes da edificação afundam em velocidades ou proporções distintas. Isso gera trincas estruturais, desalinhamento de portas e janelas, rachaduras nas paredes e, em casos extremos, pode levar ao colapso da estrutura. A principal causa é justamente a falta de conhecimento adequado do solo."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Trincas em paredes a 45° — sinal clássico de recalque diferencial",
+          "Portas e janelas que não fecham corretamente — indicam deslocamento estrutural",
+          "Rachaduras no piso — podem indicar movimentação da fundação",
+          "Infiltrações recorrentes — o movimento estrutural rompe a impermeabilização"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tipos de sondagem mais comuns"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A sondagem SPT (Standard Penetration Test) é a mais utilizada no Brasil. Consiste em perfurar o solo com um equipamento específico e medir a resistência do solo a cada metro de profundidade. Para obras maiores, pode ser necessária a sondagem rotativa, que perfura camadas rochosas, ou ensaios especiais como o CPT (Cone Penetration Test)."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa uma sondagem?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo da sondagem SPT para uma residência unifamiliar normalmente representa menos de 1% do valor total da obra. Quando comparamos esse investimento com os custos de correção de problemas estruturais — que podem chegar a 30% do valor da obra ou até inviabilizar o imóvel — fica claro que a sondagem é um investimento e não um custo."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Construir sem sondagem de solo é como navegar sem bússola. Você pode até chegar ao destino, mas os riscos são enormes e desnecessários."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Regê Engenharia, a sondagem de solo é uma etapa obrigatória em todos os nossos projetos. Acreditamos que a segurança estrutural não é negociável. Consulte-nos para mais informações."
+      }
+    }
+  ]
+}

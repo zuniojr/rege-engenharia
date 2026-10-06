@@ -1,0 +1,513 @@
+{
+  "slug": "construindo-solo-arenoso-navegantes",
+  "title": "Construindo em Solo Arenoso: Desafios e Soluções na Engenharia de Navegantes",
+  "tag": "GEOTECNIA",
+  "image": "/images/Trincas e Rachaduras.png",
+  "imageAlt": "Construindo em Solo Arenoso: Desafios e Soluções na Engenharia de Navegantes - artigo técnico da Regê Engenharia sobre geotecnia em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Navegantes, na foz do Vale do Itajaí, tem boa parte do território sobre solo arenoso — herança das antigas dunas e da proximidade do mar.",
+  "readTime": "5 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes, na foz do Vale do Itajaí, tem boa parte do território sobre solo arenoso — herança das antigas dunas e da proximidade do mar. Esse tipo de solo é desafiador para a engenharia: tem baixa resistência, comportamento variável com a umidade e risco de recalques e erosão. Mas construir em solo arenoso em Navegantes é perfeitamente viável — desde que o projeto considere os desafios desde a sondagem até as fundações. Este guia explica os principais desafios e as soluções técnicas usadas na engenharia local."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por Que o Solo Arenoso é um Desafio?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Características do Solo Arenoso"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Baixa capacidade de carga — o solo cede mais fácil sob o peso da obra",
+          "Comportamento dependente do freático — a resistência muda com o nível d'água",
+          "Risco de recalque — assentamento desigual de fundações",
+          "Suscetibilidade à erosão — água e maresia podem carregar o solo",
+          "Contaminação por cloretos — a maresia agride o concreto e as armaduras"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por Que Exige Engenharia de Verdade"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sem sondagem e cálculo adequados, uma casa em solo arenoso pode apresentar trincas, portas que não fecham, piso desnivelado e até risco estrutural. O custo de corrigir é sempre maior que o custo de projetar certo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 1: Sondagem do Solo"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Tipos de Sondagem"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "SPT (Standard Penetration Test) — a mais comum; mede a resistência e o tipo das camadas",
+          "Percussão com o número de golpes (NSPT) — define a capacidade de suporte",
+          "Sondagem mista ou rotativa — para camadas mais profundas ou impenetráveis",
+          "Análise do lençol freático — nível d'água registrado no furo de sondagem"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por Que a Sondagem Não Pode Falar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em solo arenoso, cada terreno é um caso. Dois lotes vizinhos podem ter profundidades diferentes até o solo firme. A sondagem é o mapa da fundação — sem ela, o engenheiro \"chuta\" e o custo da correção vem depois."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 2: Escolha da Fundação"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Estaca Raiz ou Estaca Escavada"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Indicada para carga concentrada e terrenos com certas camadas",
+          "Transfere a carga para camadas mais profundas e firmes"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Estaca Metálica ou de Concreto Cravada"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Excelente em solo arenoso com água alta",
+          "Atravessa o solo arenoso em camadas firmes",
+          "Evita o problema do empuxo e do recalque"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Bloco sobre Estaca ou Tubulão"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para obras de médio e grande porte",
+          "Reduz a pressão no solo e distribui a carga"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sapata em Solo Firme Superficial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Somente quando a camada resistente está próxima da superfície",
+          "Sempre com verificação de recalque"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 3: Técnicas de Melhoria do Solo"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Compactação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Melhora a densidade do solo nas camadas superficiais",
+          "Reduz o recalque esperado"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Troca de Solo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Substitui camadas ruins por material granular ou aterro compactado",
+          "Comum em aterros e fundações rasas"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Geotêxteis e Geogrelhas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reforço e separação de camadas — distribuem cargas e evitam a perda de material fino"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Reforço do Solo com Brita"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Camada de brita + compactação cria uma plataforma estável",
+          "Protege contra a ação do freático"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Aterro Compactado com Controle"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Essencial em Navegantes, onde áreas baixas sofrem com o lençol"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 4: Proteção contra Maresia e Umidade"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Concreto na Costa"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cimento resistente a sulfatos e cloretos para ambiente marinho",
+          "Maior cobrimento das armaduras",
+          "Definição nos parâmetros do projeto estrutural"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Proteção de Armadura"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cobrimento de armadura adequado — maior no litoral",
+          "Concreto com adições (sílica ativa, escória) para reduzir cloretos",
+          "Impermeabilização de fundações — barreira contra o nível d'água"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Execução com Controle"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Concreto com relação a/c reduzida",
+          "Cura adequada",
+          "Controle tecnológico do concreto na obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 5: Drenagem e Rebaixamento"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por Que a Água Importa Tanto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em solo com lençol freático alto, a água é o principal fator de instabilidade. O nível do freático flutua com as marés e chuvas — e a obra precisa estar preparada."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Soluções de Drenagem"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Rebaixamento do lençol — bombeamento ou poços de rebaixamento durante a obra",
+          "Drenagem francesa e valetas — escoam a água da chuva",
+          "Manta impermeabilizante — barreira abaixo e ao redor da fundação",
+          "Bomba de recalque de poço — para evitar o acúmulo no subsolo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos Extras no Solo Arenoso"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Impacto de Custo"
+        ],
+        "rows": [
+          [
+            "Sondagem (SPT)",
+            "R$ 600 a R$ 1.500 por furo"
+          ],
+          [
+            "Fundação profunda",
+            "10% a 25% do custo da estrutura"
+          ],
+          [
+            "Melhoramento do solo",
+            "3% a 8% da obra"
+          ],
+          [
+            "Impermeabilização",
+            "2% a 5% da obra"
+          ],
+          [
+            "Bombeamento/drenagem",
+            "1% a 3% da obra"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Valores de referência; variam conforme o porte, a sondagem e o nível do lençol."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como um Engenheiro Local Faz a Diferença"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Experiência com o Terreno"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um engenheiro que já caminhou por Navegantes conhece os bairros, o comportamento do solo litorâneo e a prática das fundações na região. Isso encurta o caminho entre a sondagem e a obra segura."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Conformidade com a Prefeitura"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sondagem é parte da exigência da LC 416/2023",
+          "Projetos precisam de ART e aprovação no SUL",
+          "A fundação deve estar compatível com o laudo de sondagem"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Custos de Correção Evitados"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Investimento em sondagem e projeto bem feito evita:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Trincas por recalque — problema frequente no litoral",
+          "Obras embargadas por desconformidade",
+          "Retrabalho de fundação derrubando o orçamento"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Todo terreno em Navegantes tem solo arenoso?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Grande parte, sim — mas cada lote tem um perfil diferente. Por isso a sondagem é indispensável, mesmo em lotes vizinhos."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Vale a pena construir em solo arenoso?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. Com sondagem, fundação adequada e impermeabilização correta, a obra fica tão segura quanto em qualquer outro solo — o custo é um pouco maior no início, mas o imóvel dura e valoriza."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual o melhor tipo de fundação no litoral?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende da sondagem e do porte: para cargas médias, estaca ou tubulão é muito usado; para casas, broca ou sapatas sobre estaca podem ser usadas. O engenheiro calculista decide com os dados do solo."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A maresia afeta a fundação?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Afeta principalmente o concreto e o aço das fundações e do subsolo. A solução é cobrimento maior, cimento resistente a cloretos e impermeabilização correta."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia constrói em solo arenoso em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia tem experiência com solo litorâneo, sondagem, fundações profundas e consultoria técnica em Navegantes e toda a região."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir em solo arenoso em Navegantes não é um obstáculo — é uma condição técnica que exige método. Sondagem, fundação adequada, melhoramento do solo, drenagem e proteção contra a maresia são os pilares de uma obra que dura. Quem ignora esses passos paga com trincas, retrabalho e tempo perdido."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir em Navegantes com engenharia é começar pelo chão: investigar o solo, escolher a fundação certa e executar com controle. Assim, o solo deixa de ser um problema e vira a base de uma obra segura, legal e valorizada por décadas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre construção em solo arenoso em Navegantes/SC. Valores, normas e práticas são referência; consulte a NBR 6122 (fundações), a NBR 8036 (sondagem) e o CREA-SC para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

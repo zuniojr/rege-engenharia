@@ -1,0 +1,230 @@
+{
+  "slug": "vazamento-em-tubulacao-navegantes",
+  "title": "Vazamento em Tubulação: Causas, Diagnóstico e Reparo em Navegantes",
+  "tag": "HIDRÁULICA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Vazamento em Tubulação: Causas, Diagnóstico e Reparo em Navegantes - artigo técnico da Regê Engenharia sobre hidráulica em Navegantes e Litoral Norte de SC.",
+  "excerpt": "O vazamento em tubulação é uma das falhas mais silenciosas e custosas da construção.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O vazamento em tubulação é uma das falhas mais silenciosas e custosas da construção. Pode começar em uma junta e, em poucas semanas, comprometer paredes, pisos e a fundação — sem que o proprietário perceba. No litoral de Navegantes, onde a umidade e a maresia aceleram a corrosão, o vazamento exige diagnóstico rápido e reparo correto. Neste artigo, você entende as causas, como identificar e como resolver com segurança."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que é um Vazamento em Tubulação?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 a perda de água (ou esgoto) por fissura, corrosão ou deslocamento em tubos de água fria, quente ou rede pluvial. Pode ser aparente (goteira) ou oculto (dentro de paredes e contrapisos)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por Que é Sério?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Destrói a construção — umidade apodrece alvenaria e quadro de madeira",
+          "Infla a conta — vazamento oculto desperdiça centenas de litros",
+          "Gera mofo e saúde — ambiente úmido favorece alergias",
+          "Atinge vizinhos — infiltração lateral gera conflito e reparação",
+          "Compromete a estrutura — água no contra-piso corrói armaduras"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Principais Causas em Navegantes"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Causa",
+          "Por que ocorre no litoral"
+        ],
+        "rows": [
+          [
+            "Corrosão de tubos metálicos",
+            "Maresia e umidade aceleram a oxidação"
+          ],
+          [
+            "Juntas mal feitas",
+            "Assentamento sem pressurização de teste"
+          ],
+          [
+            "Entupimento e contrapressão",
+            "Raízes e depósitos em rede antiga"
+          ],
+          [
+            "Trinca por recalque",
+            "Solo arenoso e movimentação de fundação"
+          ],
+          [
+            "Material inadequado",
+            "Canos impróprios para água quente ou sal"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Identificar o Vazamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Aumento na conta de água sem mudança de consumo",
+          "Mancha ou mofo em parede, teto ou rodapé",
+          "Som de água correndo com torneiras fechadas",
+          "Piso quente ou úmido em piso radiante ou contrapiso",
+          "Umidade em vizinho com sua tubulação na lateral"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Diagnóstico Técnico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro usa pressurização de rede, câmera inspectiva e detector de umidade para localizar o ponto exato — evitando quebrar parede à procura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Reparo Correto"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Localização — mapear o ponto exato com ensaio não destrutivo.",
+          "Isolamento — fechar registro e drenar a trecho.",
+          "Substituição ou selagem — trocar o trecho danificado ou aplicar vedante estrutural.",
+          "Teste de pressão — confirmar que o vazamento cessou.",
+          "reconstrução — refazer contrapiso e acabamento afetado.",
+          "ART do responsável técnico — documentar a intervenção."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que Agravam o Vazamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ignorar a conta de água alta por meses",
+          "Tentar \"jeitinho\" com fita ou selante sem diagnosticar",
+          "Quebrar parede ao acaso sem localizar o ponto",
+          "Usar cano de material diferente do original sem critério",
+          "Não emitir ART do reparo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Dá para achar vazamento sem quebrar a parede?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. Com pressurização e detector de umidade, o ponto é mapeado antes de abrir a alvenaria."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O vazamento afeta o vizinho?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Pode. Infiltração lateral obriga reparação e, muitas vezes, vistoria cautelar para comprovar a origem."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual o custo do reparo?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende da extensão. Diagnóstico e reparo pontual variam de **R$ 500 a R$ 6.000**; vazamento em rede oculta de grande extensão é orçado por planta."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia faz reparo de vazamento?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia diagnostica e repara vazamentos em tubulação, com localização técnica e ART, em Navegantes e no litoral catarinense."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O vazamento em tubulação não espera: quanto mais tempo sem reparo, maior o estrago e o custo. Em Navegantes, onde a maresia corrói e a umidade se espalha rápido, diagnosticar o ponto exato e reparar com material adequado é o que salva a obra de dentro para fora."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ao perceber conta alta ou mancha úmida, chame o diagnóstico técnico. Encontrar e fechar o vazamento a tempo é evitar reforma maior amanhã."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre vazamento em tubulação em Navegantes/SC. Valores e exigências têm referência; consulte o CREA-SC e a Prefeitura de Navegantes (SUL) para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "slug": "licenciamento-ambiental-obras-areas-preservacao-navegantes",
+  "title": "Entenda o Processo de Licenciamento Ambiental para Obras em Áreas de Preservação em Navegantes",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Área de preservação permanente (APP) em Navegantes SC com vegetação nativa à beira d'água, representando a importância do licenciamento ambiental para obras na região.",
+  "excerpt": "Construir perto de rios, mangues, dunas ou restingas em Navegantes exige licenciamento ambiental — e o descumprimento gera multas, embargo e demolição. Entenda o processo de licenciamento para obras em Áreas de Preservação Permanente (APPs), quais órgãos são envolvidos e como a engenharia garante a conformidade.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes é uma cidade que nasceu à beira d'água — entre o rio Itajaí-Açú, o estuário, as dunas e o manguezal. Essa geografia é o que torna a cidade atrativa para moradia, turismo e investimento — mas também o que coloca limites claros ao que pode ser construído. Áreas de preservação permanente (APPs) não são opcional: são exigência da Constituição Federal, do Código Florestal e da legislação estadual. Construir, reformar ou ampliar em qualquer uma dessas áreas sem licenciamento ambiental é infração que gera multa, embargo e, em casos graves, demolição."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste guia, a Regê Engenharia explica o processo de licenciamento ambiental para obras em Áreas de Preservação em Navegantes: o que são APPs, quando o licenciamento é obrigatório, quais órgãos participam, quais documentos são necessários e como a engenharia técnica garante que sua obra atenda à legislação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que são Áreas de Preservação Permanente (APPs)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As APPs são áreas protegidas por lei, definidas pelo Código Florestal (Lei nº 12.651/2012), que devem ser mantidas com cobertura vegetal nativa ou, quando já degradadas, recuperadas. A função delas é proteger recursos hídricos, prevenir erosão, manter a biodiversidade e garantir o equilíbrio ecológico."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Áreas ao longo de rios e ribeirões — faixa mínima de 30 metros de cada lado para rios de até 10 metros de largura",
+          "Áreas ao redor de lagos e reservatórios — faixa de 100 metros para lagos naturais",
+          "Áreas de nascentes — faixa mínima de 50 metros ao redor da nascente",
+          "Dunas e restingas — formações costeiras com proteção especial na legislação ambiental",
+          "Mangues e várzeas — ecossistemas costeiros com proteção rigorosa",
+          "Áreas de altitude — acima de 1.800 metros em partes de SC",
+          "Encostas e topos com declividade superior a 45 graus"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, as APPs mais relevantes são as faixas marginais do rio Itajaí-Açú, as áreas de mangue no estuário, as dunas litorâneas e as áreas de preservação ao longo dos rios menores que cortam a cidade."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "APP não é \"terreno que não pode ser usado\" — é terreno que exige cuidado técnico, projeto adequado e licenciamento para qualquer intervenção."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o licenciamento ambiental é obrigatório em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda intervenção em APP — mesmo aquelas permitidas pelo Código Florestal — exige projeto técnico e autorização do órgão ambiental competente. Na prática, o licenciamento é obrigatório quando:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construção de moradia unifamiliar em APP — permitida em área urbana consolidada, mediante projeto assinado por engenheiro ou arquiteto e autorização do órgão ambiental",
+          "Obras de infraestrutura viária — estradas, ruas, avenidas que atravessam APPs",
+          "Construção de edificações em área de mangue ou restinga — exigem licenciamento rigoroso e, muitas vezes, impossibilidade de construção",
+          "Dragagem e movimentação de terra em áreas de preservação — autorização específica do órgão ambiental",
+          "Instalação de equipamentos de lazer e turismo em APP — parques, trilhas e mirantes exigem projeto ambiental",
+          "Regularização de construções existentes em APP — construções antigas que precisam de licenciamento para regularização"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A regra geral é: qualquer obra em APP, independentemente do porte, exige análise e autorização ambiental antes do início dos serviços. Construir sem licenciamento é infração ambiental com multas que podem chegar a milhões de reais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os órgãos envolvidos no licenciamento ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo de licenciamento envolve diferentes órgãos, dependendo do tipo de APP e da localização da obra:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fundação do Meio Ambiente de SC (FMA) — órgão ambiental estadual que licencia obras que impactam APPs estaduais e federais",
+          "Instituto Brasileiro do Meio Ambiente (IBAMA) — licencia obras com impacto em APPs federais e em áreas de mangue e restinga",
+          "Prefeitura de Navegantes — analisa o projeto urbanístico e verifica conformidade com o Plano Diretor e zoneamento",
+          "Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) — quando a obra está em área de Proteção Ambiental (APA) federal",
+          "Secretaria de Meio Ambiente de SC (SEMA) — coordena a política ambiental estadual e participa de licenciamentos complexos",
+          "Secretaria de Obras da Prefeitura — emite alvará de construção após aprovação ambiental e projeto técnico"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A articulação entre esses órgãos é complexa e exige experiência técnica. Um erro em um dos passos pode atrasar meses ou anos o processo de licenciamento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O passo a passo do licenciamento ambiental em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo de licenciamento segue etapas definidas, que variam conforme o porte da obra e o tipo de APP:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Diagnóstico ambiental — levantamento da vegetação, fauna, hidrografia e estado de conservação da área",
+          "2. Análise de impacto ambiental — avaliação dos impactos que a obra causará e das medidas de mitigação",
+          "3. Estudo de viabilidade ambiental — verificação se a obra é permitida naquela APP e quais condições devem ser cumpridas",
+          "4. Projeto de recuperação ou compensação — quando a obra altera a APP, o projeto define como compensar ou recuperar",
+          "5. Protocolo junto ao órgão ambiental — entrega de toda a documentação para análise",
+          "6. Análise e parecer — o órgão ambiental analisa, pode solicitar informações adicionais e emite parecer técnico",
+          "7. Autorização ou licença — documento que autoriza a obra, com condições e prazos definidos",
+          "8. Acompanhamento e monitoramento — durante e após a obra, o cumprimento das condições é fiscalizado"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O licenciamento ambiental não é burocracia: é a garantia de que a sua obra não vai destruir o que faz Navegantes ser Navegantes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos necessários para o licenciamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada órgão ambiental tem exigências próprias, mas os documentos mais comuns são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Requerimento de licenciamento — formulário do órgão ambiental com dados da obra e do proprietário",
+          "Projeto técnico assinado por engenheiro ou arquiteto — com ART registrada no CREA/CAU",
+          "Diagnóstico ambiental — levantamento da área, vegetação e recursos hídricos",
+          "Análise de Impacto Ambiental (AIA) — quando exigida, para obras de maior porte",
+          "Projeto de recuperação de área degradada — quando a obra altera ou degrada a APP",
+          "Mapa de localização — com indicação exata da APP, da área de construção e das distâncias mínimas",
+          "Memorial descritivo — descrição detalhada da obra, materiais e processos construtivos",
+          "Proposta de monitoramento ambiental — plano de acompanhamento durante e após a obra",
+          "Comprovante de propriedade ou posse do terreno"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A qualidade e a completude desses documentos definem a velocidade do processo. Documentação incompleta ou com erros gera pedidos de correção que atrasam meses."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que pode e o que não pode ser feito em APP em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O Código Florestal permite algumas intervenções em APP, desde que atendam a condições específicas. Em Navegantes, as regras mais relevantes são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Moradia unifamiliar em área urbana consolidada — permitida em APP de faixa marginal de rios, mediante projeto e autorização ambiental",
+          "Obras de utilidade pública — estradas, saneamento, energia — podem ser feitas em APP com compensação ambiental",
+          "Atividades de turismo e lazer de baixo impacto — trilhas, mirantes e campings — com projeto ambiental aprovado",
+          "Proibição de construção em APP de mangue e restinga — salvo obras de utilidade pública com compensação rigorosa",
+          "Proibição de supressão de vegetação nativa em APP — qualquer remoção exige autorização e compensação",
+          "Proibição de impermeabilização do solo que impeça a infiltração d'água em APP"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A linha entre o que é permitido e o que é proibido depende do tipo de APP, do zoneamento municipal e da análise do órgão ambiental. Por isso, a consultoria técnica é indispensável antes de qualquer decisão."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "APP no Plano Diretor de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O Plano Diretor de Navegantes complementa a legislação federal e estadual com regras municipais que definem:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Zonas de proteção ambiental — áreas com restrições adicionais de uso e ocupação do solo",
+          "Áreas de preservação permanente Municipais — APPs definidas pelo plano diretor além das federais",
+          "Parâmetros de ocupação — coeficiente de aproveitamento, taxa de ocupação e altura máxima em áreas próximas a APPs",
+          "Corredores ecológicos — faixas de proteção que conectam áreas naturais e limitam a construção",
+          "Áreas de risco — zonas sujeitas a inundação, erosão ou deslizamento com restrições construtivas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Plano diretor é a Constituição urbanística de Navegantes — e ele fala alto quando o assunto é APP."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As multas e penalidades por descumprimento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir em APP sem licenciamento ou descumprir as condições da licença gera penalidades severas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Multa administrativa — valores que podem chegar a milhões de reais, conforme a gravidade do impacto",
+          "Embargo da obra — paralisação imediata dos serviços até a regularização",
+          "Demolição — quando a construção é irregular e não pode ser regularizada",
+          "Restauração da área — o responsável é obrigado a recuperar a APP degradada, às suas custas",
+          "Responsabilidade criminal — em casos graves, o proprietário e o responsável técnico respondem criminalmente",
+          "Proibição de financiamento — imóvel irregular não pode ser financiado ou vendido com garantia regular"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além das penalidades formais, a irregularidade ambiental desvaloriza o imóvel e gera insegurança jurídica para o proprietário e para quem o compra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel da engenharia no licenciamento ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A engenharia é protagonista em todo o processo de licenciamento:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Diagnóstico técnico — levantamento da área com base em normas técnicas, identificação de APPs e estado de conservação",
+          "Projeto de engenharia compatível com a APP — dimensionamento da obra respeitando as limitações ambientais",
+          "Estudo de impacto ambiental — análise técnica dos impactos e propostas de mitigação com base em critérios de engenharia",
+          "Projeto de compensação ou recuperação — quando necessário, a engenharia dimensiona como compensar a área afetada",
+          "Acompanhamento da obra — fiscalização para garantir que a execução respeite as condições da licença",
+          "Monitoramento ambiental — medições e relatórios que comprovam o cumprimento das obrigações ambientais"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Engenheiro não é só quem constrói: é quem garante que a construção respeite o meio ambiente — e que a licença não vire papel sem valor."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre licenciamento ambiental em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso construir em APP em Navegantes? Depende do tipo de APP e dozoneamento. Moradias unifamiliares em área urbana consolidada podem ser permitidas, mediante projeto e autorização ambiental. APP de mangue e restinga, em geral, não permitem construção."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo demora o licenciamento ambiental? Varia conforme o órgão e acomplexidade: de poucos meses (obras simples) a mais de um ano (obras de grande porte ou em APP federal)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual o custo do licenciamento? O custo inclui projetos, diagnósticos, taxas do órgão ambiental e honorários técnicos. A variação é grande — uma consultoria técnica qualificada evita custos surpresa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construção antiga em APP pode ser regularizada? Sim, em muitos casos. A regularização exige projeto técnico, diagnóstico ambiental e autorização do órgão ambiental. Cada caso é analisado individualmente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que acontece se eu construir sem licença? Multa, embargo, demolição e restauração da área. Além da responsabilidade civil e criminal, o imóvel fica irregular e perde valor."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, o Código de Obras municipal exige ART para todas as obras que necessitam de licença — desde construções novas até reformas que alteram a estrutura ou as instalações. Sem ART, a Prefeitura não emite o alvará e a obra pode ser embargada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que acontece se a obra não tiver ART?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A ausência de ART gera consequências sérias para o proprietário e para a obra:"
+      }
+    }
+  ]
+}

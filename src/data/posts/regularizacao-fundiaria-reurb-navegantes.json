@@ -1,0 +1,275 @@
+{
+  "slug": "regularizacao-fundiaria-reurb-navegantes",
+  "title": "Regularização Fundiária em Navegantes: Reurb, Matrículas e Usucapião",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Documentos de regularização fundiária e matrícula de imóvel em Navegantes SC, com mapa de loteamento e planta topográfica de regularização.",
+  "excerpt": "Milhares de imóveis em Navegantes existem fisicamente, mas não têm matrícula individual. Entenda como funciona a Reurb (Lei 13.465/2017), quem tem direito, o papel da engenharia no processo e a diferença para o usucapião.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Existe em Navegantes uma realidade paralela que poucos engenheiros e corretores mencionam: milhares de famílias moram em imóveis que não têm matrícula individual. São lotes vendidos por \"contrato de gaveta\", terrenos desmembrados informalmente, casas construídas em áreas ocupadas há décadas e núcleos urbanos que cresceram antes de a cidade se formalizar. O imóvel existe fisicamente — mas, no cartório, ele não existe para quem o ocupa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Esse cenário tem solução, e ela se chama regularização fundiária urbana (Reurb) — o conjunto de procedimentos, jurídicos e técnicos, que transforma uma ocupação informal em propriedade legalmente registrada. Regulamentada pela Lei Federal nº 13.465/2017, a Reurb é hoje o caminho mais estruturado para quem quer tirar o nome do papel e conquistar a matrícula do próprio imóvel em Navegantes."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Um imóvel sem matrícula é como uma casa sem endereço: você mora nela, mas ninguém consegue encontrá-la juridicamente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica como funciona a regularização fundiária em Navegantes — o que é a Reurb, quem tem direito, qual o papel da engenharia nesse processo e o que separa a Reurb de outras formas de regularização, como o usucapião e a regularização de obras."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é a Regularização Fundiária Urbana (Reurb)?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Reurb é o procedimento previsto na Lei Federal nº 13.465/2017 que oficializa núcleos urbanos informais — ou seja, áreas onde existem construções consolidadas sem registro individualizado dos imóveis. Ela abrange a titulação de seus ocupantes, com o objetivo de garantir o direito social à moradia e o pleno desenvolvimento das funções sociais da propriedade urbana."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Reurb-S e Reurb-E: qual é o seu caso?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A grande diferença da Reurb para os processos antigos: em vez de punir a ocupação, a lei reconhece a realidade construída e oferece um caminho administrativo (sem necessidade de ação judicial) para transformar a posse em propriedade. Para famílias de baixa renda, a modalidade é a Reurb-S (interesse social); para os demais casos, a Reurb-E (interesse específico)."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Quem paga o preço da cidade informal é sempre o mais pobre — e a Reurb-S existe exatamente para corrigir essa distorção."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando a regularização fundiária é necessária em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A cidade tem características que favorecem a formação de núcleos urbanos informais — e a demanda por Reurb aparece em situações típicas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lotes vendidos por contrato de gaveta — a compra nunca foi registrada em cartório; o \"dono\" tem apenas recibos e um papel particular",
+          "Terrenos desmembrados sem aprovação — um lote maior foi dividido em várias frações sem loteamento legalizado",
+          "Ocupações antigas consolidadas — famílias que moram há 20, 30 anos no mesmo lugar, mas sem título",
+          "Áreas de expansão da cidade — bairros que cresceram junto com a Portonave e a orla, antes da formalização urbanística",
+          "Imóveis herdados sem inventário — a posse passou de geração em geração, mas a matrícula nunca foi atualizada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel da engenharia na regularização fundiária"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Reurb não é só processo jurídico — ela começa na engenharia. Antes de qualquer matrícula ser aberta, é preciso saber exatamente o que existe no terreno, onde estão as construções e como dividir o espaço em lotes regulares. O trabalho técnico envolve:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento topográfico — medição do terreno, curvas de nível, limites e confrontações (NBR 13.133)",
+          "Georreferenciamento — posicionamento do imóvel no sistema de coordenadas oficial (Lei 10.267/2001)",
+          "Planta de regularização — desenho dos lotes, vias, áreas públicas e edificações existentes",
+          "Levantamento cadastral — identificação de ocupantes, construções e usos de cada lote",
+          "Estudos de risco e geotécnicos — verificação de segurança das ocupações (encostas, áreas alagáveis)",
+          "ART no CREA-SC — responsabilidade técnica por todos os levantamentos e plantas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A matrícula é o destino final — mas o mapa que o engenheiro desenha é o caminho. Sem topografia e georreferenciamento corretos, nenhum lote entra no cartório."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo a passo: como funciona a Reurb em Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Diagnóstico e análise de viabilidade — o engenheiro avalia se a área se enquadra na Reurb, os requisitos legais e a modalidade aplicável (S ou E)",
+          "2. Requerimento à Prefeitura — pode ser feito pelo município, pelo proprietário, pelos ocupantes ou por associações",
+          "3. Projeto de regularização fundiária — documento técnico que define o perímetro, quadras, lotes, sistema viário e áreas públicas",
+          "4. Análise e aprovação municipal — verificação de conformidade com o Plano Diretor e o Código Urbanístico de Navegantes (LC 414/2023)",
+          "5. Registro no cartório — abertura de matrícula individualizada para cada lote e emissão dos títulos de domínio"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A Reurb é o único caminho em que a Prefeitura e o cartório trabalham juntos para transformar posse em propriedade — sem briga judicial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Reurb x usucapião x regularização de obra: qual a diferença?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um erro comum é confundir os três processos. Eles resolvem problemas diferentes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reurb — resolve a área sem matrícula individual ou loteamento informal; tramita administrativamente (Prefeitura + cartório) e o resultado é a matrícula individual",
+          "Usucapião — resolve a posse antiga que pode virar propriedade por tempo de ocupação (5 a 15 anos); tramita judicialmente ou extrajudicialmente no cartório",
+          "Regularização de obra — resolve a obra construída sem alvará ou habite-se; tramita na Prefeitura e o resultado é alvará + habite-se + averbação"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, os três se combinam: um imóvel em núcleo informal pode precisar de Reurb para ganhar matrícula, regularização de obra para ganhar habite-se, e a usucapião entra quando o ocupante precisa de um título individual por posse prolongada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Riscos de viver em um imóvel não regularizado"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Impossibilidade de vender — nenhum comprador sério adquire imóvel sem registro; a venda fica restrita a \"contratos de gaveta\"",
+          "Sem financiamento bancário — bancos não financiam imóvel sem matrícula individual",
+          "Sem direito à herança estruturada — a divisão entre herdeiros vira disputa; o inventário não consegue registrar o bem",
+          "Perda em desapropriações — em obras públicas, a indenização tende a ser menor para ocupantes sem título",
+          "Vulnerabilidade à remoção — em áreas de interesse público, o ocupante sem título tem menos garantias"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O contrato de gaveta não é documento de propriedade — é um recibo de intenção. Quem quer vender, financiar ou herdar com segurança precisa da matrícula."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa e quanto tempo leva?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os custos variam conforme a quantidade de lotes, a complexidade topográfica e a necessidade de estudos ambientais: levantamento topográfico entre R$ 3.000 e R$ 8.000, projeto de regularização com ART entre R$ 5.000 e R$ 20.000, além das taxas municipais e emolumentos cartoriais. Na Reurb-S, taxas e emolumentos são reduzidos ou subsidiados pelo município. O prazo médio total fica entre 4 e 18 meses, conforme a modalidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma análise de viabilidade técnica, feita por engenheiro, é o primeiro passo para saber o custo real do seu caso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre regularização fundiária em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Tenho contrato de compra e venda \"de gaveta\". Meu imóvel pode ser regularizado? Sim. Esse é o caso mais comum atendido pela Reurb. O contrato particular comprova a posse, e a Reurb converte essa posse em propriedade registrada — desde que a ocupação seja pacífica e a área seja regularizável."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de advogado para fazer a Reurb? A Reurb é administrativa, então não exige ação judicial. Mas o processo envolve engenheiro (topografia e projeto) e, em casos complexos, advogado para a documentação jurídica. A equipe da Regê Engenharia cuida da parte técnica e orienta todo o fluxo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A regularização fundiária e a regularização de obra são a mesma coisa? Não. A Reurb regulariza a área e a matrícula; a regularização de obra regulariza a edificação (alvará, habite-se). Um imóvel pode precisar das duas — e normalmente é assim: primeiro a área ganha matrícula, depois a construção ganha habite-se."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo de posse preciso para a Reurb? A Reurb não exige tempo mínimo de posse, ao contrário do usucapião. O que importa é a área ser um núcleo urbano informal consolidado e os ocupantes comprovarem a posse. Para usucapião, os prazos são de 5 a 15 anos conforme o caso."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Morar na área irregular por muito tempo me dá o direito automático? Não. O tempo de posse pode dar direito ao usucapião, mas a via mais rápida e barata hoje é a Reurb — que dispensa o tempo mínimo e tramita sem processo judicial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão: a regularização começa no terreno, não no cartório"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes cresceu rápido — e parte desse crescimento aconteceu antes da formalização urbanística. A boa notícia é que a Reurb (Lei 13.465/2017) criou um caminho administrativo, estruturado e acessível para transformar posse em propriedade. A má notícia é que, sem providência, o imóvel informal continua perdendo valor, bloqueando financiamentos e adiando heranças."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na regularização fundiária, quem desenha o mapa determina o destino. E o mapa certo começa com topografia, técnica e responsabilidade profissional."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você mora, herdou ou comprou um imóvel em Navegantes sem matrícula individual — ou quer saber se a sua área pode ser regularizada —, a equipe da Regê Engenharia está pronta para fazer o diagnóstico técnico: levantamento do terreno, análise de viabilidade e projeto de regularização fundiária, com ART registrada no CREA-SC. Depois do mapa, o caminho até a matrícula fica muito mais curto."
+      }
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "slug": "plano-gerenciamento-residuos-construcao",
+  "title": "Plano de Gerenciamento de Resíduos da Construção Civil (PGR): O Que —0, Quando —0 Obrigatório e Como Elaborar",
+  "tag": "SUSTENTABILIDADE",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Engenheiro elaborando Plano de Gerenciamento de Resíduos (PGR) para obra em Navegantes SC — documento técnico com classificação e destinação de entulho conforme CONAMA 307.",
+  "excerpt": "O Plano de Gerenciamento de Resíduos (PGR) é obrigatório para obras que geram mais de 50 toneladas/mês ou têm área superior a 5.000 m². Entenda o que é, quando é exigido, o que deve conter e como elaborar o documento conforme a CONAMA 307.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda construção civil gera resíduos. Mas nem toda obra precisa do mesmo nível de gerenciamento. Para obras de grande porte, a legislação exige um documento técnico específico que organiza, planeja e controla todo o fluxo de resíduos — da geração até a destinação final: o Plano de Gerenciamento de Resíduos da Construção Civil, conhecido como PGR."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O PGR não é um formulário burocrático para engavetar. —0 o instrumento que transforma a gestão de entulho em processo controlado, com responsáveis definidos, metas de redução, rastreabilidade de destinação e conformidade legal. Sem ele, a obra fica exposta a multas, embargo e responsabilidade civil. Com ele, a gestão vira vantagem competitiva."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o Plano de Gerenciamento de Resíduos (PGR)?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O Plano de Gerenciamento de Resíduos da Construção Civil é o documento técnico que define como uma obra vai gerenciar todos os resíduos que produz — desde a separação no canteiro até a destinação final comprovada. Ele é exigido pela Resolução CONAMA 307/2002 e regulamentado pela norma técnica NBR 10.004 da ABNT."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o PGR responde a perguntas essenciais: quem é responsável pela gestão de resíduos na obra? Quais resíduos serão gerados e em que volumes? Como eles serão classificados, armazenados, transportados e destinados? Quais metas de redução e reúso a obra estabelece? Como tudo isso será documentado e controlado?"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O PGR não é uma exigência burocrática — é o roteiro técnico que transforma o desperdício em processo controlado e a multa em economia."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o PGR é obrigatório?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nem toda obra precisa de PGR. A Resolução CONAMA 307/2002 estabelece dois critérios cumulativos para obrigatoriedade:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Área total construída igual ou superior a 5.000 m² — independente do tipo de uso (residencial, comercial, industrial)",
+          "Geração igual ou superior a 50 toneladas de resíduos por mês — calculada com base no cronograma da obra e na composição de materiais"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a obra atender a pelo menos um desses critérios, o PGR é obrigatório. Na prática, a maioria das obras de condomínios residenciais de médio e grande porte, edifícios comerciais, galpões industriais e obras de infraestrutura se enquadra nessa exigência."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mesmo quando não é obrigatório por lei, ter um PGR é uma boa prática. Obras menores que optam por elaborar o plano ganham controle, reduzem custos de remoção e evitam problemas com fiscalização — especialmente em regiões como o litoral catarinense, onde a fiscalização ambiental é cada vez mais rigorosa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o PGR deve conter?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A CONAMA 307/2002 e a NBR 10.004 definem os elementos mínimos que o PGR deve apresentar. Um documento completo e técnico deve incluir:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Identificação da obra e do responsável"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dados completos da obra: endereço, responsáveis, tipo de construção e área total",
+          "Identificação do responsável técnico pela elaboração e execução do PGR (engenheiro com ART no CREA)",
+          "Identificação do responsável legal pela gestão de resíduos na obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Caracterização dos resíduos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Inventário dos resíduos gerados — listagem de todos os materiais que serão produzidos durante a obra",
+          "Estimativa de volumes por tipo — quantidades esperadas de cada resíduo por etapa da obra (fundação, estrutura, acabamento)",
+          "Classificação conforme NBR 10.004 — resíduos inertes (Grupo A), não inertes (Grupo B) e perigosos (Grupo C)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Procedimentos de gestão"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ações de minimização na fonte — metas de redução de geração e de reúso direto no canteiro",
+          "Procedimentos de segregação — como os resíduos serão separados (por tipo, por cor, por container)",
+          "Acondicionamento e armazenamento — tipo de containers, localização no canteiro e identificação",
+          "Transporte — empresa responsável, tipo de veículo, rotas e horários",
+          "Destinação final — empresas licenciadas, aterros ou usinas que receberão cada tipo de resíduo"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Metas e indicadores"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Meta de reúso — percentual de resíduos que serão reaproveitados na própria obra",
+          "Meta de reciclagem — percentual de resíduos encaminhados para reciclagem externa",
+          "Meta de destinação adequada — 100% dos resíduos devem ter destinação licenciada e documentada",
+          "Indicadores de desempenho — volumes gerados, reutilizados, reciclados e destinados por mês"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Documentação e controle"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contratos com empresas de coleta e destinação — com CNPJ, licença e responsável técnico",
+          "Notas fiscais e MTRs (Manifesto de Transporte de Resíduos) — rastreamento de cada lote",
+          "Registro de ocorrências — incidentes, alterações e ajustes no plano",
+          "Relatório semestral de gerenciamento — volumes, classificação e destinação, assinado pelo responsável técnico"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6. Plano de contingência"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O PGR também deve prever situações de emergência: o que fazer se uma empresa de destinação falhar? Como proceder se houver vazamento ou contaminação? Quais ações tomar se a fiscalização identificar irregularidade? O plano de contingência demonstra que a obra está preparada para imprevistos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapas para elaboração do PGR"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A elaboração do PGR segue um processo técnico que envolve coleta de dados, análise e documentação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Levantamento do projeto — análise do projeto arquitetônico e complementares para estimar volumes e tipos de resíduos por etapa",
+          "2. Diagnóstico do canteiro — verificação das condições físicas do terreno, espaço disponível para armazenamento e acesso para transporte",
+          "3. Classificação dos resíduos — identificação de cada tipo de resíduo conforme a NBR 10.004, com atenção especial a materiais perigosos (amianto, tintas, solventes)",
+          "4. Definição de metas — estabelecer metas realistas de redução, reúso e reciclagem com base no porte da obra e no histórico de projetos similares",
+          "5. Seleção de destinadoras — pesquisa e contratação de empresas licenciadas para coleta e destinação, com verificação de licença ambiental e capacidade operacional",
+          "6. Elaboração do documento — organização de todas as informações no formato exigido pela CONAMA 307, com assinatura do responsável técnico e ART no CREA",
+          "7. Implantação no canteiro — instalação de containers, sinalização, treinamento da equipe e início dos registros"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades do litoral catarinense no gerenciamento de resíduos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A região de Navegantes, Itajaí, Balneário Camboriú e Itapema tem particularidades que impactam diretamente a gestão de resíduos da construção civil:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Crescimento acelerado — o volume de obras na região gera demanda crescente por empresas de destinação e usinas de reciclagem, o que pode limitar a oferta em picos de construção",
+          "Solo arenoso e proximidade com o mar — o entulho com alta concentração de areia e sal tem destinação específica e não pode ser misturado com resíduos sólidos urbanos",
+          "Fiscalização ambiental rigorosa — a região do litoral norte tem fiscalização frequente de Secretaria de Meio Ambiente e Ministério Público, especialmente em obras próximas à orla, mangues e áreas de preservação",
+          "Limitação de áreas de disposição — a proximidade com o mar e as APPs restringem as opções de aterro, tornando a reciclagem e o reúso ainda mais importantes",
+          "Sazonalidade do turismo — obras na temporada precisam gerenciar resíduos com ainda mais cuidado para evitar impacto visual e ambiental na região"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns no PGR que geram problemas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitas obras elaboram o PGR apenas para cumprir a exigência legal, sem implantá-lo de verdade. Estes são os erros mais comuns que comprometem a gestão e geram riscos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "PGR genérico — documento copiado de outra obra, sem adaptação às condições específicas do canteiro e do projeto",
+          "Ausência de metas — plano sem indicadores de desempenho não permite medir eficácia nem atender aos relatórios semestrais",
+          "Separação apenas no papel — containers instalados mas sem treinamento da equipe, resultando em mistura de resíduos",
+          "Destinação sem documentação — enviar resíduos para empresas sem contrato formal, nota fiscal ou MTR",
+          "Descarte de perigosos com inertes — amianto, tintas e solventes misturados com concreto e cerâmica é infração grave",
+          "Ausência de relatórios semestrais — o relatório é obrigatório a cada seis meses; não emitir é motivo de autuação",
+          "Responsável técnico sem ART — o PGR sem ART não tem validade perante a fiscalização ambiental"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Benefícios de um PGR bem elaborado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além da conformidade legal, um PGR bem elaborado traz benefícios concretos para a obra:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Redução de custos — segregação na fonte reduz o valor cobrado pelas empresas de coleta, pois o resíduo já vem classificado",
+          "Economia de material — reaproveitamento de tijolos, madeira, areia e concreto reduz compras de material novo",
+          "Evitação de multas — multa por destinação irregular pode ultrapassar R$ 50.000 dependendo da prefeitura e do órgão ambiental",
+          "Acesso a certificações — certificações como LEED e AQUA-HQE exigem gestão documentada de resíduos",
+          "Valorização do empreendimento — obras sustentáveis têm maior aceitação no mercado e melhor imagem institucional",
+          "Facilidade de licenciamento — obras com PGR aprovado passam mais rápido pelos processos de licenciamento ambiental"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Um PGR bem feito não é custo — é investimento que reduz desperdício, evita multas e valoriza o empreendimento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre o Plano de Gerenciamento de Resíduos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra precisa de PGR? Não. A obrigação se aplica a obras com área igual ou superior a 5.000 m² ou que gerem 50 toneladas ou mais de resíduos por mês. Obras menores não são obrigadas, mas podem optar por elaborar o plano como boa prática."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem elabora o PGR? O PGR deve ser elaborado por engenheiro ou arquiteto habilitado com registro ativo no CREA/CAU e ART emitida para o serviço. O responsável técnico garante que o plano atende à legislação e às normas técnicas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O PGR precisa ser aprovado pela prefeitura? A CONAMA 307 não exige aprovação formal do PGR pela prefeitura, mas o documento deve estar disponível para fiscalização a qualquer momento. Algumas prefeituras podem exigir o plano no momento do licenciamento ambiental."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com que frequência o PGR deve ser atualizado? O plano deve ser revisado sempre que houver alteração significativa na obra (mudança de cronograma, novo tipo de resíduo, troca de destinadora) e os relatórios semestrais devem ser emitidos a cada seis meses."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que acontece se a obra não tiver PGR? A ausência de PGR em obras obrigadas é infração ambiental que gera multa, notificação e, em casos graves, embargo da obra. A fiscalização pode verificar o plano a qualquer momento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso usar o PGR de outra obra? Não. O PGR deve ser específico para cada obra, considerando suas características, localização, tipo de construção e resíduos gerados. Documento genérico não atende à legislação e não tem validade perante a fiscalização."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Plano de Gerenciamento de Resíduos com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com elaboração e implantação de Planos de Gerenciamento de Resíduos da Construção Civil. Nossa equipe connaît as particularidades da região — a proximidade com o mar, a fiscalização rigorosa, a demanda crescente por destinação sustentável — e elabora planos técnicos, completos e personalizados para cada obra."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elaboração do PGR conforme CONAMA 307 e NBR 10.004, com ART no CREA-SC",
+          "Classificação e inventário de resíduos por etapa da obra",
+          "Definição de metas de redução, reúso e reciclagem",
+          "Seleção e contratação de empresas licenciadas de coleta e destinação",
+          "Implantação de containers, sinalização e treinamento da equipe",
+          "Emissão de relatórios semestrais de gerenciamento",
+          "Acompanhamento e atualização do plano durante toda a obra",
+          "Atendimento em toda a região do litoral norte catarinense"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entre em contato com a Regê Engenharia e solicite uma avaliação técnica. Comece sua obra com o planejamento certo - e construa com tranquilidade."
+      }
+    }
+  ]
+}

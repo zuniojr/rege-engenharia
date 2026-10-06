@@ -1,0 +1,195 @@
+{
+  "slug": "projeto-hidraulico",
+  "title": "Projeto Hidráulico: O que é, o que inclui e por que sua Obra em Navegantes Precisa",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Projeto hidráulico com rede de água fria, esgoto e reservatório detalhado em planta de obra residencial no litoral de Santa Catarina.",
+  "excerpt": "O projeto hidráulico define toda a rede de água, esgoto e chuva da sua obra. Entenda o que ele inclui, por que é obrigatório, como evita infiltração e entupimento e por que no litoral de Navegantes ele exige cuidado extra.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra que pretende ter água encanada, banheiro e escoamento precisa de um desenho que decida por onde a água entra, como ela circula e para onde o esgoto vai: o projeto hidráulico. Feito no olho, ele vira infiltração no vizinho, esgoto a céu aberto, reservatório que não atende e obra embargada. Feito por engenheiro, ele é a base da casa ou do prédio que funciona sem sustos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é o projeto hidráulico, o que ele inclui, por que é obrigatório na aprovação e no AVCB, como ele evita os problemas mais caros da construção e por que, em Navegantes, o solo e o lençol freático pedem atenção redobrada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto hidráulico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto hidráulico é o conjunto de plantas, memoriais e cálculos que define as instalações prediais de água fria, esgoto sanitário e águas pluviais. Ele dimensiona diâmetros de tubulação, pressões, reservatórios, bombas e pontos de consumo, garantindo que a água chegue onde deve e que os dejetos saiam sem retorno. —0 o oposto da tubulação \"encaixada onde couber\": cada curva é calculada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o projeto hidráulico inclui"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Rede de água fria — alimentação, ramais, registros e pontos de consumo",
+          "Reserva de incêndio — cisterna e bomba de incêndio, exigidas pelo Corpo de Bombeiros (AVCB)",
+          "Reservatório de água potável — caixa dágua dimensionada conforme o consumo",
+          "Rede de esgoto sanitário — coleta, ventilação e ligação à rede pública ou fossa",
+          "Águas pluviais — captação e escoamento da chuva, com calhas e tubulação",
+          "Bombas e pressurização — recalque e equilíbrio de pressão entre pavimentos",
+          "Caixas de inspeção e acesso — pontos de manutenção da rede",
+          "Memorial de cálculo e especificação — diâmetros, materiais e vazões"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o projeto hidráulico é obrigatório"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ART do engenheiro — a Anotação de Responsabilidade Técnica é obrigatória para projetar e executar a hidráulica",
+          "Aprovação na Prefeitura — o projeto hidráulico integra o projeto legal e o alvará de construção",
+          "SAMAE de Navegantes — a autarquia de água e esgoto exige o projeto para ligação e para o correto dimensionamento da rede",
+          "Corpo de Bombeiros (CBMSC) — o AVCB exige reserva de incêndio dimensionada e acessível",
+          "Vizinhança e meio ambiente — esgoto irregular gera poluição, doença e responsabilização civil"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Benefícios de um projeto hidráulico bem feito"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sem infiltração — traçado calculado evita vazamentos nas paredes e no vizinho",
+          "Sem entupimento — diâmetros e pendentes corretas mantêm a rede livre",
+          "Economia de água — dimensão adequada reduz perdas e o uso da rede",
+          "Aprovação sem volta — projeto completo é aprovado de primeira pela Prefeitura e pelo SAMAE",
+          "Reserva para incêndio — o AVCB sai com a segurança comprovada",
+          "Manutenção fácil — caixas de inspeção e planta atualizada mostram onde intervenir"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A infiltração não escolhe parede: ela aparece meses depois da obra, no imóvel do vizinho, com cara de briga e de processo. O projeto hidráulico é o que mantém a água onde ela deve estar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto hidráulico no litoral de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e no litoral norte, o projeto hidráulico enfrenta particularidades do terreno. O solo arenoso e o lençol freático alto dificultam a escavação e a fundação de reservatórios e fossas. A proximidade do mar eleva a umidade e exige tubulações e conexões resistentes à corrosão. E a chuva forte de verão sobrecarrega a rede pluvial, exigindo dimensionamento generoso para não alagar o lote. O engenheiro local conhece essas variáveis e projeta para elas."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lençol freático alto — reservatórios e fossas precisam de fundação e vedação adequadas",
+          "Solo arenoso — escoramento e assentamento das tubulações exigem cuidado",
+          "Maresia e umidade — tubos e conexões com proteção anticorrosiva",
+          "Pluvial de verão — calhas e tubulação dimensionadas para o pico de chuva"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O projeto hidráulico precisa de ART?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A ART do engenheiro civil é obrigatória para a elaboração e a execução do projeto hidráulico. Sem ART, a Prefeitura não aprova o alvará e o SAMAE não libera a ligação de água e esgoto."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual a diferença entre projeto hidráulico residencial e comercial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A residência tem redes menores e um único reservatório. Comércio, indústria e prédio somam maior consumo, reserva de incêndio obrigatória, rede pluvial de grande vazão e, muitas vezes, bombas de recalque e estações de tratamento. A complexidade cresce, mas a lógica de cálculo é a mesma."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O projeto hidráulico evita infiltração?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Evita na origem. Infiltrações costumam nascer de tubulação mal dimensionada, sem pressurização correta ou sem caixa de inspeção. O projeto calculado e executado com ART é a principal defesa contra esse problema caro e litigioso."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa um projeto hidráulico?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor varia com a área construída, o número de pavimentos e a complexidade da rede. Residências têm projeto acessível; comércio e indústria demandam reserva de incêndio e redes maiores. Em qualquer escala, o projeto custa muito menos do que consertar uma infiltração ou refazer uma rede enterrada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto hidráulico é o desenho que mantém a água no lugar certo e o esgoto longe de onde não deve estar. Ele integra a aprovação na Prefeitura, a ligação no SAMAE e o AVCB dos bombeiros — e, em Navegantes, ainda protege a obra contra lençol freático, solo arenoso e maresia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou regularizar em Navegantes e no litoral norte catarinense, fale com a equipe técnica da Regê Engenharia. Elaboramos o projeto hidráulico completo — com ART, integração ao projeto legal, ao SAMAE e ao Corpo de Bombeiros — para que sua obra tenha água, esgoto e segurança do jeito certo, sem infiltração e sem surpresa."
+      }
+    }
+  ]
+}

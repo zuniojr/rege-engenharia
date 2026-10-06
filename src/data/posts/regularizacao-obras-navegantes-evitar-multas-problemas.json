@@ -1,0 +1,282 @@
+{
+  "slug": "regularizacao-obras-navegantes-evitar-multas-problemas",
+  "title": "Regularização de Obras em Navegantes: Evite Multas e Problemas",
+  "tag": "REGULARIZAÇÃO",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Engenheiro civil regularizando obra em Navegantes SC — aprovação de projeto, alvará, habite-se e averbação na prefeitura.",
+  "excerpt": "Obra sem alvará, ampliação não averbada, imóvel irregular: multas, embargo e impedimento de financiamento. Entenda o passo a passo para regularizar sua construção em Navegantes, os riscos de não regularizar e como a Regê Engenharia resolve de ponta a ponta.",
+  "readTime": "9 min de leitura",
+  "featured": true,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você construiu, ampliou ou reformou em Navegantes — mas a documentação não acompanhou a obra. Seja por falta de tempo, desconhecimento ou tentativa de economizar, a situação é a mesma: o imóvel está irregular. E isso custa caro. Multas diárias, embargo da obra, impossibilidade de financiar, vender ou inventariar, risco de demolição parcial. No litoral catarinense, onde a fiscalização municipal e do CREA-SC se intensificou nos últimos anos, a regularização deixou de ser \"burocracia\" para ser proteção patrimonial."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica tudo o que você precisa saber para regularizar sua obra em Navegantes: quais situações exigem regularização, o passo a passo do processo, os custos envolvidos, os riscos de manter a irregularidade e como a engenharia técnica resolve o problema na raiz — não apenas no papel."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é considerado obra irregular em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Pela legislação municipal (Código de Obras, Plano Diretor e Lei de Uso e Ocupação do Solo) e pela legislação federal (Lei 6.496/77 — ART), são irregulares as situações em que:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construção nova sem alvará de aprovação e execução — qualquer edificação iniciada sem projeto aprovado na Prefeitura.",
+          "Ampliação ou reforma estrutural sem alvará de ampliação — acréscimo de área, mudança de uso, alteração de fachada, adição de pavimento, abertura de vãos estruturais.",
+          "Obra com projeto aprovado mas executada em desacordo — recuos diferentes, altura acima do gabarito, taxa de ocupação excedida, materiais diferentes do especificado.",
+          "Obra concluída sem Habite-se — a certificação de conclusão conforme o projeto aprovado não foi emitida.",
+          "Área construída não averbada na matrícula do imóvel — a metragem real não consta no Cartório de Registro de Imóveis.",
+          "Ausência de ART (Anotação de Responsabilidade Técnica) — nenhum engenheiro ou arquiteto assumiu a responsabilidade técnica pela obra.",
+          "Uso diverso do licenciado — residência usada como comércio, galpão usado como moradia, etc."
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A irregularidade não some com o tempo — ela acumula juros, multas e riscos jurídicos. Quanto antes regularizar, menor o custo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os riscos reais de manter a obra irregular"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitos proprietários acham que \"ninguém vai saber\" ou \"depois a gente resolve\". Na prática, os riscos são concretos e caros:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Multas municipais — em Navegantes, a multa por obra sem alvará varia de 10 a 100 UFM (Unidade Fiscal Municipal) por infração, podendo ser aplicada diariamente enquanto persistir a irregularidade. Em 2025, 1 UFM —0— R$ 4,50 — \u0019 multa de R$ 45 a R$ 450/dia.",
+          "Embargo da obra — a fiscalização pode determinar a paralisação imediata. Obra parada custa juros de financiamento, aluguel, equipe ociosa e deterioração de materiais.",
+          "Demolição parcial ou total — em casos graves (ocupação de área pública, APP, faixa de marinha, desrespeito a recuos inegociáveis), a Prefeitura pode determinar a demolição.",
+          "Impedimento de financiamento bancário — Caixa, Banco do Brasil, Bradesco, Itaú e demais bancos exigem Habite-se e averbação para liberar crédito imobiliário. Sem regularização, o imóvel só vende à vista — e por valor muito abaixo do mercado.",
+          "Impedimento de venda e inventário — escritura pública exige regularidade. Inventário travado, partilha atrasada, herdeiros prejudicados.",
+          "Problemas com seguro — seguradoras não cobrem sinistros em edificações irregulares. Incêndio, desabamento, raio: o prejuízo é 100% do proprietário.",
+          "Responsabilidade civil e criminal — se a irregularidade causar dano a terceiros (desabamento, infiltração no vizinho, queda de muro), o proprietário responde civil e criminalmente, sem a proteção da ART.",
+          "Valorização perdida — imóvel irregular vale 20% a 40% menos que o mesmo imóvel regularizado. A regularização costuma se pagar só na valorização."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O passo a passo da regularização em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo varia conforme o tipo de irregularidade, mas o roteiro técnico padrão é:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Vistoria técnica e diagnóstico — engenheiro visita o imóvel, mede, fotografa, identifica todas as não-conformidades (projeto x executado, recuos, altura, área, instalações, estrutura).",
+          "2. Levantamento planialtimétrico e arquitetônico — planta do estado atual (as-built) com todas as medidas, cotas, recuos, áreas por pavimento, uso de cada ambiente.",
+          "3. Estudo de viabilidade urbanística — verificação se a edificação atual pode ser regularizada conforme o zoneamento (taxa de ocupação, coeficiente, recuos, gabarito, área permeável). Se houver excesso, avalia-se pedido de outorga onerosa ou regularização com mitigações.",
+          "4. Projetos de adequação (se necessário) — se a obra executada difere do aprovado ou não há projeto, elaboram-se os projetos de regularização: arquitetônico, estrutural (se houver alteração), elétrico, hidrossanitário, impermeabilização, incêndio (se exigido).",
+          "5. Emissão de ARTs — uma ART para cada especialidade de projeto e uma ART para a execução/acompanhamento (se houver obra complementar).",
+          "6. Protocolo na Prefeitura — entrada do processo de regularização (ou aprovação de projeto de ampliação/regularização) com: requerimento, projetos, ARTs, comprovantes de propriedade, certidões negativas, pagamento de taxas (ISS, análise de projeto, taxa de licenciamento).",
+          "7. Análise municipal e exigências — a Prefeitura analisa. Se houver exigências (ajustes de recuo, área permeável, acessibilidade, estética), o engenheiro responde tecnicamente.",
+          "8. Emissão do Alvará de Regularização / Alvará de Ampliação — autorização para a situação regularizada.",
+          "9. Execução de adequações (se houver) — pequenas obras de correção (recuo, rampa de acessibilidade, impermeabilização, pintura de fachada) com acompanhamento técnico.",
+          "10. Vistoria final e Habite-se — Prefeitura vistoria, constata conformidade e emite o Habite-se (certificado de conclusão).",
+          "11. Averbação no Cartório de Registro de Imóveis — com o Habite-se em mãos, o proprietário (ou procurador) averba a construção/ampliação na matrícula. A partir daí, o imóvel está 100% regular."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa regularizar uma obra em Navegantes (referência 2025)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os custos se dividem em honorários técnicos, taxas municipais e eventuais obras de adequação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Honorários de engenharia (projetos + ARTs + acompanhamento do processo): R$ 5.000 a R$ 20.000, dependendo da área, complexidade e número de especialidades.",
+          "Taxas municipais (análise de projeto, ISS, taxa de licenciamento, outorga onerosa se aplicável): R$ 1.000 a R$ 10.000+, variando conforme área e zona.",
+          "Cartório (averbação): R$ 500 a R$ 2.000 (emolumentos + ITBI se houver acréscimo de área não tributada).",
+          "Obras de adequação (se exigidas): orçamento específico — rampas, ajustes de recuo, impermeabilização, pintura, acessibilidade.",
+          "Multas atrasadas (se já autuado): valor da multa + juros + correção. A regularização costuma permitir parcelamento ou redução em programas municipais."
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regularizar custa uma fração do valor que o imóvel perde por estar irregular. E elimina o risco de multa diária, embargo e demolição."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Casos especiais no litoral catarinense"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes, Itajaí, Balneário Camboriú e Itapema têm particularidades que exigem atenção redobrada:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Área de orla e faixa de marinha (SPU) — imóveis a menos de 33 metros da linha da maré média alta dependem de anuência da Secretaria do Patrimônio da União. Regularização exige processo federal paralelo.",
+          "APP (Área de Preservação Permanente) — margens de rios, restingas, mangues, dunas. Regularização em APP é extremamente restrita; muitas vezes só é possível com compensação ambiental e anuência do IMA/SC.",
+          "Zoneamento especial (ZOT, ZEIS, ZC) — bairros com regras próprias de recuo, gabarito, taxa de ocupação. O engenheiro deve conhecer o zoneamento exato do lote.",
+          "Condomínios e loteamentos fechados — além da Prefeitura, a regularização pode exigir anuência do condomínio e adequação ao regulamento interno.",
+          "Obras antigas (antes do Código de Obras vigente) — podem ser regularizadas pelo \"direito adquirido\" ou \"consolidação\", mas exigem laudo técnico comprovando a data da construção e segurança estrutural."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Programas de regularização e anistia em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Periodicamente, o município lança programas de regularização fundiária (REURB) ou anistia de obras com redução de multas e taxas. Em 2024/2025, Navegantes manteve abertos canais de regularização simplificada para:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Imóveis residenciais unifamiliares até 300 m² — processo simplificado, isenção de outorga onerosa em muitos casos.",
+          "Regularização de ampliações internas (sem alteração de fachada) — apenas projeto as-built e ART.",
+          "Parcelamento de multas em até 24 vezes com redução de juros."
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro acompanha esses programas e orienta o melhor momento para protocolar, maximizando os benefícios."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como escolher o engenheiro para regularizar sua obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro ativo no CREA-SC — confirme no site. Sem registro, a ART é inválida.",
+          "Experiência em regularização em Navegantes — peça casos resolvidos, endereços, tempo médio de aprovação.",
+          "Conhecimento do fluxo da Prefeitura — sabe quais setores analisam, quais exigências são recorrentes, como responder tecnicamente.",
+          "Equipe multidisciplinar — se a regularização exigir projeto estrutural, elétrico, hidráulico, incêndio, o mesmo escritório resolve tudo.",
+          "Transparência no orçamento — discriminado por etapa (vistoria, projetos, ARTs, acompanhamento, taxas estimadas), sem surpresas.",
+          "Acompanhamento até a averbação — não entrega só o projeto e some. Acompanha protocolo, exigências, Habite-se e averbação no cartório."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre regularização em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva para regularizar uma obra em Navegantes? Processo simples (residencial até 300 m², sem pendências ambientais): 60 a 120 dias. Processos complexos (área de orla, APP, outorga onerosa, obras de adequação): 6 a 12 meses."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso regularizar uma obra que já foi embargada? Sim. O embargo não impede a regularização — ao contrário, a regularização é o caminho para levantar o embargo. O engenheiro protocola a regularização e pede a suspensão do embargo ao mesmo tempo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "E se a obra invadir recuo obrigatório? Se for recuo lateral ou de fundos, pode ser regularizado com outorga onerosa (pagamento pelo uso do solo público) ou mitigação (área permeável compensatória). Se for recuo frontal ou área de APP/faixa de marinha, a regularização é muito restrita — o engenheiro avalia a viabilidade antes de gastar com projetos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A regularização anula multas já aplicadas? Não automaticamente. Mas a regularização permite pedir a revisão/cancelamento de multas futuras e, em programas de anistia, a redução ou parcelamento das multas existentes."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso morar no imóvel durante a regularização? Não. O processo é documental e técnico. Se houver obras de adequação, o engenheiro gerencia a execução."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Regularize sua obra com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia resolve a regularização de ponta a ponta em Navegantes e litoral norte catarinense:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria técnica completa e diagnóstico de todas as não-conformidades.",
+          "Levantamento as-built e estudo de viabilidade urbanística.",
+          "Projetos de adequação (arquitetônico, estrutural, complementares) com ARTs.",
+          "Protocolo e acompanhamento do processo na Prefeitura — resposta a exigências, emissão de alvará e Habite-se.",
+          "Gestão de obras de adequação (se necessárias) com controle de qualidade.",
+          "Acompanhamento até a averbação no Cartório de Registro de Imóveis.",
+          "Aproveitamento de programas de anistia e regularização simplificada quando disponíveis."
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não deixe a irregularidade virar problema judicial, multa diária ou impedimento de venda. Se sua obra em Navegantes, Itajaí, Balneário Camboriú, Itapema ou região está sem alvará, sem Habite-se ou sem averbação, entre em contato com a equipe da Regê Engenharia. Solicite uma vistoria técnica gratuita e receba o plano de regularização personalizado — com custos, prazos e etapas definidos. Sua tranquilidade jurídica e a valorização do seu imóvel começam com a regularização bem feita."
+      }
+    }
+  ]
+}

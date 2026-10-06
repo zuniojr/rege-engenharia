@@ -1,0 +1,308 @@
+{
+  "slug": "o-que-e-pericia-de-engenharia",
+  "title": "O Que é Perícia de Engenharia? Definição, Tipos e Como Funciona",
+  "tag": "PERÍCIA",
+  "image": "/images/analise-estrutura.png",
+  "imageAlt": "Engenheiro civil realizando perícia de engenharia em imóvel com equipamentos de medição, câmera fotográfica e documentação técnica.",
+  "excerpt": "A perícia de engenharia é o serviço técnico-jurídico que comprova fatos técnicos perante a Justiça. Entenda a diferença entre perícia e laudo, quando é obrigatória, os tipos mais comuns e como escolher o perito certo para sua situação.",
+  "readTime": "8 min de leitura",
+  "featured": true,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você está em uma disputa judicial por defeitos construtivos. O juiz determinou uma perícia. O que isso significa? Qual é a diferença entre perícia e laudo técnico? E por que é tão importante ter um engenheiro especializado na sua perícia? Seja em Navegantes, em outra cidade do litoral de Santa Catarina ou em qualquer região do Brasil, a perícia de engenharia é um dos instrumentos mais poderosos para comprovar fatos técnicos em situações jurídicas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste artigo, explicamos o que é uma perícia de engenharia, os tipos mais comuns, como funciona o processo e por que confiar em um engenheiro habilitado é essencial para qualquer situação que exija prova técnica."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A perícia de engenharia não muda o passado — ela revela a verdade do que aconteceu. E, na dúvida entre o que uma parte diz e o que a estrutura comprova, a estrutura sempre vence."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é perícia de engenharia?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia de engenharia é um serviço técnico-jurídico realizado por um engenheiro civil habilitado, com o objetivo de analisar, investigar e comprovar fatos técnicos relacionados a edificações, estruturas, obras ou sistemas, com valor probatório perante a Justiça ou outros órgãos jurisdicionais."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Diferente do laudo técnico — que tem foco no diagnóstico —, a perícia é mais ampla: inclui análise de responsabilidades, investigação de causas, e comparação entre versões opostas de fatos. O laudo pericial é a prova mais forte que pode ser apresentada em um processo judicial."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Imparcialidade técnica — o perito deve ser neutro, mesmo sendo contratado por uma das partes",
+          "Método científico — baseia-se em normas técnicas (ABNT), ensaios e fundamentação técnica",
+          "Valor probatório — o laudo pericial tem peso na Justiça, pode decidir um processo",
+          "ART obrigatória — deve ter ART registrada no CREA e seguro de responsabilidade civil",
+          "Cobertura técnica — o perito deve ter especialização na área investigada",
+          "Prazo definido — segue o calendário judicial, nem sempre é rápido"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na perícia, a verdade técnica pesa mais que a versão de qualquer parte. —0 por isso que a escolha do perito é tão crucial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tipos de perícia de engenharia"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perícia civil"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve — investigar responsabilidades civis por danos a edificações, estruturas ou sistemas",
+          "Situações comuns — defeitos construtivos, dano estrutural a edifícios vizinhos, responsabilidade por deslizamentos",
+          "Exemplo no litoral — infiltração em apartamento em Navegantes, investigando se foi erro do projetista, da construtora ou da administração do condomínio"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perícia judicial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve — executada quando determinada por um juiz em um processo judicial",
+          "Características — o perito é escolhido da lista do INPI ou por indicação conjunta",
+          "Prazo legal — definido no CPC, art. 465",
+          "Participação das partes — ambas podem comparecer à vistoria"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perícia pericial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve — realizada por uma das partes para comprovar sua versão dos fatos",
+          "Características — é contratada por um advogado ou parte direta",
+          "Pode ser rebatida — uma perícia pericial pode ser contestada por perícia judicial",
+          "Custo — de R$ 2.000 a R$ 6.000, pago pela parte contratante"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perícia de obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve — investigar irregularidades, execução ou responsabilidades em uma construção",
+          "Situações — obra sem projeto, execução divergente do licenciado, embargo municipal",
+          "Exemplo — reforma em Navegantes sem alvará, verificando se a estrutura foi alterada de forma segura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perícia de seguro"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para que serve — investigar sinistros em imóveis para definição de cobertura seguranal",
+          "Situações — danos por temporais, incêndios, atividade de terceiros",
+          "Quem paga — a seguradora paga a perícia, não o segurado"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A perícia de seguro é uma das mais práticas: o perito investiga o sinistro e recomenda se a seguradora paga ou não. O laudo é rápido, focado e objetivo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando é necessária uma perícia de engenharia?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Defeitos construtivos em imóvel novo — Código Civil (art. 927, § 1º)",
+          "—x\u001d— Dano estrutural a edifício vizinho — Código Civil (art. 186)",
+          "—x\u001d— Sinistro de seguro de prédio — Código de Defesa do Consumidor",
+          "—x\u001d— Embargo ou autuação municipal — Lei municipal de obras",
+          "—x\u001d— Processo judicial de cobrança — CPC, art. 335",
+          "—x\u001d— Responsabilidade de profissional — Lei 6.496/1977 + CREA"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A perícia não é só para quem tem um processo judicial. Muitas disputas são resolvidas antes mesmo de chegar à Justiça quando a perícia comprova a verdade técnica."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é realizada uma perícia de engenharia?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Nomeação do perito — juiz, advogado ou parte contrata o engenheiro",
+          "2. Intimação e comparecimento — as partes e o perito comparecem ao local",
+          "3. Vistoria in loco — o perito inspeciona, fotografa e toma medições",
+          "4. Elaboração do laudo pericial — com sumário, metodologia, análise e conclusões",
+          "5. Réplica e contrarrazão — o perito responde às observações das partes"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo de perícia é mais complexo e burocrático do que um laudo técnico. Envolve etapas formais, com prazos legais e participação de ambas as partes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem pode ser um perito de engenharia?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Registro no CREA ativo e com histórico positivo",
+          "—x\u001d— Especialização na área investigada (estruturas, patologias, instalações)",
+          "—x\u001d— Experiência em perícias (histórico de laudos periciais)",
+          "—x\u001d— Seguro de responsabilidade civil",
+          "—S& Conhecimento jurídico-técnico (normas, CPC, responsabilidade civil)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Ser perito não é só ter um diploma. —0 ter experiência para lidar com pressão judicial, argumentos contrários e a necessidade de ser preciso — e imparcial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos de uma perícia de engenharia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Perícia civil (defeitos construtivos) — R$ 3.000 a R$ 8.000",
+          "—x\u001d— Perícia judicial (nomeada por juiz) — custo pode ser ressarcido se houver condena",
+          "—x\u001d— Perícia pericial (contratada por parte) — R$ 2.000 a R$ 6.000",
+          "—x\u001d— Perícia de obra (municipal) — R$ 1.500 a R$ 4.000",
+          "—x\u001d— Perícia de seguro — paga a seguradora",
+          "—a—️ Perícia de responsabilidade técnica — R$ 4.000 a R$ 12.000"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O investimento em uma perícia bem feita pode render uma condenação judicial de dezenas ou centenas de milhares de reais. —0 um dos raros casos em que o custo do serviço é uma fração do valor em disputa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como escolher o perito certo?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— CREA-SC ativo — sem restrições no conselho",
+          "—x\u001d— Especialização na área — não contrate um perito geral para um problema específico",
+          "—x\u001d— Histórico de perícias — quantos laudos foram aceitos no judiciário?",
+          "—x\u001d— Seguro de responsabilidade civil — documento obrigatório",
+          "—xx— Neutre ou independente — evite peritos ligados à parte contrária",
+          "—S& Reputação no judiciário — consulte advogados que já o utilizaram"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia de engenharia é muito mais do que um serviço técnico — é um instrumento de justiça. Enquanto o laudo técnico diagnostica, a perícia prova, compara e decide. Seja para comprovar defeitos construtivos, investigar danos estruturais, ou definir responsabilidades em uma obra irregular, a perícia transforma o que parece subjetivo em evidência técnica com valor jurídico."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em uma cidade como Navegantes, onde o litoral exige atenção especial à maresia, ao solo e à legislação, confiar em um engenheiro com experiência em perícia não é luxo: é estratégia. Porque na dúvida entre o que uma parte diz e o que a estrutura comprova, a estrutura sempre vence."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na Regê Engenharia, cada perícia é feita com o olhar de quem entende do litoral e da Justiça. Porque no fim das contas, a verdade técnica é a única que dura."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você precisa de uma perícia de engenharia para seu imóvel, obra ou disputa, a equipe da Regê Engenharia está pronta para atender sua necessidade com rigor técnico, imparcialidade e conhecimento jurídico. Fale com a nossa equipe técnica: https://bitlybr.net/rege"
+      }
+    }
+  ]
+}

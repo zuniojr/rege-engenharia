@@ -1,0 +1,578 @@
+{
+  "slug": "engenharia-sao-domingos-navegantes-projetos-qualidade",
+  "title": "Engenharia São Domingos Navegantes: Projetos de Qualidade que Valorizam seu Imóvel",
+  "tag": "CUSTOS",
+  "image": "/images/engenheiro-economiza-dinheiro.png",
+  "imageAlt": "Engenharia São Domingos Navegantes: Projetos de Qualidade que Valorizam seu Imóvel - artigo técnico da Regê Engenharia sobre custos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "São Domingos deixou de ser o \"bairro periférico\" de Navegantes para se tornar um dos endereços que mais crescem no litoral norte de Santa Catarina.",
+  "readTime": "7 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Introdução"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "São Domingos deixou de ser o \"bairro periférico\" de Navegantes para se tornar um dos endereços que mais crescem no litoral norte de Santa Catarina. Com acesso direto à BR-101, proximidade estratégica com a área industrial e comercial da cidade e um mercado imobiliário em plena valorização — o metro quadrado médio gira entre R$ 7.000 e R$ 12.000 —, o bairro atrai famílias, investidores e empresários que querem construir, reformar ou ampliar com segurança."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mas crescer rápido em uma cidade litorânea exige mais do que pressa: exige **engenharia de qualidade**. E é exatamente isso que separa um imóvel que valoriza de um que vira problema — projeto executivo completo, sondagem correta, especificação adequada à maresia e aprovação na Prefeitura de Navegantes."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Um projeto de engenharia bem feito não é custo — é o atalho mais barato para a valorização do imóvel.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo mostra o que é um projeto de engenharia de qualidade em São Domingos, Navegantes: o que ele inclui, quais normas técnicas se aplicam ao bairro, por que a qualidade do projeto protege seu patrimônio e como escolher o profissional certo para o seu caso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que São Domingos é uma das frentes de crescimento de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O bairro se consolidou como uma das regiões mais promissoras da cidade por uma combinação de fatores:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fator",
+          "Impacto no bairro"
+        ],
+        "rows": [
+          [
+            "Acesso à BR-101",
+            "Conexão rápida com Itajaí, Balneário Camboriú e o restante do Vale do Itajaí"
+          ],
+          [
+            "Proximidade da área industrial",
+            "Demanda constante por galpões, ampliações e regularizações"
+          ],
+          [
+            "Novos loteamentos residenciais",
+            "Oferta de terrenos a preço menor que bairros da orla"
+          ],
+          [
+            "Valorização imobiliária (12-15% ao ano)",
+            "Um dos bairros com maior potencial de valorização do município"
+          ],
+          [
+            "Infraestrutura em desenvolvimento",
+            "Saneamento, pavimentação e iluminação em melhoria contínua"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para quem constrói em São Domingos, a vantagem é clara: **o custo do m² construído é menor que na orla, mas a valorização acompanha a tendência da cidade**. Isso só funciona, no entanto, quando o projeto e a execução seguem as normas técnicas — um imóvel mal construído perde exatamente o que se esperava ganhar."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"São Domingos cresce no papel e no concreto — mas só quem projeta e executa com qualidade transforma esse crescimento em patrimônio.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é um projeto de engenharia de qualidade?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto de qualidade não é apenas uma planta bonita — é um **conjunto de disciplinas técnicas** que garante segurança, legalidade e durabilidade:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Disciplina",
+          "O que define",
+          "Norma de referência"
+        ],
+        "rows": [
+          [
+            "Arquitetônico",
+            "Desenho, aprovação visual e planta da edificação",
+            "Código de Obras (LC 416/2023)"
+          ],
+          [
+            "Estrutural",
+            "Pilares, vigas e fundação dimensionados",
+            "NBR 6118"
+          ],
+          [
+            "Fundações",
+            "Estudo do solo e solução de fundação",
+            "NBR 6122 / Sondagem"
+          ],
+          [
+            "Elétrico",
+            "Circuitos, carga e segurança de instalações",
+            "NBR 5410"
+          ],
+          [
+            "Hidráulica",
+            "Água fria/quente, esgoto e águas pluviais",
+            "NBR 5626 / NBR 8160"
+          ],
+          [
+            "Acessibilidade",
+            "Rampas, barras e ajustes para todas as pessoas",
+            "NBR 9050"
+          ],
+          [
+            "Combate a incêndio",
+            "Prevenção conforme uso e ocupação",
+            "Corpo de Bombeiros (AVCB)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A diferença entre \"projeto\" e \"projeto de qualidade\""
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "Projeto básico",
+          "Projeto de qualidade"
+        ],
+        "rows": [
+          [
+            "Sondagem do solo",
+            "Raramente feita",
+            "Obrigatória antes do estrutural"
+          ],
+          [
+            "Normas técnicas",
+            "Aplicadas parcialmente",
+            "Todas as NBRs relevantes"
+          ],
+          [
+            "Compatibilização",
+            "Disciplinas separadas",
+            "Elétrica, hidráulica e estrutural integrados"
+          ],
+          [
+            "Documentação",
+            "Planta simplificada",
+            "Projeto completo + memorial + ART"
+          ],
+          [
+            "Aprovação",
+            "Pode voltar da prefeitura",
+            "Aprovado de primeira"
+          ],
+          [
+            "Risco de surpresa na obra",
+            "Alto",
+            "Muito baixo"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Projeto 'artesanal' é aquele que parece barato no começo e custa caro na obra. Projeto de qualidade é o que evita o retrabalho antes dele existir.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As particularidades técnicas de construir em São Domingos"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O solo do bairro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "São Domingos tem variações importantes no solo:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Solo misto, com presença de argila — exige estudo de fundação para evitar assentamento diferencial",
+          "Lençol freático relativamente alto em algumas áreas — exige drenagem e impermeabilização corretas",
+          "Terrenos elevados com boa capacidade de suporte — em outros pontos, a fundação é mais simples"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Consequência prática:** não dá para reaproveitar a mesma fundação de um projeto de outro terreno. A sondagem define o custo real e a segurança real."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Na engenharia, quem ignora a sondagem do solo constrói sobre uma suposição — e o retrabalho chega quando já é tarde.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A maresia do litoral norte"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mesmo a alguns quilômetros da orla, a maresia chega a São Domingos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Corrosão acelerada de armaduras e esquadrias",
+          "Necessidade de cobrimento maior (40-60 mm) e concreto com proteção",
+          "Impermeabilização reforçada em áreas úmidas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para o engenheiro local, orientar a especificação de materiais \"à prova de litoral\" é o que garante uma obra que dura 50 anos — e não 10."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que investir em projeto de qualidade vale a pena em São Domingos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O investimento em projeto costuma representar **3% a 5% do custo total da obra** — mas impacta diretamente o resultado:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Aspecto",
+          "Sem projeto de qualidade",
+          "Com projeto de qualidade"
+        ],
+        "rows": [
+          [
+            "Obra parada por licença",
+            "Alto risco de multa e embargo",
+            "Licenças aprovadas primeiro"
+          ],
+          [
+            "Retrabalho na obra",
+            "Frequente (elétrica/hidráulica conflitantes)",
+            "Combinado antes de executar"
+          ],
+          [
+            "Valorização do imóvel",
+            "Menor (irregularidades)",
+            "Maior (documentação correta)"
+          ],
+          [
+            "Venda / financiamento",
+            "Difícil sem habite-se",
+            "Tranquilo"
+          ],
+          [
+            "Manutenção",
+            "Alta (patologias)",
+            "Baixa (projeto correto)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"O cliente que economiza 2% no projeto paga 20% de retrabalho na obra. A conta nunca fecha a favor do atalho.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como escolher um engenheiro para projetos em São Domingos"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Critérios objetivos"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Registro ativo no CREA-SC — o primeiro filtro. Sem ART válida não existe projeto legal.",
+          "Experiência em Navegantes — conhecer a Prefeitura, o Código de Obras (LC 416/2023) e os trâmites locais reduz o tempo de aprovação.",
+          "Portfólio de projetos na região — peça projetos de obras residenciais, comerciais ou industriais já aprovados.",
+          "Referências de clientes — converse com quem já construiu com o profissional.",
+          "Escritório de qualidade — o projeto de engenharia é um processo que envolve equipe e análise."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Perguntas que valem a pena fazer"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quantos projetos você já fez em São Domingos e região?",
+          "O projeto inclui sondagem e estudo de fundação?",
+          "Quais normas técnicas estão contempladas?",
+          "Há acompanhamento da obra durante a execução?",
+          "Qual o prazo médio de aprovação na Prefeitura de Navegantes?"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Uma boa contratação de engenharia não se resolve no telefone — resolve-se nas perguntas certas e nas respostas documentadas.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projetos típicos em São Domingos e como é um projeto de qualidade"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto residencial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Do sobrado à casa térrea:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento topográfico do terreno",
+          "Projeto arquitetônico + estrutural + fundações + instalações",
+          "Sondagem (quando necessária)",
+          "Memorial descritivo e lista de acabamentos",
+          "Protocolo, aprovação e alvará na Prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto comercial / industrial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionamento estrutural para sobrecarga de uso (galpões, depósitos)",
+          "Projeto de incêndio e AVCB junto ao Corpo de Bombeiros",
+          "Licenciamento ambiental quando exigido pelo IMA/SC",
+          "Instalações elétricas em média tensão (quando aplicável)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Regularização de obras"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitos imóveis foram construídos sem aprovação. O projeto de regularização resgata a legalidade do imóvel: as-built, ART, protocolo e habite-se."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos de referência para projetos em São Domingos"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de projeto",
+          "Custo de referência (2026)"
+        ],
+        "rows": [
+          [
+            "Projeto arquitetônico (residencial)",
+            "R$ 60 a R$ 120 por m²"
+          ],
+          [
+            "Projeto estrutural",
+            "R$ 15 a R$ 35 por m²"
+          ],
+          [
+            "Projeto elétrico + hidráulico",
+            "R$ 10 a R$ 20 por m²"
+          ],
+          [
+            "Projeto completo (obra residencial)",
+            "R$ 100 a R$ 250 por m²"
+          ],
+          [
+            "Projeto industrial + licenciamento",
+            "Sob consulta (escopo específico)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O investimento é bem menor que o impacto do retrabalho, do embargo ou da desvalorização de um imóvel irregular."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que não economizar no projeto em São Domingos (Perguntas frequentes)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Posso construir em São Domingos sem engenheiro?** Não é recomendado. Além da ilegalidade, a obra envolve riscos de qualidade crítica. Em um bairro em crescimento, com solo misto litorâneo, o erro de projeto é o erro mais caro que existe."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Qual a diferença entre arquiteto e engenheiro?** Desde que qualificado, o arquiteto cuida da arquitetura e o engenheiro civil responde pelo estrutural e instalações. O ideal é projeto completo: arquitetura + as disciplinas de engenharia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Quanto tempo leva um projeto em Navegantes?** O projeto em si costuma levar de 15 a 45 dias; a aprovação na Prefeitura, mais 20 a 40 dias conforme a complexidade. Projeto completo + aprovado pode levar de 2 a 4 meses no total."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Preciso da sondagem do terreno?** Depende do porte. Em construções acima de dois pavimentos, e sempre que o solo for variável ou próximo do lençol freático, sim. O engenheiro decide tecnicamente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O que acontece se eu construir sem projeto aprovado?** Multa, embargo, e, no momento da venda, o imóvel pode valer menos e nem ser financiado. A regularização depois é sempre mais cara que o projeto antecipado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão: qualidade de projeto é o que valoriza São Domingos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "São Domingos está no centro da valorização de Navegantes — mas valorização imobiliária não é automática: ela depende de imóveis sendo construídos direito. O projeto de engenharia de qualidade é a ponte entre o terreno no papel e o patrimônio real: transforma terreno em casa, projeto em obra aprovada, documento em legalidade, e obra em valor."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para quem pensa em construir, reformar ou instalar-se em São Domingos, a Regê Engenharia oferece o processo completo: levantamento, sondagem, projeto executivo (arquitetônico, estrutural, instalações), aprovação na Prefeitura de Navegantes, ART no CREA-SC e acompanhamento da execução. Do terreno à chave — com a qualidade que o bairro que mais cresce em Navegantes merece."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Crescer rápido é uma oportunidade; crescer bem é uma decisão técnica. Em São Domingos, projeto de qualidade é o nome da decisão.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com a nossa equipe de engenharia:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** São Domingos, Navegantes e todo o litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Legais e Técnicas"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Lei Complementar nº 416/2023 — Código de Obras do Município de Navegantes",
+          "Lei Complementar nº 414/2023 — Código Urbanístico do Município de Navegantes",
+          "NBR 6118 — Projeto de estruturas de concreto armado",
+          "NBR 6122 — Projeto e execução de fundações",
+          "NBR 5410 — Instalações elétricas de baixa tensão",
+          "NBR 5626 — Instalação predial de água fria",
+          "NBR 8160 — Sistemas prediais de esgoto sanitário",
+          "NBR 9050 — Acessibilidade",
+          "Resolução CONFEA nº 1.025/2009 — Anotação de Responsabilidade Técnica (ART)",
+          "Corpo de Bombeiros de SC — AVCB (Auto de Vistoria do Corpo de Bombeiros)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-03 -->"
+      }
+    }
+  ]
+}

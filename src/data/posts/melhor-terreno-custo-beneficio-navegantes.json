@@ -1,0 +1,973 @@
+{
+  "slug": "melhor-terreno-custo-beneficio-navegantes",
+  "title": "Como Escolher o Melhor Terreno Custo-Benefício em Navegantes: Dicas de Engenharia",
+  "tag": "CUSTOS",
+  "image": "/images/Custo Médio de Construção.png",
+  "imageAlt": "Como Escolher o Melhor Terreno Custo-Benefício em Navegantes: Dicas de Engenharia - artigo técnico da Regê Engenharia sobre custos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Navegantes, um dos municípios mais dinâmicos de Santa Catarina, tem experimentado um rápido crescimento imobiliário e de infraestrutura nos últimos anos.",
+  "readTime": "6 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Introdução"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Navegantes, um dos municípios mais dinâmicos de Santa Catarina, tem experimentado um rápido crescimento imobiliário e de infraestrutura nos últimos anos. Com a expansão de verticais residenciais, centros comerciais, parques tecnológicos e projetos de desenvolvimento urbano, a escolha do terreno certo tornou-se um fator crítico de sucesso para qualquer empreendimento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo fornece um guia completo para engenheiros, arquitetos, incorporadores e investidores que buscam selecionar o terreno mais custo-benefício em Navegantes, equilibrando considerações técnicas, financeiras e de mercado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Panorama Imobiliário de Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Mercados Atuais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Segmentos Principais:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Residencial: Torres verticais de médio e alto padrão",
+          "Comercial: Centros comerciais e complexos empresariais",
+          "Turístico: Hotéis, resorts e estabelecimentos turísticos",
+          "Tecnológico: Parques empresariais e technology parks"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Tendências de Desenvolvimento:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Verticalização acelerada em áreas estratégicas",
+          "Integração com infraestrutura portuária e logística",
+          "Preservação ambiental e sustentabilidade",
+          "Crescimento de polos tecnológicos regionais"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Critérios Principais de Avaliação de Terrenos"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Localização e Acesso"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Vias de Transporte e Mobilidade:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Crítico: Conexão direta com BR-101 e SC-401",
+          "—a—️ Importante: Distância de escolas, hospitais e serviços",
+          "—S& Ideal: Próximo a polos comerciais e turísticos"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Características Geográficas:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Excelente: Visual para o mar e topografia favorável",
+          "—a—️ Regular: Área plana mas com declive moderado",
+          "—a—️ Limitado: Terrenos em áreas de risco de inundação"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Viabilidade Técnica e Ambiental"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Análise de Solo e Geotécnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Essencial: Estudos de solo detalhados e sondagens",
+          "—a—️ Importante: Presença de rochas ou materiais problemáticos",
+          "—S& Ideal: Solo estável e bem drenado"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Aspectos Ambientais:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Obrigatório: Licenças ambientais (FATMA, CONSES)",
+          "—a—️ Importante: Preservação da Mata Atlântica e áreas úmidas",
+          "—S& Ideal: Baixo impacto ambiental e fácil conformidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Potencial de Mercado e Crescimento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Fatores de Crescimento:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Estratégico: Proximidade com centros empresariais e turísticos",
+          "—a—️ Atrativo: Acesso a infraestrutura e serviços públicos",
+          "—S& Recomendável: Zonas de expansão urbana e zoneamento favorável"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Projeções de Mercado:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Tendências de demanda local e regional",
+          "Ciclos econômicos e demográficos",
+          "Concorrência e diferenciação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Metodologia de Avaliação Custo-Benefício"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Análise Financeira"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Cálculo de Viabilidade:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001c` Custo Total: Aquisição, infraestrutura, legal e taxas",
+          "—x\u0019— Retorno Esperado: Valor de venda, aluguel e apreciação",
+          "—x\u001c— Taxa Interna de Retorno (IRR): Métrica de rentabilidade",
+          "—a\u0013️ Análise de Sensibilidade: Cenários otimistas, realistas e pessimistas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Indicadores Financeiros:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— —0— 15%: Excelente rentabilidade",
+          "—a—️ 10-14%: Bom investimento",
+          "—a—️ 5-9%: Aceitável com análise complementar",
+          "—R < 5%: Não recomendado"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Avaliação Técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Pontuação de Critérios Técnicos:**"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "Peso",
+          "Pontuação",
+          "Ponderada"
+        ],
+        "rows": [
+          [
+            "Localização",
+            "25%",
+            "8/10",
+            "2.0"
+          ],
+          [
+            "Acesso",
+            "15%",
+            "9/10",
+            "1.35"
+          ],
+          [
+            "Solo",
+            "20%",
+            "7/10",
+            "1.4"
+          ],
+          [
+            "Meio Ambiente",
+            "15%",
+            "8/10",
+            "1.2"
+          ],
+          [
+            "Mercado",
+            "20%",
+            "6/10",
+            "1.2"
+          ],
+          [
+            "Viabilidade Legal",
+            "5%",
+            "10/10",
+            "0.5"
+          ],
+          [
+            "Total",
+            "100%",
+            "-",
+            "7.55"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Análise de Risco"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Matriz de Risco:**"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Risco",
+          "Probabilidade",
+          "Impacto",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Regulatória",
+            "Baixo",
+            "Médio",
+            "2"
+          ],
+          [
+            "de Mercado",
+            "Médio",
+            "Alto",
+            "12"
+          ],
+          [
+            "Técnica",
+            "Baixo",
+            "Médio",
+            "2"
+          ],
+          [
+            "Ambiental",
+            "Baixo",
+            "Baixo",
+            "1"
+          ],
+          [
+            "Financeira",
+            "Médio",
+            "Alto",
+            "8"
+          ],
+          [
+            "Risco Total",
+            "-",
+            "-",
+            "25"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Estudos Técnicos Essenciais"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Estudo Topográfico e Planialtimétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Elementos Obrigatórios:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001c— Levantamento Planimétrico: Confins, confrontações e divisões",
+          "—x\u001c— Levantamento Altimétrico: Cotas, declives e drenagem",
+          "—x\u001c— Geologia e Geotecnia: Caracterização do subsolo",
+          "—x\u001c— Hidrologia: Bacias de drenagem e fluxos"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Ferramentas Recomendadas:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "GPS RTK para alta precisão",
+          "Estações totais para medições",
+          "Sensores de nível para monitoramento",
+          "Modelagem 3D para visualização"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Análise de Mercado e Segmentação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Estudos de Mercado:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001c` Demanda Local: Tendências demográficas e econômicas",
+          "—x\u001c` Segmentação de Mercado: Público-alvo e perfis de compradores",
+          "—x\u001c` Análise Competitiva: Projetos vizinhos e diferenciação",
+          "—x\u001c` Estudos de Preço: Valores de mercado e análises de rentabilidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Avaliação Ambiental e Legal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Licenças e Permissões:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001c9 Licença Ambiental Prévia (LAP): Avaliação de impacto ambiental",
+          "—x\u001c9 Licença de Instalação (LI): Adaptação do projeto",
+          "—x\u001c9 Licença de Operação (LO): Atividade operacional",
+          "—x\u001c9 Certidões Negativas: Regularidade fiscal e trabalhista"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Planejamento de Infraestrutura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Elementos de Infraestrutura:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001dR Redes de Serviços: Energia, água, esgoto, telefonia",
+          "—x:—️ Transporte: Vias, ciclovias, transporte público",
+          "—xR— Paisagismo e Áreas Verdes: Parkges e áreas de lazer",
+          "—x—— Parques Industriais: Infraestrutura industrial e de apoio"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Exemplo Prático de Avaliação"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Candidate: Terreno em Área Estratégica de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Dados do Imóvel:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Área: 8.000 m²",
+          "Custo: R$ 4.500.000",
+          "Localização: Próximo ao porto e centros comerciais",
+          "Zoneamento: Misto (residencial, comercial e turístico)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Análise de Viabilidade:**"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fase",
+          "Custo (R$)",
+          "Retorno (R$)",
+          "ROI",
+          "Prazo"
+        ],
+        "rows": [
+          [
+            "Aquisição",
+            "4.500.000",
+            "4.500.000",
+            "0%",
+            "0-2 meses"
+          ],
+          [
+            "Infraestrutura",
+            "2.000.000",
+            "2.800.000",
+            "40%",
+            "3-6 meses"
+          ],
+          [
+            "Legal e Taxas",
+            "300.000",
+            "0",
+            "-100%",
+            "0-1 mês"
+          ],
+          [
+            "Total",
+            "6.800.000",
+            "7.300.000",
+            "~7,4%",
+            "6 meses"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Pontuação Final: 7.55/10** —S&"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Recomendações Estratégicas"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Critérios de Seleção"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Fatores Prioritários:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Acesso a transporte e serviços",
+          "—x\u001d— Viabilidade técnica e ambiental",
+          "—x\u001d— Potencial de crescimento do mercado",
+          "—x\u001d— Conformidade regulatória"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Atenção Especial:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Evitar terrenos em áreas de risco",
+          "Priorizar locais com boa conectividade",
+          "Considerar projetos com alto valor agregado"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Planejamento Financeiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Estratégias de Investimento:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fase 1: Aquisição e licença (primeiros 30%)",
+          "Fase 2: Infraestrutura e construção (60% restantes)",
+          "Fase 3: Comercialização e ocupação"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Manejo de Riscos:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Diversificação de investimentos",
+          "Seguro contra riscos diversos",
+          "Reserva de contingência (10-15% do orçamento)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Parcerias e Colaborações"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Vantagens de Parcerias:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Técnica: Especialização e expertise",
+          "Financeira: Acesso a capital e crédito",
+          "Comercial: Rede de contatos e distribuição",
+          "Regulatória: Conhecimento de processos e prazos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tendências e Inovações Futuras"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Smart Cities e Integração Digital"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Oportunidades Emergentes:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "IoT para monitoramento de infraestrutura",
+          "Big Data para análise de mercado",
+          "Energia renovável e sustentável",
+          "Transporte inteligente e mobilidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Desenvolvimento Sustentável"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Práticas Recomendadas:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Certificações ambientais (LEED, Marina Baja)",
+          "Construção com baixo carbono",
+          "Reutilização de áreas urbanas",
+          "Preservação de ecossistemas"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Modelos de Negócios Inovadores"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Novos Aportes:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construção modular e pré-fabricada",
+          "Parcerias público-privadas",
+          "Financiamento coletivo e crowdfunding",
+          "Modelos de aluguel com opção de compra"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Escolher o terreno certo em Navegantes é uma decisão estratégica que requer análise técnica rigorosa, avaliação financeira cuidadosa e compreensão do mercado local. O processo deve equilibrar viabilidade técnica, potencial de mercado, conformidade regulatória e retornos financeiros esperados."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Fatores Críticos de Decisão:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Localização estratégica e acesso",
+          "—x\u001d— Viabilidade técnica e ambiental",
+          "—x\u001d— Potencial de crescimento e rentabilidade",
+          "—x\u001d— Conformidade regulatória e risco mínimo"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Estratégia Recomendada:** Investir em terrenos que atendam a múltiplos critérios, possuem boa acessibilidade, têm viabilidade técnica comprovada e estão localizados em áreas de crescimento estratégico. A análise custo-benefício deve ser baseada em dados concretos e projeções realistas de mercado, com atenção especial à gestão de riscos e ao retorno esperado sobre o investimento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Leitura Complementar:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "\"Engenharia e Construção em Navegantes: Panorama Atual\" (baseado no presente artigo)",
+          "\"Vantagens de um Projeto Arquitetônico Personalizado em Loteamentos de Navegantes\" (contexto complementar)",
+          "\"Danos Estruturais por Obra Vizinha em Navegantes: Prevenção, Detecção e Soluções\" (risco e prevenção)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Referências:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Prefeitura Municipal de Navegantes —\u001c Plano Diretor e Código de Obras",
+          "FATMA —\u001c Fundações do Meio Ambiente de Santa Catarina",
+          "CONSEI —\u001c Conselho Municipal de Saúde e Meio Ambiente",
+          "CREA-SC —\u001c Conselho Regional de Engenharia e Agronomia de Santa Catarina"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Principais"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Prefeitura de Navegantes —\u001c Plano Diretor Municipal, Código de Obras e Normas Urbanísticas",
+          "FATMA —\u001c Licenciamento Ambiental e Normas para Áreas Costeiras",
+          "CONSEI —\u001c Controle Sanitário e Regulação Ambiental",
+          "CREA-SC —\u001c Normas Técnicas de Engenharia e Regulamentação Profissional",
+          "NBR —\u001c Normas Brasileiras de Tecnologia da Construção Civil"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Melhores Práticas para Investidores e Empresas"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Para Empresas Locais"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Investir em Pesquisa e Análise"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Realizar estudos de mercado detalhados",
+          "Contratar empresas especializadas em avaliação de terrenos",
+          "Utilizar tecnologia de GIS e mapeamento"
+        ]
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Desenvolver Parcerias Estratégicas"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Colaborar com consultores ambientais e jurídicos",
+          "Estabelecer relacionamentos com engenheiros locais",
+          "Integrar-se a clusters empresariais regionais"
+        ]
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Focar em Diferenciação"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Priorizar locais com acessibilidade estratégica",
+          "Desenvolver projetos sustentáveis e inovadores",
+          "Criar valor agregado através de serviços complementares"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Para Novos Entrants"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Fazer Pesquisa de Mercado Cuidadosa"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Analisar tendências demográficas e econômicas",
+          "Estudar projetos similares e benchmarking",
+          "Avaliar concorrência e oportunidades de mercado"
+        ]
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Começar com Projetos Menores"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Iniciar com terrenos menores e mais acessíveis",
+          "Desenvolver carteira de clientes e reputação",
+          "Expandir gradualmente para projetos maiores"
+        ]
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Aproveitar Vantagens Regulatórias"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Entender incentivos fiscais locais",
+          "Participar de programas de desenvolvimento municipal",
+          "Integrar-se a clusters industriais regionais"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo fornece um guia completo para selecionar terrenos custo-benefício em Navegantes, equilibrando análise técnica rigorosa, avaliação financeira, conformidade regulatória e potencial de mercado. O processo requer uma abordagem multidisciplinar e baseada em dados para garantir o sucesso dos empreendimentos imobiliários na região."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A análise deve ser contínua e adaptativa, considerando as tendências do mercado e as mudanças nas políticas públicas. O terreno certo não é apenas uma questão de localização, mas também de estratégia de desenvolvimento e visão de negócio a longo prazo."
+      }
+    }
+  ]
+}

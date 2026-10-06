@@ -1,0 +1,441 @@
+{
+  "slug": "documentacao-alvara-construcao-navegantes",
+  "title": "Documentação Necessária para Solicitar o Alvará de Construção em Navegantes",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png",
+  "imageAlt": "Documentação Necessária para Solicitar o Alvará de Construção em Navegantes - artigo técnico da Regê Engenharia sobre legislação em Navegantes e Litoral Norte de SC.",
+  "excerpt": "O alvará de construção é o documento municipal que autoriza o início de uma obra. Em Navegantes/SC, ele é exigido para qualquer construção, reforma estrutural, ampliação ou demolição — e sua falta.",
+  "readTime": "4 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O alvará de construção é o documento municipal que autoriza o início de uma obra. Em Navegantes/SC, ele é exigido para qualquer construção, reforma estrutural, ampliação ou demolição — e sua falta deixa a obra irregular, sujeita a multa, embargo e dificuldade para financiar ou vender o imóvel. Neste guia, você encontra a lista completa da documentação necessária para solicitar o alvará na Prefeitura de Navegantes, com base na Lei Complementar 416/2023 (Código de Obras) e no Sistema —anico de Licenciamento (SUL)."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que é o Alvará de Construção?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O alvará é a licença emitida pela Prefeitura que comprova que o projeto atende à legislação municipal — zoneamento, recuos, índices urbanísticos e código de obras — e autoriza a execução da obra."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Por Que é Obrigatório?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Legaliza a obra — evita multa e embargo",
+          "Permite ligações de água, luz e esgoto",
+          "Permite o habite-se e a averbação no fim da obra",
+          "Valoriza o imóvel — imóvel regular tem mais valor e liquidez",
+          "Dá segurança ao proprietário e à vizinhança"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos do Imóvel"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Matrícula Atualizada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A matrícula do registro de imóveis deve estar atualizada, com a descrição do terreno, área e proprietário corretos. —0 o documento que comprova o direito de construir no lote."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Carnê ou Certidão do IPTU"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comprova a inscrição imobiliária municipal do imóvel e pode apresentar o número cadastral usado na análise."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Escritura ou Ficha de Registro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comprovante da cadeia dominial — quando o imóvel ainda não tem matrícula, a escritura acompanha a documentação."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Planta de Situação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Indica a localização do lote no quarteirão, com confrontações, e é usada na análise de zoneamento e recuos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos do Projeto"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Arquitetônico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto assinado por profissional habilitado (engenheiro/arquiteto) com:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta baixa de todos os pavimentos",
+          "Cortes e fachadas",
+          "Planta de cobertura",
+          "Quadro de áreas (privativa, comum, total)",
+          "Referência ao zoneamento e recuos"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Estrutural"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Obrigatório na maioria das obras — define fundações, pilares, vigas e lajes, com ART do engenheiro calculista."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projetos Complementares"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conforme o porte e o uso da edificação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Instalações elétricas (NBR 5410)",
+          "Instalações hidráulicas e sanitárias (NBR 5626)",
+          "Prevenção e combate a incêndio (projeto aprovado pelo Corpo de Bombeiros)",
+          "Acessibilidade (NBR 9050) quando aplicável",
+          "Eficiência energética (conforme exigências locais)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "ART/RRT de Todos os Projetos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Anotação de Responsabilidade Técnica (CREA) ou Registro de Responsabilidade Técnica (CAU) vincula o profissional ao projeto. Sem ART, o processo não é protocolado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos Pessoais e Fiscais"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cópia da identidade e CPF — do proprietário e do responsável técnico",
+          "Certidão de casamento ou pacto — quando aplicável à composição da propriedade",
+          "Comprovante de endereço — do proprietário",
+          "Situação da papelada do INSS/CEI — quando o proprietário for construtor (obra por conta própria)",
+          "Cadastro de contribuinte — para emissão de taxas e emolumentos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tabela Resumo da Documentação"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Categoria",
+          "Documento",
+          "Observação"
+        ],
+        "rows": [
+          [
+            "Imóvel",
+            "Matrícula atualizada",
+            "Obrigatória"
+          ],
+          [
+            "Imóvel",
+            "Carnê do IPTU",
+            "Obrigatório"
+          ],
+          [
+            "Imóvel",
+            "Escritura / ficha",
+            "Quando não houver matrícula"
+          ],
+          [
+            "Projeto",
+            "Arquitetônico",
+            "Assinado e com ART"
+          ],
+          [
+            "Projeto",
+            "Estrutural",
+            "Obrigatório"
+          ],
+          [
+            "Projeto",
+            "Elétrica e hidráulica",
+            "Conforme o porte"
+          ],
+          [
+            "Projeto",
+            "Incêndio",
+            "Comércio/prédio/galpão"
+          ],
+          [
+            "Projeto",
+            "ART/RRT",
+            "Todos os projetos"
+          ],
+          [
+            "Pessoa",
+            "RG/CPF e endereço",
+            "Proprietário"
+          ],
+          [
+            "Pessoa",
+            "Cadastro do contribuinte",
+            "Para taxas"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo a Passo para Solicitar"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Consulta Prévia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Consulte o zoneamento e os parâmetros urbanísticos do lote (recuos, ocupação, índice) na Prefeitura antes de projetar — isso evita retrabalho."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Elaboração dos Projetos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Contrate profissionais registrados e elabore a documentação completa com ART de todos os projetos."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Protocolo do Processo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Protocole o requerimento no portal do SUL (Sistema —anico de Licenciamento) de Navegantes ou no balcão de atendimento, com toda a documentação e taxa."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Análise Municipal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O setor de urbanismo analisa o projeto; se houver exigências, o responsável técnico corrige e reapresenta."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Emissão do Alvará"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Emissão do alvará de construção para fixação no canteiro e início das obras."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que Mais Atrasam o Alvará"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Matrícula desatualizada ou com pendências",
+          "Projeto sem ART de responsável técnico",
+          "Projeto incompleto — faltam cortes, fachadas ou cálculos",
+          "Desconformidade com o zoneamento — recuos ou índices errados",
+          "Ausência de projetos complementares exigidos pelo uso",
+          "Taxas não recolhidas antes do protocolo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto tempo demora para sair o alvará em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em média **15 a 45 dias úteis** após o protocolo, dependendo da complexidade e do retorno às exigências. Projetos bem preparados saem mais rápido."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Preciso de engenheiro para tirar o alvará?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. Toda obra exige projeto de responsável técnico registrado, com ART. O engenheiro também conduz o processo de aprovação e resposta às exigências."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual o custo do alvará?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As taxas municipais (análise e emolumentos) variam de **R$ 50 a R$ 800**, conforme o porte da obra. Os projetos técnicos (arquitetura + estrutura) custam de **R$ 6.000 a R$ 25.000** em média."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O alvará é exigido para reforma?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende do escopo. Reformas de acabamento simples podem dispensar projeto de aprovação; reformas estruturais, ampliações e mudanças de uso exigem alvará."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Como a Regê Engenharia ajuda?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia elabora os projetos, emite as ART profissionais, protocola o processo no SUL e acompanha a análise até a emissão do alvará — em Navegantes e no litoral catarinense."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Solicitar o alvará de construção em Navegantes é um processo documental, mas que exige precisão: matrícula em dia, projetos completos com ART e conformidade com a LC 416/2023. Cada documento faltante é um dia a mais de espera — e uma obra irregular é um risco permanente para o seu patrimônio."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comece pela consulta prévia, reúna a documentação e conte com um profissional registrado para conduzir o processo. Com tudo em mãos, o alvará sai dentro do prazo — e a obra começa regular, segura e valorizada."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre a documentação necessária para o alvará de construção em Navegantes/SC. Valores, prazos e exigências têm referência; consulte a Prefeitura de Navegantes (SUL) e o CREA-SC para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

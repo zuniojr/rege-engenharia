@@ -1,0 +1,331 @@
+{
+  "slug": "laudo-nr-12-navegantes",
+  "title": "Laudo NR-12 em Navegantes SC: Guia Completo para Máquinas e Equipamentos Conformes",
+  "tag": "SEGURANÇA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Laudo NR-12 em Navegantes SC — engenheiro vistoriando proteções e dispositivos de segurança de máquinas e equipamentos industriais com checklist técnico.",
+  "excerpt": "Máquina lacrada, multa por item e risco de amputação: a NR-12 não perdoa improviso. Entenda o que é o laudo NR-12, o que é verificado máquina a máquina, quem pode emitir, quanto custa, quando renovar e como colocar seu parque em conformidade sem parar a produção.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A NR-12 — Segurança no Trabalho em Máquinas e Equipamentos — é a norma que mais lacra máquinas e embarga setores industriais no Brasil. Quando o Auditor Fiscal do Trabalho encontra prensa sem proteção, serra circular sem coifa, comando bimanual improvisado ou botão de emergência que não funciona, o resultado é interdição imediata do equipamento, multa por item não conforme e responsabilidade civil e criminal da direção."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O instrumento que comprova conformidade — ou revela o problema antes da fiscalização — é o laudo NR-12: vistoria técnica documentada, com checklist item a item, medições, evidências fotográficas e ART. Em Navegantes e no Litoral Norte de Santa Catarina — com o polo industrial de Machados, as indústrias do entorno do Porto, marcenarias, serralherias e metalúrgicas de Itajaí a Penha — a NR-12 é exigência diária de fiscalização, auditoria de clientes, seguro e prevenção de acidentes graves."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que a NR-12 exige"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A NR-12 regulamenta todas as fases da vida de máquinas e equipamentos: projeto, fabricação, importação, comercialização, locação, cessão, uso e descarte. Vale para máquinas novas e usadas, nacionais e importadas, fixas e móveis — incluindo ferramentas portáteis, acessórios de içamento e veículos industriais. Os pilares:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Segurança intrínseca — proteções fixas e móveis, distâncias de segurança, intertravamentos e comandos seguros",
+          "Componentes certificados INMETRO — relés de segurança, sensores, comandos bimanuais e tapetes sensíveis com certificação obrigatória",
+          "ARR (Análise de Riscos) — obrigatória por máquina, identificando perigos mecânicos, elétricos e térmicos",
+          "Inventário de máquinas — cadastro completo do parque com localização e estado",
+          "Manual do fabricante em português — operar sem manual é não conformidade",
+          "Instalações elétricas da máquina — conformes à NR-10, com esquema disponível e sem gambiarras",
+          "Procedimentos escritos e treinamento dos operadores registrados",
+          "Inspeção periódica de acessórios de içamento — cintas, ganchos, correntes e talhas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Minha máquina é antiga, a NR-12 não vale — é mito. A norma alcança qualquer máquina em uso; o que muda é apenas a estratégia de adequação definida pela análise de riscos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o laudo NR-12"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo NR-12 é o documento técnico emitido por profissional habilitado, após vistoria in loco, que avalia cada máquina frente aos requisitos da norma e conclui formalmente: CONFORME, CONFORME COM RESSALVAS ou NÒO CONFORME — neste último caso, com plano de correção, prazo e solução indicada por item."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Não é PGR — o PGR (NR-01) gerencia os riscos da empresa inteira; o laudo é específico das máquinas",
+          "Não é ficha de EPI — a hierarquia da NR-12 prioriza eliminação do risco e proteção física",
+          "Não é carimbo de aprovado — um bom laudo pode reprovar, e é justamente isso que protege a empresa",
+          "Não substitui treinamento — capacitação e laudo são exigências paralelas e complementares"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem precisa de laudo NR-12"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Metalúrgicas e serralherias (Machados e entorno do Porto) — tornos, prensas, dobradeiras, guilhotinas e solda",
+          "Marcenarias e fábricas de móveis — serra circular, desengrossadeira, tupia, lixadeiras e seccionadoras",
+          "Indústrias alimentícias e frigoríficos — moedores, fatiadoras, empacotadeiras e esteiras",
+          "Plásticos e recicladoras — injetoras, sopradoras e picadores (risco crítico de amputação)",
+          "Porto e logística — empilhadeiras, talhas, pontes rolantes e acessórios de içamento",
+          "Construção civil — betoneiras, vibradores, serras de bancada e compactadores",
+          "Oficinas mecânicas — elevadores veiculares, tornos e balanceadoras"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Gatilhos que tornam o laudo urgente: notificação ou auto de infração do MTE, auditoria de cliente grande, compra ou locação de máquina usada ou importada, quase-acidente, renovação de seguro ou ISO 45001 e qualquer modificação na máquina — que invalida o laudo anterior imediatamente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é verificado máquina a máquina"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Proteções físicas — fixas bem fixadas, móveis intertravadas (máquina não opera com proteção aberta), distâncias de segurança e resguardo completo de transmissões",
+          "Comandos e dispositivos — botão de emergência testável e categoria adequada, comando bimanual com tempo/distância corretos, componentes certificados INMETRO",
+          "Elétrica da máquina — esquema compatível com a instalação real, aterramento contínuo, painel identificado e fechado, interface conforme NR-10",
+          "Documentação — manual em português no posto, ARR atualizada, inventário, procedimentos de operação e manutenção e treinamento registrado",
+          "Ambiente — sinalização NR-26, iluminação, piso adequado e ergonomia do posto"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Resultado típico em campo: uma marcenaria com 8 máquinas gera de 20 a 40 não conformidades na primeira vistoria — quase todas resolvíveis entre R$ 100 e R$ 3.000 por máquina, com coifa nova, intertravamento certificado, botão de emergência e sinalização."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é feito o laudo: etapas do padrão Regê"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento documental — inventário, ARR existente, manuais, esquemas elétricos e histórico de manutenção",
+          "Vistoria in loco — máquina a máquina com fotos numeradas, medições de distâncias e tempos de parada e testes funcionais dos dispositivos",
+          "Classificação das não conformidades — cada item por nível de risco (crítico/médio/baixo) com custo estimado de correção",
+          "Plano de correção — solução técnica por item com orçamento orientativo e cronograma que não para a produção",
+          "Emissão do laudo — relatório final com metodologia, evidências, conclusão por máquina e ART",
+          "Reinspeção pós-correção — nova vistoria e emissão do laudo de CONFORMIDADE por máquina corrigida"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Diferencial Regê: o pré-diagnóstico é entregue verbalmente no dia da vistoria — você sai sabendo no mesmo dia o que trava a produção hoje e o que pode entrar no cronograma do mês."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem pode emitir o laudo NR-12"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Profissional habilitado — Engenheiro Mecânico, de Segurança do Trabalho ou Eletricista (para aspectos elétricos) com registro ativo no CREA-SC",
+          "ART específica emitida antes da emissão — sem ART, o laudo é nulo perante fiscalização e Justiça",
+          "Competência declarada no documento — itens verificados, normas citadas e versão vigente da NR-12",
+          "Independência recomendada — laudo emitido por terceiro independente tem muito mais peso em auditoria e litígio"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Laudo sem CREA e sem ART válido não protege — agrava. Falsa sensação de conformidade é a pior herança que uma consultoria amadora deixa numa empresa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Validade e quando renovar"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Regra geral — validade de 1 ano, alinhada à revisão do inventário e do PGR",
+          "Modificação na máquina — invalida o laudo imediatamente (proteção removida, troca de comando, reforma elétrica)",
+          "Nova máquina — laudo específico antes de liberar para operação",
+          "Após acidente ou quase-acidente — reavaliação da máquina envolvida e das similares",
+          "Dica de gestão — cadastre a validade junto às datas de manutenção preventiva em um único cronograma"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa o laudo NR-12 (2025/2026 — Navegantes)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Laudo por máquina — R$ 400 a R$ 1.200/unidade, com desconto progressivo por volume do parque",
+          "Parque até 10 máquinas — R$ 2.500 a R$ 6.000 incluindo inventário e ARR básica",
+          "Parque de 10 a 40 máquinas — R$ 5.000 a R$ 14.000 (perfil típico de metalúrgica ou marcenaria média de Machados)",
+          "ARR completa por máquina complexa — R$ 600 a R$ 2.500 (injetoras, prensas, centros de usinagem)",
+          "Reinspeção pós-correção — R$ 150 a R$ 400 por máquina (emissão do laudo de conformidade)",
+          "Diagnóstico preliminar — R$ 300 a R$ 700, valor abatido do laudo contratado"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comparativo que fecha a conta: laudo + adequação típica de uma serralheria pequena custa R$ 4.000 a R$ 9.000. Uma única multa gravíssima da NR-28 parte de R$ 6.700 por item — multiplicado pelo número de trabalhadores expostos — sem contar interdição, produção parada, ação trabalhista e criminalização da direção em caso de acidente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Riscos de operar sem laudo NR-12"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Interdição e lacre da máquina na hora (arts. 158 e 159 da CLT) — produção parada por dias ou semanas",
+          "Multas acumuladas por item, por gravidade e por número de expostos (NR-28)",
+          "Responsabilidade civil e criminal da direção em caso de acidente (Lei 8.213/91, art. 19)",
+          "Perda de contratos B2B — grandes compradores e o Porto exigem evidência de conformidade",
+          "Recusa de indenização pelo seguro em sinistro com máquina irregular",
+          "Passivo trabalhista permanente — a ausência de laudo vira prova contra a empresa"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NR-12 x PGR x demais documentos: quem faz o quê"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Laudo NR-12 — evidência física de conformidade, máquina a máquina, com ART",
+          "ARR — análise de riscos de cada máquina, alimenta o laudo e o PGR",
+          "Inventário de máquinas — base do escopo dos laudos",
+          "PGR (NR-01) — gestão de riscos da empresa inteira; incorpora os riscos das máquinas",
+          "Treinamento NR-12/NR-18 — capacitação dos operadores; exigência paralela que não substitui o laudo",
+          "AVCB (CBMSC) — segurança contra incêndio; complementar, não cobre NR-12"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ter PGR em dia não significa estar conforme com a NR-12. São documentos com finalidades diferentes — e a fiscalização cobra cada um separadamente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades do Litoral Norte de SC"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Polo industrial de Machados e entorno portuário — pacotes por parque completo com cronograma que não para a produção",
+          "Maresia e corrosão — a degradação salina compromete proteções, suportes e componentes elétricos; especificação de inox e galvanizado nas correções",
+          "Marcenarias e serralherias de bairro — máquinas antigas sem proteção, sem manual e sem ARR: prioriza-se primeiro o que mata (coifa, intertravamento, emergência)",
+          "Terceirizadas do Porto — pasta digital pronta para auditoria: inventário + ARR + laudos + ARTs",
+          "Canteiros litorâneos — laudo NR-12 integrado à NR-18 do canteiro"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre laudo NR-12"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Tenho só 3 máquinas, preciso de laudo? Sim. A NR-12 não tem porte mínimo: três máquinas sem proteção geram três autos de infração — e um acidente em oficina pequena é tão grave quanto em indústria grande."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comprei máquina usada em leilão, preciso de laudo? Precisa — e com mais razão. Ao adquirir, o detentor assume integralmente a responsabilidade pela conformidade. Peça o laudo antes de fechar negócio."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso emitir o laudo eu mesmo, como dono da empresa? Não. Exige profissional habilitado com registro ativo no CREA-SC e ART. Laudo autodeclarado não tem valor legal nenhum."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A máquina foi adequada, preciso refazer o laudo? Sim — e essa é a etapa mais importante. A reinspeção documenta a correção e emite o laudo de conformidade, que é o documento que você mostra ao fiscal e ao cliente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva? Parque até 10 máquinas: vistoria em 1 dia e laudo em 5 a 10 dias úteis. Parques maiores seguem cronograma por setor, sem parar a produção. Há fluxo expresso para urgência de fiscalização."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo NR-12 com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com laudos NR-12, NR-10, NR-13, NR-18 e NR-35, análise de riscos, projetos de adequação e treinamentos — sempre com vistoria in loco, evidências fotográficas, medições e ART registrada no CREA-SC. Vistoriamos, diagnosticamos, projetamos a correção e acompanhamos até a última máquina ficar conforme. Fale com nossa equipe e coloque seu parque de máquinas em conformidade sem parar a produção."
+      }
+    }
+  ]
+}

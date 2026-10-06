@@ -1,0 +1,223 @@
+{
+  "slug": "laudo-eletrico",
+  "title": "Laudo Elétrico: O que é, para que serve e quando sua obra ou empresa precisa",
+  "tag": "EL—0TRICA",
+  "image": "/images/analise-estrutura.png",
+  "imageAlt": "Laudo elétrico em Navegantes SC — engenheiro inspecionando quadro de distribuição e instalações elétricas com equipamentos de medição.",
+  "excerpt": "O laudo elétrico atesta a segurança da instalação e é exigido em vistorias, venda, seguro e conformidade com a NR-10. Saiba o que ele avalia, quando é obrigatório e como a Regê Engenharia emite com ART.",
+  "readTime": "10 min de leitura",
+  "featured": true,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A energia elétrica é invisível, mas os riscos dela não são: curtos-circuitos, sobrecargas, choques e incêndios de origem elétrica figuram entre as causas mais comuns de sinistros em imóveis e indústrias. Para comprovar que uma instalação é segura e está dentro das normas, existe o laudo elétrico — o documento técnico assinado por profissional habilitado que atesta a conformidade da rede."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é o laudo elétrico, para que ele serve, quando é obrigatório, o que ele avalia na prática e como a Regê Engenharia emite esse documento com ART no CREA-SC, com atenção especial às condições do litoral catarinense."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é laudo elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo elétrico é um relatório técnico elaborado por engenheiro eletricista ou eletrotécnico que analisa as instalações elétricas de um imóvel ou equipamento e conclui se elas atendem às normas da ABNT e às exigências de segurança. Ele reúne inspeção em campo, medições e documentação (diagramas, memoriais, fotos) e emite uma conclusão: a instalação está segura e conforme, ou aponta as não conformidades que precisam ser corrigidas."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Identificação do imóvel e do responsável técnico",
+          "Descrição da instalação e dos equipamentos avaliados",
+          "Medições de campo (continuidade, isolamento, resistência de aterramento)",
+          "Conclusão técnica de conformidade ou não conformidade",
+          "ART no CREA-SC vinculando o profissional ao serviço"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O laudo elétrico não é burocracia: é a prova de que a instalação não vai causar choque, incêndio ou interrupção da sua operação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Para que serve o laudo elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O documento cumpre funções distintas dependendo do contexto, mas todas giram em torno da segurança e da conformidade:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Segurança — identifica pontos de risco antes que virem acidente ou incêndio",
+          "Conformidade legal — atesta o atendimento às normas da ABNT e à NR-10",
+          "Vistoria e aprovação — órgãos e concessionárias pedem o laudo para liberar ligação ou vistoria",
+          "Venda e financiamento — compradores e bancos exigem o documento para imóveis e indústrias",
+          "Seguro — seguradoras pedem o laudo para cobrir instalações e reduzir sinistros elétricos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o laudo elétrico é obrigatório"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os gatilhos que tornam o laudo elétrico necessário:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NR-10 — instalações e serviços com eletricidade exigem laudo e inspeção para proteger trabalhadores",
+          "Vistoria do Corpo de Bombeiros — o AVCB exige laudo de instalações elétricas e de SPDA",
+          "Ligação nova ou reforma de rede — a concessionária pede o documento para liberar o fornecimento",
+          "Venda ou financiamento — bancos e cartórios exigem comprovação da instalação regular",
+          "Apólice de seguro — seguradoras condicionam a cobertura à existência do laudo",
+          "Sinistro ou suspeita de falha — o laudo atesta a causa e embasa reparo ou indenização"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o laudo elétrico avalia na prática"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A inspeção cobre pontos críticos da instalação. Os principais itens verificados:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quadro de distribuição — disjuntores, DR, dimensionamento e organização dos circuitos",
+          "Aterramento — resistência de terra dentro dos limites da norma para proteger contra choque",
+          "SPDA — sistema de proteção contra descargas atmosféricas (obrigatório em muitas edificações)",
+          "Fiação e dimensionamento — se os condutores suportam a carga sem aquecimento excessivo",
+          "Tomadas e equipamentos — integridade, polarização e ausência de sobrecarga",
+          "Compatibilidade com a carga — se a entrada de energia atende ao consumo real do imóvel"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo de inspeção e NR-10"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na NR-10, a inspeção de instalações elétricas é parte do programa de segurança. O laudo de inspeção elétrica atesta que a rede foi montada e é mantida conforme a norma, protegendo a vida de quem trabalha perto da energia. Para indústrias e canteiros, ele integra o prontuário de instalações elétricas exigido pela norma."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo elétrico no litoral de Santa Catarina"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — a maresia e a umidade aceleram a corrosão de quadros, conectores e cabos. Isso eleva o risco de falha elétrica e torna o laudo ainda mais importante: a inspeção local detecta oxidação precoce, penetração de umidade em caixas e perda de isolamento que um laudo genérico não perceberia."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Corrosão de equipamentos por salinidade — verificação de quadros e conexões expostos",
+          "Umidade em caixas e eletrodutos — risco de curto e choque em ambiente litorâneo",
+          "SPDA reforçado — regiões litorâneas concentram descargas atmosféricas",
+          "Materiais específicos — uso de componentes resistentes à agressividade ambiental"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia emite o laudo elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua no litoral de Santa Catarina elaborando laudos elétricos para imóveis residenciais, comerciais e industriais. O processo une inspeção em campo, medições normatizadas e emissão de ART no CREA-SC, entregando um documento válido para vistorias, seguros e financiamentos."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Inspeção de campo em quadros, aterramento, SPDA e fiação",
+          "Medições de continuidade, isolamento e resistência de terra",
+          "Laudo técnico conclusivo com ART no CREA-SC",
+          "Adequação de instalações apontadas como não conformes",
+          "Atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha and região"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a sua obra, indústria ou imóvel precisa de laudo elétrico para vistoria, venda, seguro ou conformidade com a NR-10, fale com a equipe da Regê Engenharia. Vamos inspecionar, medir e emitir o documento correto — porque energia segura começa com laudo, não com sorte."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre laudo elétrico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Laudo elétrico e ART são a mesma coisa? Não. O laudo é o documento técnico; a ART é o registro no CREA que vincula o profissional responsável ao serviço. O laudo correto sempre vem acompanhado da ART."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda edificação precisa de laudo? Toda instalação elétrica deve ser segura, mas o laudo é exigido formalmente em vistorias, seguros, financiamentos e conformidade com a NR-10. Mesmo quando não exigido, ele é a forma mais segura de comprovar a conformidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem pode assinar o laudo elétrico? Engenheiro eletricista ou eletrotécnico com registro no CREA, nas atribuições relativas à eletricidade. A assinatura sem habilitação invalida o documento perante órgãos e seguradoras."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva? Depende do porte da instalação e da facilidade de acesso aos pontos de medição. Imóveis residenciais costumam ser vistoriados em poucas horas; indústrias e edifícios exigem inspeção mais extensa."
+      }
+    }
+  ]
+}

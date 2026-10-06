@@ -1,0 +1,296 @@
+{
+  "slug": "projeto-arquitetonico-vs-estrutural-navegantes",
+  "title": "Projeto Arquitetônico vs. Projeto Estrutural: Qual a Diferença na Aprovação em Navegantes?",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Planta de projeto arquitetônico e projeto estrutural sobrepostas, representando a aprovação de obra na Prefeitura de Navegantes SC.",
+  "excerpt": "Projeto arquitetônico e projeto estrutural são documentos diferentes, com profissionais e papéis distintos na aprovação de obra em Navegantes. Entenda o que cada um faz, quem assina, como a Prefeitura analisa e por que os dois são obrigatórios para liberar o alvará.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem vai construir ou reformar em Navegantes logo esbarra em dois nomes que parecem a mesma coisa: projeto arquitetônico e projeto estrutural. Não são a mesma coisa. Um define como a edificação é — o desenho dos ambientes, a forma, o uso do espaço e o atendimento às regras urbanísticas. O outro define como ela se sustenta — as fundações, pilares, vigas e lajes que a mantêm de pé e em pé. E, na aprovação na Prefeitura, cada um tem um papel, um responsável e um peso diferentes."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica as diferenças entre os dois projetos e como cada um entra no processo de aprovação municipal — com foco em Navegantes e no Código de Obras do município (LC 416/2023). Entender essa distinção antes de contratar é o que evita obra parada, exigência de projeto na hora errada e a falta de um responsável técnico quando o problema aparece."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto arquitetônico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto arquitetônico é o conjunto de desenhos e especificações que define a edificação em si: a distribuição dos ambientes, as áreas, as circulações, a fachada, a implantação no terreno, o conforto, a acessibilidade e o atendimento aos parâmetros urbanísticos. Ele responde ao \"como a casa vai ser\" — o partido, o uso e a estética."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plantas baixas de cada pavimento, com dimensões e usos",
+          "Cortes e fachadas, com alturas e gabarito",
+          "Planta de situação e de implantação no lote",
+          "Memorial descritivo de materiais e acabamentos",
+          "Quadro de áreas e de parâmetros urbanísticos",
+          "Detalhes construtivos e de acessibilidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto estrutural"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto estrutural é o documento técnico que dimensiona a estrutura que sustenta a edificação. Ele calcula e detalha as fundações, os pilares, as vigas e as lajes, verificando que o conjunto resiste aos esforços — peso próprio, pessoas, móveis, vento, sobrecargas e a agressividade do ambiente litorâneo — sem risco de colapso ou deformação excessiva. Ele responde ao \"como a casa fica de pé\"."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plantas de formas (posição e dimensões de pilares, vigas e lajes)",
+          "Plantas de armaduras (detalhamento das ferragens)",
+          "Memorial de cálculo estrutural",
+          "Especificações de concreto, aço e cobrimentos",
+          "Detalhes de fundação e de ligações entre elementos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As principais diferenças entre os dois projetos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "O que define — o arquitetônico define forma, ambientes, uso e estética; o estrutural define fundações e estrutura que sustentam",
+          "Profissional — o arquitetônico pode ser de arquiteto (registro no CAU) ou engenheiro; o estrutural é exclusivo do engenheiro civil (registro no CREA)",
+          "Responsabilidade — RRT (arquiteto) ou ART (engenheiro) no arquitetônico; ART do engenheiro no estrutural",
+          "Custo de referência — arquitetônico de R$ 50 a R$ 150/m²; estrutural de R$ 25 a R$ 60/m²",
+          "Prazo típico — ambos entre 2 e 6 semanas para uma casa",
+          "Papel na Prefeitura — o arquitetônico é o \"projeto legal\" que gera o alvará; o estrutural é a exigência técnica para que o alvará seja liberado com segurança comprovada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem assina cada projeto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A responsabilidade técnica separa as duas especialidades. O projeto arquitetônico pode ser assinado por arquiteto e urbanista, registrado no Conselho de Arquitetura e Urbanismo (CAU), com emissão de RRT; ou por engenheiro civil, registrado no CREA, com emissão de ART. O projeto estrutural é atribuição exclusiva do engenheiro civil, registrado no CREA-SC, com emissão de ART. O arquiteto responde pela concepção, pelo uso e pela conformidade urbanística; o engenheiro estrutural responde pela segurança — e essa responsabilidade é formal, com respaldo civil e criminal."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel de cada projeto na aprovação em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Prefeitura de Navegantes, a aprovação do projeto segue o Código de Obras (LC 416/2023) e trata os dois projetos de forma diferente, mas complementar. O arquitetônico é o documento que a Prefeitura de fato analisa e aprova; o estrutural é a peça que a Prefeitura exige para liberar a obra com segurança."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que a Prefeitura analisa no projeto arquitetônico"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Parâmetros urbanísticos — recuos, taxa de ocupação, coeficiente de aproveitamento e gabarito da zona",
+          "Estética e implantação — atendimento às exigências de fachada e de afastamento do código urbanístico",
+          "Áreas mínimas e acessibilidade — dimensionamento de cômodos, circulações, rampas e banheiros acessíveis",
+          "Segurança e salubridade — iluminação, ventilação e ventilação cruzada dos ambientes",
+          "Uso e ocupação — adequação da edificação ao zoneamento e ao tipo de atividade"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que o projeto estrutural representa na aprovação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Aprovação condicionada — a Prefeitura não libera o alvará sem a ART do responsável pelo projeto estrutural, porque a segurança é condição para qualquer obra",
+          "Segurança comprovada — o estrutural garante que o alvará sai com a responsabilidade técnica habilitada",
+          "Diálogo com bombeiros — em obras de maior porte, o Corpo de Bombeiros (CBMSC) analisa o projeto de prevenção de incêndio, que se conecta diretamente à estrutura"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O arquitetônico é o projeto que a Prefeitura aprova; o estrutural é o projeto que a Prefeitura exige para aprovar. Um sem o outro não vira alvará — e obra sem alvará não começa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que o alvará exige os dois projetos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Obra sem arquitetônico aprovado — não existe: sem projeto legal, não há alvará e a obra é irregular, sujeita a multa e embargo",
+          "Obra sem estrutural — a aprovação não se completa e a obra perde a garantia de segurança; qualquer trinca ou recalque vira problema sem responsável técnico",
+          "Obra aprovada e executada diferente do projeto — o habite-se não sai, o imóvel não pode ser averbado e a venda ou o financiamento travam"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como os projetos se relacionam na obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "O arquitetônico nasce primeiro — define ambientes, áreas e implantação",
+          "O estrutural se desenvolve sobre ele — calcula a estrutura para sustentar a arquitetura, respeitando as dimensões e os vãos definidos",
+          "A compatibilização é obrigatória — o estrutural não pode furar, deslocar ou esbarrar nos elementos do arquitetônico; a compatibilização evita a clássica viga que corta a janela",
+          "Ambos vão para a obra — o arquitetônico guia os ambientes; o estrutural guia a estrutura; nenhum profissional executa \"no olho\""
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Por isso, mudar a arquitetura depois do estrutural pronto gera retrabalho: alterar um ambiente pode exigir recalcular pilares e vigas. Definir bem a arquitetura antes de contratar o estrutural é a economia mais simples de uma obra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custo e prazo na prática"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Custo de referência — arquitetônico de R$ 50 a R$ 150/m² (casa de 100 m²: R$ 8.000 a R$ 15.000); estrutural de R$ 25 a R$ 60/m² (casa de 100 m²: R$ 3.000 a R$ 6.000)",
+          "O que pesa no valor — no arquitetônico, complexidade, áreas e acabamentos; no estrutural, vãos, pavimentos, tipo de fundação e solo",
+          "Prazo de entrega — 2 a 6 semanas para uma casa, em ambos",
+          "Revisões — mudanças de layout geram retrabalho no arquitetônico e recálculo no estrutural"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual projeto a Prefeitura aprova de fato?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Prefeitura aprova o projeto arquitetônico (o \"projeto legal\"), que gera o alvará. Mas a aprovação exige a apresentação do projeto estrutural e dos demais projetos com ART — por isso os dois são obrigatórios para liberar a obra."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Preciso contratar arquiteto e engenheiro separados?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Depende da empresa. Na Regê Engenharia, arquitetura e engenharia trabalham integradas sob a mesma responsabilidade, o que evita conflito de projetos e agiliza a aprovação. Contratar separado também funciona, desde que os profissionais façam a compatibilização entre os projetos."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O arquiteto pode assinar o projeto estrutural?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não. O projeto estrutural é atribuição do engenheiro civil, registrado no CREA, com ART. O arquiteto é responsável pelo projeto arquitetônico, com RRT no CAU. Um não substitui o outro."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Toda obra exige projeto estrutural?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra que envolve estrutura — construção, ampliação, sobrado, reforma estrutural — exige projeto estrutural com ART. Obras de pequeno porte sem alteração estrutural podem dispensar, mas a avaliação de dispensa é feita caso a caso pelo profissional e pela Prefeitura."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto tempo leva a aprovação em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em média, de 15 a 45 dias úteis após o protocolo, quando o projeto está completo e conforme a LC 416/2023. Projetos com exigências pendentes — arquitetônico fora dos parâmetros ou estrutural sem ART — têm prazo maior."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Projeto arquitetônico e projeto estrutural são projetos diferentes, com responsáveis diferentes e papéis diferentes na aprovação municipal — mas nenhum funciona sem o outro. O arquitetônico é o que a Prefeitura aprova; o estrutural é o que a Prefeitura exige para aprovar; e os dois juntos são o que transforma um terreno em uma obra legal, segura e que pode ser averbada."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de começar, escolha quem vai conduzir o processo do começo ao fim. A Regê Engenharia desenvolve projeto arquitetônico, projeto estrutural e projetos complementares de forma integrada, e conduz a aprovação na Prefeitura de Navegantes até a emissão do alvará — com ART em todas as etapas. Fale com nossa equipe técnica e projete sua obra com segurança, no prazo e sem surpresas."
+      }
+    }
+  ]
+}

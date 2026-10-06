@@ -1,0 +1,319 @@
+{
+  "slug": "sondagem-geotecnica-litoral-sc",
+  "title": "Sondagem Geotécnica: Como Funciona, Tipos e Por Que é Obrigatória no Litoral de SC",
+  "tag": "GEOTECNIA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Equipe técnica realizando sondagem geotécnica (SPT) em terreno arenoso no litoral de Santa Catarina - Navegantes, Itajaí e Balneário Camboriú.",
+  "excerpt": "A sondagem geotécnica revela o que os olhos não veem: tipo de solo, capacidade de suporte, lençol freático e riscos de recalque. Veja os tipos (SPT, CPTu, rotativa), normas e por que ela é indispensável em terrenos arenosos do litoral catarinense.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de projetar qualquer fundação, o engenheiro precisa responder uma pergunta simples e decisiva: o que existe debaixo do terreno? A sondagem geotécnica é a investigação de campo que responde isso. Ela perfura, amostra e mede as camadas do solo e do subsolo para que o projeto estrutural seja dimensionado com base em dados reais - e não em suposições."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Santa Catarina, onde predominam areias soltas, dunas, restingas e um lençol freático alto e variável, ignorar a sondagem é o primeiro passo para o recalque diferencial, o aparecimento de trincas e obras que superdimensionam a fundação pagando caro por algo que o solo não exigia. Este guia explica o que é a sondagem geotécnica, os métodos existentes, quando ela é obrigatória e como ela protege o seu investimento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é sondagem geotécnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A sondagem geotécnica é o conjunto de ensaios de campo executados para caracterizar o subsolo de uma área. Por meio de furos ou penetração de cones, obtém-se o perfil estratigráfico (quais camadas existem e em que profundidade), a resistência mecânica de cada camada, a umidade, o nível do lençol freático e a presença de materiais problemáticos (turfa, argila mole, rejeito, rocha intemperizada)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um erro comum é confundir sondagem com estudo geotécnico. A sondagem é a fase de coleta de dados em campo. O estudo (ou laudo) geotécnico é o documento técnico, assinado por engenheiro geotécnico com ART, que interpreta esses dados e recomenda o tipo de fundação, as cargas admissíveis e os cuidados de execução. Uma sem a outra não serve: a sondagem gera o dado, o estudo transforma o dado em projeto."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sondagem de campo: perfuração, amostragem e medição in loco (o que este artigo detalha)",
+          "Ensaios de laboratório: granularometria, limites de Atterberg, compactação, CBR, compressibilidade",
+          "Estudo geotécnico: interpretação dos dados e recomendação de fundação (NBR 6122 / NBR 8036)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando a sondagem geotécnica é obrigatória"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não existe uma lei federal que diga \"toda obra precisa de sondagem\", mas as normas da ABNT tornam a investigação indispensável na prática. A NBR 6122 (Projeto e Execução de Fundações) e a NBR 8036 (Concretagem com uso de fôrmas deslizantes, além de orientações gerais) exigem que o projeto de fundação seja baseado em investigação geotécnica adequada à obra."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Edificações com mais de 2 pavimentos ou estruturas de carga média/alta: investigação mínima obrigatória",
+          "Terrenos com histórico de recalque, vizinhos com trincas ou onde houve aterro recente",
+          "Encostas, taludes e áreas de risco (movimentação de massa, deslizamento)",
+          "Obras próximas ao mar, dunas, restinga e mangue - solo arenoso instável por natureza",
+          "Galpões, industriais e edifícios de grande porte: sondagem com maior número de furos e profundidade",
+          "Financiamento bancário e aprovação de projeto na prefeitura: muitos órgãos exigem o estudo geotécnico"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Principais tipos de sondagem geotécnica"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "SPT - Sondagem de Simples Reconhecimento por Corda (NBR 6484)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 o método mais usado no Brasil. Um amostrador padrão (dividido) é cravado no fundo do furo por um martelo de 63,5 kg caindo de 76 cm. O número de golpes para penetrar 30 cm é o valor N-SPT, que indica a resistência relativa do solo. A cada metro, registra-se a descrição da amostra e coleta-se material para ensaio. —0 barato, rápido e fornece o perfil completo do subsolo."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "CPT e CPTu - Penetração de Cone com e sem Poropressão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um cone de ponta sensível é empurrado continuamente para o solo por um peso morto ou caminhão. Medem-se a resistência de ponta (qc), a fricção lateral (fs) e, no CPTu, a pressão de poros (u2). A grande vantagem é a curva contínua de resistência, sem intervalos, o que detecta camadas finas que o SPT pode perder. —0 ideal para areias do litoral e para obras maiores."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Sondagem rotativa (Rotary)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Usa uma broca com circulação de lama ou ar para perfurar camadas rochosas e materiais muito resistentes. Permite a extração de testemunhos (amostras inalteradas de rocha ou solo) para ensaios de compressão. —0 indicada quando o SPT encontra rocha ou quando a fundação será profunda (estacas sobre rocha)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Outros ensaios de campo complementares"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ensaio de palheta (Vane test): mede a resistência ao cisalhamento de argilas moles",
+          "Densidade in situ (cunha ou balde): confirma a compactação da areia",
+          "Poços de inspeção e trincheiras: expõem o perfil para observação direta em obras menores",
+          "Medida de lençol freático: tubo piezômetro ou simples registro da água no furo",
+          "Sismografia e geofísica: mapeamento indireto em grandes áreas e loteamentos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é planejada e executada uma campanha de sondagem"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Definição do objetivo: residência, galpão, torre, contenção ou loteamento definem o esforço de investigação",
+          "2. Numeração de furos: geralmente 1 furo a cada 200 a 400 m2 de área construída, ou 1 furo por bloco",
+          "3. Profundidade: suficiente para atravessar camadas compressíveis até solo resistente (comum 6 a 15 m em residências, mais em obras pesadas)",
+          "4. Execução: equipamento (caminhão ou torre manual), cravação/perfuração, registro de N-SPT e coleta de amostras",
+          "5. Marcação do lençol freático: anotado no momento do furo e confirmado após estabilização",
+          "6. Relatório de campo: perfil, N-SPT, fotos e profundidades, base do estudo geotécnico"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como ler os resultados: N-SPT, perfil e lençol freático"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor N-SPT é a linguagem da sondagem. Em linhas gerais, areia fofa apresenta N baixo (menor que 4), areia compacta apresenta N alto (acima de 15 a 30), e argila mole apresenta N muito baixo. Quanto maior o N, maior a capacidade de suporte e menor o recalque esperado. O perfil estratigráfico mostra onde cada camada começa e termina; o lençol freático define o nível d agua que influencia a capacidade e a corrosão."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "N < 4: solo muito mole ou solto - exigirá fundação profunda ou melhoria de solo",
+          "N entre 4 e 10: solo mole a mediano - fundação rasa com cautela ou melhoria",
+          "N entre 10 e 30: solo compacto - típico de fundação rasa adequada",
+          "N > 30: solo muito compacto ou alteração de rocha - ótimo para suporte",
+          "Lençol freático alto: reduz capacidade de suporte e exige cuidado com escavação e drenagem"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Solo arenoso, dunas e lençol alto: o desafio do litoral de SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, Itajaí, Balneário Camboriú e cidades vizinhas, o solo costuma ser arenoso, com dunas e restingas e um lençol freático que sobe na estação de chuva. Areia solta tem baixo N-SPT, baixa coesão e sofre liquefação sob vibração (tráfego, obras vizinhas). Sem sondagem, o projetista tanto pode errar para o lado do risco (fundaçao fraca) quanto para o lado do desperdício (fundaçao cara demais)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dunas e restinga: camadas de areia fina e orgânico que afundam sob carga - exigem SPT detalhado",
+          "Lençol freático alto: limita a fundação rasa, exige drenagem e atenção à corrosão por maresia",
+          "Variação sazonal: o nível d agua muda com a chuva e a maré, influenciando o cálculo",
+          "Proximidade do mar: agressividade química da água do lençol acelera a corrosão de armaduras"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Profundidade, número de furos e normas aplicáveis"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 6484: sondagem de simples reconhecimento por corda (SPT)",
+          "NBR 6122: projeto e execução de fundações (baseia-se na sondagem)",
+          "NBR 8036: orientações de investigação e campo para fundações",
+          "NBR 9603 / NBR 12131: ensaios de campo e laboratório complementares",
+          "Resolução CREA-SC: exigência de ART do engenheiro geotécnico responsável",
+          "Plano Diretor e Código de Obras local: podem exigir estudo geotécnico para aprovação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que comprometem a fundação (e como a sondagem evita)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projetar fundação \"por experiência do vizinho\": cada lote tem solo diferente, mesmo lado a lado",
+          "Usar sondagem de obra vizinha antiga: o tempo, aterros e drenagem mudam o perfil",
+          "Sondagem rasa demais: não alcança a camada resistente e subdimensiona a fundação",
+          "Ignorar o lençol freático: fundação rasa em área alagada gera recalque e umidade",
+          "Dispensar o estudo interpretativo: dados brutos sem engenheiro não viram projeto seguro"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Construir sem sondagem geotécnica é apostar o patrimônio num solo que você nunca viu. O custo da investigação é sempre menor que o custo do recalque."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa uma sondagem geotécnica em Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Residência unifamiliar (1 a 3 furos SPT, 8 a 12 m): R$ 1.800 a R$ 4.500",
+          "Residência alto padrão ou dois pavimentos (3 a 5 furos): R$ 4.000 a R$ 8.000",
+          "CPTu complementar (areia do litoral): R$ 2.500 a R$ 6.000 por campanha",
+          "Galpão / industrial (furos profundos + rotativa): R$ 8.000 a R$ 25.000",
+          "Estudo geotécnico interpretativo (ART): R$ 1.500 a R$ 6.000 conforme porte",
+          "Execução da fundação correta: 1% a 3% do valor da obra - e evita retrabalho de 20% a 30%"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores de referência 2026 para a região de Navegantes e litoral norte catarinense. O custo final depende do número de furos, da profundidade, do acesso do equipamento e da necessidade de CPTu ou rotativa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre sondagem geotécnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de sondagem para uma casa simples de um pavimento? Se o terreno for plano, sem aterro e em área conhecida, a investigação pode ser mínima - mas ainda recomendada. Em solo arenoso de litoral, mesmo casa térrea merece ao menos um furo SPT para evitar surpresas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A sondagem atrapalha a vizinhança? Não. O equipamento trabalha dentro do lote, em poucas horas por furo, com ruído e sujeira controlados. —0 muito menos impacto do que corrigir uma fundação depois."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso reaproveitar a sondagem do lote ao lado? Não. Cada terreno tem história geológica própria; usar dado alheio é risco sem respaldo técnico ou ART."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem pode assinar a sondagem e o estudo? Engenheiro civil com especialidade em geotecnia, registrado no CREA-SC, emitindo ART. Sem ART, o laudo não tem validade junto a prefeituras, bancos e justiça."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sondagem geotécnica com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia realiza a investigação geotécnica completa em Navegantes e no litoral norte de Santa Catarina: planejamento da campanha, execução de SPT e CPTu com equipamento próprio, medição de lençol freático e elaboração do estudo geotécnico interpretativo com ART no CREA-SC. Conhecemos o comportamento da areia, da duna e do lençol alto da nossa região - e projetamos fundações para o solo real, não para a média de tabela."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou regularizar no litoral, fale com nossa equipe antes de fechar o projeto. A sondagem certa na hora certa é o que separa uma obra segura de uma obra cara e cheia de trincas. Vamos investigar o seu terreno e transformar o subsolo em base para um projeto sem surpresas."
+      }
+    }
+  ]
+}

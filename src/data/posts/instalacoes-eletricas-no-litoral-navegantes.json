@@ -1,0 +1,155 @@
+{
+  "slug": "instalacoes-eletricas-no-litoral-navegantes",
+  "title": "Instalações Elétricas no Litoral: Evitando Corrosão e Umidade em Navegantes",
+  "tag": "ENGENHARIA",
+  "image": "/images/Evitando Corrosão e Umidade em Navegantes.png",
+  "imageAlt": "Quadro de distribuição elétrica em obra no litoral de Navegantes SC, com componentes protegidos contra corrosão e umidade do ambiente salino.",
+  "excerpt": "A maresia e a umidade de Navegantes são inimigas silenciosas das instalações elétricas: corroem condutores, disjuntores e conexões até que a instalação falhe — ou pegue fogo. Saiba como projetar, especificar e proteger a parte elétrica do seu imóvel no litoral, com base na NBR 5410.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Navegantes, existe um inimigo que não faz barulho, não deixa mancha e nem sempre aparece na vistoria: a corrosão. Sal no ar, umidade constante, vento que carrega cloretos e a proximidade do mar formam um ambiente que ataca as instalações elétricas de forma silenciosa — corroendo trilhos de disjuntores, oxidando conexões, ressecando isolamentos e reduzindo a vida útil de tudo o que carrega energia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O resultado é um risco duplo: falha precoce da instalação (tomadas mortas, disjuntores que desarmam, cheiro de queimado) e, no pior cenário, incêndio por curto-circuito ou falha de isolamento. Este guia mostra como projetar, especificar e proteger instalações elétricas no litoral — e por que em Navegantes o cuidado com a parte elétrica começa muito antes da obra, no projeto e na escolha dos materiais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a elétrica do litoral é diferente da elétrica do interior"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cloretos em suspensão — o ar carrega partículas de sal que se depositam em contatos, trilhos e conexões; na presença de umidade, formam eletrólito e aceleram a corrosão de cobre, alumínio e aço",
+          "Umidade relativa alta — a condensação noturna molha componentes internos de quadros, tomadas e disjuntores, criando caminhos de corrente indevidos e oxidação",
+          "Ventilação salina — o vento constante empurra névoa salina para dentro de quadros, eletrocalhas e conduletes, especialmente em imóveis próximos à orla",
+          "Vida útil reduzida — componentes comuns especificados para ambiente interior duram no litoral uma fração do tempo de projeto; o que falha em 5 anos no Centro pode falhar em 18 meses na beira da praia"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A maresia não corrói só o portão e a esquadria: ela corrói por dentro do quadro elétrico, onde ninguém olha — até o dia em que algo falha."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que a NBR 5410 exige em ambientes agressivos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A NBR 5410 (instalações elétricas de baixa tensão) trata da proteção contra corrosão de forma direta: prescreve que os materiais devem ser adequados às condições de influências externas do local — incluindo a presença de agentes corrosivos e umidade. Para o litoral, isso se traduz em exigências práticas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Grau de proteção (IP) adequado — quadros, tomadas, caixas e equipamentos expostos precisam de IP adequado à poeira e à água (em áreas externas, geralmente IP65 ou superior)",
+          "Materiais resistentes à corrosão — componentes com partes metálicas protegidas (alumínio anodizado, aço inox ou plásticos técnicos), conexões de cobre estanhado, parafusos e terminais anticorrosivos",
+          "Proteção de condutores — cabos com isolamento e cobertura adequados, instalados em eletrocalhas ou conduletes que impeçam o acúmulo de umidade e o contato com o ambiente salino",
+          "Quadros vedados — painéis com fechamento estanque, ventilação controlada e, em casos extremos, sistema de aquecimento interno para evitar condensação",
+          "Aterramento e proteção — malha de terra, DPS (proteção contra surtos) e DR (diferencial residual) dimensionados e instalados conforme norma, reforçados pela agressividade do ambiente"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os pontos críticos da instalação elétrica no litoral"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quadro de distribuição — o coração da instalação: trilhos, bornes e disjuntores oxidam primeiro; use quadro com fechamento estanque, componentes de qualidade e inspeção periódica",
+          "Conexões e terminais — onde o fio encontra o disjuntor é o ponto de maior resistência e maior calor; conexão oxidada esquenta, derrete isolamento e provoca curto-circuito",
+          "Tomadas, interruptores e caixas — em áreas externas e próximas ao mar, preferir versões com grau de proteção elevado, tampas e borrachas de vedação",
+          "Eletrocalhas, conduletes e pontos de apoio — metálicos precisam de proteção anticorrosiva ou acabamento eletrostático; fixadores e suportes devem ser inoxidáveis",
+          "Dispositivos de proteção — DPS e DR são ainda mais importantes no litoral, onde falhas de isolamento por umidade são mais frequentes e raios e surtos são comuns no verão"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como proteger: boas práticas para o projeto e a execução"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto elétrico completo — feito por engenheiro eletricista com ART, considerando a agressividade do ambiente costeiro na especificação dos materiais",
+          "Especificação correta — cabos, quadros, tomadas e dispositivos escolhidos para ambiente marinho, não os \"de obra\" padrão do interior",
+          "Execução qualificada — eletricista treinado que aperta conexões com torque certo, sela caixas e protege os pontos expostos",
+          "Vedação e proteção local — preencher passagens de cabos, usar prensa-cabos, proteger entradas de água em quadros externos",
+          "Manutenção preventiva — inspeção anual da parte elétrica no litoral: termografia, revisão de conexões, limpeza e substituição de componentes oxidados",
+          "Documentação — memoriais, diagramas e ART guardados, para manutenção e para valorizar o imóvel na revenda"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sinais de que a corrosão já atacou a sua instalação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Disjuntores que desarmam sem motivo aparente ou com carga baixa",
+          "Cheiro de queimado, tomadas escuras ou aquecidas e plugues manchados",
+          "Lâmpadas e equipamentos que queimam com frequência incomum",
+          "Ruídos (estalos ou zumbidos) vindos do quadro de distribuição",
+          "Pontos de oxidação verde-azulada (cobre) ou manchas esbranquiçadas (alumínio) em conexões e terminais"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qualquer um desses sinais merece avaliação técnica imediata. No litoral, pequena corrosão hoje é falha séria amanhã — e o custo de prevenir é sempre uma fração do custo de um incêndio ou da troca completa da instalação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Reforma elétrica: quando trocar a instalação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Instalações antigas em imóveis na orla — cabos com isolamento ressecado e quadros oxidados merecem substituição preventiva",
+          "Reformas que alteram a planta — mudar paredes e ampliar ambientes exige projeto elétrico novo e adequação à norma atual",
+          "Aumento de carga — ar-condicionado, chuveiros de alta potência, cozinha equipada e carregadores de veículos exigem circuito, condutores e proteções dimensionados",
+          "Imóveis comprados de segunda mão — antes de reformar o acabamento, avalie o estado da elétrica; uma reforma elétrica bem feita protege o investimento em valorização"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou comprar um imóvel em Navegantes, a parte elétrica merece a mesma atenção da estrutura e da impermeabilização. A Regê Engenharia elabora projetos elétricos completos e faz vistorias da instalação existente, com diagnóstico de corrosão, umidade e riscos — e o plano de adequação para a sua obra ficar segura no litoral."
+      }
+    }
+  ]
+}

@@ -4,6 +4,10 @@ import sharp from 'sharp';
 import fs from 'fs';
 import path from 'path';
 
+import react from '@astrojs/react';
+import keystatic from '@keystatic/astro';
+import vercel from '@astrojs/vercel';
+
 function avifAutoConverter() {
   return {
     name: 'avif-auto-converter',
@@ -36,5 +40,6 @@ function avifAutoConverter() {
 // https://astro.build/config
 export default defineConfig({
   site: 'https://regeengenharia.com.br',
-  integrations: [avifAutoConverter(), sitemap()]
+  adapter: vercel(),
+  integrations: [avifAutoConverter(), sitemap(), react(), keystatic()]
 });

@@ -1,0 +1,941 @@
+{
+  "slug": "projeto-para-aprovacao-na-prefeitura",
+  "title": "Projeto para Aprovação na Prefeitura: Guia Completo para Aprovar sem Exigências em Navegantes SC",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png",
+  "imageAlt": "Projeto para Aprovação na Prefeitura: Guia Completo para Aprovar sem Exigências em Navegantes SC - artigo técnico da Regê Engenharia sobre legislação em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Aprovar um projeto na prefeitura parece simples no papel — desenhar a planta, protocolar e aguardar o alvará. Na prática, é o ponto onde a maioria das obras trava.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "SEO FICHA T—0CNICA (uso interno / CMS) - Slug sugerido: /blog/projeto-para-aprovacao-na-prefeitura - Keyword primária: projeto para aprovação na prefeitura (volume: alto | intenção: transacional/informacional) - Keywords secundárias: projeto legal prefeitura, projeto prefeitura Navegantes, projeto para alvará de construção, o que é projeto legal, quanto custa projeto para prefeitura - Title tag (58 caracteres): Projeto para Aprovação na Prefeitura: Guia Completo 2026 - Meta description (152 caracteres): O que é projeto para aprovação na prefeitura, o que deve conter, documentos, prazos e custos em Navegantes SC. Evite exigências e aprove na 1ª tentativa. - H1: Projeto para Aprovação na Prefeitura: O Que —0, O Que Deve Conter e Como Aprovar em Navegantes SC - Imagem sugerida: /images/projeto-arquitetonico.png | Alt: \"Projeto para aprovação na prefeitura em Navegantes SC - prancha de projeto legal com carimbo e ART para alvará de construção\" - Tempo de leitura: 12 min | Tag: PROJETO LEGAL | Schema recomendado: Article + HowTo + FAQPage"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Aprovar um projeto na prefeitura parece simples no papel — desenhar a planta, protocolar e aguardar o alvará. Na prática, é o ponto onde a maioria das obras trava. Um **projeto para aprovação na prefeitura** mal feito volta com 2, 3 ou 4 listas de exigências, cada uma custando 15 a 30 dias. Um projeto bem feito passa na primeira análise e libera a obra em semanas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica, sem jargão desnecessário, **o que é o projeto para aprovação na prefeitura (projeto legal), o que ele deve conter obrigatoriamente, quanto custa e quanto tempo leva em Navegantes SC**, e como a Regê Engenharia aprova em 3 a 6 semanas o que no mercado leva 3 a 6 meses."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Projeto para aprovação não é o projeto que você vai construir — é o projeto que a prefeitura precisa entender para dizer 'pode construir'. Se a prefeitura não entende na primeira leitura, ela devolve.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que —0 Projeto para Aprovação na Prefeitura?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Projeto para aprovação na prefeitura — também chamado de projeto legal — é o conjunto de pranchas e documentos técnicos, assinados por responsável habilitado (CREA/CAU) com ART/RRT, que comprova à prefeitura que a obra atende ao Plano Diretor, ao Código de Obras e às normas técnicas.**"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ele **não é** o projeto executivo completo que vai para o canteiro. —0 uma versão normativa, objetiva e padronizada, feita para o analista municipal verificar em 30 minutos se a obra respeita:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Zoneamento e uso — o que pode ser construído naquele lote",
+          "Índices urbanísticos — taxa de ocupação, coeficiente de aproveitamento, permeabilidade, gabarito",
+          "Recuos e afastamentos — frontal, laterais, fundos, faixas de APP e de marinha",
+          "Condições mínimas de habitabilidade — iluminação, ventilação, acessibilidade, segurança"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Aprovado esse projeto, a prefeitura emite o **alvará de construção** — o documento que autoriza legalmente o início da obra."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Projeto Legal vs. Projeto Executivo vs. As-Built"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Projeto",
+          "Para Quem —0",
+          "O Que Contém",
+          "Quando Usar"
+        ],
+        "rows": [
+          [
+            "Projeto para Aprovação (Legal)",
+            "Prefeitura (análise urbanística)",
+            "Implantação, plantas, cortes, fachadas, quadro de áreas, memorial — em padrão da prefeitura",
+            "Para obter o alvará"
+          ],
+          [
+            "Projeto Executivo",
+            "Obra / Construtora / Fornecedores",
+            "Detalhamento construtivo, estrutural, elétrico, hidrossanitário, quantitativos, caderno de especificações",
+            "Para construir sem erro e sem desperdício"
+          ],
+          [
+            "Projeto As-Built",
+            "Prefeitura + Cartório (regularização)",
+            "Desenho fiel do que já foi construído",
+            "Para regularizar obra sem alvará"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Erro caro: entregar projeto executivo como projeto legal. O analista não quer ver detalhe de ferragem ou diagrama unifilar — ele quer ver, com clareza, se a obra cabe no lote e na lei. Poluição visual = exigência."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o Projeto para Aprovação —0 Obrigatório?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conforme **LC 416/2023 (Código Urbanístico de Navegantes)** e **LC 001/2006 (Código de Obras)**, exige projeto legal + alvará para:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Intervenção",
+          "Exige Projeto Legal?"
+        ],
+        "rows": [
+          [
+            "Casa nova (qualquer área)",
+            "—S& Sim"
+          ],
+          [
+            "Ampliação / puxadinho / edícula / segundo pavimento",
+            "—S& Sim"
+          ],
+          [
+            "Reforma com alteração de área, fachada ou estrutura",
+            "—S& Sim"
+          ],
+          [
+            "Reforma interna simples (piso, pintura, gesso - sem mexer em estrutura/hidráulica/elétrica)",
+            "—R Não*"
+          ],
+          [
+            "Muro de divisa > 1,80m, muro de arrimo, piscina, subsolo",
+            "—S& Sim"
+          ],
+          [
+            "Galpão, comércio, indústria",
+            "—S& Sim (+ PPCI/CBMSC)"
+          ],
+          [
+            "Demolição total ou parcial",
+            "—S& Sim (alvará de demolição)"
+          ],
+          [
+            "Regularização de obra já feita",
+            "—S& Sim (projeto as-built + ART)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "*Mesmo isenta de alvará, guarde ART/RRT, notas e fotos. Uma futura venda ou financiamento exigirá prova de responsabilidade técnica."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Construir sem projeto aprovado = obra irregular.** Sujeita a multa diária de R$ 500 a R$ 5.000, embargo, impossibilidade de habite-se, de financiamento (Caixa/BB) e de averbação na matrícula. Em caso de acidente, o proprietário responde civil e criminalmente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que Deve Conter um Projeto para Aprovação na Prefeitura (Checklist Técnico)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto que passa de primeira em Navegantes contém, no mínimo, **8 elementos obrigatórios** — todos carimbados, cotados e com ART:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Planta de Situação e Localização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Escala 1:500 ou 1:1000, com norte, quadra, lotes vizinhos, logradouro, distâncias até esquina, curvas de nível e indicação de APP/faixa de praia quando houver."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Planta de Implantação (ou Cobertura)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Escala 1:100 ou 1:200. Mostra a projeção da edificação no lote, com **todos os recuos cotados**, taxa de ocupação graficamente demonstrada, áreas permeáveis, acessos, muros e piscina."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Plantas Baixas de Todos os Pavimentos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Escala 1:50 ou 1:75. Com cotas internas e externas, áreas de cada ambiente (m²), indicação de uso (dormitório, suíte, BWC), esquadrias, níveis e projeção de cobertura."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Cortes (mínimo 2 - longitudinal e transversal)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Escala 1:50. Com pé-direito, altura total (gabarito), níveis do terreno, perfil natural do solo, altura de muros e relação com rua."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Fachadas (mínimo 1 - principal)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Escala 1:50. Com alturas, materiais de revestimento, esquadrias e indicação de marquises/beirais."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6. Quadro de Áreas (NBR 12721)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Área",
+          "m²"
+        ],
+        "rows": [
+          [
+            "Área do lote (matrícula)",
+            ""
+          ],
+          [
+            "Área total construída",
+            ""
+          ],
+          [
+            "Área computável",
+            ""
+          ],
+          [
+            "Área não computável (varanda, garagem, etc.)",
+            ""
+          ],
+          [
+            "Taxa de ocupação (%)",
+            ""
+          ],
+          [
+            "Coeficiente de aproveitamento",
+            ""
+          ],
+          [
+            "Taxa de permeabilidade (%)",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "7. Memorial Descritivo + Carimbo Padrão Prefeitura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Texto objetivo com sistema construtivo, materiais, padrão de acabamento, e carimbo com: proprietário, responsável técnico (nome, CREA/CAU, ART), endereço da obra, áreas, escalas, data e assinaturas."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "8. ART / RRT de Projeto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Sem ART, não há análise.** Uma ART por disciplina: arquitetura + estrutura + instalações. Em Navegantes, a ART deve estar **paga e com número visível na prancha** no ato do protocolo digital (1Doc/e-Navegantes)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Anexos quando exigidos:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento topográfico planialtimétrico (obrigatório em terrenos em aclive/declive ou > 500m²)",
+          "Sondagem SPT (essencial em Navegantes - solo arenoso, lençol raso - para validar fundação)",
+          "Projeto de prevenção contra incêndio (PPCI) quando área > 750m² ou uso comercial/coletivo - protocolo paralelo no CBMSC",
+          "Laudo de drenagem / permeabilidade (exigido pela LC 416/2023 para novas edificações)",
+          "Acessibilidade NBR 9050 (edificações de uso público/comercial)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Legislação que o Projeto Precisa Respeitar em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O analista confere o projeto contra 5 camadas normativas. Errar uma = exigência:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Camada",
+          "O Que Define",
+          "Onde Consultar"
+        ],
+        "rows": [
+          [
+            "Plano Diretor (LC 002/2006 + alterações LC 416/2023)",
+            "Zoneamento (ZOT), uso permitido, CA, taxa de ocupação, gabarito, recuos",
+            "Consulta de viabilidade no e-Navegantes"
+          ],
+          [
+            "Código de Obras (LC 001/2006)",
+            "Dimensões mínimas, iluminação/ventilação, escadas, vagas, calçada",
+            "Secretaria de Planejamento Urbano"
+          ],
+          [
+            "Código de Posturas",
+            "Alinhamento, limpeza do lote, tapume, placa de obra",
+            "Prefeitura"
+          ],
+          [
+            "Legislação Ambiental",
+            "APP de rio/mangue/restinga, dunas, supressão vegetal, faixa de praia (33m da preamar)",
+            "IMA/SC + Secretaria de Meio Ambiente"
+          ],
+          [
+            "Normas ABNT + CBMSC",
+            "NBR 6118 (concreto), NBR 5410 (elétrica), NBR 9050 (acessibilidade), ITs do Corpo de Bombeiros",
+            "CREA-SC / CBMSC"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Ponto crítico em Navegantes: muitos lotes em Gravatá, Meia Praia e Centro estão a menos de 300m da linha de preamar ou próximos a APP de mangue/rio. O projeto legal que ignora essa variável é indeferido de forma definitiva - não há \"jeitinho\". A consulta prévia de viabilidade (R$ 0 a R$ 200, online) evita projetar o impossível."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo a Passo: Como Aprovar o Projeto na Prefeitura de Navegantes"
+      }
+    },
+    {
+      "discriminant": "code",
+      "value": {
+        "text": "CONSULTA PR—0VIA (dia 0) — \u0019 LEVANTAMENTO + DOCUMENTOS (1 sem.) — \u0019 PROJETO LEGAL (2-3 sem.) — \u0019 PROTOCOLO DIGITAL (1 dia) — \u0019 ANÁLISE (3-6 sem.) — \u0019 ALVARÁ"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 1 - Consulta Prévia de Viabilidade (Antes de Projetar)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Informe matrícula ou inscrição imobiliária no **e-Navegantes — \u0019 Consulta de Zoneamento**. Você recebe: ZOT, CA básico/máximo, taxa de ocupação, permeabilidade, altura máxima, recuos e uso permitido. **Sem isso, todo o resto é aposta.**"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 2 - Levantamento e Documentação"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Documento",
+          "Validade",
+          "Onde Obter"
+        ],
+        "rows": [
+          [
+            "Matrícula atualizada do imóvel",
+            "até 30 dias",
+            "Cartório de Registro de Imóveis de Navegantes"
+          ],
+          [
+            "Carnê IPTU + Certidão Negativa de Débitos",
+            "exercício atual",
+            "Prefeitura / e-Navegantes"
+          ],
+          [
+            "Levantamento topográfico",
+            "90 dias",
+            "Topógrafo com CREA ativo"
+          ],
+          [
+            "Sondagem SPT (quando exigido)",
+            "12 meses",
+            "Eng. geotécnico"
+          ],
+          [
+            "RG/CPF ou CNPJ + procuração (se terceiro)",
+            "-",
+            "Proprietário"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 3 - Elaboração do Projeto Legal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Arquiteto ou engenheiro civil habilitado elabora as 8 pranchas + memorial + quadro de áreas, já compatibilizado com estrutura. Em Navegantes, a compatibilização prévia economiza 1 ciclo de exigência (- 30 dias)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 4 - Emissão das ARTs/RRTs"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "ART de projeto (arquitetura + estrutura) e ART de execução. Pagamento no CREA-SC/CAU-SC e inclusão do número na prancha."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 5 - Protocolo Digital (1Doc)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Acesse `protocolo.navegantes.sc.gov.br` — \u0019 \"Alvará de Construção\" — \u0019 anexe PDFs assinados ICP-Brasil + DWG — \u0019 gere guias — \u0019 pague taxas (PIX/boleto) — \u0019 receba número de protocolo. **Acompanhe 2x por semana.**"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 6 - Análise Técnica (Secretaria de Planejamento Urbano)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Prazo legal: **30 dias úteis** (prorrogável 1x). O analista emite: —S& Deferido (alvará liberado), —a—️ Exigência (15-30 dias para corrigir) ou —R Indeferido (recurso em 15 dias)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Etapa 7 - Emissão do Alvará"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "PDF com QR Code de autenticidade. Imprima e **afixe na obra em local visível da rua** - fiscalização multa obra sem placa/alvará visível. Validade: **2 anos** (construção nova) ou **1 ano** (reforma), prorrogável 1x. Início da obra: até 180 dias após emissão."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Prazos e Custos Reais em Navegantes (2025/2026)"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Prazos"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fase",
+          "Prazo Realista (Bem Instruído)",
+          "Prazo sem Planejamento"
+        ],
+        "rows": [
+          [
+            "Consulta prévia",
+            "Imediata a 10 dias",
+            "15-30 dias (se deixar para depois)"
+          ],
+          [
+            "Levantamento + documentos",
+            "5 a 10 dias",
+            "15-30 dias"
+          ],
+          [
+            "Projeto legal + ARTs",
+            "15 a 30 dias",
+            "30-60 dias"
+          ],
+          [
+            "Análise da prefeitura",
+            "15 a 45 dias úteis",
+            "60-120 dias (com 2-3 exigências)"
+          ],
+          [
+            "Total até o alvará",
+            "30 a 90 dias",
+            "4 a 8 meses"
+          ],
+          [
+            "Alvará — \u0019 Habite-se (obra pronta)",
+            "+ duração da obra",
+            "-"
+          ],
+          [
+            "Vistoria Habite-se",
+            "15 a 45 dias",
+            "30-90 dias"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Custos (Referência Navegantes 2025/2026)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Faixa"
+        ],
+        "rows": [
+          [
+            "Consulta de viabilidade / certidão de zoneamento",
+            "R$ 0 a R$ 200"
+          ],
+          [
+            "Levantamento topográfico",
+            "R$ 800 a R$ 2.500"
+          ],
+          [
+            "Sondagem SPT (2-3 furos)",
+            "R$ 1.200 a R$ 3.000"
+          ],
+          [
+            "Projeto legal + ART (residência 100-200m²)",
+            "R$ 4.000 a R$ 12.000"
+          ],
+          [
+            "Projetos complementares (elétrico + hidrossanitário + estrutural)",
+            "R$ 3.000 a R$ 10.000"
+          ],
+          [
+            "Taxa de análise de projeto (prefeitura)",
+            "R$ 3,50 a R$ 8,00 / m²"
+          ],
+          [
+            "Taxa de alvará / ISS estimado",
+            "1,5% a 3% do custo da obra"
+          ],
+          [
+            "PPCI + taxas CBMSC (quando exigido)",
+            "R$ 1.500 a R$ 6.000"
+          ],
+          [
+            "Total taxas prefeitura (casa 150m²)",
+            "R$ 800 a R$ 2.500"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O projeto legal representa 1,5% a 3% do custo total da obra - o seguro mais barato contra embargo, multa e meses de atraso. Cada mês de obra parada custa 1,5% a 3% do valor da obra em aluguel, financiamento e equipe ociosa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os 7 Erros que Mais Reprovam Projeto na Prefeitura (e Como Evitar)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Erro",
+          "O Que Acontece",
+          "Como Evitar"
+        ],
+        "rows": [
+          [
+            "1. Projeto desatualizado da LC 416/2023",
+            "Recuos/CA antigos = indeferimento urbanístico",
+            "Consulta prévia no e-Navegantes antes de desenhar 1 linha"
+          ],
+          [
+            "2. Quadro de áreas errado",
+            "Área computável divergente da planta = exigência",
+            "Conferir NBR 12721 + matrícula (área do lote) com 2 casas decimais"
+          ],
+          [
+            "3. ART vencida ou profissional sem CREA ativo",
+            "Processo nem é analisado",
+            "Consultar CREAnet/CAU antes de contratar; exigir ART paga"
+          ],
+          [
+            "4. Matrícula >30 dias ou IPTU em atraso",
+            "Bloqueio documental",
+            "Tirar certidões na semana do protocolo"
+          ],
+          [
+            "5. Falta de cotas ou cortes incompletos",
+            "\"Projeto incompleto\" - volta para correção",
+            "Checklist das 8 pranchas acima; revisão cruzada antes de protocolar"
+          ],
+          [
+            "6. Ignorar APP / faixa de praia",
+            "Indeferimento definitivo (sem recurso técnico)",
+            "Estudo ambiental prévio se lote <300m do mar ou próximo a rio/mangue"
+          ],
+          [
+            "7. Protocolar sem compatibilização",
+            "Arquitetônico —0— estrutural = retrabalho",
+            "Reunião BIM/compatibilização 3D antes do protocolo"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como Acelerar a Aprovação: O Método Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Regê, 80% dos alvarás saem **sem nenhuma exigência**. O método:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Viabilidade primeiro, projeto depois. Nunca desenhamos sem a certidão de zoneamento em mãos.",
+          "Checklist fechado na semana 1. Matrícula, IPTU, topografia e sondagem reunidos antes do projeto - não durante.",
+          "Projeto já compatibilizado. Arquitetura + estrutura nascem juntos. O analista não encontra conflito.",
+          "ARTs pagas e numeradas na prancha. Zero pendência documental.",
+          "Protocolo digital com DWG organizado. Camadas nomeadas, PDFs/A assinados ICP-Brasil.",
+          "Acompanhamento 2x/semana no 1Doc. Exigência respondida em 24-72h, não em 20 dias. Cada dia de atraso na resposta = 15 dias a mais na fila.",
+          "Vistorias agendadas com 48h de antecedência. Fiscal com agenda cheia não atrasa cronograma."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso Real - Meia Praia, 140m²"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Família comprou lote e precisava do alvará em 30 dias para não perder janela de financiamento. Semana 0: viabilidade + matrícula; Semana 1: projeto legal definido nos recuos; Semana 2: compatibilização + ARTs; Semana 3: protocolo sem exigências; **Dia 25: alvará na mão.** Obra iniciou no prazo e financiamento liberado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto para Aprovação vs. Alvará vs. Habite-se: Não Confunda"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto para aprovação (legal) = o desenho que você protocola para pedir licença",
+          "Alvará de construção = a licença que a prefeitura te dá para começar a obra (válido 1-2 anos)",
+          "Habite-se (Certidão de Conclusão) = o documento que a prefeitura te dá depois da obra pronta, atestando que você construiu conforme o aprovado. Sem ele, não há averbação, nem venda financiada, nem ligação definitiva."
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Fluxo completo: **Projeto Legal — \u0019 Alvará — \u0019 Obra — \u0019 Vistorias — \u0019 Habite-se — \u0019 Averbação na Matrícula**"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes (FAQ - Otimizado para Featured Snippet / PAA)"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que é projeto para aprovação na prefeitura?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 o projeto técnico (projeto legal) com plantas, cortes, fachadas, quadro de áreas e memorial, assinado por engenheiro/arquiteto com ART/RRT, que comprova à prefeitura que a obra respeita o Plano Diretor e o Código de Obras. Sem ele não há alvará."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa um projeto para aprovação na prefeitura em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para casa de 100 a 200m², o projeto legal custa de R$ 4.000 a R$ 12.000 + taxas da prefeitura (R$ 800 a R$ 2.500 para 150m²). Projetos complementares (estrutural, elétrico, hidrossanitário) custam R$ 3.000 a R$ 10.000 adicionais conforme complexidade."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto tempo demora para aprovar projeto na prefeitura de Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com processo bem instruído, de 30 a 90 dias entre protocolo e alvará (análise municipal: 15 a 45 dias úteis). Com exigências por projeto incompleto, o prazo dobra para 4 a 8 meses."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quem pode fazer projeto para aprovação na prefeitura?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Engenheiro civil (CREA) ou arquiteto (CAU) com registro ativo. Cada prancha exige ART/RRT correspondente. Despachante não pode assinar projeto - apenas protocolar."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Posso aprovar projeto sem topografia e sondagem?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a topografia é exigida para lotes em aclive/declive ou >500m². A sondagem SPT não é sempre obrigatória no protocolo, mas é tecnicamente indispensável no solo arenoso litorâneo - sem ela, o dimensionamento da fundação pode ser reprovado na vistoria e gerar patologia estrutural futura."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Preciso de projeto para reforma simples?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Reformas sem alteração de área, estrutura, fachada ou instalações hidrossanitárias/elétricas (ex: troca de piso, pintura, gesso) são isentas de alvará. Se houver quebra de parede estrutural, acréscimo de área ou troca de esquadria na fachada, o projeto legal volta a ser obrigatório (LC 416/2023)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que acontece se construir sem projeto aprovado?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Multa diária (R$ 500 a R$ 5.000), embargo imediato, impossibilidade de habite-se e averbação, bloqueio de financiamento e venda, e responsabilidade civil/criminal em caso de acidente. A regularização posterior custa 2x a 3x mais e pode exigir demolição parcial."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual a validade do projeto aprovado e do alvará?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto aprovado não vence, mas o **alvará** vale 2 anos (obra nova) ou 1 ano (reforma), prorrogável 1x por igual período. Se não iniciar a obra em 180 dias, o alvará caduca."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão: Projeto Aprovado de Primeira é Processo, Não Sorte"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Projeto para aprovação na prefeitura não é burocracia para \"cumprir tabela\" - é a garantia de que sua casa, comércio ou galpão cabe no lote, na lei e no solo de Navegantes. A diferença entre 25 dias e 6 meses de espera está toda **antes** do protocolo: na consulta prévia, no checklist documental fechado e no projeto compatibilizado que o analista entende na primeira leitura."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na **Regê Engenharia**, aprovação é rotina. Conhecemos a leitura da Secretaria de Planejamento Urbano de Navegantes, as armadilhas da LC 416/2023 e as particularidades do solo arenoso do litoral - e transformamos isso em alvará na mão, sem looping de exigências."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Próximo passo prático:**"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Envie a matrícula ou o endereço do lote no WhatsApp - a análise de viabilidade inicial é gratuita.",
+          "Receba em 24h o diagnóstico: o que seu lote permite, qual o caminho (alvará novo, reforma ou regularização) e o valor fechado.",
+          "Aprovamos e acompanhamos até o habite-se e a averbação."
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Regê Engenharia — Projetos para Aprovação na Prefeitura em Navegantes SC** Projetos legais, alvarás, habite-se e averbação com quem aprova toda semana na cidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **WhatsApp (consulta gratuita):** [https://bitlybr.net/rege](https://bitlybr.net/rege) —xR— **Site:** https://www.regeengenharia.com.br —x\u001c— **Atendemos:** Navegantes, Itajaí, Balneário Camboriú, Penha, Barra Velha e Litoral Norte SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo informativo atualizado em 08/2026. Legislação municipal (LC 001/2006, LC 002/2006, LC 416/2023) pode sofrer alterações - confirme a tabela de taxas e exigências vigente no e-Navegantes/1Doc ou na Secretaria de Planejamento Urbano antes de protocolar. Para seu caso específico, contrate engenheiro civil ou arquiteto com CREA/CAU ativo.*"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Referências Normativas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lei Complementar nº 001/2006 - Código de Obras e Edificações de Navegantes",
+          "Lei Complementar nº 002/2006 - Plano Diretor Participativo de Navegantes",
+          "Lei Complementar nº 416/2023 - Código Urbanístico de Navegantes (revisão)",
+          "Lei nº 2.852/2017 - Regularização Fundiária Urbana (Reurb) - Navegantes",
+          "NBR 12721, NBR 6118, NBR 5410, NBR 9050, NBR 15575 - ABNT"
+        ]
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "- Resolução CONFEA nº 1.025/2009 - ART",
+          "Resolução CAU/BR nº 51/2013 - RRT"
+        ],
+        "rows": []
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-25 -->"
+      }
+    }
+  ]
+}

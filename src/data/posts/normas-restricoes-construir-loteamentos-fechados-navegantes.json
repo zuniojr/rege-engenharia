@@ -1,0 +1,364 @@
+{
+  "slug": "normas-restricoes-construir-loteamentos-fechados-navegantes",
+  "title": "Construção em Loteamentos Fechados de Navegantes: Normas e Restrições",
+  "tag": "CONSTRUÇÃO",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Construção residencial em loteamento fechado em Navegantes SC, com casas em obra e portaria de acesso controlado ao fundo.",
+  "excerpt": "Construir dentro de um loteamento fechado em Navegantes exige cumprir duas legislações: a municipal e a do condomínio. Entenda as normas, restrições e o passo a passo para aprovar seu projeto sem embargo — desde a convenção até o Código Urbanístico.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comprar um lote dentro de um loteamento fechado em Navegantes parece a decisão mais segura para quem quer construir a casa própria. Terreno delimitado, portaria controlada, ruas internas, áreas comuns planejadas — tudo mais organizado que um lote solto na cidade. Mas essa organização tem um custo que nem todo mundo prevê: construir dentro de um loteamento fechado não é como construir em qualquer terreno da cidade. São duas legislações valendo ao mesmo tempo — a municipal e a do condomínio —, e quem não conhece as duas corre o risco de ver a obra embargada antes de terminar."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica as normas e restrições que valem para construção em loteamentos fechados de Navegantes: o que diz o Código Urbanístico, o que a convenção condominial pode exigir a mais, os parâmetros que o engenheiro precisa respeitar e o passo a passo para aprovar seu projeto sem susto."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é um loteamento fechado e por que as regras são diferentes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um loteamento fechado — oficialmente chamado de \"loteamento de acesso controlado\" pela Lei Federal nº 13.465/2017 — é um empreendimento urbanístico onde a subdivisão de terreno em lotes pode ter controle de acesso, desde que não impeça a passagem de pedestres, ciclistas e veículos devidamente identificados. Em Navegantes, o Código Urbanístico (Lei Complementar nº 414/2023) regulamenta essa modalidade no § 5º do artigo 357."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A diferença central entre um lote aberto e um lote de acesso controlado não está na legislação edilícia — as regras de construção são as mesmas da Prefeitura. A diferença está nas camadas adicionais de normas internas que o empreendedor ou a associação de proprietários estabelecem, e que o comprador obriga-se a cumprir no ato da compra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As três camadas de regras do loteamento fechado"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir em loteamento fechado exige cumprir três níveis de exigências ao mesmo tempo: a legislação municipal (prefeitura), o regimento do condomínio e as normas de autoconstrução ou livro de registros da construtora. Cada uma tem regras distintas, e nenhuma pode ser ignorada."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Legislação municipal — Código Urbanístico (LC 414/2023), Código de Obras (LC 416/2023) e Plano Diretor (LC 055/2008) definem os parâmetros de construção: taxa de ocupação, coeficiente de aproveitamento, recuos, gabarito, zoneamento, impermeabilização, acessibilidade e tudo o que se aplica a qualquer terreno da cidade",
+          "Legislação condominial — a convenção de condomínio, o regimento interno e as normas construtivas do loteamento podem ser MAIS RIGOROSAS que a lei municipal, nunca mais permissivas. Se a lei da cidade permite dois pavimentos e o condomínio limita a um, vale o condomínio",
+          "Legislação estadual e federal — a Lei nº 17.492/2018 (SC) sobre parcelamento do solo e a Lei Federal nº 6.766/1979 complementam as regras de infraestrutura, drenagem, saneamento e áreas de uso comum",
+          "Legislação ambiental — para lotes próximos à orla, rios ou áreas de preservação, o IMA/SC e a SPU (terreno de marinha) impõem restrições adicionais de afastamento e licenciamento"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A convenção de condomínio pode ser mais restritiva que a lei — mas nunca pode ser mais permissiva. Ao comprar o lote, você adere a todas as restrições."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o Código Urbanístico de Navegantes exige"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os parâmetros municipais que valem para construção em qualquer lote de Navegantes, incluindo os de loteamentos fechados:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Zoneamento — cada zona da cidade define os usos permitidos (residencial, comercial, misto), a taxa de ocupação, o coeficiente de aproveitamento, o gabarito e os recuos mínimos",
+          "Recuos frontais, laterais e de fundos — a distância mínima entre a construção e as divisas do terreno varia conforme a zona e o tipo de via; o projeto precisa respeitar cada milímetro",
+          "Área permeável — percentual mínimo do lote que deve ser mantido com vegetação ou solo permeável, cada vez mais relevante em Navegantes para drenagem urbana",
+          "Licenciamento — todo projeto deve ser submetido à Prefeitura via Aprova Digital, com ART/RRT, consulta de viabilidade, certidão de matrícula, projeto aprovado pelos bombeiros (quando aplicável) e demais exigências",
+          "Habite-se — a vistoria final da Prefeitura confirma que a construção foi executada conforme o projeto aprovado; sem habite-se, o imóvel não pode ser legalmente utilizado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que a convenção condominial pode restringir a mais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 aqui que mora a surpresa de muitos construtores. As normas internas de um loteamento fechado podem exigir bastante coisa além da lei da cidade. Veja o que é comum encontrar nas convenções:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Altura máxima da construção — muitos loteamentos limitam a um único pavimento térreo, mesmo que o zoneamento permita sobrado",
+          "Estilo arquitetônico — a convenção pode definir padrão visual: tipo de telhado, cores de fachada, material de revestimento, proibição de determinados estilos",
+          "Área mínima construída — alguns loteamentos exigem tamanho mínimo para a casa, evitando construções pequenas que, na visão do condomínio, desvalorizam o entorno",
+          "Prazo máximo para construção — é comum exigir que a obra seja concluída em 18 a 36 meses após a compra, sob pena de multa ou reversão do lote",
+          "Tipo de fechamento do lote — regras sobre muros, gradis, cercas vivas, altura máxima de fechamento lateral e frontal, proibição de muro cego na fachada",
+          "Proibição de edícula antes da casa principal — a edícula (churrasqueira, galpão) só pode ser construída depois da residência principal",
+          "Restrição de uso comercial — proibição de atividades comerciais, consultórios ou locação por temporada dentro do loteamento",
+          "Aprovação prévia do síndico — antes de enviar o projeto à Prefeitura, o condômino precisa submetê-lo à aprovação do condomínio, que analisa a conformidade com as normas internas",
+          "Tapume e proteção durante a obra — exigência de tapumes pintados, altura mínima, placas de identificação e horários de funcionamento da obra",
+          "Seguro de responsabilidade civil — alguns loteamentos exigem seguro contra danos a terceiros durante a execução da obra",
+          "Manutenção de áreas comuns — o proprietário é responsável pela manutenção do passeio, da calçada e da faixa verde na frente do lote"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A regra de ouro: se a convenção é mais restritiva que a lei municipal, vale a convenção. Se é mais permissiva, vale a lei."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Infraestrutura do loteamento: o que o empreendedor deve entregar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes que o proprietário comece a construir, o empreendedor do loteamento é responsável pela infraestrutura básica. A legislação estadual (Lei 17.492/2018) e o Código Urbanístico de Navegantes definem o que deve estar pronto antes da entrega dos lotes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vias pavimentadas — as ruas internas do loteamento devem estar pavimentadas conforme especificações técnicas (asfalto em vias coletoras e arteriais, bloco intertravado ou similar em vias locais)",
+          "Rede de água e esgoto — ligação à rede pública ou sistema próprio aprovado; o empreendedor deve comprovar viabilidade técnica junto à concessionária",
+          "Drenagem pluviais — sistema de coleta e escoamento de águas pluviais implantado, com obras de drenagem conforme projeto aprovado pela Prefeitura",
+          "Iluminação pública — pontos de iluminação nas vias internas",
+          "Regularização do terreno — registro do loteamento no Cartório de Registro de Imóveis, com transferência de domínio das áreas públicas ao Município",
+          "Prazo de implantação — máximo de 36 meses após o registro para concluir as obras de infraestrutura, sob pena de caducidade da aprovação (Art. 375 do Código Urbanístico)",
+          "Áreas comuns — espaço verde, portaria, calçadas e demais áreas de uso coletivo conforme o projeto aprovado"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a infraestrutura não estiver pronta na entrega do lote, o proprietário pode exigir do empreendedor o cumprimento do que foi contratado — e, em casos extremos, buscar reparação judicial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Manutenção das áreas comuns: quem paga?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em loteamentos de acesso controlado, a infraestrutura de áreas comuns (ruas, calçadas, áreas verdes, portaria, iluminação) é de responsabilidade da associação de proprietários — não da Prefeitura. Isso significa que, além do custo de construção, o proprietário precisa considerar a contribuição mensal para a manutenção do condomínio."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Manutenção de ruas e calçadas — limpeza, reparo de buracos, reposição de pavimento",
+          "Manutenção de áreas verdes — paisagismo, poda, irrigação, substituição de vegetação",
+          "Portaria e segurança — funcionário(s), sistema de monitoramento, manutenção de portões",
+          "Iluminação de áreas comuns — substituição de lâmpadas, reparo de fiação, manutenção de postes",
+          "Imóveis não alienados — até a venda de todos os lotes, a manutenção é responsabilidade do empreendedor",
+          "Segundo a Lei 17.492/2018 (Art. 21), a manutenção da infraestrutura pode ser delegada aos condôminos, desde que respeitada a individualização e proporcionalidade em relação à unidade imobiliária"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O passo a passo para construir em loteamento fechado em Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Leia a convenção e o regimento interno — antes de qualquer decisão, conheça todas as restrições do loteamento: altura, estilo, área mínima, prazo, fechamento e aprovação do condomínio",
+          "2. Consulte o zoneamento municipal — verifique no Código Urbanístico os parâmetros do seu terreno: uso permitido, recuos, taxa de ocupação, coeficiente de aproveitamento e gabarito",
+          "3. Contrate o engenheiro — o profissional que vai mediar as duas legislações, desenvolvendo um projeto que atenda simultaneamente à Prefeitura e ao condomínio",
+          "4. Submeta o projeto ao condomínio — antes de ir à Prefeitura, apresente o projeto ao síndico ou ao departamento técnico do loteamento para análise de conformidade com as normas internas",
+          "5. Aprovação condominial — se o projeto não estiver em conformidade, ele será devolvido para correções. Somente depois da aprovação interna é que ele segue para a Prefeitura",
+          "6. Protocolo na Prefeitura — envio do projeto via Aprova Digital com toda a documentação: ART/RRT, consulta de viabilidade, certidão de matrícula, projeto aprovado pelos bombeiros",
+          "7. Emissão do alvará — a Prefeitura analisa o projeto e, se conforme, emite o alvará de construção",
+          "8. Início da obra — respeitando horários definidos pelo condomínio (geralmente 7h às 17h em dias úteis), com tapumes, placas e seguro conforme exigido",
+          "9. Acompanhamento durante a obra — o condomínio pode fiscalizar se a execução está conforme o projeto aprovado internamente; qualquer desvio pode gerar embargo",
+          "10. Habite-se e entrega — vistoria da Prefeitura + vistoria do condomínio para liberar a ocupação definitiva"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os erros mais comuns (e como a engenharia evita)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Começar a obra sem aprovação do condomínio — o projeto vai ser barrado na Prefeitura quando o síndico perceber que não houve análise interna; em alguns casos, o condomínio embarga a obra no canteiro",
+          "Ignorar a convenção na hora de projetar — projetar um sobrado onde o condomínio só permite térreo é o erro mais caro: retrabalho do projeto, perda de tempo e, em casos extremos, impossibilidade de construir o que se planejava",
+          "Não considerar o solo litorâneo — terrenos de loteamentos fechados em Navegantes frequentemente têm solo arenoso e lençol freático elevado; sondagem e projeto de fundação são obrigatórios antes de qualquer carga",
+          "Economizar na impermeabilização — o litoral não admite atalhos: a maresia e a umidade entram por qualquer brecha na impermeabilização",
+          "Não prever infraestrutura de instalações — elétrica e hidráulica dimensionadas para a carga real da casa, não para o que \"parece suficiente\"",
+          "Descumprir prazos — se a convenção exige conclusão em 24 meses e a obra leva 36, o proprietário pode ser multado ou até perder o direito de permanecer no loteamento em casos extremos",
+          "Não anotar a ART — toda obra exige Anotação de Responsabilidade Técnica; a ausência gera multa do CREA e invalida o processo de aprovação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As multas mais comuns em loteamentos fechados"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem descumpre as normas pode enfrentar penalidades em três frentes: o condomínio, a Prefeitura e o CREA. As mais comuns:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construir sem aprovação do condomínio — multa nos cofres do loteamento + obra parada",
+          "Ultrapassar a altura ou a taxa de ocupação — correção exigida sob custo do proprietário",
+          "Usar material não autorizado — exigência de reexecução",
+          "Alterar a fachada sem aprovação — multa e obrigação de recolocar",
+          "Construir sem alvará — multa da Prefeitura + débito de taxas + risco de demolição",
+          "Infringir a linha de recuo ou de árvores — multa ambiental do município",
+          "Obra sem ART — multa do CREA + impossibilidade de regularização",
+          "Descumprir horário de obra — multa do condomínio + notificação do síndico"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como construir certo no seu loteamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Leia a convenção e o regimento interno antes de comprar — é a única forma de não ser surpreendido",
+          "Consulte o zoneamento municipal — verifique os parâmetros do terreno antes de projetar",
+          "Peça o projeto aprovado — pelo menos um modelo básico vindo da construtora ou do arquiteto do loteamento",
+          "Respeite a taxa de ocupação — construir no limite do permitido é convidar multas",
+          "Submeta o projeto ao condomínio antes da Prefeitura — a aprovação interna é etapa obrigatória",
+          "Solicite a vistoria do início — o condomínio aprova o início da obra; sem isso, tudo é irregular",
+          "Mantenha os documentos em ordem — alvará, ART e aprovações digitais guardadas",
+          "Acompanhe a obra com engenheiro — fiscalização técnica evita desvios e garante conformidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre construção em loteamentos fechados"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Tenho que construir igual ao do vizinho? Não. Cada um projeta o seu imóvel, mas dentro das regras do loteamento. O estilo é livre dentro do padrão estabelecido — e o padrão é que todos respeitem."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A prefeitura aprova a fachada? Depende da cidade e da área. Em muitos loteamentos de Navegantes, a fachada é regulada pelo regimento do condomínio — mas a altura e a taxa de ocupação vêm da prefeitura. Sempre consulte ambas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso demorar para começar a obra depois do alvará? O alvará de construção tem validade (geralmente 1 ano). Se o prazo expirar, é necessário requerer renovação ou novo alvará — e isso pode trazer novas exigências. Planeje o início da obra dentro do prazo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "E se o loteamento não tiver regimento? Todo loteamento de acesso controlado deve ter regimento aprovado em assembleia, conforme a Lei 17.492/2018. Se não tiver, a manutenção de áreas comuns e as regras de uso ficam sem base legal — o que traz instabilidade. Consulte um advogado especializado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O empreendedor é obrigado a entregar a infraestrutura antes de mim? Sim. A Lei 17.492/2018 e o Código Urbanístico de Navegantes definem que o empreendedor é responsável pela implantação da infraestrutura básica (vias, água, esgoto, drenagem) antes da entrega dos lotes. O prazo máximo é de 36 meses após o registro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso fazer reforma sem avisar o condomínio? Depende do regimento. Muitos loteamentos exigem aprovação prévia para qualquer intervenção — inclusive reformas que não alteram a área construída. Consulte o síndico antes de qualquer serviço."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia trabalha com loteamentos fechados? Sim. Elaboramos projetos, conduzimos aprovações condominiais e municipais e acompanhamos obras em loteamentos fechados de Navegantes e de todo o litoral catarinense."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Construção certa em loteamentos de Navegantes com quem entende de normas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir em loteamento fechado em Navegantes exige um profissional que conheça tanto a legislação municipal quanto as regras condominiais. A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Estudo de viabilidade — análise do zoneamento, da convenção e do terreno antes de projetar",
+          "Projeto arquitetônico e estrutural — desenvolvimento do projeto atendendo simultaneamente à Prefeitura e ao condomínio",
+          "Aprovação condominial e municipal — condução do processo em ambas as instâncias",
+          "ART e responsável técnico — documentação legal para cada etapa da obra",
+          "Acompanhamento de obra — fiscalização técnica para garantir que a execução esteja conforme o projeto aprovado",
+          "Habite-se e regularização — vistoria final e documentação para liberar a ocupação"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você comprou um lote em loteamento fechado em Navegantes e quer construir a sua casa, comece pelo estudo de viabilidade. A Regê Engenharia analisa o seu terreno, lê a convenção, verifica o zoneamento e desenvolve um projeto que atende a tudo — sem embargo, sem multa, sem surpresa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Entre em contato com a nossa equipe e descubra como construir dentro do loteamento fechado do jeito certo: legal, seguro e valorizado."
+      }
+    }
+  ]
+}

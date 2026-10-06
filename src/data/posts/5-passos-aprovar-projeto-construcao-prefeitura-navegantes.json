@@ -1,0 +1,233 @@
+{
+  "slug": "5-passos-aprovar-projeto-construcao-prefeitura-navegantes",
+  "title": "5 Passos para Aprovar Seu Projeto de Construção na Prefeitura de Navegantes",
+  "tag": "LEGISLAÇÃO",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Engenheiro civil entregando projeto de construção na Prefeitura de Navegantes SC para aprovação, com documentos e plantas arquitetônicas.",
+  "excerpt": "Aprovar um projeto de construção na Prefeitura de Navegantes não precisa ser burocracia interminável. Entenda os 5 passos essenciais — documentação, submissão, análise, correções e alvará — e evite os erros que mais atrasam a sua obra.",
+  "readTime": "9 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto bem feito sem o alvará aprovado na Prefeitura de Navegantes é como um navio sem licença para navegar: tudo pronto, mas preso ao cais. A aprovação do projeto não é apenas um obstáculo burocrático — é o passaporte legal que transforma seu projeto em obra, e que garante que a construção será feita de acordo com as regras da cidade e das normas técnicas. Mas o processo, muitas vezes visto como misterioso, pode ser dividido em 5 passos claros — e quando você sabe o que esperar em cada etapa, não só evita atrasos, como também evita retrabalho e multas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra, de forma prática e direta, os 5 passos para aprovar seu projeto de construção na Prefeitura de Navegantes em 2025/2026: o que preparar, como submeter, o que a prefeitura analisa, como resolver exigências e quando você pode finalmente começar a construir. Cada passo traz os documentos necessários, os erros mais comuns e o tempo estimado para cada fase — para que a sua obra comece sem sustos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 1: Prepare a documentação completa (e evite o principal erro)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A primeira e mais importante etapa é ter todos os documentos em ordem antes de entrar na Prefeitura. O erro mais comum: submeter o projeto incompleto e receber exigência de documentos que poderiam ter entrado juntos. Aqui está a lista de tudo o que você precisa, organizado para não voltar duas vezes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta baixa com dimensões reais — assinada e carimbada pelo engenheiro e arquiteto, com área total construída, recuos, taxas de ocupação e gabarito. A planta precisa estar em escala 1:50 ou 1:100",
+          "Projeto estrutural completo — cálculo das lajes, vigas, pilares e fundações, assinado com ART. No litoral, o projeto precisa considerar a maresia — o engenheiro deve especificar concreto e armadura com cobrimento adequado",
+          "Projeto elétrico — com diagrama unifilar, cálculo de carga e especificações para o ambiente marinho. No litoral, o projeto elétrico é mais rigoroso por causa da corrosão",
+          "Projeto hidráulico — com cálculo de carga, pressão e tipo de tubulação. Em Navegantes, o projeto hidráulico precisa prever tubos de PVC ou inox para resistir à maresia",
+          "Documento de titularidade — escritura ou título de propriedade do imóvel em seu nome, registrado no Cartório de Registro de Imóveis",
+          "CPF, RG e comprovante de residência do responsável técnico e do proprietário",
+          "Taxa de licenciamento — comprovante de pagamento da taxa municipal, que varia de R$ 200 a R$ 1.500 dependendo do tipo e porte da obra",
+          "Certidões negativas — de dívidas municipais, estaduais e federais, todas emitidas há menos de 30 dias",
+          "Planta baixa do imóvel existente — se for reforma ou ampliação, a planta original ajuda a prefeitura a entender o que já existe"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O segredo está em chegar com tudo certo na primeira vez. Cada ida extra à Prefeitura é um dia de obra perdida — e no litoral, cada dia conta."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 2: Submeta o projeto pelo sistema ou na janela física"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sistema online — a Prefeitura de Navegantes usa o SISOB (Sistema de Objetos de Construção). Você pode acessar o portal da prefeitura, criar um usuário e submeter todo o projeto em PDF, com as plantas em escala e os projetos anexos",
+          "Janela física — se preferir, pode entregar os documentos impressos na secretaria de obras. Mas o sistema online é mais rápido — a análise começa em 72h úteis após a submissão",
+          "Número de protocolo — ao submeter, você recebe um número de protocolo. Guarde bem — é com ele que você acompanha o andamento no site da prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Dica prática: antes de submeter, peça ao seu engenheiro para revisar toda a documentação. Projetos com correções técnicas não chegam com exigências de \"falta assinatura\", \"planta desenquadrada\" ou \"cálculo não bate com a planta\"."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 3: Aguarde a análise técnica (e entenda o que a prefeitura vê)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A análise do projeto é feita por dois setores da Prefeitura de Navegantes: a Divisão de Urbanismo (que verifica se o projeto obedece ao zoneamento, recuos, taxas de ocupação e gabarito) e o Departamento Técnico (que verifica a estrutura, instalações e segurança). O tempo médio de análise é de 7 a 15 dias úteis, mas pode variar em períodos de pico (janeiro a março)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Análise urbana — verifica se o recuo da sua casa respeita os limites do zoneamento, se a taxa de ocupação está dentro do permitido e se a fachada está de acordo com as exigências estéticas do novo código",
+          "Análise estrutural — o técnico municipal verifica se o projeto de fundações, aço e concreto atende às normas do litoral, com cobrimento adequado e resistência para a maresia",
+          "Análise de instalações — confere o projeto elétrico (NBR 5410) e hidráulico (NBR 9077) para garantir que atenda às exigências do litoral",
+          "Análise de acessibilidade — verifica se o projeto atende à NBR 9050 para acessibilidade, especialmente em apartamentos"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A aprovação não é só \"assinatura\". Cada item do seu projeto é verificado contra a lei, a norma e a realidade litorânea de Navegantes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 4: Corrija exigências sem retrabalho"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o projeto volta com exigências, não entre em pânico. A maioria das exigências são correções pontuais e podem ser resolvidas em 3 a 5 dias. O importante é entender o que foi pedido e corrigir com calma."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As exigências mais comuns em Navegantes são:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Recuo ajustado — o projeto avançou demais na testada ou não respeitou o recuo lateral. Correção: redesenhar a planta no recuo correto",
+          "Taxa de ocupação ou gabarito excedido — o projeto pauta mais m² do que o permitido. Correção: reduzir a construção ou solicitar autorização específica",
+          "Cálculo estrutural incompleto — faltam cargas, seção de vigas ou detalhes de ancoragem. Correção: complementar com o engenheiro",
+          "Projeto elétrico sem consideração ao litoral — falta proteção contra corrosão ou não atende ao IP necessário. Correção: adequar as especificações",
+          "Falta de ART ou documentação — a Anotação de Responsabilidade Técnica não foi anexada ou está com validade vencida. Correção: emitir nova ART"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Dica importante: quando corrigir, envie TODAS as correções juntas. Muitos proprietários corrigem uma exigência, submetem, e depois recebem outra exigência. Isso dobra o tempo. Peça ao engenheiro para revisar tudo antes de reenviar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo 5: Receba o alvará e inicie a obra legal"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Alvará de construção — documento oficial que autoriza o início da obra. Ele vem com número de processo, data de início previsto, prazo de conclusão e condições específicas (como horário de serviço)",
+          "Taxa de obra — o pagamento da taxa municipal de obra, que é cobrada sobre o valor da construção. Em Navegantes, a taxa varia de 1,5% a 2,5% do valor do orçamento declarado",
+          "Início da obra — com o alvará em mãos, você pode começar. A obra precisa começar dentro de 90 dias do alvará, caso contrário o documento vence"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Alvará não aprovado não é alvará. Construir sem o documento assinado pela Prefeitura é operar sem licença — e no litoral, onde as fiscais ambientais são rigorosas, o risco é maior."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que atrasam a aprovação (e como evitar)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Submeter projeto incompleto — o principal causador de devolução. Solução: checklist de documentos antes de entrar",
+          "Planta fora da escala correta — o técnico municipal não consegue ler. Solução: exigir do engenheiro plantas em escala 1:50, em PDF, com cotas e legendas",
+          "Cálculos não batendo com a planta — o projeto estrutural mostra uma laje de 120mm mas a planta desenha 150mm. Solução: revisão cruzada entre engenheiro e arquiteto antes da submissão",
+          "Esquecer a ART — sem a Anotação de Responsabilidade Técnica, o projeto é devolvido automaticamente. Solução: validar a ART antes de submeter",
+          "Plagiar o zoneamento — submeter um projeto que já foi aprovado para outro terreno. Solução: sempre verificar a ficha do zoneamento do seu imóvel no site da prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes: aprovação de projetos na Prefeitura de Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de engenheiro para aprovar o projeto na prefeitura? Sim. Todo projeto de construção, reforma ou ampliação precisa ter ART (Anotação de Responsabilidade Técnica) de um engenheiro ou arquiteto registrado no Conselho. A prefeitura não aceita projetos sem a assinatura e ART de um profissional habilitado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva para aprovar? Em média, 15 a 30 dias úteis. O sistema online começa a análise em 72h. Depois, o processo depende de quantas exigências vierem e da velocidade de correção."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso submeter o projeto por conta própria? Sim, qualquer pessoa pode submeter. Mas é fortemente recomendado que um engenheiro ou arquiteto acompanhe o processo — especialmente no litoral, onde as exigências técnicas são mais rigorosas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "E se o projeto for rejeitado? Pode ser corrigido e reenviado. A Prefeitura de Navegantes permite até 3 reenvios no mesmo protocolo. Após isso, é necessário abrir um novo processo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de projeto para reforma pequena? Para reformas que não alteram a estrutura ou a fachada, a Prefeitura pode exigir apenas um memorial descritivo. Mas no litoral, com a nova legislação de preservação da orla, mesmo reformas pequenas precisam de aprovação se estiverem em áreas de proteção."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Aprovação de projeto na Prefeitura de Navegantes com quem entende o processo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está construindo em terreno arenoso e precisa de sistema de tratamento de esgoto, entre em contato com a nossa equipe. Vamos garantir que o seu sistema funcione corretamente — protegendo o seu patrimônio, a saúde da sua família e o meio ambiente."
+      }
+    }
+  ]
+}

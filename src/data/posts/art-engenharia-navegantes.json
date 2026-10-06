@@ -1,0 +1,228 @@
+{
+  "slug": "art-engenharia-navegantes",
+  "title": "ART Engenharia em Navegantes SC: Como Emitir, Verificar e Regularizar sua Obra",
+  "tag": "DOCUMENTAÇÃO",
+  "image": "/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png",
+  "imageAlt": "Etapas de aprovação de projeto e documentação de obra em Navegantes SC, incluindo prefeitura, bombeiros e cartório.",
+  "excerpt": "Toda obra em Navegantes precisa de ART — do projeto à execução. Entenda como funciona a Anotação de Responsabilidade Técnica no CREA-SC, os tipos de ART, como verificar se a sua obra está regular e o que a Prefeitura de Navegantes exige.",
+  "readTime": "8 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou regularizar um imóvel em Navegantes, vai ouvir falar de ART desde o primeiro contato com um engenheiro. E não é burocracia à toa: a Anotação de Responsabilidade Técnica é o documento que garante que sua obra tem um profissional legalmente responsável — e é também condição para aprovar projetos, tirar alvará e averbar o imóvel."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste guia, você vai entender como a ART funciona na prática para obras em Navegantes: quem emite, quais os tipos, quanto custa, como verificar se uma ART é verdadeira e como a Prefeitura de Navegantes usa esse documento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é a ART e por que ela é obrigatória em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A ART (Anotação de Responsabilidade Técnica) é o registro oficial, feito junto ao CREA, que vincula um profissional habilitado a um serviço técnico — projeto, execução, laudo, perícia ou consultoria. Ela foi instituída pela Lei nº 6.496/1977 e é obrigatória para praticamente toda atividade de engenharia no Brasil."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a ART é exigida em vários momentos da vida de um imóvel:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Aprovação de projeto na Prefeitura — sem ART do projeto, não há aprovação",
+          "Emissão de alvará de construção ou reforma",
+          "Execução da obra — a ART de execução acompanha a obra até a vistoria final",
+          "Vistoria de conclusão e habite-se",
+          "Averbação da construção no cartório de registro de imóveis",
+          "Regularização de obras existentes e laudos técnicos"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Sem ART não existe obra legal em Navegantes: é o documento que conecta o projeto, a execução e o imóvel registrado em cartório."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os tipos de ART para uma obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma mesma obra costuma ter mais de uma ART — cada serviço técnico é anotado separadamente. Os tipos mais comuns em Navegantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "ART de projeto — cobre o projeto arquitetônico, estrutural, elétrico, hidrossanitário e complementares",
+          "ART de execução — cobre a realização física da obra, assumida pelo responsável técnico da obra",
+          "ART de laudo ou vistoria — para laudos de avaliação, de inspeção, de infiltração e demais documentos técnicos",
+          "ART de perícia — para perícias judiciais e extrajudiciais",
+          "ART de manutenção e recuperação — para serviços de manutenção predial e recuperação estrutural"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada tipo tem campos específicos que descrevem o serviço, a atividade técnica, a obra e o responsável. Por isso a ART de uma casa em Navegantes nunca é igual à de outra em Balneário Camboriú: os dados do imóvel e do serviço são sempre descritos individualmente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem emite a ART em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A ART é emitida pelo profissional ou pela empresa responsável — engenheiro civil, arquiteto ou empresa de engenharia registrada — diretamente no sistema do CREA-SC (o estado de Santa Catarina pertence ao CREA-SC, com sede em Florianópolis). A emissão é eletrônica, feita pelo profissional no portal do CREA, e o registro fica disponível para consulta pública."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, você não precisa fazer nada: ao contratar a Regê Engenharia (ou qualquer responsável técnico idôneo), a emissão da ART faz parte do serviço contratado. O que você deve fazer é exigir o número da ART e conferir se ela está registrada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa uma ART?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo da ART em Santa Catarina é definido pelo CREA-SC e atualizado periodicamente. Hoje, o valor de uma ART de obra ou projeto fica na casa de algumas dezenas de reais (o valor exato varia conforme a tabela vigente e o tipo de atividade)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um ponto importante: o valor da ART é pequeno — o que pode custar caro é não tê-la. Obra sem ART em Navegantes pode ser embargada, gerar multas, impedir o habite-se e inviabilizar a venda do imóvel. —0 um custo de centavos comparado ao risco."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como verificar se a ART da sua obra é válida"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de liberar qualquer pagamento a um profissional, verifique a ART. O CREA disponibiliza consulta pública gratuita no site do conselho: basta o número da ART ou os dados do profissional para confirmar se o registro existe, se está ativo e a quem pertence a responsabilidade."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Exija o número da ART e a descrição do serviço por escrito",
+          "Consulte a ART no site do CREA e confirme que o responsável está registrado no CREA-SC",
+          "Confira se a atividade descrita corresponde ao serviço contratado (projeto, execução, laudo...)",
+          "Desconfie de \"ART por fora\": se o profissional não vai acompanhar a obra, a ART é irregular"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "ART, Prefeitura de Navegantes e regularização do imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Prefeitura de Navegantes exige a ART em todas as etapas do licenciamento: aprovação de projeto, alvará de construção, vistorias e habite-se. Na prática, a ART é a garantia da prefeitura de que existe um responsável técnico pela obra — e é ela que liga o projeto aprovado à construção executada."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para imóveis construídos sem documentação, a regularização também passa pela ART: laudos técnicos, projetos de regularização e, em alguns casos, a baixa de ART antigas ou a emissão de novas ART conforme a situação da obra."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regularizar um imóvel sem ART é como tentar matricular um filho sem certidão de nascimento: falta o documento que conecta a obra ao seu responsável técnico."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre ART em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de ART para reforma de apartamento em Navegantes? Sim, se a reforma envolver alterações estruturais, instalações ou modificações que exijam projeto — como a maioria das reformas em condomínios. Os síndicos exigem a ART com base na NBR 16280, que regula reformas em edificações."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso emitir a minha própria ART? Não. A ART só pode ser emitida por profissional legalmente habilitado (engenheiro ou arquiteto registrado no CREA/CAU) ou pela empresa de engenharia responsável."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "ART tem validade? A ART é registrada no momento da emissão e vale para o serviço descrito. Obras longas podem ter ART complementares ou de continuidade, conforme o desenrolar dos serviços."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que acontece com a obra sem ART em Navegantes? Embargo pela fiscalização, multas, impedimento de habite-se e problemas para vender ou financiar o imóvel. Em caso de acidente ou dano, a responsabilidade recai inteiramente sobre o proprietário."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia emite ART? Sim. Todos os nossos serviços — projetos, execução de obras, laudos e perícias — são acompanhados da ART correspondente, emitida e registrada no CREA-SC."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conte com a Regê Engenharia para a sua obra em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos, execução de obras, laudos e regularização de imóveis — sempre com a documentação técnica completa, incluindo as ART de cada serviço."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está construindo, reformando ou precisa regularizar um imóvel em Navegantes, entre em contato com a nossa equipe. Vamos cuidar da parte técnica — e da documentação — para você construir com tranquilidade."
+      }
+    }
+  ]
+}

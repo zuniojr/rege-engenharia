@@ -1,0 +1,313 @@
+{
+  "slug": "riscos-de-construir-sem-engenheiro",
+  "title": "Quais os Riscos de Construir Sem Engenheiro? Os 9 Riscos que Podem Custar sua Obra",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Construção sem engenheiro civil em Navegantes SC com problemas estruturais — trincas, desalinhamento e risco de embargo, representando os riscos de construir sem projeto e sem ART.",
+  "excerpt": "Construir sem engenheiro pode até parecer mais barato no início — até a trinca, o embargo, a multa ou o acidente aparecerem. Conheça os 9 riscos reais de construir sem responsável técnico, o que a lei diz e por que o preço desse \"atalho\" é o mais alto de toda a obra.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir sem engenheiro é uma das decisões mais arriscadas que um proprietário pode tomar — e também uma das mais comuns. No litoral de Santa Catarina, onde a construção civil não para de crescer, milhares de obras são iniciadas todos os anos sem projeto, sem cálculo estrutural e sem responsável técnico. O argumento é sempre o mesmo: \"o engenheiro encarece a obra\" ou \"meu pedreiro já construiu muita casa\". A verdade técnica é outra: o que encarece a obra não é o engenheiro — são os erros que ele impede."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir sem engenheiro significa, na prática, construir sem projeto, sem cálculo estrutural, sem ART e sem responsável técnico perante o CREA e a prefeitura. —0 uma obra que depende inteiramente da experiência do mestre de obras — e que assume, sozinha, todos os riscos legais, financeiros e de segurança que a engenharia existe justamente para eliminar. Este guia apresenta os 9 riscos reais de construir sem engenheiro, o que a lei diz sobre o assunto e por que o \"economia\" da contratação é a conta mais cara da construção."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Construir sem engenheiro não é economizar na obra — é apostar o patrimônio inteiro no resultado dela."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 1: risco estrutural — a obra pode cair (e ninguém vai avisar antes)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O risco mais grave de construir sem engenheiro é também o mais silencioso: a estrutura mal calculada não dá sinais antes de falhar. Uma fundação dimensionada \"no olho\", um pilar fino demais, uma viga que não suporta a carga, um vão maior que o calculado — nenhum desses erros aparece durante a obra. Eles ficam esperando: o primeiro reforço de carga, a primeira laje a mais, a primeira mudança de uso do imóvel. O concreto sem resistência especificada, a armadura com diâmetro reduzido e a espessura de laje menor que a necessária são decisões que nenhum pedreiro tem formação para tomar — e cuja consequência pode ser o colapso da edificação, com famílias dentro."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fundação sem sondagem do solo — cada terreno tem resistência própria; no litoral, o solo arenoso e o lençol freático alto exigem estudo geotécnico antes de qualquer decisão de fundação",
+          "Cálculo estrutural ausente — pilares, vigas e lajes não dimensionados não têm como ser verificados; a estrutura funciona \"por sorte\", não por ciência",
+          "Concreto e armadura sem especificação — resistência, cobrimento e diâmetro das barras são definidos pelo cálculo; sem ele, valem o palpite da obra",
+          "Mudanças sem recálculo — aumentar um vão, adicionar um pavimento ou abrir um vão em parede estrutural sem recálculo é um dos acidentes mais comuns em obras informais"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Estrutura sem cálculo é roleta-russa: a maioria das casas não cai no dia da inauguração. Cai quando menos se espera — e sem aviso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 2: risco legal — a obra pode ser embargada e multada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Lei Federal nº 5.194/1966, que regula o exercício da engenharia no Brasil, é clara: obras de construção civil exigem responsável técnico habilitado, com registro no CREA e ART emitida. Construir sem engenheiro é, na letra da lei, exercício ilegal de profissão regulamentada — passível de multa, embargo e responsabilização do proprietário e de quem executou a obra. E o CREA não está de folga: a fiscalização atua com base em denúncias e vistorias, principalmente em regiões de construção intensa como o litoral catarinense."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Embargo da obra — a fiscalização pode interromper a construção a qualquer momento até a regularização, paralisando equipe, materiais e cronograma",
+          "Multas do CREA e da prefeitura — valores que crescem conforme a obra avança e o período de irregularidade",
+          "Exercício ilegal da profissão — o proprietário e o executante podem responder por praticar atos de engenharia sem habilitação (art. 6º e 7º da Lei 5.194/1966)",
+          "Impossibilidade de habite-se — sem responsável técnico, a obra não tem como obter o alvará de habitabilidade, e o imóvel fica permanentemente irregular"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 3: risco financeiro — o erro estrutural custa mais que o engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A conta que o proprietário não faz antes de começar é a conta que aparece depois: corrigir um erro estrutural custa dezenas de vezes o valor do projeto e do acompanhamento técnico. Reforçar uma fundação mal executada, escorar uma viga subdimensionada ou demolir e refazer uma parede estrutural são serviços que facilmente ultrapassam R$ 30 mil a R$ 100 mil — valores que nenhum honorário de engenharia alcança. Sem falar no desperdício de material, no retrabalho e nos atrasos que a obra sem projeto acumula do início ao fim."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Correção de fundação — recalque e trinca estrutural: R$ 40 mil a R$ 200 mil, contra uma sondagem e um projeto de poucos milhares",
+          "Reforço estrutural — viga, pilar ou laje subdimensionados: R$ 20 mil a R$ 100 mil por intervenção",
+          "Retrabalho e desperdício — obras sem projeto desperdiçam de 8% a 15% em material e serviços refeitos",
+          "Desvalorização do imóvel — obra irregular ou com patologias vale menos e trava a venda, o financiamento e a locação"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O engenheiro não é o custo da obra — é o seguro dela. E, como todo seguro, só parece caro até o dia em que precisaria existir."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 4: risco de responsabilidade civil — a dívida que o proprietário carrega"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando a obra não tem responsável técnico, quem responde por ela é o proprietário. Se uma trinca compromete a estrutura, se um dano atinge o vizinho, se um acidente fere um trabalhador — a responsabilidade civil recai sobre quem contratou a obra sem engenharia. O Código Civil é direto: quem causa dano a outrem é obrigado a repará-lo, e o dono da obra responde pelos prejuízos causados aos vizinhos (arts. 186, 927 e 1277 a 1281). Na prática, isso significa que o proprietário pode ser processado, condenado a pagar reparos e indenizações — sem ter para quem transferir a responsabilidade técnica."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dano ao vizinho — escavação, vibração ou sobrecarga que danificam o imóvel ao lado: responsabilidade do dono da obra",
+          "Acidente de trabalho — o proprietário responde solidariamente por acidentes no canteiro quando a obra não tem responsável técnico",
+          "Vício estrutural — o dono da obra responde pela entrega de construção insegura, mesmo anos depois de pronta",
+          "Sem seguro — obras sem ART e sem engenharia geralmente não são aceitas por seguradoras de responsabilidade civil"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 5: risco de acidentes — a vida que está no canteiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construção civil é, historicamente, uma das atividades mais perigosas do país — e a maior parte dos acidentes acontece justamente em obras sem engenharia: sem projeto de segurança do trabalho, sem andaimes dimensionados, sem escoramentos verificados, sem EPI controlado. O engenheiro não é um fiscal de EPI: é quem dimensiona escoramentos, define a sequência segura de execução, verifica a estabilidade de estruturas provisórias e aplica as normas regulamentadoras (NR-18, NR-6, NR-35) no canteiro. Sem ele, a segurança da equipe depende do improviso — e o preço de um acidente não se mede em reais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 6: risco de qualidade — a obra que não segue norma nenhuma"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As normas técnicas brasileiras (NBRs) existem para que a construção funcione e dure: a NBR 6118 define o projeto do concreto, a NBR 6122 as fundações, a NBR 5410 as instalações elétricas, a NBR 15575 o desempenho das edificações. A obra sem engenheiro ignora todas elas — e cada norma ignorada vira um defeito com data marcada: infiltração no banheiro, elétrica que esquenta, piso que descola, fachada que trinca, cobertura que voa. A obra informal quase sempre fica bonita na entrega; a qualidade só aparece com o tempo — e o tempo cobra."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A obra sem engenheiro não economiza na qualidade: adia o custo dela. O que a norma impede hoje, o conserto cobra depois — com juros."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 7: risco de regularização — o imóvel que nunca fica legal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sem engenheiro, não existe projeto para aprovar, não existe ART para registrar e não existe responsável técnico para assinar a conclusão. Consequência: a obra jamais obtém o habite-se, jamais é averbada no cartório e jamais pode ser vendida com financiamento. Em Navegantes, onde o novo sistema de licenciamento (SUL) e a Lei Complementar 416/2023 tornaram a aprovação mais rigorosa, a obra irregular fica ainda mais presa: regularizar depois é possível, mas custa caro — e o imóvel perde valor e liquidez enquanto permanece irregular."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sem habite-se — o imóvel não pode ser legalmente habitado, vendido ou financiado",
+          "Sem averbação — a construção não entra na matrícula do terreno, e o imóvel vale como terreno apenas",
+          "Sem financiamento — bancos não liberam crédito para obra ou imóvel sem responsável técnico e documentação",
+          "Regularização tardia — regularizar obra já construída exige projeto as-built, laudos, ART e aprovação retroativa — mais caro e mais lento"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 8: risco de quem compra — o vizinho e o próximo proprietário"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O risco da obra sem engenheiro não fica dentro do terreno: transborda para o vizinho e para o futuro comprador. O vizinho que sofre com a obra sem contenção, sem vistoria cautelar e sem acompanhamento é vítima direta do improviso alheio — e o comprador que adquire um imóvel sem documentação técnica herda todos os problemas: patologias escondidas, estrutura não verificada e um imóvel que não consegue financiamento nem registro. Quem compra obra informal compra, junto, o passivo técnico de quem a construiu."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Risco 9: risco de não ter garantia — o prejuízo sem ressarcimento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando a obra tem engenheiro e ART, o proprietário tem um instrumento jurídico para exigir correção: a Anotação de Responsabilidade Técnica identifica o responsável e cria o vínculo legal que permite cobrar reparos, reexecução e indenização. Sem ART, esse vínculo não existe. O pedreiro que errou some, o mestre que garantiu \"não dá problema\" não assinou nada, e o proprietário fica com o prejuízo e sem para quem apontar. A garantia de uma obra não é a promessa verbal — é o documento técnico."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Quem constrói sem ART constrói sem garantia: o erro vira prejuízo, e o prejuízo não tem dono para cobrar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que a lei diz: construir sem engenheiro é ilegal"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Vale reforçar o que a legislação brasileira estabelece sobre o assunto:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lei 5.194/1966 — o exercício de engenharia e a realização de obras exigem habilitação legal e registro no CREA; o profissional habilitado é quem assume a responsabilidade técnica",
+          "ART obrigatória — todo serviço de engenharia deve ter Anotação de Responsabilidade Técnica registrada no CREA, inclusive para fins de fiscalização, licenciamento e judicial",
+          "Código de Obras municipal — os municípios exigem projeto e responsável técnico para emissão de alvará de construção; em Navegantes, o licenciamento passa pelo SUL com ART obrigatória",
+          "Responsabilidade civil — o Código Civil (arts. 186, 927 e 1277 a 1281) responsabiliza o dono da obra pelos danos causados a vizinhos e terceiros",
+          "Código Penal — praticar atos de profissão regulamentada sem habilitação pode configurar contravenção ou crime, conforme o caso (art. 47 da Lei das Contravenções Penais)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Construir sem engenheiro pode até sair mais barato — na primeira semana"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A economia aparente de construir sem engenheiro existe apenas na primeira semana de obra, quando o orçamento ainda não encontrou nenhum imprevisto. Depois, ela se dissolve na primeira trinca, no primeiro embargo, na primeira recusa de financiamento, na primeira infiltração. O projeto estrutural custa uma fração do valor da obra; o acompanhamento técnico, poucos por cento. E ambos protegem o maior investimento da vida da maioria das famílias: a casa. Quem constrói sem engenheiro não está economizando — está escolhendo onde pagar o dobro: agora, no canteiro, ou depois, no conserto."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O barato de construir sem engenheiro é o mais caro da construção: ele cobra uma vez no erro, outra na multa e outra na desvalorização do imóvel."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre construir sem engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 obrigatório ter engenheiro para construir uma casa? Sim. Qualquer edificação exige responsável técnico habilitado com ART registrada no CREA, tanto para o projeto e a execução quanto para a aprovação na prefeitura e o habite-se. O \"jeitinho\" de construir sem engenheiro é a exceção ilegal, não a regra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem constrói sem engenheiro pode ser multado? Sim. O CREA pode multar por obra sem responsável técnico e a prefeitura por obra sem licença — além do embargo da construção. Em Navegantes, o licenciamento digital (SUL) verifica a ART antes de qualquer aprovação."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "E se a obra já foi construída sem engenheiro? Dá para regularizar. A regularização de obra existente exige levantamento as-built, projeto de conformidade, laudos técnicos e ART de regularização, seguidos de aprovação na prefeitura e averbação. —0 mais caro e mais demorado do que ter começado certo — mas é o caminho para tirar o imóvel da ilegalidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro é necessário mesmo para reformas? Depende do porte: reformas simples de acabamento podem dispensar projeto, mas qualquer intervenção estrutural — abrir vão, demolir parede, mudar cobertura — exige cálculo e responsável técnico. A dúvida se resolve com uma consulta técnica pontual, que custa pouco e elimina o risco."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir sem engenheiro é mais barato? Só na primeira semana. O custo total de uma obra sem engenharia — retrabalho, desperdício, multas, correções e desvalorização — é sistematicamente maior que o de uma obra com projeto e acompanhamento técnico. O barato sai caro é a regra mais antiga da construção."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Construa com engenharia em Navegantes e no litoral de Santa Catarina"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense desde 2016, com projeto, cálculo estrutural, acompanhamento técnico e execução de obras residenciais e comerciais. Nossa equipe conhece o solo, a maresia e a legislação da região — e entrega cada obra com ART registrada, projeto aprovado e o imóvel legalizado do alvará ao habite-se."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir ou reformar, não comece pelo canteiro — comece pela conversa certa. Entre em contato com a equipe da Regê Engenharia e receba a orientação técnica do seu projeto: o valor de uma consulta é nada perto do preço de um erro estrutural."
+      }
+    }
+  ]
+}

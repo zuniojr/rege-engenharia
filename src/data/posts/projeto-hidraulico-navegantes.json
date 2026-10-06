@@ -1,0 +1,255 @@
+{
+  "slug": "projeto-hidraulico-navegantes",
+  "title": "Projeto Hidráulico: Por Que Sua Obra em Navegantes Precisa de Rede, Esgoto e Pluvial Projetados",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Projeto hidráulico de edificação em Navegantes SC, com rede de água, esgoto e pluvial dimensionados e ART do engenheiro no CREA-SC.",
+  "excerpt": "Vazamento, mau cheiro e refluxo de esgoto começam no projeto que não foi feito. Entenda o que é o projeto hidráulico, quais as normas ABNT (NBR 5626, 8160, 7198), quando ele é obrigatório em Navegantes e o que exigir do engenheiro para uma instalação que não dá problema.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A primeira infiltração aparece meses depois de entregar a obra. O esgoto volta no ralo no dia de chuva forte. A caixa de água não supre o pavimento superior. Quase sempre, o problema não foi a execução — foi a ausência de projeto hidráulico. Água e esgoto são as instalações que mais causam dor de cabeça e custo de retrabalho quando dimensionadas no olho, e no litoral de Navegantes o lençol freático e a maresia tornam o erro ainda mais caro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra o que é o projeto hidráulico, quais as normas que ele deve seguir (NBR 5626, NBR 8160 e NBR 7198), quando ele é obrigatório em Navegantes e o que você deve exigir do engenheiro civil para entregar uma instalação sem vazamento, sem mau cheiro e dentro da lei."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto hidráulico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto hidráulico é o conjunto de memoriais e desenhos que define toda a instalação de águas de uma edificação: a rede de água potável (fria), a rede de esgoto sanitário, a rede de águas pluviais (chuva) e os reservatórios e bombas. Ele dimensiona diâmetros, quedas, pressões e ligações para que tudo funcione sem vazamento, refluxo ou alagamento."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Rede de água fria — alimentação, reservatório, bomba e distribuição aos pontos de uso",
+          "Rede de esgoto sanitário — coleta e condução dos efluentes até a ligação da CASAN",
+          "Rede pluvial — captação e escoamento da água da chuva, evitando alagamento",
+          "Reservatório e bomba — dimensionados para a demanda e para a pressão de cada pavimento",
+          "Ligações com a concessionária — padrão de entrada de água e de esgoto conforme a CASAN"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Hidráulica mal projetada é a obra que funciona mal em silêncio — até o primeiro ralo entupir."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As normas que regem a hidráulica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No Brasil, as instalações prediais hidráulicas seguem normas da ABNT que o projeto deve respeitar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 5626 — Instalações prediais de água fria: dimensionamento de reservatório, pressão e distribuição",
+          "NBR 8160 — Instalações prediais de esgoto sanitário: diâmetros, declividades e ventilação da rede",
+          "NBR 7198 — Instalações prediais de águas pluviais: captação e escoamento da chuva",
+          "NBR 12218 — Sistemas de reservação de água: reservatório de concreto ou reservatório de polietileno",
+          "Código de obras de Navegantes — recuos, passeio e padrão de ligação conforme o município e a CASAN"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que no litoral de SC a hidráulica é sensível"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Lençol freático elevado — a rede de esgoto e as fundações convivem com a água subterrânea, exigindo projeto de nível e estanqueidade",
+          "Maresia — tubulações e conexões expostas sofrem corrosão; o material deve ser especificado para o ambiente",
+          "Chuva intensa — a rede pluvial precisa comportar picos de tempestade sem alagar o terreno",
+          "Solo arenoso — drenagem e assentamento das tubulações exigem critério para evitar assentamento diferencial",
+          "Saneamento local — a ligação com a CASAN segue padrão próprio que o projeto deve atender"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem assina a responsabilidade técnica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro civil (CREA-SC) — profissional habilitado a projetar instalações hidráulicas, com ART registrada",
+          "Engenheiro sanitário — quando a obra exige dimensionamento de reservatório ou estação de tratamento",
+          "Arquiteto (CAU/BR) — integra o hidráulico ao partido arquitetônico, com RRT quando altera o desenho",
+          "Instalador hidráulico — executa conforme o projeto; a execução segue a responsabilidade do projetista"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Quem assina a ART da hidráulica responde por cada gota que vaza e por cada ralo que reflui. Exija o engenheiro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o projeto hidráulico é obrigatório"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Aprovação de obra — a Prefeitura e a CASAN exigem o projeto hidráulico para liberar o alvará e a ligação",
+          "Habite-se — a rede concluída e ligada é exigência para o certificado de conclusão",
+          "Reforma com mudança de banheiro ou cozinha — alterar pontos altera diâmetros e declividade",
+          "Ampliação ou segundo pavimento — a demanda cresce e a rede existente pode ser insuficiente",
+          "Imóvel antigo — regularização hidráulica para adequar a instalação à norma atual"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que exigir do engenheiro"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro ativo no CREA-SC — confirme o número de registro no conselho",
+          "ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada antes da execução",
+          "Cálculo conforme a NBR 5626, 8160 e 7198 — diâmetros, declividades e pressões justificados",
+          "Reservatório e bomba dimensionados — capacidade e pressão para o maior pavimento",
+          "Ligação conforme a CASAN — padrão de entrada de água e esgoto atendendo à concessionária",
+          "Rede pluvial separada — chuva não deve misturar com esgoto, evitando sobrecarga e poluição",
+          "ART de execução — ao final, o engenheiro atesta a instalação conforme o projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que viram infiltração e mau cheiro"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionar no olho — tubulação menor que a demanda gera pressão insuficiente e refluxo",
+          "Declividade errada — esgoto sem queda adequada entope; sem ventilação, solta mau cheiro",
+          "Pluvial misturada com esgoto — sobrecarrega a rede e polui; a separação é exigência",
+          "Reservatório subdimensionado — o pavimento superior fica sem água nos horários de pico",
+          "Ligação fora da CASAN — a concessionária não libera e a obra fica sem esgoto regular",
+          "Omitir estanqueidade no litoral — lençol freático e maresia exigem material e vedação adequados"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O erro mais caro da hidráulica não aparece na entrega — aparece na primeira conta de retrabalho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto hidráulico na prática: o passo a passo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contrate engenheiro civil habilitado no CREA-SC — com experiência em instalações litorâneas",
+          "Levante a demanda — número de pontos, pavimentos e uso previsto da edificação",
+          "Exija ART e cálculo conforme as NBR — projeto fundamentado e registrado",
+          "Adeque à CASAN — padrão de ligação de água e esgoto conforme a concessionária",
+          "Separe redes — água, esgoto e pluvial projetados de forma independente",
+          "Execute e ateste — instalação conforme o projeto, com ART de execução para o habite-se"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre projeto hidráulico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra precisa de projeto hidráulico? Sim. Mesmo residências exigem dimensionamento de reservatório, pressão e esgoto conforme a NBR 5626 e a NBR 8160. A escala muda o porte, não a obrigatoriedade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro e o instalador são a mesma pessoa? Não necessariamente. O engenheiro projeta e assume a ART; o instalador executa. Contratar o projetista e o executor separados é comum, desde que o projeto venha antes da obra."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A CASAN libera sem projeto? Não. A concessionária exige o padrão de ligação conforme o projeto aprovado; sem ele, não há ligação regular de água e esgoto."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Por que separar pluvial de esgoto? Porque a rede de esgoto tem capacidade para o efluente sanitário. Jogar chuva nela sobrecarrega e causa refluxo e poluição. A separação é norma e boa prática."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa o projeto hidráulico? Varia com a área e a complexidade. O custo do projeto é ínfimo frente ao retrabalho de quebrar parede para consertar vazamento ou entupimento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto hidráulico com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos hidráulicos dimensionados conforme a NBR 5626, a NBR 8160 e a NBR 7198. Cuidamos da rede de água, do esgoto, da pluvial, do reservatório e da bomba, e da adequação à CASAN — sempre com ART no CREA-SC e atenção às exigências do lençol freático e da maresia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai construir, reformar ou ampliar em Navegantes, fale com nossa equipe antes de fechar a parede. Um projeto hidráulico feito por engenheiro é o que mantém sua obra sem vazamento, sem mau cheiro e com a rede regular desde o primeiro dia."
+      }
+    }
+  ]
+}

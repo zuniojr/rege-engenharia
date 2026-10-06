@@ -1,0 +1,421 @@
+---
+export const prerender = false;
+
+import { blogPosts } from '../../data/blogPosts.js';
+
+const ADMIN_PASSWORD = 'rege2025';
+const COOKIE_NAME = 'rege_admin';
+
+const cookie = Astro.request.headers.get('cookie') || '';
+const isAuthenticated = cookie.includes(`${COOKIE_NAME}=ok`);
+
+let passwordWrong = false;
+
+if (Astro.request.method === 'POST') {
+  const body = await Astro.request.formData();
+  const password = body.get('password');
+  if (password === ADMIN_PASSWORD) {
+    return new Response(null, {
+      status: 302,
+      headers: {
+        'Set-Cookie': `${COOKIE_NAME}=ok; Path=/; HttpOnly; Max-Age=86400`,
+        'Location': '/admin/blog',
+      },
+    });
+  } else {
+    passwordWrong = true;
+  }
+}
+
+const featuredPost = blogPosts.find(p => p.featured);
+const gridPosts = blogPosts.filter(p => !p.featured);
+const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
+---
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin — Blog | Regê Engenharia</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+{!isAuthenticated ? (
+  <div class="admin-login-page">
+    <div class="admin-login-card">
+      <div class="admin-login-logo">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none">
+          <rect width="36" height="36" rx="8" fill="#C9A84C"/>
+          <path d="M10 26V10h6.5c2.5 0 4.5 2 4.5 4.5S19 19 16.5 19H10M18 26l5-8" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span>Regê Admin</span>
+      </div>
+      <h1>Área Restrita</h1>
+      <p>Digite a senha para acessar o painel de edição do blog.</p>
+      {passwordWrong && <div class="admin-login-error">Senha incorreta. Tente novamente.</div>}
+      <form method="POST" class="admin-login-form">
+        <div class="admin-login-field">
+          <label for="password">Senha</label>
+          <input type="password" id="password" name="password" placeholder="••••••••" required autofocus />
+        </div>
+        <button type="submit" class="admin-login-btn">Entrar</button>
+      </form>
+    </div>
+  </div>
+) : (
+  <div>
+    <div class="admin-topbar">
+      <div class="admin-topbar-inner">
+        <div class="admin-topbar-brand">
+          <svg width="20" height="20" viewBox="0 0 36 36" fill="none">
+            <rect width="36" height="36" rx="8" fill="#C9A84C"/>
+            <path d="M10 26V10h6.5c2.5 0 4.5 2 4.5 4.5S19 19 16.5 19H10M18 26l5-8" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span>Admin — Blog Regê</span>
+        </div>
+        <div class="admin-topbar-links">
+          <a href="/keystatic" target="_blank" class="admin-topbar-btn admin-topbar-btn-secondary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+            Keystatic (editor avançado)
+          </a>
+          <a href="/blog" target="_blank" class="admin-topbar-btn admin-topbar-btn-ghost">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            Ver Blog
+          </a>
+          <a href="/admin/logout" class="admin-topbar-btn admin-topbar-btn-logout">Sair</a>
+        </div>
+      </div>
+    </div>
+
+    <section class="blog-hero">
+      <div class="blog-hero-bg">
+        <img src="/images/hero-rege.avif" alt="Blog Regê Engenharia" />
+        <div class="blog-hero-overlay"></div>
+      </div>
+      <div class="blog-hero-content v2-container">
+        <div class="admin-mode-badge">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+          MODO EDIÇÃO ATIVO
+        </div>
+        <div class="blog-hero-badge">
+          <span class="v2-badge-dot"></span>
+          NOSSO BLOG
+        </div>
+        <h1 class="blog-hero-title">
+          <span class="blog-title-line" style="animation-delay:0.3s">CONTEÚDOS E</span>
+          <span class="blog-title-line blog-title-accent" style="animation-delay:0.45s">NOVIDADES</span>
+          <span class="blog-title-line blog-title-stroke" style="animation-delay:0.6s">SOBRE OBRAS.</span>
+        </h1>
+        <p class="blog-hero-sub">
+          Clique em <strong style="color: #C9A84C">Editar</strong> em qualquer card para alterar a imagem, título ou conteúdo do post.
+        </p>
+      </div>
+    </section>
+
+    <section class="blog-section">
+      <div class="v2-container">
+
+        {featuredPost && (
+          <div class="admin-post-wrapper admin-post-featured">
+            <a
+              href={`/keystatic/collection/posts/item/${featuredPost.slug}`}
+              target="_blank"
+              class="admin-edit-btn admin-edit-btn-featured"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+              Editar
+            </a>
+            <div class="blog-featured-post v2-reveal">
+              <div class="blog-featured-img">
+                <img src={featuredPost.image} alt={featuredPost.imageAlt} />
+              </div>
+              <div class="blog-featured-text">
+                <div class="blog-post-meta">
+                  <span class="blog-post-tag">{featuredPost.tag}</span>
+                  <span class="admin-featured-label">DESTAQUE</span>
+                </div>
+                <h2>{featuredPost.title}</h2>
+                <p class="blog-post-excerpt">{featuredPost.excerpt}</p>
+                <span class="blog-read-more">
+                  <span>Ler Artigo Completo</span>
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </span>
+              </div>
+            </div>
+          </div>
+        )}
+
+        <div class="blog-grid">
+          {gridPosts.map((post, i) => (
+            <div class={`admin-post-wrapper v2-reveal ${delayClasses[i % 3]}`}>
+              <a
+                href={`/keystatic/collection/posts/item/${post.slug}`}
+                target="_blank"
+                class="admin-edit-btn"
+              >
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+                Editar
+              </a>
+              <div class="blog-card">
+                <div class="blog-card-img">
+                  <img src={post.image} alt={post.imageAlt} />
+                </div>
+                <div class="blog-card-content">
+                  <div class="blog-post-meta">
+                    <span class="blog-post-tag">{post.tag}</span>
+                  </div>
+                  <h3>{post.title}</h3>
+                  <p>{post.excerpt}</p>
+                  <span class="blog-card-link">Ler mais</span>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  </div>
+)}
+
+</body>
+</html>
+
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
+
+.admin-login-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #080E17 0%, #12213B 100%);
+  display: flex; align-items: center; justify-content: center;
+  padding: 1.5rem;
+}
+.admin-login-card {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(201,168,76,0.2);
+  border-radius: 16px; padding: 3rem;
+  width: 100%; max-width: 420px;
+  backdrop-filter: blur(12px);
+}
+.admin-login-logo {
+  display: flex; align-items: center; gap: 0.75rem;
+  margin-bottom: 2rem; font-weight: 700; font-size: 1rem; color: #C9A84C;
+}
+.admin-login-card h1 { font-size: 1.5rem; font-weight: 800; color: #fff; margin-bottom: 0.5rem; }
+.admin-login-card p { font-size: 0.875rem; color: rgba(255,255,255,0.5); margin-bottom: 2rem; line-height: 1.6; }
+.admin-login-error {
+  background: rgba(220,53,69,0.15); border: 1px solid rgba(220,53,69,0.3);
+  color: #ff7b85; font-size: 0.8rem; padding: 0.75rem 1rem; border-radius: 8px; margin-bottom: 1.5rem;
+}
+.admin-login-form { display: flex; flex-direction: column; gap: 1.25rem; }
+.admin-login-field { display: flex; flex-direction: column; gap: 0.5rem; }
+.admin-login-field label {
+  font-size: 0.75rem; font-weight: 700; letter-spacing: 1px;
+  text-transform: uppercase; color: rgba(255,255,255,0.5);
+}
+.admin-login-field input {
+  background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 8px; padding: 0.875rem 1rem; font-size: 1rem;
+  font-family: 'Outfit', sans-serif; color: #fff; outline: none; transition: border-color 0.2s;
+}
+.admin-login-field input:focus { border-color: #C9A84C; }
+.admin-login-btn {
+  background: #C9A84C; color: #080E17; font-family: 'Outfit', sans-serif;
+  font-size: 0.875rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+  border: none; border-radius: 8px; padding: 1rem; cursor: pointer; transition: opacity 0.2s, transform 0.2s;
+}
+.admin-login-btn:hover { opacity: 0.85; transform: translateY(-1px); }
+
+.admin-topbar {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 9999;
+  background: rgba(8,14,23,0.96); backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(201,168,76,0.25);
+}
+.admin-topbar-inner {
+  max-width: 1280px; margin: 0 auto; padding: 0.75rem 1.5rem;
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+}
+.admin-topbar-brand {
+  display: flex; align-items: center; gap: 0.6rem;
+  font-size: 0.8rem; font-weight: 700; color: #C9A84C; letter-spacing: 0.5px;
+}
+.admin-topbar-links { display: flex; align-items: center; gap: 0.75rem; }
+.admin-topbar-btn {
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;
+  text-decoration: none; padding: 0.5rem 0.875rem; border-radius: 6px; transition: all 0.2s;
+}
+.admin-topbar-btn-secondary {
+  background: rgba(201,168,76,0.15); color: #C9A84C;
+  border: 1px solid rgba(201,168,76,0.3);
+}
+.admin-topbar-btn-secondary:hover { background: rgba(201,168,76,0.25); }
+.admin-topbar-btn-ghost {
+  color: rgba(255,255,255,0.5); border: 1px solid rgba(255,255,255,0.1);
+}
+.admin-topbar-btn-ghost:hover { color: #fff; border-color: rgba(255,255,255,0.3); }
+.admin-topbar-btn-logout {
+  color: rgba(255,100,100,0.7); border: 1px solid rgba(255,100,100,0.2);
+}
+.admin-topbar-btn-logout:hover { color: #ff7b7b; border-color: rgba(255,100,100,0.4); }
+
+.admin-mode-badge {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  font-size: 0.65rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+  color: #080E17; background: #C9A84C; padding: 0.35rem 0.85rem;
+  border-radius: 100px; margin-bottom: 1.5rem;
+}
+
+.admin-post-wrapper { position: relative; }
+.admin-edit-btn {
+  position: absolute; top: 12px; right: 12px; z-index: 10;
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  background: #C9A84C; color: #080E17; font-family: 'Outfit', sans-serif;
+  font-size: 0.7rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;
+  text-decoration: none; padding: 0.45rem 0.85rem; border-radius: 6px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: all 0.2s; white-space: nowrap;
+}
+.admin-edit-btn:hover {
+  background: #fff; color: #080E17; transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+}
+.admin-edit-btn-featured { top: 16px; right: 16px; font-size: 0.75rem; padding: 0.55rem 1.1rem; }
+.admin-featured-label {
+  font-size: 0.62rem; font-weight: 700; letter-spacing: 1px;
+  text-transform: uppercase; color: #C9A84C;
+}
+.admin-post-featured { margin-bottom: 6rem; }
+
+.v2-container { max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; }
+.blog-hero {
+  position: relative; min-height: 70vh;
+  display: flex; flex-direction: column; justify-content: center;
+  overflow: hidden; background: #080E17; padding-top: 52px;
+}
+.blog-hero-bg { position: absolute; inset: 0; }
+.blog-hero-bg img { width: 100%; height: 100%; object-fit: cover; opacity: 0.85; filter: contrast(1.05); }
+.blog-hero-overlay {
+  position: absolute; inset: 0;
+  background:
+    linear-gradient(to right, rgba(8,14,23,0.88) 30%, rgba(8,14,23,0.15) 100%),
+    linear-gradient(to top, rgba(8,14,23,0.75) 0%, transparent 60%);
+}
+.blog-hero-content { position: relative; z-index: 10; padding: 10rem 1.5rem 5rem; }
+.blog-hero-badge {
+  display: inline-flex; align-items: center; gap: 0.6rem;
+  font-family: 'Outfit', sans-serif; font-size: 0.65rem; font-weight: 700;
+  letter-spacing: 3px; text-transform: uppercase; color: #C9A84C;
+  border: 1px solid rgba(201,168,76,0.3); padding: 0.4rem 1rem;
+  border-radius: 100px; margin-bottom: 2rem;
+  opacity: 0; animation: blogFadeUp 0.8s ease-out 0.1s forwards;
+}
+.v2-badge-dot {
+  width: 6px; height: 6px; border-radius: 50%; background: #C9A84C;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.5; transform: scale(1.3); } }
+.blog-hero-title {
+  display: flex; flex-direction: column; font-family: 'Outfit', sans-serif;
+  font-size: clamp(2.5rem, 6vw, 5rem); font-weight: 800; line-height: 1;
+  letter-spacing: -2px; text-transform: uppercase; margin: 0 0 1.5rem; color: #fff;
+}
+.blog-title-line { opacity: 0; transform: translateY(30px); animation: blogFadeUp 0.8s ease-out forwards; }
+.blog-title-accent { color: #C9A84C; }
+.blog-title-stroke { -webkit-text-stroke: 2px #fff; color: transparent; }
+.blog-hero-sub {
+  font-family: 'Cormorant Garamond', serif; font-style: italic;
+  font-size: clamp(1rem, 1.8vw, 1.25rem); color: rgba(240,234,216,0.7);
+  line-height: 1.6; max-width: 520px; margin-bottom: 2rem;
+  opacity: 0; animation: blogFadeUp 0.8s ease-out 0.65s forwards;
+}
+@keyframes blogFadeUp { to { opacity: 1; transform: translateY(0); } }
+
+.blog-section { padding: 8rem 0; background: #fff; position: relative; }
+.blog-section::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+  background: linear-gradient(to right, #C9A84C, transparent);
+}
+.blog-featured-post {
+  display: grid; grid-template-columns: 1.2fr 1fr; gap: 4rem;
+  background: rgba(8,14,23,0.02); border: 1px solid rgba(8,14,23,0.05);
+  border-radius: 16px; overflow: hidden; align-items: center;
+}
+.blog-featured-img { aspect-ratio: 16/10; width: 100%; overflow: hidden; }
+.blog-featured-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.8s ease; }
+.blog-featured-post:hover .blog-featured-img img { transform: scale(1.03); }
+.blog-featured-text { padding: 3rem; display: flex; flex-direction: column; justify-content: center; }
+.blog-post-meta { display: flex; align-items: center; gap: 1rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
+.blog-post-tag {
+  font-family: 'Outfit', sans-serif; font-size: 0.58rem; font-weight: 700;
+  letter-spacing: 2px; text-transform: uppercase; color: #C9A84C;
+  background: rgba(201,168,76,0.08); padding: 0.25rem 0.6rem;
+  border-radius: 2px; border: 1px solid rgba(201,168,76,0.15);
+}
+.blog-featured-text h2 {
+  font-family: 'Outfit', sans-serif; font-size: 1.75rem; font-weight: 800;
+  text-transform: uppercase; line-height: 1.15; color: #080E17;
+  margin: 0 0 1.25rem; letter-spacing: -0.5px;
+}
+.blog-post-excerpt { font-size: 0.95rem; color: #666; line-height: 1.8; margin: 0 0 2rem; }
+.blog-read-more {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  font-family: 'Outfit', sans-serif; font-size: 0.72rem; font-weight: 700;
+  letter-spacing: 1.5px; text-transform: uppercase; color: #080E17; align-self: flex-start;
+}
+.blog-read-more svg { transition: transform 0.3s ease; }
+
+.blog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
+.blog-card {
+  background: #fff; border: 1px solid rgba(8,14,23,0.06); border-radius: 16px;
+  overflow: hidden; display: flex; flex-direction: column;
+  transition: transform 0.4s ease, box-shadow 0.4s;
+}
+.blog-card:hover { transform: translateY(-5px); box-shadow: 0 15px 45px rgba(8,14,23,0.08); }
+.blog-card-img { aspect-ratio: 16/10; overflow: hidden; width: 100%; }
+.blog-card-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.8s ease; }
+.blog-card:hover .blog-card-img img { transform: scale(1.05); }
+.blog-card-content { padding: 2rem; display: flex; flex-direction: column; flex: 1; }
+.blog-card-content h3 {
+  font-family: 'Outfit', sans-serif; font-size: 1.05rem; font-weight: 800;
+  text-transform: uppercase; color: #080E17; margin: 0 0 1rem; line-height: 1.25; letter-spacing: -0.2px;
+}
+.blog-card-content p { font-size: 0.88rem; color: #666; line-height: 1.7; margin: 0 0 1.5rem; flex: 1; }
+.blog-card-link {
+  font-family: 'Outfit', sans-serif; font-size: 0.68rem; font-weight: 700;
+  letter-spacing: 1px; text-transform: uppercase; color: #C9A84C; text-decoration: none;
+}
+
+@media (max-width: 900px) {
+  .blog-featured-post { grid-template-columns: 1fr; gap: 0; }
+  .blog-featured-text { padding: 2.5rem; }
+  .blog-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .blog-hero-content { padding: 8rem 1rem 4rem; }
+  .blog-grid { grid-template-columns: 1fr; }
+  .admin-topbar-links { gap: 0.5rem; }
+  .admin-topbar-btn { font-size: 0.65rem; padding: 0.4rem 0.6rem; }
+}
+
+.v2-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
+.v2-reveal.visible { opacity: 1; transform: translateY(0); }
+.v2-reveal-delay-1 { transition-delay: 0.1s; }
+.v2-reveal-delay-2 { transition-delay: 0.2s; }
+</style>
+
+<script>
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        obs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.05, rootMargin: '0px 0px -40px 0px' });
+  document.querySelectorAll('.v2-reveal').forEach(el => obs.observe(el));
+</script>

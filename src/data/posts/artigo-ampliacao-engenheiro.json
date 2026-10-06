@@ -1,0 +1,309 @@
+{
+  "slug": "artigo-ampliacao-engenheiro",
+  "title": "Por Que Obras de Ampliação Também Precisam de um Engenheiro?",
+  "tag": "DOCUMENTAÇÃO",
+  "image": "/images/construtora.png",
+  "imageAlt": "Por Que Obras de Ampliação Também Precisam de um Engenheiro? - artigo técnico da Regê Engenharia sobre documentação em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Muitos proprietários acreditam que, por se tratar de uma \"ampliação\" — e não de uma construção do zero —, a presença de um engenheiro civil é dispensável.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitos proprietários acreditam que, por se tratar de uma \"ampliação\" — e não de uma construção do zero —, a presença de um engenheiro civil é dispensável. Esse é um erro que pode custar caro, tanto financeiramente quanto em segurança."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Responsabilidade Técnica e Legal (ART/RRT)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda obra, independentemente do porte, exige **Anotação de Responsabilidade Técnica (ART)** ou **Registro de Responsabilidade Técnica (RRT)**. Sem esse documento:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "A obra fica irregular perante a prefeitura e o CREA/CAU",
+          "Não há como averbar a ampliação no registro do imóvel (matrícula)",
+          "Em caso de sinistro, o seguro pode negar cobertura",
+          "Na venda do imóvel, a falta de regularização trava a escritura"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O engenheiro é o profissional habilitado a assinar a ART/RRT e responder tecnicamente pela obra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Compatibilidade Estrutural"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma ampliação não é um \"puxadinho\" isolado. Ela **interage com a estrutura existente**:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cargas verticais: novo peso sobre fundações, vigas e pilares atuais",
+          "Cargas horizontais: vento e sismo atuam no conjunto ampliado",
+          "Recalques diferenciais: fundações novas e antigas comportam-se de forma diferente"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro avalia se a estrutura original suporta a nova demanda ou se precisa de reforço (microestacas, sapatas complementares, cintamento, etc.)."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Conformidade com Normas Técnicas (ABNT)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Obras de ampliação devem atender às mesmas normas de uma construção nova:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Norma",
+          "Aplicação na Ampliação"
+        ],
+        "rows": [
+          [
+            "NBR 6118",
+            "Concreto armado — dimensionamento de novos elementos e interfaces"
+          ],
+          [
+            "NBR 6120",
+            "Fundações — verificação de capacidade de carga do solo"
+          ],
+          [
+            "NBR 8800",
+            "Alvenaria estrutural — juntas de dilatação, amarrações"
+          ],
+          [
+            "NBR 15575",
+            "Desempenho de edificações — estanqueidade, acústica, térmica"
+          ],
+          [
+            "NBR 5410",
+            "Instalações elétricas — nova demanda, quadro, aterramento"
+          ],
+          [
+            "NBR 5626 / 7198",
+            "Hidrossanitário — ramais, ventilação, caixas de gordura/inspeção"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Interface com Sistemas Existentes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ampliar não é só \"levantar parede\". Envolve integração crítica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elétrica: novo circuito, balanceamento de fases, proteção diferencial, adequação do quadro geral",
+          "Hidráulica: queda d'água, diâmetros, ventilação primária/secundária, conexão à rede coletora",
+          "Esgoto: caixas de inspeção, declividades, evitar refluxo",
+          "Drenagem: nova área impermeável exige revisão do sistema pluvial"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Erros aqui geram infiltrações, curto-circuitos, entupimentos recorrentes e mofo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Juntas de Dilatação e Isolamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A união entre **edificação existente** e **nova edificação** é um ponto crítico:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Junta de dilatação dimensionada para movimentos térmicos e de recalque",
+          "Impermeabilização da junta (fita elastomérica, mastique, perfil metálico)",
+          "Isolamento acústico para não transmitir ruídos de impacto entre setores"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sem projeto, a tendência é trincas, vazamentos e desconforto."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Acessibilidade e Segurança contra Incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a ampliação altera rotas de fuga, acessos ou setorização:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Rampas, portas, corrimãos devem atender NBR 9050",
+          "Portas corta-fogo, sinalização, iluminação de emergência (NBR 10897/15219)",
+          "Compartimentação vertical/horizontal mantida ou reforçada"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro (ou arquiteto) garante conformidade com o **Código de Obras local** e **IT (Instruções Técnicas do CBM)**."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Economia Real: Evita Retrabalho e Multas"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Cenário sem Engenheiro",
+          "Custo Oculto"
+        ],
+        "rows": [
+          [
+            "Trinca na junta antiga/nova",
+            "Demolição + reforço + impermeabilização (3—\u001c5—\u0014 o custo preventivo)"
+          ],
+          [
+            "Furação acidental em cabo/tubulação",
+            "Paralisação, reparo, laudo pericial"
+          ],
+          [
+            "Obra embargada pela fiscalização",
+            "Multa diária + honorários advocatícios + atraso"
+          ],
+          [
+            "Imóvel não averbado na venda",
+            "Perda do negócio ou desconto forçado de 15—\u001c30% no valor"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "8. Valorização do Patrimônio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma ampliação **projetada, executada e regularizada** com ART:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Entra na metragem oficial do IPTU e da matrícula",
+          "—0 aceita em financiamento bancário (avaliação de garantia)",
+          "Agrega valor real de mercado (não apenas \"área coberta\")",
+          "Transmite confiança ao comprador/investidor"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist Mínimo para Iniciar uma Ampliação Corretamente"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "[ ] Levantamento planialtimétrico e estrutural do imóvel atual",
+          "[ ] Estudo de viabilidade (zoneamento, taxa de ocupação, recuos, gabarito)",
+          "[ ] Projeto arquitetônico + estrutural + instalações (elétrica, hidrossanitário, SPDA se houver)",
+          "[ ] Aprovação na prefeitura (alvará de construção/ampliação)",
+          "[ ] ART/RRT de execução registrada no CREA/CAU",
+          "[ ] Execução com acompanhamento técnico (visitas de campo, relatórios fotográficos)",
+          "[ ] ART/RRT de conclusão + laudo de vistoria final",
+          "[ ] Habite-se / Carta de Habitação / Auto de Conclusão",
+          "[ ] Averbação no Cartório de Registro de Imóveis"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Ampliar sem engenheiro não é economia — é risco.** A complexidade técnica de integrar novo e antigo, somada à exigência legal de responsabilidade técnica, torna a contratação do engenheiro civil **obrigatória e estratégica**."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regularize sua obra desde o primeiro traço. O custo do projeto é ínfimo perto do prejuízo de uma obra irregular ou mal executada."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Precisa de apoio para sua ampliação?** A **Rege Engenharia** elabora projetos completos (arquitetônico, estrutural, instalações), gerencia a aprovação na prefeitura e acompanha a execução com ART em todas as etapas. —x\u001c~ Entre em contato e agende uma visita técnica."
+      }
+    }
+  ]
+}

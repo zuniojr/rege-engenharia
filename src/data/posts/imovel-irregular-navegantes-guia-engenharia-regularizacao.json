@@ -1,0 +1,334 @@
+{
+  "slug": "imovel-irregular-navegantes-guia-engenharia-regularizacao",
+  "title": "Imóvel Irregular em Navegantes? Veja o Guia de Engenharia para Regularização",
+  "tag": "REGULARIZAÇÃO",
+  "image": "/images/regularizacao.avif",
+  "imageAlt": "Imóvel irregular em Navegantes — guia de engenharia para regularização de construções sem documentação no litoral de Santa Catarina.",
+  "excerpt": "Imóvel irregular em Navegantes? Saiba como a regularização funciona, quais documentos são necessários, quais são os riscos de permanecer na irregularidade e como a engenharia pode transformar um imóvel sem documentação em patrimônio legalizado e valorizado.",
+  "readTime": "10 min de leitura",
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um imóvel irregular é, na prática, um ativo que vale menos do que poderia valer — e que pode gerar custos jurídicos, financeiros e emocionais significativos. Em Navegantes, assim como em boa parte do litoral catarinense, milhares de construções existem sem a devida documentação: seja por terem sido erguidas antes da legislação atual, por adaptações não aprovadas ou por simples desconhecimento dos trâmites legais. A boa notícia é que a regularização é possível e, com o apoio de uma engenharia qualificada, o processo é mais acessível do que a maioria das pessoas imagina."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é um imóvel irregular?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um imóvel é considerado irregular quando não possui a documentação completa exigida pela legislação municipal e estadual para sua existência legal. Isso pode ocorrer em diversas situações:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Construção realizada sem projeto aprovado na Prefeitura de Navegantes (LC 416/2023)",
+          "Obra executada sem Alvará de Construção ou sem habite-se",
+          "Ampliação ou reforma que modificou a estrutura original sem aprovação",
+          "Imóvel construído em área de APP (Área de Preservação Permanente) ou zona restrita sem licenciamento",
+          "Edificação com averbação no cartório incompleta ou desatualizada",
+          "Construção em terreno com documentação fundiária pendente (como áreas de marinha ou terras da União)",
+          "Edificação com mais pavimentos do que o permitido pelo zoneamento local",
+          "Imóvel construído em desacordo com o Plano Diretor ou o Código de Obras municipal"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que regularizar é urgente?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Permanecer na situação de irregularidade não é apenas uma questão burocrática — traz riscos concretos que afetam diretamente o valor do imóvel e a segurança de quem nele habita:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Imóvel irregular não pode ser vendido ou financiado — o cartório exige a documentação completa para qualquer transferência",
+          "Bancos recusam financiamento imobiliário para imóveis sem habite-se e sem averbação",
+          "O proprietário responde civil e criminalmente por construção irregular — multas, embargos e até demolição são possíveis",
+          "Em caso de sinistro (incêndio, enchente), a seguradora pode se recusar a indenizar se a obra não for regular",
+          "A venda por preço abaixo do mercado é inevitável quando o imóvel não pode ser legalizado",
+          "Herdeiros de imóveis irregulares enfrentam custos e complicações jurídicas muito maiores do que os proprietários originais",
+          "A Prefeitura de Navegantes pode embargar a obra a qualquer momento, interrompendo atividades e gerando prejuízo"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regularizar um imóvel é investir no seu patrimônio. Cada dia na irregularidade é um dia em que o imóvel perde valor e o proprietário assume riscos desnecessários."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tipos de regularização: da mais simples à mais complexa"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo de regularização varia conforme a situação do imóvel. A engenharia avalia cada caso e indica o caminho mais adequado:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Regularização simples (projeto de ajuste)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para imóveis que precisam de pequenas adequações para se enquadrar na legislação atual — como correção de fachada, ajuste de recuos ou complementação de instalações. Neste caso, o engenheiro elabora um projeto de regularização que ajusta a edificação às normas vigentes, sem necessidade de demolição ou obras estruturais significativas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Regularização com projeto executivo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando o imóvel apresenta divergências relevantes entre a construção existente e o projeto original (ou quando não há projeto original), o engenheiro realiza um levantamento detalhado da edificação e elabora um projeto executivo que reflete a realidade da construção. Este projeto é submetido à aprovação na Prefeitura e, após aprovação, permite a emissão do habite-se e a averbação no cartório."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Regularização com adaptação estrutural"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para imóveis com problemas estruturais que precisam ser resolvidos antes da regularização — como fundações inadequadas, lajes com sobrecarga ou estrutura comprometida pela maresia. A engenharia executa as intervenções necessárias para trazer o imóvel à conformidade estrutural e, em seguida, conduz o processo de aprovação e legalização."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Regularização de imóveis em área de marinha ou APP"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Casos mais complexos que envolvem imóveis construídos em áreas com restrições especiais — terrenos de marinha, áreas de preservação permanente ou zonas de proteção ambiental. A regularização nestes casos exige análise técnica detalhada, parecer de órgãos ambientais (IMA/SC) e, em alguns casos, regularização fundiária junto à SPU (Secretaria do Patrimônio da União) ou à Prefeitura."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentos necessários para a regularização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O processo de regularização exige um conjunto de documentos técnicos e administrativos. A engenharia conduz a elaboração de cada um deles:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento topográfico do terreno e da edificação existente",
+          "Projeto arquitetônico de regularização (planta baixa, fachadas, cortes)",
+          "Projeto estrutural (quando aplicável — fundações, pilares, vigas, lajes)",
+          "Projeto de instalações elétricas (NBR 5410)",
+          "Projeto de instalações hidrossanitárias (NBR 5626)",
+          "Projeto de prevenção contra incêndio (NBR 13.702)",
+          "ART (Anotação de Responsabilidade Técnica) de cada disciplina",
+          "Laudo técnico de vistoria da edificação existente",
+          "Certidão de ônus reais do imóvel (CNR)",
+          "Certidão negativa de débitos municipais",
+          "Matrícula atualizada do imóvel no cartório de registro"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel da engenharia na regularização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A regularização de um imóvel irregular não é apenas um trâmite burocrático — é um trabalho técnico que exige conhecimento profundo de engenharia, legislação urbanística e processos municipais. O engenheiro civil atua em todas as etapas:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Visita técnica e diagnóstico — avaliação in loco das condições da edificação e identificação das irregularidades",
+          "Levantamento arquitetônico — medição e documentação da construção existente (mesmo que não haja planta original)",
+          "Elaboração de projetos — projeto arquitetônico de regularização, projeto estrutural e projetos complementares",
+          "Análise de viabilidade — verificação prévia da conformidade com o zoneamento, recuos, gabarito e demais exigências do Plano Diretor e da LC 416/2023",
+          "Submissão à Prefeitura — protocolo do projeto de regularização e acompanhamento da análise técnica",
+          "Resposta a exigências — correção de pendências apontadas pela fiscalização municipal",
+          "Obtenção do habite-se — vistoria final e emissão do certificado de conclusão",
+          "Averbação no cartório — registro oficial da regularização no Cartório de Registro de Imóveis"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "A legislação de Navegantes e a regularização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A regularização de imóveis em Navegantes é regida por um conjunto de legislações que o engenheiro deve dominar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "LC 416/2023 — Código de Obras de Navegantes: define os requisitos para aprovação de projetos, licenciamento e fiscalização de obras",
+          "LC 452/2024 — Plano Diretor: estabelece as diretrizes de uso e ocupação do solo, zoneamento e gabaritos",
+          "NBR 12.217 — Levantamento de edificações: norma técnica para o levantamento arquitetônico necessário na regularização",
+          "NBR 13.752 — Vistoria em avaliação de bens imóveis: norma para laudos de vistoria de entrega",
+          "NBR 14.653 — Avaliação de bens imóveis: norma para determinação do valor de mercado",
+          "Legislação ambiental municipal e estadual — IMA/SC, FATMA e normas de APP",
+          "Legislação fundiária — SPU, INCRA e certidões de ônus reais"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custos e prazos da regularização"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo e o prazo da regularização variam conforme a complexidade do caso. Como referência para o mercado de Navegantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto de regularização simples (ajustes pontuais): R$ 3.000 a R$ 8.000",
+          "Projeto de regularização executivo (levantamento + projeto completo): R$ 8.000 a R$ 25.000",
+          "Regularização com adaptação estrutural: R$ 15.000 a R$ 50.000+ (depende da extensão das intervenções)",
+          "Prazo médio de aprovação na Prefeitura: 30 a 90 dias úteis após o protocolo",
+          "Prazo total do processo (do levantamento à averbação): 3 a 8 meses, conforme a complexidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O barato que gera retrabalho sai caro — comparar apenas o preço da regularização é um risco. O imóvel que não é regularizado corretamente pode gerar custos jurídicos e técnicos muito superiores ao investimento inicial."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Riscos de tentar regularizar sem engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Alguns proprietários tentam regularizar seus imóveis por conta própria ou com profissionais não habilitados. Esta é uma decisão que pode ter consequências graves:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto sem ART — a Prefeitura não aceita projetos sem Responsabilidade Técnica registrada no CREA",
+          "Levantamento impreciso — sem engenheiro, as medidas e especificações podem estar incorretas, gerando retrabalho e atrasos",
+          "Incompatibilidade com o zoneamento — um profissional sem conhecimento local pode elaborar um projeto que não atende às exigências do Plano Diretor",
+          "Risco de embargos — projetos mal elaborados são rejeitados pela fiscalização, causando atrasos e custos adicionais",
+          "Perda de prazo — o processo de regularização já é longo; erros na documentação podem dobrar o prazo",
+          "Sem garantia técnica — projetos sem responsável técnico não oferecem nenhuma garantia de qualidade ou conformidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre imóveis irregulares em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso regularizar um imóvel construído há mais de 20 anos? Sim. A idade do imóvel não impede a regularização. O que importa é a conformidade com a legislação vigente no momento da regularização. O engenheiro avalia as condições atuais e elabora o projeto adequado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Imóvel em área de marinha pode ser regularizado? Depende. A regularização de imóveis em terrenos de marinha exige análise específica da SPU e pode ter restrições. Um engenheiro pode avaliar a viabilidade e orientar sobre as alternativas disponíveis."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença entre habite-se e averbação? O habite-se é a certificação municipal de que a obra está concluída e em conformidade com o projeto aprovado. A averbação é o registro no Cartório de Registro de Imóveis que torna a regularização oficial contra terceiros."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso vender um imóvel irregular? Tecnicamente sim, mas a venda é limitada e arriscada — o comprador assume os riscos da irregularidade e o valor de mercado é significativamente reduzido. A regularização prévia é sempre a melhor opção para ambas as partes."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa a regularização de um imóvel em Navegantes? Varia conforme o caso. Projetos simples de ajuste a partir de R$ 3.000; projetos executivos completos de R$ 8.000 a R$ 25.000. O primeiro passo é sempre um estudo de viabilidade técnica."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Regularização de imóveis com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia, com sede em Navegantes e atuação no litoral catarinense desde 2016, possui experiência ampla na regularização de imóveis irregulares. Nossos projetos seguem todas as exigências da LC 416/2023, do Plano Diretor e das normas técnicas aplicáveis, sempre com ART registrada e acompanhamento técnico em cada etapa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você tem um imóvel irregular em Navegantes — ou na região do Vale do Itajaí —, não espere mais. Cada dia na irregularidade é um dia de risco e de perda de valor. Entre em contato com a equipe da Regê Engenharia e receba a avaliação técnica do seu caso: do levantamento inicial à averbação no cartório."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regularizar é o primeiro passo para transformar um imóvel irregular em patrimônio seguro, legal e valorizado. A engenharia faz a diferença — do papel à escritura."
+      }
+    }
+  ]
+}

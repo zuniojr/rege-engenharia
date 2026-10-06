@@ -1,0 +1,454 @@
+{
+  "slug": "avcb-projeto-navegantes",
+  "title": "AVCB Projeto: O Que —0, Quando —0 Exigido e Como Obter",
+  "tag": "SEGURANÇA CONTRA INCÊNDIO",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "AVCB Projeto: O Que —0, Quando —0 Exigido e Como Obter - artigo técnico da Regê Engenharia sobre segurança contra incêndio em Navegantes e Litoral Norte de SC.",
+  "excerpt": "O AVCB (Auto de Vistoria do Corpo de Bombeiros) é o documento que atesta que uma edificação possui condições de segurança contra incêndio e pânico.",
+  "readTime": "4 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O AVCB (Auto de Vistoria do Corpo de Bombeiros) é o documento que atesta que uma edificação possui condições de segurança contra incêndio e pânico. O projeto técnico para obtenção do AVCB define todas as medidas de prevenção, combate a incêndio e evacuação que o imóvel deve ter. Em Navegantes, assim como em todo o estado de Santa Catarina, o Corpo de Bombeiros Militar de SC (CBMSC) exige o AVCB para diversos tipos de ocupação. Neste artigo, você entende o que é o projeto de AVCB, quando é obrigatório, quais as etapas e como evitar atrasos na regularização."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que é o Projeto de AVCB?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 o conjunto de documentos técnicos (plantas, memoriais, cálculos) que demonstra ao Corpo de Bombeiros que a edificação atende às normas de segurança contra incêndio (NBR 9077, NBR 13714, NBR 10897, NBR 12693, Instruções Técnicas do CBMSC). O projeto é analisado pelo CBMSC e, se aprovado, gera o AVCB após a vistoria física."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Diferença Entre Projeto e AVCB"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Documento",
+          "O Que —0"
+        ],
+        "rows": [
+          [
+            "Projeto Técnico (PT)",
+            "Conjunto de plantas e memoriais enviado para análise prévia"
+          ],
+          [
+            "AVCB",
+            "Auto emitido após vistoria in loco, confirmando que o executado corresponde ao aprovado"
+          ],
+          [
+            "CLCB",
+            "Certificado de Licença do Corpo de Bombeiros — para edificações de baixo risco (simplificado)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o AVCB é Obrigatório?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O CBMSC classifica as edificações por **risco** e **tipo de ocupação**. O AVCB é exigido para:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Ocupação",
+          "Exemplos"
+        ],
+        "rows": [
+          [
+            "Comercial",
+            "Lojas, shoppings, supermercados, escritórios acima de 750m²"
+          ],
+          [
+            "Industrial",
+            "Fábricas, galpões, depósitos"
+          ],
+          [
+            "Institucional",
+            "Escolas, hospitais, creches, asilos"
+          ],
+          [
+            "Reunião de público",
+            "Igrejas, teatros, cinemas, casas de shows, academias"
+          ],
+          [
+            "Residencial multifamiliar",
+            "Condomínios acima de 12 unidades ou 3 pavimentos"
+          ],
+          [
+            "Estacionamentos",
+            "Cobertos com mais de 50 vagas"
+          ],
+          [
+            "Postos de combustível",
+            "Qualquer porte"
+          ],
+          [
+            "Áreas de risco especial",
+            "Inflamáveis, explosivos, gases"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Isenções (CLCB — Certificado de Licença do Corpo de Bombeiros)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Edificações de **baixo risco** podem obter o CLCB, processo simplificado sem vistoria prévia:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Residências unifamiliares",
+          "Comércios até 200m² (sem manipulação de inflamáveis)",
+          "Escritórios até 750m²",
+          "Templos religiosos até 600m²"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapas Para Obter o AVCB"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Contratação de profissional habilitado — Engenheiro civil, engenheiro de segurança do trabalho ou arquiteto com ART",
+          "Levantamento in loco — Medidas, ocupação, riscos existentes, acessos",
+          "Elaboração do Projeto Técnico — Plantas de layout, rotas de fuga, hidrantes, extintores, iluminação de emergência, sinalização, SPDA, central de alarme",
+          "Protocolo no CBMSC — Envio via sistema eletrônico (SCI) com ART e documentos",
+          "Análise técnica — Bombeiros verificam conformidade; podem exigir complementações",
+          "Aprovação do projeto — Deferimento para execução das medidas",
+          "Execução das medidas — Instalação de extintores, hidrantes, alarme, sinalização, etc.",
+          "Solicitação de vistoria — Agendamento após conclusão das obras",
+          "Vistoria do CBMSC — Verificação in loco do executado",
+          "Emissão do AVCB — Validade de 1 a 5 anos conforme ocupação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que o Projeto de AVCB Contém"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Descrição"
+        ],
+        "rows": [
+          [
+            "Planta de situação",
+            "Localização do imóvel, acessos para viaturas, hidrantes públicos"
+          ],
+          [
+            "Planta de layout",
+            "Compartimentação, áreas de risco, rotas de fuga, saídas de emergência"
+          ],
+          [
+            "Planta de incêndio",
+            "Extintores, hidrantes, sprinklers, alarmes, iluminação de emergência"
+          ],
+          [
+            "Memorial descritivo",
+            "Medidas adotadas, normas aplicadas, classificação de risco"
+          ],
+          [
+            "Cálculo de população",
+            "Lotação máxima por setor para dimensionamento de saídas"
+          ],
+          [
+            "Dimensionamento de extintores",
+            "Tipo, quantidade e distribuição conforme NBR 12693"
+          ],
+          [
+            "Dimensionamento de hidrantes",
+            "Rede de recalque, reservatório, bombas (se aplicável)"
+          ],
+          [
+            "SPDA",
+            "Sistema de proteção contra descargas atmosféricas (NBR 5419)"
+          ],
+          [
+            "Sinalização e iluminação de emergência",
+            "Rotas de fuga, saídas, placas fotoluminescentes"
+          ],
+          [
+            "ART do responsável técnico",
+            "Engenheiro ou arquiteto com registro no CREA/CAU"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Medidas de Segurança Comuns no Projeto"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Medida",
+          "Norma de Referência"
+        ],
+        "rows": [
+          [
+            "Extintores portáteis",
+            "NBR 12693"
+          ],
+          [
+            "Hidrantes e mangotinhos",
+            "NBR 13714"
+          ],
+          [
+            "Sprinklers (chuveiros automáticos)",
+            "NBR 10897"
+          ],
+          [
+            "Alarme de incêndio",
+            "NBR 17240"
+          ],
+          [
+            "Iluminação de emergência",
+            "NBR 10898"
+          ],
+          [
+            "Sinalização de abandono",
+            "NBR 13434"
+          ],
+          [
+            "SPDA (para-raios)",
+            "NBR 5419"
+          ],
+          [
+            "Compartimentação corta-fogo",
+            "NBR 14432"
+          ],
+          [
+            "Pressurização de escadas",
+            "NBR 15219"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Prazos e Validade"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Ocupação",
+          "Validade do AVCB"
+        ],
+        "rows": [
+          [
+            "Alto risco (hospitais, escolas, teatros, indústrias químicas)",
+            "1 ano"
+          ],
+          [
+            "Médio risco (comércios, escritórios, condomínios)",
+            "3 anos"
+          ],
+          [
+            "Baixo risco (CLCB)",
+            "5 anos"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Importante:** O AVCB vence na data indicada. A renovação deve ser solicitada com antecedência mínima de 30 dias."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cuidados Específicos para Navegantes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Acesso para Viaturas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ruas estreitas no centro histórico podem dificultar o acesso de caminhões de bombeiros",
+          "O projeto deve prever área de manobra e posicionamento de viaturas conforme NBR 9077"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Áreas de Preservação e Litoral"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Imóveis em APP ou área de marinha podem ter restrições para reservatórios elevados e redes de hidrantes",
+          "Licenciamento ambiental pode ser exigido antes da aprovação do CBMSC"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Turismo e Temporada"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Hotéis, pousadas e imóveis de aluguel por temporada têm fiscalização intensificada no verão",
+          "O AVCB deve estar válido antes da alta temporada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros Comuns Que Atrasam o AVCB"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto genérico, sem considerar a ocupação real do imóvel",
+          "Falta de ART ou ART com escopo incompatível",
+          "Extintores em quantidade ou tipo incorreto",
+          "Rotas de fuga obstruídas ou com largura insuficiente",
+          "Sinalização e iluminação de emergência ausentes ou fora de norma",
+          "SPDA não dimensionado para a altura da edificação",
+          "Não executar o aprovado — vistoria reprova se o \"as built\" difere do projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto tempo demora para tirar o AVCB?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "De 30 a 120 dias, dependendo da complexidade, necessidade de complementação e agenda de vistoria do CBMSC."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Posso usar o imóvel sem AVCB?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não. O uso de edificação sujeita a AVCB sem o documento válido sujeita o responsável a multa, interdição e responsabilização civil e criminal em caso de sinistro."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Qual a diferença entre AVCB e CLCB?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O AVCB exige vistoria prévia do Corpo de Bombeiros; o CLCB é autodeclaratório para baixo risco, sem vistoria inicial."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia elabora projeto de AVCB?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia desenvolve o Projeto Técnico de Segurança Contra Incêndio para obtenção de AVCB e CLCB em Navegantes e litoral catarinense, com ART, acompanhamento de execução e agendamento de vistoria."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto de AVCB não é burocracia — é a garantia de que, em uma emergência, as pessoas conseguem sair e o fogo é combatido a tempo. Em Navegantes, onde o comércio, o turismo e a ocupação mista exigem atenção redobrada, elaborar o projeto com profissional experiente e executar fielmente o aprovado é o caminho mais curto para a regularização."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antecipe o projeto na fase de planejamento da obra, evite adaptações caras depois de pronto e mantenha o AVCB sempre válido. Segurança contra incêndio não tem prazo de validade — a documentação, sim."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo sobre projeto de AVCB em Navegantes/SC. Exigências baseadas nas Instruções Técnicas do CBMSC e normas ABNT; consulte o Corpo de Bombeiros Militar de Santa Catarina e a Prefeitura de Navegantes para parâmetros atualizados.*"
+      }
+    }
+  ]
+}

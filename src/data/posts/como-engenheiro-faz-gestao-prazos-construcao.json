@@ -1,0 +1,264 @@
+{
+  "slug": "como-engenheiro-faz-gestao-prazos-construcao",
+  "title": "Como um Engenheiro Faz a Gestão de Prazos na Sua Construção",
+  "tag": "GESTÒO",
+  "image": "/images/obra-residencial.avif",
+  "imageAlt": "Gestão de prazos na construção civil — engenheiro da Regê Engenharia em Navegantes SC analisa cronograma físico da obra com tablet e prancheta no canteiro, acompanhando o avanço de cada etapa.",
+  "excerpt": "Obra atrasada não é azar: é falha de gestão. Entenda como o engenheiro constrói um prazo realista — cronograma físico, caminho crítico, lead time de materiais, controle semanal de avanço e replanejamento — e por que esse método é o que separa obras que entregam na data de obras que se arrastam.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "\"Quando termina?\" é a pergunta que todo cliente faz — e a resposta que mais gera frustração na construção civil. Não porque obra sempre atrasa (mito), mas porque a maioria dos prazos anunciados nunca foi tecnicamente construída: são estimativas de otimismo, sem cronograma, sem caminho crítico e sem controle. O resultado é conhecido: seis meses viram dez, o aluguel se estica, o orçamento estoura junto e a confiança desgasta."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão de prazos profissional funciona de outro jeito: o prazo não é prometido, é calculado; não é torcido, é controlado semana a semana. Este artigo mostra exatamente como um engenheiro faz isso — do cronograma inicial ao replanejamento — e por que essa disciplina é decisiva em obras no litoral de Santa Catarina."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que significa gerir prazos (e o que não significa)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Gerir prazo não é cobrar pedreiro nem apertar ritmo. —0 uma engenharia própria, com ferramentas e rotina:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planejar — decompor a obra em etapas, sequenciar dependências e atribuir duração técnica a cada uma",
+          "Prever recursos — mão de obra, materiais e equipamentos disponíveis quando cada etapa pedir",
+          "Medir — comparar o avanço real contra o planejado, com frequência fixa",
+          "Corrigir — identificar desvio cedo e replanejar enquanto a correção ainda é barata"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Atraso grande nunca nasce de repente: nasce pequeno, na terceira semana, quando ninguém estava medindo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 1 — Cronograma físico realista"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Tudo começa com o cronograma físico da obra: a decomposição em etapas (serviços preliminares, fundação, estrutura, alvenaria, instalações, acabamentos) com início, fim e responsáveis. O ponto técnico está nos detalhes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sequenciamento real — alvenaria depende de estrutura; revestimento depende de instalações embutidas e testadas; pular ordem é gerar retrabalho programado",
+          "Duração produtiva — quanto metros quadrados uma equipe executa por dia, com dados reais de produtividade, não com tabela genérica",
+          "Folgas conscientes — chuva e imprevistos entram como margem calculada, não como \"esperança de que não vai chover\"",
+          "Integração com orçamento — no modelo ideal, cronograma físico e financeiro andam juntos: cada etapa tem custo e data"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 2 — Caminho crítico: onde o atraso realmente nasce"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nem toda tarefa atrasada atrasa a obra. A fundação pode esperar dois dias sem consequência; a laje que vem depois dela, não. O conjunto de atividades encadeadas que determina a data final é o caminho crítico — e é nele que o gestor olha primeiro. Na prática:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Identificar as tarefas que não podem atrasar um dia sequer sem empurrar a entrega final",
+          "Proteger essas tarefas com prioridade absoluta de equipe, material e decisão",
+          "Saber quais atividades têm folga e podem ser remanejadas sem dano ao prazo total"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sem essa visão, a equipe \"corre\" em tudo e o prazo escapa mesmo assim — porque o esforço foi gasto onde não decidia nada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 3 — Lead time de materiais: o atraso invisível"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Grande parte dos atrasos não acontece no canteiro: acontece no pedido que deveria ter sido feito três semanas antes. Esquadrias sob medida, estruturas metálicas, telhas especiais, equipamentos importados, louças e metais em falta no litoral: cada item tem um tempo de fornecimento próprio. O engenheiro gestor:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Mapeia os itens de longo lead time já no projeto, não na hora da necessidade",
+          "Dispara compras antecipadas ancoradas no cronograma, com datas de chegada confirmadas",
+          "Confere especificação antes de fechar pedido — material errado parado em obra é atraso disfarçado de estoque"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 4 — Gestão de equipes e subempreiteiros"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma obra residencial típica passa por meia dúzia de frentes especializadas: fundação, carpintaria, alvenaria, elétrica, hidráulica, gesso, pisos, pintura. Cada troca de frente é um risco de buraco no cronograma. A gestão profissional garante:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contratação com data — subempreiteiro sabe com antecedência qual dia sua frente começa e o que precisa estar pronto",
+          "Condições de continuidade — frente seguinte só entra com a anterior liberada e conferida",
+          "Interface resolvida — quem embute caixa de elétrica sabe onde, porque recebeu o projeto e a orientação, não descobre na parede"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 5 — Controle semanal: medir para não torcer"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cronograma sem controle é decoração de pasta. A rotina de gestão inclui reunião semanal de obra curta e objetiva: o que avançou, o que travou, o que entra na próxima semana, que decisão destrava. O avanço físico é registrado e comparado ao planejado — em obras maiores, pela curva S, que mostra visualmente se a obra está adiantada ou atrasada. Desvio pequeno identificado na semana certa se corrige com ajuste fino; ignorado, vira mês perdido."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Etapa 6 — Replanejamento: quando (não se) o atraso acontece"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Chuva atípica, material atrasado, imprevisto de solo: desvios acontecem até em obra bem gerida. A diferença do profissional é a reação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Quantificar — quantos dias o evento custou de fato no caminho crítico",
+          "Recuperar com método — reforço de equipe, sobreposição de frentes compatíveis ou resequenciamento, escolhendo a alternativa de menor custo",
+          "Comunicar — cliente informado com cenário e plano novo, não com silêncio e desculpa"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O fator litoral: prazos em Navegantes exigem premissas próprias"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Chuva de verão e umidade — concretagens, pintura e argamassa dependem de janela climática; o cronograma local reserva dias de clima, não finge que ele não existe",
+          "Logística regional — fornecedores concentrados em Itajaí e Balneário Camboriú: distância curta, mas trânsito de temporada que precisa estar no cálculo",
+          "Mão de obra concorrida — porto e indústria disputam profissionais qualificados; equipes boas precisam ser agendadas com antecedência",
+          "Vento forte — montagem de estruturas leves e telhados respeita janelas de segurança operacional"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que você deve exigir do responsável pela sua obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cronograma físico escrito antes de começar — não uma frase solta de \"uns seis meses\"",
+          "Reunião de acompanhamento periódica com registro de avanço",
+          "Justificativa técnica para qualquer alteração de prazo, com impacto quantificado",
+          "ART registrada no CREA-SC — responsabilidade formal pelo planejamento e pela execução"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre gestão de prazos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Todo atraso é culpa da gestão? Nem todo — imprevistos existem. Mas atraso mal comunicado, sem plano de recuperação e sem justificativa quantificada, sim: é falha de gestão. Obra bem administrada antecipa risco e reage com método."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso acelerar minha obra contratando mais gente? ìs vezes. Construção tem limites físicos de sobreposição — vinte pessoas num banheiro não pintam mais rápido. Aceleração eficiente acontece no caminho crítico e nas frentes paralelizáveis, decisão técnica e não de volume."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença entre cronograma físico e cronograma financeiro? O físico organiza as etapas no tempo; o financeiro projeta os desembolsos correspondentes. Integrados, respondem às duas perguntas ao mesmo tempo: quando fica pronto e quanto falta pagar."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto adianta meu prazo com um bom projeto? Mais do que se imagina: projeto completo e compatibilizado elimina as paradas por \"falta de definição\" — historicamente uma das maiores causas de tempo perdido em obra residencial."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Como acompanho o prazo à distância? Com rotina de relatórios: fotos datadas, percentual de avanço por etapa e pendências abertas. Cliente bem informado toma decisão rápido — e decisão rápida é combustível de prazo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gestão de prazos profissional com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Regê Engenharia, prazo é compromisso administrado com método: cronograma físico construído com dados, caminho crítico monitorado, compras disparadas no momento certo, reuniões semanais com registro e replanejamento transparente quando necessário — em obras residenciais, comerciais e industriais em Navegantes e no Litoral Norte catarinense, sempre com ART registrada no CREA-SC. Fale com nossa equipe e descubra como a sua obra pode terminar no dia combinado."
+      }
+    }
+  ]
+}

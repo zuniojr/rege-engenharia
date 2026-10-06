@@ -1,0 +1,252 @@
+{
+  "slug": "projeto-de-instalacoes-industriais-navegantes",
+  "title": "Projeto de Instalações Industriais: O Que Envolve e Como Não Errar no Seu Galpão em Navegantes",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Projeto de instalações industriais em galpão em Navegantes SC, com elétrica, hidráulica, incêndio e utilidades dimensionadas por engenheiros.",
+  "excerpt": "Instalação industrial não é obra comum: envolve energia, utilidades, normas de segurança do trabalho e licenciamento. Entenda o que compõe um projeto de instalações industriais, quais NRs e normas ABNT se aplicam e o que exigir dos engenheiros antes de montar sua operação.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O galpão foi alugado, os equipamentos chegaram — e aí vêm as surpresas: a rede elétrica não suporta o maquinário, falta ar comprimido na linha, o Corpo de Bombeiros reprova a planta e a fiscalização do trabalho cobra documentos que ninguém preparou. Em indústria, quase todo esse problema tem uma origem: projeto de instalações incompleto ou inexistente."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é um projeto de instalações industriais, quais disciplinas ele abrange, quais normas (NBRs e NRs) se aplicam, quando é obrigatório em Navegantes e o que exigir da equipe de engenharia para instalar ou ampliar sua operação sem retrabalho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto de instalações industriais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Projeto de instalações industriais é o conjunto de projetos complementares que integra todas as redes e sistemas necessários ao funcionamento de uma planta industrial — do ponto de energia até o exaustor da linha de produção. Diferente da edificação comercial, aqui cada sistema é dimensionado para carga contínua, ambiente agressivo e exigências regulatórias próprias."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Layout industrial — posicionamento de máquinas, fluxo de produção e logística interna",
+          "Elétrica de força — média e baixa tensão, subestação, quadros e aterramento",
+          "Utilidades — ar comprimido, vapor, gás industrial e água de processo",
+          "Hidráulica e efluentes — água industrial, esgoto e tratamento conforme o licenciamento",
+          "Prevenção contra incêndio — PPCI dimensionado pelo risco real da atividade",
+          "HVAC e ventilação — exaustão, renovação de ar e conforto térmico das áreas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Na indústria, o projeto não termina na parede: termina onde a produção começa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As normas que regem a instalação industrial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 5410 — Instalações elétricas de baixa tensão: base da distribuição em 220/380 V",
+          "NBR 14039 — Instalações elétricas de média tensão: subestação e alimentadores",
+          "NR-10 — Segurança em instalações e serviços em eletricidade: prontuário elétrico obrigatório",
+          "NR-12 — Segurança no trabalho em máquinas e equipamentos: proteções e parada de emergência",
+          "NR-13 — Caldeiras e vasos de pressão: registro e inspeção de equipamentos sob pressão",
+          "NBR 9077 e ITs do CBMSC — saídas de emergência e prevenção contra incêndio"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a indústria exige engenharia dedicada"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Carga contínua — equipamentos operando horas seguidas exigem dimensionamento de regime diferente do comercial",
+          "Ambiente agressivo — no litoral de Navegantes, maresia e umidade aceleram corrosão de estruturas e painéis",
+          "Normas de trabalho — NRs exigem documentação técnica assinada; fiscalização pode embargar a operação",
+          "Licenciamento ambiental — atividades poluidoras dependem de projeto aprovado junto ao órgão estadual",
+          "Expansão futura — layout e infraestrutura devem prever crescimento sem demolir tudo depois"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem assina os projetos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro eletricista (CREA-SC) — força, iluminação, subestação e prontuário NR-10, com ART",
+          "Engenheiro mecânico (CREA-SC) — utilidades, HVAC, vapor e vasos de pressão NR-13, com ART",
+          "Engenheiro civil (CREA-SC) — estrutura, fundação, hidráulica e pavimentação industrial, com ART",
+          "Engenheiro de segurança do trabalho — PPCI, PGR e adequação às NRs, com ART",
+          "Arquiteto (CAU/BR) — layout, compartimentação e conformidade urbanística, com RRT"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Cada disciplina industrial tem norma e responsável próprio. Projeto único e genérico não atende nem o bombeiro nem a fiscalização do trabalho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o projeto é obrigatório"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Implantação de nova unidade — qualquer atividade industrial exige projetos aprovados para funcionar",
+          "Troca de maquinário relevante — nova potência redefine elétrica, utilidades e ventilação",
+          "Ampliação de área construída — novo pavilhão repete todo o ciclo de aprovação",
+          "Regularização de operação existente — adequação às NRs e ao corpo de bombeiros",
+          "Mudança de atividade — outro ramo produtivo altera risco, licenças e exigências"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que exigir da equipe de engenharia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registros ativos no CREA-SC — confirme o registro de cada responsável pela especialidade",
+          "ARTs emitidas antes do início — cada disciplina com sua Anotação de Responsabilidade Técnica",
+          "Levantamento de cargas completo — elétrica, térmica e pneumática baseadas nos equipamentos reais",
+          "Prontuário elétrico NR-10 — documento obrigatório para operação e fiscalização",
+          "PPCI compatível com o risco real — classe de incêndio da atividade, não estimativa genérica",
+          "Compatibilização entre disciplinas — elétrica, hidráulica, estrutura e HVAC sem conflito de rotas",
+          "Previsão de expansão — reserva de capacidade definida desde o primeiro cálculo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que custam caro na planta industrial"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionar elétrica pelo galpão e não pela produção — transformador subdimensionado trava a operação",
+          "Ignorar a NR-12 — máquina sem proteção gera embargo, multa e acidente",
+          "Ar comprimido como detalhe — rede mal dimensionada derruba pressão na ponta da linha",
+          "Não prever efluentes — licenciamento travado impede o início da produção",
+          "Layout sem fluxo — deslocamento desnecessário vira custo permanente de produção",
+          "Deixar a maresia fora do projeto — materiais errados corroem em meses no litoral"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O erro mais comum da instalação industrial é projetar o galpão como se fosse uma loja grande — e descobrir na primeira parada de linha."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Instalação industrial na prática: o passo a passo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contrate equipe multidisciplinar — engenheiros das especialidades com registro no CREA-SC",
+          "Mapeie a produção — equipamentos, cargas, turnos e plano de expansão",
+          "Desenvolva o layout — fluxo de material e pessoa validado antes das redes",
+          "Projete as disciplinas — elétrica, utilidades, hidráulica, incêndio e HVAC compatibilizados",
+          "Aprove e execute — licenças, ARTs e obras conduzidas conforme projeto",
+          "Entregue a documentação — prontuário NR-10, manuais e planos de manutenção para operar regular"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre instalações industriais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Galpão comercial serve para atividade industrial? Depende. A mudança de ocupação precisa ser analisada: carga de incêndio, ventilação, elétrica e licenciamento mudam de categoria e podem exigir adequação completa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de prontuário elétrico? Sim. A NR-10 exige prontuário atualizado para toda instalação elétrica industrial, elaborado por profissional legalmente habilitado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem assina o projeto industrial? Cada disciplina tem seu responsável: eletricista, mecânico, civil e engenheiro de segurança, todos com ART no CREA-SC. Um único profissional raramente cobre tudo com habilitação plena."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Vale projetar pensando em expansão? Sempre. A reserva de capacidade em quadros, reservatórios e área útil custa pouco no projeto e evita obras de reforma dispendiosas no futuro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa o projeto de instalações industriais? Varia com porte, número de disciplinas e complexidade da atividade. O custo do projeto é pequeno frente a parada de linha, multa ou embargo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Instalações industriais com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos de instalações industriais multidisciplinares: elétrica de força, utilidades, hidráulica, prevenção contra incêndio e HVAC, compatibilizados entre si e adequados às NRs aplicáveis. Cuidamos do levantamento de cargas, das aprovações e das ARTs no CREA-SC — sempre considerando o ambiente litorâneo no dimensionamento de materiais."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai instalar, ampliar ou regularizar uma operação industrial em Navegantes, fale com nossa equipe antes da primeira compra de equipamento. Projeto de instalações feito por engenharia é o que mantém sua produção rodando sem surpresa regulatória."
+      }
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "slug": "artigo-contratando-engenheiro-navegantes",
+  "title": "Contratando um Engenheiro Civil em Navegantes: O Que Você Precisa Saber",
+  "tag": "ENGENHARIA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Contratando um Engenheiro Civil em Navegantes: O Que Você Precisa Saber - artigo técnico da Regê Engenharia sobre engenharia em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Contratar um engenheiro civil é uma das decisões mais importantes de qualquer projeto — e em Navegantes, onde o solo arenoso, o lençol freático alto e a maresia criam condições construtivas.",
+  "readTime": "3 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Contratar um engenheiro civil é uma das decisões mais importantes de qualquer projeto — e em Navegantes, onde o solo arenoso, o lençol freático alto e a maresia criam condições construtivas particulares, essa escolha pesa ainda mais. A diferença entre uma contratação bem feita e uma apressada pode representar milhares de reais em retrabalho, embargos e dor de cabeça."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia reúne tudo o que você precisa saber antes de assinar o contrato: o que o engenheiro deve entregar, como avaliar propostas, quais documentos exigir, quanto custa e quais bandeiras vermelhas evitar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Antes de Contratar: Defina o Escopo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O primeiro erro é contratar \"um engenheiro\" sem definir o que ele vai fazer. O profissional pode atuar em frentes bem diferentes:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Escopo",
+          "O Que Está Incluído",
+          "Quando Usar"
+        ],
+        "rows": [
+          [
+            "Projeto (legal + executivo)",
+            "Arquitetura, estrutura, elétrica, hidráulica, impermeabilização, compatibilização",
+            "Antes de aprovar na prefeitura e executar a obra"
+          ],
+          [
+            "Acompanhamento de obra",
+            "Visitas semanais, fiscalização, controle tecnológico, relatórios",
+            "Durante toda a execução"
+          ],
+          [
+            "Gerenciamento completo (Design-Build)",
+            "Projeto + execução + equipe + entrega",
+            "Quando você quer responsabilidade única"
+          ],
+          [
+            "Laudos e vistorias",
+            "Compra/venda, locação, vizinhança, pós-sinistro",
+            "Caso pontual, sem vínculo com obra"
+          ],
+          [
+            "Perícia técnica",
+            "Diagnóstico de causas, processos judiciais",
+            "Litígios e disputas"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Dica: organize um briefing técnico — área desejada, pavimentos, uso, acabamento, prazo, orçamento. Isso permite comparar propostas de forma justa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. O Que Verificar Antes de Fechar"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.1 Registro no CREA-SC (imprescindível)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Consulte o profissional no site do CREA (\"Consulta de Profissionais\")",
+          "Confirme registro ativo e a capacidade de emitir ART",
+          "Profissional sem registro ativo não pode assinar projeto nem emitir ART"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.2 Experiência Local"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Já trabalhou com o solo de Navegantes (sondagem, lençol freático)?",
+          "Tem obras concluídas em Meia Praia, Gravatá, São Paulo, Machados?",
+          "Conhece os trâmites da Prefeitura de Navegantes e do Corpo de Bombeiros de SC?"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.3 Especialização Compatível"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Em solo arenoso com lençol raso — \u0019 experiência com estacas, radier ou colchão de brita",
+          "Casas de veraneio — \u0019 patologias, agressividade marítima, impermeabilização",
+          "Reforço estrutural — \u0019 histórico em patologia e recuperação"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2.4 Referências e Portfólio"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Obras e laudos anteriores, com referências que possam ser contatadas",
+          "Projetos já aprovados na prefeitura",
+          "Artigos, capacitações e cursos na área"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Como Avaliar as Propostas"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Critério",
+          "O Que Avaliar"
+        ],
+        "rows": [
+          [
+            "Escopo detalhado",
+            "Lista completa das entregas (plantas, memoriais, ARTs, relatórios)"
+          ],
+          [
+            "Cronograma",
+            "Prazos de cada etapa e critérios de aceite"
+          ],
+          [
+            "Metodologia",
+            "Controle de qualidade, ensaios, medições"
+          ],
+          [
+            "Presença",
+            "Frequência de visitas físicas e quem decide cada fase"
+          ],
+          [
+            "Transparência de custos",
+            "Orçamento itemizado, sem letras miúdas"
+          ],
+          [
+            "Garantia e pós-obra",
+            "O que é garantido, por quanto tempo, como acionar"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Bandeiras Vermelhas nas Propostas"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Sinal de Alerta",
+          "Por Que Evitar"
+        ],
+        "rows": [
+          [
+            "Escopo vago",
+            "Vira aditivo e surpresa"
+          ],
+          [
+            "\"Confia em mim\" sem projeto",
+            "Falta de rigor técnico"
+          ],
+          [
+            "ART de gaveta",
+            "Assina sem acompanhar — crime e risco"
+          ],
+          [
+            "Sem registro no CREA",
+            "Ilegal"
+          ],
+          [
+            "Preço muito baixo",
+            "Corte de qualidade em algum ponto"
+          ],
+          [
+            "Sem contrato escrito",
+            "Sem proteção jurídica"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Documentação e Responsabilidade Técnica"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Documento",
+          "Função",
+          "Quando Exigir"
+        ],
+        "rows": [
+          [
+            "ART de projeto",
+            "Responsabiliza o projeto",
+            "Antes do início da obra"
+          ],
+          [
+            "ART de execução",
+            "Responsabiliza a obra",
+            "Antes do início da obra"
+          ],
+          [
+            "ART de conclusão",
+            "Encerra formalmente a obra",
+            "Na entrega"
+          ],
+          [
+            "Placa de obra",
+            "Identifica o responsável técnico",
+            "Durante a obra"
+          ],
+          [
+            "Diário de obra / livro de ordem",
+            "Registra visitas e ocorrências",
+            "Durante a obra"
+          ],
+          [
+            "Contrato escrito",
+            "Direitos, obrigações, prazos, honorários",
+            "Antes de fechar"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A ART é registrada no CREA e possui fé de instrumento público. Sem ela, você não aprova o alvará, não obtém o Habite-se, não regulariza o imóvel e não aciona garantia. Recuse engenheiro que não emita ART."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Quanto Custa um Engenheiro em Navegantes (Referência)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Serviço",
+          "Faixa de Custo (2025)"
+        ],
+        "rows": [
+          [
+            "Consultoria / parecer técnico",
+            "R$ 300 a R$ 1.000"
+          ],
+          [
+            "Laudo de vistoria (casa padrão)",
+            "R$ 800 a R$ 3.000"
+          ],
+          [
+            "Projeto executivo (casa 150-300 m²)",
+            "R$ 8.000 a R$ 25.000"
+          ],
+          [
+            "Projeto completo (alto padrão / edifício)",
+            "R$ 80 a 150/m²"
+          ],
+          [
+            "Acompanhamento de obra (mensal)",
+            "R$ 2.000 a R$ 6.000/mês"
+          ],
+          [
+            "Gerenciamento completo (Design-Build)",
+            "7% a 15% do valor da obra"
+          ],
+          [
+            "ART (taxa CREA)",
+            "R$ 90 a R$ 400"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Valores variam por porte, complexidade e profissional. Peça pelo menos 2 propostas e desconfie de milagres."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Bom Profissional x Profissional Limitado"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Um bom engenheiro...",
+          "Um engenheiro limitado..."
+        ],
+        "rows": [
+          [
+            "Faz perguntas técnicas e visita o local",
+            "Faz \"projeto\" sem visitar o terreno"
+          ],
+          [
+            "Decide com dados (sondagem, cálculo, ensaios)",
+            "Decide na base de \"experiência\""
+          ],
+          [
+            "Explica opções e custos",
+            "Esconde-se em jargão técnico"
+          ],
+          [
+            "Prioriza segurança e norma",
+            "Prioriza o menor preço"
+          ],
+          [
+            "Está presente na obra",
+            "Acompanha só pelo celular"
+          ],
+          [
+            "Entrega documentação completa",
+            "Entrega \"plantas\" sem o ART"
+          ],
+          [
+            "Formaliza tudo por escrito",
+            "Evita registro e reuniões"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Cláusulas Que Não Podem Faltar no Contrato"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Objeto e escopo — entregas, e o que NÒO é entregável",
+          "Prazo e multa por atraso",
+          "Forma de pagamento (linkado a marcos, não ao todo)",
+          "Garantia (NBR 15.575) e assistência pós-entrega",
+          "Seguro de responsabilidade civil profissional",
+          "Substituição de equipe-chave apenas com aprovação sua",
+          "Rescisão — regras de pagamento de serviços medidos",
+          "Periodicidade de reuniões, visitas e relatórios",
+          "Obrigações frente à prefeitura, NR-18 e Bombeiros",
+          "Documentos de aceite de cada etapa"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "8. Custos de Contratar Mal"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Erro",
+          "Prejuízo Típico"
+        ],
+        "rows": [
+          [
+            "Contratar só por indicação",
+            "Falta de rigor, retrabalho"
+          ],
+          [
+            "Não verificar CREA",
+            "Garantia e responsabilidade ausentes"
+          ],
+          [
+            "Dispensar sondagem para economizar",
+            "Fundação errada — \u0019 recalque, trinca, 10 a 30% do imóvel"
+          ],
+          [
+            "Confiar em \"sabemos fazer\"",
+            "Obra irregular, embargo, perda de tempo"
+          ],
+          [
+            "Pagar adiantado sem contrato",
+            "Risco de perda e disputa"
+          ],
+          [
+            "Não acompanhar a obra",
+            "Erro só aparece depois, a 10x o custo"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "9. Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Como verifico se o engenheiro é registrado?** No site do CREA, campo Consulta de Profissionais. Confirme a situação como ativa e emissão de ART."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Posso contratar só para assinar a ART?** Não. —0 infração grave. Quem assina precisa acompanhar a obra — a \"ART de gaveta\" só transfere risco e responsabilidade para você."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Engenheiro é caro?** O acompanhamento técnico custa de 1% a 3% da obra. Sem ele, um problema estrutural custa de 10% a 30% do imóvel — além de responsabilidade civil e criminal."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Como escolher entre todos os profissionais de Navegantes?** Prefira quem conhece o solo da cidade e mantém presença presencial. Pegue propostas escritas e compare pela metodologia, não pelo menor preço."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O atraso da obra tem penalidade?** O contrato deve prever multa por atraso, penalidades por descumprimento e cláusula de rescisão. Mantenha documentação de medições e relatórios para respaldo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Contratar bem não é escolher o mais barato. Em Navegantes, é escolher o **responsável técnico** do seu projeto com critério: verifique o CREA, exija ART, peça contrato escrito e compare propostas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma contratação correta:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Identifica o erro antes de ele virar custo",
+          "Entrega uma obra segura, conforme a norma",
+          "Valoriza o patrimônio e regulariza o imóvel",
+          "Gera segurança jurídica em qualquer disputa"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O momento mais barato da obra é o planejamento. O mais caro é quando ele não existe.**"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo informativo. Para contratar um engenheiro civil em Navegantes, consulte um profissional registrado no CREA-SC. Valores e normas conforme referências de mercado vigentes.*"
+      }
+    }
+  ]
+}

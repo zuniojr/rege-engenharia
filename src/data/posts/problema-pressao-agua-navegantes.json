@@ -1,0 +1,296 @@
+{
+  "slug": "problema-pressao-agua-navegantes",
+  "title": "Problema de Pressão da Água em Navegantes SC: Causas, Diagnóstico e Soluções Definitivas",
+  "tag": "HIDRÁULICA",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Engenheiro medindo pressão da água com manômetro em instalação hidráulica residencial em Navegantes SC para diagnóstico de baixa e alta pressão.",
+  "excerpt": "Chuveiro fraco, torneira que jorra ou cano estourando? Problema de pressão da água tem causa técnica — não se resolve no chute. Veja as 12 causas mais comuns, como diagnosticar com manômetro, quando usar pressurizador, booster ou VRP, custos e a NBR 5626.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Chuveiro que vira fio, torneira que demora para encher balde, vaso que não aciona, aquecedor a gás que não liga e barulho de martelada na parede na madrugada. O problema de pressão da água é o defeito hidrossanitário que mais gera chamado técnico no litoral — e também o que mais recebe solução errada: pressurizador onde precisava redutor de pressão, bomba onde precisava caixa d'água mais alta, cano mais grosso onde o problema era registro entupido."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e no Litoral Norte de Santa Catarina, a pressão sofre dois extremos: baixa pressão em casas térreas com caixa d'água baixa e nas pontas de rede da CASAN, e alta pressão em prédios com reservatório alto sem válvula redutora. A NBR 5626 exige entre 10 e 400 kPa (1 a 40 m.c.a.) nos pontos de utilização — fora dessa faixa, é patologia hidráulica com risco real de prejuízo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Qual é a pressão correta segundo a norma"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pressão mínima dinâmica — 10 kPa (1 m.c.a.): mínimo para qualquer ponto funcionar",
+          "Chuveiro e válvula de descarga — 15 a 20 kPa (1,5 a 2 m.c.a.): abaixo disso, não acionam",
+          "Pressão máxima estática — 400 kPa (40 m.c.a.): acima disso, estoura flexível, registro e aquecedor",
+          "Pressão ideal de conforto — 120 a 250 kPa (12 a 25 m.c.a.): chuveiro forte sem desperdício nem ruído",
+          "Regra prática — cada 1 metro de altura da caixa d'água até o ponto equivale a 10 kPa; caixa a 3 m do chuveiro entrega 30 kPa, suficiente para chuveiro comum mas insuficiente para aquecedor a gás"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Sete em cada dez chamados de falta de pressão em Navegantes se resolvem sem bomba: limpeza, regulagem de registro ou correção de diâmetro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Sintomas: seu problema é baixa ou alta pressão?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sinais de baixa pressão: chuveiro fraco mesmo sem economia, pior no pavimento superior; aquecedor a gás que não acende por vazão insuficiente; caixa acoplada demorando mais de 3 minutos para encher; misturador que não mistura (só sai frio ou só quente); máquina de lavar acusando erro de abastecimento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sinais de alta pressão: golpe de aríete (martelada na parede ao fechar a torneira), flexível estourando, registro pingando mesmo fechado, torneira que jorra forte e fecha com estalo, aquecedor desarmado por sobrepressão e conta alta sem vazamento visível."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As 12 causas mais comuns de problema de pressão"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caixa d'água baixa — desnível menor que 1,5 m até o chuveiro; típico de casas térreas",
+          "Tubulação subdimensionada — tubo de 1/2 polegada servindo a casa toda, queda brusca ao abrir dois pontos",
+          "Registro entupido ou semi-fechado — registro geral oxidado ou de gaveta travado pela corrosão",
+          "Filtro, arejador ou chuveiro entupidos — calcário e areia fina, comuns em água de poço e captações regionais",
+          "Estrangulamentos — excesso de joelhos 90 graus, mangueira dobrada, flexível longo na reforma",
+          "Vazamento oculto — hidrômetro girando com tudo fechado; laje, jardim ou muro infiltrando",
+          "Ar na tubulação — bolhas, ruído e vazão intermitente após falta d'água da concessionária",
+          "Pressão da rua insuficiente — cai no horário de pico (6h-9h e 19h-22h) e no verão",
+          "Pressurizador mal especificado — sem fluxostato ou sem automação, ligando e desligando errático",
+          "Coluna sem setorização em prédio — térreo forte, último andar fraco, sem booster nem VRP",
+          "VRP desregulada ou ausente — prédio alto entregando 35 a 50 m.c.a. no térreo",
+          "Perda de carga do aquecedor/filtro central — medir antes e depois do aparelho revela a queda"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como diagnosticar com método (roteiro de 15 minutos)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Meça no cavalete — manômetro com tudo fechado (pressão estática) e com uma torneira aberta (dinâmica); abaixo de 150 kPa na rua em horário normal, o problema é da rede",
+          "Meça no ponto reclamado — se cai mais de 50% entre cavalete e ponto, há perda na rede interna",
+          "Teste do balde — 1 minuto de vazão no ponto: chuveiro confortável entrega 8 a 12 L/min; abaixo de 6 L/min há entupimento ou subdimensionamento",
+          "Retire arejador e chuveirinho — se a vazão normaliza, era entupimento localizado",
+          "Cheque os registros — geral e do ponto, verificando se abrem 100%",
+          "Abra dois pontos simultâneos — se a pressão despenca, suspeite de tubulação fina ou vazamento",
+          "Observe o hidrômetro parado — tudo fechado e girando significa vazamento oculto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Soluções definitivas para baixa pressão"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Limpeza ou troca de arejador, chuveiro e registro — custo de R$ 50 a R$ 300, resolve cerca de 30% dos casos",
+          "Correção de trecho estrangulado ou fino — trocar o trecho crítico para DN 25/32 conforme NBR 5626",
+          "Elevar a caixa d'água ou construir torre — ganhar 1,5 a 3 m soma 15 a 30 kPa de forma permanente",
+          "Pressurizador de linha com fluxostato — indicado para um banheiro fraco, silencioso e com by-pass",
+          "Booster com pressostato e reservatório hidropneumático — mantém 150 a 250 kPa estáveis em casas grandes",
+          "Cisterna + bomba de recalque + caixa superior — solução definitiva para rede fraca e faltas d'água no verão",
+          "Prédio: booster no subsolo + VRP por zona — colunas setorizadas entregam pressão igual em todos os pavimentos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Soluções definitivas para alta pressão"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Válvula Redutora de Pressão (VRP) — obrigatória acima de 400 kPa no ponto; ajuste para 200—\u001c250 kPa com manômetros antes e depois",
+          "Setorização por zonas — prédios altos divididos em faixas de 8 a 10 pavimentos com VRP própria",
+          "Vaso de expansão + válvula de alívio — absorve o golpe de aríete em sistemas com aquecedor",
+          "Fixação e ancoragem da tubulação — abraçadeiras a cada 1,5 m eliminam ruído e movimento"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O golpe de aríete nunca é normal: é falha de projeto, com velocidade acima de 2 m/s ou fechamento brusco. VRP, ancoragem e registros de fechamento lento resolvem definitivamente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Pressurizador x bomba x booster: qual escolher"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pressurizador de passagem (20—\u001c35 L/min) — resolve um chuveiro ou uma suíte; só funciona com rede já pressurizada",
+          "Bomba periférica com pressostato (35—\u001c60 L/min) — casa com 2 a 3 banheiros; exige reservatório próprio e respiro",
+          "Booster com inversor de frequência (60—\u001c150 L/min) — pressão constante em casa grande ou prédio pequeno; conforto total, custo maior",
+          "Erro comum em Navegantes — instalar pressurizador direto na rede da CASAN: além de proibido, queima a bomba na primeira falta d'água e prejudica os vizinhos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Dimensionamento que evita o problema (NBR 5626)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Velocidade máxima na tubulação — 2,0 m/s (ideal entre 1,0 e 1,5 m/s); acima disso surgem ruído e golpe de aríete",
+          "Perda de carga total — limitada a 10% da pressão disponível",
+          "Chuveiro e aquecedor a gás — DN 25 dedicado desde a caixa, com registro próprio; vazão de projeto 0,20 L/s",
+          "Torneiras e vasos sanitários — DN 20 com arejador economizador",
+          "Reserva técnica — caixa dimensionada para 24 horas de consumo conforme NBR 5626"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades de Navegantes e do Litoral Norte"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Rede CASAN variável por horário e estação — medição no cavalete em dois horários + cisterna com recalque para autonomia",
+          "Pontas de rede em expansão (Gravatá, São Domingos, Meia Praia) — pressão de rua já chega baixa; reservatório maior e laudo técnico para solicitar reforço à CASAN",
+          "Casas térreas com caixa baixa — torre de caixa ou pressurizador com by-pass e revisão dos diâmetros",
+          "Prédios na orla com reservatório alto — VRP por zona é item de Habite-se e segurança patrimonial",
+          "Maresia corroe registros e flexíveis — registros de esfera em inox ou latão cromado e flexível trançado inox evitam registro travado semi-aberto",
+          "Água com areia fina — filtro na entrada + limpeza programada dos pontos"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa resolver (2025/2026 — Navegantes)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Diagnóstico técnico com manômetro e teste de vazão — R$ 300 a R$ 700",
+          "Limpeza/troca de registros, arejadores e chuveiro — R$ 150 a R$ 600",
+          "Correção de trecho subdimensionado (5 a 10 m) — R$ 800 a R$ 2.500",
+          "Pressurizador de passagem instalado — R$ 900 a R$ 2.200",
+          "Booster com pressostato + hidropneumático — R$ 3.500 a R$ 8.000",
+          "Torre ou elevação de caixa d'água (1,5 a 3 m) — R$ 2.500 a R$ 6.000",
+          "Cisterna de 1.000 a 3.000 L + recalque — R$ 4.500 a R$ 10.000",
+          "VRP com manômetros instalada — R$ 600 a R$ 1.500",
+          "Projeto hidrossanitário completo (casa de 150 a 300 m²) — R$ 1.800 a R$ 4.500 com ART"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que agravam o problema"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Instalar pressurizador direto na rede da concessionária — puxa a rede, queima a bomba e pode gerar multa",
+          "Trocar o cano e manter o registro velho entupido — a pressão não volta",
+          "Instalar VRP sem manômetro — impossível regular e conferir",
+          "Bombas superdimensionadas — ruído, golpe de aríete e conta de energia alta",
+          "Ignorar vazamento oculto — a bomba liga sem parar e a conta dispara"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre pressão da água"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso instalar pressurizador direto na rede da CASAN? Não. —0 proibido e danifica a rede e a bomba. Todo pressurizador deve puxar de reservatório próprio (caixa d'água ou cisterna)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Pressurizador resolve a casa toda? Só o booster setorizado. O pressurizador de passagem resolve um ponto; para casa com dois ou mais banheiros o correto é booster com pressostato e hidropneumático ou elevar a caixa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A VRP é sempre necessária? Se a pressão estática no ponto passa de 400 kPa, sim — é exigência da NBR 5626 e item recorrente de Habite-se em prédios."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Por que a pressão cai só à noite? Horário de pico da rede somado a reservatório vazio. A solução é cisterna com recalque garantindo a reserva técnica de 24 horas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva para resolver? Diagnóstico em uma visita; limpezas e trocas de registro no mesmo dia; pressurizador ou VRP em 1 a 2 dias; torre, cisterna ou booster em 3 a 7 dias."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Resolva a pressão da sua casa com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o Litoral Norte com diagnóstico instrumentado (manômetro e vazão), projeto conforme a NBR 5626, instalação de pressurizadores, boosters, VRPs, cisternas e torres, sempre com materiais preparados para a maresia e ART no CREA-SC. Medimos, projetamos, instalamos e regulamos — até o último ponto ficar com a pressão certa. Fale com nossa equipe e agende o diagnóstico da sua instalação."
+      }
+    }
+  ]
+}

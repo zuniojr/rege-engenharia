@@ -1,0 +1,447 @@
+{
+  "slug": "laudos-conformidade-normas-regulamentadoras",
+  "title": "Laudos de Conformidade com Normas Regulamentadoras (NRs): Guia Completo para Empresas, Condominios e Obras em Navegantes SC",
+  "tag": "LAUDOS",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Engenheiro realizando laudo de conformidade com Normas Regulamentadoras NR-18, NR-10 e NR-35 em canteiro de obras em Navegantes SC.",
+  "excerpt": "Evite multas e interdictions: entenda o que e o laudo de conformidade com NRs, quando e obrigatorio (NR-18, NR-10, NR-35, NR-12), quem pode emitir, como e feito, validade e custos em Navegantes.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Multa do Ministerio do Trabalho, obra embargada, contrato com cliente perdido por falta de documentacao, acidente que poderia ter sido evitado: quem gerencia empresa, condominio, industria ou canteiro de obras em Navegantes conhece bem os riscos de nao estar em conformidade com as Normas Regulamentadoras (NRs). No centro desse quebra-cabeca documental existe um instrumento tecnico que poucos conhecem em detalhe, mas que decide se a empresa esta protegida ou exposta: o laudo de conformidade com NRs."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica, de forma pratica e direta, o que sao os laudos de conformidade com Normas Regulamentadoras, quais NRs mais exigem laudo na construcao civil e nas empresas do litoral catarinense, quando o documento e obrigatorio, quem pode emitir com ART, como e a vistoria, qual a validade e quanto custa em Navegantes e regiao. Se voce e responsavel tecnico, empresario, sindico ou gestor de RH/SSO, este artigo e o seu checklist juridico e tecnico."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Laudo de conformidade nao e papel para gaveta: e a prova tecnica de que sua empresa respeita a NR hoje, com foto, medicao e ART - e nao apenas na teoria."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que e um laudo de conformidade com Normas Regulamentadoras?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Laudo de conformidade com NR e o documento tecnico elaborado por engenheiro habilitado (com CREA ativo e ART) ou profissional legalmente habilitado conforme a NR, que atesta - apos vistoria in loco, medicoes e analise documental - se um ambiente, maquina, instalacao ou procedimento atende aos requisitos da NR especifica. Diferente de um checklist interno, o laudo tem metodologia, referencia normativa expressa, evidencias fotograficas, memoria de calculo quando aplicavel e responsabilidade tecnica formal."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Tem valor juridico e pericial: serve como prova em fiscalizacao do MTE (Auditoria Fiscal do Trabalho), em acao trabalhista e em auditoria de cliente/certificadora",
+          "E especifico por NR: existe laudo de conformidade com NR-10 (eletrica), NR-12 (maquinas), NR-13 (vasos de pressao), NR-18 (construcao), NR-35 (trabalho em altura), NR-23 (incendio), entre outros",
+          "Exige ART ou documento equivalente: sem ART no CREA (ou RT no conselho competente) o laudo nao tem validade formal perante orgaos fiscalizadores",
+          "Aponta nao conformidades e plano de correcao: nao e apenas um carimbo de aprovado, mas um diagnostico com grau de risco, prazo e recomendacao objetiva",
+          "Pode ser reprovado: constatar nao conformidade e funcao central do laudo - e o que protege a empresa de um acidente com culpa caracterizada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo de conformidade x PGR, LTCAT, PCMSO e outros documentos: nao confunda"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A confusao entre documentos de SST e a causa mais comum de empresas acharem que estao em dia e serem autuadas. Veja a diferenca pratica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Laudo de conformidade com NR: verifica conformidade pontual com os requisitos tecnicos da NR (ex: NR-10 ou NR-35). Responde: esta instalacao/equipamento/procedimento atende a NR hoje?",
+          "PGR (Programa de Gerenciamento de Riscos - NR-01): e o programa continuo de gestao de riscos da empresa (inventario + plano de acao). O laudo pode alimentar o PGR, mas nao o substitui",
+          "LTCAT (Laudo Tecnico das Condicoes Ambientais do Trabalho): serve para fins previdenciarios (INSS, aposentadoria especial). Nao comprova conformidade com NR de seguranca",
+          "PCMSO (Programa de Controle Medico de Saude Ocupacional - NR-07): cuida da saude ocupacional, nao da conformidade tecnica de maquinas ou instalacoes",
+          "Laudo de insalubridade/periculosidade (NR-15/NR-16): caracteriza direito a adicional, nao e um laudo de conformidade geral",
+          "ART: nao e laudo, e o registro da responsabilidade tecnica de quem fez o laudo ou projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Ter PGR e LTCAT em dia nao significa estar conforme com NR-10, NR-12 ou NR-35. Sao documentos com finalidades diferentes - e a fiscalizacao cobra cada um separadamente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As NRs que mais exigem laudo de conformidade em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na realidade de Navegantes - canteiros de obras, galpoes industriais, condominios, comercio e porto - estas sao as NRs que mais geram demanda por laudos:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NR-18 - Seguranca e Saude no Trabalho na Industria da Construcao"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A NR mais presente nos canteiros de Navegantes. Exige laudo/relatorio de conformidade para: areas de vivencia, instalacoes eletricas temporarias, protecoes coletivas, sistemas de protecao contra quedas, andaimes, escoramentos, escavacoes e maquinas em obra. E a NR que mais gera embargo de obra no litoral quando desrespeitada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NR-10 - Seguranca em Instalacoes e Servicos em Eletricidade"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Obrigatoria para qualquer empresa com instalacoes eletricas. O laudo de conformidade da NR-10 (muitas vezes chamado de Laudo Eletrico ou Relatorio de Conformidade NR-10) verifica: prontuario eletrico, diagramas, aterramento, SPDA, seccionamento, protecao contra choques e arco eletrico, e capacitacao da equipe (NR-10 SEP quando aplicavel). Validade tipica de 1 ano."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NR-35 - Trabalho em Altura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Indispensavel em obras, manutencao predial, limpeza de fachadas, telhados e industrias com mezaninos. O laudo de conformidade NR-35 avalia: sistema de ancoragem, linha de vida, pontos de ancoragem com calculo estrutural, EPCs, EPIs, treinamento valido e plano de emergencia/resgate. Sem laudo de ancoragem com ART, o trabalho em altura e considerado irregular pela fiscalizacao."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NR-12 - Seguranca no Trabalho em Maquinas e Equipamentos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Critica para marcenarias, serralherias, industrias e ate canteiros com serra circular, betoneira e maquinas estacionarias. O laudo NR-12 verifica: protecoes fixas e moveis, dispositivos de parada de emergencia, distancias de seguranca, sinalizacao e manual. Maquina sem conformidade NR-12 pode ser lacrada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NR-13 - Caldeiras, Vasos de Pressao e Tubulacoes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para empresas com caldeiras, compressores, autoclaves e vasos sob pressao. O laudo/inspecao NR-13 e obrigatorio e tem periodicidade legal definida (anual, bienal ou conforme categoria), com teste hidrostatico e livro de registro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "NR-23 - Protecao Contra Incendios e NR-24 - Condicoes Sanitarias"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo de conformidade NR-23 checa rotas de fuga, extintores, iluminacao de emergencia e sinalizacao - complementar ao AVCB dos Bombeiros. Ja a NR-24 verifica vestiarios, sanitarios e refeitorios, item que reprova muitas areas de vivencia em obras fiscalizadas em Navegantes."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NR-06 (EPI): laudo de adequacao e fornecimento de EPIs com CA valido, especialmente critico no litoral onde a maresia acelera o desgaste",
+          "NR-33 (Espaco Confinado) e NR-15/NR-16: laudos para tanques, cisternas, silos e ambientes com agentes insalubres/perigosos",
+          "NR-17 (Ergonomia): laudo ergonomico exigido em postos de trabalho administrativos e produtivos, base para acoes trabalhistas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o laudo de conformidade e obrigatorio?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Existem tres gatilhos que tornam o laudo indispensavel - e ignorar qualquer um deles expoe a empresa a multa, interdição e responsabilidade civil/criminal em caso de acidente:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Por forca da propria NR: muitas NRs exigem laudo/inspecao periodica expressa (ex: NR-10, NR-12, NR-13, NR-35 com pontos de ancoragem). O texto da NR usa termos como laudo tecnico, inspecao, prontuario e relatorio - todos com exigencia de profissional habilitado",
+          "Por fiscalizacao ou auditoria: Auditor Fiscal do Trabalho, MPT, cliente contratante, seguradora ou certificadora (ISO 45001) solicitam o laudo como evidencia de conformidade",
+          "Por gestao de risco e evento: antes de liberar frente de trabalho (altura, eletricidade, espaco confinado), apos acidente ou quase-acidente, na entrega de obra, na contratacao de terceirizados, ou para renovar PGR/AVCB"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na pratica do litoral norte: todo canteiro com trabalho em altura ou eletricidade temporaria precisa de pelo menos dois laudos vigentes (NR-18 + NR-35 e/ou NR-10). Industria com maquinas precisa de NR-12. Empresa com compressores precisa de NR-13. Condominio em manutencao de fachada precisa de NR-35 + ancoragem."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem pode emitir o laudo de conformidade?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro de Seguranca do Trabalho ou Engenheiro Eletricista/Mecanico/Civil conforme a NR, com registro ativo no CREA-SC e ART emitida para o laudo",
+          "Para NR-10 e NR-12: preferencialmente Engenheiro Eletricista (NR-10) e Engenheiro Mecanico ou de Seguranca (NR-12) - a habilitacao deve constar na ART",
+          "Para NR-35/ancoragem: Engenheiro Civil ou Mecanico com calculo estrutural dos pontos de ancoragem e ART especifica",
+          "Para NR-13: Profissional Habilitado (PH) definido na NR-13, com comprovacao de experiencia e ART",
+          "O laudo deve citar expressamente a NR, a versao vigente, os itens verificados e a conclusao (conforme / nao conforme / conforme com ressalvas)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Laudo sem ART e como projeto sem assinatura: ate pode estar certo, mas nao vale nada na fiscalizacao - e nao protege ninguem em caso de acidente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como e feito o laudo de conformidade: as 4 fases"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fase 1 - Analise documental: coleta de PGR, projetos, diagramas eletricos, manuais de maquinas, certificados de treinamento (NR-10, NR-35), prontuarios e laudos anteriores",
+          "Fase 2 - Vistoria in loco com medicoes: inspeção visual, fotos georreferenciadas, medicoes de aterramento, tensao, iluminancia, ruido, resistencia de ancoragem, folgas de protecao de maquinas, conforme a NR. No litoral, atencao redobrada a corrosao por maresia em EPI, EPC, paineis e ancoragens",
+          "Fase 3 - Analise tecnica e classificacao de risco: comparacao item a item com a NR vigente, classificacao em Conforme, Nao Conforme Critico (risco iminente/interdição) e Nao Conforme Nao Critico (corrigir em prazo)",
+          "Fase 4 - Emissao do laudo com ART: documento em PDF com capa, sumario, metodologia, evidencias, tabela de nao conformidades, plano de acao com prazos e responsaveis, conclusao e ART quitada no CREA-SC"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o fiscal do Trabalho verifica na pratica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "O laudo cita a NR na versao atualizada (o MTE atualiza NRs com frequencia - laudo com NR desatualizada e desconsiderado)",
+          "Ha evidencias datadas (fotos, medicoes, numeros de serie de maquinas, TAGs de quadros eletricos)",
+          "A ART e compativel com a atividade e esta quitada (consulta no CREA-SC)",
+          "O plano de acao tem prazo: fiscal nao aceita laudo com nao conformidade critica sem prazo imediato de interdição",
+          "Treinamentos estao validos (NR-10 bienal, NR-35 bienal, NR-18 admissional) e com listas de presenca"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Validade e periodicidade: quanto tempo dura o laudo?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NR-10: 1 ano (ou antes, se houver alteracao nas instalacoes)",
+          "NR-12: 1 ano ou sempre que houver modificacao na maquina/equipamento",
+          "NR-13: conforme categoria do vaso/caldeira - anual, bienal ou trienal, definida em norma",
+          "NR-35/ancoragem: 1 ano para pontos de ancoragem e sistemas de linha de vida, com inspecao periodica obrigatoria",
+          "NR-18: por obra ou fase da obra - cada etapa (estrutura, fachada, cobertura) pode exigir novo laudo",
+          "Regra geral: qualquer alteracao relevante (nova maquina, reforma eletrica, mudanca de layout) invalida o laudo anterior e exige reavaliacao"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que acontece se a empresa nao tiver o laudo?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Multa administrativa do MTE: de R$ 1.000 a mais de R$ 50.000 por infracao, podendo ser multiplicada por numero de trabalhadores expostos",
+          "Embargo ou interdição: parada total da obra, maquina lacrada ou setor interditado ate a correcao - cada dia parado em Navegantes custa cronograma e contrato",
+          "Responsabilidade civil e criminal: em caso de acidente grave ou fatal, a ausencia de laudo caracteriza culpa e pode levar a acao indenizatoria, processo criminal por homicidio culposo e inelegibilidade para licitacoes",
+          "Perda de contratos: construtoras, condominios e industrias contratantes cada vez mais exigem laudos vigentes como condicao para homologacao de fornecedores",
+          "Seguradora nega cobertura: sinistro com instalacao/maquina irregular pode ter indenizacao negada por descumprimento de norma tecnica"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O laudo mais caro e o que nao foi feito: ele custa uma multa, um embargo ou um processo. O laudo preventivo custa uma fracao disso."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades do litoral de Navegantes que o laudo precisa considerar"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia e corrosao acelerada: quadros eletricos, ancoragens, estruturas metalicas e EPIs precisam de especificacao inox/galvanizado e inspecao mais frequente - o laudo deve registrar grau de corrosao com foto",
+          "Solo arenoso e lencol freatico alto: escoramentos de escavacao (NR-18) e aterramento eletrico (NR-10) se comportam diferente no litoral; o laudo deve exigir sondagem e medicao de resistividade",
+          "Vento e chuva intensa: sistemas de protecao contra quedas e andaimes (NR-18/NR-35) tem exigencia maior de contraventamento e drenagem no litoral",
+          "Areas de vivencia (NR-18/NR-24): fiscalizacao em Navegantes reprova com frequencia alojamentos sem ventilacao, refeitorio ou sanitario na proporcao exigida - o laudo antecipa a autuacao",
+          "Temporada e prazos curtos: obras com prazo de temporada nao podem parar por interdição - o laudo preventivo e o que garante entrega no prazo"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa um laudo de conformidade em Navegantes?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Laudo NR-10 (instalacoes eletricas de baixa tensao, comercio/pequena industria): R$ 800 a R$ 2.500",
+          "Laudo NR-12 por maquina: R$ 400 a R$ 1.200 por equipamento, com desconto para parque com varias maquinas",
+          "Laudo NR-35 + ancoragem/linha de vida: R$ 1.200 a R$ 3.500 (inclui calculo estrutural dos pontos)",
+          "Laudo NR-18 para canteiro de obras (medio porte): R$ 1.500 a R$ 4.000 por fase",
+          "Laudo NR-13 (vaso/caldeira): R$ 1.000 a R$ 3.000 por equipamento, com teste hidrostatico a parte quando necessario",
+          "Pacote PGR + laudos de conformidade (NR-10/NR-12/NR-35): condicao especial para empresas que contratam gestao completa de SST - economia de 20% a 35% versus laudos isolados"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores de referencia para 2026 em Navegantes/Itajai/Balneario Camboriu. O custo final depende do porte, quantidade de itens, necessidade de medicoes e deslocamento. O que nunca deve entrar na conta e a tentacao do laudo generico e barato sem vistoria: ele nao sustenta fiscalizacao nem processo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist rapido: sua empresa esta em conformidade?"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "[ ] PGR atualizado e com plano de acao vigente (NR-01)",
+          "[ ] Laudo NR-10 vigente + prontuario eletrico + diagramas + laudo de SPDA/aterramento",
+          "[ ] Laudo NR-12 para todas as maquinas com protecoes e paradas de emergencia",
+          "[ ] Laudo NR-35 + calculo de ancoragem + treinamentos validos (altura)",
+          "[ ] Laudo NR-13 para vasos/caldeiras com livro de registro",
+          "[ ] EPIs com CA valido e ficha de entrega assinada (NR-06)",
+          "[ ] Treinamentos NR-10, NR-35, NR-18, NR-33 em dia com certificados",
+          "[ ] Areas de vivencia conforme NR-18/NR-24 (se obra)",
+          "[ ] AVCB dos Bombeiros vigente (complementar a NR-23)",
+          "[ ] ARTs quitadas para todos os laudos (consulta no CREA-SC)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como escolher quem vai emitir seu laudo em Navegantes"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Exija CREA ativo e ART previa: desconfie de quem promete laudo sem vistoria ou com ART depois",
+          "Peca laudo modelo anonimizado: um bom laudo tem fotos, medicoes, tabela de nao conformidades e plano de acao - nao apenas duas paginas de texto",
+          "Verifique experiencia por NR: quem e otimo em NR-10 pode nao dominar NR-12 ou NR-35. Pergunte quantos laudos daquela NR ja emitiu no litoral",
+          "Presenca local: profissional de Navegantes/Itajai conhece a fiscalizacao regional, o solo e a maresia - e atende rapido quando o fiscal bate na porta",
+          "Pos-venda: o laudo termina em plano de correcao. Bom escritorio acompanha a correcao e emite laudo complementar de conformidade apos ajustes"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre laudos de conformidade com NRs"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de laudo para obra pequena com 3 funcionarios? Sim, se houver risco normatizado (eletricidade, altura, maquinas). A NR-18 se aplica a qualquer canteiro, e a NR-10/NR-35 independem do numero de funcionarios - dependem da atividade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Laudo de conformidade substitui o PGR? Nao. O PGR e a gestao continua; o laudo e a fotografia tecnica de conformidade em uma data. O auditor espera os dois."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso usar o mesmo laudo para varias obras/filiais? Nao. Cada instalacao/canteiro/maquina tem seu laudo especifico, com local, data, fotos e medicoes proprias. Laudo generico e invalidado na primeira diligencia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo demora a emissao? De 3 a 10 dias uteis apos a vistoria, conforme a complexidade e a necessidade de calculos (ex: ancoragem) ou ensaios laboratoriais."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "E se o laudo apontar nao conformidade? Otimo: essa e a funcao dele. A empresa corrige nos prazos do plano de acao e solicita laudo complementar de conformidade. Fiscal prefere empresa com nao conformidade corrigida do que empresa sem laudo nenhum."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudos de conformidade com a Rege Engenharia em Navegantes"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Rege Engenharia atua em Navegantes e em todo o litoral norte catarinense com laudos de conformidade com NRs para obras, industrias, condominios e comercio. Emitimos laudos de NR-18 para canteiros, NR-10 para instalacoes eletricas, NR-35 com calculo de ancoragem e linha de vida, NR-12 para maquinas, NR-13 para vasos de pressao e laudos complementares de NR-23/NR-24, sempre com vistoria in loco, evidencias fotograficas, medicoes e ART registrada no CREA-SC."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conhecemos a fiscalizacao da regiao, as condicoes agressivas do litoral e a pressao de cronograma de quem constroi em Navegantes. Se voce precisa renovar laudos, preparar a empresa para auditoria, liberar frente de trabalho em altura ou tirar a obra da situacao de risco de embargo, fale com nossa equipe. Fazemos a vistoria tecnica, entregamos o laudo com plano de correcao e acompanhamos ate a conformidade total - para sua obra e sua empresa operarem com seguranca juridica."
+      }
+    }
+  ]
+}

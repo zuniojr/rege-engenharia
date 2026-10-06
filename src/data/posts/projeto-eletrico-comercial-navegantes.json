@@ -1,0 +1,250 @@
+{
+  "slug": "projeto-eletrico-comercial-navegantes",
+  "title": "Projeto Elétrico Comercial: O Que Exigir do Engenheiro para Sua Loja ou Empreendimento em Navegantes",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Projeto elétrico comercial em empreendimento de Navegantes SC, com quadro de distribuição, cargas e ART do engenheiro eletricista no CREA-SC.",
+  "excerpt": "Projeto elétrico comercial não é residencial com mais tomadas. Entenda o que ele exige, por que a NBR 5410 e a concessionária definem o dimensionamento e o que cobrar do engenheiro eletricista para abrir sua loja ou galpão em Navegantes com segurança e sem retrabalho.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem abre um comércio em Navegantes costuma focar em ponto, estoque e divulgação — e deixa a parte elétrica para o eletricista \"dar um jeito\". O resultado é conhecido: quadro sobrecarregado, queda de tensão na hora de pico, equipamento queima, laudo do Corpo de Bombeiros negado e obra parada na véspera da inauguração. O projeto elétrico comercial não é residencial com mais tomadas: tem carga, norma e concessionária diferentes, e exige engenheiro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia mostra o que é o projeto elétrico comercial, por que ele segue regras próprias (NBR 5410 e Celesc), quando é obrigatório em Navegantes e o que você deve exigir do engenheiro eletricista para ligar seu empreendimento com segurança, dentro da lei e sem surpresa na conta."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o projeto elétrico comercial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O projeto elétrico comercial é o conjunto de memoriais, cálculos e desenhos que define toda a instalação elétrica de um estabelecimento de uso não residencial — loja, escritório, restaurante, galpão, hotel, indústria. Ele dimensiona a demanda, as cargas, a proteção, a distribuição e o centro de medição, garantindo que a rede suporte o uso sem risco e sem desperdício."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Memorial descritivo e de cálculo — justificativa técnica de todas as escolhas",
+          "Quadro de distribuição — disjuntores, DR, barramento e proteção por circuito",
+          "Cargas e pontos — tomadas, iluminação, equipamentos e maquinário com potência definida",
+          "Centro de medição — padrão de entrada conforme a concessionária (Celesc)",
+          "SPDA e aterramento — proteção contra descargas e segurança de pessoas e equipamentos",
+          "Compatibilização — com o projeto arquitetônico, o de climatização e o de incêndio"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Projeto elétrico comercial não é \"passar fio\": é dimensionar carga, proteger circuito e atender concessionária e bombeiros — tudo antes de quebrar a parede."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que comercial é diferente de residencial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um comércio tem perfis de uso que a casa não tem. Ignorar isso é o que gera o \"tomou luz e apagou tudo\":"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maior demanda — equipamentos de refrigeração, cozinha, autosserviço e maquinário elevam a carga simultânea",
+          "Uso contínuo — ar-condicionado, balcões e iluminação ligados o dia todo exigem dimensionamento de regime permanente",
+          "Segurança coletiva — o risco não é só do proprietário: clientes e funcionários estão no ambiente",
+          "Concessionária — a Celesc exige padrão de entrada e medição conforme a carga contratada",
+          "Bombeiros — SPDA e adequação às normas de segurança são exigidos para o alvará"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "A norma: NBR 5410"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A NBR 5410 (Instalações elétricas de baixa tensão) é a norma brasileira que rege projetos elétricos comerciais e residenciais. Ela define o dimensionamento de condutores, a proteção contra sobrecorrente e sobrecarga, o aterramento, o divisor de cargas e as faixas de tensão. Um projeto fora da NBR 5410 não é apenas técnico: é irregular e reprovado pela concessionária e pelos órgãos fiscalizadores."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem assina a responsabilidade técnica"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro eletricista (CREA-SC) — profissional habilitado a projetar instalações elétricas comerciais, com ART registrada",
+          "Engenheiro de segurança do trabalho — quando a instalação integra programa de prevenção e laudo de segurança",
+          "Arquiteto (CAU/BR) — integra o projeto elétrico ao partido arquitetônico, com RRT quando altera forros e fachadas",
+          "Instalador e eletricista — executam conforme o projeto; a execução segue a responsabilidade do projetista"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Quem assina a ART da instalação elétrica responde pela segurança do seu comércio e das pessoas que nele entram. Escolha o engenheiro, não o eletricista de ocasião."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o projeto elétrico comercial é obrigatório"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Abertura de comércio — a Celesc exige projeto para ligar o padrão de medição e liberar a energia",
+          "Alvará de funcionamento — a Prefeitura e o Corpo de Bombeiros exigem a instalação regular para o alvará",
+          "Mudança de atividade — trocar o uso do imóvel altera a carga e exige readequação do projeto",
+          "Ampliação ou reforma — qualquer acréscimo de área ou equipamento redefine a demanda",
+          "Adequação a norma — imóvel antigo fora da NBR 5410 precisa de projeto de atualização"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que exigir do engenheiro eletricista"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Registro ativo no CREA-SC — confirme o número de registro no conselho",
+          "ART emitida antes do início — a Anotação de Responsabilidade Técnica deve ser registrada antes da execução",
+          "Cálculo de demanda conforme a NBR 5410 — com fator de simultaneidade e carga do equipamento",
+          "Projeto do centro de medição — padrão de entrada conforme as exigências da Celesc",
+          "SPDA e aterramento — proteção contra descarga atmosférica e segurança de equipamentos",
+          "Compatibilização — com arquitetura, climatização e prevenção a incêndio, sem conflito de rotas",
+          "ART de execução — ao final, o engenheiro atesta a instalação conforme o projeto"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que param a obra e queimam equipamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Dimensionar \"no olho\" — condutor menor que a carga aquece e causa incêndio; maior, é desperdício",
+          "Não prever a carga do equipamento — balcão, cozinha e autosserviço estouram a rede no dia a dia",
+          "Centro de medição fora da Celesc — a concessionária não libera a ligação e a obra fica sem energia",
+          "Omitir SPDA — no litoral, descargas atmosféricas são frequentes; a falta de para-raio é risco e exigência",
+          "Não aterrar — equipamentos sensíveis queimam e há risco à vida dos ocupantes",
+          "Esconder o quadro depois — projeto elétrico sem roteiro vira emaranhado inacessível para manutenção"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O erro mais caro da instalação comercial não está no fio — está no projeto que não dimensionou a carga."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico comercial na prática: o passo a passo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contrate engenheiro eletricista habilitado no CREA-SC — com experiência em edificações comerciais",
+          "Levante as cargas — relação de todos os equipamentos, iluminação e uso previsto do comércio",
+          "Exija ART e cálculo conforme a NBR 5410 — projeto fundamentado e registrado",
+          "Adeque o padrão à Celesc — projeto do centro de medição conforme a concessionária",
+          "Integre SPDA e aterramento — proteção e segurança previstas desde o projeto",
+          "Execute e ateste — instalação conforme o projeto, com ART de execução para liberação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre projeto elétrico comercial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de engenheiro para instalação comercial? Sim. Diferente da residência simples, a instalação comercial exige projeto e ART de engenheiro eletricista, conforme a NBR 5410 e as exigências da Celesc e dos bombeiros."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença para o projeto residencial? A carga. O comercial concentra equipamentos de maior potência e uso contínuo, exigindo dimensionamento de demanda, centro de medição e SPDA que a residência comum dispensa ou simplifica."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Celesc libera sem projeto? Não. A concessionária exige o padrão de medição conforme o projeto aprovado; sem ele, não há ligação definitiva de energia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "SPDA é obrigatório no litoral? Em Navegantes, a incidência de descargas atmosféricas torna o sistema de proteção contra raios exigência recorrente em edificações comerciais e de uso coletivo. O projeto define a necessidade caso a caso."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto custa o projeto elétrico comercial? Varia com a área, a carga e a complexidade. O custo do projeto é pequeno frente ao retrofit emergencial, à queima de equipamentos e à multa por obra irregular."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Projeto elétrico comercial com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com projetos elétricos comerciais dimensionados conforme a NBR 5410. Cuidamos do cálculo de demanda, do centro de medição conforme a Celesc, do SPDA e do aterramento, e da compatibilização com arquitetura e climatização — sempre com ART no CREA-SC e foco na segurança do seu empreendimento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai abrir, reformar ou ampliar um comércio em Navegantes, fale com nossa equipe antes de fechar a parede. Um projeto elétrico feito por engenheiro é o que garante energia estável, alvará liberado e cliente seguro desde o primeiro dia de funcionamento."
+      }
+    }
+  ]
+}

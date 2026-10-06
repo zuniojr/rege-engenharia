@@ -1,0 +1,107 @@
+{
+  "slug": "importancia-projeto-engenharia",
+  "title": "A Importância de um Bom Projeto de Engenharia para o Sucesso da Obra",
+  "tag": "PROJETOS",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Engenheiros analisando uma planta de projeto estrutural detalhada.",
+  "excerpt": "Descubra por que investir em um projeto de engenharia completo é a forma mais eficaz de evitar custos extras, atrasos no cronograma e garantir a segurança total da sua construção.",
+  "readTime": "8 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitas pessoas, ao planejarem a construção ou reforma de um imóvel, tendem a focar quase exclusivamente na estética da arquitetura e na escolha dos materiais de acabamento. Embora o visual seja fundamental, o verdadeiro coração de qualquer construção segura e durável reside na qualidade do projeto de engenharia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um projeto de engenharia bem elaborado é o mapa que guia toda a execução da obra. Ele não apenas garante que o edifício se mantenha de pé com segurança, mas também é a principal ferramenta para controlar o orçamento e o cronograma."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que compõe um projeto de engenharia completo?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Enquanto o projeto arquitetônico define a forma e a função dos espaços, os projetos complementares de engenharia definem como a edificação irá \"funcionar\". Um pacote completo geralmente inclui:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Projeto Estrutural: Define fundações, vigas, pilares e lajes de acordo com as cargas e o tipo de solo.",
+          "Projeto Hidrossanitário: Planeja o caminho da água fria, quente, esgoto e águas pluviais.",
+          "Projeto Elétrico e Lógico: Dimensiona cabos, disjuntores, tomadas e rede de dados para evitar sobrecargas e garantir segurança.",
+          "Projeto de Climatização: Planeja a infraestrutura para ar-condicionado de forma eficiente e estética."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Segurança e Conformidade Técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A principal função da engenharia é garantir que a estrutura suporte as cargas para as quais foi projetada, resistindo às ações do vento e ao uso diário, tudo em conformidade com as rigorosas normas da ABNT. Erros estruturais podem causar desde fissuras e trincas até problemas severos que comprometem a habitabilidade do imóvel."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Economia Real: Redução de Desperdícios"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Tentar economizar cortando os projetos complementares é a clássica \"economia que sai caro\". Sem projetos detalhados, os materiais são comprados por estimativa — o que gera compras excessivas ou falta de material no meio da execução. Além disso, o projeto permite otimizar o uso do concreto e do aço na medida exata necessária."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Fim do Quebra-Quebra e Retrabalho"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sem a compatibilização dos projetos (cruzar o projeto elétrico com o estrutural e o hidrossanitário, por exemplo), é comum descobrir na hora da obra que um cano precisa passar exatamente onde há uma viga. Um bom projeto de engenharia, muitas vezes feito com tecnologia BIM, antecipa esses conflitos no computador, evitando quebra-quebras de paredes recém-construídas."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Manutenção Descomplicada no Futuro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Ter em mãos o \"As-Built\" (como construído) ou os projetos originais detalhados é um salva-vidas caso você precise furar uma parede para pendurar um quadro ou encontrar a origem de um vazamento no futuro, pois você saberá exatamente por onde passam os canos e a fiação."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O investimento em bons projetos de engenharia representa uma pequena fração do custo total da obra, mas tem o poder de reduzir desperdícios e imprevistos em até 20% do orçamento final."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na Regê Engenharia, tratamos cada projeto com a seriedade e o rigor técnico que seu patrimônio exige. Trabalhamos com projetos integrados e compatibilizados para garantir que sua obra transcorra com previsibilidade, tranquilidade e máxima segurança. Fale com nossa equipe de especialistas e garanta a melhor base para a sua construção."
+      }
+    }
+  ]
+}

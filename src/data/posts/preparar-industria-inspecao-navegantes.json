@@ -1,0 +1,275 @@
+{
+  "slug": "preparar-industria-inspecao-navegantes",
+  "title": "Como Preparar sua Indústria para uma Inspeção do Trabalho: Checklist Prático para Passar sem Multa nem Interdição",
+  "tag": "SEGURANÇA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Preparação de indústria para inspeção do trabalho em Navegantes SC — engenheiro de segurança revisando documentos de SST, laudos e checklist antes da fiscalização do MTE.",
+  "excerpt": "A fiscalização do MTE chega sem avisar e pode lacrar máquinas na hora. Veja por que ela chega, o que o auditor pede, as não conformidades mais autuadas, um plano de preparação em 30 dias, como se portar no dia da visita e quanto custa preparar versus ser autuado.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fiscalização do Ministério do Trabalho e Emprego (MTE) chega sem avisar — e, quando chega, audita documentos, vistoria máquinas, entrevista trabalhadores e pode interditar equipamento ou embargar o setor na hora. Com a Portaria MTE nº 104/2026, que atualizou a NR-28, os códigos de infração ficaram mais cirúrgicos e os valores de multa passaram a ser reajustados anualmente. A boa notícia: quase toda autuação é previsível — as mesmas falhas aparecem em praticamente todas as indústrias fiscalizadas, e todas podem ser corrigidas antes da visita."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e no Litoral Norte de Santa Catarina — onde o polo industrial de Machados, as operações do Porto e centenas de marcenarias, serralherias e frigoríficos entre Itajaí e Penha concentram mão de obra exposta — a presença dos auditores fiscais do trabalho é rotina ativa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a fiscalização chega"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Denúncia — ex-empregado, sindicato ou funcionário acionou o canal do MTE; o auditor vem verificar exatamente aquela denúncia",
+          "Cronograma nacional/estadual (CFIT) — operações planejadas por setor atingem indústrias sorteadas",
+          "Acidente grave ou fatalidade — após CAT ou notificação de hospital, a revisita é quase certa",
+          "Operação regional integrada — regiões portuárias recebem mutirões coordenados com MPT",
+          "Reincidência — empresa já autuada entra no radar de revisitas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Mito perigoso: empresa pequena ninguém olha. O porte não protege — denúncia contra empresa de 8 funcionários gera visita igualmente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o auditor pode fazer"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Conforme o Decreto nº 4.552/2002 e o Título VII da CLT, o Auditor-Fiscal do Trabalho tem acesso irrestrito aos estabelecimentos, pode exigir documentos na hora, ouvir trabalhadores individualmente, notificar com prazo, autuar por item descumprido — cada item gera auto próprio — e interditar máquina ou embargar setor diante de risco grave e iminente (arts. 157 a 159 da CLT)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para infrações menos graves vale a dupla visita (orientação e prazo primeiro), mas ela não se aplica quando há grave e iminente risco, reincidência ou obstrução à fiscalização. Com a Portaria 104/2026, o MTE reforçou ainda que empresas devem comprovar trilha documentada de correção: evidências rastreáveis de execução do plano de ação do PGR. Documento parado na pasta não vale mais; execução registrada vale."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os documentos que serão pedidos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "PGR com inventário de riscos e plano de ação executado e evidenciado (NR-01)",
+          "PCMSO vigente e ASOs de 100% do quadro dentro da validade (NR-07)",
+          "LTCAT, PPP e eventos S-2240 coerentes entre si e com a realidade da fábrica",
+          "Inventário de máquinas, ARR e laudo NR-12 por equipamento, com proteções e emergências testadas",
+          "Laudo NR-13 vigente para vasos e caldeiras; laudo NR-10 para instalações elétricas",
+          "Medições ambientais de ruído, calor e agentes químicos com calibrações e ART (NR-09/NR-15)",
+          "Treinamentos válidos de todos os funcionários presentes: listas, conteúdo programático e carga horária",
+          "Ordem de Serviço de SST entregue e assinada por cada empregado (NR-01, item 1.5.3)",
+          "Fichas de EPI completas, com CAs válidos e EPI compatível com a função (NR-06)",
+          "Dimensionamento SESMT (NR-04) e CIPA (NR-05) conforme grau de risco e efetivo",
+          "CATs corretamente emitidas e AVCB/CLCB dentro da vigência"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Teste rápido: peça hoje para alguém pegar qualquer desses documentos em menos de 5 minutos. Se demorar ou não existir, é exatamente ali que a fiscalização vai acertar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As não conformidades mais autuadas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NR-12 incompleta — proteções improvisadas com fita e arame, botão de emergência inexistente, sem ARR nem manual em português",
+          "PGR desatualizado ou de gaveta — plano de ação sem evidência de execução, agora alvo direto da Portaria 104/2026",
+          "Treinamentos vencidos ou sem registro válido (NR-12, NR-35, NR-10, NR-33)",
+          "Ficha de EPI genérica — mesmo EPI para funções diferentes, CA vencido, sem entrega assinada",
+          "Ordem de Serviço ausente ou sem assinatura individual",
+          "Medições ambientais inexistentes — exposição presumida vira passivo de adicional de insalubridade",
+          "SESMT/CIPA fora do dimensionamento obrigatório",
+          "Instalações elétricas improvisadas — quadros abertos, fiação emendada, falta de aterramento",
+          "Sinalização de segurança inexistente (NR-26) e registros de jornada inconsistentes"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Plano de preparação em 30 dias"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Semana 1 — gap analysis completa: checklist documento a documento e vistoria física de máquinas e instalações, com lista priorizada por risco",
+          "Semana 2 — correções físicas críticas: proteções NR-12, intertravamentos, emergências, quadros elétricos e sinalização",
+          "Semana 3 — documentos e treinamentos: PGR/PCMSO/LTCAT atualizados, laudos pendentes, treinamentos refeitos com registro correto",
+          "Semana 4 — simulação (mock inspection) com checklist de auditor, organização da pasta digital e treinamento da equipe sobre conduta"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Priorize pelo que interdita: primeiro elimine o risco grave e iminente — proteção de prensa, energia elétrica, trabalho em altura sem ancoragem. Multa se paga; interdição para a produção."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "No dia da visita: conduta certa"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Peça a identificação funcional do auditor e registre nome e matrícula",
+          "Designie um único porta-voz, acompanhado do responsável técnico de segurança",
+          "Entregue o que for pedido de forma organizada — postura cooperativa influencia orientação versus autuação",
+          "Corrija na hora o que for possível: risco corrigido durante a visita raramente vira auto",
+          "Anote tudo: horários, itens apontados, máquinas visitadas e falas do auditor",
+          "Assine ciência de autos e notificações — assinar é receber formalmente, não concordar; a defesa existe"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nunca obstrua a fiscalização, esconda máquinas ou apresente documento falso: além de autuação imediata por resistência, perde-se a dupla visita e configura-se ilícito próprio. A discussão de multa não se faz na porta — se faz na defesa administrativa, dentro do prazo, item por item, com prova técnica."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Depois da visita: defesa e trilha de correção"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Analise o auto com apoio técnico — cada item tem código NR-28, gradação e valor próprios",
+          "Protocole a defesa administrativa dentro do prazo, impugnando item por item com fotos, laudos e ARTs",
+          "Cumpra notificações com evidência: foto antes/depois, nota fiscal da proteção instalada, ART do serviço, novo laudo",
+          "Guarde tudo no mesmo dossiê — na revisita, histórico estruturado transforma multa potencial em orientação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa preparar versus ser autuado (2025/2026)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Gap analysis completa de indústria média — R$ 1.500 a R$ 3.500",
+          "Laudos pendentes típicos (parque NR-12 pequeno, NR-10, insalubridade) — R$ 4.000 a R$ 9.000",
+          "Treinamentos em atraso — R$ 600 a R$ 2.500 por turma de até 20 pessoas",
+          "Auto de infração gravíssimo — R$ 670 a R$ 6.708 por item, multiplicado pelo número de expostos",
+          "Teto por infração em casos extremos (LTCAT/PPP/eSocial) — acima de R$ 300 mil",
+          "Interdição ou embargo — produção parada por dias a semanas, além das demais consequências"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Uma única fiscalização pode gerar múltiplos autos — um por item não conforme. Preparar em 30 dias custa uma fração do primeiro auto evitado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades do Litoral Norte de SC"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Polos Machados e entorno do Porto — alta densidade industrial atrai operações setoriais frequentes do MTE",
+          "Terceirizadas portuárias — auditorias de contratantes somam-se às fiscais oficiais; a mesma pasta serve para ambas",
+          "Marcenarias e serralherias de bairro — perfil de maior risco: máquinas antigas sem proteção, manual e treinamento",
+          "Frigoríficos de pescado — frio e agentes biológicos exigem atenção redobrada à NR-36 e aos exames periódicos",
+          "Maresia — corrosão degrada proteções, guarda-corpos e aterramentos mais rápido que no interior; ciclos curtos de verificação",
+          "Mercado aquecido — admissões rápidas sem exame admissional e OS são falha clássica encontrada em fiscalização"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre preparação para inspeção"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fiscalização avisa antes? Não. A visita é surpresa por regra. Prepare-se como se ela fosse amanhã."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sou obrigado a deixar o auditor entrar? Sim. Acesso irrestrito é garantido por lei; recusar entrada configura obstrução e mata a chance da dupla visita."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Assinar o auto significa concordar com a multa? Não. Assinar é tomar ciência formal. A discordância se manifesta na defesa administrativa, dentro do prazo, com provas técnicas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso corrigir depois que chegarem? Pode, mas sai muito mais caro: o item constatado vira auto mesmo corrigido na hora. Correção prévia custa o serviço; posterior custa o serviço mais a multa."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Vale contratar consultoria externa para o preparativo? Vale — olho interno se acostuma com a própria não conformidade. Diagnóstico independente, com ART e metodologia de auditoria, encontra em uma semana o que anos de rotina normalizaram."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Preparação para inspeção com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com gap analysis documental e física, adequações NR-12 e NR-10, emissão de laudos, treinamentos, pasta digital de SST e acompanhamento junto à fiscalização — sempre com ART registrada no CREA-SC. Auditamos, corrigimos, documentamos e acompanhamos sua empresa antes, durante e depois da inspeção. Fale com nossa equipe e deixe sua indústria pronta para quando vierem."
+      }
+    }
+  ]
+}

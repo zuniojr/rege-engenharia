@@ -1,0 +1,363 @@
+{
+  "slug": "levantamento-arquitetonico-navegantes",
+  "title": "Levantamento Arquitetônico (As-Built) em Navegantes SC: Guia Completo para Medir, Documentar e Regularizar",
+  "tag": "ARQUITETURA",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Levantamento arquitetônico as-built em Navegantes SC — engenheiro medindo edificação existente com trena laser para planta de reforma e regularização.",
+  "excerpt": "Vai reformar, ampliar ou regularizar em Navegantes? Tudo começa no levantamento arquitetônico (as-built): a medição fiel do que foi construído. Veja o que mede, como é feito, entregáveis, custos, prazos e por que sem as-built não há projeto nem Habite-se.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de desenhar qualquer reforma, ampliação ou projeto de regularização, existe uma etapa que decide se o resto vai dar certo ou vai virar retrabalho: o levantamento arquitetônico. Também chamado de levantamento físico ou as-built (como construído), ele é a medição fiel da edificação como ela realmente existe — paredes, portas, janelas, pé-direito, níveis, fachadas, cobertura e implantação no lote — transformada em planta técnica pronta para projetar."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e no Litoral Norte de Santa Catarina — onde grande parte dos imóveis foi construída sem projeto aprovado, sofreu puxadinhos e ampliações informais ou tem divergência entre matrícula, IPTU e realidade — o levantamento arquitetônico não é detalhe: é a base que a Prefeitura (LC 416/2023 e LC 452/2024), o cartório, os Bombeiros (CBMSC) e o banco exigem para aprovar, averbar, vistoriar e financiar. Sem o as-built, o projetista chuta medidas e a obra paga a conta."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é levantamento arquitetônico (as-built)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O levantamento arquitetônico é o processo técnico de medir in loco uma edificação existente e convertê-la em desenho técnico fiel: plantas baixas de todos os pavimentos, cortes, fachadas, planta de cobertura e planta de implantação/situação, com cotas, áreas e níveis conforme a ABNT NBR 6492. O produto é o projeto as-built — o retrato do que foi efetivamente construído, não do que estava no projeto original (quando existia)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta baixa as-built — perímetro interno e externo, espessura de paredes, posição e dimensão de portas, janelas, portões e guarda-corpos",
+          "Cortes — pé-direito por ambiente, altura de vergas e peitoris, forro, cobertura, escadas e desníveis",
+          "Fachadas — revestimentos, esquadrias, muros, platibandas, marquises e elementos aparentes",
+          "Cobertura — tipo de telha, inclinação, beirais, calhas, rufos e reservatório",
+          "Implantação — posição da edificação no lote, recuos, área permeável, acessos e vagas",
+          "Quadro de áreas — área por ambiente, por pavimento e total, taxa de ocupação e coeficiente"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Projeto sem as-built é ficção. Com as-built, é engenharia: a reforma nasce sobre medidas reais, não sobre suposições."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Levantamento arquitetônico x topográfico x projeto novo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A confusão mais comum — e que mais gera retrabalho — é tratar esses levantamentos como se fossem a mesma coisa:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento arquitetônico (as-built) — mede A EDIFICAÇÃO: paredes, esquadrias, pé-direito, níveis internos e fachadas. Base para reforma, ampliação, retrofit, regularização, perícia, AVCB e compra de imóvel usado",
+          "Levantamento topográfico / planialtimétrico — mede O TERRENO: limites, cotas, curvas de nível, relevo, redes e APPs. Base para obra nova, terraplanagem, drenagem e loteamento",
+          "Projeto arquitetônico novo — desenha O QUE SERÁ CONSTRUÍDO. Parte do zero. Precisa dos dois levantamentos anteriores como base",
+          "As-built de instalações — registra como foram executadas a elétrica, hidrossanitária, climatização e incêndio. Essencial para manutenção e Habite-se"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, para regularização na Prefeitura, a exigência padrão é planta as-built da edificação + planta de situação/implantação georreferenciada (SIRGAS 2000 / UTM 22S) do terreno. Um sem o outro não fecha o processo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o levantamento arquitetônico é obrigatório"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reforma com alteração de área, fachada ou estrutura — LC 416/2023 (Código de Obras de Navegantes) exige planta do existente + proposta",
+          "Regularização de obra sem projeto aprovado ou sem Habite-se — LC 452/2024 exige planta as-built completa para análise de conformidade",
+          "Averbação de construção na matrícula — Lei 6.015/1973: cartório exige planta as-built com ART/RRT",
+          "Alvará de ampliação ou demolição — levantamento do existente + projeto da ampliação",
+          "AVCB / PPCI no CBMSC — IN 1 e IN 5 exigem planta as-built para dimensionar saídas, extintores e hidrantes",
+          "Reforma em condomínio — NBR 16280 exige laudo + planta as-built + ART antes da obra",
+          "Perícia judicial ou vistoria cautelar — CPC + NBR 13752: documentação do estado atual com validade técnica"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando é altamente recomendado (mesmo sem obrigação legal)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Compra de imóvel usado — confere área real vs. matrícula vs. IPTU e evita pagar por metragem fantasma",
+          "Orçamento de reforma — sem medidas reais, o quantitativo de piso, gesso, esquadria e tinta erra 15% a 30%",
+          "Troca de cobertura ou telhado — vãos, inclinação e estrutura só são confirmados no local",
+          "Projeto de interiores e marcenaria — móvel planejado com 2 cm de erro não encaixa",
+          "Compatibilização de complementares — hidrossanitário, elétrico, climatização e estrutural precisam da base fiel",
+          "Retrofit de fachada ou prédio antigo — sem as-built não há como dimensionar reforço ou nova pele",
+          "Financiamento e avaliação bancária — banco exige planta compatível com a realidade para liberar crédito"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é medido no levantamento arquitetônico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um levantamento completo vai muito além de medir parede. O checklist padrão da Regê Engenharia cobre:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Arquitetura — perímetro externo e interno com diagonais de conferência, espessura de paredes, portas, janelas, pé-direito, vergas, peitoris, soleiras, degraus e rampas com nível a laser",
+          "Cobertura e fachadas — tipo de telha, inclinação, beirais, calhas, rufos, platibandas, reservatório, revestimentos e esquadrias",
+          "Implantação — posição da edificação no lote, recuos frontais/laterais/fundos, área permeável, muros, acessos e vagas",
+          "Estrutura aparente — vigas, pilares e lajes aparentes, com mapeamento fotográfico de trincas, manchas e desplacamentos",
+          "Instalações visíveis — quadros, tomadas, interruptores, pontos de luz, registros, pontos de água/esgoto, caixas de inspeção, splits e condensadoras",
+          "Esquadrias e acabamentos — material, sistema de abertura, piso, rodapé, forro e revestimento por ambiente"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é feito: 5 etapas do padrão Regê"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda medição é feita em dupla — um mede, outro confere e fotografa. O erro de fechamento é verificado ainda em campo, não no escritório quando já é tarde para voltar."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "1. Briefing documental — coleta de matrícula, IPTU, projeto antigo (se houver), fotos e histórico de reformas; checklist de divergências",
+          "2. Vistoria e medição in loco — todos os ambientes, fachadas, cobertura e implantação com trena laser, trena de fibra, nível a laser, estação total (quando há desnível) ou scanner 3D (retrofit/BIM) + fotos 360°",
+          "3. Processamento e desenho — transcrição para CAD/BIM, conferência de diagonais, fechamento de perímetro e cotagem ABNT NBR 6492",
+          "4. Conferência e compatibilização — cruzamento com matrícula, IPTU, Código de Obras (recuos, taxa de ocupação, gabarito) e com levantamento topográfico quando contratado",
+          "5. Emissão e entrega — PDF + DWG/RVT + relatório fotográfico + memorial descritivo + ART/RRT registrada"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Tecnologias e precisão"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Trena laser (Leica Disto / Bosch) — ± 1 a 1,5 mm: padrão para 90% dos as-builts residenciais e comerciais",
+          "Trena de fibra + nível a laser — ± 1 a 3 mm: conferência de diagonais, níveis e esquadro",
+          "Estação Total Robótica — ± 2 a 3 mm: terrenos em desnível, implantação e fachadas altas, integrada à topografia",
+          "Scanner Laser 3D (LiDAR terrestre) — ± 2 a 5 mm em nuvem densa: retrofit complexo, patrimônio, indústria e as-built BIM (gera nuvem LAS/LAZ + modelo Revit)",
+          "Drone RTK/PPK — ± 1 a 3 cm: coberturas inacessíveis, implantação e grandes áreas (ortomosaico + MDT)",
+          "Fotografia 360° / Matterport — registro navegável para cliente e projetista (complemento, não substitui medição)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Celular, Google Earth e drone amador sem pontos de controle não servem para levantamento com validade técnica. Precisão de metros não aprova projeto nem sustenta ART."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Entregáveis padrão Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta baixa as-built de todos os pavimentos — DWG em camadas NBR 6492 + PDF A1/A0, com cotas, esquadrias, níveis e áreas",
+          "2 cortes (longitudinal e transversal) + corte extra de escada/área molhada — DWG + PDF",
+          "4 fachadas — DWG + PDF, com revestimentos, esquadrias, muros e cotas de altura",
+          "Planta de cobertura — perímetro, inclinação, cumeeiras, calhas e reservatório",
+          "Planta de implantação/situação — edificação no lote, recuos, área permeável e confrontantes",
+          "Quadro de áreas — por ambiente, por pavimento e total + taxa de ocupação",
+          "Relatório fotográfico numerado e legendado por ambiente/fachada",
+          "Memorial descritivo do levantamento — metodologia, equipamentos, precisão, data e responsável",
+          "Arquivos BIM (quando contratado) — RVT/IFC e nuvem de pontos LAS/LAZ",
+          "ART (CREA-SC) / RRT (CAU) digital registrada antes da entrega"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades de Navegantes e do Litoral Norte"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Imóveis sem projeto aprovado e puxadinhos — divergência certa entre IPTU/matrícula e realidade; o as-built gera o quadro comparativo existente x registrado",
+          "LC 416/2023 e LC 452/2024 — planta do existente no padrão da Secretaria de Urbanismo (escala, carimbo, ART, quadro de áreas)",
+          "Recuos, taxa de ocupação e gabarito — implantação com recuos cotados e relatório de conformidade evita reprovação",
+          "Terrenos de Marinha (SPU) e APP de restinga/dunas/mangue — integração com topografia georreferenciada SIRGAS 2000 / UTM 22S",
+          "Maresia e patologias — mapeamento fotográfico de infiltrações, bolhas e armadura exposta antes da reforma",
+          "Condomínios na orla (Meia Praia, Gravatá, Centro) — NBR 16280: laudo + as-built + ART para plano de reforma",
+          "Venda e financiamento — as-built com ART para avaliação bancária e averbação cartorial"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa e quanto tempo leva (2025/2026 — Navegantes)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Casa/comércio até 150 m² — 4 a 8h em campo + 2 a 4 dias em escritório (3 a 6 dias úteis) — R$ 1.500 a R$ 3.500",
+          "Casa 150 a 350 m² / sobrado — 8 a 16h (1 a 2 visitas) + 4 a 7 dias (7 a 12 dias úteis) — R$ 3.000 a R$ 7.000",
+          "Casa acima de 350 m² / alto padrão — 16 a 24h + 7 a 10 dias (12 a 18 dias úteis) — R$ 6.000 a R$ 12.000",
+          "Apartamento 2 a 3 quartos — 3 a 6h + 2 a 3 dias (3 a 5 dias úteis) — R$ 1.200 a R$ 2.800",
+          "Galpão 500 a 1.500 m² — 8 a 16h + 5 a 8 dias (7 a 14 dias úteis) — R$ 4.000 a R$ 10.000",
+          "Prédio/condomínio — 4 a 8h por pavimento — R$ 1.500 a R$ 3.500 por pavimento",
+          "Scanner 3D / BIM as-built até 1.000 m² — 8 a 16h + 7 a 12 dias (12 a 20 dias úteis) — R$ 6.000 a R$ 15.000",
+          "Pacote regularização (as-built + topografia) — 8 a 16h + 5 a 10 dias (10 a 15 dias úteis) — R$ 3.500 a R$ 8.000"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores incluem campo, escritório, ART/RRT, DWG, PDF, fotos e memorial. Não incluem taxas de Prefeitura, Cartório ou Bombeiros."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros que invalidam um levantamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Medir só um lado da parede — erro de 10 a 15 cm por ambiente que se acumula na área total",
+          "Não conferir diagonais e esquadro — planta fecha no CAD mas não existe no real",
+          "Ignorar desníveis e soleiras — piso novo com degrau imprevisto e porta que não abre",
+          "Não fotografar ou não numerar fotos — impossível auditar ou defender em perícia",
+          "Entregar só PDF sem DWG — projetista não consegue usar como base",
+          "Sem ART/RRT — nulo para Prefeitura, Cartório, Bombeiros e banco",
+          "Usar planta de corretor, Google Earth ou projeto antigo — erro de metros que reprova na Prefeitura"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que contratar a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Equipe própria de engenheiros, arquitetos e cadistas BIM — do campo ao CAD sem terceirização",
+          "Fluxo as-built + topografia integrados no mesmo referencial — base única para reforma e regularização",
+          "Padrão Prefeitura de Navegantes (LC 416/452) — planta já no formato que a Secretaria de Urbanismo aprova",
+          "Tecnologia sob demanda — trena laser, estação total, scanner 3D e drone RTK conforme o porte",
+          "Experiência local — centenas de as-builts em Navegantes, Itajaí, BC, Penha e Piçarras; conhecemos fiscais, recuos, APPs e cartórios",
+          "ART no CREA-SC / RRT no CAU com validade legal",
+          "Prazo garantido e suporte direto ao seu projetista",
+          "Pacote completo até a averbação — do levantamento ao Habite-se"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre levantamento arquitetônico"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Preciso de levantamento para reformar só um banheiro? Se não há alteração de área, fachada ou estrutura, pode ser parcial (só o banheiro + entorno). Com ampliação, troca de esquadria na fachada ou intervenção estrutural, a Prefeitura e o condomínio exigem o as-built completo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso usar a planta do corretor? Não como base técnica. Plantas de corretor são ilustrativas, sem escala e sem ART. Para orçamento, reforma e regularização só vale o as-built medido in loco com ART/RRT."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença entre levantamento e vistoria? Levantamento mede e desenha (gera planta). Vistoria/laudo avalia e diagnostica (gera parecer sobre patologia e risco). Em reforma e regularização você normalmente precisa dos dois."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O levantamento serve para regularizar na Prefeitura de Navegantes? Sim — é a base obrigatória. A LC 452/2024 exige planta da situação existente (as-built) + proposta de adequação + ART/RRT. Sem o as-built fiel o processo nem é protocolado."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo o as-built vale? Não expira, mas desatualiza se houver nova intervenção. Após 12 meses entre levantamento e projeto, recomenda-se conferência rápida de 1 a 2 horas nas medidas críticas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Serve para financiamento bancário? Sim. Entregamos planta as-built com ART/RRT, quadro de áreas e implantação no padrão exigido por Caixa, BB e bancos privados para avaliação e liberação de crédito."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Pronto para medir seu imóvel com precisão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você vai reformar, ampliar, regularizar ou comprar um imóvel em Navegantes e no Litoral Norte, comece pelo levantamento arquitetônico. A Regê Engenharia entrega base fiel, prazo cumprido, DWG/BIM pronto para projetar e suporte até a aprovação na Prefeitura. Fale com nossa equipe e transforme medidas em projeto — e projeto em obra aprovada, sem sustos."
+      }
+    }
+  ]
+}

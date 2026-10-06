@@ -1,0 +1,331 @@
+{
+  "slug": "laudo-de-insalubridade-navegantes",
+  "title": "Laudo de Insalubridade em Navegantes SC: Guia Completo da NR-15 para Caracterizar, Prevenir e Evitar Passivos",
+  "tag": "SEGURANÇA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Laudo de insalubridade NR-15 em Navegantes SC — engenheiro de segurança do trabalho realizando medições instrumentadas de ruído, calor e agentes químicos no ambiente industrial.",
+  "excerpt": "Sem laudo, quem decide o adicional de insalubridade é o juiz. Entenda como a NR-15 caracteriza a exposição a ruído, calor, químicos e biológicos, quem pode emitir o laudo, quanto custa, quando refazer e como usar medição técnica para pagar apenas o que é devido.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo de insalubridade é o documento técnico que diz, com medição e norma na mão, se um trabalhador está exposto a agentes nocivos acima dos limites de tolerância — ruído, calor, poeiras, fumos metálicos, solventes, agentes biológicos — e, por consequência, se a empresa deve pagar o adicional de insalubridade (10%, 20% ou 40% do salário mínimo, conforme o grau). Quando ele não existe, quem decide a exposição é o juiz da reclamatória trabalhista: prevalece o relato do empregado, e o adicional é concedido com retroativos, reflexos e juros."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes e no Litoral Norte de Santa Catarina — com as operações do Porto, as metalúrgicas e galpões de Machados, marcenarias, frigoríficos de pescado, postos de combustível, clínicas e canteiros espalhados de Itajaí a Penha — a exposição a agentes insalubres é rotina em centenas de empresas. E quase nenhuma tem o laudo pronto quando ele é pedido."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o laudo de insalubridade"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 uma avaliação técnica documentada das condições ambientais de trabalho, realizada in loco por profissional legalmente habilitado, que mede a exposição dos trabalhadores e conclui formalmente: INSALUBRE (exposição acima do limite de tolerância, com enquadramento em grau), DENTRO DOS LIMITES (dados que blindam a empresa) ou ELIMINADA/NEUTRALIZADA (risco corrigido, mediante novo laudo — art. 190 da CLT)."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Não é LTCAT — o LTCAT avalia risco previdenciário (aposentadoria especial); o laudo avalia direito ao adicional trabalhista",
+          "Não é PGR — o PGR gerencia os riscos da empresa inteira; o laudo é a avaliação quantitativa focada no adicional",
+          "Não é carimbo para folha — documento sem medição, instrumento calibrado e ART não vale nada perante auditoria e Justiça",
+          "Não é perícia judicial — o laudo particular é a prova que a empresa apresenta (ou contesta) no processo"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "RH pergunta sobre adicional — \u0019 laudo de insalubridade. Contador pergunta sobre eSocial — \u0019 LTCAT + S-2240. Advogado trabalhista pergunta — \u0019 os dois, assinados, datados e vigentes."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Base legal: CLT, NR-15 e NR-09"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A CLT define o quadro nos artigos 189 a 193: art. 189 caracteriza o trabalho insalubre; art. 190 permite eliminar a insalubridade por medida de proteção comprovada em laudo; art. 191 fixa os três graus; art. 192 determina o adicional de 10%, 20% ou 40% sobre o salário mínimo (salvo norma coletiva mais favorável); art. 193 §2º proíbe acúmulo com a periculosidade — opta-se pelo mais vantajoso."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NR-15 — lista os agentes nocivos e os limites de tolerância em seus anexos; a caracterização é feita mediante perícia por médico do trabalho ou engenheiro de segurança do trabalho",
+          "NR-09 — exige avaliação quantitativa sempre que o agente tiver limite estabelecido: medição instrumentada, não estimativa visual",
+          "Norma coletiva — convenções podem fixar base maior que o salário mínimo; metalúrgicos, químicos e saúde têm acordos assim",
+          "Reflexos — o adicional integra férias (+1/3), 13º, FGTS, aviso prévio e horas extras; retroativos alcançam até 5 anos na reclamatória"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Agentes medidos e anexos da NR-15"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ruído contínuo e de impacto (Anexos 1 e 2) — limite de tolerância de 85 dB(A) para 8 h/dia, com dose dobrada a cada +3 dB(A)",
+          "Calor (Anexo 3) — IBUTG limitado a 30 °C (trabalho leve), 26,7 °C (moderado) e 25 °C (pesado), medido no horário de maior carga térmica",
+          "Radiações não ionizantes e ionizantes (Anexos 5 e 7) — limites específicos por tipo e frequência",
+          "Vibração de corpo inteiro e membros superiores (Anexo 8)",
+          "Agentes cancerígenos (Anexo 9) e poeiras minerais como sílice e amianto (Anexo 10)",
+          "Agentes químicos em geral — solventes, gases e vapores (Anexo 11), incluindo benzeno com regra própria",
+          "Poeiras vegetais como algodão e madeira (Anexos 12 e 11) — poeira de madeira é cancerígena nasal",
+          "Agentes biológicos (Anexo 13) — clínicas, hospitais, saneamento e frigoríficos",
+          "Agrotóxicos (Anexo 14) e hidrocarbonetos/compostos de carbono (Anexo 15)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Atenção ao ruído: a medição correta é a dosimetria pessoal — medidor no trabalhador durante o turno real —, não o decibelímetro apontado de longe. —0 a diferença entre um laudo que resiste a perícia contrária e um papel que vira prova contra a empresa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Valores do adicional em 2026"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com o salário mínimo de R$ 1.621,00 em 2026, o adicional incide sobre essa base (art. 192 da CLT; Súmula Vinculante 4 do STF veda que o juiz troque o índice): grau mínimo R$ 162,10/mês, grau médio R$ 324,20/mês e grau máximo R$ 648,40/mês — sempre verificando se a norma coletiva da categoria fixa base maior."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quem pode emitir o laudo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Engenheiro de Segurança do Trabalho ou Médico do Trabalho, com registro ativo no CREA-SC ou CRM",
+          "ART específica emitida antes do documento — sem ela, o laudo é nulo em fiscalização e Justiça",
+          "Instrumentação calibrada: dosímetro, termômetro de globo negro, bombas de amostragem, com certificados",
+          "Metodologia declarada: NR-15, NR-09 e NHOs da Fundacentro citadas, com condições e tempo de amostragem descritos"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Cuidado com laudos de gaveta: documento genérico, sem medição real e com valores copiados não protege — configura prova falsa e agrava a condenação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como é feito o laudo: etapas do padrão Regê"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Levantamento documental — funções e turnos, layout, FDS/FISPQ dos produtos químicos, PGR existente, histórico de afastamentos",
+          "Vistoria in loco — identificação das fontes, ciclos de operação, número de expostos e uso atual de EPC/EPI",
+          "Medições instrumentadas — dosimetria de ruído pessoal, IBUTG com termômetro de globo, amostragem de químicos com bomba",
+          "Enquadramento — comparação com os limites de tolerância da NR-15 e classificação por grau ou dentro do limite",
+          "Plano de controle — hierarquia: eliminação, engenharia (exaustão, anteparo, enclausuramento), administrativas e por último EPI",
+          "Emissão do laudo — relatório com metodologia, evidências, conclusão por função/setor e ART, pronto para RH, auditoria e defesa judicial"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Diferencial Regê: o pré-diagnóstico é entregue verbalmente no dia da vistoria — você já sabe qual setor paga adicional indevidamente hoje e onde a correção elimina o custo em vez de eternizá-lo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "EPI elimina a insalubridade? A regra que engana empresas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Súmula 337 do TST: a simples utilização de EPI não descaracteriza a insalubridade sem laudo técnico conclusivo, por profissional habilitado, quanto à sua eficácia na neutralização do agente. Ou seja: protetor auricular, máscara e luva não encerram o pagamento do adicional por si só. O caminho correto é medir com o EPI em uso, comprovar a neutralização técnica e registrar isso em laudo específico — mantendo o fornecimento do EPI como obrigação permanente (art. 190 da CLT)."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Empresa que reduz ruído na fonte para de pagar adicional com segurança jurídica. Empresa que só entrega protetor auricular paga adicional para sempre — ou discute isso em juízo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Validade e quando refazer"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Regra geral — revisão anual, alinhada ao ciclo do PGR/LTCAT",
+          "Mudança de processo, máquina ou produto químico — laudo invalidado imediatamente",
+          "Reforma ou mudança de layout — reavaliação das áreas atingidas",
+          "Reclamatória trabalhista — o laudo vigente coberto por ART é a principal peça de defesa",
+          "Após correções — novo laudo documentando a eliminação, base legal para cessar o pagamento"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Insalubridade x demais documentos: quem faz o quê"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Laudo de insalubridade — adicional trabalhista (NR-15), usado na folha e na defesa judicial",
+          "LTCAT — risco previdenciário (Lei 10.666/2003), alimenta PPP, eSocial e aposentadoria especial",
+          "PGR (NR-01) — gestão de riscos da empresa; organiza, mas não substitui a medição quantitativa",
+          "PCMSO (NR-07) — saúde ocupacional e exames dos expostos, sob responsabilidade médica",
+          "PPP e eSocial S-2240 — consolidação das informações ambientais por funcionário, batendo com o laudo",
+          "Perícia judicial — feita por perito nomeado; o laudo particular alimenta a discussão dos dois lados"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa (2025/2026 — Navegantes)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Diagnóstico preliminar — R$ 300 a R$ 700, valor abatido do laudo contratado",
+          "Laudo por setor/função — R$ 600 a R$ 1.500, com vistoria, medições e enquadramento",
+          "Dosimetria de ruído individual — R$ 250 a R$ 600 por trabalhador, com relatório analítico",
+          "Medição de agente químico — R$ 400 a R$ 900 por ponto, incluindo análise laboratorial",
+          "Laudo completo de PME (até 3 setores) — R$ 2.000 a R$ 4.500, com ART e pasta digital",
+          "LTCAT na mesma visita — R$ 900 a R$ 2.500; pacote combinado reduz custo"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Comparativo que fecha a conta: a diferença retroativa de adicional de um único funcionário em grau médio por 5 anos passa de R$ 20 mil com reflexos. O laudo completo custa menos que três meses de adicional pago sem precisar — e infinitamente menos que uma reclamatória perdida."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Riscos de operar sem laudo"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Condenação na Justiça do Trabalho — apresentar o laudo ambiental é ônus do empregador; sem ele, prevalece o depoimento do trabalhador",
+          "Passivo previdenciário — ausência de LTCAT/PPP consistente trava aposentadoria especial e gera autuação do INSS",
+          "Autuação do MTE — a NR-09 exige avaliação quantitativa; estimativa no olho é infração",
+          "Pagamento indevido permanente — sem medição, empresas pagam adicional onde não deveriam e deixam de pagar onde devem, criando dívida",
+          "Auditorias B2B — grandes contratantes do Porto exigem evidência de gestão de exposição ocupacional",
+          "Desgaste com sindicato — negociação coletiva sem dado técnico é sempre negociada para pior"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Particularidades do Litoral Norte de SC"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Porto de Navegantes — ruído de equipamentos, gases de escape e poeira de grãos; dosimetria por turno real de operação",
+          "Metalúrgicas de Machados — ruído, fumos metálicos de solda e calor de fornos; amostragem no posto mais quente do turno",
+          "Marcenarias — poeira de madeira cancerígena e colas com formaldeído; coleta em serra e lixadeira com plano de exaustão",
+          "Frigoríficos de pescado — frio, umidade e agentes biológicos avaliados por etapa do processo",
+          "Postos de combustível — benzeno com regra própria e cálculo comparativo insalubridade x periculosidade",
+          "Construção civil litorânea — sílice, ruído e cimento integrados ao PGR/NR-18 do canteiro",
+          "Clima quente litorâneo — IBUTG medido no horário de maior carga térmica, não no melhor horário"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre laudo de insalubridade"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Empresa pequena também precisa? Precisa. Um único funcionário exposto acima de 85 dB(A) gera direito ao adicional — e a condenação retroativa é igualmente válida. Porte pequeno não é porte protegido."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o funcionário usa EPI, ainda preciso pagar? Em regra, sim. A Súmula 337 do TST exige laudo técnico conclusivo comprovando a eficácia do EPI na neutralização do agente. Protetor entregue e assinado não encerra o adicional sozinho."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso emitir eu mesmo, como dono da empresa? Não. A caracterização é privativa de médico do trabalho ou engenheiro de segurança do trabalho, com registro ativo e ART. Laudo autodeclarado vale zero em qualquer mesa de julgamento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Eliminei o risco, posso parar de pagar? Sim, com novo laudo. As medidas de proteção eliminam a insalubridade quando comprovadas tecnicamente (art. 190 da CLT). Parar sem o laudo transforma economia em dívida trabalhista."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva? Empresa de até 3 setores: vistoria com medições em 1 a 2 dias e laudo em 7 a 10 dias úteis. Há fluxo expresso com prioridade de agenda para audiência ou notificação pendente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo de insalubridade com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o Litoral Norte catarinense com laudos de insalubridade, LTCAT, PGR e consultoria de segurança do trabalho — medições instrumentadas calibradas, enquadramento técnico pela NR-15, plano de controle priorizado e ART registrada no CREA-SC. Medimos, enquadramos, projetamos a correção e acompanhamos auditoria, sindicato e perícia judicial. Fale com nossa equipe e transforme risco trabalhista aberto em decisão técnica documentada."
+      }
+    }
+  ]
+}

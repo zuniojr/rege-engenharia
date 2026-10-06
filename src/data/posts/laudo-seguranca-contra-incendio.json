@@ -1,0 +1,212 @@
+{
+  "slug": "laudo-seguranca-contra-incendio",
+  "title": "Laudo de Segurança contra Incêndio: O que é, quando é obrigatório e como obter o AVCB",
+  "tag": "INCÊNDIO",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Laudo de segurança contra incêndio em Navegantes SC — inspeção de extintores, hidrantes e sinalização de emergência em edificação comercial.",
+  "excerpt": "O laudo de segurança contra incêndio atesta que a edificação está protegida conforme as normas do Corpo de Bombeiros. Saiba o que ele avalia, quando é exigido e como obter e renovar o AVCB.",
+  "readTime": "10 min de leitura",
+  "featured": true,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Incêndio é um dos poucos riscos capazes de destruir, em horas, um patrimônio construído em anos — e de colocar vidas em perigo em minutos. Por isso, a legislação brasileira exige que edificações comerciais, industriais e residenciais coletivas comprovem, por meio de documentação técnica, que estão preparadas para prevenir e enfrentar um sinistro. O documento central dessa comprovação é o laudo de segurança contra incêndio."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é o laudo de segurança contra incêndio, qual a relação dele com o AVCB (Atestado de Verificação de Circulação) emitido pelo Corpo de Bombeiros, quando ele é obrigatório, o que é inspecionado na prática e como a Regê Engenharia conduz todo o processo no litoral de Santa Catarina — da vistoria à renovação do certificado."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é o laudo de segurança contra incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo de segurança contra incêndio é o documento técnico elaborado por profissional habilitado que inspeciona os sistemas de proteção contra incêndio de uma edificação e atesta sua conformidade com as normas do Corpo de Bombeiros e da ABNT. Ele reúne a verificação em campo de cada item de proteção passiva e ativa, medições, registro fotográfico e uma conclusão formal sobre a condição da edificação."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Proteção passiva — compartimentação, resistência ao fogo, rotas de fuga, sinalização",
+          "Proteção ativa — extintores, hidrantes, sprinklers, detecção e alarme, iluminação de emergência",
+          "Documentação — PPCI, memoriais, ARTs e registros de manutenção dos sistemas",
+          "Conclusão técnica — conformidade, não conformidade ou necessidade de adequação"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O laudo de incêndio não é papel para guardar na gaveta: é a prova de que, se algo acontecer, a edificação respondeu como deveria."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Qual a relação com o AVCB"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Santa Catarina, o Corpo de Bombeiros Militar de SC é o órgão responsável por avaliar a segurança contra incêndio das edificações. O fluxo funciona assim: o projeto técnico (PPCI — Projeto de Prevenção e Combate a Incêndio) é elaborado e protocolado; o Corpo de Bombeiros analisa; realizada a vistoria e constatado o cumprimento, é emitido o AVCB — o certificado que comprova regularidade. O laudo de segurança contra incêndio sustenta tecnicamente esse processo e é renovado junto com o certificado."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "PPCI — projeto técnico dimensionando todos os sistemas de proteção",
+          "Vistoria — conferência em campo da execução conforme o projeto aprovado",
+          "AVCB — certificado emitido pelo Corpo de Bombeiros comvalidando a segurança",
+          "Renovação periódica — validade limitada conforme o grau de risco da edificação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando o laudo de segurança contra incêndio é obrigatório"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os momentos e situações que exigem o documento:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Obtenção do alvará de funcionamento — prefeituras exigem AVCB para liberar atividades comerciais e industriais",
+          "Edificações com grande público — escolas, clínicas, hotéis, mercados e eventos dependem do certificado",
+          "Renovação do AVCB — o certificado tem validade e precisa ser renovado com nova vistoria",
+          "Financiamento e seguro — bancos e seguradoras pedem o documento para liberar crédito e cobertura",
+          "Após reforma ou mudança de uso — alterações podem mudar a carga de incêndio e exigir atualização do PPCI",
+          "Fiscalização do Corpo de Bombeiros — operar sem AVCB sujeita a notificação, multa e interdição"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é inspecionado no laudo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A inspeção cobre todos os sistemas de proteção previstos para a edificação. Os itens mais comuns:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Extintores — tipo, capacidade, carga, lacre, validade e posicionamento correto",
+          "Hidrantes e mangueiras — pressão, estado de conservação e acessibilidade",
+          "Sprinklers e chuveiros automáticos — quando o risco da edificação exige o sistema",
+          "Detecção e alarme — sensores funcionando e central operacional",
+          "Iluminação de emergência — autonomia e cobertura das rotas de fuga",
+          "Sinalização e rotas de escape — placas legíveis, portas destrancadas no sentido da fuga",
+          "Compartimentação e resistência ao fogo — paredes, portas corta-fogo e vedação",
+          "Escadas de emergência e pressurização — quando aplicável à tipologia da edificação"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Laudo de segurança contra incêndio em Santa Catarina"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cada estado tem sua norma de segurança contra incêndio. Em Santa Catarina, vale a norma técnica do Corpo de Bombeiro Militar de SC, com requisitos próprios por ocupação e carga de incêndio. Para imóveis no litoral — Navegantes, Itajaí, Balneário Camboriú, Penha — há ainda o fator agressividade ambiental: equipamentos expostos à maresia demandam inspeção mais frequente e materiais mais resistentes à corrosão."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Norma estadual própria — requisitos diferem de outros estados e precisam ser seguidos à risca",
+          "Classificação por carga de incêndio — define os sistemas obrigatórios para cada atividade",
+          "Maresia — corrosão acelerada de hidrantes, conexões e gabinetes expostos",
+          "Temporada — edificações comerciais intensamente usadas no verão exigem manutenção rigorosa"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia conduz o processo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua no litoral catarinense em toda a cadeia da segurança contra incêndio: elaboração do PPCI conforme a norma do Corpo de Bombeiros de SC, acompanhamento da execução dos sistemas, vistoria prévia, emissão do laudo e obtenção e renovação do AVCB — sempre com ART no CREA-SC em cada serviço técnico."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Elaboração do PPCI completo conforme a norma do CBMSC",
+          "Dimensionamento de proteção passiva e ativa (extintores, hidrantes, sprinklers, detecção)",
+          "Vistoria técnica e laudo conclusivo antes da fiscalização oficial",
+          "Protocolo, acompanhamento e obtenção do AVCB",
+          "Renovação de AVCB com checagem completa de todos os sistemas",
+          "ART no CREA-SC e atendimento em Navegantes, Itajaí, Balneário Camboriú, Penha e região"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se a sua edificação precisa obter o primeiro AVCB, está com o certificado vencido ou recebeu notificação do Corpo de Bombeiros, fale com a equipe da Regê Engenharia. Vamos inspecionar, adequar e emitir o laudo correto — porque contra incêndio, prevenção documentada é a única proteção que vale."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre laudo de segurança contra incêndio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda edificação precisa de AVCB? Não. A exigência depende da área, da ocupação e da carga de incêndio definidas pela norma do Corpo de Bombeiros de SC. Residências unifamiliares pequenas geralmente estão dispensadas; comércios, indústrias e prédios normalmente são obrigados."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qual a diferença entre PPCI e AVCB? O PPCI é o projeto técnico que dimensiona os sistemas de proteção; o AVCB é o certificado que o Corpo de Bombeiros emite após verificar que a edificação executa o projeto. Um antecede o outro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo vale o AVCB? A validade varia conforme o grau de risco e a ocupação da edificação, definidos pela norma estadual. Edificações de maior risco têm renovação mais frequente e exigem manutenção documentada dos sistemas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso obter o AVCB sem engenheiro? Não. O PPCI e o laudo devem ser assinados por profissional habilitado, com ART no CREA. Sem responsável técnico, o Corpo de Bombeiros não aceita o processo."
+      }
+    }
+  ]
+}

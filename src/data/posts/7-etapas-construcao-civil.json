@@ -1,0 +1,114 @@
+{
+  "slug": "7-etapas-construcao-civil",
+  "title": "As 7 etapas da construção civil: Do terreno à entrega das chaves",
+  "tag": "CONSTRUÇÃO",
+  "image": "/images/rege-engenharia.png",
+  "imageAlt": "Etapas da construção civil",
+  "excerpt": "Sondagem, fundação, estrutura, alvenaria, instalações, acabamento e entrega — conheça em detalhes cada fase da obra e saiba exatamente o que esperar em cada momento do seu projeto.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Compreender as etapas de uma obra é fundamental para quem está prestes a construir. Saber o que acontece em cada fase permite acompanhar o andamento, entender os custos envolvidos e tomar decisões mais conscientes. Neste artigo, detalhamos as 7 etapas principais da construção civil, desde a preparação do terreno até a entrega das chaves."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. Sondagem e análise do terreno"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de qualquer obra, é necessário conhecer as características do solo. A sondagem SPT (Standard Penetration Test) identifica o tipo de solo, sua resistência e o nível do lençol freático. Essas informações são essenciais para o correto dimensionamento das fundações e para evitar problemas estruturais futuros."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Fundação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fundação é responsável por transferir o peso da construção para o solo de forma segura e equilibrada. Existem diversos tipos de fundação — sapatas, estacas, radier — e a escolha depende diretamente dos resultados da sondagem. Uma fundação bem executada é invisível depois da obra pronta, mas é ela que garante a segurança de toda a edificação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Estrutura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A estrutura é o esqueleto da construção: pilares, vigas e lajes que sustentam o edifício. No sistema convencional de concreto armado, essa etapa envolve montagem de formas, armação de aço e concretagem. —0 uma das fases mais críticas e exige acompanhamento rigoroso do engenheiro responsável."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Alvenaria"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Com a estrutura pronta, começam as paredes — a alvenaria. —0 nesta fase que os ambientes ganham forma. Blocos cerâmicos ou de concreto são assentados seguindo rigorosamente o projeto arquitetônico. Vãos para portas, janelas e passagens técnicas para instalações são previstos nesta etapa."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Instalações elétricas e hidráulicas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As instalações acontecem simultaneamente à alvenaria e ao revestimento. Tubulações de água fria, água quente, esgoto, eletrodutos, caixas de passagem, quadros elétricos — tudo é instalado dentro das paredes e lajes antes do fechamento com reboco. Uma execução bem feita nesta fase evita quebra-quebra futuro."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Acabamentos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A fase de acabamento é a mais visível e a que mais impacta o custo final da obra. Inclui revestimentos (pisos e azulejos), pintura, louças sanitárias, metais, vidros, esquadrias, portas, iluminação e paisagismo. —0 quando a casa ganha personalidade e o resultado estético aparece."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Limpeza e entrega das chaves"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A última etapa envolve a limpeza final da obra, remoção de entulho, vistoria completa de todos os sistemas (elétrico, hidráulico, esquadrias, acabamentos) e a entrega formal das chaves ao proprietário. Na Regê Engenharia, esta vistoria é detalhada e documentada, garantindo que tudo esteja em perfeito funcionamento."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Cada etapa da construção é um tijolo no alicerce do seu patrimônio. Pular ou negligenciar qualquer uma delas é colocar em risco todo o investimento."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir exige planejamento, conhecimento técnico e experiência. Na Regê Engenharia, acompanhamos cada uma dessas etapas com rigor e dedicação. Fale conosco e comece a construir seu futuro com segurança."
+      }
+    }
+  ]
+}

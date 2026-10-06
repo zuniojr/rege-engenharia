@@ -1,0 +1,352 @@
+{
+  "slug": "problemas-maresia-construcao-navegantes",
+  "title": "Problemas de Maresia na Construção em Navegantes: Guia Completo de Prevenção e Solução",
+  "tag": "ENGENHARIA",
+  "image": "/images/obra-comercial.avif",
+  "imageAlt": "Detalhe de corrosão por maresia em estrutura de concreto de obra na orla de Navegantes SC, com manchas de ferrugem e desgaste visível.",
+  "excerpt": "A maresia é o maior inimigo silencioso das construções no litoral. Entenda os problemas que ela causa em Navegantes, como prevenir danos e quais materiais especificar para sua obra resistir ao ambiente marinho.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Navegantes, a beleza do mar vem acompanhada de um desafio técnico que todo construtor, projetista e proprietário precisa enfrentar: a maresia. A névoa salina que banha a cidade a cada maré, a cada vento sul e a cada noite úmida não é apenas um incômodo — é um agente químico agressivo que ataca a construção de dentro para fora, corroendo armaduras, deteriorando concreto e reduzindo a vida útil de materiais que, em outra região, durariam décadas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quem constrói ou reforma em Navegantes sem considerar a maresia paga mais caro depois: reparos recorrentes, substituição precoce de esquadrias, manutenção de fachada a cada dois anos e, nos piores casos, intervenções estruturais que poderiam ter sido evitadas com especificação correta. Este guia reúne os principais problemas que a maresia causa na construção em Navegantes, como identificá-los, como prevê-los e quais soluções técnicas funcionam de verdade no litoral."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é maresia e por que ela é tão agressiva"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Maresia é o conjunto de partículas salinas — principalmente cloreto de sódio — transportadas pelo vento a partir da superfície do mar. Quando a onda quebra, gotículas de água do mar se evaporam e liberam cristais de sal no ar. Esses cristais, microscopicamente pequenos, viajam com o vento e se depositam em qualquer superfície: concreto, aço, alumínio, madeira, vidro, pintura e até componentes eletrônicos."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Concentração máxima na faixa de 0 a 500 metros da orla — onde a maioria dos empreendimentos de Navegantes está localizada",
+          "Influência até 3 a 5 km do mar — em dias de vento forte, a névoa salina alcança bairros interiores",
+          "Umidade relativa acima de 80% — mantém o sal dissolvido e em constante penetração nos materiais",
+          "Ciclos de molhagem e secagem — concentram o ataque em faixas específicas de pilares, paredes e fachadas",
+          "Vento do Sul e Sudeste — os ventos mais agressivos, que trazem a maresia diretamente da orla para a cidade"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A maresia não escolhe onde atacar. Ela ataca o que estiver exposto — a diferença está em quem protege a tempo e quem descobre o dano depois."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Problema 1: Corrosão de armaduras em estruturas de concreto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O problema mais sério que a maresia causa na construção é a corrosão das armaduras de aço dentro do concreto. Os cloretos penetram pelos poros do concreto, rompem a camada passivadora que protege o aço e iniciam um processo de corrosão que expande o volume do metal em 2 a 10 vezes. Essa expansão empurra o concreto de dentro para fora, causando fissuras, desplacamento e, nos casos mais graves, exposição total da armadura."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pilares de fachada expostos ao mar — primeiro alvo da corrosão, especialmente na faixa de 1 a 3 metros do solo",
+          "Lajes de cobertura e terraços — superfícies horizontais que acumulam névoa salina e água da chuva",
+          "Vigas de entulheiro e elementos de fachada — contato direto com o vento salino",
+          "Cobrimento insuficiente — quando o concreto que reveste a armadura é fino demais, o sal penetra mais rápido",
+          "Concreto poroso — relação água/cimento alta e falta de aditivos impermeabilizantes aceleram a penetração"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O tempo para corrosão visível varia conforme a exposição: em imóveis a menos de 1 km do mar com cobrimento inadequado, os primeiros sinais podem aparecer em 5 a 8 anos. Em imóveis com projeto correto e materiais adequados, a corrosão pode ser adiada para 20 anos ou mais."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Problema 2: Degradação superficial do concreto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além da corrosão interna, a maresia causa degradação superficial do concreto que compromete a estética, a impermeabilidade e a proteção das armaduras:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Efflorescência salina — manchas esbranquiçadas na superfície do concreto, causadas pela cristalização de sais que emergem com a umidade",
+          "Esfoliação — descascamento em finas camadas da superfície, revelando o concreto poroso por baixo",
+          "Alveolamento — formação de pequenos buracos na superfície pelo ataque químico dos cloretos",
+          "Descoloração — manchas acinzentadas ou amareladas que alteram a aparência da fachada",
+          "Perda de resistência superficial — o concreto fica mais frágil e susceptível a impactos e abrasão"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No litoral, o concreto não precisa estar rachado para estar sendo degradado. A maresia trabalha silenciosamente, camada por camada."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Problema 3: Corrosão de esquadrias e componentes metálicos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Esquadrias de alumínio, aço carbono e ferro fundido são extremamente vulneráveis à maresia. Os cloretos atacam as ligas metálicas, causando oxidação que compromete o funcionamento, a vedação e a aparência:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Esquadrias de alumínio natural — sem tratamento superficial, oxidam em poucos meses no litoral",
+          "Ferragens de portas e janelas — dobradiças, fechaduras e trilhos enferrujam e travam",
+          "Guarda-corpos e grades de segurança — estruturas metálicas que ficam totalmente expostas ao vento salino",
+          "Fixações e parafusos — porca, arruelas e parafusos de aço comum são os primeiros a corroer",
+          "Toldos e toldos — estruturas de aço e tecidos que acumulam sal e sofrem ataque acelerado"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A solução não é apenas trocar o material — é especificar o material certo desde o início: alumínio anodizado, aço inoxidável 304 ou 316, fixações em titânio ou nylon técnico para aplicações leves."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Problema 4: Degradação de revestimentos e pinturas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Pinturas e revestimentos que funcionam perfeitamente no interior do estado falham precocemente no litoral quando não são especificados para ambiente marinho:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pintura acrílica convencional — descasca, estufa e perde a aderência em 2 a 3 anos na fachada",
+          "Pintura látex — absorve umidade e desenvolve mofo sob a camada de tinta",
+          "Revestimento cerâmico — a argamassa de assentamento sofre ataque salino e o azulejo solta",
+          "Reboco externo — fissuras por retração acelerada pela ciclagem de umidade e sal",
+          "Massa corrida — não resiste à umidade e desenvolve bolhas e descascamento"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O custo de repintura a cada 3 anos supera em muito o investimento inicial em tintas e revestimentos adequados ao ambiente marinho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Problema 5: Corrosão de instalações hidráulicas e elétricas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A maresia não ataca apenas o que está visível. Tubulações de água, fios elétricos e componentes de instalações também sofrem com a corrosão:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Tubulações de cobre — a corrosão por cloretos causa vazamentos prematuros em emendas e conexões",
+          "Tubulações de aço galvanizado — a camada de zinco se deteriora e o aço começa a enferrujar por baixo",
+          "Fiação elétrica — isolamentos de PVC ressecam e racham com a ação do sal e do sol",
+          "Quadros de distribuição — componentes internos oxidam, causando mau contato e risco de curto-circuito",
+          "Disjuntores e interruptores — trilhos de contato e terminais corroem, gerando aquecimento e falhas"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No litoral, a instalação elétrica que falha não avisa: ela esquenta, derrete e, no pior caso, provoca incêndio. A maresia é a causa mais comum — e a menos vista."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Problema 6: Degradação de coberturas e impermeabilizações"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "As coberturas e lajes de cobertura ficam diretamente expostas à maresia e são o ponto de entrada mais comum de infiltrações:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Telhas de fibrocimento — com o tempo, a superfície se degrada e permeia água",
+          "Telhas metálicas galvanizadas — a camada de zinco se deteriora e a telha enferruja",
+          "Manta asfáltica — o sal acelera a degradação da membrana, especialmente nas emendas",
+          "Calhas e rufos — em aço galvanizado, corroem em poucos anos sem proteção adequada",
+          "Impermeabilização de lajes — membranas expostas sofrem ataque direto do sal e do UV combinados"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como especificar materiais para resistir à maresia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A prevenção começa no projeto. A especificação correta de materiais é a decisão que mais economiza a longo prazo:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Concreto — relação água/cimento baixa (máximo 0,55), aditivos impermeabilizantes, cobrimento mínimo de 4 cm para fachadas expostas e 5 cm para elementos em contato com o solo",
+          "Aço estrutural — proteção catódica ou pintura epóxi em ambientes marinhos; galvanização a quente para estruturas secundárias",
+          "Esquadrias — alumínio anodizado com película de PVDF ou pintura eletrostática; perfis de PVC com câmaras internas também são opção",
+          "Fixações — aço inoxidável 304 para áreas internas, 316 para áreas externas e expostas; parafusos de titânio para casos críticos",
+          "Pintura de fachada — sistema com selador, massa acrílica e tinta acrílica ou PVA de alta performance, com renovação a cada 5 a 7 anos",
+          "Revestimentos — argamassas colantes e rejunte com aditivos impermeabilizantes; cerâmica de porcelanato para áreas expostas",
+          "Tubulações — PPR para água fria, inox 316 para água quente em áreas externas; evitar cobre em ambientes com alta salinidade",
+          "Fiação — cabos com isolamento adequado para ambiente marinho, instalados em eletrocalhas protegidas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Manutenção preventiva: o calendário que protege sua obra"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mesmo com especificação correta, a maresia exige manutenção periódica. O calendário recomendado para imóveis em Navegantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Inspeção visual semestral — verificação de manchas, descascamento, oxidação e fissuras em fachadas e coberturas",
+          "Limpeza de fachadas anual — remoção de crosta salina com água e detergente neutro ou produtos específicos",
+          "Revisão de esquadrias anual — limpeza, lubrificação e verificação de vedações e ferragens",
+          "Inspeção de impermeabilização a cada 3 anos — verificação de integridade de manta, calhas e rufos",
+          "Termografia elétrica a cada 2 anos — detecção de pontos de aquecimento em quadros e conexões",
+          "Revisão de pintura externa a cada 5 a 7 anos — repintura com tintas adequadas ao ambiente marinho"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Normas técnicas que regulam a construção no litoral"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A construção em Navegantes deve seguir normas que consideram a agressividade do ambiente costeiro:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "NBR 6118 — define classes de agressividade ambiental (III e IV para litoral), com exigências de cobrimento, resistência e durabilidade do concreto",
+          "NBR 15575 — edificações habitacionais com desempenho mínimo considerando a agressividade ambiental",
+          "NBR 8800 — estruturas de aço com proteção contra corrosão em ambientes marinhos",
+          "NBR 9575 — impermeabilização com classificação por tipo de exposição e classe de agressividade",
+          "NBR 5410 — instalações elétricas com exigências de grau de proteção e materiais para ambientes agressivos"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A norma não é burocracia — é o conjunto de lições aprendidas sobre o que acontece quando se constrói sem considerar o ambiente."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando consultar um engenheiro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A avaliação técnica é recomendada nas seguintes situações:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Antes de começar a obra — o projeto deve considerar a agressividade ambiental desde a concepção",
+          "Ao aparecer os primeiros sinais — manchas de ferrugem, descascamento de pintura, infiltrações recorrentes",
+          "Em imóveis com mais de 10 anos — inspeção preventiva para identificar corrosão incipiente",
+          "Na compra ou venda de imóvel — laudo técnico com avaliação do estado dos materiais e da estrutura",
+          "Após obras vizinhas — vibracções e escavações podem acelerar danos existentes"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão: construir com consciência do mar"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Construir em Navegantes é um privilégio — mas é um privilégio que exige respeito ao ambiente. A maresia não é um problema que se resolve com uma demão extra de tinta ou com um \"reparinho\" rápido. —0 um desafio técnico que exige projeto, especificação e manutenção adequados. Quem entende isso constrói melhor, gasta menos com reparos e garante que sua obra dura tanto quanto a vista que a motivou."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia realiza projetos de drenagem pluvial e subterrânea para terrenos litorâneos em Navegantes e todo o litoral catarinense. Nossa equipe dimensiona sistemas de drenagem considerando as condições específicas do terreno — lençol freático, topografia, tipo de solo e volume de chuva de projeto — garantindo que a solução funcione quando mais precisa."
+      }
+    }
+  ]
+}

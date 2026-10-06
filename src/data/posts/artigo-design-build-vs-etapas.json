@@ -1,0 +1,711 @@
+{
+  "slug": "artigo-design-build-vs-etapas",
+  "title": "Design-Build (Projeto-Construção) vs. Contratação por Etapas: Vantagens, Desvantagens e Como Decidir",
+  "tag": "PROJETOS",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Design-Build (Projeto-Construção) vs. Contratação por Etapas: Vantagens, Desvantagens e Como Decidir - artigo técnico da Regê Engenharia sobre projetos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "No mercado da construção civil, a escolha do modelo de contratação define não apenas o custo final, mas o prazo, a qualidade, o risco jurídico e a dor de cabeça do proprietário.",
+  "readTime": "5 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No mercado da construção civil, a escolha do modelo de contratação define não apenas o custo final, mas o prazo, a qualidade, o risco jurídico e a dor de cabeça do proprietário. O modelo **Design-Build (Projeto-Construção)** — onde uma única entidade responde por projeto executivo e execução da obra — ganhou força no Brasil nos últimos anos, mas ainda gera dúvidas frente ao modelo tradicional de **contratação por etapas** (projeto — \u0019 orçamento — \u0019 licitação — \u0019 execução — \u0019 fiscalização)."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo traz uma análise técnica, jurídica e financeira para você decidir com base no seu perfil, porte da obra e tolerância a risco."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O Que —0 Cada Modelo"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Aspecto",
+          "Design-Build (Projeto-Construção)",
+          "Contratação por Etapas (Tradicional)"
+        ],
+        "rows": [
+          [
+            "Contrato",
+            "—anico: projeto + execução",
+            "Múltiplos: projetistas, orçamentista, construtora, fiscal"
+          ],
+          [
+            "Responsável técnico",
+            "Um único engenheiro/arquiteto (ART única de execução)",
+            "Vários responsáveis (ART de projeto + ART de execução)"
+          ],
+          [
+            "Fase de projeto",
+            "Integrada à execução (projeto executivo durante a obra)",
+            "Completa antes da contratação da construtora"
+          ],
+          [
+            "Definição de preço",
+            "Pode ser preço fechado, teto garantido ou custo + fee",
+            "Preço fechado após licitação com projeto completo"
+          ],
+          [
+            "Interface contratual",
+            "—anica (proprietário — \u001d design-builder)",
+            "Múltiplas (proprietário — \u001d cada contratado)"
+          ],
+          [
+            "Gestão de mudanças",
+            "Ágil (mesma equipe decide e executa)",
+            "Lenta (requer alinhamento entre projetista e construtora)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Vantagens do Design-Build"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Prazo Total Reduzido (20% a 40% mais rápido)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sobreposição de fases: Enquanto a fundação é executada, o projeto de estrutura e instalações é detalhado (fast-track).",
+          "Elimina licitação: Não há período de cotação, análise de propostas, homologação, contratação separada.",
+          "Menos paralisações: Decisões de projeto/obra acontecem na mesma reunião."
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Estudo de caso: Obra residencial de 350m² em SC — Design-Build: 10 meses. Tradicional: 14-16 meses (3 meses só de projeto + licitação)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Responsabilidade —anica (Single Point of Accountability)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Se houver erro de projeto que gere retrabalho na obra, o design-builder absorve o custo e o prazo. No modelo tradicional, projetista e construtora trocam acusações (\"projeto errado\" vs \"execução errada\") e o proprietário fica no meio, pagando advogado e perito."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Constructibilidade Integrada (Buildability)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "A construtora participa do projeto desde o início: sugere sistemas construtivos mais rápidos, materiais disponíveis na região, sequenciamento otimizado, pré-fabricação.",
+          "Evita \"projetos de gaveta\" que parecem bonitos no papel mas são inviáveis ou caros de executar."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Controle de Custo Antecipado (Target Value Design)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "No modelo GMP (Preço Máximo Garantido) ou Custo + Fee com Teto, o design-builder apresenta estimativas a cada etapa do projeto. O proprietário aprova ou ajusta antes de virar obra.",
+          "No tradicional, o custo real só aparece na licitação — se estourar, refaz projeto ou corta qualidade."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Menos Conflitos e Retrabalho"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Interface única elimina \"telefone sem fio\" entre projetista e construtora.",
+          "Detalhamento de compatibilização (BIM, clash detection) feito por quem vai construir."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6. Inovação e Valor Agregado"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Design-builders experientes trazem soluções testadas: sistemas industrializados, drywall estrutural, Light Steel Frame, concreto projetado, pré-moldados — que reduzem prazo e mão de obra."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Desvantagens do Design-Build"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Menor Controle do Projeto pelo Proprietário"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "No tradicional, você aprova cada prancha, cada detalhe, cada especificação antes de contratar a obra.",
+          "No Design-Build, o projeto executivo evolui durante a obra. Exige confiança técnica e contrato bem redigido com parâmetros mínimos de qualidade, marcas, normas."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Dificuldade de Comparação de Preços (Benchmarking)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "No tradicional, você licita o mesmo projeto para 3-5 construtoras e escolhe o melhor custo-benefício.",
+          "No Design-Build, cada proponente apresenta solução técnica diferente (estrutura, sistemas, materiais). Comparar \"maçãs com laranjas\" exige análise técnica profunda."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Risco de \"Value Engineering\" Discreto"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para proteger a margem no preço fechado, design-builders menos éticos podem:",
+          "Reduzir bitolas de armadura no limite da norma",
+          "Substituir marcas especificadas por \"equivalentes\" inferiores",
+          "Simplificar detalhes de impermeabilização, acústica, térmica",
+          "Mitigação: Especificar marcas mínimas, exigir memorial descritivo vinculante, auditoria de projeto independente."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Concentração de Risco em Um —anico Fornecedor"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Se o design-builder falir, parar a obra, tiver problemas trabalhistas/financeiros — toda a obra para. No tradicional, se a construtora para, o projeto já está pronto; você contrata outra."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Exige Maturidade do Proprietário (ou Assessoria Técnica)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Para avaliar propostas técnicas, acompanhar evolução do projeto, validar medições, fiscalizar qualidade — o proprietário precisa de assessoria técnica própria (engenheiro de confiança, gerenciadora, PMO). Não é modelo \"chave na mão sem olhar\"."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6. Menos Transparência na Composição de Custos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "No modelo Custo + Fee, você vê tudo (mão de obra, material, equipamento, BDI). No Preço Fechado/GMP, o detalhamento costuma ser resumido. Auditoria de custos fica mais difícil."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Vantagens da Contratação por Etapas (Tradicional)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Vantagem",
+          "Quando Pesa Mais"
+        ],
+        "rows": [
+          [
+            "Controle total do projeto",
+            "Obras de alto padrão, autorais, complexas, onde o proprietário quer definir cada detalhe"
+          ],
+          [
+            "Benchmarking real de preço",
+            "Obras padronizadas, repetitivas, onde o projeto está maduro e o mercado conhece a solução"
+          ],
+          [
+            "Transparência de custos",
+            "Financiamentos bancários (Caixa, BNDES) que exigem planilha orçamentária detalhada por composição"
+          ],
+          [
+            "Flexibilidade de troca",
+            "Se a construtora não performa, troca-se sem refazer projeto"
+          ],
+          [
+            "Governança clara",
+            "—\u001crgãos públicos, fundos de investimento, condomínios que exigem licitação formal"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Desvantagens da Contratação por Etapas"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Desvantagem",
+          "Impacto Real"
+        ],
+        "rows": [
+          [
+            "Prazo alongado",
+            "3-6 meses só para projeto + licitação antes de quebrar o solo"
+          ],
+          [
+            "Conflito projetista —\u0014 construtora",
+            "Retrabalho, aditivos, judicialização — custo médio de 5-15% da obra"
+          ],
+          [
+            "Gestão múltipla",
+            "Proprietário ou gerenciadora precisa coordenar 4-6 contratos simultâneos"
+          ],
+          [
+            "Projetos incompatíveis",
+            "Estrutura x Instalações x Arquitetura x Fachada — clashes descobertos na obra"
+          ],
+          [
+            "Responsabilidade difusa",
+            "Ninguém assume o erro; o proprietário paga a conta"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Comparativo Direto: Cenários Típicos"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Cenário",
+          "Melhor Modelo",
+          "Por Que"
+        ],
+        "rows": [
+          [
+            "Casa de alto padrão, 400m²+, projeto autoral, proprietário quer definir cada acabamento",
+            "Tradicional (ou Design-Build com projeto conceitual pré-contratado)",
+            "Controle de projeto é prioridade; prazo é secundário"
+          ],
+          [
+            "Casa padrão, 150-300m², prazo crítico, orçamento definido, proprietário não tem tempo para gerenciar",
+            "Design-Build (GMP)",
+            "Velocidade, previsibilidade, responsabilidade única"
+          ],
+          [
+            "Edifício multifamiliar, 10+ unidades, financiamento bancário",
+            "Tradicional (exigência do banco) ou Design-Build com auditoria independente",
+            "Bancos exigem planilha Sinapi/TCU, projeto completo pré-aprovado"
+          ],
+          [
+            "Reforma complexa em imóvel ocupado (comercial/residencial)",
+            "Design-Build",
+            "Sequenciamento, logística, surpresas de obra exigem decisão imediata"
+          ],
+          [
+            "Obra industrial / galpão logístico / data center",
+            "Design-Build (EPC)",
+            "Engenharia de processo dita arquitetura; integração crítica"
+          ],
+          [
+            "Proprietário tem equipe técnica própria (engenheiro, arquiteto, orçamentista)",
+            "Tradicional",
+            "Aproveita estrutura interna; controla cada etapa"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist: Como Escolher (Perguntas para Você Responder)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Pergunta",
+          "Se SIM — \u0019 Design-Build",
+          "Se SIM — \u0019 Tradicional"
+        ],
+        "rows": [
+          [
+            "Prazo total é crítico (entrega em data fixa)?",
+            "—S&",
+            ""
+          ],
+          [
+            "Quero definir cada detalhe do projeto antes de começar?",
+            "",
+            "—S&"
+          ],
+          [
+            "Tenho assessoria técnica própria para fiscalizar?",
+            "—S& (precisa menos)",
+            "—S& (precisa mais)"
+          ],
+          [
+            "Vou financiar com banco que exige planilha Sinapi?",
+            "",
+            "—S&"
+          ],
+          [
+            "A obra tem alta incerteza (reforma, solo ruim, vizinhança sensível)?",
+            "—S&",
+            ""
+          ],
+          [
+            "Quero licitar para 3+ construtoras e escolher o menor preço?",
+            "",
+            "—S&"
+          ],
+          [
+            "Prefiro pagar fee de gestão + custo real (transparência total)?",
+            "",
+            "—S& (Custo+Fee)"
+          ],
+          [
+            "Prefiro preço fechado e não quero surpresa no final?",
+            "—S& (GMP)",
+            ""
+          ],
+          [
+            "O projeto exige inovação / sistemas industrializados?",
+            "—S&",
+            ""
+          ],
+          [
+            "Tenho medo de concentração de risco em um só fornecedor?",
+            "",
+            "—S&"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Híbridos Inteligentes (O Melhor dos Dois Mundos)"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Design-Build com Projeto Conceitual Prévio"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Proprietário contrata arquiteto antes para definir conceito, layout, volumetria, aprovações.",
+          "Depois contrata Design-Build para projeto executivo + obra.",
+          "Vantagem: Controle do conceito + velocidade da execução."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Contratação por Etapas com Construtora na Fase de Projeto (Early Contractor Involvement - ECI)"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Contrata construtora na fase de projeto executivo (remunerada por fee).",
+          "Ela revisa projetos, sugere constructibilidade, orça em tempo real.",
+          "Depois assina contrato de obra (preço fechado ou GMP).",
+          "Vantagem: Projetos compatibilizados + benchmarking posterior."
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Gerenciamento de Obra (Owner's Representative) + Contratação por Etapas"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Proprietário contrata empresa de gerenciamento (PMO) que faz: licitação, contratos, fiscalização, controle de custo/prazo/qualidade.",
+          "Vantagem: Proprietário não gerencia dia a dia; governança profissional."
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Cláusulas Críticas no Contrato Design-Build (Não Assine Sem Elas)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Cláusula",
+          "Por Que —0 Essencial"
+        ],
+        "rows": [
+          [
+            "Memorial Descritivo Vinculante",
+            "Define marcas, normas, acabamentos, equipamentos — \"ou equivalente\" só com aprovação escrita"
+          ],
+          [
+            "Parâmetros Mínimos de Desempenho",
+            "Acústica (NBR 10151/15575), Térmica (NBR 15575/15220), Estrutural (NBR 6118), Impermeabilização (NBR 9575)"
+          ],
+          [
+            "GMP com Contingência Transparente",
+            "% de contingência declarada, regras de uso, devolução de sobra ao final"
+          ],
+          [
+            "Auditoria de Projeto Independente",
+            "Direito do proprietário de contratar projetista terceiro para revisar projetos críticos (estrutura, instalações, fachada)"
+          ],
+          [
+            "Cronograma Físico-Financeiro com Marcos de Entrega",
+            "Liberação de medições atrelada a marcos verificáveis (não apenas % de execução)"
+          ],
+          [
+            "Seguro de Responsabilidade Civil Profissional + Obra",
+            "Cobertura para vícios ocultos (prazo decadencial 5 anos — Art. 618 CC)"
+          ],
+          [
+            "Cláusula de Substituição de Equipe-Chave",
+            "Engenheiro responsável, gerente de obra, mestre não podem ser trocados sem aprovação"
+          ],
+          [
+            "BIM / Modelos 3D Entregues (As-Built)",
+            "Modelo federado atualizado na conclusão — base para manutenção/facilities"
+          ],
+          [
+            "Penalidades por Atraso (LDs) e Bônus por Antecipação",
+            "Equilíbrio contratual; incentiva performance"
+          ],
+          [
+            "Resolução de Disputas: Mediação — \u0019 Arbitragem",
+            "Mais rápido e técnico que judiciário comum"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Custo Comparativo Estimado (Referência Brasil 2024/2025)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Design-Build (GMP)",
+          "Tradicional (Licitação)"
+        ],
+        "rows": [
+          [
+            "Projeto executivo completo",
+            "Incluso (internalizado)",
+            "R$ 80-150/m² (arquitetura + estruturas + instalações)"
+          ],
+          [
+            "Gerenciamento / Fiscalização",
+            "Incluso (internalizado)",
+            "R$ 40-80/m² (empresa terceira)"
+          ],
+          [
+            "BDI da construtora",
+            "25-35% (risco integrado)",
+            "20-30% (risco só execução)"
+          ],
+          [
+            "Contingência",
+            "3-5% (dentro do GMP)",
+            "5-10% (aditivos típicos)"
+          ],
+          [
+            "Prazo total (projeto + obra)",
+            "100% (base)",
+            "130-150%"
+          ],
+          [
+            "Custo final real / m²",
+            "R$ 5.500-7.500",
+            "R$ 5.800-8.000 (+ aditivos)"
+          ],
+          [
+            "Risco de estouro de orçamento",
+            "Baixo (teto garantido)",
+            "Médio/Alto (aditivos, retrabalho)"
+          ],
+          [
+            "Risco de atraso",
+            "Baixo",
+            "Médio/Alto"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Nota: Valores variam enormemente por região, tipologia, padrão de acabamento, solo, logística. Use apenas como ordem de grandeza para decisão."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão: Não Existe \"Melhor\" — Existe \"Adequado ao Seu Caso\""
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Escolha Design-Build Se:",
+          "Escolha Tradicional Se:"
+        ],
+        "rows": [
+          [
+            "⬢ Prazo é a variável mais crítica",
+            "⬢ Quer controle total do projeto autoral"
+          ],
+          [
+            "⬢ Não tem equipe técnica para gerenciar múltiplos contratos",
+            "⬢ Tem assessoria técnica própria ou contratará gerenciadora"
+          ],
+          [
+            "⬢ Quer responsabilidade única e previsibilidade de custo",
+            "⬢ Vai financiar com banco que exige projeto completo + planilha"
+          ],
+          [
+            "⬢ A obra tem incertezas (reforma, solo, vizinhança)",
+            "⬢ O projeto está maduro, padronizado, licitável"
+          ],
+          [
+            "⬢ Valoriza inovação construtiva e industrialização",
+            "⬢ Exige licitação formal (público, condomínio, fundo)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Recomendação Prática"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Defina seus drivers: Prazo? Custo? Qualidade? Controle? Risco?",
+          "Contrate uma consultoria técnica independente (30-50h) para:"
+        ]
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fazer o briefing técnico do que você quer",
+          "Montar o Request for Proposal (RFP) adequado ao modelo escolhido",
+          "Avaliar as propostas tecnicamente (não só preço)",
+          "Acompanhar marcos críticos (fundações, estrutura, fechamento, instalações)"
+        ]
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Não contrate \"no nome do amigo\" sem contrato robusto. O modelo não protege sozinho — o contrato protege."
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo técnico informativo. Para sua obra, consulte um engenheiro civil ou arquiteto registrado no CREA/CAU da sua jurisdição. Modelos contratuais devem ser redigidos/revisados por advogado especializado em direito da construção.*"
+      }
+    }
+  ]
+}

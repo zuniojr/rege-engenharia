@@ -1,0 +1,908 @@
+{
+  "slug": "lc-416-navegantes-regras-essenciais",
+  "title": "Regras do Novo Código de Obras de Navegantes (LC 416/2023) que Você Precisa Conhecer",
+  "tag": "CONSTRUÇÃO",
+  "image": "/images/etapas-aprovacao-prefeitura-bombeiros-cartorio.png",
+  "imageAlt": "Regras do Novo Código de Obras de Navegantes (LC 416/2023) que Você Precisa Conhecer - artigo técnico da Regê Engenharia sobre construção em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Em setembro de 2023, a Prefeitura de Navegantes sancionou a Lei Complementar nº 416/2023, que revolucionou o Código de Obras e urbanismo da cidade.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Introdução"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em setembro de 2023, a Prefeitura de Navegantes sancionou a **Lei Complementar nº 416/2023**, que revolucionou o Código de Obras e urbanismo da cidade. Com um crescimento imobiliário acelerado — especialmente em áreas como o Centro, Jardim das Águias, Laranjeiras, Ponta do Leite e Nova Vila — a nova legislação passou a exigir mais rigor, transparência e responsabilidade técnica tanto de proprietários quanto de profissionais envolvidos nas obras."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está planejando construir, reformar ou ampliar em Navegantes, **não saber das novas regras pode ser mais caro que seguir a regra errada**. Esta lei afeta desde a escolha do terreno até a emissão do alvará de habitabilidade, passando por exigências de acessibilidade, eficiência energética, segurança contra incêndios e — especialmente no litoral — proteção contra a maresia."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A LC 416 não é apenas mais burocracia: é um código de construção pensado para a realidade da nossa cidade — e que exige que todos saibam exatamente o que está sendo construído.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é a LC 416/2023 e por que ela foi criada?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A **Lei Complementar nº 416**, de 27 de setembro de 2023, é a **novena revisão completa do Código de Obras e Normas Urbanísticas de Navegantes**. Ela substitui parcialmente a Lei Complementar nº 792/2006 e atualiza mais de 30 normas técnicas municipais. A principal motivação foi a convergência entre:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Crescimento acelerado do litoral norte de SC — Navegantes, Balneário Camboriú e Itajaí dobrou o número de obras entre 2020 e 2023",
+          "Exigência de padrões nacionais e internacionais — alinhamento com as NBRs mais recentes (especialmente NBR 15575/2021)",
+          "Proteção ambiental da Mata Atlântica e da orla marítima — intensificação do zoneamento de áreas de preservação",
+          "Modernização de exigências de segurança — acessibilidade, incêndios, eficiência energética e resistência sísmica"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A LC 416 não é uma reforma de papel — é uma atualização que leva a cidade a padrões de construção inteligentes, seguras e sustentáveis.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As 10 regras mais importantes da LC 416/2023"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—x\u001d— Regra 1 — Sistema de licenciamento unificado e obrigatório"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Antes:** Era preciso solicitar licenças separadas para obra, instalação elétrica, sanitária e alvará. Cada uma podia levar 15 a 30 dias."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Agora:** A LC 416 cria o **Sistema —anico de Licenciamento (SUL)**, onde todos os processos são unificados em uma única solicitação. Mas a exigência se tornou mais rigorosa:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de Obra",
+          "Licença Prévia",
+          "ART Obrigatória",
+          "Alvará de Início"
+        ],
+        "rows": [
+          [
+            "Reformas sem alteração estrutural",
+            "—S& Sim",
+            "—S& Sim (engenheiro)",
+            "—S& Sim"
+          ],
+          [
+            "Reformas com alteração estrutural",
+            "—S& Sim",
+            "—S& Sim",
+            "—S& Sim"
+          ],
+          [
+            "Novas construções",
+            "—S& Sim",
+            "—S& Sim",
+            "—S& Sim"
+          ],
+          [
+            "Obras de pequenos reparos (até R$ 5.000)",
+            "—R Não",
+            "—a—️ Apenas se envolver estrutura",
+            "—a—️ Apenas se envolver estrutura"
+          ],
+          [
+            "Reformas de fachada ou pintura",
+            "—S& Sim (se alterar estrutura)",
+            "—S& Sim (se envolver elementos estruturais)",
+            "—S& Sim"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Agora, não adianta dizer 'vou fazer uma reforminha'. Na LC 416, qualquer obra que exija escavação, alteração de vãos ou modificação de instalações precisa passar pelo SUL.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—x\u001d— Regra 2 — Exigência de projeto executivo para obras acima de R$ 15.000"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A mais impactante para proprietários: **qualquer obra com orçamento acima de R$ 15.000 exige projeto executivo elaborado por profissional habilitado**. O projeto precisa incluir:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—S& Plantas arquitetônicas e estruturais",
+          "—S& Cálculo estrutural (para qualquer alteração)",
+          "—S& Projeto elétrico conforme NBR 5410",
+          "—S& Projeto hidráullico conforme NBR 5626 e NBR 15089",
+          "—S& Memória descritiva e orçamento",
+          "—S& ART (Anotação de Responsabilidade Técnica)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Impacto:** A reforma de uma cozinha que custava R$ 12.000 continua exigindo apenas a ART. Mas uma reforma de R$ 18.000 exige projeto completo — o que eleva o custo em R$ 3.000 a R$ 5.000."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"O limite de R$ 15.000 não é arbitrário: é a linha entre 'reforminha' e 'obra'. E na LC 416, reforminha precisa de projeto também.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—a—️ Regra 3 — Recuos atualizados e novos limites de fachada"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A nova legislação redefine os **recuos mínimos** e impõe regras mais rígidas de **compatibilidade com o entorno**:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Zona",
+          "Recuo frontal",
+          "Recuo lateral",
+          "Recuo de fundo"
+        ],
+        "rows": [
+          [
+            "-",
+            "---",
+            "---",
+            "---",
+            "---",
+            "-"
+          ],
+          [
+            "ZC de orla (até 15 andares)",
+            "5m",
+            "3m",
+            "5m"
+          ],
+          [
+            "ZC intermediária (até 9 andares)",
+            "4m",
+            "2,5m",
+            "4m"
+          ],
+          [
+            "- ZC residencial (até 4 andares)",
+            "3m",
+            "2m",
+            "3m"
+          ],
+          [
+            "Zona de expansão urbana",
+            "4m",
+            "2,5m",
+            "4m"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além disso, **proibido avançar no recuo** com marquises, toldos ou estruturas metálicas sem aprovação específica — afeta muitos apartamentos que usavam marquise como varanda engastada."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A LC 416 quer árvores na rua e respiração nas fachadas. Se o seu terreno foi comprado antes da lei, o recuo que faltou pode ser solucionado com abatimento de área — não com multa.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—x\u001d— Regra 4 — Eficiência energética obrigatória em novas construções"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Toda construção nova e toda reforma que envolva mais de 50% do envelope (azulejo, revestimento, janelas) deve cumprir os requisitos da **Eficiência Energética NBR 15575:2021**:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—S& Coeficiente de desempenho térmico (CDT) —0— 35% — ou seja, o sistema de climatização não pode consumir mais de 35% da energia total do imóvel",
+          "—S& Iluminação exterior com lâmpadas de baixo consumo (LED) — obrigatório",
+          "—S& Pelo menos 30% da área de janelas com transmissão solar controlada — em fachadas voltadas ao norte/sul",
+          "—S& Sistema de monitoramento de consumo — medidor individual ou coletivo com leitura remota"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A LC 416 não quer apenas casas bonitas — quer casas que não escaldem o bolso no verão.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—a—️ Regra 5 — Acessibilidade universal: NBR 9050 agora é obrigatória em reformas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes da LC 416, a acessibilidade era exigida apenas em construções novas. **Agora, qualquer reforma que envolva alteração de rampas, escadas ou acessos exige conformidade com a NBR 9050**."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Exemplo prático:** Se você reforma o banheiro de uma unidade e precisa de rampa de acesso, a rampa deve ter inclinação máxima de 8% (ou 1:12,5), largura mínima de 90cm e corrimão em ambos os lados."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Reformar sem pensar na acessibilidade hoje pode render multa — e, pior, uma reclamação que invalida o alvará.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—x\u001d— Regra 6 — Proibição de construção em áreas de risco (APP e SAPP)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A LC 416 **endurece a proibição de construção** em áreas de:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—x\u001d— Área de Preservação Permanente (APP) — rio, córrego, nascente, restinga, ou outro elemento natural",
+          "—x\u001d— Sítio de Aterro e Proteção de Paisagens (SAPP) — áreas de proteção da paisagem e da orla",
+          "—x\u001d— Áreas de Inundação e Alagamento (AIA) — especialmente relevante no litoral, onde o risco de encosta e enchente é constante"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A diferença: **agora, qualquer obra em área de risco exige licenciamento especial do Ibama (ou órgão estadual) e aprovação do Plano de Manejo Ambiental (PMA)** — o que eleva significativamente o custo e o tempo da obra."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Construir em área de risco em Navegantes hoje é como montar um quiosque em uma praia proibida — a licença não aparece, e a obra vira multa.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—a—️ Regra 7 — Proteção contra maresia: nova NBR 6118 para fachadas litorâneas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A LC 416 **recomenda (mas não exige)** que construções a menos de 5km do mar sigam a **NBR 6118 com classe de agressividade ambiental IV** (muito agressiva). Isso significa:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—S& Cobrimento mínimo de armaduras: 60mm (vs 40mm padrão)",
+          "—S& Concreto com resistência mínima C30/37 (vs C25 padrão)",
+          "—S& Aditivos de baixa reatividade alcalina (ABR) obrigatórios",
+          "—S& Proteção catiônica em estruturas metálicas expostas"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Para reformas que envolvam substituição de esquadrias, fachadas ou estruturas metálicas, o uso de materiais não resistentes à maresia **invalida o alvará**."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, a diferença entre um reboco que dura 3 anos e um que dura 10 é de R$ 200 no material — mas R$ 8.000 no conserto.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—x\u001d— Regra 8 — Sistema de drenagem sustentável obrigatório em novas construções"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A nova legislação exige **drenagem sustentável** em toda obra nova ou ampliação:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—S& Mínimo de 15% da área de pátio com infiltração (pavimento perfmeável ou sumidouro)",
+          "—S& Sistema de desarenamento de calhas — evita entupimento com areia e folhas",
+          "—S& Recuperação de águas pluviais para uso não potável — sistemas de cisterna ou rega"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A LC 416 não quer apenas construir — quer construir sem alugarrigar a rua.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—a—️ Regra 9 — Reformas de fachada: nova exigência de ART e vistoria"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Qualquer reforma que envolva **fachada, azulejo, reboco ou substituição de esquadrias** exige:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Projeto executivo (mesmo para reformas menores)",
+          "ART emitida pelo engenheiro responsável",
+          "Vistoria de serviço após 70% da obra",
+          "Relatório de recebimento com fotos e assinatura digital"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A LC 416 quer acabar com o 'pintor que sobe e desce' na fachada. Agora, fachada é responsabilidade técnica.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—x\u001d— Regra 10 — Nova tabela de vistorias e alvarás com prazos reais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A LC 416 estabelece **prazos máximos de resposta** da prefeitura, com multa por descumprimento:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Serviço",
+          "Prazo Máximo"
+        ],
+        "rows": [
+          [
+            "Análise de licenciamento prévio",
+            "10 dias úteis"
+          ],
+          [
+            "Vistoria de serviço (70% da obra)",
+            "5 dias úteis"
+          ],
+          [
+            "Alvará de habitabilidade",
+            "10 dias úteis"
+          ],
+          [
+            "Vistoria final de obra",
+            "15 dias úteis"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Agora, se a prefeitura demora mais que o prazo, o processo é considerado aprovado por impessoidade administrativa — e a obra pode prosseguir.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que mudou para o proprietário comum?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A LC 416 afeta diferentemente cada perfil de proprietário. Veja como:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—S& Para quem quer fazer uma reforma de cozinha"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Antes:** Contratava um pedreiro, comprava material e fazia a reforma sem burocracia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Agora:**"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Se o orçamento ultrapassar R$ 15.000 — precisa de projeto executivo",
+          "Se envolver estrutura (demolir parede, mexer em vedação) — precisa de ART e alvará",
+          "Se trocar esquadrias e fechar varanda — precisa de vistoria e relatório"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A reforma de cozinha de R$ 12.000 continua simples. A de R$ 18.000 agora exige projeto — e isso vale a pena, porque evita erros que custam caro.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—a—️ Para quem quer construir um novo imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Novas exigências obsoletas:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Plano de drenagem sustentável obrigatório",
+          "Eficiência energética com CDT —0— 35%",
+          "Acessibilidade universal obrigatória (inclusive para 1 andar)",
+          "Proibição de construir em áreas de risco sem licenciamento ambiental"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Construir em Navegantes hoje não é mais só 'enterrar pilar e subir laje'. —0 planejar para o futuro — energia, água, acessos e proteção ambiental.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "—x\u001d— Para quem administra um condomínio"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Obrigatórios em 2024:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Inspeção predial com engenheiro a cada 5 anos (artigos de edifícios com mais de 10 anos)",
+          "Laudo de eficiência energética para edifícios acima de 2.000 m²",
+          "Plano de drenagem de áreas comuns",
+          "Relatório de acessibilidade (rampas, elevadores, sinalização)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"O síndico que não faz a inspeção predial no prazo pode ser autuado — e o condomínio pode ser interditado até regularização.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Documentação necessária: o checklist da LC 416"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de qualquer obra em Navegantes, verifique se você tem os seguintes documentos:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Documento",
+          "Obrigatório?",
+          "Quando"
+        ],
+        "rows": [
+          [
+            "Direcionamento Técnico (ART)",
+            "—S& Sim",
+            "Sempre que houver obra"
+          ],
+          [
+            "Projeto Executivo",
+            "—S& Sim",
+            "Obras acima de R$ 15.000"
+          ],
+          [
+            "Licenciamento Prévio (SUL)",
+            "—S& Sim",
+            "Toda obra que exija alvará"
+          ],
+          [
+            "Plano de Drenagem Sustentável",
+            "—S& Sim",
+            "Obras novas"
+          ],
+          [
+            "Laudo de Impacto Ambiental (PMA)",
+            "—S& Sim",
+            "Áreas de risco"
+          ],
+          [
+            "Certidão de Acessibilidade",
+            "—S& Sim",
+            "Reformas com alteração de acesso"
+          ],
+          [
+            "Laudo de Eficiência Energética (CDT)",
+            "—S& Sim",
+            "Novas construções"
+          ],
+          [
+            "Declaração de Conformidade de Produtos",
+            "—S& Sim",
+            "Materiais de construção"
+          ],
+          [
+            "Memória Descritiva e Orçamento",
+            "—S& Sim",
+            "Toda obra com projeto"
+          ],
+          [
+            "Planta Baixa Atualizada",
+            "—S& Sim",
+            "Qualquer alteração de layout"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Navegantes agora tem um sistema de licenciamento digital. Acesse o portal da prefeitura e faça login com certificado digital ou Gov.br — é a única forma de agilizar.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia ajuda com a LC 416"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Planejar e executar uma obra em Navegantes com a LC 416/2023 exige conhecimento técnico, experiência com a burocracia local e entendimento do contexto litorâneo. Na **Regê Engenharia**, oferecemos soluções integradas:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Serviços para proprietários e síndicos:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—S& **Avaliação legal do imóvel** — verificamos se sua reforma ou construção está em conformidade com a LC 416 —S& **Elaboração de projetos executivos completos** — arquitetura, estrutura, elétrica, hidráulica e drenagem —S& **Acompanhamento de licenciamento no SUL** — entrada e acompanhamento do processo na prefeitura —S& **ART e vistorias técnicas** — garantimos que sua obra esteja 100% legalizada —S& **Projeto de eficiência energética** — redução de consumo e valorização do imóvel —S& **Adequação de acessibilidade** — rampas, elevadores e sinalização conforme NBR 9050 —S& **Proteção contra maresia** — especificações para concreto, esquadrias e tubulações no litoral"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Na Regê Engenharia, não fazemos apenas a obra — fazemos a obra certa, dentro da lei, com os materiais certos e com a garantia de que ela dura.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Timeline para obter licenças e alvarás"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "Documentos",
+          "Prazo Estimado"
+        ],
+        "rows": [
+          [
+            "1. Direcionamento técnico",
+            "ART, planta baixa",
+            "5 dias"
+          ],
+          [
+            "2. Projeto executivo",
+            "Arquitetura, estrutura, elétrica, hidráulica",
+            "15-20 dias"
+          ],
+          [
+            "3. Licenciamento no SUL",
+            "Formulário, projetos, documentos do imóvel",
+            "10 dias"
+          ],
+          [
+            "4. Vistoria de serviço (70%)",
+            "Relatório com fotos, ART",
+            "5 dias"
+          ],
+          [
+            "5. Alvará de habitabilidade",
+            "Relatório final, ART, documentos",
+            "10 dias"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"O segredo é começar com o projeto e o direcionamento técnico certos — o resto é só papel e carimbo.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Onde consultar as regras oficiais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Prefeitura de Navegantes:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—xR— www.navegantes.sc.gov.br",
+          "—x\u001c~ 156 (ouvidoria municipal)",
+          "—x\u001c— Av. Presidente Getúlio Vargas, 555 — Centro"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**CREA-SC (Anotações e ART):**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—xR— www.crea-sc.org.br",
+          "—x\u001c~ 47 3331-8300"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Sistema de Licenciamento —anico (SUL):**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—xR— Portal da Transparência da Prefeitura (seção de obras)",
+          "—x\u001c— licenciamento@navegantes.sc.gov.br"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"A LC 416 está disponível integralmente no Diário Oficial do Município — e é a leitura obrigatória antes de qualquer obra.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A **LC 416/2023** não é um passo atrás — é um passo à frente. Ela traz Navegantes ao patamar de cidades inteligentes e sustentáveis, mas exige que proprietários, síndicos e profissionais saibam exatamente o que está sendo construído, como e por quê."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os pontos-chave que todo proprietário de Navegantes precisa lembrar:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001d— **Qualquer obra acima de R$ 15.000 exige projeto executivo** — não adianta dizer \"vou verificar depois\" —x\u001d— **Reformas que envolvem estrutura, fachada ou instalações precisam de ART e alvará** — o autuador não pergunta se é \"só uma reforma\" —x\u001d— **O limite de R$ 15.000 é real** — e enganoso: muita coisa ultrapassa sem perceber —x\u001d— **No litoral, a maresia exige materiais específicos** — o que é mais caro agora evita o dobro de custo depois —x\u001d— **Acesse o SUL e use o Gov.br** — a burocracia não é inimiga, é etapa"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Construir em Navegantes com a LC 416 não é mais difícil — é mais transparente. Quem planeja com um engenheiro, sai à frente do jogo.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está pensando em reformar, ampliar ou construir em Navegantes, **a equipe da Regê Engenharia está pronta para navegar com você por toda a LC 416**. Oferecemos acompanhamento completo: do diagnóstico inicial ao alvará de habitabilidade, passando por projeto executivo, licenciamento e execução com ART registrada no CREA-SC."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com a nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Navegantes, Balneário Camboriú, Itajaí, Penha e toda a região do litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Principais"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Lei Complementar nº 416/2023 — Código de Obras e Normas Urbanísticas de Navegantes",
+          "CREA-SC —\u001c Conselho Regional de Engenharia e Agronomia de Santa Catarina",
+          "NBR 15575/2021 —\u001c Edificações habitacionais — desempenho",
+          "NBR 5410 —\u001c Instalações elétricas",
+          "NBR 5626 —\u001c Instalações de água fria e quente",
+          "NBR 6118 —\u001c Projeto de estruturas de concreto (classe IV para litoral)",
+          "NBR 9050 —\u001c Acessibilidade",
+          "Prefeitura de Navegantes —\u001c Sistema —anico de Licenciamento (SUL)",
+          "FATMA —\u001c Fundação do Meio Ambiente de Santa Catarina",
+          "Plano Diretor Municipal de Navegantes —\u001c Zoneamento e normas urbanísticas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Próximos Passos para a Sua Obra"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Avaliação jurídica e técnica prévia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Agende uma consulta gratuita com nossa equipe para entender como a LC 416 afeta o seu empreendimento — reforma, ampliação ou nova construção."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Projeto executivo completo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Desenvolvemos o projeto integrado — arquitetura, estrutura, elétrica, hidráulica e drenagem — com especificações para o ambiente litorâneo e conformidade total com a LC 416."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Licenciamento no SUL"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Realizamos todo o processo de licenciamento digital na prefeitura, garantindo que sua obra esteja legalizada desde o primeiro dia."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Na Regê Engenharia, não fazemos apenas obras — fazemos obras que passam pela licença com tranquilidade. Porque no litoral, quem tem engenheiro não tem surpresa.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-02 -->"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "slug": "pericia-judicial",
+  "title": "Perícia Judicial: O Que —0, Como Funciona, Quanto Custa e Quando —0 Necessária",
+  "tag": "PERÍCIA",
+  "image": "/images/construtora.png",
+  "imageAlt": "Engenheiro perito realizando vistoria técnica em imóvel para perícia judicial — registro fotográfico, medições e coleta de evidências para laudo com validade jurídica.",
+  "excerpt": "Perícia judicial é a prova técnica que decide disputas na Justiça: vícios construtivos, danos entre vizinhos, avaliação de imóveis e muito mais. Entenda o que é, como funciona o processo, quem paga, quanto custa e como se preparar para garantir um resultado justo.",
+  "readTime": "10 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando uma disputa na Justiça envolve questões técnicas — um defeito estrutural em um imóvel, danos causados por uma obra vizinha, atraso na entrega de um empreendimento ou a necessidade de avaliar o valor real de um bem — o juiz não decide com base em opiniões ou depoimentos. Ele precisa de prova técnica. E essa prova tem nome: perícia judicial."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia judicial é o instrumento processual que permite ao juiz compreender fatos que exigem conhecimento especializado. Em engenharia civil, ela é frequentemente a peça que decide o resultado de um processo — quem tem razão, quem deve pagar e quanto. Este guia explica, de forma completa e direta, o que é a perícia judicial, como funciona o processo, quem paga, quanto custa, quais são seus direitos e como se preparar para obter um resultado justo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é perícia judicial?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia judicial é uma prova técnica deferida pelo juiz para esclarecer fatos que dependem de conhecimento especializado. Ela é regulada pelo Código de Processo Civil (CPC), nos artigos 464 a 480, e é utilizada quando a resolução do caso exige análise técnica — como em disputas sobre construção civil, engenharia, medicina, contabilidade ou avaliação de bens."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o juiz nomeia um perito (profissional habilitado) para investigar o objeto da disputa, realizar vistorias, coletar evidências e elaborar um laudo técnico que serve de base para a sentença. O perito atua como auxiliar imparcial da Justiça — não representa nenhuma das partes."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "A perícia judicial não é uma opinião: é um documento técnico produzido por profissional habilitado, com metodologia normativa e responsabilidade legal, que embasa a decisão do juiz."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando a perícia judicial é necessária?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia judicial não é automática em todo processo. O juiz só a defere quando a prova do fato depende de conhecimento técnico especializado (art. 464 do CPC). Na engenharia civil, as situações mais comuns incluem:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vícios construtivos — defeitos que aparecem após a entrega da obra, como trincas estruturais, infiltrações, falhas de impermeabilização e problemas de acabamento",
+          "Danos entre vizinhos — prejuízos causados por escavações, obras em terrenos adjacentes, desníveis, infiltrações e vibrações",
+          "Atraso ou inexecução de obra — descumprimento de prazos contratuais, abandono de canteiro e divergências entre projeto e execução",
+          "Avaliação de imóveis — partilhas, inventários, desapropriações, divórcios e execuções que exigem determinação do valor de mercado",
+          "Regularização de construção — ações que envolvem habite-se, averbação e certificação de conformidade com normas técnicas",
+          "Responsabilidade civil por acidentes — colapso estrutural, incêndio, queda de elemento construtivo e outros sinistros que exigem identificação de causa e responsáveis",
+          "Perícia em condomínios — disputas sobre rateio de despesas extraordinárias, reformas autorizadas e danos a áreas comuns"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como funciona o processo pericial: etapas do CPC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A prova pericial é regulada pelo Código de Processo Civil (Lei 13.105/2015). Conhecer as etapas ajuda a entender o que esperar e a não perder prazos importantes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Art. 464 — deferimento da perícia: o juiz defere a prova quando a questão depende de conhecimento técnico; pode indeferir se considerar desnecessária ou impraticável",
+          "Art. 465 — nomeação do perito: o juiz nomeia o profissional, que apresenta proposta de honorários e currículo; as partes podem impugnar",
+          "Art. 466 — quesitos: o juiz e as partes formulam perguntas (quesitos) que o perito deve responder no laudo",
+          "Art. 468 — vistoria: o perito realiza inspeção técnica no local, com registro fotográfico, medições e coleta de evidências",
+          "Art. 470 — auxiliares: o perito pode se utilizar de outros profissionais ou ferramentas para auxiliar na análise",
+          "Art. 473 — laudo pericial: o documento deve conter objeto, análise técnica, método e resposta conclusiva a todos os quesitos",
+          "Art. 476 — manifestação das partes: as partes têm 15 dias para se manifestar sobre o laudo, podendo impugnar ou pedir esclarecimentos",
+          "Art. 480 — nova perícia: se a matéria não estiver suficientemente esclarecida, o juiz pode determinar nova perícia"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além do CPC, a atividade pericial na engenharia é orientada pela ABNT NBR 13752 (Perícias de engenharia na construção civil), que padroniza procedimentos, vistorias e metodologias. A combinação das regras processuais com o rigor normativo é o que dá ao laudo força probatória suficiente para sustentar uma sentença."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perito x Assistente Técnico: entenda a diferença"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na perícia judicial podem atuar dois engenheiros com papéis distintos e complementares:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Perito: nomeado pelo juiz, atua como auxiliar imparcial da Justiça. Seu dever é técnico, não de parte. Ele investiga, vistoria e elabora o laudo que será apresentado ao juiz. Deve ser isento e responder a todos os quesitos com rigor técnico",
+          "Assistente técnico: indicado por cada uma das partes, acompanha a perícia, formula quesitos adicionais, fiscaliza o trabalho do perito e apresenta parecer técnico em defesa dos interesses de quem o contratou. —0 o \"guardião técnico\" da parte no processo"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Na prática, o assistente técnico é peça-chave: ele acompanha as vistorias, pode identificar equívocos no laudo do perito e apresentar impugnações fundamentadas. Um bom assistente técnico muitas vezes evita que um laudo incompleto ou impreciso prejudique a parte — o que reforça a importância de contratar um profissional experiente."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Ter assistente técnico não é opcional — é estratégia. Enquanto o perito responde ao juiz, o assistente protege os interesses da sua parte com rigor técnico."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que um laudo pericial deve conter?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O laudo pericial é a peça central da prova técnica. O art. 473 do CPC exige quatro elementos essenciais:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Exposição do objeto da perícia — descrição clara do que está sendo investigado",
+          "Análise técnica — raciocínio fundamentado, com base em normas, ensaios e evidências coletadas",
+          "Indicação do método — procedimento utilizado, que deve ser aceito pelos especialistas da área",
+          "Resposta conclusiva — resposta direta e fundamentada a todos os quesitos formulados pelo juiz e pelas partes"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além desses elementos, o laudo deve conter: identificação do perito e sua qualificação, descrição do imóvel ou objeto investigado, registro fotográfico, medições, referências normativas, memória de cálculo (quando aplicável) e indicação de eventuais limitações da análise. O documento deve ser escrito em linguagem acessível, pois o juiz precisa compreender sem depender de jargões técnicos."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa a perícia judicial e quem paga?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os honorários do perito são arbitrados pelo juiz, com base na proposta apresentada pelo profissional e na complexidade do trabalho. Fatores que influenciam o valor:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Porte do imóvel — área total, número de ambientes e complexidade da edificação",
+          "Quantidade de quesitos — mais perguntas significam mais trabalho de análise e resposta",
+          "Necessidade de ensaios — testes laboratoriais, termografia, investigação geotécnica e outros ensaios especiais acrescem custo",
+          "Deslocamento e acesso — imóveis em localidades distantes ou de difícil acesso podem ter acréscimo",
+          "Complexidade técnica — casos que envolvem múltiplas disciplinas (estrutural, hidráulica, elétrica) são mais trabalhosos"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em regra, quem requereu a prova pericial adianta os honorários em juízo. Ao final do processo, os custos são distribuídos conforme a sucumbência — quem perder a ação responde pelos custos. Já o assistente técnico é sempre custeado por quem o contratou, independentemente do resultado do processo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Valores de referência para perícias de engenharia civil em 2026:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Perícia em imóvel residencial pequeno (até 150 m²): R$ 3.000 a R$ 8.000",
+          "Perícia em imóvel residencial médio (150 a 400 m²): R$ 5.000 a R$ 15.000",
+          "Perícia em imóvel residencial grande ou comercial (acima de 400 m²): R$ 8.000 a R$ 25.000",
+          "Avaliação de imóvel para partilha/inventário: R$ 2.000 a R$ 6.000",
+          "Assistência técnica (acompanhamento da perícia): R$ 2.000 a R$ 8.000",
+          "Parecer técnico extrajudicial: R$ 1.500 a R$ 5.000"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Seus direitos na perícia judicial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitas pessoas não sabem, mas a legislação garante direitos importantes durante a perícia judicial. Conhecer esses direitos é fundamental para proteger seu patrimônio:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Direito de estar presente: você pode acompanhar a vistoria do perito no imóvel, juntamente com seu advogado e assistente técnico",
+          "Direito de formular quesitos: além dos quesitos do juiz, cada parte pode apresentar perguntas técnicas que devem ser respondidas no laudo",
+          "Direito de impugnar o laudo: após a entrega do laudo, você tem 15 dias para apresentar manifestação técnica, apontar inconsistências e solicitar esclarecimentos",
+          "Direito de pedir nova perícia: se o laudo não estiver suficientemente claro ou apresentar falhas graves, o juiz pode determinar nova perícia (art. 480 do CPC)",
+          "Direito de contratar assistente técnico: você pode indicar um engenheiro para acompanhar a perícia em seu nome, fiscalizar o trabalho do perito e apresentar parecer próprio",
+          "Direito de acesso aos autos: você pode solicitar cópia de todo o laudo e dos documentos que o fundamentam"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como se preparar para a perícia judicial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A preparação é o que separa quem ganha a disputa de quem apenas participa. Veja o que fazer antes, durante e depois da perícia:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Antes da perícia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reúna toda a documentação: contrato de compra ou construção, projeto aprovado, ARTs, fotos antigas do imóvel, correspondências com a construtora ou vizinho, notas fiscais de reparos",
+          "Contrate um assistente técnico experiente: não economize nessa etapa — o assistente é seu principal aliado técnico no processo",
+          "Formule bons quesitos: perguntas claras, objetivas e técnicas que forcem o perito a responder com precisão",
+          "Documente o estado atual: tire fotos com data, grave vídeos e anote detalhes sobre os danos antes da vistoria do perito"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Durante a perícia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Esteja presente ou acompanhe com seu advogado e assistente técnico",
+          "Observe cada etapa da vistoria e registre eventuais inconsistências",
+          "Não tente influenciar o perito: isso pode comprometer sua credibilidade e até resultar em penalidades",
+          "Aponte fatos relevantes que possam passar despercebidos"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Após a perícia"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Analise o laudo com seu assistente técnico: verifique se todos os quesitos foram respondidos e se a metodologia está correta",
+          "Apresente impugnação se necessário: prazo de 15 dias para manifestação (art. 476 do CPC)",
+          "Solicite esclarecimentos: se o laudo estiver confuso ou incompleto, o juiz pode convocar o perito para esclarecer",
+          "Avalie a possibilidade de nova perícia: se houver falhas graves, peça ao juiz nova perícia (art. 480 do CPC)"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns que prejudicam o resultado da perícia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Evitar estes erros pode fazer diferença decisiva no resultado do processo:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Não documentar os danos antes da perícia: fotos antigas e registros são provas fundamentais — sem elas, sua versão perde força",
+          "Contratar assistente técnico inexperiente: um profissional que não conhece patologia das construções ou normas da ABNT compromete sua defesa",
+          "Não formular quesitos: deixar de fazer perguntas é deixar o perito responder apenas o que o juiz perguntou — e isso pode ser insuficiente",
+          "Ignorar o prazo de manifestação: 15 dias para impugnar o laudo passam rápido; perder o prazo significa aceitar o laudo como está",
+          "Tentar influenciar o perito: qualquer tentativa de intimidação ou suborno é crime e compromete todo o processo",
+          "Não comparecer à vistoria: sua ausência pode ser interpretada como desinteresse ou falta de provas"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre perícia judicial"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia judicial é sempre obrigatória em ações envolvendo construção civil? Não. O juiz só defere a perícia quando a prova do fato depende de conhecimento técnico (art. 464 do CPC). Mas em disputas sobre vícios construtivos, patologias e valores, a prova pericial é, na prática, indispensável."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo leva uma perícia judicial? O prazo depende da complexidade, da agenda do perito e do volume de processos da vara. Em média, a vistoria é agendada em 30 a 90 dias, e o laudo é entregue em 30 a 60 dias após a vistoria. Prazos processuais para manifestação das partes vêm depois."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso escolher o perito? Não. O perito é nomeado pelo juiz. Porém, você pode indicar um assistente técnico de sua confiança para acompanhar a perícia e fiscalizar o trabalho do perito."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que acontece se eu discordar do laudo? Você tem 15 dias para apresentar impugnação, apontar inconsistências e pedir esclarecimentos. Se a matéria ainda não estiver clara, o juiz pode determinar nova perícia."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia pode ser feita sem presença das partes? Sim, a vistoria pode ocorrer mesmo sem a presença das partes — mas é recomendável estar presente ou enviar assistente técnico, para garantir que todos os fatos sejam registrados."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A perícia tem prazo de validade? O laudo pericial não tem validade formal, mas reflete o estado do imóvel no momento da vistoria. Se o imóvel sofrer alterações significativas após a perícia, pode ser necessário novo laudo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perícia judicial com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com perícias judiciais, assistência técnica e laudos extrajudiciais em engenharia civil. Nossa equipe combina conhecimento da patologia das construções, domínio das normas da ABNT (NBR 13752, NBR 14653) e experiência na elaboração de documentos técnicos com validade jurídica."
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Perícia judicial como perito nomeado — imparcialidade, rigor técnico e respostas fundamentadas a todos os quesitos",
+          "Assistência técnica — acompanhamento da perícia, formulação de quesitos, análise do laudo e impugnações técnicas",
+          "Laudo extrajudicial — documento técnico para negociação, mediação ou instrução processual, sem necessidade de juiz",
+          "Avaliação de imóveis — determinação de valor de mercado para partilhas, inventários, desapropriações e execuções",
+          "Engenharia diagnóstica — vistorias técnicas, termografia, investigação de patologias e diagnóstico de causas",
+          "ART no CREA-SC para todos os serviços técnicos"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está envolvido em uma disputa judicial que envolve engenharia civil — como proprietário, condômino, construtor ou advogado — entre em contato com a nossa equipe. Analisaremos seu caso e explicaremos, com clareza, o caminho técnico mais seguro para proteger o seu patrimônio."
+      }
+    }
+  ]
+}

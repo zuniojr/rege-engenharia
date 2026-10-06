@@ -1,0 +1,871 @@
+{
+  "slug": "financiamento-obra-acompanhamento-engenharia",
+  "title": "Como Funciona o Financiamento de Obra com Acompanhamento de Engenharia?",
+  "tag": "CUSTOS",
+  "image": "/images/Custo Médio de Construção.png",
+  "imageAlt": "Como Funciona o Financiamento de Obra com Acompanhamento de Engenharia? - artigo técnico da Regê Engenharia sobre custos em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Você sonha com a casa do seu jeito, mas o dinheiro não basta. Entende o papel do Sistema Financeira da Habitação (SFH), que permite financiar a construção ou reformação do imóvel com recursos do.",
+  "readTime": "6 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você sonha com a casa do seu jeito, mas o dinheiro não basta. Entende o papel do **Sistema Financeira da Habitação (SFH)**, que permite financiar a construção ou reformação do imóvel com recursos do **BNDES**, **Caixa Econômica Federal**, **BESC** e outros bancos parceiros. Mas há um detalhe que faz ou quebra o negócio: **a engenharia acompanha cada fase para que o dinheiro liberado vá para onde realmente precisa — e não para um buraco**."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este artigo explica, passo a passo e sem jargões, como funciona o financiamento de obra com acompanhamento de engenharia, quais documentos são exigidos, quanto sai do bolso e por que contramarar o financiamento com um profissional registrado no CREA é a diferença entre construir ou perder tudo."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "1. O que é o financiamento de obra?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 um crédito específico para **construir, reformar, ampliar ou quitar** um imóvel. Diferente do financiamento imobiliário (que paga o preço do imóvel já pronto), o financiamento de obra paga o **custo da obra em andamento** — e o imóprio passa a ser garantia parcial (junto com o imóvel)."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Modalidades principais"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Modalidade",
+          "Público-alvo",
+          "Característica-chave"
+        ],
+        "rows": [
+          [
+            "Minha Casa Minha Vida (MCMV) —\u001c Novo",
+            "Famílias de baixa/ média renda",
+            "Financiamento para construção de casa própria com subsídio"
+          ],
+          [
+            "Sistema Financeira da Habitação (SFH)",
+            "Todos os perfis",
+            "Regulado pela Lei 10.961/2004; inclui SFI, SFHH, SFMB"
+          ],
+          [
+            "BNDES Casa (antiga Casa Verde e Amarela)",
+            "Média/alta renda",
+            "Taxas menores, prazos longos (até 35 anos)"
+          ],
+          [
+            "BESC —\u001c Habitação (SC)",
+            "Residentes em SC",
+            "Linhas estaduais com juros abaixo do mercado"
+          ],
+          [
+            "Financiamento bancário privado",
+            "Média/alta renda",
+            "Menos burocrado, mas juros acima do SFH"
+          ],
+          [
+            "Consórcio de construção/ reforma",
+            "Todos os perfis",
+            "Conta de agiotagem + rateio (sem juros)"
+          ],
+          [
+            "Pente-fino (SFI)",
+            "Famílias de baixa renda",
+            "Subsídio para quitar financiamento anterior"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "No litoral de Navegantes, a Caixa Econômica Federal e o BESC atendem diretamente a região. A presença de um engenheiro registrado no CREA-SC na fiscalização da obra acelera a liberação de recursos — os bancos liberam parcelas etapas sempre que há documento técnico validando o andamento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "2. Como o dinheiro segue: o modelo etapa por etapa"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O financiamento de obra é desbloqueado **por etapas**. Cada parcela liberada exige comprovação técnica de que o andamento está correto. —0 aí que o engenheiro entra como **fiscal e validador**."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Cronograma de liberação de recursos (modelo Caixa/BESC)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "% do valor liberado",
+          "O que o engenheiro valida",
+          "Documentação exigida"
+        ],
+        "rows": [
+          [
+            "1. Fundação",
+            "15%",
+            "Sondagem, capacidade de carga, tipo de fundação",
+            "ART fundação + fotografias + declaração de conclusão"
+          ],
+          [
+            "2. Estrutura (coberto/molde)",
+            "25%",
+            "Concretagem, armadura, fck, cura",
+            "Memória de cálculo + Atestado de resistência (cyl. 28 dias)"
+          ],
+          [
+            "3. Alvenaria / divisórias",
+            "15%",
+            "Paredes, esquadrias, enrolamentos",
+            "Atestado de densidade + fotografias"
+          ],
+          [
+            "4. Instalações (hidro, elétrica)",
+            "15%",
+            "Tubulação, fiação, aterramento",
+            "Testes de estanqueidade + ensaio de continuidade"
+          ],
+          [
+            "5. Impermeabilização / telhado",
+            "10%",
+            "Vedação, drenos, calhas",
+            "Teste hidrostático + fotografias detalhadas"
+          ],
+          [
+            "6. Acabamento",
+            "15%",
+            "Pisos, revestimentos, portas, gaveteiros",
+            "Checklist de acabamento + limpeza"
+          ],
+          [
+            "7. Recebimento / Habite-se",
+            "5% (saldo final)",
+            "Conformidade total + laudos finais",
+            "ART conclusão + habite-se + manual do cliente"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Cada parcela liberada sem validação técnica correta pode financiar um erro estrutural. O que parece um \"economia\" de R$ 200 mil pode virar uma dívida sem garantia — e sem saber onde seu dinheiro foi parar."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "3. Documentação mínima exigida pelo banco (com acompanhamento de engenharia)"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Documento",
+          "Quem emite",
+          "Validado por engenheiro?"
+        ],
+        "rows": [
+          [
+            "Projeto estrutural completo",
+            "Eng. Civil (CREA)",
+            "Sim"
+          ],
+          [
+            "ART de execução da obra",
+            "Eng. Civil / Técnico (CREA)",
+            "Sim (obrigatório)"
+          ],
+          [
+            "Memória de cálculo de fundações",
+            "Eng. Civil",
+            "Sim"
+          ],
+          [
+            "Atestados de resistência de concreto",
+            "Laboratório credenciado",
+            "Sim (recomendado)"
+          ],
+          [
+            "Fotografias diárias da obra",
+            "Engenheiro / empreiteiro",
+            "Sim (obrigatório)"
+          ],
+          [
+            "Testes de instalações (água, elétrica)",
+            "Eng. Eletricista / Sanitarista",
+            "Sim"
+          ],
+          [
+            "Termo de recebimento do imóvel",
+            "Partes + engenheiro",
+            "Sim (recomendado)"
+          ],
+          [
+            "Manual de uso, operação e manutenção (NBR 14037)",
+            "Eng. Civil",
+            "Sim"
+          ],
+          [
+            "Declaração de conclusção de etapas",
+            "Eng. Civil (ART)",
+            "Sim"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Sem os documentos acima, nenhum banco libera recursos. A ausência de ART ou projeto invalida o financiamento — e pode gerar multas por obra irregular."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "4. Onde a engenharia protege o financiamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O engenheiro não acompanha a obra por regra municipal: ele **garante que cada centavo financiado resulta em valor real**."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4.1. Validação de materiais"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Risco sem engenharia",
+          "Como o engenheiro previne",
+          "Custo da prevenção",
+          "Custo da falha"
+        ],
+        "rows": [
+          [
+            "Cimento sem registro",
+            "Laudo de ensaio + ART",
+            "R$ 1.500",
+            "R$ 50.000+ (reforço)"
+          ],
+          [
+            "Aço com diâmetro falso",
+            "Análise de ferragem + teste dinâmico",
+            "R$ 3.000",
+            "R$ 200.000+ (laje reforçada)"
+          ],
+          [
+            "Tubos de água sem pressão",
+            "Teste hidrostático",
+            "R$ 800",
+            "R$ 25.000 (reparo paredão)"
+          ],
+          [
+            "Fiação com bitola errada",
+            "Dimensionamento + seletividade",
+            "R$ 5.000",
+            "R$ 100.000+ (incêndio)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4.2. Controle de custos reais vs. planejado"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Valor planejado",
+          "Valor real (sem engenharia)",
+          "Diferença"
+        ],
+        "rows": [
+          [
+            "Fundação",
+            "R$ 18.000",
+            "R$ 45.000",
+            "+150%"
+          ],
+          [
+            "Estrutura de lajes",
+            "R$ 60.000",
+            "R$ 95.000",
+            "+58%"
+          ],
+          [
+            "Instalações elétricas",
+            "R$ 20.000",
+            "R$ 35.000",
+            "+75%"
+          ],
+          [
+            "Acabamento completo",
+            "R$ 120.000",
+            "R$ 180.000",
+            "+50%"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "O engenheiro entrega quantitativos atualizados, ordem de compra planejada e curva S física-financeira — evitando que o financiamento fique curto no meio da obra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "5. Caso prático: financiamento + engenharia na prática"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso 1: Casa única em Navegantes com recursos do BESC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Perfil:** Família de R$ 18k renda, construção de 120 m², orçamento total R$ 360.000."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Banco (BESC)",
+          "Engenheiro (Regê Engenharia)"
+        ],
+        "rows": [
+          [
+            "Financiamento liberado",
+            "R$ 250.000 (70%)",
+            "Supervisiona 7 etapas"
+          ],
+          [
+            "Entrada do cliente",
+            "R$ 110.000 (30%)",
+            "Orçamento real validado"
+          ],
+          [
+            "Juros anuais",
+            "5,3% (BESC)",
+            "Poupança de retrabalho"
+          ],
+          [
+            "Prazo",
+            "30 anos",
+            "Obra concluída em 14 meses"
+          ],
+          [
+            "Resultado",
+            "Habite-se emitido",
+            "Sem multa, sem vício estrutural"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Aprendizado:** 30% de entrada + 70% financiado = obra completa sem dívida pós-entrega. O acompanhamento de engenharia evitou **4 retrabalhos** que teriam ultrapassado o saldo financiado."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Caso 2: Ampliação com recursos do BNDES"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Perfil:** Família quer ampliar casa em Itajaí (água de maresia + freático elevado)."
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Com engenharia",
+          "Sem engenharia"
+        ],
+        "rows": [
+          [
+            "Projeto estrutural",
+            "ART + cálculo sísmico/vento",
+            "\"De olho\", sem projeto"
+          ],
+          [
+            "Fundação",
+            "Sondagem + estacas",
+            "Sapata convencional"
+          ],
+          [
+            "Liberdade bancária",
+            "BNDES aprova integralmente",
+            "Banco libera mas exige \"garantia adicional\""
+          ],
+          [
+            "Resultado",
+            "Aprovação em 15 dias",
+            "Rejeitado por insegurança técnica"
+          ],
+          [
+            "Custo efetivo",
+            "R$ 185.000",
+            "R$ 210.000 (banco + correção)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Sem um projeto técnico completo, o banco recusa o financiamento mesmo que a renda seja compatível. A engenharia é o documento que garante a confiabilidade do investimento."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "6. Como montar o orçamento sem o dinheiro sumir?"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Categoria",
+          "% sobre o orçamento",
+          "Observação do engenheiro"
+        ],
+        "rows": [
+          [
+            "Terreno",
+            "30—\u001c40%",
+            "Verificar escritura, matrícula, IPTU, condição de alienação"
+          ],
+          [
+            "Estrutura + fundações",
+            "30—\u001c35%",
+            "Sondagem obrigatória antes; custo maior em áreas de maresia"
+          ],
+          [
+            "Instalações (água, elétrica, esgoto)",
+            "15—\u001c20%",
+            "Testes preventivos evitam retrabalho"
+          ],
+          [
+            "Acabamento",
+            "20—\u001c25%",
+            "Escolher fornecedores validados reduz risco de falsificação"
+          ],
+          [
+            "Contingência (10%)",
+            "Mínimo 10%",
+            "Margem para imprevistos não detectados"
+          ],
+          [
+            "Taxas e emissões",
+            "3—\u001c5%",
+            "ITBI, alvará, licença, ART"
+          ],
+          [
+            "Acompanhamento técnico",
+            "2—\u001c3%",
+            "Honorário do engenheiro = prevenção de perdas maiores"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Regra de ouro: Reserve 3—\u001c5% do orçamento para o engenheiro. Ele representa menos de 1% do financiamento, mas pode evitar perdas de 15% a 30% em retrabalho."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "7. Checklist: financiamento liberado, mas sem engenharia? Veja estes riscos"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Situação",
+          "Risco",
+          "Como o engenheiro resolve"
+        ],
+        "rows": [
+          [
+            "O banco liberou recursos sem validar obra",
+            "Dinheiro para obra parada ou desaparecida",
+            "Controle de obra diário + fotografias certificadas"
+          ],
+          [
+            "O financiamento foi rejeitado",
+            "Documentos incompletos",
+            "Reunião de documentação + ART + projeto validado"
+          ],
+          [
+            "A obra está atrasada",
+            "Multa de aditivamento bancário",
+            "Cronograma atualizado e validado pelo engenheiro"
+          ],
+          [
+            "O imóvel não recebe habite-se",
+            "Falta de laudo de conclusão",
+            "Laudo + ART + teste de instalações finalizados"
+          ],
+          [
+            "O Banco exige \"garantia adicional\"",
+            "Ausência de documentação técnica",
+            "ART individualizada + plano de execução validado"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "8. Quanto paga o engenheiro no financiamento de obra?"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Serviço",
+          "Valor estimado",
+          "Quando é liberado"
+        ],
+        "rows": [
+          [
+            "Projeto estrutural completo",
+            "R$ 8.000 —\u001c R$ 25.000",
+            "Na fase de financiamento"
+          ],
+          [
+            "ART de execução",
+            "R$ 300 —\u001c R$ 800",
+            "Antes da fundação"
+          ],
+          [
+            "Acompanhamento semanal de obra (visitas + relatórios)",
+            "R$ 1.500 —\u001c R$ 3.500/mês",
+            "Mensalmente até a conclusão"
+          ],
+          [
+            "Laudo de conclusão + habite-se",
+            "Incluso no pacote",
+            "Na última etapa"
+          ],
+          [
+            "Teste de instalações (água, elétrica)",
+            "R$ 2.000 —\u001c R$ 5.000",
+            "Por instalação"
+          ],
+          [
+            "Atestado de resistência de concreto",
+            "R$ 800 —\u001c R$ 2.500",
+            "Por lote/cilindro"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Total estimado: 2% a 3% do valor do financiamento. Em um financiamento de R$ 250.000, o custo do engenheiro fica entre R$ 5.000 e R$ 7.500 — e ele garante que os R$ 242.500 restantes vão para onde devem."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "9. Perguntas Frequentes"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Posso financiar a obra direto com o empreiteiro sem engenheiro?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não.** Bancos exigem **ART de execução e projeto técnico validado** antes de liberar recursos. Sem isso, o financiamento é recusado — e se aprovado, o imóvel pode ser **embargado** por irregularidade."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O financiamento libera por etapas? Como garantir que o dinheiro não some?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim — a liberação é sempre condicionada a **comprovação física** (fotos + relatório do engenheiro). O profissional emite **ART de cada fase** e acompanha a execução para comprovar que os valores bancários vão para a obra e não para contas paralelas."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Preciso pagar o engenheiro todo mês ou só no fim?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Você pode negociar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Parcelado (R$ 2.000/mês de acompanhamento + R$ 300 ART)",
+          "ì vista (desconto de 10—\u001c15% no valor total)",
+          "Sócio-técnico (participação no lucro da obra, se for empreendimento)"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O ideal é **ART + acompanhamento mensal**, mesmo que o financiamento seja liberado etapeamente."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"O engenheiro libera as parcelas do banco?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Não.** O engenheiro **valida a conclusão da etapa** — o banco libera os recursos. Mas sem o documento técnico (ART + relatório + fotos), **o banco não libera nada**."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"E se a obra não for concluída com o financiamento todo?\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O saldo do financiamento pode ser **convertido em empréstimo pessoal** (se houver margem) ou **amortizado** — mas você continua com a obra parada. O engenheiro pode ajuizar **ação de cumpra** para exigir a conclusão, mas o ideal é **evitar**."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "\"Quanto tempo dura o financiamento de obra?\""
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "BESC / Caixa: até 360 meses (30 anos)",
+          "BNDES Casa: até 360 meses (30 anos)",
+          "Financiamento privado: 180 a 360 meses"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Em Navegantes, o BESC costuma financiar em até 360 meses com juros de 5,3% a.a. — abaixo de 70% do SPC e Simples Nacional."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "10. Como o engenheiro acompanha o financiamento na prática"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Documentos entregues a cada etapa"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Etapa",
+          "Entrega do engenheiro",
+          "Acompanhamento bancário"
+        ],
+        "rows": [
+          [
+            "Fundação",
+            "ART fundação + relatório + fotos",
+            "Liberação 15%"
+          ],
+          [
+            "Estrutura",
+            "Memória de cálculo + Atestado CYL",
+            "Liberação 25%"
+          ],
+          [
+            "Alvenaria",
+            "Fotografias + Checklist",
+            "Liberação 15%"
+          ],
+          [
+            "Instalações",
+            "Testes + ART de instalação",
+            "Liberação 15%"
+          ],
+          [
+            "Impermeabilização",
+            "Teste hidrostático",
+            "Liberação 10%"
+          ],
+          [
+            "Acabamento",
+            "Checklist + fotos finais",
+            "Liberação 15%"
+          ],
+          [
+            "Recebimento",
+            "ART conclusão + habite-se",
+            "Liberação 5% (saldo)"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Todo documento é assinado digitalmente com CAR (Certidão de Auto Regulação) — protocolo do CREA-SC que garante autenticidade e validade jurídica."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "11. Conclusão: o financiamento não é \"dinheiro bom\" — é responsabilidade técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Financiar a obra do seu imóvel no litoral de Navegantes — ou em qualquer lugar do Brasil — parece simples. Mas o **acesso ao crédito implica obrigações técnicas** que nem sempre são cumpridas por quem \"faz obra barata\"."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando você financia uma obra **com acompanhamento de engenharia registrada no CREA**, está garantindo que:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "—S& O dinheiro liberdado pelo banco vai para a obra e não para fora",
+          "—S& A documentação exigida pelo financiador está completa",
+          "—S& As etapas críticas (fundação, estrutura, instalações) são validadas por profissional com responsabilidade legal",
+          "—S& O imóvel recebe habite-se sem surpresas",
+          "—S& A garantia do financiamento protege seu investimento contra vícios ocultos"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Sem engenheiro, o financiamento é um vazio. Com engenheiro, é a chave do seu sonho construído com segurança, legalidade e valor garantido."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral de Navegantes, onde o **solo arenoso, maresia e freático elevado** exigem atenção técnica, o acompanhamento de engenharia não é um \"luxo opcional\" — é **a condição para o banco liberar recursos e para o imóvel valer o investimento**."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Legais e Técnicas"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Lei 10.961/2004 — Sistema Financeira da Habitação (SFH)",
+          "Lei 8.9.311/2004 (CONFEA) — Regulamentação da responsabilidade técnica (ART)",
+          "Resolução CONFEA nº 1.025/2009 — Normas para emissão de ART",
+          "Lei Complementar 416/2023 — Código de Obras do Município de Navegantes",
+          "Resolução Banco Central 4.014/2012 — Diretrizes para financiamento de construção",
+          "Normas ABNT aplicáveis: NBR 6118 (estruturas), NBR 5410 (elétrica), NBR 5626 (hidráulica), NBR 9050 (acessibilidade), NBR 14037 (manual de uso)",
+          "Banco do Estado de Santa Catarina (BESC) — Linhas de crédito para habitação",
+          "Caixa Econômica Federal — Programa Minha Casa Minha Vida e financiamento de obras",
+          "BNDES Casa — Linhas de financiamento para construção e reforma",
+          "CREA-SC — Validação de profissionais e ARTs em todo o litoral catarinense"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com o escritório:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Navegantes e todo o litoral norte de SC"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "*Artigo técnico informativo. Para simulações de financiamento e validação de documentos, consulte um engenheiro civil registrado no CREA-SC. As taxas de juros e condições de financiamento podem variar conforme política monetária e disponibilidade bancária.*"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-05 -->"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1015 @@
+{
+  "slug": "reformas-meia-praia-sc-solucoes-para-casas-de-praia",
+  "title": "Reformas Meia Praia SC: Soluções para Casas de Praia",
+  "tag": "REFORMAS",
+  "image": "/images/engenheiro-economiza-dinheiro.png",
+  "imageAlt": "Reformas Meia Praia SC: Soluções para Casas de Praia - artigo técnico da Regê Engenharia sobre reformas em Navegantes e Litoral Norte de SC.",
+  "excerpt": "Meia Praia, em Santa Catarina, é uma das praias mais icônicas do litoral — com águas calmas, areias finas e uma paisagem que atrai moradores do interior e turistas o ano todo.",
+  "readTime": "12 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Introdução"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Meia Praia, em Santa Catarina, é uma das praias mais icônicas do litoral — com águas calmas, areias finas e uma paisagem que atrai moradores do interior e turistas o ano todo. Mas quem vive ou compra uma casa de praia aqui sabe: a beleza do entorno vem com desafios técnicos específicos. Entreção de maresia, areinha fina, umidade constante e ciclos de molhagem e secagem exigem soluções de construção e reforma que vão muito além da estética."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Reformar uma casa de praia em Meia Praia não é a mesma coisa que reformar uma casa no interior. Materiais que duram 20 anos em São José dos Campos podem precisar de troca em 3 anos à beira-mar. Um piso de cerâmica comum vira escorregadio com a areinha. Uma fechadura de aço simplesmente enferruja. A questão não é luxo — é **sobrevivência estrutural**."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Casa de praia é sonho, mas exige engenharia. Quem constrói sem pensar na maresia paga duas vezes: uma com a reforma, outra com o conserto.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Neste artigo, você vai entender:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Por que casas de praia demandam soluções técnicas diferentes do interior",
+          "Os 7 maiores desafios de reforma em Meia Praia SC",
+          "Como planejar uma reforma que dure no ambiente salino",
+          "Materiais e técnicas aprovados para casas de praia",
+          "Quanto custa uma reforma de verdade no litoral",
+          "O papel essencial do engenheiro na reforma de casa de praia"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que reformar uma casa de praia é diferente?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O ambiente salino muda tudo"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O ar marinho carrega partículas de cloreto de sódio — o que os engenheiros chamam de **salitre**. Esse sal, combinado com umidade e vento, age como um sabão líquido sobre os materiais. Método de corrosão que destrói aço, alumínio e até o concreto em poucos anos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Meia Praia, a classificação da NBR 6118 para agressividade ambiental é **Classe IV** — a mais severa do padrão brasileiro. Isso significa:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cobrimento mínimo de armaduras: 60mm (vs. 40mm no interior)",
+          "Concreto com resistência mínima: C30 (vs. C25 no interior)",
+          "Materiais de fixação: aço inox A2/A4 obrigatório"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que mais exige atenção?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Além do salitre, casas de praia enfrentam:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Fator",
+          "Impacto",
+          "Consequência na reforma"
+        ],
+        "rows": [
+          [
+            "Areinha fina",
+            "Entra por janelas, portas, esquadrias",
+            "Desgaste de pisos, entupimento de drenos"
+          ],
+          [
+            "Umidade constante",
+            "70%+ de umidade relativa no ar",
+            "Infiltrações, mofo, descasoamento de tintas"
+          ],
+          [
+            "Ciclos de aquecimento/resfriamento",
+            "Dilatação térmica constante",
+            "Fissuras, descolamento de revestimentos"
+          ],
+          [
+            "Ventos fortes (cação)",
+            "Agitação de estruturas leves",
+            "Desprendimento de telhas, quebra de vidros"
+          ],
+          [
+            "Turistas/temporada",
+            "Uso intensivo em períodos curtos",
+            "Desgaste acelerado de portas, fechaduras, pisos"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O custo do erro"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral, um erro de material ou técnica custa muito mais do que no interior. Veja o que acontece quando você usa materiais de baixa resistência à maresia:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Materia errado",
+          "Durabilidade no litoral",
+          "Custo de reposição"
+        ],
+        "rows": [
+          [
+            "Pintura convencional em fachada",
+            "1-2 anos",
+            "R$ 8.000"
+          ],
+          [
+            "Esquadria de PVC comum",
+            "3-5 anos",
+            "R$ 12.000"
+          ],
+          [
+            "Fixação em aço carbono",
+            "6 meses - 2 anos",
+            "R$ 3.000"
+          ],
+          [
+            "Pisos de cerâmica comum externo",
+            "2-4 anos",
+            "R$ 6.000"
+          ],
+          [
+            "Tubulação em PVC comum",
+            "2-3 anos",
+            "R$ 5.000"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Reforma barata no litoral vira desgaste rápido. Reforma certa dura 20 anos e paga por si mesma.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os 7 maiores desafios de reforma em Meia Praia SC"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Proteção contra a maresia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O problema:** A casa de praia respira salitre 24 horas por dia. Janelas abertas, portas fechadas, mas o sal entra por tudo — porosidades, juntas, microfissuras."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Solução técnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fechamento hermético de esquadrias — esquadrias de alumínio termopanela com vedação dupla e selo de borracha EPDM",
+          "Sistema de proteção solar externo — toldos ou persianas cromadas que bloqueiem a entrada direta de ar marinho",
+          "Revestimento de fachada com aditivo marinho — tinta elastomer ou tinta epóxi específica para ambientes Classe IV",
+          "Proteção de metais expostos — todas as fixações em aço inox A2/A4, incluindo parafusos, dobradiças e fechaduras"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, o segredo não é só usar material bom — é usar material certo para o ambiente. Aço inox A2 não é luxo; é requisito técnico.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Drenagem e água de ángua"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O problema:** A areinha fina da praia tende a entupir sistemas de drenagem. Além diso, o solo arenoso em Meia Praia tem drenagem rápida — o que soa bom, mas pode causar liquefação em casos extremos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Solução técnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sistema de drenagem em aço inox ou DUCTPEX — evita corrosão e entupimento",
+          "Filtros de areia em calhas e ralos — previne entrada de areinha fina",
+          "Cobertura de garagem com drenagem integrada — canaletas em aço inox com protetor de resina",
+          "Piso permeável em áreas externas — permite infiltração e evita acúmulo de água parada"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Iluminação e ventilação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O problema:** As casas de praia são frequentemente fechadas por meses, e a umidade + salitre corroem lâmpadas, comutadores e estruturas internas."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Solução técnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Sistema de iluminação IP65 em áreas externas — lâmpadas de LED com classe de proteção contra poeira e água",
+          "Comutadores e dimmers em aço inox — evita oxidação e manutenção constante",
+          "Revestimento de tubos de luz com tubo de PVC termoplástico — protege contra corrosão por cloretos",
+          "Automatização de luzes com sensor de presença — reduz uso e permite controle remoto via app (útil para proprietários que não moram no local)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Pisos e revestimentos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O problema:** Areinha fina + umidade = pisos escorregados, desgastados e descascados. O clássico \"piso de-madeira\" ou \"piso de cerâmica lisa\" na varanda vira uma trilha de obstáculos em 2 anos."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Solução técnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pisos antideslizantes em áreas molhadas — porcelanato com textura antideslizante ou deck de ipê tratado",
+          "Sistema de fixação de piso elevado com dreno — permite ventilação e evita acúmulo de umidade por baixo",
+          "Revestimento de parede até o teto — evita que o sal entre por microfissuras na interface parede-piso",
+          "Juntas de dilatação comvedradas — evita transmissão de fissuras por dilatação térmica"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Estrutura e fundação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O problema:** Solo arenoso e próximo ao nível do mar = risco de assentamento e liquefação. A casa de praia precisa de fundação que aguento o movimento do solo e o peso da umidade."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Solução técnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Fundação em sapata ou baldrame em aço inox A4 — evita corrosão de armaduras em contato com o solo",
+          "Geotêxtil e drenagem perimetral — protege a estrutura contra entrada de água e areinha",
+          "Análise geotécnica prévia — essencial em Meia Praia, onde o solo varia muito de um lote a outro",
+          "Monitoramento de assentamento — especialmente em casas construídas há mais de 15 anos"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6. Projeto estético e funcional"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O problema:** Casa de praia é sinônimo de simplicidade, mas também de conforto. O visitante não quer \"casa de pedra\", quer \"casa de praia\". Acertos no projeto:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Solução técnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Varanda com piso em deck de ipê ou porcelanato antideslizante — combina estética com segurança",
+          "Fechamento de varanda com telhado inclinado — protege contra chuva direta e vento lateral",
+          "Sistema debruijdado para cabelo de vidro — dá privacidade sem perder a vista do mar",
+          "Protetores de janela em aço inox — evita entrada de areinha e protege vidros de impactos"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "7. Legalização e aprovação na prefeitura"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**O problema:** Em Meia Praia, que é área de orla e APP, qualquer reforma precisa passar pela Prefeitura de Florianópolis. As regras são rígidas — e muitos proprietários não sabem disso."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "**Solução técnica:**"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Licença de reforma antes de qualquer obra — obrigatório para reformas que alterem estrutura, fachada ou instalações",
+          "ART (Anotação de Responsabilidade Técnica) — emitida por engenheiro registrado no CREAS-CSC",
+          "Projeto executivo aprovado — com especificações de materiais adequados para ambiente salino",
+          "Alvará de habitabilidade ou reforma — após a conclusão da obra"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Reforma de casa de praia sem licença na prefeitura vira multa, embargo e dificuldade de venda. A papelada não é burocracia — é proteção.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como planejar uma reforma de casa de praia em Meia Praia SC"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Passo 1: Vistoria técnica com engenheiro especializado em litoral"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de qualquer decisão de material ou projeto, **a vistoria técnica é o primeiro passo**. Um engenheiro que entende de litoral vai identificar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Grau de corrosão das armaduras visíveis",
+          "Estado das esquadrias e fechaduras",
+          "Condições do piso e revestimentos",
+          "Risco de infiltração e umidade",
+          "Necessidade de fundação ou reforço estrutural",
+          "Adequação legal (licenças, ART, alvará)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, a vistoria do engenheiro não é custo — é diagnóstico. E diagnosticar antes de remediar economiza 70% do orçamento.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Passo 2: Definição do escopo e orçamento realista"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Use a regra do **80/20** no litoral:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "80% do orçamento — \u0019 estrutura, impermeabilização, instalações, fechamento, fundação",
+          "20% do orçamento — \u0019 acabamento, mobiliário, decoração"
+        ]
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de reforma",
+          "Escopo típico",
+          "Investimento médio em Meia Praia"
+        ],
+        "rows": [
+          [
+            "Reformas estruturais e fechamento",
+            "Fundamentos, laje, esquadrias, piso",
+            "R$ 35.000 —\u001c R$ 65.000"
+          ],
+          [
+            "Reformas de pequeno porte",
+            "Reparos, troca de fechaduras, pisos",
+            "R$ 8.000 —\u001c R$ 20.000"
+          ],
+          [
+            "Reformas completas",
+            "Tudo + acabamento premium",
+            "R$ 80.000 —\u001c R$ 150.000"
+          ],
+          [
+            "Reformas de fachada e proteção",
+            "Reboco, pintura, telhado, calhas",
+            "R$ 18.000 —\u001c R$ 35.000"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Passo 3: Obtenção das licenças e documentação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Em Meia Praia, o processo na prefeitura inclui:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "Requerimento de licença de reforma — com planta baixa e projeto executivo",
+          "ART (Anotação de Responsabilidade Técnica) — emitida pelo engenheiro no CREAS",
+          "Aprovação do projeto — pela secretaria de urbanismo",
+          "Alvará de início de obra",
+          "Alvará de habitabilidade / Termo de Reforma — ao final"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, a reforma não começa com o pedreiro — começa com o engenheiro e a prefeitura.\""
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Passo 4: Escolha de materiais certos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando se reúne com fornecedores em Meia Praia, pergunte sempre: **\"Esse material é indicado para ambiente salino?\"**. A lista de materiais recomendados:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Aplicação",
+          "Material certo",
+          "Material a evitar"
+        ],
+        "rows": [
+          [
+            "Fixações externas",
+            "Aço inox A2/A4",
+            "Aço carbono comum"
+          ],
+          [
+            "Esquadrias",
+            "Alumínio termopanela com vedação dupla",
+            "PVC comum, madeira não tratada"
+          ],
+          [
+            "Pisos externos",
+            "Porcelanato antideslizante, deck de ipê",
+            "Cerâmica lisa, parquet sem proteção"
+          ],
+          [
+            "Pintura externa",
+            "Elastomer marinho + aditivo cloretos",
+            "Pintura convencional"
+          ],
+          [
+            "Tubulação",
+            "PPR ou inox 316",
+            "PVC comum"
+          ],
+          [
+            "Calhas e ralos",
+            "Aço inox",
+            "PVC ou polietilina comum"
+          ],
+          [
+            "Materiais de jardim",
+            "Madeira tratada, pedra natural",
+            "Madeira comum, material plástico"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Timeline de uma reforma de casa de praia"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "60 dias antes — Planejamento e licenciamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Vistoria técnica com engenheiro",
+          "Definição do escopo da reforma",
+          "Obtenção da licença na prefeitura",
+          "Contratação da equipe (com experiência em litoral)",
+          "Compra de materiais (com lead time para itens especiais)"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "30 dias antes — Reformas estruturais e fechamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Reformas estruturais (fundação, laje, paredes)",
+          "Instalação de esquadrias de alumínio termopanela",
+          "Sistema de drenagem e calhas em aço inox",
+          "Impermeabilização com membrana EPDM"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "15 dias antes — Instalações e revestimentos"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Instalação elétrica e tubulação",
+          "Revestimento de paredes (até o teto, com argamassa anti-salitre)",
+          "Piso de áreas externas (antideslizante)",
+          "Sistema de iluminação IP65"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "7 dias antes — Acabamento e proteção"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Pintura final com tinta marinha",
+          "Instalação de mobiliário planejado",
+          "Proteção solar em janelas e varanda",
+          "Testes de todas as instalações"
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1 dia antes — Finalização e certificação"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Limpeza profunda (com produtos específicos para remoção de salitre)",
+          "Inspeção final com engenheiro",
+          "Alvará de habitabilidade",
+          "Reunião de passo a passo com o novo dono (se houver)"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, quem planeja termina a reforma antes da temporada de verão. Quem improvisa, paga o preço no verão seguinte.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa uma reforma de casa de praia em Meia Praia SC?"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Custo por metro quadrado"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Tipo de reforma",
+          "Custo por m² em Meia Praia",
+          "Observações"
+        ],
+        "rows": [
+          [
+            "Reforma estrutural básica",
+            "R$ 1.800 —\u001c R$ 2.500",
+            "Fundação, paredes, instalações"
+          ],
+          [
+            "Reforma de médio porte",
+            "R$ 2.500 —\u001c R$ 4.000",
+            "Inclui fechamento e pisos"
+          ],
+          [
+            "Reforma premium",
+            "R$ 4.000 —\u001c R$ 6.000",
+            "Materiais de alta durabilidade e design"
+          ],
+          [
+            "Reforma de fachada",
+            "R$ 1.500 —\u001c R$ 2.800",
+            "Reboco, pintura, telhado"
+          ],
+          [
+            "Reforma de varanda",
+            "R$ 2.000 —\u001c R$ 3.500",
+            "Deck, piso, fechamento, proteção solar"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Onde investir e onde economizar"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Onde investir:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Investimento",
+          "Por que vale a pena"
+        ],
+        "rows": [
+          [
+            "Esquadrias de alumínio termopanela",
+            "R$ 8.000 —\u001c R$ 15.000",
+            "Durabilidade de 25+ anos no litoral"
+          ],
+          [
+            "Sistema de drenagem em aço inox",
+            "R$ 4.000 —\u001c R$ 7.000",
+            "Evita entupimento e corrosão"
+          ],
+          [
+            "Pisos antideslizantes em áreas externas",
+            "R$ 6.000 —\u001c R$ 10.000",
+            "Segurança e durabilidade"
+          ],
+          [
+            "Impermeabilização EPDM",
+            "R$ 5.000 —\u001c R$ 8.000",
+            "Evita infiltração = R$ 20.000+ de conserto"
+          ],
+          [
+            "Tubulação PPR ou inox 316",
+            "R$ 3.000 —\u001c R$ 6.000",
+            "—anica troca que pode ser necessária em 20 anos"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Onde economizar:"
+      }
+    },
+    {
+      "discriminant": "table",
+      "value": {
+        "headers": [
+          "Item",
+          "Não invista em",
+          "Invista em alternativa"
+        ],
+        "rows": [
+          [
+            "Eletrodomésticos ultra-premium",
+            "R$ 15.000",
+            "Eletrodomésticos de R$ 4.000 —\u001c R$ 6.000 fazem o mesmo"
+          ],
+          [
+            "Decoração temática",
+            "R$ 10.000",
+            "Decoração neutra e versátil"
+          ],
+          [
+            "Piso de madeira natural em áreas molhadas",
+            "R$ 12.000",
+            "Deck de ipê ou porcelanato antideslizante"
+          ],
+          [
+            "Sistema de som premium",
+            "R$ 8.000",
+            "Sistema de R$ 2.500 faz a mesma função"
+          ]
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, o segredo é investir em estrutura e proteção — e economizar em eletrodomésticos. O comprador lembra do primeiro, e esquece do segundo.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O papel do engenheiro na reforma de casa de praia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral, o engenheiro não é luxo — é **garantia de que a reforma dura, não apenas bonita**. A Regê Engenharia, com atuação em Meia Praia, Florianópolis e todo o litoral catarinense, oferece serviços integrados para reformas que valorizam:"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Serviços essenciais do engenheiro:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—S& **Vistoria prévia** — identifica problemas estruturais e de corrosão antes de qualquer obra —S& **Projeto executivo** — com materiais e técnicas específicas para ambiente salino —S& **Acompanhamento de obra** — supervisão técnica em todas as fases, com foco em durabilidade —S& **ART e alvarás** — documentação legal completa, obrigatória para reformas em área de orla —S& **Inspeção final** — certificação de qualidade e segurança"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, quem reforma sem engenheiro é como navegar sem bússola — você vai a algum lugar, mas não sabe se é o lugar certo.\""
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist final: 15 pontos para não errar a reforma"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de dar o primeiro dia de obra, confira esta lista:"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "—S& Vistoria estrutural com engenheiro especializado em litoral",
+          "—S& Projeto executivo com especificações de materiais para ambiente salino",
+          "—S& Licença de obra na Prefeitura de Florianópolis",
+          "—S& MATRÍCULA DO IM—\u001cVEL atualizada",
+          "—S& Materiais especificados para ambiente marinho (cloretos, UV)",
+          "—S& Instalação elétrica e tubulação com 100% de infraestrutura nova",
+          "—S& Impermeabilização de laje e áreas molhadas com membrana EPDM",
+          "—S& Esquadrias de alumínio termopanela com vedação dupla",
+          "—S& Sistema de drenagem e calhas em aço inox",
+          "—S& Iluminação com LED IP65 e controle inteligente",
+          "—S& Materiais com garantia mínima de 10 anos",
+          "—S& Previsão de manutenção preventiva no contrato",
+          "—S& Cronograma realista (não prometedor)",
+          "—S& Orçamento com 15% de contingência",
+          "—S& Alvará de habitabilidade ou reforma"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Conclusão"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Reformar uma casa de praia em Meia Praia não é sobre gastar mais — é sobre **gastar certo, com materiais certos, no momento certo, com o olhar técnico certo**. No litoral, onde a maresia transforma o tempo de vida útil dos materiais e onde a percepção de valor é tão importante quanto o valor real, a reforma que parece barata pode ser a mais cara — e a que parece cara pode ser a mais barata."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os princípios que unem todas as decisões inteligentes:"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001d— **Invista em estrutura, instalações e proteção contra a maresia — primeiro** —x\u001d— **Use materiais específicos para ambiente salino — não improvise** —x\u001d— **Legalize tudo — licença, ART, alvará — não arrisque o imóvel** —x\u001d— **Planeje para terminar antes da temporada de verão** —x\u001d— **Contrate engenheiro que conheça o litoral — não é custo, é investimento garantido**"
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"No litoral, quem reforma sem planejamento paga duas vezes: uma hoje com a reforma, e outra daqui a dois anos com o conserto. Quem planeja, paga uma vez — e a casa dura.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está planejando uma reforma de casa de praia em Meia Praia, Florianópolis, Palhoça ou toda a região do litoral de SC e quer **maximizar a durabilidade e o valor do seu imóvel**, a equipe da **Regê Engenharia** está pronta para garantir que cada centavo da sua reforma renderá mais — hoje e por muitos anos no litoral."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—x\u001c~ **Fale com a nossa equipe técnica:** [https://bitlybr.net/rege](https://bitlybr.net/rege) —x\u001c— **E-mail:** contato@rege-engenharia.com.br —x\u001c— **Atendemos:** Meia Praia, Florianópolis, Palhoça, Biguaçu e toda a região do litoral de SC"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Referências Principais"
+      }
+    },
+    {
+      "discriminant": "orderedList",
+      "value": {
+        "items": [
+          "CREAS —\u001c Conselho Regional de Engenharia e Agronomia de Santa Catarina",
+          "NBR 5410 —\u001c Instalações elétricas de baixa e média tensão",
+          "NBR 6118 —\u001c Projeto de estruturas de concreto — classe de agressividade ambiental",
+          "NBR 15575 —\u001c Edificações habitacionais — desempenho de edificações",
+          "NBR 9575 e NBR 9574 —\u001c Impermeabilização e proteção complementar de lajes",
+          "NBR 16189 —\u001c Esquadrias de madeira — requisitos e ensaios",
+          "Prefeitura de Florianópolis —\u001c Código de obras e licenciamento municipal",
+          "IBAMA —\u001c Zoneamento ecológico marinho e áreas de proteção",
+          "Correção Imobiliária Nacional (CIN) —\u001c Relatórios de valorização por região"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Próximos Passos para a Sua Reforma"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Avaliação estrutural prévia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Agende uma vistoria técnica com nossa equipe para identificar pontos críticos, estimar o escopo da reforma e definir o orçamento realista."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Projeto executivo e licenciamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Desenvolvemos o projeto completo com materiais específicos para o litoral e ajudamos na obtenção de todas as licenças da Prefeitura de Florianópolis."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Execução sob supervisão técnica"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nossa equipe acompanha todas as fases da obra, garantindo qualidade, prazo e legalidade — com ART registrada no CREAS-SC."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "\"Na Regê Engenharia, reformamos casas de praia com o olhar de quem entende o salitre. Porque no litoral, não se refaz — se se projeta para durar.\""
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "<!-- Updated: 2026-08-03 -->"
+      }
+    }
+  ]
+}

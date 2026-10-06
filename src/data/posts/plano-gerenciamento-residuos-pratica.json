@@ -1,0 +1,285 @@
+{
+  "slug": "plano-gerenciamento-residuos-pratica",
+  "title": "Plano de Gerenciamento de Resíduos na Prática: Como Implantar o Gerenciamento no Canteiro da Sua Obra",
+  "tag": "AMBIENTAL",
+  "image": "/images/construtora.png",
+  "imageAlt": "Implantação prática do plano de gerenciamento de resíduos no canteiro de obra — caçambas segregadas e identificadas por classe de resíduo, equipe treinada na triagem e engenheiro conferindo a destinação do entulho.",
+  "excerpt": "Plano engavetado não protege ninguém — o que vale é o gerenciamento rodando no canteiro. Veja como implantar na prática: triagem na fonte, layout de caçambas, rotação programada, transporte e destinação comprovada, custos reais e os erros de campo que anulam o plano. Guia voltado a obras pequenas, reformas e canteiros no litoral de Santa Catarina.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Existe uma distância enorme entre o plano de gerenciamento de resíduos impresso e o gerenciamento acontecendo de verdade no canteiro. O primeiro fica numa pasta esperando fiscalização; o segundo organiza caçambas, treina pedreiro, programa remoção e transforma entulho em economia. E há um detalhe que muita obra pequena ignora: mesmo quando a legislação não exige o plano formal — reservado aos grandes geradores —, a responsabilidade pela destinação correta do resíduo alcança qualquer obra, da reforma de um banheiro à demolição de um galpão."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia é o lado prático do tema: mostra como o gerenciamento funciona no dia a dia do canteiro, quais são as quatro classes de resíduo e seus destinos, como montar o layout de segregação, como contratar transportador e receptor sem cair em golpe, quanto custa na prática, quais erros de campo anulam o plano e o que muda em obras no litoral de Santa Catarina."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Plano é documento, gerenciamento é rotina"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O plano de gerenciamento de resíduos é o documento técnico que descreve quanto resíduo a obra vai gerar e como cada fração será segregada, armazenada, transportada e destinada. O gerenciamento é esse documento vivo na rotina: a caçamba certa no lugar certo, a equipe separando sem precisar de ordem repetida, o caminhão chegando no dia combinado e o certificado de destinação arquivado. Um sem o outro não funciona — documento sem rotina é fachada, rotina sem documento é risco jurídico."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Fiscalização não pergunta se você tem plano: pergunta onde está o resíduo de ontem — e pede o papel que prove."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "As quatro classes de resíduo em dois minutos"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Todo o gerenciamento gira em torno da classificação da Resolução CONAMA 307/2002 — porque é a classe que define o destino:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Classe A — concreto, argamassa, tijolo, bloco, telha e solo: recicláveis como agregado em usina ou reúso controlado no próprio terreno",
+          "Classe B — plástico, papelão, metal, vidro e madeira: recicláveis vendáveis para cooperativas e recicladores licenciados",
+          "Classe C — gesso e afins: sem reciclagem viável consolidada; segregar sempre e destinar conforme orientação do órgão ambiental",
+          "Classe D — tintas, solventes, óleos, mantas e amianto: perigosos; exigem embalagem fechada e identificada, transportador licenciado e receptor autorizado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Passo a passo: o gerenciamento rodando no canteiro"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "1. Dimensione compras e proteja materiais"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A gestão começa antes do primeiro resíduo existir. Compra dimensionada evita sobra; estocagem protegida de chuva e sol evita perda de argamassa, cimento e madeira. Cada saco de cimento endurecido é resíduo pago duas vezes: na compra e no descarte."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "2. Monte o layout de segregação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Defina desde o início onde ficam as caçambas ou baias: alvenaria num container, madeira noutra, metais e embalagens em baias separadas, perigosos em espaço coberto e fechado. Identifique tudo com placas simples e coloridas — quem trabalha no canteiro precisa decidir em dois segundos onde jogar cada sobra. Baias pequenas e numerosas funcionam melhor que uma caçamba única: mistura fica visível na hora."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "3. Treine a equipe de forma curta e constante"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não precisa de palestra: precisa de dez minutos no início da obra explicando as cores, um cartaz na entrada e reforço semanal no diálogo da equipe. A triagem falha quando o operário tem pressa e dúvida ao mesmo tempo — rotina clara resolve os dois."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "4. Programe a rotação das caçambas"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Caçamba cheia parada vira convite ao descarte errado: alguém joga o que não devia em cima e contamina o lote inteiro. Alinhe a rotação com as etapas — demolição gera Classe A em volume, instalação gera sobras de tubo e fio, pintura gera Classe D — e mantenha o intervalo entre coletas curto o bastante para nada transbordar."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "5. Contrate transporte e destinação com verificação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de fechar com qualquer empresa, confira três coisas: cadastro do transportador na prefeitura (para caçamba estacionária), licença ambiental vigente do receptor de cada classe e endereço real do destino. Preço muito abaixo do mercado é sinal clássico de bota-fora clandestino — e a responsabilidade solidária chega no gerador, não no intermediário que desaparece."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "6. Arquive cada comprovação"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nota da coleta, pesagem do receptor, certificado de destinação, MTR quando exigido, fotos das caçambas segregadas e do material carregado. Uma pasta física ou digital organizada por data resolve qualquer fiscalização em cinco minutos — e é exatamente essa pasta que falta quando a autuação acontece."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quanto custa na prática"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Os valores variam por município, volume e classe, mas as relações econômicas se repetem em quase todo canteiro bem administrado:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caçamba estacionária — contratada por viagem, com preço ligado ao volume e à distância do receptor; rotação planejada reduz o número de viagens",
+          "Usina de reciclagem versus aterro — destinar Classe A para reciclagem costuma sair mais barato que aterro, além de ser o destino ambientalmente correto",
+          "Classe B como receita — metal limpo, papelão e madeira recuperada podem ser vendidos, compensando parte das remoções",
+          "Mistura como multiplicador de custo — reciclável contaminado com perigoso deixa de ter valor e passa a pagar tarifa de destinação especial, a mais cara da tabela",
+          "Multas e TACs — o descarte irregular é, de longe, o cenário mais caro possível: multa, remoção emergencial do passivo e obra parada"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Segregação custa atenção. Mistura custa dinheiro — todos os meses, em todas as viagens de caçamba."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Checklist rápido do responsável pela obra"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caçambas e baias identificadas por classe, com acesso livre para carregamento",
+          "Perigosos em local coberto, fechado e fora do alcance de crianças e chuva",
+          "Gesso separado desde a demolição ou reforma — nunca misturado ao entulho bruto",
+          "Transportador com cadastro municipal ativo e receptor com licença vigente conferida",
+          "Rotação de coletas alinhada ao cronograma físico da obra",
+          "Equipe orientada sobre onde descartar cada sobra — e reforço semanal na rotina",
+          "Pasta de destinação atualizada: notas, pesos, certificados e fotos por remessa",
+          "Relatório final pronto para apresentar à prefeitura quando solicitado"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros de campo que anulam qualquer plano"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O plano cai por terra nos detalhes operacionais. Os deslizes mais frequentes:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Caçamba mista — latinha de tinta jogada junto com alvenaria contamina o lote inteiro e inviabiliza a reciclagem",
+          "Embalagem vazia tratada como inofensiva — restos de tinta, resina e solvente são Classe D mesmo vazios, por resíduo aderido",
+          "Gesso no meio do entulho — poucos quilos bastam para comprometer uma carga inteira de reciclagem",
+          "Queimar sobra de madeira e embalagem — além da infração ambiental, gera fumaça tóxica e risco real de incêndio no canteiro",
+          "Bota-fora no lote vizinho ou na beira do canal — o crime ambiental é do dono do resíduo, mesmo que o carroça tenha feito o serviço",
+          "Caçamba esquecida na rua além do prazo permitido — infração de posturas e alvo fácil de descarte clandestino de terceiros"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Litoral Norte de SC: ajustes práticos no gerenciamento"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Chuva frequente — cobertura sobre perigosos e sobre baias finas não é luxo: água de chuva lavando resíduo arrasta contaminante para o solo e para o canal",
+          "Ruas estreitas de balneário — caçamba grande não cabe; o layout prevê containers menores com rotação mais frequente",
+          "Temporada de verão — janelas de coleta mais curtas e ruas movimentadas pedem horários alternativos de remoção",
+          "Solo arenoso e lençol alto — reúso de Classe A como aterro no próprio lote exige critério geotécnico, senão compromete fundação e drenagem",
+          "Fiscalização ativa de posturas — manguezal, canal e orla tornam denúncia de bota-fora rápida e autuação imediata"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre a implantação na prática"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Minha obra é pequena, preciso disso tudo? Da estrutura completa com plano formal, não necessariamente — a exigência documental mira grandes geradores. Mas da destinação correta, sim: toda obra responde pelo resíduo que gera. Um mini-gerenciamento — três caçambas identificadas, transportador cadastrado e pasta de notas — resolve a maior parte dos casos residenciais."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quanto tempo a caçamba pode ficar na rua? Depende do código de posturas de cada município — geralmente poucos dias úteis, mediante cadastro e taxa. Prazo vencido dá multa, e caçamba abandonada vira ponto de descarte irregular de terceiros, cujo prejuízo chega a quem a contratou."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Posso reaproveitar a sobra de concreto e tijolo como aterro no quintal? Classe A permite reúso controlado no próprio terreno, mas em solo arenoso com lençol alto — padrão do litoral — isso mexe com drenagem e fundações. Avaliação técnica define altura, compactação e limites antes de virar aterro."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O que fazer com porta, azulejo e móvel velho em bom estado? Doação e reúso são o primeiro degrau da hierarquia: cooperativas, ferramentas sociais e até vizinhos absorvem material aproveitável — reduz volume destinado e tem impacto social positivo."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o motorista sumir com meu entulho, quem paga a multa? O gerador. A responsabilidade é solidária até a destinação final — por isso a verificação de cadastro, licença e destino antes de contratar, e o arquivo dos comprovantes, são a defesa real do dono da obra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Gerenciamento de resíduos na prática com a Regê Engenharia"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia coloca o gerenciamento de resíduos para funcionar no chão do canteiro em Navegantes e em todo o Litoral Norte catarinense: desenho do layout de segregação, definição de caçambas e baias por etapa, treinamento da equipe, seleção e verificação de transportadores e destinadores licenciados, rotina de comprovação documental e ART registrada no CREA-SC. Atendemos desde reformas residenciais até canteiros industriais — sempre com foco em conformidade comprovável e custo sob controle. Fale com nossa equipe e transforme o entulho da sua obra em processo organizado, barato e sem risco de fiscalização."
+      }
+    }
+  ]
+}

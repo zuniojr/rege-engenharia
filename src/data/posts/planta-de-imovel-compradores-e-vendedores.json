@@ -1,0 +1,392 @@
+{
+  "slug": "planta-de-imovel-compradores-e-vendedores",
+  "title": "Planta de Imóvel: O Que Compradores e Vendedores Precisam Saber Antes de Fechar o Negócio",
+  "tag": "ENGENHARIA",
+  "image": "/images/projeto-arquitetonico.avif",
+  "imageAlt": "Planta de imóvel residencial sendo analisada por comprador e vendedor durante negociação imobiliária em Navegantes SC, com projeto arquitetônico sobre a mesa.",
+  "excerpt": "A planta de imóvel não serve só para construir: é a ferramenta que define valor, revela problemas e protege compradores e vendedores. Entenda como ler, interpretar e usar a planta na compra, venda e regularização de imóveis em Navegantes.",
+  "readTime": "11 min de leitura",
+  "featured": false,
+  "content": [
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Quando alguém compra ou vende um imóvel, a conversa costuma girar em torno de preço, localização e documentação. Mas há um documento que raramente recebe a atenção que merece — e que pode mudar completamente o valor de um negócio: a planta de imóvel. Uma planta bem feita revela o que o olho não vê — metros quadrados reais, áreas de circulação desperdiçadas, cômodos sem ventilação e ampliações que não constam da matrícula. Já uma planta ausente ou incorreta esconde problemas que só aparecem depois da compra, quando o custo de corrigi-los já é do comprador."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Este guia explica o que é a planta de imóvel, por que ela é decisiva em transações imobiliárias, como compradores e vendedores devem interpretá-la e o que verificar antes de fechar o negócio — com foco na realidade de Navegantes e do litoral catarinense, onde o mercado imobiliário acelerado gera transações com pressa e, muitas vezes, sem a devida atenção técnica."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que é a planta de imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A planta de imóvel é a representação técnica da edificação vista de cima, como se um corte horizontal imaginário passasse pela edificação na altura dos olhos. Ela mostra a distribuição dos ambientes, as dimensões, as paredes, as esquadrias (portas e janelas), a circulação e, quando executada por profissional habilitado, as áreas de cada cômodo e a área total construída. Não se trata de um desenho artístico: é um documento técnico que serve de base para aprovação, construção, regularização e, fundamentalmente, para definir o valor de um imóvel."
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No contexto de compra e venda, a planta de imóvel ganha um papel duplo: para o vendedor, é a ferramenta que documenta exatamente o que está sendo vendido; para o comprador, é o filtro que revela se o que está sendo oferecido corresponde ao que foi contratado."
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Uma planta de imóvel não é \"desenho bonito para a parede\": é o documento que define se o preço faz sentido — e se o comprador está levando exatamente o que pagou."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Por que a planta importa em uma transação imobiliária"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Muitas negociações imobiliárias são conduzidas com base em \"medidas aproximadas\", \"área do terreno\" e \"sensação de espaço\". A planta de imóvel substitui a impressão por dados concretos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Área real versus área anunciada — a planta com cotas permite verificar se os metros quadrados anunciados correspondem ao que efetivamente existe",
+          "Distribuição dos ambientes — a planta revela se o layout é funcional, se há cômodos sem ventilação ou iluminação natural, e se a circulação é eficiente",
+          "Ampliações não documentadas — a planta pode indicar áreas construídas que não constam do projeto original, sinalizando irregularidade",
+          "Potencial de reforma — a planta mostra o que pode ser modificado, ampliado ou otimizado sem comprometer a estrutura",
+          "Comparação entre imóveis — ter plantas de dois imóveis permite comparar dimensões reais, áreas úteis e custo por metro quadrado de forma objetiva",
+          "Negociação embasada — a planta oferece dados técnicos que sustentam a proposta de compra ou venda, eliminando subjetividade"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Os diferentes tipos de planta e quando cada um importa"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Nem toda planta serve para o mesmo propósito. Na compra e venda, os tipos mais relevantes são:"
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Planta de projeto (aprovada pela Prefeitura)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 a planta que foi submetida e aprovada pela Prefeitura de Navegantes. Ela representa o que foi autorizado para construção — e, teoricamente, o que deveria existir. Para o comprador, ela é o ponto de partida: qualquer divergência entre o que a planta mostra e o que o imóvel realmente tem pode indicar irregularidade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Planta as-built (de situação)"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "—0 a planta que mede a edificação como ela realmente está, independentemente do que foi aprovado. Essa é a planta mais importante para o comprador: ela revela a realidade do imóvel. Se o as-built diverge da planta aprovada, há irregularidade que precisa ser regularizada antes — ou durante — a transação."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Planta de situação do terreno"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Mostra a posição da edificação no terreno, os recuos, as áreas de preservação e a relação com as vias e limites do lote. —0 essencial para verificar se a construção respeita as normas de zoneamento e se não há invasão de APP ou de faixa de domínio."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Planta para financiamento"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Bancos exigem projeto aprovado e planta baixa para liberar crédito imobiliário. Sem esses documentos, o comprador não consegue financiar — e o vendedor perde potenciais compradores."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o comprador deve verificar na planta"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Antes de fechar a compra, o comprador deve fazer uma análise técnica da planta. Os pontos de atenção:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Cotas e dimensões — verifique se as medidas são consistentes e se a soma dos ambientes bate com a área total declarada",
+          "Área útil versus área total — a área útil (o que realmente pode ser mobiliado) costuma ser menor que a área total (que inclui paredes e circulação). Imóvel com área útil pequena em relação à total é menos valioso",
+          "Ventilação e iluminação — cômodo sem janela (banheiro, despensa, circulação) pode gerar problemas de umidade e mofo, especialmente no litoral",
+          "Orientação solar — a planta deve indicar a orientação norte. Ambientes que recebem sol da manhã (norte/nordeste) são mais valorizados",
+          "Circulação desperdiçada — corredores longos e escadas que ocupam área sem função reduzem o aproveitamento do imóvel",
+          "Pontos de instalação — a planta deve indicar onde ficam banheiros, cozinha e área de serviço, pois a mudança desses pontos é cara e, muitas vezes, inviável"
+        ]
+      }
+    },
+    {
+      "discriminant": "quote",
+      "value": {
+        "text": "Um cômodo de 12 m² com corredor de 3 m² e banheiro de 2 m² não tem 12 m² úteis. A planta é o único documento que revela isso antes da compra."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "O que o vendedor deve ter pronto"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Um vendedor que apresenta a planta do imóvel transmite credibilidade e agiliza a negociação. Os documentos que devem estar disponíveis:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Planta aprovada pela Prefeitura — comdata de aprovação e protocolo, se disponível",
+          "Habite-se — o Certificado de Conclusão que atesta que a obra está regular perante o município",
+          "Matrícula atualizada — que inclua a averbação da construção",
+          "Planta as-built (se houver divergências) — documento que mostra a situação real da edificação",
+          "ART do projeto — a Anotação de Responsabilidade Técnica que vincula o profissional ao projeto",
+          "Quadro de áreas — detalhamento da área de cada ambiente e da área total construída"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Imóvel sem esses documentos gera desconfiança no comprador, trava o financiamento e reduz o preço de venda. Regularizar antes de vender é sempre mais vantajoso que negociar com desconto por irregularidade."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Erros comuns que a planta revela"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Analisar a planta antes da compra pode evitar problemas que só apareceriam depois. Os erros mais comuns que uma leitura técnica identifica:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Ampliação sem aprovação — área construída que não consta da planta aprovada, indicando irregularidade",
+          "Área total incompatível — soma dos ambientes que não bate com a área declarada, sugerindo erro de medição ou fraude",
+          "Cômodos sem ventilação natural — banheiros e circulações sem janela, comum em projetos mal elaborados",
+          "Circulação excessiva — mais de 15% da área total ocupada por corredores e escadas, desperdiçando espaço",
+          "Banheiro encostado na parede da cozinha — configuração que gera risco de contaminação e é desvalorizada pelo mercado",
+          "Varanda com área irregular — varandas fechadas que ampliam a área útil mas podem não estar averbadas",
+          "Falta de closet ou depósito — imóvel de alto padrão sem espaços de armazenamento planejados"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a planta afeta o valor do imóvel"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor de um imóvel não é determinado apenas por localização e metragem. A planta influencia diretamente o preço de mercado:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Área útil alta — imóvel com boa distribuição (pouca circulação, cômodos bem dimensionados) vale mais por metro quadrado",
+          "Layout funcional — cozinha proxima à sala, suíte com closet, lavanderia com áreas de sol e sombra são diferenciais que valorizam",
+          "Potencial de ampliação — planta que mostra possibilidade de expansão (terreno com área ociosa, estrutura preparada) atrai compradores",
+          "Regularização completa — imóvel com planta aprovada, habite-se e averbação vale de 20% a 35% mais que o equivalente irregular",
+          "Custo de adequação — se a planta revela problemas que exigem reforma, o comprador deve descontar o custo da adequação na proposta",
+          "Comparação objetiva — ter plantas de imóveis semelhantes permite comparar valor real por metro quadrado, eliminando a subjetividade"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Planta de imóvel no litoral de Santa Catarina"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "No litoral catarinense — Navegantes, Itajaí, Balneário Camboriú, Penha — a planta de imóvel ganha variáveis regionais que compradores e vendedores devem considerar:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Maresia e durabilidade — a planta deve indicar especificações de materiais resistentes à corrosão costeira, o que afeta o custo de construção e manutenção",
+          "Áreas de preservação — imóveis próximos a manguezais e rios podem ter restrições de APP que a planta de situação deve evidenciar",
+          "Verticalização — imóveis em edifícios de maior porte exigem planta que demonstre conformidade com gabarito e taxa de ocupação",
+          "Mercado de temporada — imóveis para aluguel por temporada valorizam quando a planta mostra funcionabilidade (cozinha completa, área de lazer, vagas)",
+          "Pressão por espaço — em áreas valorizadas como a orla, a planta revela se o imóvel aproveita bem cada metro ou se há desperdício de área"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Quando contratar um profissional para analisar a planta"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A análise técnica da planta não é obrigatoriedade legal, mas é altamente recomendável nos seguintes casos:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Compra de imóvel alto valor — a análise identifica problemas que podem custar mais que o próprio serviço técnico",
+          "Imóvel com ampliações — verificar se as ampliações são regulares e se a estrutura suporta o acréscimo",
+          "Imóvel antigo — construções de décadas atrás podem ter desconformidades com a legislação atual",
+          "Financiamento pendente — o banco pode exigir planta técnica atualizada para liberar o crédito",
+          "Negociação entre herdeiros — a planta define áreas exatas para divisão justa de patrimônio",
+          "Investimento imobiliário — compradores de imóveis para locação precisam saber a área útil real para calcular retorno"
+        ]
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Perguntas frequentes sobre planta de imóvel"
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A planta de imóvel é obrigatória para venda?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Não legalmente, mas na prática sim. Imóvel sem planta técnica dificilmente consegue financiamento, e o comprador desconfia da falta de documentação. Ter a planta agiliza e valoriza a transação."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Posso confiar na planta que o vendedor me mostra?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Cautela. A planta pode estar desatualizada, omitir ampliações ou conter medições incorretas. O ideal é solicitar a planta aprovada pela Prefeitura e comparar com o as-built — ou contratar um profissional para fazer a verificação."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "O que fazer se a planta não bate com o imóvel?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se o as-built diverge da planta aprovada, há irregularidade. O comprador deve avaliar se a regularização é viável e qual o custo, antes de fechar o negócio. A divergência pode ser usada comoargumento para redução de preço."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "Quanto custa uma planta técnica de imóvel?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "O valor varia com o porte do imóvel, a complexidade do levantamento e se há necessidade de regularização. Para imóveis residenciais simples, o custo é acessível e se paga na negociação — seja na economia de problemas ou na valorização do patrimônio."
+      }
+    },
+    {
+      "discriminant": "subheading",
+      "value": {
+        "text": "A Regê Engenharia pode analisar a planta antes da minha compra?"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Sim. A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com análise técnica de plantas, levantamento as-built e assessoria para compradores e vendedores. Fale com nossa equipe antes de fechar o negócio — a análise inicial pode evitar anos de dor de cabeça."
+      }
+    },
+    {
+      "discriminant": "heading",
+      "value": {
+        "text": "Como a Regê Engenharia apoia compradores e vendedores"
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "A Regê Engenharia atua em Navegantes e em todo o litoral catarinense com serviços de análise técnica de imóveis, levantamento as-built e assessoria em transações imobiliárias. Nossa equipe:"
+      }
+    },
+    {
+      "discriminant": "list",
+      "value": {
+        "items": [
+          "Analisa a planta técnica do imóvel — verifica dimensões, áreas e conformidade com a legislação",
+          "Realiza o levantamento as-built — mede a construção real e compara com a documentação existente",
+          "Identifica irregularidades antes da compra — ampliações não aprovadas, áreas divergentes e pendências documentais",
+          "Emite laudo técnico para negociação — documento que embasa a proposta de compra ou venda com dados concretos",
+          "Assiste na regularização — se a planta revela irregularidades, conduzimos o processo de adequação junto à Prefeitura",
+          "Emite ART no CREA-SC em todas as etapas — responsabilidade formal documentada"
+        ]
+      }
+    },
+    {
+      "discriminant": "paragraph",
+      "value": {
+        "text": "Se você está comprando ou vendendo um imóvel em Navegantes, fale com a equipe da Regê Engenharia antes de fechar. Uma análise técnica da planta pode economizar muito mais do que o custo do serviço — e garantir que o negócio seja justo, seguro e regular."
+      }
+    }
+  ]
+}
