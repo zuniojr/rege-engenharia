@@ -41,12 +41,13 @@ export const POST: APIRoute = async ({ request }) => {
       );
     }
 
-    // Clean filename
+    // Sanitize filename
     const originalName = file.name || 'image.png';
     const extension = path.extname(originalName).toLowerCase();
     const cleanBaseName = path.basename(originalName, extension)
       .toLowerCase()
-      .replace(/[^a-z0-9-_]/g, '-');
+      .replace(/[^a-z0-9-_]/g, '-')
+      .slice(0, 60); // limit length
     const timestamp = Date.now();
     const safeFileName = `${cleanBaseName}-${timestamp}${extension}`;
     const relativeFilePath = `public/images/${safeFileName}`;
@@ -55,48 +56,58 @@ export const POST: APIRoute = async ({ request }) => {
     const arrayBuffer = await file.arrayBuffer();
     const buffer = Buffer.from(arrayBuffer);
 
-    // 1. Local environment
+    // ── Ambiente LOCAL (dev) ─────────────────────────────────────────────────
     if (isLocalEnvironment()) {
-      const destination = path.resolve(process.cwd(), relativeFilePath);
-      await fs.writeFile(destination, buffer);
-      return new Response(
-        JSON.stringify({
-          success: true,
-          url: publicUrl,
-          message: 'Imagem enviada e salva com sucesso!',
-        }),
-        { status: 200, headers: { 'Content-Type': 'application/json' } }
-      );
+      try {
+        const destination = path.resolve(process.cwd(), relativeFilePath);
+        await fs.mkdir(path.dirname(destination), { recursive: true });
+        await fs.writeFile(destination, buffer);
+        return new Response(
+          JSON.stringify({
+            success: true,
+            url: publicUrl,
+            message: 'Imagem salva localmente com sucesso!',
+          }),
+          { status: 200, headers: { 'Content-Type': 'application/json' } }
+        );
+      } catch (fsErr: any) {
+        return new Response(
+          JSON.stringify({ success: false, message: `Erro ao salvar imagem localmente: ${fsErr.message}` }),
+          { status: 500, headers: { 'Content-Type': 'application/json' } }
+        );
+      }
     }
 
-    // 2. Production (GitHub API)
+    // ── Produção (Vercel) — obrigatório usar GitHub API ─────────────────────
     const token = process.env.GITHUB_TOKEN;
     if (!token) {
-      // Fallback
-      const destination = path.resolve(process.cwd(), relativeFilePath);
-      await fs.writeFile(destination, buffer);
       return new Response(
         JSON.stringify({
-          success: true,
-          url: publicUrl,
-          message: 'Imagem salva em disco temporário (GITHUB_TOKEN não configurado).',
+          success: false,
+          message:
+            'GITHUB_TOKEN não configurado. Para fazer upload de imagens em produção, adicione a variável de ambiente GITHUB_TOKEN nas configurações da Vercel (Settings → Environment Variables).',
         }),
-        { status: 200, headers: { 'Content-Type': 'application/json' } }
+        { status: 503, headers: { 'Content-Type': 'application/json' } }
       );
     }
 
+    // Upload via GitHub Contents API
     const githubUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${relativeFilePath}`;
     const body = {
       message: `chore(media): upload da imagem ${safeFileName} via Admin Visual`,
       content: buffer.toString('base64'),
       branch: DEFAULT_BRANCH,
+      committer: {
+        name: 'Regê Admin Visual',
+        email: 'admin@regeengenharia.com.br',
+      },
     };
 
     const res = await fetch(githubUrl, {
       method: 'PUT',
       headers: {
-        'Authorization': `Bearer ${token}`,
-        'Accept': 'application/vnd.github.v3+json',
+        Authorization: `Bearer ${token}`,
+        Accept: 'application/vnd.github.v3+json',
         'Content-Type': 'application/json',
         'User-Agent': 'Rege-Admin-Visual',
       },
@@ -106,22 +117,30 @@ export const POST: APIRoute = async ({ request }) => {
     if (!res.ok) {
       const errorData = await res.json().catch(() => ({ message: res.statusText }));
       return new Response(
-        JSON.stringify({ success: false, message: `Erro ao enviar imagem ao GitHub: ${errorData.message}` }),
+        JSON.stringify({
+          success: false,
+          message: `Erro ao enviar imagem ao GitHub (${res.status}): ${errorData.message || res.statusText}`,
+        }),
         { status: 500, headers: { 'Content-Type': 'application/json' } }
       );
+    }
+
+    // Trigger Vercel deploy if hook is configured
+    if (process.env.VERCEL_DEPLOY_HOOK) {
+      fetch(process.env.VERCEL_DEPLOY_HOOK, { method: 'POST' }).catch(() => {});
     }
 
     return new Response(
       JSON.stringify({
         success: true,
         url: publicUrl,
-        message: 'Imagem enviada ao repositório GitHub com sucesso!',
+        message: 'Imagem enviada ao repositório GitHub com sucesso! O deploy iniciará em instantes.',
       }),
       { status: 200, headers: { 'Content-Type': 'application/json' } }
     );
   } catch (err: any) {
     return new Response(
-      JSON.stringify({ success: false, message: `Erro ao processar upload: ${err.message}` }),
+      JSON.stringify({ success: false, message: `Erro inesperado no upload: ${err.message}` }),
       { status: 500, headers: { 'Content-Type': 'application/json' } }
     );
   }

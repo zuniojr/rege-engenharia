@@ -291,9 +291,12 @@ const allTags = Array.from(new Set(blogPosts.map(p => p?.tag).filter(Boolean)));
       </div>
     </div>
 
-    <!-- TOASTER DE SUCESSO -->
-    <div id="blog-toast" class="blog-toast" style="display: none;">
+    <!-- TOASTER DE MENSAGENS -->
+    <div id="blog-toast" class="blog-toast blog-toast-success" style="display: none;">
       <span id="blog-toast-msg">Artigo salvo com sucesso!</span>
+    </div>
+    <div id="blog-toast-error" class="blog-toast blog-toast-error" style="display: none;">
+      <span id="blog-toast-error-msg">Ocorreu um erro.</span>
     </div>
   </div>
 )}
@@ -749,14 +752,23 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
   right: 24px;
   background: #0D1624;
   color: #fff;
-  border: 1px solid #C9A84C;
   border-radius: 8px;
   padding: 0.8rem 1.4rem;
   font-size: 0.9rem;
   font-weight: 600;
   box-shadow: 0 10px 25px rgba(0,0,0,0.5);
   z-index: 100001;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  animation: toastSlideIn 0.3s ease;
 }
+@keyframes toastSlideIn {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.blog-toast-success { border: 1px solid #C9A84C; }
+.blog-toast-error { border: 1px solid #ef4444; background: #1a0a0a; }
 
 @media (max-width: 900px) {
   .blog-featured-post { grid-template-columns: 1fr; gap: 0; }
@@ -840,14 +852,23 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
 
   const toast = document.getElementById('blog-toast');
   const toastMsg = document.getElementById('blog-toast-msg');
+  const toastError = document.getElementById('blog-toast-error');
+  const toastErrorMsg = document.getElementById('blog-toast-error-msg');
 
   let currentPostData = null;
 
   function showToast(msg) {
     if (!toast || !toastMsg) return;
     toastMsg.innerText = msg;
-    toast.style.display = 'block';
-    setTimeout(() => { toast.style.display = 'none'; }, 3500);
+    toast.style.display = 'flex';
+    setTimeout(() => { toast.style.display = 'none'; }, 4000);
+  }
+
+  function showError(msg) {
+    if (!toastError || !toastErrorMsg) return;
+    toastErrorMsg.innerText = msg;
+    toastError.style.display = 'flex';
+    setTimeout(() => { toastError.style.display = 'none'; }, 5000);
   }
 
   function closeModal() {
@@ -867,7 +888,9 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
       btn.innerText = 'Carregando...';
 
       try {
-        const res = await fetch(`/api/admin/post?slug=${encodeURIComponent(slug)}`);
+        const res = await fetch(`/api/admin/post?slug=${encodeURIComponent(slug)}`, {
+          credentials: 'include',
+        });
         const data = await res.json();
 
         if (data.success && data.post) {
@@ -886,10 +909,10 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
 
           if (modal) modal.style.display = 'flex';
         } else {
-          alert('Erro ao carregar dados do artigo.');
+          showError(`Erro ao carregar artigo: ${data.message || 'Artigo não encontrado.'}`);
         }
       } catch (err) {
-        alert('Erro ao conectar ao servidor.');
+        showError('Erro de conexão ao carregar o artigo. Verifique se você está autenticado.');
       } finally {
         btn.innerHTML = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg> Editar Artigo`;
       }
@@ -913,6 +936,7 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
     try {
       const res = await fetch('/api/admin/upload', {
         method: 'POST',
+        credentials: 'include',
         body: formData,
       });
       const data = await res.json();
@@ -950,6 +974,7 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
     try {
       const res = await fetch('/api/admin/post', {
         method: 'POST',
+        credentials: 'include',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           slug,
@@ -964,10 +989,10 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
         closeModal();
         setTimeout(() => { window.location.reload(); }, 1200);
       } else {
-        alert(`Erro ao salvar: ${data.message || 'Falha na persistência'}`);
+        showError(`Erro ao salvar: ${data.message || 'Falha na persistência'}`);
       }
     } catch (err) {
-      alert('Erro de conexão ao salvar artigo.');
+      showError('Erro de conexão ao salvar artigo. Tente novamente.');
     } finally {
       if (modalSaveBtn) {
         modalSaveBtn.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg> <span>Salvar Alterações</span>`;
