@@ -38,25 +38,26 @@ function inlineMd(s) {
   description={post.excerpt}
   showHeader={false}
   showFooter={false}
+  pageName={post.slug}
 >
   <V2Nav />
 
   <!-- ARTICLE HERO -->
   <section class="sp-hero">
-    <div class="sp-hero-bg">
+    <div class="sp-hero-bg" data-editable-id="image" data-editable-type="image" data-editable-label="Imagem de Capa">
       <img src={post.image} alt={post.imageAlt} />
       <div class="sp-hero-overlay"></div>
     </div>
     <div class="sp-hero-content v2-container">
-      <div class="sp-hero-badge">
+      <div class="sp-hero-badge" data-editable-id="tag" data-editable-type="text" data-editable-label="Categoria do Post">
         <span class="v2-badge-dot"></span>
         {post.tag}
       </div>
-      <h1 class="sp-hero-title">
+      <h1 class="sp-hero-title" data-editable-id="title" data-editable-type="text" data-editable-label="Título do Artigo">
         {post.title}
       </h1>
       <div class="sp-hero-meta">
-        <span class="sp-meta-read">
+        <span class="sp-meta-read" data-editable-id="readTime" data-editable-type="text" data-editable-label="Tempo de Leitura">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
           {post.readTime}
         </span>

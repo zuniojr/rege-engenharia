@@ -42,7 +42,7 @@ export async function getPageData(pageName: string): Promise<Record<string, any>
 }
 
 /**
- * Saves page field update (e.g. page="home", fieldPath="hero.title1", value="Novo Texto")
+ * Saves field update for either a page (src/data/pages) or a post (src/data/posts)
  */
 export async function updatePageField(
   pageName: string,
@@ -50,6 +50,28 @@ export async function updatePageField(
   value: any,
   commitMessage?: string
 ): Promise<SaveResult> {
+  // 1. Check if target is a blog post
+  const postFilePath = path.resolve(process.cwd(), `src/data/posts/${pageName}.json`);
+  let isPost = false;
+  try {
+    await fs.access(postFilePath);
+    isPost = true;
+  } catch {}
+
+  if (isPost) {
+    const postData = (await getPostBySlug(pageName)) || {};
+    setNestedValue(postData, fieldPath, value);
+    const filePath = `src/data/posts/${pageName}.json`;
+    const formattedContent = JSON.stringify(postData, null, 2) + '\n';
+    const msg = commitMessage || `chore(blog): atualizar ${fieldPath} em ${pageName} via Admin Visual`;
+    return await persistFile({
+      filePath,
+      content: formattedContent,
+      commitMessage: msg,
+    });
+  }
+
+  // 2. Otherwise it is an institutional page
   const pageData = await getPageData(pageName);
   setNestedValue(pageData, fieldPath, value);
 

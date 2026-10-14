@@ -28,6 +28,7 @@ if (Astro.request.method === 'POST') {
 const featuredPost = blogPosts.find(p => p.featured);
 const gridPosts = blogPosts.filter(p => !p.featured);
 const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
+const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
 ---
 
 <!DOCTYPE html>
@@ -119,19 +120,45 @@ const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
       </div>
     </section>
 
+    <!-- BARRA DE PESQUISA E FILTROS -->
+    <div class="v2-container" style="margin-top: 2rem;">
+      <div class="admin-blog-filter-bar">
+        <div class="search-input-wrap">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <input type="text" id="post-search" placeholder="Filtrar por título ou slug..." class="admin-search-field" />
+        </div>
+        <select id="tag-filter" class="admin-select-field">
+          <option value="">Todas as categorias ({blogPosts.length})</option>
+          {allTags.map(t => <option value={t}>{t}</option>)}
+        </select>
+      </div>
+    </div>
+
     <section class="blog-section">
       <div class="v2-container">
 
         {featuredPost && (
-          <div class="admin-post-wrapper admin-post-featured">
-            <a
-              href={`/keystatic/collection/posts/item/${featuredPost.slug}`}
-              target="_blank"
-              class="admin-edit-btn admin-edit-btn-featured"
-            >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
-              Editar
-            </a>
+          <div class="admin-post-wrapper admin-post-featured" data-title={featuredPost.title.toLowerCase()} data-slug={featuredPost.slug} data-tag={featuredPost.tag}>
+            <div class="admin-card-actions">
+              <a
+                href={`/blog/${featuredPost.slug}`}
+                target="_blank"
+                class="admin-edit-btn admin-edit-btn-visual"
+                title="Editar no layout real com lápis"
+              >
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
+                Visualizar com Lápis
+              </a>
+              <button
+                type="button"
+                class="admin-edit-btn admin-edit-btn-modal"
+                data-slug={featuredPost.slug}
+                title="Editar dados completos do artigo"
+              >
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+                Editar Artigo
+              </button>
+            </div>
             <div class="blog-featured-post v2-reveal">
               <div class="blog-featured-img">
                 <img src={featuredPost.image} alt={featuredPost.imageAlt} />
@@ -152,17 +179,29 @@ const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
           </div>
         )}
 
-        <div class="blog-grid">
+        <div class="blog-grid" id="blog-grid">
           {gridPosts.map((post, i) => (
-            <div class={`admin-post-wrapper v2-reveal ${delayClasses[i % 3]}`}>
-              <a
-                href={`/keystatic/collection/posts/item/${post.slug}`}
-                target="_blank"
-                class="admin-edit-btn"
-              >
-                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
-                Editar
-              </a>
+            <div class={`admin-post-wrapper v2-reveal ${delayClasses[i % 3]}`} data-title={post.title.toLowerCase()} data-slug={post.slug} data-tag={post.tag}>
+              <div class="admin-card-actions">
+                <a
+                  href={`/blog/${post.slug}`}
+                  target="_blank"
+                  class="admin-edit-btn admin-edit-btn-visual"
+                  title="Abrir no layout real para editar com o lápis"
+                >
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
+                  Lápis Visual
+                </a>
+                <button
+                  type="button"
+                  class="admin-edit-btn admin-edit-btn-modal"
+                  data-slug={post.slug}
+                  title="Editar dados e texto do artigo"
+                >
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+                  Editar
+                </button>
+              </div>
               <div class="blog-card">
                 <div class="blog-card-img">
                   <img src={post.image} alt={post.imageAlt} />
@@ -181,6 +220,83 @@ const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
         </div>
       </div>
     </section>
+
+    <!-- MODAL NATIVO DE EDIÇÃO DO ARTIGO -->
+    <div id="article-modal" class="article-modal-backdrop" style="display: none;">
+      <div class="article-modal-card">
+        <div class="article-modal-header">
+          <div>
+            <span class="article-modal-tag">GERENCIADOR DE ARTIGO</span>
+            <h3 id="modal-post-title">Editar Artigo</h3>
+            <code id="modal-post-slug">slug-do-artigo</code>
+          </div>
+          <button id="modal-close-btn" class="article-modal-close">&times;</button>
+        </div>
+
+        <form id="post-edit-form" class="article-modal-body">
+          <input type="hidden" id="edit-slug" />
+
+          <div class="form-row">
+            <div class="form-group flex-2">
+              <label for="edit-title">Título do Artigo</label>
+              <input type="text" id="edit-title" class="admin-input" required />
+            </div>
+            <div class="form-group flex-1">
+              <label for="edit-tag">Categoria / Tag</label>
+              <input type="text" id="edit-tag" class="admin-input" required />
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group flex-2">
+              <label for="edit-image">URL da Imagem de Capa</label>
+              <input type="text" id="edit-image" class="admin-input" required />
+            </div>
+            <div class="form-group flex-1">
+              <label for="edit-readtime">Tempo de Leitura</label>
+              <input type="text" id="edit-readtime" class="admin-input" placeholder="ex: 5 min de leitura" />
+            </div>
+          </div>
+
+          <div class="image-preview-bar">
+            <img id="edit-image-preview" src="" alt="Capa" />
+            <div class="image-upload-wrapper">
+              <label class="btn-upload-file">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+                <span>Fazer Upload de Imagem</span>
+                <input type="file" id="edit-file-input" accept="image/png,image/jpeg,image/webp,image/avif" style="display: none;" />
+              </label>
+              <span id="edit-upload-status" class="upload-note">Formatos: PNG, JPG, WebP ou AVIF</span>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="edit-excerpt">Resumo do Post (Excerpt / Meta Description)</label>
+            <textarea id="edit-excerpt" class="admin-textarea" rows="3" required></textarea>
+          </div>
+
+          <div class="form-group">
+            <label class="checkbox-label">
+              <input type="checkbox" id="edit-featured" />
+              <span>Marcar este artigo como DESTAQUE na página inicial do blog</span>
+            </label>
+          </div>
+
+          <div class="article-modal-footer">
+            <button type="button" id="modal-cancel-btn" class="btn-ghost">Cancelar</button>
+            <button type="submit" id="modal-save-btn" class="btn-gold-save">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg>
+              <span>Salvar Alterações</span>
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- TOASTER DE SUCESSO -->
+    <div id="blog-toast" class="blog-toast" style="display: none;">
+      <span id="blog-toast-msg">Artigo salvo com sucesso!</span>
+    </div>
   </div>
 )}
 
@@ -408,9 +524,260 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
 .v2-reveal.visible { opacity: 1; transform: translateY(0); }
 .v2-reveal-delay-1 { transition-delay: 0.1s; }
 .v2-reveal-delay-2 { transition-delay: 0.2s; }
+
+/* FILTROS E PESQUISA */
+.admin-blog-filter-bar {
+  display: flex;
+  gap: 1rem;
+  background: #0D1624;
+  border: 1px solid rgba(201, 168, 76, 0.25);
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+.search-input-wrap {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: #060A10;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 6px;
+  padding: 0 1rem;
+  color: #94A3B8;
+}
+.admin-search-field {
+  width: 100%;
+  background: transparent;
+  border: none;
+  padding: 0.75rem 0;
+  color: #fff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.95rem;
+}
+.admin-search-field:focus { outline: none; }
+.admin-select-field {
+  background: #060A10;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  color: #fff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.9rem;
+  min-width: 220px;
+}
+.admin-select-field:focus { outline: none; border-color: #C9A84C; }
+
+/* CARD ACTIONS */
+.admin-card-actions {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 10;
+  display: flex;
+  gap: 0.5rem;
+}
+.admin-edit-btn-visual {
+  background: #0D1624;
+  color: #C9A84C;
+  border: 1px solid #C9A84C;
+}
+.admin-edit-btn-visual:hover {
+  background: #C9A84C;
+  color: #0D1624;
+}
+.admin-edit-btn-modal {
+  background: #C9A84C;
+  color: #0D1624;
+  border: none;
+  cursor: pointer;
+}
+.admin-edit-btn-modal:hover {
+  background: #DFBC5E;
+}
+
+/* MODAL DE EDIÇÃO DE ARTIGO */
+.article-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(4, 8, 14, 0.8);
+  backdrop-filter: blur(10px);
+  z-index: 100000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+.article-modal-card {
+  background: #111A28;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-radius: 12px;
+  width: 100%;
+  max-width: 680px;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.6);
+  color: #fff;
+  font-family: 'Outfit', sans-serif;
+}
+.article-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1.25rem 1.75rem;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.02);
+}
+.article-modal-tag {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #C9A84C;
+}
+.article-modal-header h3 {
+  margin: 0.25rem 0 0.2rem;
+  font-size: 1.3rem;
+  color: #fff;
+}
+.article-modal-header code {
+  font-size: 0.75rem;
+  color: #94A3B8;
+  background: rgba(0,0,0,0.3);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+}
+.article-modal-close {
+  background: transparent;
+  border: none;
+  color: #94A3B8;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.article-modal-close:hover { color: #fff; }
+.article-modal-body { padding: 1.75rem; }
+.form-row { display: flex; gap: 1rem; margin-bottom: 1.25rem; }
+.flex-1 { flex: 1; }
+.flex-2 { flex: 2; }
+.form-group { margin-bottom: 1.25rem; }
+.form-group label {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #CBD5E1;
+  margin-bottom: 0.4rem;
+}
+.admin-input, .admin-textarea {
+  width: 100%;
+  background: #090E17;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  color: #fff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+}
+.admin-input:focus, .admin-textarea:focus {
+  outline: none;
+  border-color: #C9A84C;
+}
+.image-preview-bar {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  background: #090E17;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.25rem;
+}
+.image-preview-bar img {
+  width: 80px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 4px;
+  background: #111A28;
+}
+.image-upload-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.btn-upload-file {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(201, 168, 76, 0.15);
+  border: 1px dashed #C9A84C;
+  color: #C9A84C;
+  padding: 0.4rem 0.85rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  align-self: flex-start;
+}
+.btn-upload-file:hover { background: rgba(201, 168, 76, 0.25); }
+.upload-note { font-size: 0.72rem; color: #64748B; }
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+  color: #E2E8F0;
+  cursor: pointer;
+}
+.article-modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+.btn-ghost {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.15);
+  color: #94A3B8;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-ghost:hover { color: #fff; background: rgba(255,255,255,0.05); }
+.btn-gold-save {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #C9A84C;
+  color: #080E17;
+  border: none;
+  padding: 0.6rem 1.4rem;
+  border-radius: 6px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.btn-gold-save:hover { background: #DFBC5E; }
+
+/* TOASTER */
+.blog-toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: #0D1624;
+  color: #fff;
+  border: 1px solid #C9A84C;
+  border-radius: 8px;
+  padding: 0.8rem 1.4rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+  z-index: 100001;
+}
 </style>
 
 <script>
+  // Scroll reveal
   const obs = new IntersectionObserver((entries) => {
     entries.forEach(e => {
       if (e.isIntersecting) {
@@ -420,4 +787,190 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
     });
   }, { threshold: 0.05, rootMargin: '0px 0px -40px 0px' });
   document.querySelectorAll('.v2-reveal').forEach(el => obs.observe(el));
+
+  // FILTROS DE PESQUISA
+  const searchInput = document.getElementById('post-search');
+  const tagSelect = document.getElementById('tag-filter');
+  const cards = document.querySelectorAll('.admin-post-wrapper');
+
+  function filterPosts() {
+    const q = (searchInput?.value || '').toLowerCase().trim();
+    const tag = (tagSelect?.value || '').trim();
+
+    cards.forEach(card => {
+      const cardTitle = card.getAttribute('data-title') || '';
+      const cardSlug = card.getAttribute('data-slug') || '';
+      const cardTag = card.getAttribute('data-tag') || '';
+
+      const matchesQuery = !q || cardTitle.includes(q) || cardSlug.includes(q);
+      const matchesTag = !tag || cardTag === tag;
+
+      if (matchesQuery && matchesTag) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+
+  searchInput?.addEventListener('input', filterPosts);
+  tagSelect?.addEventListener('change', filterPosts);
+
+  // MODAL DE EDIÇÃO NATIVO
+  const modal = document.getElementById('article-modal');
+  const modalCloseBtn = document.getElementById('modal-close-btn');
+  const modalCancelBtn = document.getElementById('modal-cancel-btn');
+  const modalForm = document.getElementById('post-edit-form');
+  const modalSaveBtn = document.getElementById('modal-save-btn');
+  const modalTitle = document.getElementById('modal-post-title');
+  const modalSlug = document.getElementById('modal-post-slug');
+
+  const editSlug = document.getElementById('edit-slug');
+  const editTitle = document.getElementById('edit-title');
+  const editTag = document.getElementById('edit-tag');
+  const editImage = document.getElementById('edit-image');
+  const editImagePreview = document.getElementById('edit-image-preview');
+  const editReadtime = document.getElementById('edit-readtime');
+  const editExcerpt = document.getElementById('edit-excerpt');
+  const editFeatured = document.getElementById('edit-featured');
+  const fileInput = document.getElementById('edit-file-input');
+  const uploadStatus = document.getElementById('edit-upload-status');
+
+  const toast = document.getElementById('blog-toast');
+  const toastMsg = document.getElementById('blog-toast-msg');
+
+  let currentPostData = null;
+
+  function showToast(msg) {
+    if (!toast || !toastMsg) return;
+    toastMsg.innerText = msg;
+    toast.style.display = 'block';
+    setTimeout(() => { toast.style.display = 'none'; }, 3500);
+  }
+
+  function closeModal() {
+    if (modal) modal.style.display = 'none';
+    currentPostData = null;
+  }
+
+  modalCloseBtn?.addEventListener('click', closeModal);
+  modalCancelBtn?.addEventListener('click', closeModal);
+
+  // Abertura do modal ao clicar em "Editar Artigo"
+  document.querySelectorAll('.admin-edit-btn-modal').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const slug = btn.getAttribute('data-slug');
+      if (!slug) return;
+
+      btn.innerText = 'Carregando...';
+
+      try {
+        const res = await fetch(`/api/admin/post?slug=${encodeURIComponent(slug)}`);
+        const data = await res.json();
+
+        if (data.success && data.post) {
+          currentPostData = data.post;
+          editSlug.value = data.post.slug || slug;
+          modalTitle.innerText = `Editar Artigo`;
+          modalSlug.innerText = data.post.slug || slug;
+
+          editTitle.value = data.post.title || '';
+          editTag.value = data.post.tag || '';
+          editImage.value = data.post.image || '';
+          editImagePreview.src = data.post.image || '';
+          editReadtime.value = data.post.readTime || '';
+          editExcerpt.value = data.post.excerpt || '';
+          editFeatured.checked = !!data.post.featured;
+
+          if (modal) modal.style.display = 'flex';
+        } else {
+          alert('Erro ao carregar dados do artigo.');
+        }
+      } catch (err) {
+        alert('Erro ao conectar ao servidor.');
+      } finally {
+        btn.innerHTML = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg> Editar Artigo`;
+      }
+    });
+  });
+
+  // Atualização em tempo real da prévia da imagem ao digitar URL
+  editImage?.addEventListener('input', () => {
+    if (editImagePreview) editImagePreview.src = editImage.value;
+  });
+
+  // Upload de Imagem
+  fileInput?.addEventListener('change', async (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    if (uploadStatus) uploadStatus.innerText = 'Enviando imagem...';
+    const formData = new FormData();
+    formData.append('file', file);
+
+    try {
+      const res = await fetch('/api/admin/upload', {
+        method: 'POST',
+        body: formData,
+      });
+      const data = await res.json();
+      if (data.success && data.url) {
+        editImage.value = data.url;
+        if (editImagePreview) editImagePreview.src = data.url;
+        if (uploadStatus) uploadStatus.innerText = 'Upload concluído com sucesso!';
+        showToast('Imagem carregada com sucesso!');
+      } else {
+        if (uploadStatus) uploadStatus.innerText = `Erro: ${data.message || 'Falha no upload'}`;
+      }
+    } catch (err) {
+      if (uploadStatus) uploadStatus.innerText = 'Erro ao conectar ao servidor.';
+    }
+  });
+
+  // Submissão do formulário de edição
+  modalForm?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!currentPostData) return;
+
+    if (modalSaveBtn) modalSaveBtn.innerHTML = '<span>Salvando no GitHub...</span>';
+
+    const slug = editSlug.value;
+    const updatedPost = {
+      ...currentPostData,
+      title: editTitle.value,
+      tag: editTag.value,
+      image: editImage.value,
+      readTime: editReadtime.value,
+      excerpt: editExcerpt.value,
+      featured: editFeatured.checked,
+    };
+
+    try {
+      const res = await fetch('/api/admin/post', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          slug,
+          postData: updatedPost,
+          commitMessage: `chore(blog): atualizar artigo "${updatedPost.title}" via Admin Visual`,
+        }),
+      });
+
+      const data = await res.json();
+      if (data.success) {
+        showToast('Artigo salvo e comitado com sucesso!');
+        closeModal();
+        setTimeout(() => { window.location.reload(); }, 1200);
+      } else {
+        alert(`Erro ao salvar: ${data.message || 'Falha na persistência'}`);
+      }
+    } catch (err) {
+      alert('Erro de conexão ao salvar artigo.');
+    } finally {
+      if (modalSaveBtn) {
+        modalSaveBtn.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></svg> <span>Salvar Alterações</span>`;
+      }
+    }
+  });
 </script>
+
