@@ -522,7 +522,6 @@ const { pageName = 'home' } = Astro.props;
     let originalValue = null;
     let pendingChanges = {};
 
-    const overlay = document.getElementById('rege-admin-overlay');
     const pageName = overlay?.getAttribute('data-page-name') || 'home';
     const modeToggle = document.getElementById('rao-mode-toggle');
     const statusText = document.getElementById('rao-status-text');
@@ -725,6 +724,7 @@ const { pageName = 'home' } = Astro.props;
       try {
         const res = await fetch('/api/admin/upload', {
           method: 'POST',
+          credentials: 'include',
           body: formData,
         });
         const data = await res.json();
@@ -766,6 +766,7 @@ const { pageName = 'home' } = Astro.props;
         for (const [fieldId, val] of Object.entries(pendingChanges)) {
           const res = await fetch('/api/admin/save', {
             method: 'POST',
+            credentials: 'include',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               type: 'page_field',
@@ -793,7 +794,7 @@ const { pageName = 'home' } = Astro.props;
     // Logout
     btnLogout?.addEventListener('click', async () => {
       if (confirm('Deseja realmente sair do modo de administração?')) {
-        await fetch('/api/admin/auth', { method: 'DELETE' });
+        await fetch('/api/admin/auth', { method: 'DELETE', credentials: 'include' });
         window.location.reload();
       }
     });

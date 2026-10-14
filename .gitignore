@@ -1,5 +1,6 @@
 # build output
 dist/
+.vercel/
 # generated types
 .astro/
 # merge-posts.mjs working backup (5+ MB, regenerated on every run)
