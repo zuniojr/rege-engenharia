@@ -68,6 +68,7 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
   </div>
 ) : (
   <div>
+    <!-- TOPBAR -->
     <div class="admin-topbar">
       <div class="admin-topbar-inner">
         <div class="admin-topbar-brand">
@@ -82,19 +83,16 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
             ← Painel Geral
           </a>
-          <a href="/keystatic" target="_blank" class="admin-topbar-btn admin-topbar-btn-secondary">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
-            Keystatic (editor avançado)
-          </a>
           <a href="/blog" target="_blank" class="admin-topbar-btn admin-topbar-btn-ghost">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            Ver Blog
+            Ver Blog Público
           </a>
           <a href="/admin/logout" class="admin-topbar-btn admin-topbar-btn-logout">Sair</a>
         </div>
       </div>
     </div>
 
+    <!-- HERO -->
     <section class="blog-hero">
       <div class="blog-hero-bg">
         <img src="/images/hero-rege.avif" alt="Blog Regê Engenharia" />
@@ -115,7 +113,7 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
           <span class="blog-title-line blog-title-stroke" style="animation-delay:0.6s">SOBRE OBRAS.</span>
         </h1>
         <p class="blog-hero-sub">
-          Clique em <strong style="color: #C9A84C">Editar</strong> em qualquer card para alterar a imagem, título ou conteúdo do post.
+          Clique em <strong style="color: #C9A84C">Editar Artigo</strong> para alterar dados e imagem, ou <strong style="color: #C9A84C">Visualizar com Lápis</strong> para editar diretamente no layout real.
         </p>
       </div>
     </section>
@@ -199,7 +197,7 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
                   title="Editar dados e texto do artigo"
                 >
                   <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
-                  Editar
+                  Editar Artigo
                 </button>
               </div>
               <div class="blog-card">
@@ -300,9 +298,6 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
   </div>
 )}
 
-</body>
-</html>
-
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
@@ -349,60 +344,43 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
 }
 .admin-login-btn:hover { opacity: 0.85; transform: translateY(-1px); }
 
+/* TOPBAR */
 .admin-topbar {
-  position: fixed; top: 0; left: 0; right: 0; z-index: 9999;
-  background: rgba(8,14,23,0.96); backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(201,168,76,0.25);
+  position: fixed; top: 0; left: 0; right: 0; height: 52px;
+  background: #080E17; border-bottom: 1px solid rgba(201,168,76,0.3);
+  z-index: 1000; display: flex; align-items: center; padding: 0 1.5rem;
 }
 .admin-topbar-inner {
-  max-width: 1280px; margin: 0 auto; padding: 0.75rem 1.5rem;
-  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  display: flex; align-items: center; justify-content: space-between;
+  width: 100%; max-width: 1280px; margin: 0 auto;
 }
 .admin-topbar-brand {
   display: flex; align-items: center; gap: 0.6rem;
-  font-size: 0.8rem; font-weight: 700; color: #C9A84C; letter-spacing: 0.5px;
+  font-weight: 700; font-size: 0.9rem; color: #fff;
 }
+.admin-topbar-brand span { color: #C9A84C; }
 .admin-topbar-links { display: flex; align-items: center; gap: 0.75rem; }
 .admin-topbar-btn {
-  display: inline-flex; align-items: center; gap: 0.4rem;
-  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;
-  text-decoration: none; padding: 0.5rem 0.875rem; border-radius: 6px; transition: all 0.2s;
+  font-family: 'Outfit', sans-serif; font-size: 0.72rem; font-weight: 700;
+  letter-spacing: 0.5px; text-decoration: none; padding: 0.45rem 0.85rem;
+  border-radius: 6px; transition: all 0.2s; display: inline-flex; align-items: center; gap: 0.4rem;
 }
-.admin-topbar-btn-secondary {
-  background: rgba(201,168,76,0.15); color: #C9A84C;
-  border: 1px solid rgba(201,168,76,0.3);
-}
-.admin-topbar-btn-secondary:hover { background: rgba(201,168,76,0.25); }
-.admin-topbar-btn-ghost {
-  color: rgba(255,255,255,0.5); border: 1px solid rgba(255,255,255,0.1);
-}
-.admin-topbar-btn-ghost:hover { color: #fff; border-color: rgba(255,255,255,0.3); }
-.admin-topbar-btn-logout {
-  color: rgba(255,100,100,0.7); border: 1px solid rgba(255,100,100,0.2);
-}
-.admin-topbar-btn-logout:hover { color: #ff7b7b; border-color: rgba(255,100,100,0.4); }
+.admin-topbar-btn-secondary { background: rgba(201,168,76,0.15); color: #C9A84C; border: 1px solid rgba(201,168,76,0.3); }
+.admin-topbar-btn-secondary:hover { background: #C9A84C; color: #080E17; }
+.admin-topbar-btn-ghost { color: rgba(255,255,255,0.6); }
+.admin-topbar-btn-ghost:hover { color: #fff; }
+.admin-topbar-btn-logout { background: rgba(220,53,69,0.15); color: #ff7b85; }
+.admin-topbar-btn-logout:hover { background: #dc3545; color: #fff; }
 
 .admin-mode-badge {
   display: inline-flex; align-items: center; gap: 0.5rem;
-  font-size: 0.65rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
-  color: #080E17; background: #C9A84C; padding: 0.35rem 0.85rem;
-  border-radius: 100px; margin-bottom: 1.5rem;
+  background: rgba(201,168,76,0.2); border: 1px solid #C9A84C;
+  color: #C9A84C; font-size: 0.65rem; font-weight: 800;
+  letter-spacing: 1.5px; padding: 0.35rem 0.85rem; border-radius: 100px;
+  margin-bottom: 1.5rem; width: fit-content;
 }
 
 .admin-post-wrapper { position: relative; }
-.admin-edit-btn {
-  position: absolute; top: 12px; right: 12px; z-index: 10;
-  display: inline-flex; align-items: center; gap: 0.4rem;
-  background: #C9A84C; color: #080E17; font-family: 'Outfit', sans-serif;
-  font-size: 0.7rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;
-  text-decoration: none; padding: 0.45rem 0.85rem; border-radius: 6px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: all 0.2s; white-space: nowrap;
-}
-.admin-edit-btn:hover {
-  background: #fff; color: #080E17; transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
-}
-.admin-edit-btn-featured { top: 16px; right: 16px; font-size: 0.75rem; padding: 0.55rem 1.1rem; }
 .admin-featured-label {
   font-size: 0.62rem; font-weight: 700; letter-spacing: 1px;
   text-transform: uppercase; color: #C9A84C;
@@ -453,7 +431,7 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
 }
 @keyframes blogFadeUp { to { opacity: 1; transform: translateY(0); } }
 
-.blog-section { padding: 8rem 0; background: #fff; position: relative; }
+.blog-section { padding: 6rem 0; background: #fff; position: relative; }
 .blog-section::before {
   content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
   background: linear-gradient(to right, #C9A84C, transparent);
@@ -485,7 +463,6 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
   font-family: 'Outfit', sans-serif; font-size: 0.72rem; font-weight: 700;
   letter-spacing: 1.5px; text-transform: uppercase; color: #080E17; align-self: flex-start;
 }
-.blog-read-more svg { transition: transform 0.3s ease; }
 
 .blog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
 .blog-card {
@@ -507,23 +484,6 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
   font-family: 'Outfit', sans-serif; font-size: 0.68rem; font-weight: 700;
   letter-spacing: 1px; text-transform: uppercase; color: #C9A84C; text-decoration: none;
 }
-
-@media (max-width: 900px) {
-  .blog-featured-post { grid-template-columns: 1fr; gap: 0; }
-  .blog-featured-text { padding: 2.5rem; }
-  .blog-grid { grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 600px) {
-  .blog-hero-content { padding: 8rem 1rem 4rem; }
-  .blog-grid { grid-template-columns: 1fr; }
-  .admin-topbar-links { gap: 0.5rem; }
-  .admin-topbar-btn { font-size: 0.65rem; padding: 0.4rem 0.6rem; }
-}
-
-.v2-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
-.v2-reveal.visible { opacity: 1; transform: translateY(0); }
-.v2-reveal-delay-1 { transition-delay: 0.1s; }
-.v2-reveal-delay-2 { transition-delay: 0.2s; }
 
 /* FILTROS E PESQUISA */
 .admin-blog-filter-bar {
@@ -578,19 +538,42 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
   gap: 0.5rem;
 }
 .admin-edit-btn-visual {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
   background: #0D1624;
   color: #C9A84C;
   border: 1px solid #C9A84C;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  padding: 0.45rem 0.85rem;
+  border-radius: 6px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  transition: all 0.2s;
 }
 .admin-edit-btn-visual:hover {
   background: #C9A84C;
   color: #0D1624;
 }
 .admin-edit-btn-modal {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
   background: #C9A84C;
   color: #0D1624;
   border: none;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 0.45rem 0.85rem;
+  border-radius: 6px;
   cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  transition: all 0.2s;
 }
 .admin-edit-btn-modal:hover {
   background: #DFBC5E;
@@ -774,6 +757,25 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
   box-shadow: 0 10px 25px rgba(0,0,0,0.5);
   z-index: 100001;
 }
+
+@media (max-width: 900px) {
+  .blog-featured-post { grid-template-columns: 1fr; gap: 0; }
+  .blog-featured-text { padding: 2.5rem; }
+  .blog-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .blog-hero-content { padding: 8rem 1rem 4rem; }
+  .blog-grid { grid-template-columns: 1fr; }
+  .admin-topbar-links { gap: 0.5rem; }
+  .admin-topbar-btn { font-size: 0.65rem; padding: 0.4rem 0.6rem; }
+  .admin-blog-filter-bar { flex-direction: column; }
+  .form-row { flex-direction: column; gap: 0; }
+}
+
+.v2-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
+.v2-reveal.visible { opacity: 1; transform: translateY(0); }
+.v2-reveal-delay-1 { transition-delay: 0.1s; }
+.v2-reveal-delay-2 { transition-delay: 0.2s; }
 </style>
 
 <script>
@@ -870,17 +872,17 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
 
         if (data.success && data.post) {
           currentPostData = data.post;
-          editSlug.value = data.post.slug || slug;
-          modalTitle.innerText = `Editar Artigo`;
-          modalSlug.innerText = data.post.slug || slug;
+          if (editSlug) editSlug.value = data.post.slug || slug;
+          if (modalTitle) modalTitle.innerText = `Editar Artigo`;
+          if (modalSlug) modalSlug.innerText = data.post.slug || slug;
 
-          editTitle.value = data.post.title || '';
-          editTag.value = data.post.tag || '';
-          editImage.value = data.post.image || '';
-          editImagePreview.src = data.post.image || '';
-          editReadtime.value = data.post.readTime || '';
-          editExcerpt.value = data.post.excerpt || '';
-          editFeatured.checked = !!data.post.featured;
+          if (editTitle) editTitle.value = data.post.title || '';
+          if (editTag) editTag.value = data.post.tag || '';
+          if (editImage) editImage.value = data.post.image || '';
+          if (editImagePreview) editImagePreview.src = data.post.image || '';
+          if (editReadtime) editReadtime.value = data.post.readTime || '';
+          if (editExcerpt) editExcerpt.value = data.post.excerpt || '';
+          if (editFeatured) editFeatured.checked = !!data.post.featured;
 
           if (modal) modal.style.display = 'flex';
         } else {
@@ -915,7 +917,7 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
       });
       const data = await res.json();
       if (data.success && data.url) {
-        editImage.value = data.url;
+        if (editImage) editImage.value = data.url;
         if (editImagePreview) editImagePreview.src = data.url;
         if (uploadStatus) uploadStatus.innerText = 'Upload concluído com sucesso!';
         showToast('Imagem carregada com sucesso!');
@@ -974,3 +976,5 @@ body { font-family: 'Outfit', sans-serif; background: #fff; color: #080E17; }
   });
 </script>
 
+</body>
+</html>
