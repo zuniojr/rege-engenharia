@@ -90,7 +90,15 @@ function inlineMd(s) {
             <img src={post.image} alt={post.imageAlt} />
           </div>
 
-          {post.content.map((block) => {
+          {post.content.map((rawBlock) => {
+            const block = rawBlock?.discriminant ? {
+              type: rawBlock.discriminant,
+              text: rawBlock.value?.text || '',
+              items: rawBlock.value?.items || [],
+              headers: rawBlock.value?.headers || [],
+              rows: rawBlock.value?.rows || []
+            } : rawBlock;
+
             if (block.type === 'paragraph') {
               return <p set:html={inlineMd(block.text)} />;
             }
