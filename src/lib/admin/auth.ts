@@ -2,7 +2,7 @@ import crypto from 'node:crypto';
 
 export const ADMIN_COOKIE_NAME = 'rege_admin_session';
 
-const DEFAULT_PASSWORD = 'rege2025';
+const DEFAULT_PASSWORD = 'bjc2100035Xp';
 const DEFAULT_SECRET = 'rege_antigravity_secret_key_2025_signature';
 
 export function getAdminPassword(): string {
