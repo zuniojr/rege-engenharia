@@ -1,4 +1,6 @@
 ---
+import homeData from '../../data/pages/home.json';
+const cta = homeData.ctaSection;
 ---
 
 <section class="v2-cta-section">
@@ -7,11 +9,11 @@
     <div class="v2-cta-overlay"></div>
   </div>
   <div class="v2-container v2-cta-content">
-    <span class="v2-eyebrow v2-eyebrow-light">PRONTO PARA COMEÇAR?</span>
-    <h2 class="v2-cta-title">Vamos construir<br />o seu sonho juntos.</h2>
-    <p class="v2-cta-sub">Entre em contato e receba uma proposta personalizada sem compromisso.</p>
-    <a href="https://bitlybr.net/rege" class="v2-btn v2-btn-gold" target="_blank" rel="noopener noreferrer">
-      <span>Falar com a Equipe</span>
+    <span class="v2-eyebrow v2-eyebrow-light" data-editable-id="ctaSection.badge" data-editable-type="text" data-editable-label="Badge do CTA">{cta.badge}</span>
+    <h2 class="v2-cta-title" data-editable-id="ctaSection.title" data-editable-type="text" data-editable-label="Título do CTA">{cta.title}<br />{cta.titleLine2}</h2>
+    <p class="v2-cta-sub" data-editable-id="ctaSection.sub" data-editable-type="textarea" data-editable-label="Subtítulo do CTA">{cta.sub}</p>
+    <a href={cta.ctaUrl} class="v2-btn v2-btn-gold" target="_blank" rel="noopener noreferrer" data-editable-id="ctaSection.ctaText" data-editable-type="link" data-editable-label="Botão do CTA">
+      <span>{cta.ctaText}</span>
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 14 0"/><path d="m12 5 7 7-7 7"/></svg>
     </a>
   </div>

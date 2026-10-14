@@ -1,0 +1,18 @@
+{
+  "contact": {
+    "phone": "+55 47 99218-4100",
+    "phoneRaw": "+5547992184100",
+    "whatsappUrl": "https://bitlybr.net/rege",
+    "address": "Rua Onório Bortolato, 2517 - Navegantes/SC",
+    "city": "Navegantes - SC",
+    "instagram": "https://instagram.com/rege.engenharia"
+  },
+  "nav": {
+    "ctaText": "Fale Conosco",
+    "ctaUrl": "https://bitlybr.net/rege"
+  },
+  "footer": {
+    "tagline": "Projetos, Construção Chave na Mão e Regularização de Obras em Navegantes e todo o Litoral Norte de Santa Catarina.",
+    "copyright": "Regê Engenharia. Todos os direitos reservados."
+  }
+}

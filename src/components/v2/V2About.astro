@@ -1,27 +1,29 @@
 ---
+import homeData from '../../data/pages/home.json';
+const about = homeData.about;
 ---
 
 <section class="v2-about" id="v2-sobre">
   <div class="v2-container">
     <div class="v2-about-grid">
-      <div class="v2-about-img v2-reveal">
+      <div class="v2-about-img v2-reveal" data-editable-id="about.image" data-editable-type="image" data-editable-label="Foto Quem Somos">
         <div class="v2-img-frame">
-          <img src="/images/sobre-nos.avif" alt="Equipe Regê Engenharia" loading="lazy" />
+          <img src={about.image} alt="Equipe Regê Engenharia" loading="lazy" />
         </div>
         <div class="v2-about-badge-float">
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 9.6-9.6"/><path d="m17 7-2.5 2.5"/><path d="M14.5 2 22 9.5l-7 7L7.5 9l7-7z"/></svg>
           <div>
-            <strong>Chave na Mão</strong>
-            <span>Processo 100% gerenciado</span>
+            <strong data-editable-id="about.badgeTitle" data-editable-type="text" data-editable-label="Badge Título">{about.badgeTitle}</strong>
+            <span data-editable-id="about.badgeSub" data-editable-type="text" data-editable-label="Badge Subtítulo">{about.badgeSub}</span>
           </div>
         </div>
       </div>
       <div class="v2-about-text v2-reveal v2-reveal-delay-1">
-        <span class="v2-eyebrow">QUEM SOMOS</span>
-        <h2 class="v2-section-title">Engenharia com<br /><em>propósito real.</em></h2>
+        <span class="v2-eyebrow" data-editable-id="about.eyebrow" data-editable-type="text" data-editable-label="Tagline Quem Somos">{about.eyebrow}</span>
+        <h2 class="v2-section-title" data-editable-id="about.title" data-editable-type="text" data-editable-label="Título Quem Somos">{about.title}<br /><em>{about.titleItalic}</em></h2>
         <div class="v2-title-underline"></div>
-        <p class="v2-about-lead">A Regê Engenharia nasceu com o objetivo de materializar projetos de forma transparente, técnica e sofisticada.</p>
-        <p class="v2-about-body">Com sede em Navegantes - SC, somos especializados no gerenciamento de obras residenciais e comerciais no modelo <strong>chave na mão (turnkey)</strong>. Cuidamos de cada etapa do processo construtivo: desde os estudos preliminares, modelagem de projetos integrados, orçamento executivo detalhado até a execução técnica no canteiro e a entrega das chaves.</p>
+        <p class="v2-about-lead" data-editable-id="about.lead" data-editable-type="textarea" data-editable-label="Lead Quem Somos">{about.lead}</p>
+        <p class="v2-about-body" data-editable-id="about.body" data-editable-type="textarea" data-editable-label="Texto Completo Quem Somos">{about.body}</p>
         <div class="v2-pillars">
           <div class="v2-pillar">
             <div class="v2-pillar-icon">

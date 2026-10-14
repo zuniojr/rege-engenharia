@@ -2,25 +2,23 @@
 export const prerender = false;
 
 import { blogPosts } from '../../data/blogPosts.js';
+import { isRequestAuthenticated, getAdminPassword, createSessionToken, buildAuthCookie } from '../../lib/admin/auth';
 
-const ADMIN_PASSWORD = 'rege2025';
-const COOKIE_NAME = 'rege_admin';
-
-const cookie = Astro.request.headers.get('cookie') || '';
-const isAuthenticated = cookie.includes(`${COOKIE_NAME}=ok`);
-
+const isAuthenticated = isRequestAuthenticated(Astro.request);
 let passwordWrong = false;
 
 if (Astro.request.method === 'POST') {
   const body = await Astro.request.formData();
   const password = body.get('password');
-  if (password === ADMIN_PASSWORD) {
+  if (password === getAdminPassword()) {
+    const token = createSessionToken();
+    const headers = new Headers();
+    headers.append('Set-Cookie', 'rege_admin=ok; Path=/; HttpOnly; Max-Age=86400');
+    headers.append('Set-Cookie', buildAuthCookie(token));
+    headers.append('Location', '/admin/blog');
     return new Response(null, {
       status: 302,
-      headers: {
-        'Set-Cookie': `${COOKIE_NAME}=ok; Path=/; HttpOnly; Max-Age=86400`,
-        'Location': '/admin/blog',
-      },
+      headers,
     });
   } else {
     passwordWrong = true;
@@ -79,6 +77,10 @@ const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
           <span>Admin — Blog Regê</span>
         </div>
         <div class="admin-topbar-links">
+          <a href="/admin" class="admin-topbar-btn admin-topbar-btn-secondary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+            ← Painel Geral
+          </a>
           <a href="/keystatic" target="_blank" class="admin-topbar-btn admin-topbar-btn-secondary">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
             Keystatic (editor avançado)

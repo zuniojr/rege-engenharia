@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "badge": "NAVEGANTES · SC",
+    "title1": "PROJETANDO",
+    "title2": "ESPAÇOS,",
+    "title3": "CONSTRUINDO HISTÓRIAS.",
+    "sub": "Da concepção à chave na mão — engenharia de excelência, transparência absoluta e resultado que supera expectativas.",
+    "ctaPrimaryText": "Iniciar Projeto",
+    "ctaPrimaryUrl": "https://bitlybr.net/rege",
+    "ctaSecondaryText": "Ver Portfólio",
+    "ctaSecondaryUrl": "#v2-portfolio",
+    "bgImage": "/images/hero-rege.avif"
+  },
+  "about": {
+    "image": "/images/sobre-nos.avif",
+    "badgeTitle": "Chave na Mão",
+    "badgeSub": "Processo 100% gerenciado",
+    "eyebrow": "QUEM SOMOS",
+    "title": "Engenharia com",
+    "titleItalic": "propósito real.",
+    "lead": "A Regê Engenharia nasceu com o objetivo de materializar projetos de forma transparente, técnica e sofisticada.",
+    "body": "Com sede em Navegantes - SC, somos especializados no gerenciamento de obras residenciais e comerciais no modelo chave na mão (turnkey). Cuidamos de cada etapa do processo construtivo: desde os estudos preliminares, modelagem de projetos integrados, orçamento executivo detalhado até a execução técnica no canteiro e a entrega das chaves."
+  },
+  "quote": {
+    "quote": "Da concepção à chave na mão, nós estamos com você em cada etapa.",
+    "cite": "— REGÊ ENGENHARIA"
+  },
+  "ctaSection": {
+    "badge": "PRONTO PARA COMEÇAR?",
+    "title": "Vamos construir",
+    "titleLine2": "o seu sonho juntos.",
+    "sub": "Entre em contato e receba uma proposta personalizada sem compromisso.",
+    "ctaText": "Falar com a Equipe",
+    "ctaUrl": "https://bitlybr.net/rege"
+  }
+}

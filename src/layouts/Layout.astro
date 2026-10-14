@@ -2,15 +2,17 @@
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import VisualEditorOverlay from '../components/admin/VisualEditorOverlay.astro';
 
 interface Props {
   title: string;
   description: string;
   showHeader?: boolean;
   showFooter?: boolean;
+  pageName?: string;
 }
 
-const { title, description, showHeader = true, showFooter = true } = Astro.props;
+const { title, description, showHeader = true, showFooter = true, pageName = 'home' } = Astro.props;
 ---
 
 <!doctype html>
@@ -97,5 +99,8 @@ const { title, description, showHeader = true, showFooter = true } = Astro.props
 
       document.addEventListener('DOMContentLoaded', setupReveal);
     </script>
+
+    <!-- Overlay Visual para Administradores -->
+    <VisualEditorOverlay pageName={pageName} />
   </body>
 </html>

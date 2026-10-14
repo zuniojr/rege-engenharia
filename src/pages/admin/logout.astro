@@ -1,11 +1,15 @@
 ---
 export const prerender = false;
 
+import { buildClearCookie } from '../../lib/admin/auth';
+
+const headers = new Headers();
+headers.append('Set-Cookie', 'rege_admin=; Path=/; HttpOnly; Max-Age=0');
+headers.append('Set-Cookie', buildClearCookie());
+headers.append('Location', '/admin');
+
 return new Response(null, {
   status: 302,
-  headers: {
-    'Set-Cookie': 'rege_admin=; Path=/; HttpOnly; Max-Age=0',
-    'Location': '/admin/blog',
-  },
+  headers,
 });
 ---
