@@ -25,10 +25,10 @@ if (Astro.request.method === 'POST') {
   }
 }
 
-const featuredPost = blogPosts.find(p => p.featured);
-const gridPosts = blogPosts.filter(p => !p.featured);
+const featuredPost = blogPosts.find(p => p && p.featured);
+const gridPosts = blogPosts.filter(p => p && !p.featured);
 const delayClasses = ['', 'v2-reveal-delay-1', 'v2-reveal-delay-2'];
-const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
+const allTags = Array.from(new Set(blogPosts.map(p => p?.tag).filter(Boolean)));
 ---
 
 <!DOCTYPE html>
@@ -136,7 +136,7 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
       <div class="v2-container">
 
         {featuredPost && (
-          <div class="admin-post-wrapper admin-post-featured" data-title={featuredPost.title.toLowerCase()} data-slug={featuredPost.slug} data-tag={featuredPost.tag}>
+          <div class="admin-post-wrapper admin-post-featured" data-title={(featuredPost.title || featuredPost.slug || '').toLowerCase()} data-slug={featuredPost.slug || ''} data-tag={featuredPost.tag || ''}>
             <div class="admin-card-actions">
               <a
                 href={`/blog/${featuredPost.slug}`}
@@ -159,15 +159,15 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
             </div>
             <div class="blog-featured-post v2-reveal">
               <div class="blog-featured-img">
-                <img src={featuredPost.image} alt={featuredPost.imageAlt} />
+                <img src={featuredPost.image || '/images/hero-rege.avif'} alt={featuredPost.imageAlt || featuredPost.title || ''} />
               </div>
               <div class="blog-featured-text">
                 <div class="blog-post-meta">
-                  <span class="blog-post-tag">{featuredPost.tag}</span>
+                  <span class="blog-post-tag">{featuredPost.tag || 'ENGENHARIA'}</span>
                   <span class="admin-featured-label">DESTAQUE</span>
                 </div>
-                <h2>{featuredPost.title}</h2>
-                <p class="blog-post-excerpt">{featuredPost.excerpt}</p>
+                <h2>{featuredPost.title || featuredPost.slug}</h2>
+                <p class="blog-post-excerpt">{featuredPost.excerpt || ''}</p>
                 <span class="blog-read-more">
                   <span>Ler Artigo Completo</span>
                   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
@@ -179,7 +179,7 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
 
         <div class="blog-grid" id="blog-grid">
           {gridPosts.map((post, i) => (
-            <div class={`admin-post-wrapper v2-reveal ${delayClasses[i % 3]}`} data-title={post.title.toLowerCase()} data-slug={post.slug} data-tag={post.tag}>
+            <div class={`admin-post-wrapper v2-reveal ${delayClasses[i % 3]}`} data-title={(post.title || post.slug || '').toLowerCase()} data-slug={post.slug || ''} data-tag={post.tag || ''}>
               <div class="admin-card-actions">
                 <a
                   href={`/blog/${post.slug}`}
@@ -202,14 +202,14 @@ const allTags = Array.from(new Set(blogPosts.map(p => p.tag).filter(Boolean)));
               </div>
               <div class="blog-card">
                 <div class="blog-card-img">
-                  <img src={post.image} alt={post.imageAlt} />
+                  <img src={post.image || '/images/hero-rege.avif'} alt={post.imageAlt || post.title || ''} />
                 </div>
                 <div class="blog-card-content">
                   <div class="blog-post-meta">
-                    <span class="blog-post-tag">{post.tag}</span>
+                    <span class="blog-post-tag">{post.tag || 'ENGENHARIA'}</span>
                   </div>
-                  <h3>{post.title}</h3>
-                  <p>{post.excerpt}</p>
+                  <h3>{post.title || post.slug}</h3>
+                  <p>{post.excerpt || ''}</p>
                   <span class="blog-card-link">Ler mais</span>
                 </div>
               </div>

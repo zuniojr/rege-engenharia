@@ -8,7 +8,7 @@ const isAuthenticated = isRequestAuthenticated(Astro.request);
 
 // Estatísticas
 const totalPosts = blogPosts.length;
-const featuredPost = blogPosts.find(p => p.featured);
+const featuredPost = blogPosts.find(p => p && p.featured);
 const recentPosts = blogPosts.slice(0, 6);
 
 // Páginas gerenciáveis
@@ -219,11 +219,11 @@ const pagesList = [
               {recentPosts.map(post => (
                 <tr>
                   <td>
-                    <strong>{post.title}</strong>
+                    <strong>{post.title || post.slug}</strong>
                     <div class="text-muted">{post.slug}</div>
                   </td>
-                  <td><span class="badge badge-tag">{post.tag}</span></td>
-                  <td>{post.readTime}</td>
+                  <td><span class="badge badge-tag">{post.tag || 'ENGENHARIA'}</span></td>
+                  <td>{post.readTime || ''}</td>
                   <td>
                     <a href={`/blog/${post.slug}`} target="_blank" class="btn-table-action">Visualizar Post</a>
                   </td>
